@@ -5,9 +5,14 @@ on:
     - cron: "0 * * * *" # run once an hour
 
 jobs:
-  auto-update:
+  Chaos-run:
     runs-on: ubuntu-latest
     steps:
+
+    - name: Install Git LFS
+      run: |
+        sudo apt-get install -y git-lfs
+        git lfs install
 
     - uses: actions/checkout@master
       with:
@@ -18,8 +23,15 @@ jobs:
         chmod +x data/chaos.sh
         bash data/chaos.sh
 
+    - name: Track large files
+      run: |
+        git lfs track "data/alltargets.txt"
+        git add .gitattributes
+        git add "data/alltargets.txt"
+        git commit -m "Add large targets file" || echo "No changes to commit"
+
     - name: Commit & Push changes
-      uses: actions-js/push@master
+      uses: ad-m/github-push-action@v0.6.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
