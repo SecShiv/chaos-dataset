@@ -13,29 +13,16 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Install Git LFS
-      run: |
-        sudo apt-get install -y git-lfs
-        git lfs install
-
     - name: Run chaos
       run: |
         chmod +x data/chaos.sh
         bash data/chaos.sh
-
-    - name: Track large files
-      run: |
-        if [ -f data/alltargets.txt ]; then
-          git lfs track "data/alltargets.txt"
-          git add .gitattributes
-          git add "data/alltargets.txt"
-          git commit -m "Add large targets file" || echo "No changes to commit"
-        fi
     
     - name: Commit & Push changes
       uses: ad-m/github-push-action@v0.6.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
+
 
 
