@@ -9,21 +9,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - uses: actions/checkout@master
+    - name: Install Git LFS
+      run: |
+        sudo apt-get install -y git-lfs
+        git lfs install
+
+    - uses: actions/checkout@v3
       with:
         fetch-depth: 0
+        lfs: true
 
     - name: Run chaos
       run: |
         chmod +x data/chaos.sh
         bash data/chaos.sh
-    
-    - name: Commit & Push changes
-      uses: actions-js/push@master
+
+    - name: Track large files
+      run: |
+        if [ -f data/alltargets.txt ]; then
+          git lfs track "data/alltargets.txt"
+          git add .gitattributes
+        fi
+
+    - name: Commit changes
+      run: |
+        git add .
+        git commit -m "Update Chaos dataset" || echo "No changes to commit"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
-
-
-
-
