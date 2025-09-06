@@ -19,10 +19,11 @@ jobs:
         bash data/chaos.sh
     
     - name: Commit & Push changes
-      uses: ad-m/github-push-action@v0.6.0
+      uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
+
 
 
 
