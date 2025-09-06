@@ -29,9 +29,10 @@ jobs:
     - name: Track large files
       run: |
         if [ -f data/alltargets.txt ]; then
-          git lfs track "data/alltargets.txt"
-          git add .gitattributes
-          git rm --cached data/alltargets.txt || true
+          if ! grep -q "data/alltargets.txt filter=lfs" .gitattributes 2>/dev/null; then
+            git lfs track "data/alltargets.txt"
+            git add .gitattributes
+          fi
           git add data/alltargets.txt
         fi
 
