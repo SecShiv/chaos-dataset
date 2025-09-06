@@ -22,13 +22,17 @@ jobs:
     - name: Run chaos
       run: |
         chmod +x data/chaos.sh
-        bash data/chaos.sh
+        cd data
+        ./chaos.sh
+        cd ..
 
     - name: Track large files
       run: |
         if [ -f data/alltargets.txt ]; then
           git lfs track "data/alltargets.txt"
           git add .gitattributes
+          git rm --cached data/alltargets.txt || true
+          git add data/alltargets.txt
         fi
 
     - name: Commit changes
