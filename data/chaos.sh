@@ -1,1 +1,0 @@
-rm -rf *.txt; wget "https://chaos-data.projectdiscovery.io/index.json" -O index.json; cat index.json | grep '"URL"' | sed 's/"URL": "//;s/",//' | while read host; do wget "$host"; done; for file in *.zip; do unzip "$file"; done; rm -rf *.zip *.zip.1; cat *.txt | sort -u >> alltargets.txt; rm -rf index.json
