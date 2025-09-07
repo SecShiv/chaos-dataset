@@ -15,6 +15,7 @@
 001-z4iortm5pi75ede5.jiangchentest.onprem.zoomdev.us
 001-z6fsgzojcd7lur3t.devzoomta.onprem.zoomdev.us
 001-zgi3tuje2etea3tp.devzoomta.onprem.zoomdev.us
+001-zoqvudhrmou26sbo.devzoomta.onprem.zoomdev.us
 001-zva2df7e2aimkddf.jiangchentest.onprem.zoomdev.us
 1-zbd3cigrgq6eovea.testnode.onprem.zoomdev.us
 1-zotquumiref6vsft.gh52bunktb2t.onprem.zoomdev.us
@@ -870,6 +871,7 @@ cube-clickhouse-1.zoomdev.us
 cube-clickhouse-2.zoomdev.us
 cube-config-int.zoomdev.us
 cube-config-main.zoomdev.us
+cube-duty.corp.zoomdev.us
 cube-gateway-demo.corp.zoomdev.us
 cube-gateway-main.corp.zoomdev.us
 cube-profiling.zoomdev.us
@@ -1163,6 +1165,8 @@ devaappsnws.zoomdev.us
 devaappsnws-i.zoomdev.us
 devaasync.zoomdev.us
 devaasyncim.zoomdev.us
+devaasyncim-oh.zoomdev.us
+devaasyncim-va.zoomdev.us
 devaavengers.zoomdev.us
 devabot.zoomdev.us
 devacaic.zoomdev.us
@@ -1244,6 +1248,7 @@ devava1-nws-billing-op.zoomdev.us
 devava1uiproxy.zoomdev.us
 devava2command.zoomdev.us
 devavacommand.zoomdev.us
+devavideocenter.zoomdev.us
 devaworkflow.zoomdev.us
 devaz1async.zoomdev.us
 devazdm.zoomdev.us
@@ -1712,6 +1717,7 @@ drive-oh1.zoomdev.us
 drive-va1.zoomdev.us
 ds-flink.bdp.cloud.zoomdev.us
 ds-flink.main.oh1.ai.cloud.zoomdev.us
+ds-flink.main.va1.ai.cloud.zoomdev.us
 ds-hms.bdp.cloud.zoomdev.us
 ds-hms.cloud.main-test.zoomdev.us
 ds-shs-usashburn1.cloud.zoomdev.us
@@ -2463,6 +2469,7 @@ integration-zoomrooms.zoomdev.us
 interopqa.zoomdev.us
 intfile-cf.zoomdev.us
 intmetadata.zoomdev.us
+intpartner-billing-va1.zoomdev.us
 intpreplan.zoomdev.us
 intuitive-acqa.acqa.zoomdev.us
 intuitive-asyncim.zoomdev.us
@@ -2802,8 +2809,10 @@ mailweb-acpoc.zoomdev.us
 mailweb-acspam081.zoomdev.us
 mailweb-acspam083.acqa.zoomdev.us
 mailweb.asynccommsa.zoomdev.us
+main-company-setup.zoomdev.us
 main-xmpp-eps.zoomdev.us
 mainaic-sn-bridge.zoomdev.us
+mainbilling-coupon.zoomdev.us
 maincommand.zoomdev.us
 maindcs.cloud.zoomdev.us
 mainhello-world-zcp.cloud.zoomdev.us
@@ -3428,6 +3437,7 @@ private-z5acm3dljh53mind.devzoomta.onprem.zoomdev.us
 private-z5afnuhhycfz6aob.63zfhx-onmicrosoft-com.onprem.zoomdev.us
 private-z5phxobvxe2k2l7j.devzoomta.onprem.zoomdev.us
 private-z6a3v5dqa5emxoh6.devzoomta.onprem.zoomdev.us
+private-z6ybda4zbb7mjq5d.devzoomta.onprem.zoomdev.us
 private-z76mmqliouwkf3wv.zoomnodem.onprem.zoomdev.us
 private-z7gxxly6jqro3ybk.63zfhx-onmicrosoft-com.onprem.zoomdev.us
 private-z7kqnnfwjvtzgz74.62gsbcjmpsis.onprem.zoomdev.us
@@ -3555,7 +3565,9 @@ private-zum3e6xmk2jqsj7f.lukedev.onprem.zoomdev.us
 private-zumeiw66dwl6nrnu.testnode.onprem.zoomdev.us
 private-zumh4j6bizopyqdp.kerndev.onprem.zoomdev.us
 private-zupuwvaydxj2aer3.kerndev.onprem.zoomdev.us
+private-zuq5xjjtt47axp2d.62gsbcjmpsis.onprem.zoomdev.us
 private-zusve4k72lkbgkav.lukedev.onprem.zoomdev.us
+private-zvbh3xjxqmjjy2wt.62gsbcjmpsis.onprem.zoomdev.us
 private-zvctz42kokpib7ew.2pz7zk7mzphm.onprem.zoomdev.us
 private-zvgwxofaztwkkige.devzoomta.onprem.zoomdev.us
 private-zvkdzubm5ifrru35.63zfhx-onmicrosoft-com.onprem.zoomdev.us
@@ -3784,6 +3796,7 @@ public-zduswgfgbtae77fe.devzoomta.onprem.zoomdev.us
 public-zetzypydu6xl6krs.yao.onprem.zoomdev.us
 public-zfgrypzrkpxlicch.devzoomta.onprem.zoomdev.us
 public-zfqsa6iwwdjs6pki.devzoomta.onprem.zoomdev.us
+public-zfwagwsfqb4ldw6k.devzoomta.onprem.zoomdev.us
 public-zgc3zwkoelq5hqim.2pz7zk7mzphm.onprem.zoomdev.us
 public-zhphykuymkldlw6b.gh52bunktb2t.onprem.zoomdev.us
 public-zjm23dalfiuzn3qa.devzoomta.onprem.zoomdev.us
@@ -3798,6 +3811,7 @@ public-zuhz3e7n5f3pvyml.devzoomta.onprem.zoomdev.us
 public-zv5u2udulzs5pq5f.lukedev.onprem.zoomdev.us
 public-zvp6euiwcdg5kpqm.devzoomta.onprem.zoomdev.us
 public-zvqmpvnurwo45g5e.2pz7zk7mzphm.onprem.zoomdev.us
+public-zvqtvgvmyfijgt4h.devzoomta.onprem.zoomdev.us
 public-zwkmfrbdwwxfdbjp.devzoomta.onprem.zoomdev.us
 public-zwqx6qesakfpk4gs.2pz7zk7mzphm.onprem.zoomdev.us
 public-zy7cqnke5rtvdq7i.yao.onprem.zoomdev.us
@@ -4225,9 +4239,12 @@ rsvd-z22jctet3v4jzx7x.xanf76pznwmp.onprem.zoomdev.us
 rsvd-z2jelb4vzfeynybc.mgou5v2orjh2.onprem.zoomdev.us
 rsvd-z2nid2waqb3r6ayz.m6e34s6ivnui.onprem.zoomdev.us
 rsvd-z33si2ibvzx74ngb.2pz7zk7mzphm.onprem.zoomdev.us
+rsvd-z353gzii6f3g5xvx.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-z35knc5woroxt3dp.2pz7zk7mzphm.onprem.zoomdev.us
+rsvd-z35vijgtr54et6op.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-z36eo7oj6t2dmb2x.qwos5thwbrzk.onprem.zoomdev.us
 rsvd-z3a5vai734reodn7.gh52bunktb2t.onprem.zoomdev.us
+rsvd-z3bywm2bi3fmnp6f.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-z3eg4nm2vfjrd7ib.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-z3oq4vehgnsyn6lx.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-z3p6c4252pp6lta5.gh52bunktb2t.onprem.zoomdev.us
@@ -4237,6 +4254,7 @@ rsvd-z3teyvnv7u2f5p34.xanf76pznwmp.onprem.zoomdev.us
 rsvd-z3ulasqjxfe5ordb.zgpkl6uipkvn.onprem.zoomdev.us
 rsvd-z44hhat3gsip2wwh.ykvtsubwlpju.onprem.zoomdev.us
 rsvd-z45gaers4bqac7tx.zgpkl6uipkvn.onprem.zoomdev.us
+rsvd-z4cam323g5gg3njs.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-z4qxa5hnnh3eab53.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-z4u4nrl3micfovgt.mgou5v2orjh2.onprem.zoomdev.us
 rsvd-z4xanqiput47jhsj.2pz7zk7mzphm.onprem.zoomdev.us
@@ -4266,6 +4284,7 @@ rsvd-zadtfcva4q3bzhh7.qwos5thwbrzk.onprem.zoomdev.us
 rsvd-zafxwiulh2womak4.qwos5thwbrzk.onprem.zoomdev.us
 rsvd-zajvrc5vzuqm535u.qwos5thwbrzk.onprem.zoomdev.us
 rsvd-zaniqnhyywyfbc27.zgpkl6uipkvn.onprem.zoomdev.us
+rsvd-zar35azhl2rmx32m.62gsbcjmpsis.onprem.zoomdev.us
 rsvd-zarkdecndxmitrq2.m6e34s6ivnui.onprem.zoomdev.us
 rsvd-zauyyy63glkp2wpe.xanf76pznwmp.onprem.zoomdev.us
 rsvd-zavrmbcc6qg7qlqp.2pz7zk7mzphm.onprem.zoomdev.us
@@ -4374,6 +4393,7 @@ rsvd-zm6ehfm7kehl66hz.gh52bunktb2t.onprem.zoomdev.us
 rsvd-zm6twk2mqnt6ox5d.xanf76pznwmp.onprem.zoomdev.us
 rsvd-zm6znwxynya4zg3o.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-zmboys3dyjhnxnby.qwos5thwbrzk.onprem.zoomdev.us
+rsvd-zml5u4tibzod3stj.62gsbcjmpsis.onprem.zoomdev.us
 rsvd-zmnqtbirkxysxqqp.gh52bunktb2t.onprem.zoomdev.us
 rsvd-zmvemvfzziedb63w.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-zmxuelamw6f6aorw.mgou5v2orjh2.onprem.zoomdev.us
@@ -4934,6 +4954,7 @@ test1-z24bggpmbtgcydey.lukedev.onprem.zoomdev.us
 test111.servicesportal.zoomdev.us
 test123.servicesportal.zoomdev.us
 test2.rgw2.zoomdev.us
+test222.zoomdev.us
 test3.rgw2.zoomdev.us
 testdevmp.zoomdev.us
 teste2e-01-internal.sandbox-vault.zoomdev.us
@@ -5519,3 +5540,5 @@ zworkspace.zoomdev.us
 zworkspace.acqa.zoomdev.us
 zworkspace.dogfood.zoomdev.us
 zyanydympcrkkydrhfzk.testing-vault.zoomdev.us
+zygkzszjufxdpvotndwu.testing-vault.zoomdev.us
+zyxjjfyanagmxnjmvhmd.testing-vault.zoomdev.us

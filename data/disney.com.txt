@@ -5122,6 +5122,8 @@ core1-tda-pa.dlr.attractions.disney.com
 coreapi-support-internal.wdprapps.disney.com
 corecashless.wdw.disney.com
 coreiwms-budget.wdw.disney.com
+coreiwms-proc.wdw.disney.com
+coreiwms-proc2.wdw.disney.com
 coreiwms-scenario.wdw.disney.com
 coreiwms.wdw.disney.com
 coreiwmsdev.wdw.disney.com
@@ -8133,6 +8135,7 @@ dcpinow.sdse.disney.com
 dcpisharethejoy.disney.com
 dcpjarvis.wdprapps.disney.com
 dcpjarvisqa.wdprapps.disney.com
+dcpjarvisqa2.wdprapps.disney.com
 dcpjenkins.disney.com
 dcpjenkins.wdprapps.disney.com
 dcpjira.disney.com
@@ -22569,6 +22572,7 @@ lilypad-dev.disney.com
 lilypad-qa.disney.com
 lime-st-vpn.wdw.attractions.disney.com
 lime0-st-pa.wdw.attractions.disney.com
+linux.rolebuilder.ebs.disney.com
 listservice.wdprapps.disney.com
 live.latest.hawkeye-media.wdprapps.disney.com
 live.prod.hawkeye-media.wdprapps.disney.com
@@ -31618,6 +31622,7 @@ roambi-spp.disney.com
 roambi-spp-stage.disney.com
 robotics-api.wdprapps.disney.com
 robotics-wdw.wdprapps.disney.com
+rolebuilder.ebs.disney.com
 roll.fas.fa.disney.com
 rolldev.fas.fa.disney.com
 room-access-reporting.wdprapps.disney.com
@@ -35430,6 +35435,11 @@ stage.dnxcastvas.dlr.eks.wdprapps.disney.com
 stage.dnxcastvas.wdw.eks.wdprapps.disney.com
 stage.dnxcomsvc-svc-wdw.wdprapps.disney.com
 stage.dnxcomsvc.dlr.use1.eks.wdprapps.disney.com
+stage.dnxcomsvc.f1.dlr.use1.eks.wdprapps.disney.com
+stage.dnxcomsvc.f1.wdw.use1.eks.wdprapps.disney.com
+stage.dnxcomsvc.f2.dlr.use1.eks.wdprapps.disney.com
+stage.dnxcomsvc.f2.wdw.use1.eks.wdprapps.disney.com
+stage.dnxcomsvc.f3.dlr.use1.eks.wdprapps.disney.com
 stage.dnxcomsvc.wdw.use1.eks.wdprapps.disney.com
 stage.dnxnfsvc.dlr.use1.eks.wdprapps.disney.com
 stage.dnxnfsvc.wdw.use1.eks.wdprapps.disney.com
@@ -39669,7 +39679,10 @@ thycotic.swna.wdpr.disney.com
 tickerator.wdprapps.disney.com
 tickers.data.disney.com
 tickers.playdom.data.disney.com
+ticket-shop-api.clone-4.usw2.ee-dev.wdprapps.disney.com
+ticket-shop-api.pr-219.usw2.ee-dev.wdprapps.disney.com
 ticket-shop-api.pr-221.usw2.ee-dev.wdprapps.disney.com
+ticket-shop-ui.pr-136.usw2.ee-dev.wdprapps.disney.com
 ticket-shop-ui.pr-144.usw2.ee-dev.wdprapps.disney.com
 ticket-uad-dlr.wdprapps.disney.com
 ticketbooth.wdi.disney.com
@@ -41380,6 +41393,7 @@ use1lsn01.edp.disney.com
 use1pd101.sapilm.disney.com
 use1prdetlbatch.ebs.disney.com
 use1priqdb01.sapilm.disney.com
+use1qacdi.ebs.disney.com
 use1qp1db01.sapilm.disney.com
 use1sb1iqdb01.sapilm.disney.com
 use1sdvapp01.edp.disney.com
@@ -45386,7 +45400,3 @@ zonal-dev-az.media.disney.com
 zonal-qa-az.media.disney.com
 zonal-stg-az.media.disney.com
 zookeeper-stage.wdw.disney.com
-zookeeper.ams.disney.com
-zookeeper.ams-dev.disney.com
-zookeeper.ams-qa.disney.com
-ztp.studio.disney.com

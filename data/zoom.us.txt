@@ -76257,6 +76257,7 @@ asr-adaptor-eu-central-1.cloud.zoom.us
 asr-adaptor-go-colo-iad-1.cloud.zoom.us
 asr-adaptor-go.cloud.zoom.us
 asr-adaptor-us-east-2.cloud.zoom.us
+asr-adaptor-us04-us-east-1.cloud.zoom.us
 asradaptor-dg01-aws-us-east-2.cloud.zoom.us
 asradaptor-kites-oke-gatewaydev.zoom.us
 asradaptor-mx01-oke-queratero-1.cloud.zoom.us
@@ -76296,6 +76297,7 @@ asyncmq-gateway-go-va1.zoom.us
 asyncmq-gateway-go-va1-allow.zoom.us
 asyncmq-gateway-oh1.zoom.us
 asyncmq-gateway-oh1-allow.zoom.us
+asyncmq-gateway-sa01-jed1-allow.zoom.us
 asyncmq-gateway-sg01-va1-allow.zoom.us
 asyncmq-gateway-sg01-va2-allow.zoom.us
 asyncmq-gateway-va1.zoom.us
@@ -76499,6 +76501,7 @@ au01docs-internal-va1.zoom.us
 au01docs-internal-va2.zoom.us
 au01docs-va1.zoom.us
 au01docs-va2.zoom.us
+au01docsd-d.zoom.us
 au01drive.zoom.us
 au01file.zoom.us
 au01file-ia.zoom.us
@@ -76994,7 +76997,9 @@ aw1-ai-iad1-internal.zoom.us
 aw1-ai-iad1-internal-i.zoom.us
 aw1-ai-mejeddah1.zoom.us
 aw1-ai-mejeddah1-internal.zoom.us
+aw1-ai-meriyadh1.zoom.us
 aw1-ai-meriyadh1-i.zoom.us
+aw1-ai-meriyadh1-internal.zoom.us
 aw1-ai-meriyadh1-internal-i.zoom.us
 aw1-ai-mxqueretaro1.zoom.us
 aw1-ai-mxqueretaro1-i.zoom.us
@@ -77431,6 +77436,7 @@ ca01docs-internal-va1.zoom.us
 ca01docs-internal-va2.zoom.us
 ca01docs-va1.zoom.us
 ca01docs-va2.zoom.us
+ca01docsd-d.zoom.us
 ca01drive.zoom.us
 ca01file.zoom.us
 ca01file-ia.zoom.us
@@ -78855,12 +78861,16 @@ dg01-ai-va1-internal-i.zoom.us
 dg01-billingnws.zoom.us
 dg01-default-xmpprpc.zoom.us
 dg01-in-meeting-store.zoom.us
+dg01-infra.zoom.us
+dg01-infra-oh1.zoom.us
+dg01-infra-va1.zoom.us
 dg01-nws-billing-op.zoom.us
 dg01-nws-mongodb-va-01.zoom.us
 dg01-nws-mongodb-va-02.zoom.us
 dg01-nws-mongodb-va-03.zoom.us
 dg01-s2-xmpprpc.zoom.us
 dg01-web.zoom.us
+dg01-web-1.zoom.us
 dg01-web-i.zoom.us
 dg01-web-oh1.zoom.us
 dg01-web-oh1-i.zoom.us
@@ -78887,6 +78897,7 @@ dg01caic.zoom.us
 dg01command.zoom.us
 dg01commonconsumer.zoom.us
 dg01commonconsumer-oh1.zoom.us
+dg01connectors.zoom.us
 dg01contactservice.zoom.us
 dg01contactservice-va.zoom.us
 dg01contactservice-va-internal.zoom.us
@@ -78942,7 +78953,9 @@ dg01logfiles.zoom.us
 dg01mdcpp.zoom.us
 dg01mws.zoom.us
 dg01nws.zoom.us
+dg01nws-platform.zoom.us
 dg01nws-va1.zoom.us
+dg01nwsd-d.zoom.us
 dg01ocs.zoom.us
 dg01ocs-va.zoom.us
 dg01ocs-va2.zoom.us
@@ -79151,6 +79164,8 @@ dg01xmppgateway-wss.zoom.us
 dg01xmppwss.zoom.us
 dg01xmppwsswebinar.zoom.us
 dg01zayoutube.zoom.us
+dg01zayoutube-internal.zoom.us
+dg01zayoutube-va1.zoom.us
 dg01zdm-prov.zoom.us
 dg01zoomclips.zoom.us
 dg01zpns.zoom.us
@@ -79586,6 +79601,9 @@ eu01-xmpp-va1-i.zoom.us
 eu01-xmpp-va1-internal.zoom.us
 eu01-xmpp-va1-internal-i.zoom.us
 eu01-zcb.zoom.us
+eu01-ze-zcp.zoom.us
+eu01-ze-zcp-va1.zoom.us
+eu01-ze-zcp-va2.zoom.us
 eu01ai-enginewfm.zoom.us
 eu01ai-enginewfm-va.zoom.us
 eu01ai3lb.zoom.us
@@ -80252,6 +80270,7 @@ eu02-web.zoom.us
 eu02-web-va1.zoom.us
 eu02-web-va1-internal.zoom.us
 eu02-websrv-data-reconcile.zoom.us
+eu02-ze-zcp-va1.zoom.us
 eu02alertpbx.zoom.us
 eu02applications.zoom.us
 eu02ark.zoom.us
@@ -80288,6 +80307,7 @@ eu02emailgateway.zoom.us
 eu02events.zoom.us
 eu02events-api.zoom.us
 eu02events-branding.zoom.us
+eu02events-presence.zoom.us
 eu02eventssingle.zoom.us
 eu02eventsws.zoom.us
 eu02file.zoom.us
@@ -81563,6 +81583,8 @@ gomqttws-hash-va2.zoom.us
 gomqttws-oh1.zoom.us
 gomqttws-va1.zoom.us
 gomqttws-va2.zoom.us
+gomqttws-zdm.zoom.us
+gomqttws-zdm-va1.zoom.us
 gomws.zoom.us
 gonacos.zoom.us
 gonapps.zoom.us
@@ -83816,6 +83838,7 @@ ht-tunnel-sp-br-14.cloud.zoom.us
 ht-tunnel-va-us-23.cloud.zoom.us
 huawei.zoom.us
 huawei100.hybridmeeting.zoom.us
+hub.zoom.us
 huddlecare.zoom.us
 huddles.zoom.us
 huddles-go.zoom.us
@@ -85992,6 +86015,8 @@ nws-au01-internal1.zoom.us
 nws-au01-internal2.zoom.us
 nws-ca01-internal2.zoom.us
 nws-dev.dev.tsse.sec.corp.zoom.us
+nws-dg01-internal1.zoom.us
+nws-dg01-internal2.zoom.us
 nws-eu01-internal1.zoom.us
 nws-eu01-internal2.zoom.us
 nws-eu02-internal1.zoom.us
@@ -86520,10 +86545,14 @@ prod-colo-go-iad1.ai.cloud.zoom.us
 prod-colo-go-sjc1-i.ai.cloud.zoom.us
 prod-colo-go-sjc1.ai.cloud.zoom.us
 prod-oci-aw1-mejeddah1.ai.cloud.zoom.us
+prod-oci-aw1-meriyadh1-i.ai.cloud.zoom.us
+prod-oci-aw1-meriyadh1.ai.cloud.zoom.us
 prod-oci-aw1-mxqueretaro1-i.ai.cloud.zoom.us
 prod-oci-aw1-mxqueretaro1.ai.cloud.zoom.us
 prod-oci-aw1-usashburn1-i.ai.cloud.zoom.us
 prod-oci-aw1-usashburn1.ai.cloud.zoom.us
+prod-oci-sa01-main-jed1.zoom.us
+prod-oci-sa01-main-ruh1.zoom.us
 prodigygame.zoom.us
 profile.zoom.us
 profilecard-go.zoom.us
@@ -87130,6 +87159,9 @@ sa01-web-va1.zoom.us
 sa01-web-va1-i.zoom.us
 sa01-web-va1-internal.zoom.us
 sa01-web-va1-internal-i.zoom.us
+sa01-ze-zcp.zoom.us
+sa01-ze-zcp-oh1.zoom.us
+sa01-ze-zcp-va1.zoom.us
 sa01aizva.zoom.us
 sa01alertmanager.zoom.us
 sa01apizva.zoom.us
@@ -88610,6 +88642,7 @@ tnc.zoom.us
 tnsml-sid.zoom.us
 toadkk-co-jp.zoom.us
 tom-go.zoom.us
+tom-us05.zoom.us
 tomapi.zoom.us
 tomchenault.zoom.us
 tomferry.zoom.us
@@ -89117,6 +89150,7 @@ us01-xmpp-va1-internal.zoom.us
 us01-zcb.zoom.us
 us01-ze-ingress-api.zoom.us
 us01-ze-zcp.zoom.us
+us01-ze-zcp-oh1.zoom.us
 us01-zoap-mas.zoom.us
 us01aizva.zoom.us
 us01aizva-va.zoom.us
@@ -89359,6 +89393,7 @@ us01docs-internal-oh1.zoom.us
 us01docs-internal-va1.zoom.us
 us01docs-oh1.zoom.us
 us01docs-va1.zoom.us
+us01docsd-d.zoom.us
 us01drive.zoom.us
 us01dvpbxotter.ny.zoom.us
 us01filepicker.zoom.us
@@ -94261,6 +94296,7 @@ us04docs-internal-oh1.zoom.us
 us04docs-internal-va1.zoom.us
 us04docs-oh1.zoom.us
 us04docs-va1.zoom.us
+us04docsd-d.zoom.us
 us04drive.zoom.us
 us04file.zoom.us
 us04file-ia.zoom.us
@@ -94358,6 +94394,8 @@ us04wsgateway-va2.zoom.us
 us04www3.zoom.us
 us04xaig.zoom.us
 us04xaig-nlb.zoom.us
+us04xaig-oh1.zoom.us
+us04xaig-va1.zoom.us
 us04xhts.zoom.us
 us04xmpp.zoom.us
 us04xmpp-ngxsrv1.zoom.us
@@ -94943,6 +94981,8 @@ us08ccivoice01.nrt.zoom.us
 us08ccivoice01.sin.zoom.us
 us08ccivoice01.sjc.zoom.us
 us08file-cf.zoom.us
+us08wfmop.zoom.us
+us08wfmopapi.zoom.us
 us29.postls.cs03st3.zoom.us
 usahockey.zoom.us
 usb.zoom.us
@@ -110345,5 +110385,3 @@ zwebmail.asynccommeu.zoom.us
 zwebmail.asynccommgo.zoom.us
 zworkspace.asynccomm.zoom.us
 zworkspace.asynccommau.zoom.us
-zworkspace.asynccommeu.zoom.us
-zworkspace.asynccommgo.zoom.us

@@ -312,6 +312,7 @@ account-stage.mongodb.com
 accounts.mongodb.com
 accounts-monitor.corp.mongodb.com
 accounts.corp.mongodb.com
+accounts.deet.prod.corp.mongodb.com
 acme-test-1.test.corp.mongodb.com
 acme.test.corp.mongodb.com
 adaptive.corp.mongodb.com
@@ -614,6 +615,7 @@ compass.mongodb.com
 compass-maps.mongodb.com
 competitive.prod.corp.mongodb.com
 competitive.staging.corp.mongodb.com
+connect.deet.staging.corp.mongodb.com
 console.devprod-platform.staging.corp.mongodb.com
 console.temporal.staging.corp.mongodb.com
 content.mongodb.com
@@ -948,8 +950,10 @@ global.stitch-staging.ga.aws.cloud.mongodb.com
 go.mongodb.com
 godoc.corp.mongodb.com
 grafana-healthcheck.corp.mongodb.com
+grafana-staging.helix.corp.mongodb.com
 grafana.corp.mongodb.com
 grafana.devprod-infra.prod.corp.mongodb.com
+grafana.helix.corp.mongodb.com
 grafana.prod.corp.mongodb.com
 grc.prod.corp.mongodb.com
 grc.staging.corp.mongodb.com
@@ -1045,6 +1049,7 @@ incidentlog.skunkworks.staging.corp.mongodb.com
 info.mongodb.com
 infosec-resource-mgmt.prod.corp.mongodb.com
 infosec-resource-mgmt.staging.corp.mongodb.com
+infosec-workflow-scanner.prod.corp.mongodb.com
 infosec-workflow-scanner.staging.corp.mongodb.com
 infosec.prod.corp.mongodb.com
 infosec.staging.corp.mongodb.com
@@ -1192,6 +1197,7 @@ my-app.deet.staging.corp.mongodb.com
 my-app.devops.test.corp.mongodb.com
 my-app.devprod-platform.staging.corp.mongodb.com
 my-app.education.staging.corp.mongodb.com
+my-app.infosec.staging.corp.mongodb.com
 my-app.sa-demo.staging.corp.mongodb.com
 my-test-app.infosec.staging.corp.mongodb.com
 my-zendesk-tickets-backend.css.staging.corp.mongodb.com

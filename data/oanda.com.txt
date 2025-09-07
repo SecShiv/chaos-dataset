@@ -498,9 +498,11 @@ kyverno-reporter.k8s-stg-usc1.s.gcp.oanda.com
 kyverno-reporter.k8s-uat-asne1.u.gcp.oanda.com
 kyverno-reporter.k8s-uat-euw3.u.gcp.oanda.com
 kyverno-reporter.k8s-uat-usc1.u.gcp.oanda.com
+lab-education-jp.k8s-stg-asne1.s.gcp.oanda.com
 labs-api.oanda.com
 labs-books-ingester.k8s-prd-use4.p.gcp.oanda.com
 labs-books-ingester.k8s-stg-usc1.s.gcp.oanda.com
+labs-feeds-storage-cloud.k8s-uat-usc1.u.gcp.oanda.com
 labs-financing-rates-api.k8s-uat-usc1.gcp.oanda.com
 labs-fuzzysearch.k8s-uat-usc1.gcp.oanda.com
 labs-fuzzysearch.k8s-uat-usc1.u.gcp.oanda.com
@@ -1502,6 +1504,8 @@ web-sfa-flask00-live.oanda-uat-web-cluster-1.gcp.oanda.com
 webmt5-aulive-1.oanda.com
 webmt5-demo-1.oanda.com
 webmt5-live-1.oanda.com
+webmt5-sgdemo-1.oanda.com
+webmt5-sglive-1.oanda.com
 webmt5-ukdemo-1.oanda.com
 website.k8s-prod-use4.p.gcp.oanda.com
 website.k8s-stg-usc1.s.gcp.oanda.com

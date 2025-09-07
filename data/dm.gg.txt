@@ -19,6 +19,7 @@ ci-prod.dm.gg
 ci-test.dm.gg
 cms.dm.gg
 core-flipper-matcher-us-east-2.k8s.dm.gg
+core-like-ix7.k8s.dm.gg
 d.dm.gg
 dashboards.dm.gg
 data-adtech-serving-api-ap-south-1.k8s.dm.gg
@@ -78,7 +79,9 @@ jump.dm.gg
 kibana-graphql.dm.gg
 kube.dm.gg
 legal.cms.dm.gg
+leo-context-segment-grpc-prod-aws-eu-west-1.k8s.dm.gg
 leo-metadata-api-grpc-dc3.k8s.dm.gg
+leo-metadata-api-grpc-ix7.k8s.dm.gg
 leo-metadata-api-grpc-prod-aws-ap-south-1.k8s.dm.gg
 leo-metadata-api-grpc-prod-aws-us-east-2.k8s.dm.gg
 leo-metadata-api-grpc-prod-aws-us-west-2.k8s.dm.gg
@@ -158,7 +161,3 @@ webed-01.dm.gg
 webed-02.dm.gg
 webed-03.dm.gg
 webed-04.dm.gg
-webed-05.dm.gg
-webed-06.dm.gg
-webed.dev.dm.gg
-webed.stg.dm.gg

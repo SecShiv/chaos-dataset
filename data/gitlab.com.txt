@@ -13,6 +13,8 @@
 *.runway.gitlab.com
 *.staging.gitlab.com
 *.staging-ref.gitlab.com
+*.usagestats.gitlab.com
+*.usagestats.staging.gitlab.com
 2670515-review-enable-aut-a96d5t.cust-staging.gitlab.com
 4456656-review-1107-add-e-53243j.design-staging.gitlab.com
 4456656-review-1179-toggl-8ctzom.design-staging.gitlab.com
@@ -350,6 +352,7 @@ cdn.registry.gitlab.com
 cdn.registry.pre.gitlab.com
 cdn.registry.staging.gitlab.com
 ce.gitlab.com
+cell-c01j2gdw0zfdafxr6.cells.gitlab.com
 centos-test.gitlab.com
 cert-test.staging.gitlab.com
 chat.gitlab.com
@@ -536,6 +539,8 @@ triage-ops.gitlab.com
 triage-serverless.gitlab.com
 trust.gitlab.com
 university.gitlab.com
+usagestats.gitlab.com
+usagestats.staging.gitlab.com
 version.gitlab.com
 www.gitlab.com
 www.about.gitlab.com

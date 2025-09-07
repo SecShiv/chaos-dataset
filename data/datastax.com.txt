@@ -36,6 +36,7 @@
 *.db.astra-test.datastax.com
 *.gcp-europe-west3.streaming.datastax.com
 *.gcp-europe-west4.dev.streaming.datastax.com
+*.klarna-prod-aws-ap-southeast-2.streaming.datastax.com
 *.klarna-prod-aws-eu-west-1.streaming.datastax.com
 *.luna.feat.cloud.datastax.com
 *.mb-nonprod-gcp-ause1.streaming.datastax.com
@@ -1589,6 +1590,8 @@ rabbitmq-ds-uat-aws-useast2.private.staging.streaming.datastax.com
 rabbitmq-ds-uat-aws-useast2.staging.streaming.datastax.com
 rabbitmq-gcp-australiase1.private.streaming.datastax.com
 rabbitmq-gcp-australiase1.streaming.datastax.com
+rabbitmq-gcp-europe-west3.private.streaming.datastax.com
+rabbitmq-gcp-europe-west3.streaming.datastax.com
 rabbitmq-gcp-europe-west4.dev.streaming.datastax.com
 rabbitmq-gcp-europe-west4.private.dev.streaming.datastax.com
 rabbitmq-gcp-europewest1.private.streaming.datastax.com
@@ -1615,6 +1618,8 @@ rabbitmq-kd-uat-aws-euwest2.private.streaming.datastax.com
 rabbitmq-kd-uat-aws-euwest2.streaming.datastax.com
 rabbitmq-kd-uat-aws-useast1.private.streaming.datastax.com
 rabbitmq-kd-uat-aws-useast1.streaming.datastax.com
+rabbitmq-klarna-prod-aws-ap-southeast-2.private.streaming.datastax.com
+rabbitmq-klarna-prod-aws-ap-southeast-2.streaming.datastax.com
 rabbitmq-koddidev-aws-euwest2.private.streaming.datastax.com
 rabbitmq-koddidev-aws-euwest2.streaming.datastax.com
 rabbitmq-mb-nonprod-gcp-ause1.private.streaming.datastax.com
@@ -1629,10 +1634,14 @@ rabbitmq.aws-ap-southeast-2.private.streaming.datastax.com
 rabbitmq.aws-ap-southeast-2.streaming.datastax.com
 rabbitmq.ds-dev-aws-ue2.dev.streaming.datastax.com
 rabbitmq.ds-dev-aws-ue2.private.dev.streaming.datastax.com
+rabbitmq.gcp-europe-west3.private.streaming.datastax.com
+rabbitmq.gcp-europe-west3.streaming.datastax.com
 rabbitmq.gcp-europe-west4.dev.streaming.datastax.com
 rabbitmq.gcp-europe-west4.private.dev.streaming.datastax.com
 rabbitmq.gcp-useast4.dev.streaming.datastax.com
 rabbitmq.gcp-useast4.private.dev.streaming.datastax.com
+rabbitmq.klarna-prod-aws-ap-southeast-2.private.streaming.datastax.com
+rabbitmq.klarna-prod-aws-ap-southeast-2.streaming.datastax.com
 rabbitmq.mb-nonprod-gcp-ause1.private.streaming.datastax.com
 rabbitmq.mb-nonprod-gcp-ause1.streaming.datastax.com
 regionalmaintenance.astra.datastax.com
@@ -1804,6 +1813,3 @@ www.datastax.com
 www-stage.datastax.com
 www.get.datastax.com
 xinjinjiangyulechang.security.datastax.com
-zalenium-internal.ingress.us-east-1.prod.tools.paas.datastax.com
-zalenium.cloud-tools.datastax.com
-zalenium.ingress.us-east-1.prod.tools.paas.datastax.com
