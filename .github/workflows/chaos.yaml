@@ -34,11 +34,14 @@ jobs:
           git show HEAD:data/alltargets.txt > data/old.txt
           cp data/alltargets.txt data/new.txt
 
+          if [ ! -s data/old.txt ] || [ ! -s data/new.txt ]; then
+            echo "One of the files is empty, skipping diff."
+            exit 0
+          fi
+
           # Normalize line endings (avoid false diffs)
-          sed 's/\r$//' data/old.txt > data/old_clean.txt
-          sed 's/\r$//' data/new.txt > data/new_clean.txt
-          mv data/old_clean.txt data/old.txt
-          mv data/new_clean.txt data/new.txt
+          sed -i 's/\r$//' data/old.txt
+          sed -i 's/\r$//' data/new.txt
 
           # Sort and compare
           sort data/old.txt > data/old_sorted.txt
@@ -76,11 +79,12 @@ jobs:
         fi
 
     - name: Upload full diff as artifact
-      if: success() && !cancelled()
+      if: success() && !cancelled() && hashFiles('/tmp/changes.txt') != ''
       uses: actions/upload-artifact@v4
       with:
         name: chaos-changes
         path: /tmp/changes.txt
+        retention-days: 7
 
     - name: Track large files
       run: |
