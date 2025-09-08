@@ -16,7 +16,7 @@ jobs:
 
     - uses: actions/checkout@v3
       with:
-        fetch-depth: 2
+        fetch-depth: 0
 
     - name: Run chaos
       run: |
@@ -35,51 +35,6 @@ jobs:
           git add data/alltargets.txt
         fi
 
-    - name: Generate diff for Discord (if updated)
-      run: |
-        if git diff --quiet HEAD -- data/alltargets.txt; then
-          echo "No changes in alltargets.txt, skipping Discord notification."
-        else
-          # Get previous version
-          git show HEAD:data/alltargets.txt > data/old.txt
-          cp data/alltargets.txt data/new.txt
-
-          # Sort and compare
-          sort data/old.txt > data/old_sorted.txt
-          sort data/new.txt > data/new_sorted.txt
-          rm -rf "data/old.txt" "data/new.txt"
-
-          # Added/removed lines
-          comm -13 "data/old_sorted.txt" "data/new_sorted.txt" > data/added.txt
-          comm -23 "data/old_sorted.txt" "data/new_sorted.txt" > data/removed.txt
-
-          # Save full changes
-          {
-            echo "**Added lines:**"
-            cat data/added.txt || true
-            echo
-            echo "**Removed lines:**"
-            cat data/removed.txt || true
-          } > changes.txt
-
-          # Create trimmed version for Discord
-          {
-            echo "**Added lines (first 40):**"
-            head -n 40 data/added.txt || true
-            echo
-            echo "**Removed lines (first 40):**"
-            head -n 40 data/removed.txt || true
-          } > data/changes_trimmed.txt
-
-          # Send to Discord
-          CONTENT=$(cat data/changes_trimmed.txt | sed 's/"/\\"/g' | head -c 1800)
-          curl -H "Content-Type: application/json" \
-          -d "{\"content\": \"${CONTENT}\"}" \
-          ${{ secrets.DISCORD_WEBHOOK }}
-
-          rm -rf data/changes_trimmed.txt
-        fi
-
     - name: Commit changes
       run: |
         git config --global user.name "github-actions[bot]"
@@ -92,3 +47,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
+
