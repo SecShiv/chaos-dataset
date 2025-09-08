@@ -13,6 +13,7 @@
 *.ingest.logscale.eu-1.crowdstrike.com
 *.ingest.logscale.us-1.crowdstrike.com
 *.ingest.logscale.us-2.crowdstrike.com
+*.ingest.oem-1.logscale.us-1.crowdstrike.com
 *.ingest.oem-2-1.logscale.us-2.crowdstrike.com
 *.ingest.oem-2-2.logscale.us-2.crowdstrike.com
 *.ingest.oem-2-preprod.logscale.eu-1.crowdstrike.com
@@ -224,6 +225,7 @@ ingest.laggar.gcw.crowdstrike.com
 ingest.logscale.eu-1.crowdstrike.com
 ingest.logscale.us-1.crowdstrike.com
 ingest.logscale.us-2.crowdstrike.com
+ingest.oem-1.logscale.us-1.crowdstrike.com
 ingest.oem-2-1.logscale.us-2.crowdstrike.com
 ingest.oem-2-2.logscale.us-2.crowdstrike.com
 ingest.oem-2-preprod.logscale.eu-1.crowdstrike.com
@@ -399,6 +401,3 @@ www.web-public.falcon.laggar.gcw.crowdstrike.com
 xdr-ingest.eu-1.crowdstrike.com
 xdr-ingest.us-1.crowdstrike.com
 xdr-ingest.us-2.crowdstrike.com
-yak.crowdstrike.com
-yakcontractors.crowdstrike.com
-yaktest.crowdstrike.com

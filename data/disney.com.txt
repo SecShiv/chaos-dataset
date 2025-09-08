@@ -159,10 +159,12 @@
 *.dev.music.studio.disney.com
 *.dev.nonprod.dtap.disney.com
 *.dev.pgt.ddsi.disney.com
+*.dev.playwright.ddsi.disney.com
 *.dev.rcu.ddsi.disney.com
 *.dev.test-domain.ddsi.disney.com
 *.dev.ucap.disney.com
 *.dev.wdw.pym.ddsi.disney.com
+*.dev.workfusion.ebs.disney.com
 *.dewey-mc-nonprod.studio.disney.com
 *.dfs.disney.com
 *.digital-scheduling.ddsi.disney.com
@@ -629,6 +631,7 @@
 *.pixie.stage.attractions.wdprapps.disney.com
 *.platform-services-external-nonprod.studio.disney.com
 *.playground.tron.disney.com
+*.playwright.ddsi.disney.com
 *.pmet-nonprod.studio.disney.com
 *.pmet.studio.disney.com
 *.poc.ais.ddsi.disney.com
@@ -677,6 +680,7 @@
 *.qa.mam.mediaeng.disney.com
 *.qa.nonprod.dtap.disney.com
 *.qa.pgt.ddsi.disney.com
+*.qa.playwright.ddsi.disney.com
 *.qa.recognition.disney.com
 *.qa.rostr.disney.com
 *.qa.twdcevents.disney.com
@@ -842,6 +846,7 @@
 *.uat.dlr.pym.ddsi.disney.com
 *.uat.fake-app.ddsi.disney.com
 *.uat.pgt.ddsi.disney.com
+*.uat.playwright.ddsi.disney.com
 *.uat.rcu.ddsi.disney.com
 *.uat.test-domain.ddsi.disney.com
 *.uat.vfs.ddsi.disney.com
@@ -1613,6 +1618,7 @@ adventure.timestone.dcl.wdpr.disney.com
 adventure.vision.dcl.wdpr.disney.com
 adventure.vmtm.dcl.wdpr.disney.com
 adventure.voyage.dcl.wdpr.disney.com
+adventure.youth-activities.dcl.wdpr.disney.com
 advisor-auto1.traffic.corp.disney.com
 advisor-auto2.traffic.corp.disney.com
 advisor-components.corp.disney.com
@@ -8330,6 +8336,7 @@ destiny.minio.dcl.wdpr.disney.com
 destiny.play.dcl.wdpr.disney.com
 destiny.rancher.dcl.wdpr.disney.com
 destiny.smartpipe.dcl.wdpr.disney.com
+destiny.youth-activities.dcl.wdpr.disney.com
 det.platform.engineering.test.disney.com
 detapps.disney.com
 dev-10026.violet.gpt.disney.com
@@ -17233,6 +17240,7 @@ latest-sonar.sonar.cicd.wdprapps.disney.com
 latest-sonar.sonar2.cicd.wdprapps.disney.com
 latest-sonar.sonar2test.cicd.wdprapps.disney.com
 latest-sonar4.cicd.wdprapps.disney.com
+latest-tableau-wb.wdprapps.disney.com
 latest-tbx-api-cart-dlr.wdprapps.disney.com
 latest-tbx-api-shop-dlr.wdprapps.disney.com
 latest-tbx-avail-dlr.wdprapps.disney.com
@@ -18732,6 +18740,7 @@ latest.dlr-photopass-ecp.wdprapps.disney.com
 latest.dlr-photopass-webapi.wdprapps.disney.com
 latest.dlr-photopass-webui.wdprapps.disney.com
 latest.dlr-pms-fulfill-charge-svc.wdprapps.disney.com
+latest.dlr-rdsi-d-api.wdprapps.disney.com
 latest.dlr-rdsi-rmq.wdprapps.disney.com
 latest.dlr-resort-cancel.wdprapps.disney.com
 latest.dlr-roo.wdprapps.disney.com
@@ -29843,6 +29852,7 @@ playmation.disney.com
 playoutgateway.disney.com
 playplatform.disney.com
 playtest.disney.com
+playwright.ddsi.disney.com
 plm.swna.wdpr.disney.com
 plnckapv0001.swna.wdpr.disney.com
 plnckdsv0004.idmzswna.idmz.disney.com
@@ -38172,6 +38182,7 @@ stage1.hkdl-reservation-api.wdprapps.disney.com
 stage1.hkdl-reservation-sch.wdprapps.disney.com
 stage1.hkdl-ticketingsystem-api.wdprapps.disney.com
 stage1.ultracts.studio.disney.com
+stage2-dcl-caap-order.wdprapps.disney.com
 stage2-dcl-caap.wdprapps.disney.com
 stage2-dcl-ressvc.wdprapps.disney.com
 stage2managementte.dlr.wdprapps.disney.com
@@ -38851,6 +38862,7 @@ tableau-dev.wdw.disney.com
 tableau-latest.wdw.disney.com
 tableau-stage.wdw.disney.com
 tableau-staging.data.disney.com
+tableau-wb.wdprapps.disney.com
 tableau.data.disney.com
 tableau.fas.fa.disney.com
 tableau.middle.ia.nlb-posr.wdprapps.disney.com
@@ -40403,6 +40415,7 @@ tot-acm-ha1.wdpr.disney.com
 tot-acm-ha2.wdpr.disney.com
 tot-avaya-ixmessaging.wdw.disney.com
 tot-nexorce.wdpr.disney.com
+tot-sbc-220cel.disney.com
 tot-sbc-220cele.net.disney.com
 tot-st-vpn.wdw.attractions.disney.com
 tot0-st-pa.wdw.attractions.disney.com
@@ -40791,6 +40804,7 @@ treasure.magicbands.dcl.wdpr.disney.com
 treasure.messaging.dcl.wdpr.disney.com
 treasure.mimir-gateway.dcl.wdpr.disney.com
 treasure.minio-console.dcl.wdpr.disney.com
+treasure.minio-operator.dcl.wdpr.disney.com
 treasure.minio-proxy.dcl.wdpr.disney.com
 treasure.minio.dcl.wdpr.disney.com
 treasure.oars.dcl.wdpr.disney.com
@@ -45400,3 +45414,5 @@ zonal-dev-az.media.disney.com
 zonal-qa-az.media.disney.com
 zonal-stg-az.media.disney.com
 zookeeper-stage.wdw.disney.com
+zookeeper.ams.disney.com
+zookeeper.ams-dev.disney.com

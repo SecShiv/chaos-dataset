@@ -126,6 +126,7 @@
 *.onboarding-guide.platform.dash.cloudflare.com
 *.one.dash.cloudflare.com
 *.one.dash.staging.cloudflare.com
+*.one.dash.staging.fed.cloudflare.com
 *.pages.cloudflare.com
 *.partnerdemandcenter.cloudflare.com
 *.partnerlocator.cloudflare.com
@@ -401,6 +402,7 @@ api.staging.cloudflare.com
 api.staging.integrations.cloudflare.com
 api.teams.cloudflare.com
 api.workers.cloudflare.com
+api0.staging.realtime.cloudflare.com
 apni1x-dcn.cloudflare.com
 apollo.cloudflare.com
 apollo.ns.cloudflare.com
@@ -8393,6 +8395,7 @@ collins.ns.cloudflare.com
 comcortney.ns.cloudflare.com
 commerce.ai.cloudflare.com
 community.cloudflare.com
+conferences.research.cloudflare.com
 connie.ns.cloudflare.com
 conrad.ns.cloudflare.com
 content.cloudflare.com
@@ -8767,6 +8770,7 @@ gracie.ns.cloudflare.com
 graham.ns.cloudflare.com
 grannbo.ns.cloudflare.com
 grant.ns.cloudflare.com
+graphql-staging.mcp.cloudflare.com
 greg.ns.cloudflare.com
 gus.ns.cloudflare.com
 guss.ns.cloudflare.com
@@ -9406,8 +9410,10 @@ mcgrory.ns.cloudflare.com
 mckenzie.ns.cloudflare.com
 mckinley.ns.cloudflare.com
 mconn-telemetry-staging.magic-wan-connector.cloudflare.com
+mcp.cloudflare.com
 meadow.ns.cloudflare.com
 media-deals.jumia.com.cdn.cloudflare.com
+media-hub.staging.realtime.cloudflare.com
 meera.ns.cloudflare.com
 meerans.cloudflare.com
 meg.ns.cloudflare.com
@@ -9921,6 +9927,7 @@ onboarding-guide.platform.dash.cloudflare.com
 onboarding.ipfs.cloudflare.com
 one.dash.cloudflare.com
 one.dash.staging.cloudflare.com
+one.dash.staging.fed.cloudflare.com
 opal.ns.cloudflare.com
 ophelia.ns.cloudflare.com
 origin.pat.research.cloudflare.com
@@ -10137,6 +10144,7 @@ roxy.cloudflare.com
 roxy.ns.cloudflare.com
 rpki.cloudflare.com
 rtc.live.cloudflare.com
+rtk.staging.realtime.cloudflare.com
 ru.cloudflare.com
 ru-ru.www.cloudflare.com
 ruben.ns.cloudflare.com
@@ -18075,6 +18083,7 @@ staging.oblivious-gateway.privacy-gateway.cloudflare.com
 staging.office365-addin.ces.dlp.teams.cloudflare.com
 staging.pages.cloudflare.com
 staging.pdw.dlp.teams.cloudflare.com
+staging.realtime.cloudflare.com
 staging.sink.dlp.teams.cloudflare.com
 staging.sparrow.cloudflare.com
 staging.ssf.risk-score.teams.cloudflare.com
@@ -18245,6 +18254,7 @@ wanda.2ns.cloudflare.com
 wanda.ns.cloudflare.com
 warp.cloudflare.com
 watson.ns.cloudflare.com
+webhook-dispatch.staging.realtime.cloudflare.com
 webmail.texsani.com.lloyd.ns.cloudflare.com
 website-worker.research.cloudflare.com
 wells.ns.cloudflare.com

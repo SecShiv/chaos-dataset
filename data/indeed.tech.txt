@@ -1181,6 +1181,7 @@ b2bf2cb76213e23d0246baa54d2912c1.agnes-amds-serving.science.jobseeker.awscmhqa5.
 b4a28bb753a7dac3de3856eaecbe5841.loom-inference.awscmhqa5.k8s.indeed.tech
 b52e2f90b047f408bd9fac9087fc951f.loom-inference.awscmh5.k8s.indeed.tech
 b52e2f90b047f408bd9fac9087fc951f.loom-inference.awscmhqa4.k8s.indeed.tech
+b52e2f90b047f408bd9fac9087fc951g.loom-inference.awscmhqa4.k8s.indeed.tech
 b7075d01b4e10caed94e48bb18b2a6c7.loom-inference.awscmhqa4.k8s.indeed.tech
 ba3e2f1b10f60d2131ec497f95223442.loom-inference.awscmh6.k8s.indeed.tech
 ba3e2f1b10f60d2131ec497f95223442.loom-inference.awscmhqa5.k8s.indeed.tech
@@ -5149,6 +5150,8 @@ kibana-ospreyjunior.prod.indeed.tech
 kibana-ospreyjunior.qa.indeed.tech
 kibana-pagerdutylog.prod.indeed.tech
 kibana-pagerdutylog.qa.indeed.tech
+kibana-perplat-canary.prod.indeed.tech
+kibana-perplat-canary.qa.indeed.tech
 kibana-proxy.awscmhqa2.k8s.indeed.tech
 kibana-quartermaster.prod.indeed.tech
 kibana-quartermaster.qa.indeed.tech
@@ -5182,6 +5185,7 @@ kibana-targeted-ads-vector-search.prod.indeed.tech
 kibana-targeted-ads-vector-search.qa.indeed.tech
 kibana-tesseract.prod.indeed.tech
 kibana-tesseract.qa.indeed.tech
+kibana-test-elasticsearch-cluster.qa.indeed.tech
 kibana-testdeployment.prod.indeed.tech
 kibana-testdeployment.qa.indeed.tech
 kibana-testdeploymentqa.qa.indeed.tech
@@ -10889,3 +10893,5 @@ zapinfo.sandbox.awscmhqa.k8s.indeed.tech
 zeebe.osqa.k8s.indeed.tech
 zentral.cpe.indeed.tech
 zentral.staging.cpe.indeed.tech
+zhiyuan-test-lemma-webapp.awscmhqa3.k8s.indeed.tech
+ztna.indeed.tech
