@@ -72,9 +72,9 @@ jobs:
           } > data/changes_trimmed.txt
 
           # Send to Discord
-          CONTENT=$(cat data/changes_trimmed.txt | sed 's/"/\\"/g' | head -c 1800)
+          CONTENT=$(cat data/changes_trimmed.txt | head -c 1800 | jq -Rs .)
           curl -H "Content-Type: application/json" \
-          -d "{\"content\": \"${CONTENT}\"}" \
+          -d "{\"content\": ${CONTENT}}" \
           ${{ secrets.DISCORD_WEBHOOK }}
         fi
 
@@ -108,3 +108,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
+
