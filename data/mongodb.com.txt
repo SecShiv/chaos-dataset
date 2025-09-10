@@ -738,6 +738,7 @@ dsplatform.staging.corp.mongodb.com
 dst.devops.test.corp.mongodb.com
 dt-webhook-server.devprod-platform.staging.corp.mongodb.com
 dtest.test.corp.mongodb.com
+dtrack.devprod-platform.staging.corp.mongodb.com
 dumbserver-web-app.devops.test.corp.mongodb.com
 dumbserver.devops.prod.corp.mongodb.com
 dumbserver.devops.test.corp.mongodb.com
@@ -991,6 +992,8 @@ help-infosec.mongodb.com
 help-it.mongodb.com
 help-sales.mongodb.com
 help-techops.mongodb.com
+holly-api.aix.staging.corp.mongodb.com
+holly.aix.staging.corp.mongodb.com
 honeyaws.devprod-infra.prod.corp.mongodb.com
 honeyaws.devprod-infra.staging.corp.mongodb.com
 honeycomb-refinery.devprod-platform.staging.corp.mongodb.com
@@ -1147,6 +1150,7 @@ mana.corp.mongodb.com
 map-toolkit.corp.mongodb.com
 marian.mongodb.com
 mars-dev-feature-5916-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-7121-dev.dataplatform-dev.staging.corp.mongodb.com
 mars.prod.corp.mongodb.com
 mars.staging.corp.mongodb.com
 mas.corp.mongodb.com
@@ -1184,6 +1188,7 @@ mongodbcom-mesh-poc.website.staging.corp.mongodb.com
 mongodbcom-poc-cdn.website.staging.corp.mongodb.com
 mongodbcom-poc.website.staging.corp.mongodb.com
 mongodbcorp-qa.mongodb.com
+mongodbcorp-staging.mongodb.com
 mongogpt.aix.prod.corp.mongodb.com
 mongogpt.aix.staging.corp.mongodb.com
 mongogpt.corps.staging.corp.mongodb.com
@@ -1487,6 +1492,7 @@ skunkworks.staging.corp.mongodb.com
 slacktc.corp.mongodb.com
 slacktc.ts-apac.prod.corp.mongodb.com
 slacktc.ts-apac.staging.corp.mongodb.com
+slsbackup.cloud.mongodb.com
 smcsf.mongodb.com
 smt.devops.test.corp.mongodb.com
 snacks.corp.mongodb.com
@@ -1599,6 +1605,7 @@ thanos-healthcheck.corp.mongodb.com
 thanos-kube.corp.mongodb.com
 thanos.corp.mongodb.com
 thing-tcp.gateway.test.corp.mongodb.com
+tines.mongodb.com
 tls.test.corp.mongodb.com
 tracing-dev.corp.mongodb.com
 tracing-internal.corp.mongodb.com
@@ -1700,6 +1707,8 @@ victoria-metrics-meta.corp.mongodb.com
 victoria-metrics.corp.mongodb.com
 vidyard.mongodb.com
 vm1.cf.mongodb.com
+vminsert-az2.cloud.mongodb.com
+vminsert-az2.cloud-staging.mongodb.com
 vuln-hunt.infosec.staging.corp.mongodb.com
 walltv.corp.mongodb.com
 web-app-example.sa.staging.corp.mongodb.com
@@ -1714,6 +1723,7 @@ website-poc-gateway-migration.website.staging.corp.mongodb.com
 website.prod.corp.mongodb.com
 website.skunkworks.staging.corp.mongodb.com
 website.staging.corp.mongodb.com
+wedjat-ai.cloud-security.staging.corp.mongodb.com
 westeurope.azure.realm.mongodb.com
 westeurope.azure.realm-staging.mongodb.com
 westus.azure.realm.mongodb.com

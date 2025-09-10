@@ -1,4 +1,5 @@
 *.meraki.com
+*.corp.meraki.com
 *.dashboard.meraki.com
 *.ldap.meraki.com
 *.network-auth.meraki.com
@@ -181,6 +182,12 @@ blocked.meraki.com
 blogx.dev.meraki.com
 bounce.meraki.com
 buildbot.meraki.com
+bulk-downloads.aps.meraki.com
+bulk-downloads.euc.meraki.com
+bulk-downloads.euw.meraki.com
+bulk-downloads.use.meraki.com
+bulk-downloads.usw.meraki.com
+bulk-downloads.usw.sandbox.meraki.com
 byoip.nt.meraki.com
 c.edge.meraki.com
 c.sdg-fw-1.meraki.com
@@ -4534,7 +4541,9 @@ n10-spare.meraki.com
 n100.meraki.com
 n100-spare.meraki.com
 n1001.meraki.com
+n1001-spare.dashboard.meraki.com
 n1002.meraki.com
+n1002-spare.dashboard.meraki.com
 n1003.meraki.com
 n1005-spare.dashboard.meraki.com
 n101.meraki.com
@@ -9943,3 +9952,4 @@ www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.
 x.meraki.com
 x.it-managed.meraki.com
 yostinso.dev.meraki.com
+zhemp.dev.meraki.com

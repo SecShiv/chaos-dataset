@@ -35,6 +35,7 @@
 *.dev.d2d.mcaas.fcs.gsa.gov
 *.dev.data.mcaas.fcs.gsa.gov
 *.dev.dpa.mcaas.fcs.gsa.gov
+*.dev.erpa.mcaas.fcs.gsa.gov
 *.dev.folio.mcaas.fcs.gsa.gov
 *.dev.itdb.mcaas.fcs.gsa.gov
 *.dev.ocms.mcaas.fcs.gsa.gov
@@ -331,6 +332,7 @@ agencypricer.wits3.gsa.gov
 aipoc.gsa.gov
 aldp.gsa.gov
 alicew.gsa.gov
+alm.orch.dev.erpa.mcaas.fcs.gsa.gov
 aloha.gsa.gov
 aloha.gsa.gsa.gov
 aloha.gss.gsa.gov
@@ -357,6 +359,7 @@ api.a.azure-ocp.gsa.gov
 api.a.gcp-ocp.gsa.gov
 api.acquisition-uat.gsa.gov
 api.acre.gsa.gov
+api.prod.gsa.mcaas.fcs.gsa.gov
 api.tacre.gsa.gov
 api.vms.fleet-prod.fcs.gsa.gov
 apiss.mcaas.fcs.gsa.gov
@@ -372,6 +375,7 @@ apps.fas.gsa.gov
 apps.fss.gsa.gov
 apps.gss.gsa.gov
 apps.ocfo.gsa.gov
+apps.orch.dev.erpa.mcaas.fcs.gsa.gov
 apps.prod-iae.bsp.gsa.gov
 appx.fss.gsa.gov
 apw.gsa.gov
@@ -567,6 +571,7 @@ cfo.fmis.gsa.gov
 cfo.ipac.gsa.gov
 cforeports.gsa.gov
 changerequest.fas.gsa.gov
+chat.prod.gsa.mcaas.fcs.gsa.gov
 checkmarx.gsa.gov
 chilaser.gsa.gov
 childcare.survey.gsa.gov
@@ -627,6 +632,7 @@ connections.fas.gsa.gov
 connectionsii-clin-checker.eos.gsa.gov
 connectionsii-clin-checker.test-eos.gsa.gov
 connectionsii-clinchecker.fas.gsa.gov
+console-frontend.prod.gsa.mcaas.fcs.gsa.gov
 contacts.gsa.gov
 content-preprod.gsaadvantage.fas.gsa.gov
 content-test.gsaadvantage.fas.gsa.gov
@@ -769,6 +775,7 @@ dev.dev-ppm.fcs.gsa.gov
 dev.dpa.mcaas.fcs.gsa.gov
 dev.dx-core.dx.dev-mcaas.fcs.gsa.gov
 dev.dxcore.dx.mcaas.fcs.gsa.gov
+dev.erpa.mcaas.fcs.gsa.gov
 dev.folio.mcaas.fcs.gsa.gov
 dev.itdb.mcaas.fcs.gsa.gov
 dev.mcaas.fcs.gsa.gov
@@ -67383,6 +67390,7 @@ infowizard.gsa.gov
 innovation.gsa.gov
 innovation.wip3.gsa.gov
 inside-iti.gsa.gov
+insights.orch.dev.erpa.mcaas.fcs.gsa.gov
 insite.gsa.gov
 insite-cmp.gsa.gov
 insite-rmrpbs.gsa.gov
@@ -67603,6 +67611,7 @@ mobile.anywhere.gsa.gov
 mobile.gsaapps.gsa.gov
 moblaser.gsa.gov
 moe.itoms.gsa.gov
+monitoring.orch.dev.erpa.mcaas.fcs.gsa.gov
 moonbiter.gsa.gov
 morris.ftsbilling.gsa.gov
 moveit.gsa.gov
@@ -67802,6 +67811,7 @@ omb-test.fas.gsa.gov
 oms-auth-preprod.gsa.gov
 open.gsa.gov
 opman.fas.gsa.gov
+orch.dev.erpa.mcaas.fcs.gsa.gov
 orders-staging-vp.fas.gsa.gov
 orders-staging.fas.gsa.gov
 orders-test.fas.gsa.gov
@@ -68600,6 +68610,7 @@ topsorder2.ftsbilling.gsa.gov
 topsordercert.ftsbilling.gsa.gov
 topsordersbx.ftsbilling.gsa.gov
 tos.fas.gsa.gov
+tosca.etsnext.fas.gsa.gov
 tpi.moveit.gsa.gov
 tqa.pbs.gsa.gov
 tqaccp.gsa.gov
@@ -69357,7 +69368,3 @@ xpwi.gsa.gov
 xpwi.gss.gsa.gov
 zipkin-collector.dev-ppm.fcs.gsa.gov
 zipkin-collector.mgmt-ppm.fcs.gsa.gov
-zipkin-collector.test-ppm.fcs.gsa.gov
-zipkin-ui.dev-ppm.fcs.gsa.gov
-zipkin-ui.mgmt-ppm.fcs.gsa.gov
-zipkin-ui.test-ppm.fcs.gsa.gov

@@ -122,6 +122,7 @@ dspcookiematching-cdn-aws-us-east-2.dmxleo.com
 dspcookiematching-cdn-aws-us-west-2.dmxleo.com
 dspcookiematching-europewest1.dmxleo.com
 dspcookiematching-origin-aws-ap-south-1.dmxleo.com
+dspcookiematching-origin-aws-eu-west-1.dmxleo.com
 dspcookiematching-origin-aws-us-east-2.dmxleo.com
 dspcookiematching-origin-aws-us-west-2.dmxleo.com
 dspcookiematching-prod.dmxleo.com
@@ -203,6 +204,7 @@ leo-portal-prod-onprem-nyc.dmxleo.com
 leo-portal-prod-onprem-sv4.dmxleo.com
 leo-vast-service.dmxleo.com
 leo-vast-service-aws-ap-south-1.dmxleo.com
+leo-vast-service-aws-eu-west-1.dmxleo.com
 leo-vast-service-aws-us-east-2.dmxleo.com
 leo-vast-service-aws-us-west-2.dmxleo.com
 leo-vast-service-onprem-dc3.dmxleo.com
@@ -760,6 +762,7 @@ public-staging-adevents-useast1.dmxleo.com
 public-staging-adserver.dmxleo.com
 public-staging-adserver-europewest1.dmxleo.com
 public-staging-adserver-useast1.dmxleo.com
+public-staging-ai-agentic-service.dmxleo.com
 public-staging-consoleapi.dmxleo.com
 public-staging-consoleapi-europewest1.dmxleo.com
 public-staging-consoleapi-useast1.dmxleo.com
@@ -901,4 +904,3 @@ tools-jenkins-aws.dmxleo.com
 tools-jenkins-aws-useast1.dmxleo.com
 user-data-collection-service.jenkinsx.dmxleo.com
 vast-testing-framework.dmxleo.com
-www.jira.dmxleo.com

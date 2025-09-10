@@ -62,6 +62,7 @@
 a.walmart.com
 a-commercerest-prod.walmart.com
 a.polymorph.walmart.com
+a.www-teflon.walmart.com
 a0a0fd4-testgc.walmart.com
 a0a0fd4test-18nov.walmart.com
 aaffil.walmart.com
@@ -299,6 +300,7 @@ alpine.artifacts.stg.prod.walmart.com
 alpine.ci.artifacts.walmart.com
 alpine.ci.artifacts.stg.walmart.com
 alpine.ci.artifacts.stg.prod.walmart.com
+amexloyaltyplugin-pci.stg-us-ecom.walmart.com
 amlng-sar-efile.walmart.com
 amlng-sar-efile.test.walmart.com
 analytics-external.mobile.walmart.com
@@ -310,6 +312,7 @@ analytics-stg3.mobile.walmart.com
 analytics-stg4.mobile.walmart.com
 analytics.mobile.walmart.com
 analytics.stores.walmart.com
+analytics.www.walmart.com
 analytics.www-release.walmart.com
 analytics.www-teflon.walmart.com
 anivia-star.mobile.walmart.com
@@ -525,6 +528,7 @@ api.voice.staging.walmart.com
 api.waiting-room.walmart.com
 api.waiting-room-stg.walmart.com
 api.waiting-room.qa.walmart.com
+apigw.us.walmart.com
 apigw.us.stg.walmart.com
 apility.walmart.com
 apis.walmart.com
@@ -669,10 +673,13 @@ aquach.vqa.prod.walmart.com
 ar.walmart.com
 aribasupmgmt.dev.walmart.com
 arnextgen-dev.walmart.com
+aroptical-app-hub.walmart.com
 aroptical-cms.walmart.com
 aroptical-cms.stage.walmart.com
+aroptical-scan.walmart.com
 aroptical-scan-stg.walmart.com
 aroptical-stg.walmart.com
+aroptical-wasm.walmart.com
 aroptical-wasm-storage.walmart.com
 aroptical-wasm-storage-qa.walmart.com
 aroptical-wasm-storage-stg.walmart.com
@@ -1051,10 +1058,13 @@ b.identity-teflon.walmart.com
 b.native-checkout.dev.affiliates.walmart.com
 b.native-checkout.prod.affiliates.walmart.com
 b.native-checkout.stg.affiliates.walmart.com
+b.omnitran.stage.walmart.com
 b.photos16qa.walmart.com
 b.photos3.walmart.com
 b.plus.walmart.com
 b.super.walmart.com
+b.wallet-teflon.business-teflon.walmart.com
+b.wallet-teflon.www-teflon.walmart.com
 b.www.walmart.com
 b.www-e16.walmart.com
 b.www-perf.walmart.com
@@ -1876,6 +1886,7 @@ cfw-mon13.prod.walmart.com
 cgua.cgua.cgua.tessrisks.cdcprod5.prod.walmart.com
 cgua.cgua.cgua.tessrisks.dfw5.prod.walmart.com
 cgua.cgua.cgua.tessrisks.prod.walmart.com
+cgw-qa.walmart.com
 challenge.walmart.com
 chat.walmart.com
 chat-connector.walmart.com
@@ -3345,6 +3356,10 @@ epi-apip-vip36-developer.api.ca.walmart.com
 epi-apip-vip36-developer.api.cl.walmart.com
 epi-apip-vip36-developer.api.mx.walmart.com
 epi-cc.staging.walmart.com
+epi-ecc-miscqa-vip01-stage-public.walmart.com
+epi-ecc-nonecomm-vip01-internal.walmart.com
+epi-ecc-nonecomm-vip01-public.walmart.com
+epi-ecc-nonecommqa-vip01-stage-public.walmart.com
 epi-epi-epi-stg.wmfedaccess.walmart.com
 epi-epi-stg.wmfedaccess.walmart.com
 epi-lmd.stage.walmart.com
@@ -4526,6 +4541,7 @@ inputvalidation-service.qa.ase.rx.chp.api.walmart.com
 inputvalidation-service.scm.dev.ase.rx.chp.api.a.walmart.com
 inputvalidation-service.scm.qa.ase.rx.chp.api.a.walmart.com
 ins1ght.walmart.com
+insights.walmart.com
 insights-staging.walmart.com
 insignia-rules-stg.walmart.com
 insignia-ui-stg.walmart.com
@@ -4540,6 +4556,7 @@ integration-server.wm1-cf-integration.prod.walmart.com
 integration.gscope.walmart.com
 integration.wireless.walmart.com
 integrationaz.wireless.walmart.com
+internal.walmart.com
 internal.prm.walmart.com
 internal.vendor.prm.walmart.com
 interns.walmart.com
@@ -4909,6 +4926,7 @@ mcc-017-api-endpoint.prod.walmart.com
 mcc-02-api-endpoint.prod.walmart.com
 mcc-03-api-endpoint.prod.walmart.com
 mcc-keystone-endpoint.prod.walmart.com
+mcc-peer-chile.walmart.com
 mcc-stg-001-api-endpoint.prod.walmart.com
 mcc-stg-002-api-endpoint.prod.walmart.com
 mce-001-api-endpoint.prod.walmart.com
@@ -6054,6 +6072,7 @@ obl-tp-e.walmart.com
 ocp.prod.seiyuapis.cloud.walmart.com
 ocp.stage.walmart.com
 ocp.stg.seiyuapis.cloud.walmart.com
+ocppserver.walmart.com
 ocppserver-stage.walmart.com
 odm.walmart.com
 ofxmryjd.walmart.com
@@ -6642,6 +6661,7 @@ prod1.iam.platform.prod.walmart.com
 prod2.iam.platform.prod.walmart.com
 prod21.wireless.walmart.com
 prod3.iam.platform.prod.walmart.com
+prod3.onprem.iam.platform.prod.walmart.com
 prodcamvisadoapi.walmart.com
 prodrp-edc-vwsapi.walmart.com
 prodrp-ndc-vwsapi.walmart.com
@@ -6778,6 +6798,7 @@ pub.artifacts.stg.prod.walmart.com
 pub.ci.artifacts.walmart.com
 pub.ci.artifacts.stg.walmart.com
 pub.ci.artifacts.stg.prod.walmart.com
+public.walmart.com
 publisher.photos.walmart.com
 publisher.prod.omspublisherproxy.services.prod.walmart.com
 publisher1.photos.walmart.com
@@ -7726,6 +7747,7 @@ rx-api.mobile.walmart.com
 rx-api.stg0.mobile.walmart.com
 rx-api.stg1.mobile.walmart.com
 rx-api.stg2.mobile.walmart.com
+s-c-dmz-msteams-ext.walmart.com
 s-dfwbrd01.walmart.com
 s-dfwbrd02.walmart.com
 s-dfwbrd03.walmart.com
@@ -7741,6 +7763,7 @@ s2s-checkin-mobile-stg1.glb.prod.walmart.com
 s2s-checkin-mobile-stg2.glb.prod.walmart.com
 s2s-checkin-mobile.glb.prod.walmart.com
 s2s-share-mobile.glb.prod.walmart.com
+sa-webhook-collector.prod.walmart.com
 sa-webhook-collector.stage.walmart.com
 saas-app.dev.saas-service.samsus.dfw1.qa.walmart.com
 saas-app.qa-2.saas-service.samsus.qa.walmart.com
@@ -8247,6 +8270,7 @@ sparknotifications.stage.walmart.com
 sparkreviewer.walmart.com
 spec-management-ui.stage.walmart.com
 spectrum.walmart.com
+speedy.walmart.com
 speedy.stagin.walmart.com
 speedy.staging.walmart.com
 spf.prod-spf.symmetry.payroll.cdc.prod.walmart.com
@@ -8300,6 +8324,7 @@ stage-flipkartethics.walmart.com
 stage-gdmsservices.cloud.walmart.com
 stage-go-local.walmart.com
 stage-hub.walmart.com
+stage-internal.walmart.com
 stage-iod.walmart.com
 stage-jump.walmart.com
 stage-livebetteru.walmart.com
@@ -8309,6 +8334,7 @@ stage-myfoodsafety.walmart.com
 stage-mysearch.walmart.com
 stage-phonepeethics.walmart.com
 stage-preview-sams.walmart.com
+stage-public.walmart.com
 stage-sams-corporate.walmart.com
 stage-service-payment.walmart.com
 stage-sparkdriverapp.walmart.com
@@ -9399,6 +9425,7 @@ wireless.walmart.com
 wirelessaz.walmart.com
 wlfc.walmart.com
 wls.walmart.com
+wls.transporatation.walmart.com
 wm-blob-service.qa.wm-blob-services.boppa.cdc.prod.walmart.com
 wm-blob-service.qa.wm-blob-services.boppa.cdcstg2.prod.walmart.com
 wm-blob-service.qa.wm-blob-services.boppa.prod.walmart.com
@@ -9584,6 +9611,7 @@ ws-samsus.major.dev.walmart.com
 ws-samsus.major.qa.walmart.com
 ws-samsus.minor.dev.walmart.com
 ws-samsus.minor.qa.walmart.com
+ws.apigw.us.walmart.com
 ws.apigw.us.stg.walmart.com
 ws.dev.savingscatcher.walmart.com
 ws.prod.policyadmin.walmart.com
@@ -9914,3 +9942,5 @@ zy-prod2.walmart.com
 zy-test1.walmart.com
 zy-test2.walmart.com
 zy-test3.walmart.com
+zy-www.walmart.com
+zy.testing.walmart.com

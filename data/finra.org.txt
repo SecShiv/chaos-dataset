@@ -1486,6 +1486,7 @@
 *.spot.ct.finra.org
 *.spot.dev.finra.org
 *.spot.int.finra.org
+*.spot.pa.finra.org
 *.spot.qa.finra.org
 *.spot.uat.finra.org
 *.spot2.finra.org
@@ -5743,6 +5744,7 @@ static.filex-int.qa.finra.org
 static.filex-int2.qa.finra.org
 static.filex.dev.finra.org
 static.filex.qa.finra.org
+static.fingerprints.finra.org
 static.gateway-int.dev.finra.org
 static.gateway.dev.finra.org
 static.map.finra.org
@@ -6410,3 +6412,4 @@ yum.awstools.finra.org
 yum.ct.aws.finra.org
 zen.dev.finra.org
 zen.qa.finra.org
+zr53.api.gateway-qaint.qa.finra.org

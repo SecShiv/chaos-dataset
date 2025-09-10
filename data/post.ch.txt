@@ -1,3 +1,4 @@
+.post.ch
 *.post.ch
 *.awproxyint.post.ch
 *.dh.post.ch
@@ -56,6 +57,7 @@ accountint1.post.ch
 accountint2.post.ch
 accounttest.post.ch
 accounttest-sesam.post.ch
+addins.incamail-dev.post.ch
 address.apis.post.ch
 address.apis-dev.post.ch
 address.apis-int.post.ch
@@ -72,6 +74,8 @@ admin.bot.post.ch
 admin.ent.shop.post.ch
 admin.ent.shopdev.post.ch
 admin.ent.shoptest.post.ch
+admin.incamail-dev.post.ch
+admin.incamail-test.post.ch
 admin.int.wsbc.post.ch
 admin.places.post.ch
 admin.wsbc.post.ch
@@ -1751,6 +1755,8 @@ promopost.post.ch
 promopostint.post.ch
 promoposttool.post.ch
 promoposttoolint.post.ch
+provisioning.incamail-dev.post.ch
+provisioning.incamail-test.post.ch
 psc.post.ch
 psc-dev.post.ch
 psc-int.post.ch
@@ -2356,6 +2362,8 @@ wohnen-zollikofenint.post.ch
 wohnen-zollikofenint1.post.ch
 wohnen-zollikofenint2.post.ch
 ws.im.post.ch
+ws.incamail-dev.post.ch
+ws.incamail-test.post.ch
 ws.sso.post.ch
 ws.ssoint.post.ch
 wsbc.post.ch
@@ -2364,6 +2372,7 @@ wsc.post.ch
 wscint.post.ch
 wsint.post.ch
 wspartner.ssoint.post.ch
+wsread.incamail-test.post.ch
 wsredesignint1.post.ch
 wsredesignint2.post.ch
 wunschberuf.postdoc.post.ch
@@ -2591,3 +2600,4 @@ zweixweihnachten.post.ch
 zweixweihnachten1.post.ch
 zweixweihnachten2.post.ch
 zweixweihnachten3.post.ch
+zweixweihnachtenint.post.ch

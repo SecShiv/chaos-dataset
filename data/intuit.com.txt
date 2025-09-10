@@ -1647,6 +1647,7 @@
 *.tax.intuit.com
 *.tax-pprd.shapi.a.intuit.com
 *.tax-prod.lc.a.intuit.com
+*.tax-topics-automation.a.intuit.com
 *.tax.ie.intuit.com
 *.tax.pprd.lc.a.intuit.com
 *.tax.prd.lc.a.intuit.com
@@ -4339,6 +4340,7 @@ airwatch-entsecurity.t4ies-prod-sox-usw2.iks.a.intuit.com
 airwatchcon-entsecurity.t4ies-prod-sox-usw2.iks.a.intuit.com
 airwatchconsumer-entsecurity.t4ieisprdsoxusw2.iks2.a.intuit.com
 airwatchconsumer-stg.a.intuit.com
+ais-cloudfront.frontline.a.intuit.com
 ais-discovery-platformexps.devsuccessprdusw2.iks2.a.intuit.com
 aiuiw-devp.sandbox.devpuxfabricprdusw2.iks2.a.intuit.com
 ajq1jdivuv.intuit.com
@@ -11397,6 +11399,7 @@ canada-tax-record-delivery-tax.pcgprdusw2.iks2.a.intuit.com
 canadaservices-pre-production-wjud0d.pd.idps.a.intuit.com
 canadaservices-production-65xdb4.pd.idps.a.intuit.com
 canadatax-ppd.a.intuit.com
+canadatax-prd-tto-help-ty25.cgcantaxprduse2.iks2.a.intuit.com
 canadatax-prd-turbotax-online-ty25.cgcantaxprdusw2.iks2.a.intuit.com
 canadatax-prd.a.intuit.com
 canary-cloudfront.qbse-sgmnt-ppd.iks.a.intuit.com
@@ -12646,6 +12649,7 @@ cloud-monitoring-prd-cet-analysis.techpiprdusw2.iks2.a.intuit.com
 cloud-monitoring-prd-civ-api.pi-prod-usw2.iks.a.intuit.com
 cloud-monitoring-prd-esh-go-api.pi-prod-usw2.iks.a.intuit.com
 cloud-monitoring-prd-fci-calculator.cg-rtb-prod-usw2.iks.a.intuit.com
+cloud-monitoring-prd-fci-rum-rollup.techpiprdusw2.iks2.a.intuit.com
 cloud-monitoring-prd-fci-service.techpiprduse2.iks2.a.intuit.com
 cloud-monitoring-prd-fci-service.techpiprdusw2.iks2.a.intuit.com
 cloud-monitoring-prd-gogen2.pi-prod-usw2.iks.a.intuit.com
@@ -12674,6 +12678,7 @@ cloud-monitoring-stg-cet-analysis.techpiprdusw2.iks2.a.intuit.com
 cloud-monitoring-stg-civ-api.pi-prod-usw2.iks.a.intuit.com
 cloud-monitoring-stg-esh-go-api.pi-prod-usw2.iks.a.intuit.com
 cloud-monitoring-stg-fci-calculator.cg-rtb-prod-usw2.iks.a.intuit.com
+cloud-monitoring-stg-fci-rum-rollup.techpiprdusw2.iks2.a.intuit.com
 cloud-monitoring-stg-fci-service.techpiprduse2.iks2.a.intuit.com
 cloud-monitoring-stg-fci-service.techpiprdusw2.iks2.a.intuit.com
 cloud-monitoring-stg-gogen2.pi-prod-usw2.iks.a.intuit.com
@@ -16935,6 +16940,8 @@ cp-gotomarket.cgmoneyprdusw2.iks2.a.intuit.com
 cp-scheduled-jobs-stratprod.curationprdusw2.iks2.a.intuit.com
 cpanel.1800customp.a.intuit.com
 cpbackup436.intuit.com
+cpc-ccp-optimization-ap-dev.a.intuit.com
+cpc-ccp-optimization-ap.a.intuit.com
 cpclient-ppd.payment-ppd-usw2.iks.a.intuit.com
 cpclient-sales.payment-prod-usw2.iks.a.intuit.com
 cpclient-sales.paymentprduse2.iks2.a.intuit.com
@@ -18463,6 +18470,7 @@ data-discovery-svc-dataundstd.curationprdusw2.iks2.a.intuit.com
 data-e2e-intuit-platform-spa.ippaasppdusw2.iks2.a.intuit.com
 data-e2e-spa-navigation.dataengppdusw2.iks2.a.intuit.com
 data-e2e.app.intuit.com
+data-eventbus-prd-ebus-clickstream.dataengppdusw2.iks2.a.intuit.com
 data-eventbus-prd-ebus-cluster-service.dataengprduse2.iks2.a.intuit.com
 data-eventbus-prd-ebus-cluster-service.dataengprdusw2.iks2.a.intuit.com
 data-eventbus-prd-ebus-data-mesh-service.dataengprdusw2.iks2.a.intuit.com
@@ -19200,6 +19208,8 @@ datapersist-datalake-prd-bpp-auth-service.dngspokdlprdusw2.iks2.a.intuit.com
 datapersist-datalake-prd-bpp-emr-service.dngspokdlprdusw2.iks2.a.intuit.com
 datapersist-datalake-stg-bpp-auth-service.dngspokdlprdusw2.iks2.a.intuit.com
 datapersist-datalake-stg-bpp-emr-service.dngspokdlprdusw2.iks2.a.intuit.com
+datapersist-e2e-ebus-noauth.dataengppduse2.iks2.a.intuit.com
+datapersist-e2e-ebus-noauth.dataengppdusw2.iks2.a.intuit.com
 datapersist-e2e-oss-proxy.mailchimpppdusw2.iks2.a.intuit.com
 datapersist-eventbus-prd-ebus-rest-producer-v2-iks.dataengppduse2.iks2.a.intuit.com
 datapersist-eventbus-prd-ebus-rest-producer-v2-iks.dataengppdusw2.iks2.a.intuit.com
@@ -23773,11 +23783,13 @@ ebsqeservices-pre-production-kapx4c.pd.idps.a.intuit.com
 ebsrptm.intuit.com
 ebssys.intuit.com
 ebtonline.flb.intuit.com
+ebus-clickstream-datapersist.dataengppdusw2.iks2.a.intuit.com
 ebus-cluster-service-d-4021951.dataengprduse2.iks2.a.intuit.com
 ebus-cluster-service-d-4021951.dataengprdusw2.iks2.a.intuit.com
 ebus-data-mesh-service-7476405.dataengprdusw2.iks2.a.intuit.com
 ebus-functional-testin-8085687.dataengprduse2.iks2.a.intuit.com
 ebus-functional-testin-8085687.dataengprdusw2.iks2.a.intuit.com
+ebus-noauth-e2e.ebusrest-ppd.a.intuit.com
 ebus-notification-serv-1476917.dataengprdusw2.iks2.a.intuit.com
 ebus-prd.a.intuit.com
 ebus-rest-producer-v2-iks-data.dataengprduse2.iks2.a.intuit.com
@@ -26052,6 +26064,7 @@ event-bridge-timecapture.tsheetsprduse2.iks2.a.intuit.com
 event-bridge-timecapture.tsheetsprdusw2.iks2.a.intuit.com
 event-bus-ice-middlew-9683003.curationprdusw2.iks2.a.intuit.com
 event-consumer-service-finplan.sbgqboprodusw2.iks2.a.intuit.com
+event-dispatcher-customerdata.growthprdusw2.iks2.a.intuit.com
 event-gateway-platformexps.ippaasprodusw2.iks2.a.intuit.com
 event-gateway-sbx-platformexps.ippaasprodusw2.iks2.a.intuit.com
 event-gateway-stg-platformexps.ippaasprodusw2.iks2.a.intuit.com
@@ -30067,6 +30080,7 @@ gotomarket-expdelactiv-prd-eloquatokenservice.growthprdusw2.iks2.a.intuit.com
 gotomarket-expdelactiv-prd-elq-conn-strm-proc.growthprdusw2.iks2.a.intuit.com
 gotomarket-expdelactiv-prd-elqintegrationapp.growthprdusw2.iks2.a.intuit.com
 gotomarket-expdelactiv-prd-elqtadatawarehouse.growthprdusw2.iks2.a.intuit.com
+gotomarket-expdelactiv-prd-event-dispatcher.growthprdusw2.iks2.a.intuit.com
 gotomarket-expdelactiv-prd-ge-admin-service.t4i-prod-west2.iks.a.intuit.com
 gotomarket-expdelactiv-prd-global-pref-integ.growthprdusw2.iks2.a.intuit.com
 gotomarket-expdelactiv-prd-insights-gen.cgmoneyprdusw2.iks2.a.intuit.com
@@ -86598,10 +86612,12 @@ tracing-collector-jaeger.qbse-sgmnt-ppd.iks.a.intuit.com
 tracing-collector-rum-otlp.pi-prod-usw2.iks.a.intuit.com
 tracing-collector.qbse-sgmnt-ppd.iks.a.intuit.com
 tracing-collector.qbse-sgmnt-prod-usw2.iks.a.intuit.com
+tracing-grafana-prd.techpiprdusw2.iks2.a.intuit.com
 tracing-ppd.intuit.com
 tracing-pre-production-ufcemn.pd.idps.a.intuit.com
 tracing-valid-assets-p-5098499.ippaasprodusw2.iks2.a.intuit.com
 tracing.a.intuit.com
+tracing.grafana.intuit.com
 tracing.pi-prod-usw2.iks.a.intuit.com
 tracing.qbse-sgmnt-ppd.iks.a.intuit.com
 tracing.qbse-sgmnt-prod-usw2.iks.a.intuit.com
@@ -87132,6 +87148,7 @@ ttmac-it.efe-prod.a.intuit.com
 ttmac.prd.it.efe.lb.intuit.com
 tto-ctp-bridge-tax.cgc-prd-usw2.iks.a.intuit.com
 tto-ctp-bridge-tax.cgfilingprdusw2.iks2.a.intuit.com
+tto-help-ty25-taxcontmgmt.cgcantaxprduse2.iks2.a.intuit.com
 tto-import-perf.ido-preprod.a.intuit.com
 tto-import-qa.ido-preprod.a.intuit.com
 tto-orchestration-service-tax.cg-tax-prod-use2.iks.a.intuit.com
@@ -90713,6 +90730,8 @@ vep-workflows-prd-quality-reviews-service.vepprduse2.iks2.a.intuit.com
 vep-workflows-prd-quality-reviews-service.vepprdusw2.iks2.a.intuit.com
 vep-workflows-stg-milestones-service.vepprduse2.iks2.a.intuit.com
 vep-workflows-stg-milestones-service.vepprdusw2.iks2.a.intuit.com
+vep-workflows-stg-quality-reviews-service.vepprduse2.iks2.a.intuit.com
+vep-workflows-stg-quality-reviews-service.vepprdusw2.iks2.a.intuit.com
 vep.a.intuit.com
 vepaiorchestrator.api.intuit.com
 vepanalytics-exptapp.vepprdusw2.iks2.a.intuit.com

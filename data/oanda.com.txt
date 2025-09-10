@@ -730,6 +730,7 @@ pic-mt-admin.k8s-prod-euw3.p.gcp.oanda.com
 pic-mt-admin.k8s-stg-euw3.s.gcp.oanda.com
 pic-mt-admin.k8s-uat-euw3.u.gcp.oanda.com
 pic-mt-otms-mobile-gateway.k8s-uat-euw3.u.gcp.oanda.com
+pic-mt5-feeder-oj-stage-1.k8s-stg-asne1.s.gcp.oanda.com
 pic-mt5-manager-oanda-demo-1.k8s-prod-use4.p.gcp.oanda.com
 pic-mt5-manager-oanda-live-1.k8s-prod-use4.p.gcp.oanda.com
 pic-mt5-manager-oanda-stage-1.k8s-stg-usc1.s.gcp.oanda.com
@@ -1101,8 +1102,11 @@ sfb.oanda.com
 short.oanda-nonprod-observability-cluster-1.i.gcp.oanda.com
 si-salesforce-interceptor.k8s-uat-usc1.u.gcp.oanda.com
 single-id-dark.k8s-prod-use4.p.gcp.oanda.com
+single-id-dark.k8s-stg-asne1.s.gcp.oanda.com
 single-id-dark.k8s-stg-usc1.s.gcp.oanda.com
+single-id-demo-dark.k8s-stg-usc1.s.gcp.oanda.com
 single-id.k8s-prod-use4.p.gcp.oanda.com
+single-id.k8s-stg-asne1.s.gcp.oanda.com
 single-id.k8s-stg-usc1.s.gcp.oanda.com
 sitegateway-admin-demo.k8s-prod-asne1.p.gcp.oanda.com
 sitegateway-admin-demo.k8s-prod-euw3.p.gcp.oanda.com
@@ -1114,6 +1118,7 @@ sitegateway-admin-heavy-demo.k8s-prod-asne1.p.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-prod-euw3.p.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-prod-use4.p.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-stg-asne1.s.gcp.oanda.com
+sitegateway-admin-heavy-demo.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-stg-usc1.s.gcp.oanda.com
 sitegateway-admin-heavy.k8s-stg-asne1.s.gcp.oanda.com
 sitegateway-admin-heavy.k8s-stg-euw3.s.gcp.oanda.com
@@ -1137,6 +1142,7 @@ sitegateway-streaming-demo.k8s-prod-asne1.p.gcp.oanda.com
 sitegateway-streaming-demo.k8s-prod-euw3.p.gcp.oanda.com
 sitegateway-streaming-demo.k8s-prod-use4.p.gcp.oanda.com
 sitegateway-streaming-demo.k8s-stg-asne1.s.gcp.oanda.com
+sitegateway-streaming-demo.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway-streaming-demo.k8s-stg-usc1.s.gcp.oanda.com
 sitegateway-streaming.k8s-dev-usc1.d.gcp.oanda.com
 sitegateway-streaming.k8s-stg-asne1.s.gcp.oanda.com
@@ -1523,3 +1529,6 @@ www1.oanda.com
 www2.oanda.com
 www3.oanda.com
 www4.oanda.com
+x.oanda.com
+yyz.oanda.com
+zabbix-uat.svc.ri.oanda.com

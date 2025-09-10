@@ -1314,6 +1314,7 @@
 *.emailin.ppe.communication.microsoft.com
 *.emailin.prod.communication.microsoft.com
 *.emailinbg.int.communication.microsoft.com
+*.emailinbg.npe.communication.microsoft.com
 *.emailinbg.ppe.communication.microsoft.com
 *.emailinbg.prod.communication.microsoft.com
 *.emailservice.microsoft.com
@@ -1409,6 +1410,7 @@
 *.events.dev.communication.microsoft.com
 *.events.endpoint.security.microsoft.com
 *.events.int.communication.microsoft.com
+*.events.npe.communication.microsoft.com
 *.events.ppe.communication.microsoft.com
 *.events.prod.communication.microsoft.com
 *.eventsync.directory-int.teams.microsoft.com
@@ -1579,6 +1581,7 @@
 *.hikana.myworkspace.microsoft.com
 *.hiworld.dev.communication.microsoft.com
 *.hiworld.int.communication.microsoft.com
+*.hiworld.npe.communication.microsoft.com
 *.hiworld.ppe.communication.microsoft.com
 *.hiworld.prod.communication.microsoft.com
 *.holoportation-relay-ffu.dev.collab.mixedreality.microsoft.com
@@ -2126,6 +2129,7 @@
 *.notify.communication.gcc.microsoft.com
 *.notify.dev.communication.microsoft.com
 *.notify.int.communication.microsoft.com
+*.notify.npe.communication.microsoft.com
 *.notify.ppe.communication.microsoft.com
 *.notify.prod.communication.microsoft.com
 *.nprs-aircapi.cp.microsoft.com
@@ -2209,6 +2213,7 @@
 *.orgmanagementservice.cs-canary.healthplatform.microsoft.com
 *.orgmanagementservice.cs-us1.healthplatform.microsoft.com
 *.ori-dev.serviceshub.microsoft.com
+*.origin-dev.video.microsoft.com
 *.origin.account.microsoft.com
 *.origin.delivery.mp.microsoft.com
 *.orko10.dev.space.microsoft.com
@@ -4400,6 +4405,7 @@
 *.rp.dev.communication.microsoft.com
 *.rp.int.adu.microsoft.com
 *.rp.int.communication.microsoft.com
+*.rp.npe.communication.microsoft.com
 *.rp.perf.adu.microsoft.com
 *.rp.ppe.communication.microsoft.com
 *.rp.prod.adu.microsoft.com
@@ -4478,6 +4484,7 @@
 *.scus.prod.rp.cloudtest.microsoft.com
 *.sdf.aps.infra.teams.microsoft.com
 *.sdf.pma.teams.microsoft.com
+*.sdf.relay.teams.microsoft.com
 *.sdf.rtmpingest-instance.mcr.teams.microsoft.com
 *.sdg.teams.microsoft.com
 *.sdx.microsoft.com
@@ -4600,6 +4607,7 @@
 *.smltenant.microsoft.com
 *.sms.dev.communication.microsoft.com
 *.sms.int.communication.microsoft.com
+*.sms.npe.communication.microsoft.com
 *.sms.ppe.communication.microsoft.com
 *.sms.prod.communication.microsoft.com
 *.smsb-canary.fl.teams.microsoft.com
@@ -5991,6 +5999,7 @@
 *.z15.daily-dfs.fabric.microsoft.com
 *.z15.daily-onelake.fabric.microsoft.com
 *.z15.daily-sql.cosmos.fabric.microsoft.com
+*.z15.daily-table.fabric.microsoft.com
 *.z15.dailygraphql.fabric.microsoft.com
 *.z15.datawarehouse.fabric.microsoft.com
 *.z15.datawarehouse.fabric-df.microsoft.com
@@ -15956,6 +15965,7 @@
 001-uswe.cip.api.cos.mediapaas.infra.teams.microsoft.com
 001-uswe.cip.ivr.cos.mediapaas.infra.teams.microsoft.com
 001-uswe.cipint.ivr.cos.mediapaas.infra.teams.microsoft.com
+001-uswe.dev.api.cos.mediapaas.infra.teams.microsoft.com
 001-uswe.flex.api.cos.mediapaas.infra.teams.microsoft.com
 001-uswe.flex.ivr.cos.mediapaas.infra.teams.microsoft.com
 001-uswe.noam.cip.cos.audience.teams.microsoft.com
@@ -27990,6 +28000,7 @@ api.cfp.microsoft.com
 api.cfs.fasttrack.microsoft.com
 api.cfx.microsoft.com
 api.choice.microsoft.com
+api.ci-corp.ads.microsoft.com
 api.ci.ads.microsoft.com
 api.clientcenter.ads.microsoft.com
 api.clientcenter.ads-int.microsoft.com
@@ -28303,6 +28314,7 @@ api.partners.microsoft.com
 api.partnertransact.microsoft.com
 api.partnertransactassist.microsoft.com
 api.partnertransactcore.microsoft.com
+api.payments.microsoft.com
 api.payments-int.microsoft.com
 api.perf.adu.microsoft.com
 api.personnel.microsoft.com
@@ -31828,6 +31840,7 @@ auto-bcdrfma2-pbi-kv-httpszone33.z33.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone34.z34.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone35.z35.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone36.z36.w.api.fabric-df.microsoft.com
+auto-bcdrfma2-pbi-kv-httpszone37.z37.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone38.z38.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone39.z39.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone3a.z3a.w.api.fabric-df.microsoft.com
@@ -31877,6 +31890,7 @@ auto-bcdrfma2-pbi-kv-httpszone65.z65.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone66.z66.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone67.z67.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone68.z68.w.api.fabric-df.microsoft.com
+auto-bcdrfma2-pbi-kv-httpszone69.z69.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone6a.z6a.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone6b.z6b.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszone6c.z6c.w.api.fabric-df.microsoft.com
@@ -31954,7 +31968,9 @@ auto-bcdrfma2-pbi-kv-httpszoneb3.zb3.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoneb4.zb4.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoneb5.zb5.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoneb6.zb6.w.api.fabric-df.microsoft.com
+auto-bcdrfma2-pbi-kv-httpszoneb7.zb7.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoneb8.zb8.w.api.fabric-df.microsoft.com
+auto-bcdrfma2-pbi-kv-httpszoneb9.zb9.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoneba.zba.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszonebb.zbb.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszonebc.zbc.w.api.fabric-df.microsoft.com
@@ -31982,6 +31998,7 @@ auto-bcdrfma2-pbi-kv-httpszoned1.zd1.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoned2.zd2.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoned3.zd3.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoned4.zd4.w.api.fabric-df.microsoft.com
+auto-bcdrfma2-pbi-kv-httpszoned5.zd5.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoned6.zd6.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoned7.zd7.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszoned8.zd8.w.api.fabric-df.microsoft.com
@@ -32016,6 +32033,8 @@ auto-bcdrfma2-pbi-kv-httpszonef4.zf4.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszonef5.zf5.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszonef6.zf6.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszonef7.zf7.w.api.fabric-df.microsoft.com
+auto-bcdrfma2-pbi-kv-httpszonef8.zf8.w.api.fabric-df.microsoft.com
+auto-bcdrfma2-pbi-kv-httpszonef9.zf9.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszonefa.zfa.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszonefb.zfb.w.api.fabric-df.microsoft.com
 auto-bcdrfma2-pbi-kv-httpszonefc.zfc.w.api.fabric-df.microsoft.com
@@ -49657,6 +49676,7 @@ auto-ppeedogwcus-pbi-kv-httpszone00.z00.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone01.z01.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone02.z02.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone03.z03.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone04.z04.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone05.z05.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone07.z07.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone08.z08.w.api.fabric-df.microsoft.com
@@ -49675,11 +49695,14 @@ auto-ppeedogwcus-pbi-kv-httpszone16.z16.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone17.z17.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone18.z18.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone19.z19.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone1a.z1a.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone1b.z1b.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone1c.z1c.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone1d.z1d.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone1e.z1e.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone1f.z1f.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone20.z20.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone21.z21.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone22.z22.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone23.z23.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone24.z24.w.api.fabric-df.microsoft.com
@@ -49694,30 +49717,40 @@ auto-ppeedogwcus-pbi-kv-httpszone2d.z2d.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone2e.z2e.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone2f.z2f.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone30.z30.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone31.z31.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone33.z33.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone34.z34.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone35.z35.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone37.z37.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone38.z38.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone39.z39.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone3a.z3a.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone3b.z3b.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone3c.z3c.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone3e.z3e.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone3f.z3f.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone40.z40.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone41.z41.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone42.z42.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone43.z43.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone44.z44.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone45.z45.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone46.z46.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone47.z47.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone48.z48.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone49.z49.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone4a.z4a.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone4b.z4b.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone4c.z4c.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone4d.z4d.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone4e.z4e.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone4f.z4f.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone50.z50.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone51.z51.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone52.z52.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone53.z53.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone54.z54.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone55.z55.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone56.z56.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone57.z57.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone58.z58.w.api.fabric-df.microsoft.com
@@ -49727,6 +49760,7 @@ auto-ppeedogwcus-pbi-kv-httpszone5b.z5b.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone5c.z5c.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone5d.z5d.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone5f.z5f.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone60.z60.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone62.z62.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone63.z63.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone64.z64.w.api.fabric-df.microsoft.com
@@ -49740,6 +49774,7 @@ auto-ppeedogwcus-pbi-kv-httpszone6b.z6b.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone6c.z6c.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone6d.z6d.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone6e.z6e.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone6f.z6f.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone70.z70.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone71.z71.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone72.z72.w.api.fabric-df.microsoft.com
@@ -49755,10 +49790,12 @@ auto-ppeedogwcus-pbi-kv-httpszone7b.z7b.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone7c.z7c.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone7d.z7d.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone7e.z7e.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone7f.z7f.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone80.z80.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone81.z81.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone82.z82.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone83.z83.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone84.z84.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone85.z85.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone86.z86.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone88.z88.w.api.fabric-df.microsoft.com
@@ -49766,14 +49803,17 @@ auto-ppeedogwcus-pbi-kv-httpszone89.z89.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone8a.z8a.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone8b.z8b.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone8c.z8c.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone8d.z8d.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone8e.z8e.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone8f.z8f.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone90.z90.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone91.z91.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone92.z92.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone93.z93.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone95.z95.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone96.z96.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone97.z97.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone98.z98.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone99.z99.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone9a.z9a.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone9b.z9b.w.api.fabric-df.microsoft.com
@@ -49781,6 +49821,7 @@ auto-ppeedogwcus-pbi-kv-httpszone9c.z9c.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone9d.z9d.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszone9f.z9f.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonea0.za0.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszonea1.za1.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonea2.za2.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonea3.za3.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonea4.za4.w.api.fabric-df.microsoft.com
@@ -49797,11 +49838,14 @@ auto-ppeedogwcus-pbi-kv-httpszoneae.zae.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneaf.zaf.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneb0.zb0.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneb2.zb2.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszoneb3.zb3.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneb4.zb4.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszoneb5.zb5.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneb7.zb7.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneb8.zb8.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneb9.zb9.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneba.zba.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszonebb.zbb.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonebc.zbc.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonebd.zbd.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonebe.zbe.w.api.fabric-df.microsoft.com
@@ -49818,12 +49862,14 @@ auto-ppeedogwcus-pbi-kv-httpszonec9.zc9.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonecb.zcb.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonecc.zcc.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonecd.zcd.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszonece.zce.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonecf.zcf.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoned0.zd0.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoned1.zd1.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoned2.zd2.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoned3.zd3.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoned4.zd4.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszoned5.zd5.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoned7.zd7.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoned8.zd8.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoned9.zd9.w.api.fabric-df.microsoft.com
@@ -49840,12 +49886,14 @@ auto-ppeedogwcus-pbi-kv-httpszonee3.ze3.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonee4.ze4.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonee6.ze6.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonee7.ze7.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszonee8.ze8.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonee9.ze9.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneea.zea.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneeb.zeb.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneec.zec.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneed.zed.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneee.zee.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszoneef.zef.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonef0.zf0.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonef1.zf1.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonef2.zf2.w.api.fabric-df.microsoft.com
@@ -49857,6 +49905,7 @@ auto-ppeedogwcus-pbi-kv-httpszonef7.zf7.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonef8.zf8.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonef9.zf9.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonefa.zfa.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszonefb.zfb.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonefd.zfd.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszonefe.zfe.w.api.fabric-df.microsoft.com
 auto-ppeedogwcus-pbi-kv-httpszoneff.zff.w.api.fabric-df.microsoft.com
@@ -66408,6 +66457,8 @@ aw2corpscomgw01.redmond.corp.microsoft.com
 aw2corpscomgw02.redmond.corp.microsoft.com
 awa.microsoft.com
 awa-ppe.microsoft.com
+awardsinvestments-dev.microsoft.com
+awardsinvestments-prod.microsoft.com
 awardsinvestments-uat.microsoft.com
 awasa.microsoft.com
 awsexternaluat.glbdns2.microsoft.com
@@ -67410,6 +67461,7 @@ az2sd00010081.redmond.corp.microsoft.com
 az2sd00010082.redmond.corp.microsoft.com
 az2sd00010083.redmond.corp.microsoft.com
 az2sd00010084.redmond.corp.microsoft.com
+az2sd00010085.redmond.corp.microsoft.com
 az2sdadcdeploy.redmond.corp.microsoft.com
 az2sdadmintestd.sys-wingroup.corp.microsoft.com
 az2sdadmintestd.sys-wingroup.ntdev.corp.microsoft.com
@@ -68798,6 +68850,7 @@ azureauditing.surface.aspx.cloudservices.microsoft.com
 azureava.microsoft.com
 azureava-api.microsoft.com
 azureava-bot.microsoft.com
+azureava-partnerapi.microsoft.com
 azureavamgmt-api.microsoft.com
 azurecdn-licensing.microsoft.com
 azurecms-prod-searchproxy.searchproxy.cms.microsoft.com
@@ -69075,6 +69128,10 @@ azwcussyslngu03.corp.microsoft.com
 azwcussyslngu03.redmond.corp.microsoft.com
 azwcussyslngu04.corp.microsoft.com
 azwcussyslngu04.redmond.corp.microsoft.com
+azwcussyslngu05.corp.microsoft.com
+azwcussyslngu05.redmond.corp.microsoft.com
+azwcussyslngu06.corp.microsoft.com
+azwcussyslngu06.redmond.corp.microsoft.com
 azwdgisyumrp01.redmond.corp.microsoft.com
 azweps12brxufa4.partners.extranet.microsoft.com
 azweps16btrpfc1.redmond.corp.microsoft.com
@@ -72184,6 +72241,7 @@ bur41af.servicesnet.microsoft.com
 burst-client.dps.mp.microsoft.com
 burst-int-client.dps.mp.microsoft.com
 burst-int.dps.mp.microsoft.com
+burst-int.ingestion.marketplace.microsoft.com
 burst.dps.mp.microsoft.com
 bus.brazil.tip0.rpadminssl.flow.microsoft.com
 bus.brazil.tip0.rpssl.flow.microsoft.com
@@ -73516,6 +73574,7 @@ cdn.st-sdk.msit.ecdn.microsoft.com
 cdn.st-sdk.prod.ecdn.microsoft.com
 cdn.staging.swiftkey.microsoft.com
 cdn.storeedgefd.dsx.mp.microsoft.com
+cdn.stride.microsoft.com
 cdn.support.services.microsoft.com
 cdn.swiftkey.microsoft.com
 cdn.techcommunity.microsoft.com
@@ -73851,6 +73910,7 @@ certv2.authz-int.pi.dps.microsoft.com
 certvisualizer.sit.mscert.microsoft.com
 certweb-client.dps.mp.microsoft.com
 certweb-int.dps.mp.microsoft.com
+certweb-int.ingestion.marketplace.microsoft.com
 certweb.dps.mp.microsoft.com
 certweblr.microsoft.com
 ces.corp.microsoft.com
@@ -74146,6 +74206,7 @@ chicago.myignitetour.techcommunity.microsoft.com
 chicago.techsummit.microsoft.com
 chiewacportal01.redmond.corp.microsoft.com
 chil-nrpchicago.techsummit.microsoft.com
+chilecentral.onelake.fabric.microsoft.com
 china.wallet.microsoft.com
 chinacache.download.microsoft.com
 chinacustomercase2021.microsoft.com
@@ -74967,6 +75028,7 @@ cloud-immersion.microsoft.com
 cloud.pace.pubcenter.microsoft.com
 cloud2.devportal.azure.glbdns.microsoft.com
 cloudaccelerator.microsoft.com
+cloudaccelerator-dev.microsoft.com
 cloudapp.azs-longhaul-01.selfhost.corp.microsoft.com
 cloudapp.bellevue.azurestack.corp.microsoft.com
 cloudapp.cccrca.azurestack.corp.microsoft.com
@@ -76373,10 +76435,13 @@ compassv2-revo.corp.microsoft.com
 compassv2.corp.microsoft.com
 compassv2bcp-revo.corp.microsoft.com
 compassv2bcp.corp.microsoft.com
+compassv2int-1-bing.corp.microsoft.com
 compassv2int-1-revo.corp.microsoft.com
 compassv2int-1.corp.microsoft.com
+compassv2int-2-bing.corp.microsoft.com
 compassv2int-2-revo.corp.microsoft.com
 compassv2int-2.corp.microsoft.com
+compassv2int-bing.corp.microsoft.com
 compassv2int-revo.corp.microsoft.com
 compassv2int.corp.microsoft.com
 compatscout.microsoft.com
@@ -76439,6 +76504,7 @@ conciergegrowth.microsoft.com
 conciergegrowth-eu.microsoft.com
 conciergeppe.microsoft.com
 confapi.microsoft.com
+confapiuat.microsoft.com
 confcompanionadminprod.microsoft.com
 config.microsoft.com
 config-bvt.learningecosystem.microsoft.com
@@ -76855,6 +76921,7 @@ corebts-com.partner.fttoolingapi.microsoft.com
 coreidentity.microsoft.com
 coreserviceeus.prod.fdagw.profileskills.microsoft.com
 coreservices.microsoft.com
+coreservices.healthplatform.microsoft.com
 coreservicewus.preprod.fdagw.profileskills.microsoft.com
 coreservicewus.prod.fdagw.profileskills.microsoft.com
 corests.wdgae.microsoft.com
@@ -78910,6 +78977,7 @@ czawitj22m1401.network.microsoft.com
 czawitj22m1451.network.microsoft.com
 d-signing.dogfood.ml.teams.microsoft.com
 d-signing.preview.ml.teams.microsoft.com
+d-signing.public-teams.ml.teams.microsoft.com
 d.apac.public-teams.main.ml.teams.microsoft.com
 d.au.public-teams.main.ml.teams.microsoft.com
 d.def.dogfood.main.ml.teams.microsoft.com
@@ -79645,6 +79713,7 @@ dcv2policysecretsencryption.manage-selfhost.microsoft.com
 dd-service.microsoft.com
 dd-service-dev.microsoft.com
 dd4ec23a-bf84-4015-92cf-0a787e582f2f.microsoft.com
+dd66a66a-4782-4729-84c0-6deb9b462905.microsoft.com
 dd9d12db-5009-4aa9-a2fd-2a892950f988.microsoft.com
 ddbldsp001-a.uip.corp.microsoft.com
 ddbldsp001-b.uip.corp.microsoft.com
@@ -79783,6 +79852,8 @@ def8e4a3-fbc0-4e24-86d1-28735b955340.microsoft.com
 default.searchextensibility.microsoft.com
 defaultstamp.svc.aksinternal.cbci.microsoft.com
 defender.microsoft.com
+defenderinsights.microsoft.com
+defenderinsights.corp.microsoft.com
 deferraljournal.bl2p.cp.microsoft.com
 deferraljournal.cp.microsoft.com
 deferraljournal.dm2p.cp.microsoft.com
@@ -81668,6 +81739,7 @@ dreamspark.download.prss.microsoft.com
 dreamsparkuat.download.prss.microsoft.com
 dricopilotint.microsoft.com
 drihealthdeployments.microsoft.com
+drivercontrolplane.microsoft.com
 drivercontrolplane-ppe.microsoft.com
 driversdepot.sourcedepot.corp.microsoft.com
 driversdepot.sys-ntgroup.ntdev.microsoft.com
@@ -81857,10 +81929,13 @@ dtmprodnugget.dtmnebula.microsoft.com
 dtplabs.microsoft.com
 dtplabs-staging.microsoft.com
 dtpsites.redmond.corp.microsoft.com
+dtr-f.apac.public-teams.main.ml.teams.microsoft.com
 dtr-f.dogfood.main.ml.teams.microsoft.com
+dtr-f.eur.public-teams.main.ml.teams.microsoft.com
 dtr-f.gcc.main.ml.gcc.teams.microsoft.com
 dtr-f.preview.main.ml.teams.microsoft.com
 dtr-f.public-teams.main.ml.teams.microsoft.com
+dtr-f.samafr.public-teams.main.ml.teams.microsoft.com
 dtr-signing.dogfood.ml.teams.microsoft.com
 dtr-signing.gcc.ml.gcc.teams.microsoft.com
 dtr-signing.preview.ml.teams.microsoft.com
@@ -83099,6 +83174,7 @@ emailin.int.communication.microsoft.com
 emailin.ppe.communication.microsoft.com
 emailin.prod.communication.microsoft.com
 emailinbg.int.communication.microsoft.com
+emailinbg.npe.communication.microsoft.com
 emailinbg.ppe.communication.microsoft.com
 emailinbg.prod.communication.microsoft.com
 emailinform.microsoft.com
@@ -83441,6 +83517,7 @@ engineeringcommunity.microsoft.com
 engineertoolkit.corp.microsoft.com
 engineertoolkitstaging.corp.microsoft.com
 engineml-containers.photos-dev.microsoft.com
+engportal.windows365.microsoft.com
 engsys.microsoft.com
 enhancedflightreport.microsoft.com
 enrichmentavocado.office.microsoft.com
@@ -84040,6 +84117,7 @@ eu.azurefds.microsoft.com
 eu.b.care.ais.wsd.microsoft.com
 eu.bingads.microsoft.com
 eu.businessassist.microsoft.com
+eu.care.ais.wsd.microsoft.com
 eu.checkin.dm.microsoft.com
 eu.checkin.dm-beta.microsoft.com
 eu.checkin.dm-dogfood.microsoft.com
@@ -87229,6 +87307,7 @@ game.entertainment.msncojp.jpchn.glbdns.microsoft.com
 gamedev.microsoft.com
 gamedeveloper.microsoft.com
 gamedevelopment.microsoft.com
+gamedevprodpme.microsoft.com
 gamedevstore.partners.extranet.microsoft.com
 gamedevsupp.microsoft.com
 gamepass.okr.onecertv2.dataes.microsoft.com
@@ -87826,6 +87905,7 @@ glb.backend.approvals-dev.dcat.dsp.mp.microsoft.com
 glb.backend.approvals-int.dcat.dsp.mp.microsoft.com
 glb.backend.approvals-int.eu-db.dcat.dsp.mp.microsoft.com
 glb.backend.approvals-prod.dcat.dsp.mp.microsoft.com
+glb.backend.approvals-prod.eu-db.dcat.dsp.mp.microsoft.com
 glb.backend.approvals-tip.dcat.dsp.mp.microsoft.com
 glb.backend.catalog-dev.dcat.dsp.mp.microsoft.com
 glb.backend.catalog-int.dcat.dsp.mp.microsoft.com
@@ -88835,6 +88915,7 @@ hitsapi.microsoft.com
 hivadataarchive.partners.extranet.microsoft.com
 hiworld.dev.communication.microsoft.com
 hiworld.int.communication.microsoft.com
+hiworld.npe.communication.microsoft.com
 hiworld.ppe.communication.microsoft.com
 hiworld.prod.communication.microsoft.com
 hk-devmon.corp.microsoft.com
@@ -90391,6 +90472,8 @@ idauth.dev.mci.microsoft.com
 idauth.mci.microsoft.com
 idbroker.microsoft.com
 idbroker-int.microsoft.com
+idc.followerkustoapi.pipe.prod.microsoft.com
+idc.internalkustoapi.pipe.prod.microsoft.com
 idc1maclab.kaptaanbastion.microsoft.com
 idcogs.corp.microsoft.com
 idcogsppe.corp.microsoft.com
@@ -90655,6 +90738,7 @@ images-dev.ti.defender.microsoft.com
 images-eds-origin.cpe.microsoft.com
 images-eds-origin.ppe.cpe.microsoft.com
 images-int.ecomm.microsoft.com
+images-ppe.ti.defender.microsoft.com
 images-stable.ecomm.microsoft.com
 images-test.ti.defender.microsoft.com
 images.ecomm.microsoft.com
@@ -91015,6 +91099,7 @@ ingest-trd-9ugt9crd4re03r0daz.z1.kusto.fabric.microsoft.com
 ingest-trd-9wq8t2bbzyzyy52dfd.z0.dev.kusto.fabric.microsoft.com
 ingest-trd-a2q1meg75ycgm0g77a.z7.dev.kusto.fabric.microsoft.com
 ingest-trd-a4mq1wmpmzzcss4rgf.z0.dev.kusto.fabric.microsoft.com
+ingest-trd-a7nju1jz7hsr61d3ra.z4.dev.kusto.fabric.microsoft.com
 ingest-trd-a8n5sy5jhrs02csdhn.z1.dev.kusto.fabric.microsoft.com
 ingest-trd-aacxswrs1fv9v2h9pv.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-ad9qeaycn6pgr17muf.z3.dev.kusto.fabric.microsoft.com
@@ -91071,6 +91156,7 @@ ingest-trd-dmq7h9fft89x6hqt92.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-dn8hsqhpku93zv151a.z7.kusto.fabric.microsoft.com
 ingest-trd-dn9hwgd3k9jxrjmnes.z4.kusto.fabric.microsoft.com
 ingest-trd-dnwxf9jm1mbs50ucme.z0.dev.kusto.fabric.microsoft.com
+ingest-trd-dpxtjju8z7ye1gey61.z4.dev.kusto.fabric.microsoft.com
 ingest-trd-dstttbh41eebm09f30.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-du84xy17tq8cde0x8f.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-dvs8kcj8kjfk4tcsq9.z6.dev.kusto.fabric.microsoft.com
@@ -91321,6 +91407,7 @@ ingest-trd-yhp3gg2kbgycuz5em9.z8.kusto.fabric.microsoft.com
 ingest-trd-yjjertx0tgbtm3p2un.z7.dev.kusto.fabric.microsoft.com
 ingest-trd-ynyb6yb12h7u84nth1.z0.dev.kusto.fabric.microsoft.com
 ingest-trd-yq1z5c21a54yy8x9fx.z4.dev.kusto.fabric.microsoft.com
+ingest-trd-yx8djdmw4640t86xq9.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-yz2nuj4ea5rdtnn1y9.z7.dev.kusto.fabric.microsoft.com
 ingest-trd-yzjy5pd02brvg7zh8s.z3.dev.kusto.fabric.microsoft.com
 ingest-trd-z048e9z12d81bkxqg8.z6.kusto.fabric.microsoft.com
@@ -91485,6 +91572,7 @@ insightapi-test.microsoft.com
 insights.microsoft.com
 insights-mdm.geneva.keyvault.microsoft.com
 insights.automation.data.wsd.corp.microsoft.com
+insights.mde.microsoft.com
 insights.notes.microsoft.com
 insights.redmond.corp.microsoft.com
 insights.sellerdashboard.microsoft.com
@@ -91881,6 +91969,7 @@ internal.burst-int.dps.mp.microsoft.com
 internal.burst.dps.mp.microsoft.com
 internal.cass.api.microsoft.com
 internal.certweb-int.dps.mp.microsoft.com
+internal.certweb-int.ingestion.marketplace.microsoft.com
 internal.certweb.dps.mp.microsoft.com
 internal.ciso-int.dps.mp.microsoft.com
 internal.ciso.dps.mp.microsoft.com
@@ -91931,6 +92020,7 @@ internal.playbook.microsoft.com
 internal.product-ingestion-int.mp.microsoft.com
 internal.product-ingestion.mp.microsoft.com
 internal.product-int.dps.mp.microsoft.com
+internal.product-int.ingestion.marketplace.microsoft.com
 internal.product.dps.mp.microsoft.com
 internal.productcatalogservice-df.dce.mp.microsoft.com
 internal.productcatalogservice.dce.mp.microsoft.com
@@ -91950,6 +92040,7 @@ internal.registration-int.glbdns2.microsoft.com
 internal.restriction-int.dps.mp.microsoft.com
 internal.restriction.dps.mp.microsoft.com
 internal.riker-int.dps.mp.microsoft.com
+internal.riker-int.ingestion.marketplace.microsoft.com
 internal.riker.dps.mp.microsoft.com
 internal.sandbox-ui.adcenter.microsoft.com
 internal.sandbox.ads.microsoft.com
@@ -91969,6 +92060,7 @@ internal.support.services.microsoft.com
 internal.thea.microsoft.com
 internal.tip.ads.microsoft.com
 internal.variant-int.dps.mp.microsoft.com
+internal.variant-int.ingestion.marketplace.microsoft.com
 internal.variant.dps.mp.microsoft.com
 internal.workflowservice-int-pme.dps.mp.microsoft.com
 internal.workflowservice-int.dps.mp.microsoft.com
@@ -93820,6 +93912,7 @@ lea-dev.microsoft.com
 leadbuilderapi.stores.microsoft.com
 leadform.microsoft.com
 leads.microsoft.com
+leads.aitour.microsoft.com
 leads.geneva.keyvault.secpack.microsoft.com
 leads.mmls.event.microsoft.com
 leads.rfadmin.events.microsoft.com
@@ -96569,6 +96662,7 @@ mai.fasttrack.microsoft.com
 mai4-am1bn0149.outbound.messaging.microsoft.com
 maicppmembershipadvspecux.microsoft.com
 maicppprogramux.microsoft.com
+maihud.microsoft.com
 mail.microsoft.com
 mail-01.microsoft.com
 mail-01.cloudmail.microsoft.com
@@ -98714,6 +98808,7 @@ mamsp.wip.mam.manage-dogfood.microsoft.com
 mamsp.wip.mam.manage-int.microsoft.com
 manage.microsoft.com
 manage-beta.microsoft.com
+manage-dev.microsoft.com
 manage-dogfood.microsoft.com
 manage-intxsuafd.microsoft.com
 manage-mig.microsoft.com
@@ -102273,6 +102368,7 @@ msvoicereporting.partners.extranet.microsoft.com
 msvoicereportinguat.partners.extranet.microsoft.com
 msvoicereports.partners.extranet.microsoft.com
 msvreports.partners.extranet.microsoft.com
+mswindchill.microsoft.com
 mswindchill.partners.extranet.microsoft.com
 mswindchill.redmond.corp.microsoft.com
 mswvd.microsoft.com
@@ -102782,6 +102878,8 @@ mustg-df.windsp.selfhost.corp.microsoft.com
 mustg.windsp.selfhost.corp.microsoft.com
 mustuktk5p5401.network.microsoft.com
 mustuktk5p5402.network.microsoft.com
+mustuktk5p54l1.network.microsoft.com
+mustuktk5p54l2.network.microsoft.com
 muv6nglocal.dev.ms.onepub.microsoft.com
 muv6nglocal.dev.pme.onepub.microsoft.com
 mva.microsoft.com
@@ -103601,6 +103699,7 @@ na01-va3-nsp-253-210-56-157.outbound.messaging.microsoft.com
 na01-va3-nsp-254-210-56-157.outbound.messaging.microsoft.com
 na01.b.care.ais.wsd.microsoft.com
 na01.care.ais.wsd.microsoft.com
+na01.dev.carenonprod.ais.wsd.microsoft.com
 na01.discovery.dm.microsoft.com
 na01.discovery.dm-beta.microsoft.com
 na01.discovery.dm-dogfood.microsoft.com
@@ -104698,6 +104797,8 @@ nxtpipeline.partners.extranet.microsoft.com
 nz-holoportation.dev.collab.mixedreality.microsoft.com
 nz.partners.retail.microsoft.com
 nz.xbox.partners.retail.microsoft.com
+nzn.followerkustoapi.pipe.prod.microsoft.com
+nzn.internalkustoapi.pipe.prod.microsoft.com
 nzteched.team.partners.extranet.microsoft.com
 o-deployment1.onepdm.microsoft.com
 o-deployment2.onepdm.microsoft.com
@@ -106711,6 +106812,7 @@ passportgw.css.microsoft.com
 paste.microsoft.com
 pat.cp.microsoft.com
 pat.partners.microsoft.com
+patchingagentuat.mdpatching.microsoft.com
 patrickherman.myworkspace.microsoft.com
 patrickmdip.reddog.microsoft.com
 patskw.cp.microsoft.com
@@ -107056,9 +107158,11 @@ pfplayprxy2020.partners.extranet.microsoft.com
 pfplayprxy2300.partners.extranet.microsoft.com
 pfplayprxy4200.partners.extranet.microsoft.com
 pfrare.corp.microsoft.com
+pfrarelogin.microsoft.com
 pfsgon.corp.microsoft.com
 pfsresourcelogin.microsoft.com
 pfsunflower.corp.microsoft.com
+pft10login.microsoft.com
 pftritonacoustics.corp.microsoft.com
 pfuat.microsoft.com
 pfxprofilesigning.manage.microsoft.com
@@ -108754,6 +108858,7 @@ ppe.cp.wd.microsoft.com
 ppe.credentials.microsoft.com
 ppe.cseowvd.microsoft.com
 ppe.cts.speech-test.microsoft.com
+ppe.cxp.qualityhub.microsoft.com
 ppe.cxpsupportabilityhub.microsoft.com
 ppe.data.watson.microsoft.com
 ppe.datatransfer.microsoft.com
@@ -110310,6 +110415,7 @@ product-ingestion-aircapi-ppe.mp.microsoft.com
 product-ingestion-int.mp.microsoft.com
 product-ingestion.mp.microsoft.com
 product-int.dps.mp.microsoft.com
+product-int.ingestion.marketplace.microsoft.com
 product-int.mp.microsoft.com
 product-revenue-configservice.mp.dps.microsoft.com
 product-revenue-configserviceint.mp.dps.microsoft.com
@@ -110498,6 +110604,7 @@ promotionwebeast.prod-promotion.dps.mp.microsoft.com
 prompt.microsoft.com
 prompts.microsoft.com
 pronservice.speech.microsoft.com
+propagationhub.test.microsoft.com
 proposal.microsoft.com
 proposal-sdf.microsoft.com
 proposal-tracker.l2o.microsoft.com
@@ -110584,6 +110691,7 @@ proxy.iis.cmfd.microsoft.com
 proxy.iis.customermaster.fd.cloud.microsoft.com
 proxy.latest.e2.l2o.microsoft.com
 proxy.msua01.manage.microsoft.com
+proxy.msua02.manage.microsoft.com
 proxy.msua05.manage.microsoft.com
 proxy.msua09.manage.microsoft.com
 proxy.msub02.manage.microsoft.com
@@ -110592,6 +110700,8 @@ proxy.msub09.manage.microsoft.com
 proxy.msuc01.manage.microsoft.com
 proxy.msuc02.manage.microsoft.com
 proxy.msuc05.manage.microsoft.com
+proxy.msuc06.manage.microsoft.com
+proxy.msud01.manage.microsoft.com
 proxy.portal.centralus.manage-dogfood.microsoft.com
 proxy.portal.centralus.manage-selfhost.microsoft.com
 proxy.portal.centuseuap.manage-selfhost.microsoft.com
@@ -114563,6 +114673,7 @@ ricsauth.rbsatest.microsoft.com
 rightcrowdamppe.corp.microsoft.com
 rightsizingicm.prod.xpert.microsoft.com
 riker-int.dps.mp.microsoft.com
+riker-int.ingestion.marketplace.microsoft.com
 riker.dps.mp.microsoft.com
 rikumari.myworkspace.microsoft.com
 rimar.myworkspace.microsoft.com
@@ -114844,6 +114955,7 @@ rp.extest.microsoft.com
 rp.int.adu.microsoft.com
 rp.int.communication.microsoft.com
 rp.local.detection.rome.microsoft.com
+rp.npe.communication.microsoft.com
 rp.onpremtest.nttest.microsoft.com
 rp.partners.extranet.microsoft.com
 rp.perf.adu.microsoft.com
@@ -116946,6 +117058,7 @@ sdf.mock.chaosorchestrator.teams.microsoft.com
 sdf.noam.reader.avs.infra.teams.microsoft.com
 sdf.noam.writer.avs.infra.teams.microsoft.com
 sdf.pma.teams.microsoft.com
+sdf.relay.teams.microsoft.com
 sdf.rpa.microsoft.com
 sdf.rtmpingest-instance.mcr.teams.microsoft.com
 sdf.rtmpingest.mcr.teams.microsoft.com
@@ -117105,6 +117218,7 @@ sdoxmlsdk.redmond.corp.microsoft.com
 sdoxmlsdk.sourcedepot.corp.microsoft.com
 sdp-beta.partners.extranet.microsoft.com
 sdp2dev.services.microsoft.com
+sdpa01.corp.microsoft.com
 sdpapi.microsoft.com
 sdpapiuat.microsoft.com
 sdparagoun.redmond.corp.microsoft.com
@@ -117607,6 +117721,7 @@ securitymarketplaceapi-dev.microsoft.com
 securitymarketplaceapi-play.microsoft.com
 securityoperations.microsoft.com
 securityscanningservices.microsoft.com
+securityscanningservices-cdx.microsoft.com
 securityscanningservices-preprod.microsoft.com
 securityscanningservices-tme01.microsoft.com
 securityservices-ppe.adcenterapi.microsoft.com
@@ -117959,6 +118074,7 @@ servicetree-client.webscout.corp.microsoft.com
 servicetreeextnapi.microsoft.com
 servicetrust.microsoft.com
 servicetrust-next.microsoft.com
+servicetrust.test.microsoft.com
 serviceu.sit.mscert.microsoft.com
 servicezilla.microsoft.com
 sesifyan2441687967.myworkspace.microsoft.com
@@ -118029,6 +118145,7 @@ setupguides.microsoft.com
 setupguides.sdf.microsoft.com
 setuptest.microsoft.com
 seval.microsoft.com
+seval-dev1.microsoft.com
 seval-test.microsoft.com
 sevalscraper-geneva.microsoft.com
 seven.buddy.microsoft.com
@@ -119927,6 +120044,7 @@ sms-psf-ibcm.microsoft.com
 sms.communication.gcc.microsoft.com
 sms.dev.communication.microsoft.com
 sms.int.communication.microsoft.com
+sms.npe.communication.microsoft.com
 sms.ppe.communication.microsoft.com
 sms.prod.communication.microsoft.com
 smsb-canary.fl.teams.microsoft.com
@@ -121586,6 +121704,7 @@ streamservice.watchdog.cp.microsoft.com
 stress.geneva.intlservices.microsoft.com
 stresshealthservice.glbdns.microsoft.com
 stresshealthservice.glbdns2.microsoft.com
+stride.microsoft.com
 strikecommunity.microsoft.com
 strongauthenticationservice.auth.microsoft.com
 strongauthenticationservice.auth-ppe.microsoft.com
@@ -123197,6 +123316,8 @@ tagtst.microsoft.com
 tahoe4.redmond.corp.microsoft.com
 taipei.myignitetour.techcommunity.microsoft.com
 taipei.techsummit.microsoft.com
+taiwannorth.api.cognitive.microsoft.com
+taiwannorth.dev.cognitive.microsoft.com
 taiwannorth.onelake.fabric.microsoft.com
 taiwannorthwest.onelake.fabric.microsoft.com
 talar.myworkspace.microsoft.com
@@ -125464,6 +125585,7 @@ trd-9nf612cjtmppv7vvk6.z9.dev.kusto.fabric.microsoft.com
 trd-9xe4w3uq6117c6era4.z1.dev.kusto.fabric.microsoft.com
 trd-a2q1meg75ycgm0g77a.z7.dev.kusto.fabric.microsoft.com
 trd-a4mq1wmpmzzcss4rgf.z0.dev.kusto.fabric.microsoft.com
+trd-a7nju1jz7hsr61d3ra.z4.dev.kusto.fabric.microsoft.com
 trd-ad9qeaycn6pgr17muf.z3.dev.kusto.fabric.microsoft.com
 trd-aew58j9heegjh5te88.z9.dev.kusto.fabric.microsoft.com
 trd-afm4dsc83p2n2cream.z6.dev.kusto.fabric.microsoft.com
@@ -125757,6 +125879,7 @@ trd-yfh9j2ep4ujc70qcx5.z0.dev.kusto.fabric.microsoft.com
 trd-yhp3gg2kbgycuz5em9.z8.kusto.fabric.microsoft.com
 trd-yjjertx0tgbtm3p2un.z7.dev.kusto.fabric.microsoft.com
 trd-ynyb6yb12h7u84nth1.z0.dev.kusto.fabric.microsoft.com
+trd-yx8djdmw4640t86xq9.z8.dev.kusto.fabric.microsoft.com
 trd-yz2nuj4ea5rdtnn1y9.z7.dev.kusto.fabric.microsoft.com
 trd-yz2tzkhwqv5cgjbh2x.z0.dev.kusto.fabric.microsoft.com
 trd-yzjy5pd02brvg7zh8s.z3.dev.kusto.fabric.microsoft.com
@@ -125776,6 +125899,7 @@ trd-zn7hagw84gbg96mzhq.z2.dev.kusto.fabric.microsoft.com
 trd-zpcygsa9t8usg15xuw.z2.kusto.fabric.microsoft.com
 trd-zrd2vxan5eszxud0t9.z5.dev.kusto.fabric.microsoft.com
 trd-zu7zfkc26j2vwrwndm.z6.dev.kusto.fabric.microsoft.com
+trd-zuay10ah9jp64b093b.z3.dev.kusto.fabric.microsoft.com
 treasury2016.redmond.corp.microsoft.com
 treasury2020.redmond.corp.microsoft.com
 treemining.smltenant.microsoft.com
@@ -126084,6 +126208,8 @@ twcdatareport1.redmond.corp.microsoft.com
 twcdatareport2.redmond.corp.microsoft.com
 twcdotrunner.redmond.corp.microsoft.com
 twcdotrunnerppe.redmond.corp.microsoft.com
+twn.followerkustoapi.pipe.prod.microsoft.com
+twn.internalkustoapi.pipe.prod.microsoft.com
 two.microsoft.com
 twoscreens.rap.microsoft.com
 twuat.redmond.corp.microsoft.com
@@ -126784,6 +126910,7 @@ us2.prod.powerquery.microsoft.com
 us20.office2010beta.microsoft.com
 us3.api.security.microsoft.com
 usage.cp.microsoft.com
+usageapis.mde.microsoft.com
 usageassets-clientauth.cp.microsoft.com
 usageassets-runnerclientauth.cp.microsoft.com
 usageassets.cp.microsoft.com
@@ -127274,6 +127401,7 @@ vamonetization.teams.microsoft.com
 vankg17070857.myworkspace.microsoft.com
 vaprocessor-canary.teams.microsoft.com
 variant-int.dps.mp.microsoft.com
+variant-int.ingestion.marketplace.microsoft.com
 variant.dps.mp.microsoft.com
 varinder.myworkspace.microsoft.com
 vasthare.myworkspace.microsoft.com

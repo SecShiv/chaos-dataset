@@ -1,4 +1,6 @@
+.rws.nl
 *.am2-test-cnap-test.k8s.cnap.rws.nl
+*.apps.hcp01.os-t.rws.nl
 *.at.rws.nl
 *.cisvm.intranet.rws.nl
 *.dev.at.rws.nl
@@ -40,8 +42,11 @@
 *.k8s.svm-harderwijk.cnap-am4.intranet.rws.nl
 *.k8s.svm-middelburg.cnap-am2.intranet.rws.nl
 *.k8s.svm-naarden.cnap-am4.intranet.rws.nl
+*.k8s.svm-oss.cnap-am4.intranet.rws.nl
 *.k8s.svm-rdl.cnap-am2.intranet.rws.nl
 *.k8s.svm-rotterdam.cnap-am2.intranet.rws.nl
+*.k8s.svm-steenbergen.cnap-am2.intranet.rws.nl
+*.k8s.svm-tilburg.cnap-am2.intranet.rws.nl
 *.k8s.svm-utrecht.cnap-am2.intranet.rws.nl
 *.k8s.svm-veenendaal.cnap-am4.intranet.rws.nl
 *.k8s.svm-woerden.cnap-am4.intranet.rws.nl
@@ -71,6 +76,7 @@
 2ddocgen.intranet.rws.nl
 2docgen.intranet.rws.nl
 acc-bergerselect.rws.nl
+acc-deformatieviewer.rws.nl
 acc-etl.rws.nl
 acc-etl.intranet.rws.nl
 acc-geo.rws.nl
@@ -208,6 +214,12 @@ atkubeje.dev.at.rws.nl
 auth.grid.rws.nl
 auth.vm-02.azure.grid.rws.nl
 autodiscover.rws.nl
+autodiscover.evenementen.rws.nl
+autodiscover.grip.rws.nl
+autodiscover.ioresearch.rws.nl
+autodiscover.omgevingswet.rws.nl
+autodiscover.perszaken.rws.nl
+autodiscover.tst.rws.nl
 bas.intranet.rws.nl
 bathymetrie.rws.nl
 bbe.grid.rws.nl
@@ -382,6 +394,7 @@ grafana.test.vm-04.azure.grid.rws.nl
 grafana.vm-02.azure.grid.rws.nl
 grid.rws.nl
 gridacc.rws.nl
+grip.rws.nl
 guestportal.rws.nl
 guestportal1.rws.nl
 guestportal2.rws.nl
@@ -415,6 +428,7 @@ innovatie.viya.intranet.rws.nl
 intelema.ad.rws.nl
 intranet.rws.nl
 iodk.vm-02.azure.grid.rws.nl
+ioresearch.rws.nl
 iotgw.grid.rws.nl
 ipam.grid.rws.nl
 irose.vm-02.azure.grid.rws.nl
@@ -436,7 +450,10 @@ k8s.svm-gorinchem.cnap-am2.intranet.rws.nl
 k8s.svm-harderwijk.cnap-am4.intranet.rws.nl
 k8s.svm-middelburg.cnap-am2.intranet.rws.nl
 k8s.svm-naarden.cnap-am4.intranet.rws.nl
+k8s.svm-oss.cnap-am4.intranet.rws.nl
 k8s.svm-rotterdam.cnap-am2.intranet.rws.nl
+k8s.svm-steenbergen.cnap-am2.intranet.rws.nl
+k8s.svm-tilburg.cnap-am2.intranet.rws.nl
 k8s.svm-utrecht.cnap-am2.intranet.rws.nl
 k8s.svm-veenendaal.cnap-am4.intranet.rws.nl
 k8s.svm-woerden.cnap-am4.intranet.rws.nl
@@ -752,6 +769,7 @@ office.sps-acceptatie.intranet.rws.nl
 office.sps-test.intranet.rws.nl
 office.sps.intranet.rws.nl
 office.systeem.rws.nl
+omgevingswet.rws.nl
 onderwaterobjecten.rws.nl
 ont-etl.intranet.rws.nl
 ont-p8.intranet.rws.nl
@@ -783,6 +801,7 @@ p8.intranet.rws.nl
 pages-dev.dev.at.rws.nl
 pages.gitlab.at.rws.nl
 pages.gitlab.dev.at.rws.nl
+perszaken.rws.nl
 pgadmin.vm-02.azure.grid.rws.nl
 pgsql-dev.dev.at.rws.nl
 phapps-acceptatie.intranet.rws.nl
@@ -825,6 +844,7 @@ rabbitmq-lmw2.cf-am4.intranet.rws.nl
 rabbitmq-magkapot-admin.publicatie.test.vm-04.azure.grid.rws.nl
 rabbitmq-multiplier-2-actuator.publicatie.test.vm-04.azure.grid.rws.nl
 rabbitmq-multiplier-actuator.publicatie.test.vm-04.azure.grid.rws.nl
+rabbitmq-multiplier-vczwn-actuator.publicatie.test.vm-04.azure.grid.rws.nl
 rabbitmq-ssl-test.cf-am4-acc.intranet.rws.nl
 rabbitmq-ssl-test.cnap-am2-acc.intranet.rws.nl
 rabbitmq.cf-am4-acc.intranet.rws.nl
@@ -951,6 +971,7 @@ staticresources.rws.nl
 stephan.vm-02.azure.grid.rws.nl
 stijlgids.rws.nl
 stm-sql-000-01.ad.rws.nl
+store.edge.rws.nl
 storefront.rws.nl
 storefront.ad.rws.nl
 storefront.intranet.rws.nl
@@ -1049,6 +1070,7 @@ training.topdesk-iv.intranet.rws.nl
 trivy.test.vm-04.azure.grid.rws.nl
 tsign.fam.rws.nl
 tsign.openam.rws.nl
+tst.rws.nl
 tst-bergerselect.rws.nl
 tst-etl.intranet.rws.nl
 tst-geo.intranet.rws.nl
@@ -1143,6 +1165,7 @@ www.rws.nl
 www-rws2011.rws.nl
 www.2docgen.intranet.rws.nl
 www.acc-bergerselect.rws.nl
+www.acc-deformatieviewer.rws.nl
 www.acc-ovdsupport.rws.nl
 www.acc-p8.intranet.rws.nl
 www.acc-port-enc.rws.nl

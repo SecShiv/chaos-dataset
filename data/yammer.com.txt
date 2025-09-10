@@ -1,3 +1,4 @@
+.yammer.com
 *.yammer.com
 *.c1.prod-central-1.mesos.yammer.com
 *.c1.prod-east-1.mesos.yammer.com
@@ -41,6 +42,7 @@
 *.c6.pew1.yammer.com
 *.c7.pen1.yammer.com
 *.c7.pew1.yammer.com
+*.dev.yammer.com
 *.docs.yammer.com
 *.eu.yammer.com
 *.eu-1.yammer.com
@@ -58,12 +60,22 @@
 *.puc1.yammer.com
 *.pue1.yammer.com
 *.rt.yammer.com
+*.rt.dev.yammer.com
 *.rt.gov.yammer.com
 *.rt.msit.cosmic.yammer.com
 *.rt.staging.yammer.com
 *.rt.test.cosmic.yammer.com
 *.s12a.yammer.com
 *.s12b.yammer.com
+*.s200.sdf.yammer.com
+*.s200a.sdf.yammer.com
+*.s200b.sdf.yammer.com
+*.s50.dev.yammer.com
+*.s50a.dev.yammer.com
+*.s50b.dev.yammer.com
+*.s600.gcch.yammer.com
+*.s600a.gcch.yammer.com
+*.s600b.gcch.yammer.com
 *.stage-central-1.mesos.yammer.com
 *.stage-east-1.mesos.yammer.com
 *.staging.yammer.com
@@ -262,6 +274,7 @@
 30rock.integration.yammer.com
 about.yammer.com
 about.staging.yammer.com
+afd.yammer.com
 airwolf.integration.yammer.com
 aka-assets.yammer.com
 aka-assets.staging.yammer.com
@@ -1008,6 +1021,7 @@ vpn1.sjc1.yammer.com
 walkingdead.integration.yammer.com
 wario.staging.yammer.com
 web.yammer.com
+web.dev.yammer.com
 westworld.integration.yammer.com
 whatsnew.yammer.com
 whatsnew.staging.yammer.com

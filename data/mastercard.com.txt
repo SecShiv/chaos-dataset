@@ -712,7 +712,9 @@ api.mptse.mastercard.com
 api.mtf.mpe.mastercard.com
 api.mtf.mptse.mastercard.com
 api.stage.mptse.mastercard.com
+api.stage.xbspins.xbs.mastercard.com
 api.uat.mptse.mastercard.com
+api.us-east-1.stage.xbspins.xbs.mastercard.com
 api.verify.mastercard.com
 api.workbench.mastercard.com
 api.xbs.mastercard.com
@@ -1593,6 +1595,8 @@ captainuat.mastercard.com
 captainwalletdev.mastercard.com
 captiveportal.mastercard.com
 captiveportalsgp.mastercard.com
+cardedrateapi.stage.xbspins.xbs.mastercard.com
+cardedrateapi.us-east-1.stage.xbspins.xbs.mastercard.com
 cardholder.mastercard.com
 cardholder.commercepass.mastercard.com
 cardholder.mastercardworldwide.com.rdns.mastercard.com
@@ -1709,6 +1713,7 @@ clc.conv.stage.mptse.mastercard.com
 clerk.smallbusinessai.mastercard.com
 click1.mail.id-theft-alerts.mastercard.com
 click1.mail.intesasanpaolo-protezioneidentita.mastercard.com
+clickme.a.mybiz360.mastercard.com
 clickme.mybiz360.mastercard.com
 client.customeronboarding.mastercard.com
 client.mtf.customeronboarding.mastercard.com
@@ -1959,6 +1964,7 @@ dev.ci.mastercard.com
 dev.client.nemo.mptse.mastercard.com
 dev.client1.nemo.mptse.mastercard.com
 dev.cryptosolutions.services.mastercard.com
+dev.cryptosolutionshub.mastercard.com
 dev.developer.mastercard.com
 dev.digital-assets.mastercard.com
 dev.dp.stl.mastercard.com
@@ -2462,6 +2468,8 @@ icfi-pit.mastercard.com
 icfi-tt.mastercard.com
 id-theft-alerts.mastercard.com
 id-theft-alerts-schoolsfirstfcu.mastercard.com
+idapi.stage.xbspins.xbs.mastercard.com
+idapi.us-east-1.stage.xbspins.xbs.mastercard.com
 idashboards.mastercard.com
 idashboards.mtf.mastercard.com
 idashboards.stage.mastercard.com
@@ -2473,6 +2481,8 @@ idist.mastercard.com
 idist-cr.mastercard.com
 idist-pit.mastercard.com
 idist-tt.mastercard.com
+idportal.stage.xbspins.xbs.mastercard.com
+idportal.us-east-1.stage.xbspins.xbs.mastercard.com
 idproteccion.latinamerica.mastercard.com
 idservice.mastercard.com
 idv.mastercard.com
@@ -2554,6 +2564,10 @@ itf.static.masterpass.mastercard.com
 itf.tds.mastercard.com
 itf.verify.mastercard.com
 ivr.moneysend.mastercard.com
+iw10api.stage.xbspins.xbs.mastercard.com
+iw10api.us-east-1.stage.xbspins.xbs.mastercard.com
+iw20api.stage.xbspins.xbs.mastercard.com
+iw20api.us-east-1.stage.xbspins.xbs.mastercard.com
 izapp.mastercard.com
 jaguarwalletdev.mastercard.com
 jamf.mastercard.com
@@ -3408,6 +3422,8 @@ mtls-prod-src-client.mastercard.com
 mtls-stage-src-client.mastercard.com
 mtp.mastercard.com
 mtscloud.mastercard.com
+mtsportal.stage.xbspins.xbs.mastercard.com
+mtsportal.us-east-1.stage.xbspins.xbs.mastercard.com
 music.mastercard.com
 mvo.ksc.mastercard.com
 mvo.stl.mastercard.com
@@ -3481,6 +3497,8 @@ onboardinghub-stage.mastercard.com
 onboardinghub-test.mastercard.com
 onlinebank.truaxis.mastercard.com
 onpremiseauthorization.mastercard.com
+ooredooapi.stage.xbspins.xbs.mastercard.com
+ooredooapi.us-east-1.stage.xbspins.xbs.mastercard.com
 openbanking.mastercard.com
 operations.stage.ecs.mastercard.com
 opt.mastercard.com
@@ -3621,6 +3639,10 @@ partners.mastercard.com
 pathway.mastercard.com
 paydemo.benefit.mastercard.com
 paydemo.elevate.mastercard.com
+payerapi.stage.xbspins.xbs.mastercard.com
+payerapi.us-east-1.stage.xbspins.xbs.mastercard.com
+payerweb.stage.xbspins.xbs.mastercard.com
+payerweb.us-east-1.stage.xbspins.xbs.mastercard.com
 paypassdevices.mastercard.com
 pba-artifactory.mastercard.com
 pc.mtf.gateway.mastercard.com
@@ -3672,12 +3694,15 @@ perf.stripe2.gateway.mastercard.com
 perf.tds.mastercard.com
 perf.tds.mdes.mastercard.com
 perf.truaxis.mastercard.com
+perf.verify.mastercard.com
 perf.ws.mastercard.com
 perf2.truaxis.mastercard.com
 perf2.truaxis2.mastercard.com
 performancemarketing.mastercard.com
 pilot.mastercard.com
 pilot.forge.mastercard.com
+pimweb.stage.xbspins.xbs.mastercard.com
+pimweb.us-east-1.stage.xbspins.xbs.mastercard.com
 pinpoint-citrix.mastercard.com
 pinpoint.welcome.mastercard.com
 pit.portal.izapp.mastercard.com
@@ -4004,6 +4029,8 @@ rppsmtf.mastercard.com
 rppsprd.mastercard.com
 rps-ui-client.mtf.api.gateway.mastercard.com
 rps-ui-client.stage.api.gateway.mastercard.com
+rsdweb.stage.xbspins.xbs.mastercard.com
+rsdweb.us-east-1.stage.xbspins.xbs.mastercard.com
 rt.mtf.truaxis.mastercard.com
 rtp-biller-api.requesttopay.mastercard.com
 rtp-biller-api.requesttopay.preprod.mastercard.com
@@ -4039,6 +4066,8 @@ sabb.perf2.truaxis.mastercard.com
 sabb.qa.truaxis.mastercard.com
 sabb.truaxis.mastercard.com
 sabb.uat.truaxis.mastercard.com
+safaricomcallbackapi.stage.xbspins.xbs.mastercard.com
+safaricomcallbackapi.us-east-1.stage.xbspins.xbs.mastercard.com
 safemail.mastercard.com
 safemail1.mastercard.com
 sais.mastercard.com
@@ -4379,6 +4408,8 @@ smtp.360.mastercard.com
 smtp.marketingcenter.mastercard.com
 snb.travel.mastercard.com
 snpp.mastercard.com
+soapapi.stage.xbspins.xbs.mastercard.com
+soapapi.us-east-1.stage.xbspins.xbs.mastercard.com
 social.mastercard.com
 soldo.conv.dev.mptse.mastercard.com
 soldo.conv.prod.mptse.mastercard.com
@@ -5034,7 +5065,11 @@ static.stage.developer.mastercard.com
 static.stage.gateway.mastercard.com
 static.stage.mfn.mastercard.com
 status.developer.mastercard.com
+statusapi.stage.xbspins.xbs.mastercard.com
+statusapi.us-east-1.stage.xbspins.xbs.mastercard.com
 statusdb.mastercard.com
+statusportal.stage.xbspins.xbs.mastercard.com
+statusportal.us-east-1.stage.xbspins.xbs.mastercard.com
 stg-comparte.mastercard.com
 stg-iad-caas-luna-01-a.mastercard.com
 stg-perf-mmc-gw-sf.mastercard.com
@@ -5376,6 +5411,8 @@ travelwithus-dev.mastercard.com
 trc-be-prod.mastercard.com
 trc-techresource.mastercard.com
 trial.forge.mastercard.com
+troikaportal.stage.xbspins.xbs.mastercard.com
+troikaportal.us-east-1.stage.xbspins.xbs.mastercard.com
 truaxis.mastercard.com
 truaxis.internal.mastercard.com
 truaxis2.mastercard.com
@@ -5546,6 +5583,8 @@ webfed.perf2.truaxis.mastercard.com
 webfed.qa.truaxis.mastercard.com
 webfed.truaxis.mastercard.com
 webfed.uat.truaxis.mastercard.com
+webhookapi.stage.xbspins.xbs.mastercard.com
+webhookapi.us-east-1.stage.xbspins.xbs.mastercard.com
 webintel.mastercard.com
 webmail.mastercard.com
 webmail-ksc.mastercard.com
@@ -5553,6 +5592,8 @@ webmail-new.mastercard.com
 webmail-standby.mastercard.com
 webmail-stl.mastercard.com
 webmailstage.mastercard.com
+webportal.stage.xbspins.xbs.mastercard.com
+webportal.us-east-1.stage.xbspins.xbs.mastercard.com
 welcome.mastercard.com
 wemail-stl.mastercard.com
 westernunion.gateway.mastercard.com
@@ -5765,6 +5806,8 @@ xb-hos-prod.mastercard.com
 xb-hos-pt-hs2.mastercard.com
 xb-hos-pt-stage.mastercard.com
 xb-hos-stage.mastercard.com
+xbcportal.stage.xbspins.xbs.mastercard.com
+xbcportal.us-east-1.stage.xbspins.xbs.mastercard.com
 xmlgw.mad.mastercard.com
 xmpp.mastercard.com
 yess.mastercard.com

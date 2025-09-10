@@ -7,6 +7,7 @@
 *.admin.discord.cloudflare.com
 *.admin.sqlite.cloudflare.com
 *.ai.cloudflare.com
+*.ai.support.cloudflare.com
 *.aig.cloudflare.com
 *.aim.cloudflare.com
 *.akd-auditor.cloudflare.com
@@ -22,11 +23,14 @@
 *.apple-relay.cloudflare.com
 *.assets.dash.staging.cloudflare.com
 *.billing.support.cloudflare.com
+*.blocked.teams.fed.cloudflare.com
 *.blog.cloudflare.com
 *.blog-staging.cloudflare.com
 *.canary.dash.staging.cloudflare.com
 *.cdnjs.cloudflare.com
 *.cdnjs-staging.cloudflare.com
+*.certifications.cloudflare.com
+*.certvalidate-staging.cloudflare.com
 *.ces.dlp.teams.cloudflare.com
 *.challenger.research.cloudflare.com
 *.challenges.cloudflare.com
@@ -102,6 +106,7 @@
 *.js-challenger.research.cloudflare.com
 *.js.images.cloudflare.com
 *.key-transparency.cloudflare.com
+*.labs.cloudflare.com
 *.leader.prio.research.cloudflare.com
 *.linkdefender.cloudflare.com
 *.linux.cloudflare.com
@@ -185,6 +190,7 @@
 *.staging.gates.cloudflare.com
 *.staging.mail.cloudflare.com
 *.staging.pages.cloudflare.com
+*.staging.realtime.cloudflare.com
 *.staging.sparrow.cloudflare.com
 *.staging.support.cloudflare.com
 *.static-canary.dash.staging.cloudflare.com
@@ -297,6 +303,7 @@ abuse.cloudflare.com
 abuse.www.staging.cloudflare.com
 access.cloudflare.com
 access-trail.research.cloudflare.com
+accounts.staging.realtime.cloudflare.com
 ace.ns.cloudflare.com
 achiel.ns.cloudflare.com
 ada.nc.cloudflare.com
@@ -322,6 +329,7 @@ affiliate.ecomeasy.asiacdnjs.cloudflare.com
 agustin.ns.cloudflare.com
 ai.cloudflare.com
 ai-worker.dlp.teams.cloudflare.com
+ai.support.cloudflare.com
 aida.ns.cloudflare.com
 aiden.ns.cloudflare.com
 aig.cloudflare.com
@@ -390,6 +398,7 @@ anuj.ns.cloudflare.com
 api.cloudflare.com
 api-documentation-site.developers.cloudflare.com
 api-origin.cloudflare.com
+api-silos.staging.realtime.cloudflare.com
 api-staging.notifications.cloudflare.com
 api.integrations.cloudflare.com
 api.notifications.cloudflare.com
@@ -461,6 +470,7 @@ aurora.ns.cloudflare.com
 austin.ns.cloudflare.com
 auth.cloudflare.com
 autodiscover.dairystatecheese.com.kip.ns.cloudflare.com
+autofix-container-staging.mcp.cloudflare.com
 autumn.ns.cloudflare.com
 ave.ns.cloudflare.com
 ay.ns.cloudflare.com
@@ -497,6 +507,7 @@ blecky.ns.cloudflare.com
 blocked-dom.ns.cloudflare.com
 blocked-lorna.ns.cloudflare.com
 blocked.teams.cloudflare.com
+blocked.teams.fed.cloudflare.com
 blog.cloudflare.com
 blog-staging.cloudflare.com
 blog.api.www.cloudflare.com
@@ -606,6 +617,8 @@ cefan-scratchpad.research.cloudflare.com
 celeste.ns.cloudflare.com
 celine.ns.cloudflare.com
 celyn.ns.cloudflare.com
+certifications.cloudflare.com
+certvalidate-staging.cloudflare.com
 ces.dlp.teams.cloudflare.com
 cesar.ns.cloudflare.com
 cf-162-158-64-226.cloudflare.com
@@ -8520,6 +8533,7 @@ demo-pat.research.cloudflare.com
 demo-pp-attester.research.cloudflare.com
 demo.href.cloudflare.com
 demo.pat-issuer.cloudflare.com
+demo.staging.realtime.cloudflare.com
 demos.cloudflare.com
 denver.ns.cloudflare.com
 deploy.workers.cloudflare.com
@@ -8771,6 +8785,7 @@ graham.ns.cloudflare.com
 grannbo.ns.cloudflare.com
 grant.ns.cloudflare.com
 graphql-staging.mcp.cloudflare.com
+graphql.mcp.cloudflare.com
 greg.ns.cloudflare.com
 gus.ns.cloudflare.com
 guss.ns.cloudflare.com
@@ -9069,6 +9084,7 @@ kurt.ns.cloudflare.com
 kyle.ns.cloudflare.com
 kyree.ns.cloudflare.com
 kyrie.ns.cloudflare.com
+labs.cloudflare.com
 lady.cloudflare.com
 lady.ns.cloudflare.com
 laila.ns.cloudflare.com
@@ -9136,6 +9152,8 @@ lleah.ns.cloudflare.com
 lloyd.ns.cloudflare.com
 lmo.ns.cloudflare.com
 lo.ns.cloudflare.com
+location-legacy.staging.realtime.cloudflare.com
+location.staging.realtime.cloudflare.com
 lochlan.ns.cloudflare.com
 logan.cloudflare.com
 logan.ms.cloudflare.com
@@ -9963,6 +9981,7 @@ pat.ns.cloudflare.com
 patrick.ns.cloudflare.com
 patryk.ns.cloudflare.com
 paul.ns.cloudflare.com
+payments.dash.staging.cloudflare.com
 pdw.dlp.teams.cloudflare.com
 peaches.ns.cloudflare.com
 pearl.ns.cloudflare.com

@@ -3180,6 +3180,7 @@
 *.cts-api-stg.tgt-platform-cts-prd.ne1.ows.oath.cloud
 *.cts-api-stg.tgt-platform-cts-prd.sg3.ows.oath.cloud
 *.cts-api-stg.tgt-platform-cts-prd.tp2.ows.oath.cloud
+*.cts-api.internal.dcs-online-targeting-dev.aws.oath.cloud
 *.ctu01.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 *.cwan01.lumos.tw-media-wizardry.aws-use1-az1.dev.vespa.oath.cloud
 *.cwan01.myapp.sandbox.us-east-1.dev.vespa.oath.cloud
@@ -4845,6 +4846,17 @@
 *.fff45667.g.vespa.oath.cloud
 *.fff45667.z.vespa.oath.cloud
 *.finance-aws-devs.aws.oath.cloud
+*.finance.ranking-index.mlplatform.aws-ap-southeast-1a.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.aws-eu-west-1a.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.aws-us-east-1a.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.aws-us-west-2a.staging.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.aws-us-west-2a.test.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.aws-us-west-2a.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.gcp-us-east5-a.staging.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.gcp-us-east5-a.test.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.global.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.us-east-1.test.vespa.oath.cloud
+*.finance.ranking-index.mlplatform.us-east-3.staging.vespa.oath.cloud
 *.fires-brana-dev.aws.oath.cloud
 *.flakies.csp.gemini-native.aws-us-west-2a.staging.vespa.oath.cloud
 *.flakies.csp.gemini-native.aws-us-west-2a.test.vespa.oath.cloud
@@ -5324,6 +5336,8 @@
 *.kkraune.music.sandbox.aws-us-east-2a.dev.vespa.oath.cloud
 *.kkraune.music.sandbox.us-east-1.dev.vespa.oath.cloud
 *.kmaganti01.affiliate-beta.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
+*.koi-ads-mgr-aws-prod.aws.oath.cloud
+*.koi-ads-mgr-aws-qa.aws.oath.cloud
 *.kraune.myapp.sandbox.aws-us-east-2a.dev.vespa.oath.cloud
 *.kraune.myapp.sandbox.us-east-1.dev.vespa.oath.cloud
 *.kraune2.myapp.sandbox.us-east-1.dev.vespa.oath.cloud
@@ -6492,6 +6506,7 @@
 *.spa.gemini-serving.us-west-1.vespa.oath.cloud
 *.splunk.flurry-dev.aws.oath.cloud
 *.splunk.flurry-stg.aws.oath.cloud
+*.sports-aws-prod-omega.aws.oath.cloud
 *.sports.ranking-index.mlplatform.aws-us-east-1a.vespa.oath.cloud
 *.sports.ranking-index.mlplatform.aws-us-west-2a.staging.vespa.oath.cloud
 *.sports.ranking-index.mlplatform.aws-us-west-2a.test.vespa.oath.cloud
@@ -8882,6 +8897,8 @@ ausnews.ausnews.aws-us-east-1c.public.vespa.oath.cloud
 ausnews.ausnews.aws-us-east-1c.staging.public.vespa.oath.cloud
 ausnews.ausnews.aws-us-east-1c.test.public.vespa.oath.cloud
 ausnews.ausnews.global.public.vespa.oath.cloud
+auth-service.content-management-prod.aws.oath.cloud
+auth-service.dev.content-management-dev.aws.oath.cloud
 auth-service.stage.content-management-nonprod.aws.oath.cloud
 auth.pcp-dataday-account-001.aws.oath.cloud
 authentication.adsdev-iam.adv-ds-cardinal-dev.aws.oath.cloud
@@ -12260,6 +12277,7 @@ cts-api-us-east-1-prd.dcs-online-targeting-prd.aws.oath.cloud
 cts-api-us-east-2-prd.dcs-online-targeting-prd.aws.oath.cloud
 cts-api-us-west-1-prd.dcs-online-targeting-prd.aws.oath.cloud
 cts-api-us-west-2-prd.dcs-online-targeting-prd.aws.oath.cloud
+cts-api.internal.dcs-online-targeting-dev.aws.oath.cloud
 cts-api.tgt-platform-cts.bf2.ows.oath.cloud
 cts-api.tgt-platform-cts.gq2.ows.oath.cloud
 cts-api.tgt-platform-cts.ir2.ows.oath.cloud
@@ -13467,6 +13485,17 @@ filebeat.identityb2b-uat.aws.oath.cloud
 filebeat.identityb2b.aws.oath.cloud
 finance-personalfinance-devs.aws.oath.cloud
 finance-personalfinance-nonprod.aws.oath.cloud
+finance.ranking-index.mlplatform.aws-ap-southeast-1a.vespa.oath.cloud
+finance.ranking-index.mlplatform.aws-eu-west-1a.vespa.oath.cloud
+finance.ranking-index.mlplatform.aws-us-east-1a.vespa.oath.cloud
+finance.ranking-index.mlplatform.aws-us-west-2a.staging.vespa.oath.cloud
+finance.ranking-index.mlplatform.aws-us-west-2a.test.vespa.oath.cloud
+finance.ranking-index.mlplatform.aws-us-west-2a.vespa.oath.cloud
+finance.ranking-index.mlplatform.gcp-us-east5-a.staging.vespa.oath.cloud
+finance.ranking-index.mlplatform.gcp-us-east5-a.test.vespa.oath.cloud
+finance.ranking-index.mlplatform.global.vespa.oath.cloud
+finance.ranking-index.mlplatform.us-east-1.test.vespa.oath.cloud
+finance.ranking-index.mlplatform.us-east-3.staging.vespa.oath.cloud
 fingerprint-service.payments-aws-services-dev.aws.oath.cloud
 fingerprint-service.payments-aws-services-stg.aws.oath.cloud
 fingerprint.flurry-stg.aws.oath.cloud
@@ -15095,6 +15124,8 @@ kmaganti01.affiliate-beta.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
 kmahen.music.sandbox.aws-us-east-2a.dev.vespa.oath.cloud
 kmahen.music.sandbox.us-east-1.dev.vespa.oath.cloud
 kmahen.music.sandbox.us-east-3.perf.vespa.oath.cloud
+koi-ads-mgr-aws-prod.aws.oath.cloud
+koi-ads-mgr-aws-qa.aws.oath.cloud
 koi-ui.koi-ads-mgr-aws-qa.aws.oath.cloud
 kolide-fleet-alb-v4.3.1.paranoids-c-osq.aws.oath.cloud
 kolide-fleet-alb.paranoids-c-osq.aws.oath.cloud
@@ -17372,6 +17403,7 @@ rabbitmq.jacobestelle-home.bf2.ows.oath.cloud
 rabbitmq.jacobestelle-home.gq2.ows.oath.cloud
 rabbitmq.prod-mec.bf2.ows.oath.cloud
 rabbitmq.prod-mec.gq2.ows.oath.cloud
+radm-dev.radm-dq-aws-dev.aws.oath.cloud
 radmprd.radm-dq-aws-prod.aws.oath.cloud
 rafan.csp.gemini-native.aws-us-east-2a.dev.vespa.oath.cloud
 rafan.docker-search.rafan-vespa.aws-us-east-2a.dev.vespa.oath.cloud
@@ -18214,6 +18246,7 @@ splunktest.uplynk-inf.aws.oath.cloud
 spm.mobileplatforms-xcode-package-collection.aws.oath.cloud
 sponsored-prod.rtang-spa-dev.us-east-1.dev.vespa.oath.cloud
 sponsored-prod.rtang-spa-dev.us-east-3.perf.vespa.oath.cloud
+sports-aws-prod-omega.aws.oath.cloud
 sports.ranking-index.mlplatform.aws-us-east-1a.vespa.oath.cloud
 sports.ranking-index.mlplatform.aws-us-west-2a.staging.vespa.oath.cloud
 sports.ranking-index.mlplatform.aws-us-west-2a.test.vespa.oath.cloud
@@ -20055,6 +20088,7 @@ vdepy6uxtr5ylikoqj35vixfytogvgwjs.vespa.oath.cloud
 vdfculpgzeijwn66iv5q5d24pzweaxzdc.vespa.oath.cloud
 vdfkv3hwzrgyfppaolberdp2xtgxp3j7k.vespa.oath.cloud
 vdfmhersgkc4eyocebj7cie5ngpuym2uq.vespa.oath.cloud
+vdfr4yw4x2h2qpwsq7v6sv42rua5renom.vespa.oath.cloud
 vdfxumc7ewcyosuiowazceasvmtjb7s4l.vespa.oath.cloud
 vdgoiw4yszzd7pctvssm4i25qs7n6thav.vespa.oath.cloud
 vdgruitk7o6zaztmxk4fweiiqkp4amzd6.vespa.oath.cloud

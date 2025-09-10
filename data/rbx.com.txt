@@ -1,5 +1,8 @@
 *.rbx.com
 *.access.st3.rbx.com
+*.ai-inference-dev.prod.ml.rbx.com
+*.ai-inference-prod.prod.ml.rbx.com
+*.ai-inference.prod.ml.rbx.com
 *.aip-inference.prod.ml.rbx.com
 *.airflow2.dev-core.dic.rbx.com
 *.airflow2.dev-creator.dic.rbx.com
@@ -34,6 +37,8 @@
 *.artifactory-test.rbx.com
 *.artifacts.rbx.com
 *.artifacts-prod-1.rbx.com
+*.artifacts-stage.rbx.com
+*.artifacts-stage-1.rbx.com
 *.astro.dev-core.dic.rbx.com
 *.astro.dev-engine.dic.rbx.com
 *.astro.dev-growth.dic.rbx.com
@@ -47,6 +52,7 @@
 *.astro.prod-core.dic.rbx.com
 *.astro.prod-economy.dic.rbx.com
 *.astro.prod-engine.dic.rbx.com
+*.bloxid.rbx.com
 *.bloxvisualizer.st3.rbx.com
 *.code-migration-app.st3.rbx.com
 *.core.airflow2.di.rbx.com
@@ -99,7 +105,9 @@
 *.lens-dev.rbx.com
 *.lgtm-stage.rbx.com
 *.management.backend.staging.noteable.ml.rbx.com
+*.marketplace-admin.st1.rbx.com
 *.mewtwo.rbx.com
+*.ml-platform-dev-ash1-1-6-1-serving.prod.ml.rbx.com
 *.ml-platform-dev-ash1-1-6-1.prod.ml.rbx.com
 *.ml-platform-dev-internal.prod.ml.rbx.com
 *.ml-platform-dev-us-east-1-1-6-1-serving.prod.ml.rbx.com
@@ -172,6 +180,9 @@ a.github.rbx.com
 access.st3.rbx.com
 admin.rbx.com
 admin.github.rbx.com
+ai-inference-dev.prod.ml.rbx.com
+ai-inference-prod.prod.ml.rbx.com
+ai-inference.prod.ml.rbx.com
 aip-inference.prod.ml.rbx.com
 airflow.di.rbx.com
 airflow2.dev-core.dic.rbx.com
@@ -261,6 +272,7 @@ artifacts.rbx.com
 artifacts-api-stage.rbx.com
 artifacts-prod-1.rbx.com
 artifacts-stage.rbx.com
+artifacts-stage-1.rbx.com
 ash1-rke-alpha.spark-k8s.di.rbx.com
 askinfosec.rbx.com
 astro-dev.di.rbx.com
@@ -298,6 +310,7 @@ backtrace-console-eeri.rbx.com
 backtrace-crashes-eeri.rbx.com
 backtrace-stage.rbx.com
 beta.github.rbx.com
+bloxid.rbx.com
 bloxvisualizer.st1.rbx.com
 bloxvisualizer.st3.rbx.com
 bpo-vpn.rbx.com
@@ -590,6 +603,7 @@ lockbox.rbx.com
 mail.rbx.com
 management.backend.noteable.ml.rbx.com
 management.backend.staging.noteable.ml.rbx.com
+marketplace-admin.st1.rbx.com
 master.rbx.com
 merch.github.rbx.com
 mewtwo.rbx.com
@@ -767,6 +781,7 @@ sjc-gw-2.vpn.rbx.com
 sjc-gw.vpn.rbx.com
 skins.github.rbx.com
 slackbot.rbx.com
+sms.rbx.com
 sourcegraph.rbx.com
 sourcegraph-poc.rbx.com
 sourcegraph-prod.rbx.com

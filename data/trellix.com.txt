@@ -40,6 +40,7 @@
 *.p.lab.training.trellix.com
 *.preprod.manage.trellix.com
 *.prod.xconsole.trellix.com
+*.proxy.staging.mdr.trellix.com
 *.repm.gti.trellix.com
 *.rest.gti.trellix.com
 *.sandbox.xconsole.trellix.com
@@ -110,6 +111,7 @@ api.soc.eu-central-1.trellix.com
 api.soc.preprod.trellix.com
 api.soc.us-east-1.trellix.com
 api.soc.us-west-2.trellix.com
+api.staging.mdr.trellix.com
 api.vnext.xdrint.trellix.com
 api.vnext.xdrpreeks.trellix.com
 api.xdrint.trellix.com
@@ -278,9 +280,11 @@ epo3.staging.insights.trellix.com
 etp.trellix.com
 etp-ap-restapi-v2.etp.trellix.com
 etp-ap-restapi.etp.trellix.com
+etp-ca-restapi-v2.etp.trellix.com
 etp-ca-restapi.etp.trellix.com
 etp-eu-restapi-v2.etp.trellix.com
 etp-eu-restapi.etp.trellix.com
+etp-us-restapi-v2.etp.trellix.com
 etp-us-restapi.etp.trellix.com
 eu.etp.trellix.com
 eu.xdr.trellix.com
@@ -557,6 +561,7 @@ proxmox02.lab.training.trellix.com
 proxmox03.lab.training.trellix.com
 proxmox04.lab.training.trellix.com
 proxmox05.lab.training.trellix.com
+proxy.staging.mdr.trellix.com
 px-dev.p.lab.training.trellix.com
 px01.p.lab.training.trellix.com
 qa-ares-avdat.trellix.com
@@ -654,6 +659,7 @@ staging.auth.ui.trellix.com
 staging.design.trellix.com
 staging.insights.trellix.com
 staging.manage.trellix.com
+staging.mdr.trellix.com
 staging.uam.api.trellix.com
 staging.uam.ui.trellix.com
 staging.xdr.trellix.com
@@ -763,6 +769,7 @@ ui.soc.eu-central-1.trellix.com
 ui.soc.preprod.trellix.com
 ui.soc.us-east-1.trellix.com
 ui.soc.us-west-2.trellix.com
+ui.staging.mdr.trellix.com
 ui.vnext.xdrint.trellix.com
 ui.vnext.xdrpreeks.trellix.com
 ui.xdr.trellix.com

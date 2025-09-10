@@ -84,6 +84,7 @@
 *.test.app.sbb.ch
 *.test.devapp.sbb.ch
 *.test.nap.sbb.ch
+*.tim-inte.hafas.sbb.ch
 *.vnext.app.sbb.ch
 *.waftest.sbb.ch
 *.webex-non-prod.sbb.ch
@@ -292,6 +293,7 @@ anmeldung-zukunftstag-2024.event.sbb.ch
 anmeldung-zukunftstag-2024xy.event.sbb.ch
 anmeldung-zukunftstag-nachtrag.event.sbb.ch
 anmeldung-zukunftstag.event.sbb.ch
+anmeldungzt25.event.sbb.ch
 anotheraditest.sbb.ch
 antikorruption.sbb.ch
 antikorruption-deve.sbb.ch
@@ -551,7 +553,11 @@ bin-t.sbb.ch
 bino090924.event.sbb.ch
 biv-bsi.event.sbb.ch
 biv-kube-280125.event.sbb.ch
+biv-lf-02.event.sbb.ch
+biv-lf-11.11.2025.event.sbb.ch
+biv-lf-15.1.2025.event.sbb.ch
 biv-lf-16.04.event.sbb.ch
+biv-lf-21.10.2025.event.sbb.ch
 biv-lf-25.2.2025.event.sbb.ch
 biv-lf-28422.event.sbb.ch
 biv-lf-28622.event.sbb.ch
@@ -1478,6 +1484,7 @@ events.sbb.ch
 evu.event.sbb.ch
 ews.sbb.ch
 executive.event.sbb.ch
+exlex.event.sbb.ch
 ext.sbb.ch
 extvpn.sbb.ch
 eyeprpmr.event.sbb.ch
@@ -1645,6 +1652,7 @@ gareleday.event.sbb.ch
 gareledayjuin.event.sbb.ch
 garevertedelemont.event.sbb.ch
 gatemanager.sbb.ch
+gathering25.event.sbb.ch
 gdi-dev.sbb.ch
 gdi-otc.sbb.ch
 gdi-sbx.sbb.ch
@@ -2116,6 +2124,7 @@ jadlhmuo.event.sbb.ch
 jahresendessen.event.sbb.ch
 jahresendessen2022.event.sbb.ch
 jamsessions24.event.sbb.ch
+jamsessions25.event.sbb.ch
 jamticino.event.sbb.ch
 jiraint.sbb.ch
 jiraprod.sbb.ch
@@ -2149,6 +2158,7 @@ kaderinfo-uhr-2024.event.sbb.ch
 kaderinfo-uhr-22.event.sbb.ch
 kaderkonferenz-2025.event.sbb.ch
 kaderroundtables.event.sbb.ch
+kadertag-uhr-2025.event.sbb.ch
 kadertag.sept2024.event.sbb.ch
 kadertagcargoapril2025.event.sbb.ch
 kafka-billing-dev-sc.kafka.sbb.ch
@@ -2697,6 +2707,7 @@ oneyguqx.event.sbb.ch
 openshiftoidc.devapp.sbb.ch
 oquezteb.event.sbb.ch
 oraaux-otc2-t04.sbb.ch
+oracleapi-ct.dev.ora1.halon.sbb.ch
 orariocargo-alias.app.sbb.ch
 orbita.sbb.ch
 orca-if-int-ws.sbb.ch
@@ -3152,6 +3163,7 @@ s-t-i2-otc1-t01.sbb.ch
 s-test.sbb.ch
 s07-ssl-client.sbb.ch
 s4planning.event.sbb.ch
+sa-weinfelden.event.sbb.ch
 salkutks.guidee.gare.geneve.event.sbb.ch
 samsvkzb.event.sbb.ch
 sandbox-int.nap.sbb.ch
@@ -3383,11 +3395,13 @@ smo8.int.sbb.ch
 smo8.test.sbb.ch
 smo9.sbb.ch
 smp.sbb.ch
+smp-ssl-client.sbb.ch
 smp30dev.mobiletest.sbb.ch
 smp30tst.mobiletest.sbb.ch
 smsalarm.sbb.ch
 smsalarmint.sbb.ch
 smsalarmtest.sbb.ch
+smt-ssl-client.sbb.ch
 smtp-app.sbb.ch
 smtpout.sbb.ch
 sn-cti-otc1-p02.sbb.ch
@@ -3698,6 +3712,7 @@ thanos-store-test-sc.kafka.sbb.ch
 thanos-store-testing-sc.kafka.sbb.ch
 ticketservice.freizeit.sbb.ch
 tiffanykraus.event.sbb.ch
+tim-inte.hafas.sbb.ch
 timetable.sbb.ch
 timetablei.sbb.ch
 timetablet.sbb.ch
@@ -3855,6 +3870,7 @@ vault-onprem-dev.sbb.ch
 vault-onprem-nonprod.sbb.ch
 vault-onprem-test.sbb.ch
 vault.app.sbb.ch
+vault.iam.sbb.ch
 vdfksraw.event.sbb.ch
 vdlive-bzost.event.sbb.ch
 vdlive092024.event.sbb.ch
@@ -4115,6 +4131,7 @@ www.aditest3.sbb.ch
 www.alumni-event.forms.event.sbb.ch
 www.anmeldung-zukunftstag-2024.event.sbb.ch
 www.anmeldung-zukunftstag-nachtrag.event.sbb.ch
+www.anmeldungzt25.event.sbb.ch
 www.anotheraditest.sbb.ch
 www.apaint-swc2-t01.sbb.ch
 www.apaprd-swc2-p01.sbb.ch
@@ -4137,6 +4154,10 @@ www.bimlunchrme532025.event.sbb.ch
 www.bino090924.event.sbb.ch
 www.biv-bsi.event.sbb.ch
 www.biv-kube-280125.event.sbb.ch
+www.biv-lf-02.event.sbb.ch
+www.biv-lf-11.11.2025.event.sbb.ch
+www.biv-lf-15.1.2025.event.sbb.ch
+www.biv-lf-21.10.2025.event.sbb.ch
 www.biv-lf-25.2.2025.event.sbb.ch
 www.biv-lf-712025.event.sbb.ch
 www.biv-lf-bau-26.2.2025.event.sbb.ch
@@ -4222,6 +4243,7 @@ www.enlavaux.event.sbb.ch
 www.eradn.sbb.ch
 www.evento-sh-p-ffs.event.sbb.ch
 www.executive.event.sbb.ch
+www.exlex.event.sbb.ch
 www.f-event-2024.event.sbb.ch
 www.f4test.sbb.ch
 www.fahrplan.sbb.ch
@@ -4256,6 +4278,7 @@ www.fuehrungsprinzipien.event.sbb.ch
 www.fuehrungsprinzipien2.event.sbb.ch
 www.fvqxlalm.event.sbb.ch
 www.gatemanager.sbb.ch
+www.gathering25.event.sbb.ch
 www.gdi-sbx.sbb.ch
 www.gemeinsamdigital.event.sbb.ch
 www.geo.sbb.ch
@@ -4269,6 +4292,7 @@ www.gls-ch.sbb.ch
 www.gmaplaos.event.sbb.ch
 www.go.sbb.ch
 www.grafana-avengers-test.sbb.ch
+www.grundsaetze-kundenorientierung.event.sbb.ch
 www.gruppentool.sbb.ch
 www.gzlcpyzp.event.sbb.ch
 www.handwerk-challeng.event.sbb.ch
@@ -4315,6 +4339,7 @@ www.iotsrv-dmp-trigger.prod.app.sbb.ch
 www.iqxuqaxe.event.sbb.ch
 www.itcnpiqp.event.sbb.ch
 www.jamsessions24.event.sbb.ch
+www.jamsessions25.event.sbb.ch
 www.jamticino.event.sbb.ch
 www.jobs.sbb.ch
 www.journey-maps-tiles.geocdn.sbb.ch
@@ -4322,6 +4347,7 @@ www.jqcgbusq.event.sbb.ch
 www.k12345.sbb.ch
 www.kaderanlassaepsaz2022.event.sbb.ch
 www.kaderkonferenz-2025.event.sbb.ch
+www.kadertag-uhr-2025.event.sbb.ch
 www.kadertagcargoapril2025.event.sbb.ch
 www.kb.sbb.ch
 www.kgp.sbb.ch
@@ -4458,6 +4484,7 @@ www.rollout.mod.icn.event.sbb.ch
 www.rsm.sbb.ch
 www.s-t-i1-otc1-t01.sbb.ch
 www.s07-ssl-client.sbb.ch
+www.sa-weinfelden.event.sbb.ch
 www.sandbox-test.ws.sbb.ch
 www.sap-ci-ds-websocket-auth.sbb.ch
 www.sap-ias.sbb.ch

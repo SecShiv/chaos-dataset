@@ -12,7 +12,9 @@
 *.mulesoft-dev.algolia.com
 *.mulesoft-uat.algolia.com
 *.otlp.staging.inference.ai.algolia.com
+*.otlp.staging.search-aggr.internal.algolia.com
 *.otlp.us.prod.inference.ai.algolia.com
+*.otlp.us.prod.search-aggr.internal.algolia.com
 *.sandbox.algolia.com
 *.staging.inference.ai.algolia.com
 *.us.algolia.com
@@ -267,7 +269,9 @@ old-partners.algolia.com
 onsite.algolia.com
 osm.algolia.com
 otlp.staging.inference.ai.algolia.com
+otlp.staging.search-aggr.internal.algolia.com
 otlp.us.prod.inference.ai.algolia.com
+otlp.us.prod.search-aggr.internal.algolia.com
 partneracademy.algolia.com
 partners.algolia.com
 partners-university.algolia.com
@@ -396,6 +400,9 @@ success3.algolia.com
 success4.algolia.com
 suggestion-of-settings.algolia.com
 support.algolia.com
+sw-cruises.algolia.com
+sw-financial.algolia.com
+sw-healthcare.algolia.com
 talksearch-embed.algolia.com
 targus-cdn.algolia.com
 task-runner.dealdesk.algolia.com

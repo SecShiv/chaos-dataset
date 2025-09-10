@@ -680,6 +680,7 @@
 *.ctc.epam.com
 *.cyolo.epam.com
 *.dataheart.app.epam.com
+*.default-lb-epm-paas-ant-aws-dev.epm-paas-ant-aws-dev.eu.aws.epm-paas.projects.epam.com
 *.default-lb.epm-paas-anthos.eu.aws.epm-paas.projects.epam.com
 *.default.wmpr.test.wm.lab.epam.com
 *.delivery.epam.com
@@ -1052,6 +1053,7 @@ admin.qa.axa.epm-rtc.projects.epam.com
 admin.stage.permissions.epam.com
 admin.telescopeai-stage.epm-sso.projects.epam.com
 admin.together.epam.com
+adminepams.epm-aloa.projects.epam.com
 adminpanel.dev.epm-dmtm.projects.epam.com
 adminpanel.epm-dmtm.projects.epam.com
 adminpanel.prod.epm-dmtm.projects.epam.com
@@ -3316,6 +3318,7 @@ elasticsearch-v6-317.aws.radar.stage.epam.com
 elasticsearch-v6-321.aws.radar.stage.epam.com
 elasticsearch-v6-323.aws.radar.stage.epam.com
 elasticsearch-v6-328.aws.radar.stage.epam.com
+elasticsearch-v6-386.aws.radar.stage.epam.com
 elasticsearch-v6-412.aws.radar.epam.com
 elasticsearch-v6-413.aws.radar.epam.com
 elasticsearch-v6-414.aws.radar.epam.com
@@ -3363,6 +3366,7 @@ elasticsearch-v6-483.aws.radar.epam.com
 elasticsearch-v6-484.aws.radar.epam.com
 elasticsearch-v6-486.aws.radar.epam.com
 elasticsearch-v6-487.aws.radar.epam.com
+elasticsearch-v6-524.aws.radar.epam.com
 elasticsearch.eks-prod.radar.epam.com
 elasticsearch.etl-latest.aws.radar.epam.com
 elasticsearch.etl-latest.aws.radar.stage.epam.com
@@ -3448,6 +3452,8 @@ epamcomtest.stage.epam.com
 epamglobalcampus-web-dev.aemcloud.epam.com
 epamglobalcampus-web-stage.aemcloud.epam.com
 epamglobalcampus.epam-com.staging.epm-iass.projects.epam.com
+epams-dev.epm-url.projects.epam.com
+epams.epm-aloa.projects.epam.com
 epasa005.epam.com
 epbsa002.epam.com
 epbygomsa0007.epam.com
@@ -3599,6 +3605,7 @@ eu-payroll.ocr.epam.com
 eu.gcp.time.epam.com
 eu.git.epam.com
 eu.staffing.stage.epam.com
+eu.stage.time.epam.com
 eu.stg-people.epm-dce.projects.epam.com
 euc-stage-web.epm-uspp.projects.epam.com
 eureka-tst.alib-ces.projects.epam.com
@@ -4115,6 +4122,7 @@ gateway.aws.epmc-ctvu.projects.epam.com
 gateway.aws.hkex-cpfw.projects.epam.com
 gateway.aws.rcom-bflw.projects.epam.com
 gateway.aws.rcom-chtr.projects.epam.com
+gcp-cloud-run.lab.epam.com
 gcp-lilac-003-university.epm-mooc.projects.epam.com
 gcp-lilac-003.epm-mooc.projects.epam.com
 gcp-palm-qa-alpha.epm-mooc.projects.epam.com
@@ -4364,6 +4372,7 @@ in-web-dev.aemcloud.epam.com
 in-web-stage.aemcloud.epam.com
 in.epam-com.staging.epm-iass.projects.epam.com
 in.epamcom-prestaging.dev-pub.epm-web.projects.epam.com
+in.peoplecentral.epam.com
 in.stg-people.epm-dce.projects.epam.com
 in.time.epam.com
 indigo-eln.test.lifescience.opensource.epam.com
@@ -4620,6 +4629,7 @@ lab.epam.com
 laika-aws.epmc-adam.projects.epam.com
 lake.itsec.epam.com
 langfuse-epm-psai.llm.lab.epam.com
+langfuse-preview.gke-sandbox-cl2.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
 langfuse.llm.lab.epam.com
 laps.epam.com
 le.cloud.epam.com
@@ -5161,6 +5171,7 @@ ns2.epam.com
 ns3.epam.com
 nucleus.jaj-mtdf.projects.epam.com
 nudg-prod.epm-nudg.projects.epam.com
+nz.gcp.gnrg-osdu.projects.epam.com
 oauth-codemie.gke-sandbox.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
 odahu-dev01.epm-wpm.projects.epam.com
 odahu01.epm-wpm.projects.epam.com
@@ -6134,6 +6145,8 @@ registry-dev.mdtu-ddm.projects.epam.com
 registry.ahml-infr.projects.epam.com
 registry.atv.atv-jpd-anthos.us.gcp.cloudapp.epam.com
 registry.cl1-default-lb.epm-rdfc-anthos.eu.gcp.cloudapp.epam.com
+registry.eu.git.epam.com
+registry.git.epam.com
 registry.gke-sandbox.epm-rdfc-anthos.eu.gcp.cloudapp.epam.com
 registry.sdmx.epm-rtc.projects.epam.com
 release.epm-stts.projects.epam.com
@@ -6242,6 +6255,8 @@ scheduler.pipeline.epam.com
 scheduler.qa.pipeline.epam.com
 screening.epam.com
 sd.dev.epmp-aos.projects.epam.com
+sda-dev-deps.future.lab.epam.com
+sda-dev.future.lab.epam.com
 sdk.cloud.epam.com
 sdl-wps-dev.sche-conv.projects.epam.com
 sdoc-stage.simpledoc.epam.com

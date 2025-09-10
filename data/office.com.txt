@@ -729,6 +729,7 @@ controlplane.ice.dev.nova.office.com
 controlplane.ice.int.nova.office.com
 controlplane.ice.ppe.nova.office.com
 controlplane.ice.prd.nova.office.com
+controlplane.ncs.prd.nova.office.com
 controls.office.com
 controltower.office.com
 corala2csigningcertkey.office.com
@@ -2040,6 +2041,9 @@ msttest2noam-api.dmsvcdev.teams.internal.office.com
 msttest2noam-inventory.dmsvcdev.teams.internal.office.com
 msttest2noam-teams-api.dmsvcdev.teams.internal.office.com
 msttestgbl-api.dmsvcdev.teams.internal.office.com
+msttestgbl-devices-api.dmsvcdev.teams.internal.office.com
+msttestgbl-enroll-api.dmsvcdev.teams.internal.office.com
+msttestgbl-internal.dmsvcdev.teams.internal.office.com
 mta.email.office.com
 mta2.email.office.com
 mta3.email.office.com
@@ -3037,6 +3041,7 @@ test.dataclassification.office.com
 test.delegation.configure.office.com
 test.gcc.loki.delve.office.com
 test.gcs.office.com
+test.gcsppe.office.com
 test.inference.azureml.office.com
 test.ingestion.office.com
 test.loki.office.com
@@ -3193,6 +3198,7 @@ uswe-canary.prod.templates.taco.teams.internal.office.com
 uswe-int.nonprod.templates.taco.teams.internal.office.com
 uswe-msit.prod.templates.taco.teams.internal.office.com
 uswe-staging.prod.templates.taco.teams.internal.office.com
+uswe-tdf-cosmic.prod.templates.taco.teams.internal.office.com
 uswe-tdf.prod.templates.taco.teams.internal.office.com
 uswe.dev.pls.teams.internal.office.com
 uswe.prod.pls.teams.internal.office.com

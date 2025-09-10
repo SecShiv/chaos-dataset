@@ -1322,6 +1322,9 @@ datedflight-ui.w2.ecomm-qa-aks.alaskaair.com
 datedflight-ui.w2.ecomm-test-aks.alaskaair.com
 datedflight-ui.wc.ecomm-prod-aks.alaskaair.com
 datedflight-ui.wc.ecomm-qa-aks.alaskaair.com
+datedflight.ecomm-prod-aks.alaskaair.com
+datedflight.ecomm-qa-aks.alaskaair.com
+datedflight.ecomm-test-aks.alaskaair.com
 datedflight.w2.ecomm-prod-aks.alaskaair.com
 datedflight.w2.ecomm-qa-aks.alaskaair.com
 datedflight.w2.ecomm-test-aks.alaskaair.com
@@ -2080,6 +2083,7 @@ mass-adjust-api.w2.ecomm-qa-aks.alaskaair.com
 mass-adjust-api.w2.ecomm-test-aks.alaskaair.com
 mass-adjust-api.wc.ecomm-prod-aks.alaskaair.com
 mass-adjust-api.wc.ecomm-qa-aks.alaskaair.com
+mass-adjust.ecomm-test-aks.alaskaair.com
 mass-adjust.w2.ecomm-prod-aks.alaskaair.com
 mass-adjust.w2.ecomm-qa-aks.alaskaair.com
 mass-adjust.w2.ecomm-test-aks.alaskaair.com
@@ -2087,6 +2091,7 @@ mass-adjust.wc.ecomm-prod-aks.alaskaair.com
 mass-adjust.wc.ecomm-qa-aks.alaskaair.com
 maybe.w2.ecomm-test-aks.alaskaair.com
 me.alaskaair.com
+me-aircraftmtxstatus.alaskaair.com
 me-apuondemand.prod.sdp.alaskaair.com
 me-apuondemand.qa.sdp.alaskaair.com
 me-delayandcancellationui.qa.sdp.alaskaair.com
@@ -2100,12 +2105,14 @@ me-linemtxworkload.qa.sdp.alaskaair.com
 me-linemtxworkload.test.sdp.alaskaair.com
 me-mejobsapi.test.sdp.alaskaair.com
 me-mejobsui.test.sdp.alaskaair.com
+me-meportal.alaskaair.com
 me-meportal.prod.alaskaair.com
 me-meportal.prod.sdp.alaskaair.com
 me-meportal.qa.sdp.alaskaair.com
 me-meportal.test.sdp.alaskaair.com
 me-meportalapi.prod.alaskaair.com
 me-meportalapi.test.sdp.alaskaair.com
+me-otsconversation.alaskaair.com
 me-otsconversation.prod.alaskaair.com
 me-otsconversation.test.sdp.alaskaair.com
 me-outofservice.alaskaair.com
@@ -2114,6 +2121,7 @@ me-outofservicerecovery.test.sdp.alaskaair.com
 me-outofservicerecoveryapi.prod.alaskaair.com
 me-outofservicerecoveryapi.qa.sdp.alaskaair.com
 me-outofservicerecoveryapi.test.sdp.alaskaair.com
+me-shiftnotes.alaskaair.com
 me-shiftnotes.prod.alaskaair.com
 me-shiftnotes.qa.sdp.alaskaair.com
 me-shiftnotes.test.sdp.alaskaair.com

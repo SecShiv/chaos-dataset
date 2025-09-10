@@ -1689,11 +1689,15 @@ auto-digger.tst.fpfis.tech.ec.europa.eu
 autodiscover.acc.tech.ec.europa.eu
 autodiscover.acc2.tech.ec.europa.eu
 autodiscover.acer.europa.eu
+autodiscover.aou.ep.europa.eu
+autodiscover.aou.europarl.europa.eu
+autodiscover.appf.europa.eu
 autodiscover.bbi.europa.eu
 autodiscover.cedefop.europa.eu
 autodiscover.cepol.europa.eu
 autodiscover.clean-hydrogen.europa.eu
 autodiscover.consilium.europa.eu
+autodiscover.cosacsecr.europarl.europa.eu
 autodiscover.cpvo.europa.eu
 autodiscover.csirt.enisa.europa.eu
 autodiscover.dev.echa.europa.eu
@@ -1706,6 +1710,7 @@ autodiscover.eca.europa.eu
 autodiscover.ecb.europa.eu
 autodiscover.ecdc.europa.eu
 autodiscover.echa.europa.eu
+autodiscover.edps.europa.eu
 autodiscover.eea.europa.eu
 autodiscover.eeas.europa.eu
 autodiscover.eesc-cor.europa.eu
@@ -1739,16 +1744,23 @@ autodiscover.ext.ema.europa.eu
 autodiscover.ext.enisa.europa.eu
 autodiscover.ext.esma.europa.eu
 autodiscover.ext.euipo.europa.eu
+autodiscover.ext.europarl.europa.eu
 autodiscover.ext.frontex.europa.eu
 autodiscover.ext.publications.europa.eu
 autodiscover.fch.europa.eu
+autodiscover.fm.ep.europa.eu
+autodiscover.fm.europarl.europa.eu
 autodiscover.fra.europa.eu
 autodiscover.frontex.europa.eu
 autodiscover.gslb.frontex.europa.eu
 autodiscover.imi.europa.eu
 autodiscover.int.een.ec.europa.eu
+autodiscover.ipex.ep.europa.eu
+autodiscover.la.ep.europa.eu
+autodiscover.la.europarl.europa.eu
 autodiscover.mobility.cedefop.europa.eu
 autodiscover.mr.mail.ec.europa.eu
+autodiscover.natparl.europarl.europa.eu
 autodiscover.net1.enisa.europa.eu
 autodiscover.notify.frontex.europa.eu
 autodiscover.ombudsman.europa.eu
@@ -1758,6 +1770,8 @@ autodiscover.pp.ecb.europa.eu
 autodiscover.publications.europa.eu
 autodiscover.qa.echa.europa.eu
 autodiscover.rail-research.europa.eu
+autodiscover.ret.ep.europa.eu
+autodiscover.ret.europarl.europa.eu
 autodiscover.rtr.euipo.europa.eu
 autodiscover.sip.easa.europa.eu
 autodiscover.sne.euipo.europa.eu
@@ -1998,6 +2012,7 @@ brussels-historia.booking.europarl.europa.eu
 brussels-parlamentarium.booking.europarl.europa.eu
 brussels-rpg.booking.europarl.europa.eu
 btn.frontex.europa.eu
+btz-vpn-01.eppo.europa.eu
 budget.consilium.europa.eu
 bugreport.european-quarter-explorer.europarl.europa.eu
 bugzilla.euipo.europa.eu
@@ -2767,6 +2782,7 @@ confluence.cedefop.europa.eu
 confluence.ecb.europa.eu
 confluence.europass.cedefop.europa.eu
 confluence.osha.europa.eu
+confluence.test.acer.europa.eu
 confmissions.consilium.europa.eu
 conformance.cbam.ec.europa.eu
 conformance.customs.ec.europa.eu
@@ -2877,6 +2893,8 @@ cor8.cor.europa.eu
 cor81.cor.europa.eu
 cor82.cor.europa.eu
 cordis.europa.eu
+core-ewye-public-bxl-1.vccore.tech.ec.europa.eu
+core-ewye-public-lux-1.vccore.tech.ec.europa.eu
 core-infra-proxy.aai.open-science-cloud.ec.europa.eu
 cork.emcdda.europa.eu
 cormembers.cor.europa.eu
@@ -4170,6 +4188,7 @@ enterpriseregistration.ext.consilium.europa.eu
 enterpriseregistration.ext.euipo.europa.eu
 enterpriseregistration.ext.europarl.europa.eu
 enterpriseregistration.iamlab.europarl.europa.eu
+enterpriseregistration.iamlab.ext.europarl.europa.eu
 enterpriseregistration.iampoc.europarl.europa.eu
 enterpriseregistration.iampp.europarl.europa.eu
 enterpriseregistration.iampp.in.ep.europa.eu
@@ -4709,6 +4728,7 @@ euskillspanorama.ec.europa.eu
 eusoils.jrc.ec.europa.eu
 euspa.europa.eu
 eusrs-test.ema.europa.eu
+eusrs-uat.ema.europa.eu
 eusrs.ema.europa.eu
 eusst-webinar.satcen.europa.eu
 eutct.ema.europa.eu
@@ -4867,6 +4887,7 @@ ext.f4e.europa.eu
 ext.frontex.europa.eu
 ext.fusionforenergy.europa.eu
 ext.oami.europa.eu
+ext.ombudsman.europa.eu
 ext.test.eib.europa.eu
 ext.test.eif.europa.eu
 ext2.f4e.europa.eu
@@ -6438,6 +6459,7 @@ lfe-tf.europol.europa.eu
 lfe.europol.europa.eu
 library.ecdc.europa.eu
 libserver.cedefop.europa.eu
+licence.devops.ocean-store.tech.ec.europa.eu
 liferaydefault-7.ema.europa.eu
 liferaydefault-dev7.ema.europa.eu
 liferaydefault-test7.ema.europa.eu
@@ -7126,6 +7148,7 @@ mrasecwebexroom55.frontex.europa.eu
 mrop.mail.ec.europa.eu
 mrv.emsa.europa.eu
 msteams.vcs.consilium.europa.eu
+mstunnel.f4e.europa.eu
 msync.curia.europa.eu
 msyncpp.curia.europa.eu
 mta-1.mailing.euipo.europa.eu
@@ -8031,12 +8054,14 @@ potoroo.eea.europa.eu
 powershell.eba.europa.eu
 powershell.webmail.acc.tech.ec.europa.eu
 powershell.webmail.ec.europa.eu
+pp-archie.ecb.europa.eu
 pp-dglfm.ecb.europa.eu
 pp-ecbcontributions.ecb.europa.eu
 pp-ecbenquiries.ecb.europa.eu
 pp-eligible-assets.ecb.europa.eu
 pp-escbmr.ecb.europa.eu
 pp-legconf.ecb.europa.eu
+pp-lemic.ecb.europa.eu
 pp-lgs.ecb.europa.eu
 pp-lrp.ecb.europa.eu
 pp-pressconferencemgmt.ecb.europa.eu
@@ -9107,6 +9132,7 @@ servicedesk.efca.europa.eu
 servicedesk.ema.europa.eu
 servicedesk.era.europa.eu
 servicedesk.frontex.europa.eu
+servicedesk.test.acer.europa.eu
 servicerequest.enisa.europa.eu
 servicerequeststage.enisa.europa.eu
 services.acceptance.eeas.europa.eu
@@ -10249,6 +10275,7 @@ test.nms.sdlc.webcloud.ec.europa.eu
 test.oami.europa.eu
 test.oceanstore.tech.ec.europa.eu
 test.osha.europa.eu
+test.ppe.data.europa.eu
 test.reports.webanalytics.op.europa.eu
 test.sme-week.ec.europa.eu
 test.tech.ec.europa.eu
@@ -10516,6 +10543,7 @@ ucsgbwp003.ep.europa.eu
 ucsglwp003.ep.europa.eu
 udinee.jrc.ec.europa.eu
 uefi.eba.europa.eu
+ufabet.test.manager.icoco.tech.ec.europa.eu
 ufi.echa.europa.eu
 ugw1.tech.ec.europa.eu
 ugw2.tech.ec.europa.eu
@@ -10615,10 +10643,15 @@ vc10.ecb.europa.eu
 vc11.ecb.europa.eu
 vc12.ecb.europa.eu
 vc2.consilium.europa.eu
+vcbxl.ec.europa.eu
+vcbxl.vccore.tech.ec.europa.eu
 vcbxl2.ec.europa.eu
 vcbxl4.ec.europa.eu
+vccluster.ec.europa.eu
 vcis.f4e.europa.eu
 vcis2.f4e.europa.eu
+vclux.ec.europa.eu
+vclux.vccore.tech.ec.europa.eu
 vclux2.ec.europa.eu
 vconf.ema.europa.eu
 vcop-apps.europol.europa.eu
@@ -11599,6 +11632,7 @@ www.recon.cedefop.europa.eu
 www.refernet.cedefop.europa.eu
 www.registry.cis.consilium.europa.eu
 www.relex.ec.europa.eu
+www.remitportal.acer.europa.eu
 www.research-innovation-days.ec.europa.eu
 www.residence-palace.consilium.europa.eu
 www.rg-ibs.ecb.europa.eu
@@ -11788,5 +11822,3 @@ zvipdmz1.ecdc.europa.eu
 zvipdmz2.ecdc.europa.eu
 zvsso7.ecdc.europa.eu
 zvsso8.ecdc.europa.eu
-zwfe1.ecdc.europa.eu
-zwfe2.ecdc.europa.eu

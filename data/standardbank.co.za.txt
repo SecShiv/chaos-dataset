@@ -772,11 +772,20 @@ itsm-nonprod-smartit.standardbank.co.za
 itsm-nonprod-sr.standardbank.co.za
 itsm-nonprod-supportassisttool.standardbank.co.za
 itsm-nonprod-vchat.standardbank.co.za
+itsm-nprd-atws.standardbank.co.za
+itsm-nprd-chat.standardbank.co.za
+itsm-nprd-dwpcatalog.standardbank.co.za
+itsm-nprd-restapi.standardbank.co.za
+itsm-nprd-smartit.standardbank.co.za
+itsm-nprd-sr.standardbank.co.za
+itsm-nprd-supportassisttool.standardbank.co.za
+itsm-nprd-vchat.standardbank.co.za
 itsmweb.standardbank.co.za
 itt-dev.standardbank.co.za
 iws-dev.standardbank.co.za
 iws-prod.standardbank.co.za
 jenkins.cibrisk.standardbank.co.za
+kibana-itsm-nprd-lb.standardbank.co.za
 kibana-private-afsouth1-bmcitom-nonprod.standardbank.co.za
 kssoutbounducount.standardbank.co.za
 kye.standardbank.co.za
@@ -865,6 +874,7 @@ mfaportal.standardbank.co.za
 mft.standardbank.co.za
 mftdev.standardbank.co.za
 minio-api.afsouth1-bmcitom-nonprod.standardbank.co.za
+minio-api.itsm-nprd-lb.standardbank.co.za
 minio.afsouth1-bmcitom-nonprod.standardbank.co.za
 mlops.standardbank.co.za
 mobile.standardbank.co.za
@@ -1228,7 +1238,9 @@ sbinsure.standardbank.co.za
 sbinsureagent.standardbank.co.za
 sbsa-bmcitom-nonprod.standardbank.co.za
 sbsa-disc-bmcitom-nonprod.standardbank.co.za
+sbsa-itsm-nprd.standardbank.co.za
 sbsa-optimize-bmcitom-nonprod.standardbank.co.za
+sbsaacstest1.standardbank.co.za
 sbsaservice.standardbank.co.za
 sbvafinternet.standardbank.co.za
 sbvafinternet.standardbank.co.za.standardbank.co.za
@@ -1320,6 +1332,7 @@ simplification.payments.standardbank.co.za
 sine.uat.standardbank.co.za
 sip.standardbank.co.za
 sipfed.standardbank.co.za
+sit-borrow-mfe.standardbank.co.za
 sit-credit.standardbank.co.za
 sit-evo.standardbank.co.za
 sit-flexi-funeral-bot.standardbank.co.za
@@ -1457,6 +1470,7 @@ testservicegw.standardbank.co.za
 testsigning.laserfiche.standardbank.co.za
 testucount.standardbank.co.za
 titanium.standardbank.co.za
+tms-itsm-nprd-lb.standardbank.co.za
 tms.afsouth1-bmcitom-nonprod-lb.standardbank.co.za
 tokenservicedev.standardbank.co.za
 tokenservicedirectorydev.standardbank.co.za

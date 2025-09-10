@@ -327,6 +327,7 @@ admin.design.gitlab.com
 advisories.gitlab.com
 alerts.gitlab.com
 altssh.gitlab.com
+analytics.gitlab.com
 api-staging.community.gitlab.com
 api.community.gitlab.com
 app-staging.community.gitlab.com
@@ -336,6 +337,7 @@ archives.docs.gitlab.com
 arewefastyet.gitlab.com
 assets.gitlab.com
 auth.gitlab.com
+auth.aws.staging.gitlab.com
 auth.gcp.gitlab.com
 auth.pre.gitlab.com
 auth.staging.gitlab.com
@@ -387,6 +389,7 @@ doc.gitlab.com
 docs.gitlab.com
 docs-dev.gitlab.com
 dr.gitlab.com
+duo.aws.staging.gitlab.com
 ee.gitlab.com
 email.gitlab.com
 email.customers.gitlab.com
@@ -604,5 +607,3 @@ www.support-mw.gitlab.com
 www.swedish.chef.gitlab.com
 www.sync.geo.gitlab.com
 www.triage-serverless.gitlab.com
-www.university.gitlab.com
-www.version.gitlab.com

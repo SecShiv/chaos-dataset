@@ -17,6 +17,7 @@
 *.ci-renovate-beautif-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-boto3-1-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-ghcr-io-record-harvester.dev.sdp.surf.nl
+*.ci-renovate-lock-fi-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-minio-m-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-node-lt-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-pin-dep-record-harvester.dev.sdp.surf.nl
@@ -739,6 +740,7 @@ api.experimenteer.dlo.surf.nl
 api.jira.ia.surf.nl
 api.jira.test.ia.surf.nl
 api.mijn.surf.nl
+api.pilot1.sram.surf.nl
 api.qa.spm.surf.nl
 api.raid.surf.nl
 api.raid1.surf.nl
@@ -748,6 +750,7 @@ api.test.scz.lab.surf.nl
 api.vault-wallet.exp.sram.lab.surf.nl
 apm.ece.secops.surf.nl
 app.edumk.lab.surf.nl
+app.pilot1.sram.surf.nl
 appwrite.pilot1.sram.surf.nl
 arc03.cluster.gina.surf.nl
 arc03.gina.surf.nl
@@ -774,6 +777,7 @@ backup.data.surf.nl
 bad.surf.nl
 bas-acme-test.lab.surf.nl
 batch-01.nlsrc.surf.nl
+batch.willma.surf.nl
 beaver.pilot1.sram.surf.nl
 beleidopenleermaterialen.surf.nl
 beta.surf.nl
@@ -822,16 +826,22 @@ chime0.surf.nl
 chime3.surf.nl
 chime7.surf.nl
 ci-dev-admin.cxp.dev.sdp.surf.nl
+ci-docker-proxy-admin.cxp.dev.sdp.surf.nl
 ci-fix-key-usages-admin.cxp.dev.sdp.surf.nl
 ci-hiram-vanpaassen-admin.cxp.dev.sdp.surf.nl
 ci-include-k8s-pipe-backstage.dev.sdp.surf.nl
 ci-nplsinfr-753-sra-admin.cxp.dev.sdp.surf.nl
+ci-renovate-cr-surf-backstage.dev.sdp.surf.nl
+ci-renovate-cr-surf-monitoring.dev.sdp.surf.nl
 ci-renovate-eslint--admin.cxp.dev.sdp.surf.nl
+ci-renovate-node-22-backstage.dev.sdp.surf.nl
+ci-renovate-node-lt-admin.cxp.dev.sdp.surf.nl
 ci-renovate-postgre-monitoring.dev.sdp.surf.nl
 ci-renovate-pytest--monitoring.dev.sdp.surf.nl
 ci-renovate-rollup--admin.cxp.dev.sdp.surf.nl
 ci-runner.sram.surf.nl
 ci-runner.surf.surf.nl
+ci-static-bundles-admin.cxp.dev.sdp.surf.nl
 cirrus-poc.surf.nl
 client.exp.scz.lab.surf.nl
 client.exp.sram.lab.surf.nl
@@ -1269,6 +1279,7 @@ footlogs.argos.surf.nl
 footprints.ia.surf.nl
 fs1-soil-utp.soil.surf.nl
 fs1.liza.surf.nl
+fs1.willma.surf.nl
 fs23.liza.surf.nl
 ftp01p.ia.surf.nl
 ftp01p.int.ia.surf.nl
@@ -2693,6 +2704,7 @@ login.surf.nl
 login-01.nlsrc.surf.nl
 login.exp.scz.lab.surf.nl
 login.testsurfid.surf.nl
+login.willma.surf.nl
 lrs.la-exp.surf.nl
 ltilauncher.dev.dlo.surf.nl
 ltilauncher.test.dlo.surf.nl
@@ -3225,6 +3237,7 @@ sched2-pub.snellius.surf.nl
 sched2-snel.snellius.surf.nl
 scim-monitor.sram.surf.nl
 scim.exp.sram.lab.surf.nl
+scim.pilot1.sram.surf.nl
 scim2.exp.sram.lab.surf.nl
 scimtest.lab.surf.nl
 scz.lab.surf.nl
@@ -3235,6 +3248,7 @@ sda0003.securearchive.surf.nl
 sda0004.securearchive.surf.nl
 sdp.surf.nl
 sds.surf.nl
+seaweed-ha.pilot1.sram.surf.nl
 sec.surf.nl
 secops1.argos.surf.nl
 secops1.con.argos.surf.nl
@@ -4619,6 +4633,8 @@ visualization.surf.nl
 vnc.exp.scz.lab.surf.nl
 vnc.pilot1.sram.surf.nl
 vo.sram.surf.nl
+vobox-alice-rh9.grid.surf.nl
+vobox-alice.grid.surf.nl
 von-network.test.ssi.lab.surf.nl
 von-network2.test.ssi.lab.surf.nl
 voot.surf.nl

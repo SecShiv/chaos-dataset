@@ -169,6 +169,7 @@
 *.bsee-ui-team-test.digital.business.comcast.com
 *.bsee-ui-team.digital.business.comcast.com
 *.bsee-ui-team.np.digital.business.comcast.com
+*.bundy.pulse.comcast.com
 *.business.comcast.com
 *.business-mobile-buy-app-dev.np.digital.business.comcast.com
 *.business-mobile-buy-app-pqa.np.digital.business.comcast.com
@@ -328,6 +329,7 @@
 *.deepblue-gateway.np.api-business.comcast.com
 *.deepblue-redirect-dev.np.digital.business.comcast.com
 *.deepblue-redirect-int.np.digital.business.comcast.com
+*.deepblue-redirect-prod.digital.business.comcast.com
 *.deepblue-redirect-qa.np.digital.business.comcast.com
 *.deepblue.api-business.comcast.com
 *.deepblue.digital.business.comcast.com
@@ -973,6 +975,7 @@
 *.or.deepblue-gateway.np.api-business.comcast.com
 *.or.deepblue-redirect-dev.np.digital.business.comcast.com
 *.or.deepblue-redirect-int.np.digital.business.comcast.com
+*.or.deepblue-redirect-prod.digital.business.comcast.com
 *.or.deepblue-redirect-qa.np.digital.business.comcast.com
 *.or.deepblue.api-business.comcast.com
 *.or.deepblue.digital.business.comcast.com
@@ -2907,6 +2910,7 @@
 *.va.deepblue-gateway.np.api-business.comcast.com
 *.va.deepblue-redirect-dev.np.digital.business.comcast.com
 *.va.deepblue-redirect-int.np.digital.business.comcast.com
+*.va.deepblue-redirect-prod.digital.business.comcast.com
 *.va.deepblue-redirect-qa.np.digital.business.comcast.com
 *.va.deepblue.api-business.comcast.com
 *.va.deepblue.digital.business.comcast.com
@@ -6868,6 +6872,7 @@ airflow-staging.comcast.com
 airflow-test.comcast.com
 airflow.ebi.comcast.com
 ait.comcast.com
+aitechnologiestest.comcast.com
 akal-new.cable.comcast.com
 akal.cable.comcast.com
 alarm-manager.5goss.comcast.com
@@ -8591,6 +8596,7 @@ biops-wc-rdp.cable.comcast.com
 bip-eni.gslb2.comcast.com
 biph-cmc-1p.cable.comcast.com
 bippxy-2p-gslb4.comcast.com
+bippxy-2p.gslb4.comcast.com
 bippxy-as-1p.slb.comcast.com
 bippxy-as-1s.slb.comcast.com
 bippxy-as-2p.slb.comcast.com
@@ -9111,6 +9117,7 @@ bsdcoreccp-jenkins.comcast.com
 bsdcorejenkins-p.gslb4.comcast.com
 bsddashboard-ho-1p.slb.comcast.com
 bsddashboard-po-1p.slb.comcast.com
+bsddashboard-uat.cable.comcast.com
 bsddashboard.cable.comcast.com
 bsddfs-po-p01.cable.comcast.com
 bsddigitaldashboard.np.digital.business.comcast.com
@@ -17981,6 +17988,7 @@ csg-nat-172.26.236.77.cable.comcast.com
 csg-nat-172.28.45.8.cable.comcast.com
 csg-nat-68.87.64.215.cable.comcast.com
 csg-nat.cable.comcast.com
+csg-qf.comcast.com
 csg_dr_fw.cable.comcast.com
 csg_nat_10.148.203.25.cable.comcast.com
 csg_nat_10.165.81.162.cable.comcast.com
@@ -19427,6 +19435,7 @@ deepblue-gateway.api-business.comcast.com
 deepblue-gateway.np.api-business.comcast.com
 deepblue-redirect-dev.np.digital.business.comcast.com
 deepblue-redirect-int.np.digital.business.comcast.com
+deepblue-redirect-prod.digital.business.comcast.com
 deepblue-redirect-qa.np.digital.business.comcast.com
 deepblue.api-business.comcast.com
 deepblue.digital.business.comcast.com
@@ -22621,6 +22630,7 @@ epswp-po-t1.cable.comcast.com
 eptprox-ch2-1d.cable.comcast.com
 eptprox-ch2-1p.cable.comcast.com
 eptprox-ch2-1s.cable.comcast.com
+epwstest.comcast.com
 eqagears-ho-01p.cable.comcast.com
 eqajmp-as-1s.cable.comcast.com
 eqajmp-ho-01p.cable.comcast.com
@@ -29541,6 +29551,8 @@ iaapp-po-2s.cable.comcast.com
 ialmdb-as-a1s.cable.comcast.com
 iam-dashboards-1p.gslb4.comcast.com
 iamdashboards.comcast.com
+iamdevportal-dev.comcast.com
+iamdevportal-staging.comcast.com
 iamops.comcast.com
 iamopsreports-1p.gslb4.comcast.com
 iamvds-dev.mca.comcast.com
@@ -39928,6 +39940,7 @@ myimpacthub.comcast.com
 myimpacthub-stg.comcast.com
 myjita.comcast.com
 myjita-dev.comcast.com
+myjita-dev-d.gslb4.comcast.com
 myjita-poc.comcast.com
 myjita-prod-p.gslb4.comcast.com
 myjitaccess.comcast.com
@@ -42611,6 +42624,7 @@ op5.aw.ccp.sys.comcast.com
 op5.p5.tvx.comcast.com
 op5.po.ccp.cable.comcast.com
 op5.sys.comcast.com
+op5aws-ae-p.gslb4.comcast.com
 op5aws-aw-p.gslb4.comcast.com
 op5aws-eu-p.gslb4.comcast.com
 op5c1.ch.tvx.comcast.com
@@ -51550,6 +51564,7 @@ preprod-posweb-ch2-1s.slb.comcast.com
 preprod-posweb-s.gslb4.comcast.com
 preprod-rlcm-tb.gslb2.comcast.com
 preprod.np.salesx.business.comcast.com
+preprod.public.self-service.np.digital.business.comcast.com
 prepweb-as-01p.cable.comcast.com
 prepweb-as-02p.cable.comcast.com
 presales-np.martech.comcast.com
@@ -59764,6 +59779,9 @@ testing2.scl.svic.comcast.com
 testing200.comcast.com
 testing300.comcast.com
 testing789.comcast.com
+testingcvp3.comcast.com
+testingcvp4.comcast.com
+testingcvp5.comcast.com
 testingdemo06.comcast.com
 testinglocust.comcast.com
 testingportal.comcast.com
@@ -66029,6 +66047,7 @@ wdcvdcnsxmg-ho-2.cable.comcast.com
 wdcvdcnsxmg-ho-3.cable.comcast.com
 wdcvdcnsxmg-ho.cable.comcast.com
 wdcvdcvc-ho-2.cable.comcast.com
+wdcvdcvc-po-1.cable.comcast.com
 wdcvdicp-ho-1.cable.comcast.com
 wdcvdics-ho-1.cable.comcast.com
 wdcvdics-ho-2.cable.comcast.com
@@ -66951,6 +66970,8 @@ wvdcch-ho-vip.cable.comcast.com
 wvdcstr-ho-0.cable.comcast.com
 wvdcstr-ho-01-vip.cable.comcast.com
 wvdcstr-ho-1.cable.comcast.com
+wvdcstr-po-0.cable.comcast.com
+wvdcstr-po-1.cable.comcast.com
 wvdcvdiedge-ho-1.cable.comcast.com
 wvddev.comcast.com
 wvddmi.comcast.com
@@ -67171,6 +67192,7 @@ www.beacontrack.cable.comcast.com
 www.billingsystemrequestservicetest.cable.comcast.com
 www.bip-eni.gslb2.comcast.com
 www.bippxy-2p-gslb4.comcast.com
+www.bippxy-2p.gslb4.comcast.com
 www.bippxy-s.gslb4.comcast.com
 www.bizopstops.cable.comcast.com
 www.blacklist.acebeta.comcast.com

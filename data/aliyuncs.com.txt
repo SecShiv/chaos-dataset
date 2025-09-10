@@ -55,6 +55,7 @@
 *.ap-northeast-1.elasticsearch.aliyuncs.com
 *.ap-northeast-1.fc.aliyuncs.com
 *.ap-northeast-1.fnf.aliyuncs.com
+*.ap-northeast-1.imm.aliyuncs.com
 *.ap-northeast-1.lc.aliyuncs.com
 *.ap-northeast-1.log.aliyuncs.com
 *.ap-northeast-1.mgw.aliyuncs.com
@@ -115,6 +116,7 @@
 *.ap-south-1.elasticsearch.aliyuncs.com
 *.ap-south-1.fc.aliyuncs.com
 *.ap-south-1.fnf.aliyuncs.com
+*.ap-south-1.imm.aliyuncs.com
 *.ap-south-1.lc.aliyuncs.com
 *.ap-south-1.log.aliyuncs.com
 *.ap-south-1.mgw.aliyuncs.com
@@ -151,6 +153,7 @@
 *.ap-southeast-1.elasticsearch.aliyuncs.com
 *.ap-southeast-1.fc.aliyuncs.com
 *.ap-southeast-1.fnf.aliyuncs.com
+*.ap-southeast-1.imm.aliyuncs.com
 *.ap-southeast-1.lc.aliyuncs.com
 *.ap-southeast-1.log.aliyuncs.com
 *.ap-southeast-1.mgw.aliyuncs.com
@@ -190,6 +193,7 @@
 *.ap-southeast-2.elasticsearch.aliyuncs.com
 *.ap-southeast-2.fc.aliyuncs.com
 *.ap-southeast-2.fnf.aliyuncs.com
+*.ap-southeast-2.imm.aliyuncs.com
 *.ap-southeast-2.lc.aliyuncs.com
 *.ap-southeast-2.log.aliyuncs.com
 *.ap-southeast-2.mgw.aliyuncs.com
@@ -219,6 +223,7 @@
 *.ap-southeast-3.elasticsearch.aliyuncs.com
 *.ap-southeast-3.fc.aliyuncs.com
 *.ap-southeast-3.fnf.aliyuncs.com
+*.ap-southeast-3.imm.aliyuncs.com
 *.ap-southeast-3.lc.aliyuncs.com
 *.ap-southeast-3.log.aliyuncs.com
 *.ap-southeast-3.mgw.aliyuncs.com
@@ -251,6 +256,7 @@
 *.ap-southeast-5.elasticsearch.aliyuncs.com
 *.ap-southeast-5.fc.aliyuncs.com
 *.ap-southeast-5.fnf.aliyuncs.com
+*.ap-southeast-5.imm.aliyuncs.com
 *.ap-southeast-5.lc.aliyuncs.com
 *.ap-southeast-5.log.aliyuncs.com
 *.ap-southeast-5.mgw.aliyuncs.com
@@ -277,6 +283,7 @@
 *.ap-southeast-6.batchcompute.aliyuncs.com
 *.ap-southeast-6.cr.aliyuncs.com
 *.ap-southeast-6.dualstack.log.aliyuncs.com
+*.ap-southeast-6.imm.aliyuncs.com
 *.ap-southeast-6.log.aliyuncs.com
 *.ap-southeast-6.mgw.aliyuncs.com
 *.ap-southeast-6.mq.aliyuncs.com
@@ -460,6 +467,7 @@
 *.cn-beijing.elasticsearch.aliyuncs.com
 *.cn-beijing.fc.aliyuncs.com
 *.cn-beijing.fnf.aliyuncs.com
+*.cn-beijing.imm.aliyuncs.com
 *.cn-beijing.lc.aliyuncs.com
 *.cn-beijing.log.aliyuncs.com
 *.cn-beijing.mgw.aliyuncs.com
@@ -520,6 +528,7 @@
 *.cn-chengdu.dualstack.log.aliyuncs.com
 *.cn-chengdu.elasticsearch.aliyuncs.com
 *.cn-chengdu.fc.aliyuncs.com
+*.cn-chengdu.imm.aliyuncs.com
 *.cn-chengdu.log.aliyuncs.com
 *.cn-chengdu.mgw.aliyuncs.com
 *.cn-chengdu.mq.aliyuncs.com
@@ -569,6 +578,7 @@
 *.cn-guangzhou.cr.aliyuncs.com
 *.cn-guangzhou.dualstack.log.aliyuncs.com
 *.cn-guangzhou.elasticsearch.aliyuncs.com
+*.cn-guangzhou.imm.aliyuncs.com
 *.cn-guangzhou.log.aliyuncs.com
 *.cn-guangzhou.mgw.aliyuncs.com
 *.cn-guangzhou.mq.aliyuncs.com
@@ -685,6 +695,7 @@
 *.cn-hangzhou.elasticsearch.aliyuncs.com
 *.cn-hangzhou.fc.aliyuncs.com
 *.cn-hangzhou.fnf.aliyuncs.com
+*.cn-hangzhou.imm.aliyuncs.com
 *.cn-hangzhou.inner.tablestore.aliyuncs.com
 *.cn-hangzhou.internal.tablestore.aliyuncs.com
 *.cn-hangzhou.internet.tablestore.aliyuncs.com
@@ -744,6 +755,7 @@
 *.cn-heyuan.batchcompute.aliyuncs.com
 *.cn-heyuan.cr.aliyuncs.com
 *.cn-heyuan.dualstack.log.aliyuncs.com
+*.cn-heyuan.imm.aliyuncs.com
 *.cn-heyuan.log.aliyuncs.com
 *.cn-heyuan.mgw.aliyuncs.com
 *.cn-heyuan.mq.aliyuncs.com
@@ -782,6 +794,7 @@
 *.cn-hongkong.elasticsearch.aliyuncs.com
 *.cn-hongkong.fc.aliyuncs.com
 *.cn-hongkong.fnf.aliyuncs.com
+*.cn-hongkong.imm.aliyuncs.com
 *.cn-hongkong.lc.aliyuncs.com
 *.cn-hongkong.log.aliyuncs.com
 *.cn-hongkong.mgw.aliyuncs.com
@@ -822,6 +835,7 @@
 *.cn-huhehaote.dualstack.log.aliyuncs.com
 *.cn-huhehaote.elasticsearch.aliyuncs.com
 *.cn-huhehaote.fc.aliyuncs.com
+*.cn-huhehaote.imm.aliyuncs.com
 *.cn-huhehaote.inner.tablestore.aliyuncs.com
 *.cn-huhehaote.internal.tablestore.aliyuncs.com
 *.cn-huhehaote.internet.tablestore.aliyuncs.com
@@ -854,6 +868,7 @@
 *.cn-nanjing.batchcompute.aliyuncs.com
 *.cn-nanjing.cr.aliyuncs.com
 *.cn-nanjing.dualstack.log.aliyuncs.com
+*.cn-nanjing.imm.aliyuncs.com
 *.cn-nanjing.log.aliyuncs.com
 *.cn-nanjing.mgw.aliyuncs.com
 *.cn-nanjing.mq.aliyuncs.com
@@ -926,6 +941,7 @@
 *.cn-qingdao.elasticsearch.aliyuncs.com
 *.cn-qingdao.fc.aliyuncs.com
 *.cn-qingdao.fnf.aliyuncs.com
+*.cn-qingdao.imm.aliyuncs.com
 *.cn-qingdao.lc.aliyuncs.com
 *.cn-qingdao.log.aliyuncs.com
 *.cn-qingdao.mgw.aliyuncs.com
@@ -1052,6 +1068,7 @@
 *.cn-shanghai.elasticsearch.aliyuncs.com
 *.cn-shanghai.fc.aliyuncs.com
 *.cn-shanghai.fnf.aliyuncs.com
+*.cn-shanghai.imm.aliyuncs.com
 *.cn-shanghai.lc.aliyuncs.com
 *.cn-shanghai.log.aliyuncs.com
 *.cn-shanghai.mgw.aliyuncs.com
@@ -1132,6 +1149,7 @@
 *.cn-shenzhen.elasticsearch.aliyuncs.com
 *.cn-shenzhen.fc.aliyuncs.com
 *.cn-shenzhen.fnf.aliyuncs.com
+*.cn-shenzhen.imm.aliyuncs.com
 *.cn-shenzhen.lc.aliyuncs.com
 *.cn-shenzhen.log.aliyuncs.com
 *.cn-shenzhen.mgw.aliyuncs.com
@@ -1206,6 +1224,7 @@
 *.cn-wulanchabu.dualstack.log.aliyuncs.com
 *.cn-wulanchabu.elasticsearch.aliyuncs.com
 *.cn-wulanchabu.fc.aliyuncs.com
+*.cn-wulanchabu.imm.aliyuncs.com
 *.cn-wulanchabu.log.aliyuncs.com
 *.cn-wulanchabu.mgw.aliyuncs.com
 *.cn-wulanchabu.mgw-tc.aliyuncs.com
@@ -1270,6 +1289,7 @@
 *.cn-zhangjiakou.elasticsearch.aliyuncs.com
 *.cn-zhangjiakou.fc.aliyuncs.com
 *.cn-zhangjiakou.fnf.aliyuncs.com
+*.cn-zhangjiakou.imm.aliyuncs.com
 *.cn-zhangjiakou.inner.fnf.aliyuncs.com
 *.cn-zhangjiakou.lc.aliyuncs.com
 *.cn-zhangjiakou.log.aliyuncs.com
@@ -1335,6 +1355,7 @@
 *.debug.iothub.aliyuncs.com
 *.dev-vpc.cr.sae.aliyuncs.com
 *.dev.antapigw.aliyuncs.com
+*.dev.imm.aliyuncs.com
 *.device.saf.aliyuncs.com
 *.dg.aliyuncs.com
 *.dualstack.ap-hochiminh-ant.ots-internal.aliyuncs.com
@@ -1372,6 +1393,7 @@
 *.eu-central-1.elasticsearch.aliyuncs.com
 *.eu-central-1.fc.aliyuncs.com
 *.eu-central-1.fnf.aliyuncs.com
+*.eu-central-1.imm.aliyuncs.com
 *.eu-central-1.lc.aliyuncs.com
 *.eu-central-1.log.aliyuncs.com
 *.eu-central-1.mgw.aliyuncs.com
@@ -1404,6 +1426,7 @@
 *.eu-west-1.dualstack.log.aliyuncs.com
 *.eu-west-1.elasticsearch.aliyuncs.com
 *.eu-west-1.fc.aliyuncs.com
+*.eu-west-1.imm.aliyuncs.com
 *.eu-west-1.lc.aliyuncs.com
 *.eu-west-1.log.aliyuncs.com
 *.eu-west-1.mgw.aliyuncs.com
@@ -1547,12 +1570,14 @@
 *.img-cn-shanghai-internal.aliyuncs.com
 *.img-cn-shenzhen.aliyuncs.com
 *.img-cn-shenzhen-internal.aliyuncs.com
+*.imm.aliyuncs.com
 *.imp.aliyuncs.com
 *.in-mumbai.aliyuncs.com
 *.in-mumbai-alipay.ots.aliyuncs.com
 *.in-mumbai-alipay.ots-internal.aliyuncs.com
 *.in-mumbai-alipay.tablestore.aliyuncs.com
 *.in-mumbai-alipay.vpc.tablestore.aliyuncs.com
+*.influxdata.rds.aliyuncs.com
 *.influxdata.tsdb.aliyuncs.com
 *.inner.elasticsearch.aliyuncs.com
 *.inner.fnf.aliyuncs.com
@@ -1773,6 +1798,7 @@
 *.me-east-1.elasticsearch.aliyuncs.com
 *.me-east-1.fc.aliyuncs.com
 *.me-east-1.fnf.aliyuncs.com
+*.me-east-1.imm.aliyuncs.com
 *.me-east-1.lc.aliyuncs.com
 *.me-east-1.log.aliyuncs.com
 *.me-east-1.mgw.aliyuncs.com
@@ -2054,6 +2080,12 @@
 *.oas.aliyuncs.com
 *.odps.aliyuncs.com
 *.odps-cr.aliyuncs.com
+*.office-cache.dev.imm.aliyuncs.com
+*.office-cache.imm.aliyuncs.com
+*.office-static.dev.imm.aliyuncs.com
+*.office-static.imm.aliyuncs.com
+*.office.dev.imm.aliyuncs.com
+*.office.imm.aliyuncs.com
 *.online-vpc.cr.sae.aliyuncs.com
 *.opensearch.aliyuncs.com
 *.opensearch-ap-northeast-1.aliyuncs.com
@@ -2735,6 +2767,7 @@
 *.staging.cn-shanghai.fc.aliyuncs.com
 *.staging.cn-shanghai.fnf.aliyuncs.com
 *.staging.cn-shanghai.lc.aliyuncs.com
+*.stg.imm.aliyuncs.com
 *.sys-api-iot.ap-southeast-1.aliyuncs.com
 *.sys-api-iot.cn-shanghai.aliyuncs.com
 *.tianji.aliyuncs.com
@@ -2762,6 +2795,7 @@
 *.us-east-1.elasticsearch.aliyuncs.com
 *.us-east-1.fc.aliyuncs.com
 *.us-east-1.fnf.aliyuncs.com
+*.us-east-1.imm.aliyuncs.com
 *.us-east-1.lc.aliyuncs.com
 *.us-east-1.log.aliyuncs.com
 *.us-east-1.mgw.aliyuncs.com
@@ -2809,6 +2843,7 @@
 *.us-west-1.elasticsearch.aliyuncs.com
 *.us-west-1.fc.aliyuncs.com
 *.us-west-1.fnf.aliyuncs.com
+*.us-west-1.imm.aliyuncs.com
 *.us-west-1.lc.aliyuncs.com
 *.us-west-1.log.aliyuncs.com
 *.us-west-1.mgw.aliyuncs.com
@@ -2914,6 +2949,7 @@
 *.x509.iothub.aliyuncs.com
 *.xp-internet.batchcompute.aliyuncs.com
 *.xp.batchcompute.aliyuncs.com
+*.xp.imm.aliyuncs.com
 *.zhangbei-corp-intranet.log.aliyuncs.com
 *.zhangbei-corp-share.log.aliyuncs.com
 *.zhangjiakou.log.aliyuncs.com
