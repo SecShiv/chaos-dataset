@@ -16,7 +16,7 @@ jobs:
 
     - uses: actions/checkout@v3
       with:
-        fetch-depth: 2
+        fetch-depth: 0
 
     - name: Run chaos
       run: |
@@ -24,69 +24,6 @@ jobs:
         cd data
         ./chaos.sh
         cd ..
-
-    - name: Generate diff for Discord (if updated)
-      run: |
-        if git diff --quiet HEAD -- data/alltargets.txt; then
-          echo "No changes in alltargets.txt, skipping Discord notification."
-        else
-          # Get previous version
-          git show HEAD:data/alltargets.txt > data/old.txt
-          cp data/alltargets.txt data/new.txt
-
-          if [ ! -s data/old.txt ] || [ ! -s data/new.txt ]; then
-            echo "One of the files is empty, skipping diff."
-            exit 0
-          fi
-
-          # Normalize line endings (avoid false diffs)
-          sed -i 's/\r$//' data/old.txt
-          sed -i 's/\r$//' data/new.txt
-
-          # Sort and compare
-          sort data/old.txt > data/old_sorted.txt
-          sort data/new.txt > data/new_sorted.txt
-          rm -f data/old.txt data/new.txt
-
-          # Added/removed lines
-          tr -d '\r' < data/old_sorted.txt > data/old.txt
-          tr -d '\r' < data/new_sorted.txt > data/new.txt
-          comm -13 data/old.txt data/new.txt > data/added.txt
-          comm -23 data/old.txt data/new.txt > data/removed.txt
-          rm -rf "data/old_sorted.txt" "data/new_sorted.txt"
-
-          # Save full changes (for artifact upload only)
-          {
-            echo "**Added lines:**"
-            cat data/added.txt || true
-            echo
-            echo "**Removed lines:**"
-            cat data/removed.txt || true
-          } > /tmp/changes.txt
-
-          # Create trimmed version for Discord
-          {
-            echo "**Added lines (first 40):**"
-            head -n 40 data/added.txt || true
-            echo
-            echo "**Removed lines (first 40):**"
-            head -n 40 data/removed.txt || true
-          } > data/changes_trimmed.txt
-
-          # Send to Discord
-          CONTENT=$(cat data/changes_trimmed.txt | head -c 1800 | jq -Rs .)
-          curl -H "Content-Type: application/json" \
-          -d "{\"content\": ${CONTENT}}" \
-          ${{ secrets.DISCORD_WEBHOOK }}
-        fi
-
-    - name: Upload full diff as artifact
-      if: success() && !cancelled() && hashFiles('/tmp/changes.txt') != ''
-      uses: actions/upload-artifact@v4
-      with:
-        name: chaos-changes
-        path: /tmp/changes.txt
-        retention-days: 7
 
     - name: Track large files
       run: |
@@ -110,5 +47,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
-
 
