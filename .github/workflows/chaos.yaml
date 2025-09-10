@@ -49,8 +49,10 @@ jobs:
           rm -f data/old.txt data/new.txt
 
           # Added/removed lines
-          comm -13 data/old_sorted.txt data/new_sorted.txt > data/added.txt
-          comm -23 data/old_sorted.txt data/new_sorted.txt > data/removed.txt
+          tr -d '\r' < data/old_sorted.txt > data/old.txt
+          tr -d '\r' < data/new_sorted.txt > data/new.txt
+          comm -13 data/old.txt data/new.txt > data/added.txt
+          comm -23 data/old.txt data/new.txt > data/removed.txt
           rm -rf "data/old_sorted.txt" "data/new_sorted.txt"
 
           # Save full changes (for artifact upload only)
@@ -108,4 +110,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
+
 
