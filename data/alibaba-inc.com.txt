@@ -22,6 +22,7 @@
 *.ad.alibaba-inc.com
 *.adb.alibaba-inc.com
 *.adc.alibaba-inc.com
+*.adcinst.alibaba-inc.com
 *.adlab.alibaba-inc.com
 *.admin.alibaba-inc.com
 *.admin.report.alibaba-inc.com
@@ -35,10 +36,12 @@
 *.aem.alibaba-inc.com
 *.af.alibaba-inc.com
 *.aftool.alibaba-inc.com
+*.agent.alibaba-inc.com
 *.agoal.alibaba-inc.com
 *.ahas.alibaba-inc.com
 *.ai.alibaba-inc.com
 *.aia.alibaba-inc.com
+*.aicoding.alibaba-inc.com
 *.aiearth.alibaba-inc.com
 *.aikit.alibaba-inc.com
 *.ailab.alibaba-inc.com
@@ -46,6 +49,7 @@
 *.ailink.alibaba-inc.com
 *.aimp.alibaba-inc.com
 *.aimp-zb.alibaba-inc.com
+*.aione.alibaba-inc.com
 *.air.alibaba-inc.com
 *.air-test.alibaba-inc.com
 *.airec.alibaba-inc.com
@@ -82,6 +86,8 @@
 *.alisports.alibaba-inc.com
 *.alitv.alibaba-inc.com
 *.aliwood.alibaba-inc.com
+*.aliyun-region-vpc-ap-southeast-1-mw-mcp.alibaba-inc.com
+*.aliyun-region-vpc-ap-southeast-1-mw-mcp-internal.alibaba-inc.com
 *.aloha.alibaba-inc.com
 *.alphamatte.alibaba-inc.com
 *.alsc.alibaba-inc.com
@@ -93,13 +99,17 @@
 *.analysis.alibaba-inc.com
 *.anpm.alibaba-inc.com
 *.aone.alibaba-inc.com
+*.aone-agent.alibaba-inc.com
 *.aone-mix.alibaba-inc.com
+*.aoneagent.alibaba-inc.com
 *.aop.alibaba-inc.com
 *.aop-service.alibaba-inc.com
 *.aop2.alibaba-inc.com
 *.ap-southeast-1.alibaba-inc.com
 *.ap-southeast-1-internal.ha-work.alibaba-inc.com
 *.api.alibaba-inc.com
+*.api-mw.alibaba-inc.com
+*.api-mw-inner.alibaba-inc.com
 *.api-portal.alibaba-inc.com
 *.api-qradar.alibaba-inc.com
 *.api.idb4.alibaba-inc.com
@@ -350,6 +360,7 @@
 *.ds1.alibaba-inc.com
 *.dt-fc.alibaba-inc.com
 *.dts-kunlun.alibaba-inc.com
+*.dualstack.alibaba-inc.com
 *.dumbo.alibaba-inc.com
 *.dummy.alibaba-inc.com
 *.dvs.alibaba-inc.com
@@ -489,6 +500,7 @@
 *.homelab.alibaba-inc.com
 *.hon.alibaba-inc.com
 *.hooma.alibaba-inc.com
+*.hosting.alibaba-inc.com
 *.hostsinfo.alibaba-inc.com
 *.hrwork.alibaba-inc.com
 *.hubble.alibaba-inc.com
@@ -600,6 +612,7 @@
 *.lsp.alibaba-inc.com
 *.lstbops.alibaba-inc.com
 *.ltp.alibaba-inc.com
+*.lumos.alibaba-inc.com
 *.luxury.alibaba-inc.com
 *.lzd.alibaba-inc.com
 *.lzdchat.alibaba-inc.com
@@ -798,9 +811,13 @@
 *.pre.alibaba-inc.com
 *.pre-abf.alibaba-inc.com
 *.pre-aetraffictool.alibaba-inc.com
+*.pre-ai.alibaba-inc.com
 *.pre-aimp.alibaba-inc.com
 *.pre-ali-open-source.alibaba-inc.com
 *.pre-alicom-dev.alibaba-inc.com
+*.pre-aliyun-region-vpc-ap-southeast-1-mw-mcp.alibaba-inc.com
+*.pre-aoneagent.alibaba-inc.com
+*.pre-api-mw.alibaba-inc.com
 *.pre-aplus2.alibaba-inc.com
 *.pre-appstudio.alibaba-inc.com
 *.pre-atp-olympic.alibaba-inc.com
@@ -808,6 +825,7 @@
 *.pre-builder.alibaba-inc.com
 *.pre-c.alibaba-inc.com
 *.pre-caijing.alibaba-inc.com
+*.pre-cestlavie.alibaba-inc.com
 *.pre-chaos.alibaba-inc.com
 *.pre-corona-web.alibaba-inc.com
 *.pre-cost.alibaba-inc.com
@@ -818,6 +836,7 @@
 *.pre-daraz-workstation.alibaba-inc.com
 *.pre-dchain-api-proxy.alibaba-inc.com
 *.pre-dchain-fc.alibaba-inc.com
+*.pre-dev2-hosting.alibaba-inc.com
 *.pre-dmsp.alibaba-inc.com
 *.pre-dragonstone.alibaba-inc.com
 *.pre-eureka-gateway.alibaba-inc.com
@@ -829,6 +848,7 @@
 *.pre-fx.alibaba-inc.com
 *.pre-guard.alibaba-inc.com
 *.pre-hana.alibaba-inc.com
+*.pre-hosting.alibaba-inc.com
 *.pre-ibuffett.alibaba-inc.com
 *.pre-ide-tmap.alibaba-inc.com
 *.pre-industry-workbench.alibaba-inc.com
@@ -839,12 +859,14 @@
 *.pre-mixteam.alibaba-inc.com
 *.pre-mmc-testcenter.alibaba-inc.com
 *.pre-ms.dw.alibaba-inc.com
+*.pre-mw-mcp.alibaba-inc.com
 *.pre-nasa.alibaba-inc.com
 *.pre-occ.alibaba-inc.com
 *.pre-open.alibaba-inc.com
 *.pre-pixiu.alibaba-inc.com
 *.pre-qfc.alibaba-inc.com
 *.pre-s-app.alibaba-inc.com
+*.pre-sandbox.alibaba-inc.com
 *.pre-slashlab.alibaba-inc.com
 *.pre-space-x.alibaba-inc.com
 *.pre-spx.alibaba-inc.com
@@ -859,14 +881,17 @@
 *.pre-x-dep.alibaba-inc.com
 *.pre-x-dsp.alibaba-inc.com
 *.pre-x-ide.alibaba-inc.com
+*.pre-xinliu.alibaba-inc.com
 *.pre-yida-performance2.alibaba-inc.com
 *.pre-yida-vpc.alibaba-inc.com
 *.pre-zhongtu.alibaba-inc.com
 *.pre-zoro.alibaba-inc.com
 *.pre2.alibaba-inc.com
 *.pre2-caijing.alibaba-inc.com
+*.preadcinst.alibaba-inc.com
 *.preimp.alibaba-inc.com
 *.prepub.alibaba-inc.com
+*.preview.pre-xinliu.alibaba-inc.com
 *.private-test.alibaba-inc.com
 *.prmc.alibaba-inc.com
 *.prmc-pre.alibaba-inc.com
@@ -915,6 +940,7 @@
 *.saas.alibaba-inc.com
 *.safe.alibaba-inc.com
 *.sample.alibaba-inc.com
+*.sandbox.alibaba-inc.com
 *.santa-pro.alibaba-inc.com
 *.sbox.alibaba-inc.com
 *.sc.alibaba-inc.com
@@ -943,6 +969,10 @@
 *.sg-2.alibaba-inc.com
 *.sgunit.alibaba-inc.com
 *.sh.alibaba-inc.com
+*.sh-aigw-main-tt-common-internal.alibaba-inc.com
+*.sh-mw-mcp.alibaba-inc.com
+*.sh-mw-mcp-internal.alibaba-inc.com
+*.sh-mw-mcp-office.alibaba-inc.com
 *.shadow-caijing.alibaba-inc.com
 *.shadow-pre-caijing.alibaba-inc.com
 *.shenma.alibaba-inc.com
@@ -998,6 +1028,7 @@
 *.staragent-configservice.alibaba-inc.com
 *.starlink.alibaba-inc.com
 *.stars.alibaba-inc.com
+*.stars-sgvpc.alibaba-inc.com
 *.starunion.alibaba-inc.com
 *.station.alibaba-inc.com
 *.status.alibaba-inc.com
@@ -1117,6 +1148,7 @@
 *.utcp.alibaba-inc.com
 *.v.alibaba-inc.com
 *.v2.alibaba-inc.com
+*.vectordb-pre.alibaba-inc.com
 *.verification.alibaba-inc.com
 *.vh-kabana.alibaba-inc.com
 *.vh-kibana.alibaba-inc.com
@@ -1173,6 +1205,7 @@
 *.xdata.alibaba-inc.com
 *.xfeedback.alibaba-inc.com
 *.xide.alibaba-inc.com
+*.xinliu.alibaba-inc.com
 *.xishu.alibaba-inc.com
 *.xixi.alibaba-inc.com
 *.xlab.alibaba-inc.com
@@ -1190,6 +1223,7 @@
 *.y.alibaba-inc.com
 *.yamp.alibaba-inc.com
 *.yc.alibaba-inc.com
+*.ygg.alibaba-inc.com
 *.yida.alibaba-inc.com
 *.youku.alibaba-inc.com
 *.youku-beimingkun-service.alibaba-inc.com

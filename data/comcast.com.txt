@@ -5839,6 +5839,7 @@ accountbillingsummary-api.np.salesx.business.comcast.com
 accountbillingsummary-api.salesx.comcast.com
 accountdatausage-api-g.salesx.comcast.com
 accountdatausage-api-qa2.np.salesx.business.comcast.com
+accountdatausage-api-stage.np.salesx.comcast.com
 accountdatausage-api-ue1.salesx.comcast.com
 accountdatausage-api-uw2.salesx.comcast.com
 accountdatausage-api.salesx.comcast.com
@@ -41052,6 +41053,11 @@ ngp-lbr.r53-eu.merlin.comcast.com
 ngp-prod-fo-eu-central-1.r53-eu.merlin.comcast.com
 ngp-prod-fo-eu-west-1.r53-eu.merlin.comcast.com
 ngp-rr.r53-eu.merlin.comcast.com
+ngpauto-ch2-2p-con.cable.comcast.com
+ngpcomp1-as-5p-con.cable.comcast.com
+ngpcomp1-ch2-5p-con.cable.comcast.com
+ngpcomp1-ho-3p-con.cable.comcast.com
+ngpcomp1-ho-4p-con.cable.comcast.com
 ngpcomp2-as-1d.cable.comcast.com
 ngpcomp2-as-1p-con.cable.comcast.com
 ngpcomp2-as-1p.cable.comcast.com
@@ -41063,10 +41069,13 @@ ngpcomp2-ho-1p.cable.comcast.com
 ngpcomp2-ho-2p.cable.comcast.com
 ngpcomp3-as-1d.cable.comcast.com
 ngpcomp3-ho-1d.cable.comcast.com
+ngpcomp4-as-2p-con.cable.comcast.com
+ngpcomp4-ho-2p-con.cable.comcast.com
 ngpmcmp3-ch2-1p.cable.comcast.com
 ngpmcomp3-as-1p-con.cable.comcast.com
 ngpmcomp3-as-1p.cable.comcast.com
 ngpmetrics.merlin.comcast.com
+ngpmjauto-as-1p-con.cable.comcast.com
 ngpoptim-as-1d.cable.comcast.com
 ngpoptim-as-1p.cable.comcast.com
 ngpoptim-as-2d.cable.comcast.com
@@ -41080,11 +41089,13 @@ ngpoptim-ho-2p.cable.comcast.com
 ngpsql-as-1d-con.cable.comcast.com
 ngpxcmp2-ch2-1p.cable.comcast.com
 ngpxcmp3-ch2-1p.cable.comcast.com
+ngpxcomp1-as-3p-con.cable.comcast.com
 ngpxcomp2-as-1p.cable.comcast.com
 ngpxcomp3-as-1d.cable.comcast.com
 ngpxcomp3-as-1p.cable.comcast.com
 ngpxcomp3-ho-1d.cable.comcast.com
 ngpxcomp3-ho-1p.cable.comcast.com
+ngpxcomp4-ho-3p-con.cable.comcast.com
 ngsmc-p.gslb2.comcast.com
 ngtwtd-po-p01d.cable.comcast.com
 ngvcp-1p.gslb2.comcast.com
@@ -41859,6 +41870,7 @@ notification-status-service-stg-va.np.api-business.comcast.com
 notification-status-service-stg.np.api-business.comcast.com
 notificationportal.smartoffice.comcast.com
 notifications-api-g.salesx.comcast.com
+notifications-api-stage.np.salesx.comcast.com
 notifications-api-ue1.salesx.comcast.com
 notifications-api-uw2.salesx.comcast.com
 notifications-api.salesx.comcast.com

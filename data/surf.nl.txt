@@ -2,6 +2,7 @@
 *.apm.ece.secops.surf.nl
 *.argos.surf.nl
 *.ci-backstage-record-harvester.dev.sdp.surf.nl
+*.ci-cors-record-harvester.dev.sdp.surf.nl
 *.ci-edurep-parsing-record-harvester.dev.sdp.surf.nl
 *.ci-feat-nplsinf-761-record-harvester.dev.sdp.surf.nl
 *.ci-file-names-record-harvester.dev.sdp.surf.nl
@@ -830,6 +831,7 @@ ci-docker-proxy-admin.cxp.dev.sdp.surf.nl
 ci-fix-key-usages-admin.cxp.dev.sdp.surf.nl
 ci-hiram-vanpaassen-admin.cxp.dev.sdp.surf.nl
 ci-include-k8s-pipe-backstage.dev.sdp.surf.nl
+ci-material-stats-admin.cxp.dev.sdp.surf.nl
 ci-nplsinfr-753-sra-admin.cxp.dev.sdp.surf.nl
 ci-renovate-cr-surf-backstage.dev.sdp.surf.nl
 ci-renovate-cr-surf-monitoring.dev.sdp.surf.nl
@@ -839,6 +841,7 @@ ci-renovate-node-lt-admin.cxp.dev.sdp.surf.nl
 ci-renovate-postgre-monitoring.dev.sdp.surf.nl
 ci-renovate-pytest--monitoring.dev.sdp.surf.nl
 ci-renovate-rollup--admin.cxp.dev.sdp.surf.nl
+ci-renovate-ruff-0--monitoring.dev.sdp.surf.nl
 ci-runner.sram.surf.nl
 ci-runner.surf.surf.nl
 ci-static-bundles-admin.cxp.dev.sdp.surf.nl
@@ -1167,6 +1170,7 @@ entrust-slave2.int.ia.surf.nl
 entrust-ssp1.ia.surf.nl
 entrust-ssp1.int.ia.surf.nl
 epc1.surf.nl
+erasmus-plus.pilot1.sram.surf.nl
 es.ece.secops.surf.nl
 esd.surf.nl
 estudybooks.surf.nl
@@ -1279,6 +1283,7 @@ footlogs.argos.surf.nl
 footprints.ia.surf.nl
 fs1-soil-utp.soil.surf.nl
 fs1.liza.surf.nl
+fs1.mgt.willma.surf.nl
 fs1.willma.surf.nl
 fs23.liza.surf.nl
 ftp01p.ia.surf.nl
@@ -1930,6 +1935,7 @@ grafana.capi.surf.nl
 grafana.capi-dev.surf.nl
 grafana.exp.sram.lab.surf.nl
 grafana.hpcv.surf.nl
+grafana.pilot1.sram.surf.nl
 grafana.prod.spm.surf.nl
 grafana.sdp.surf.nl
 graphdb.exp.scz.lab.surf.nl
@@ -2622,6 +2628,7 @@ jupyter.pilot1.sram.surf.nl
 jupyter.snellius.surf.nl
 jwt-revoke.exp.sram.lab.surf.nl
 kafka.exp.sram.lab.surf.nl
+kafka.willma.surf.nl
 kandidaten.werkenbij.surf.nl
 kb.ece.secops.surf.nl
 keeweb.exp.sram.lab.surf.nl
@@ -3127,6 +3134,7 @@ prometheus-isn.ia.surf.nl
 prometheus.acc.spm.surf.nl
 prometheus.capi-dev.surf.nl
 prometheus.infra.sdp.surf.nl
+prometheus.pilot1.sram.surf.nl
 prometheus.prod.spm.surf.nl
 provider.pilot1.sram.surf.nl
 proxy.surf.nl

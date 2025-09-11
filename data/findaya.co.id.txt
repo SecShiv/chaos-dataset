@@ -22,11 +22,13 @@ api-northstar.findaya.co.id
 api-waf.mgr.findaya.co.id
 api-waf.mgr.staging.findaya.co.id
 api-waf.staging.findaya.co.id
+api.al-mg-id-p.findaya.co.id
 api.al-mg-id-s.findaya.co.id
 api.auditservice.loanplatform.staging.findaya.co.id
 api.cashloans.staging.findaya.co.id
 api.loanplatform.findaya.co.id
 api.mgr.findaya.co.id
+api.mgr.al-mg-id-p.findaya.co.id
 api.mgr.al-mg-id-s.findaya.co.id
 api.mgr.staging.findaya.co.id
 api.ml-cashloans.staging.findaya.co.id
@@ -110,7 +112,9 @@ mgr-pinjam.mgr-cashloan.team.mtls-gateway.cashloans.i.staging.findaya.co.id
 mgr-pinjam.mgr-cashloan.team.mtls-gateway.cashloans.staging.findaya.co.id
 mgr-pinjam.mgr-infra.team.api-gateway.cashloans.al-mg-id-p.findaya.co.id
 mgr-pinjam.mgr-infra.team.api-gateway.cashloans.al-mg-id-s.findaya.co.id
+mgr-pinjam.mgr-infra.team.api.al-mg-id-p.findaya.co.id
 mgr-pinjam.mgr-infra.team.api.al-mg-id-s.findaya.co.id
+mgr-pinjam.mgr-infra.team.api.mgr.al-mg-id-p.findaya.co.id
 mgr-pinjam.mgr-infra.team.api.mgr.al-mg-id-s.findaya.co.id
 mgr-pinjam.mgr-infra.team.app.al-mg-id-p.findaya.co.id
 mgr-pinjam.mgr-infra.team.app.al-mg-id-s.findaya.co.id
@@ -175,3 +179,7 @@ vault.jari.findaya.co.id
 web-staging.findaya.co.id
 www.findaya.co.id
 www.funding.findaya.co.id
+www.funding-staging.findaya.co.id
+www.lk.findaya.co.id
+www.lk.staging.findaya.co.id
+yarn-rm.findaya.co.id

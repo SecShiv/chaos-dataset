@@ -89,6 +89,7 @@ acquisition-personal-info-update.k8s-uat-usc1.u.gcp.oanda.com
 acquisition-r10-api.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-r10n-api-blue.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-r10n-api-green.k8s-stg-usc1.s.gcp.oanda.com
+acquisition-r10n-api.k8s-prod-use4.p.gcp.oanda.com
 acquisition-reg-next-ui-blue.k8s-prod-use4.p.gcp.oanda.com.gcp.oanda.com
 acquisition-reg-next-ui-blue.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-reg-next-ui-green.k8s-prod-use4.p.gcp.oanda.com.gcp.oanda.com
@@ -604,6 +605,7 @@ mt4-rest-api.k8s-uat-asne1.u.gcp.oanda.com
 mt4-rest-api.k8s-uat-usc1.u.gcp.oanda.com
 mt4-trade.oanda.com
 mt5-demo-rest-api.k8s-prod-asne1.p.gcp.oanda.com
+mt5-oanda-uat-1-lb-spectrum.uat.oanda.com
 mt5-oel-statements-api.k8s-prod-use4.p.gcp.oanda.com
 mt5-oel-statements-api.k8s-stg-usc1.s.gcp.oanda.com
 mt5-oel-statements-api.k8s-uat-usc1.u.gcp.oanda.com
@@ -1101,10 +1103,17 @@ sf-trade.oanda.com
 sfb.oanda.com
 short.oanda-nonprod-observability-cluster-1.i.gcp.oanda.com
 si-salesforce-interceptor.k8s-uat-usc1.u.gcp.oanda.com
+single-id-dark.k8s-prod-usc1.dr.gcp.oanda.com
+single-id-dark.k8s-prod-usc1.p.gcp.oanda.com
 single-id-dark.k8s-prod-use4.p.gcp.oanda.com
 single-id-dark.k8s-stg-asne1.s.gcp.oanda.com
 single-id-dark.k8s-stg-usc1.s.gcp.oanda.com
+single-id-demo-dark.k8s-prod-usc1.dr.gcp.oanda.com
+single-id-demo-dark.k8s-prod-usc1.p.gcp.oanda.com
 single-id-demo-dark.k8s-stg-usc1.s.gcp.oanda.com
+single-id-demo.k8s-prod-usc1.dr.gcp.oanda.com
+single-id-demo.k8s-prod-usc1.p.gcp.oanda.com
+single-id.k8s-prod-usc1.p.gcp.oanda.com
 single-id.k8s-prod-use4.p.gcp.oanda.com
 single-id.k8s-stg-asne1.s.gcp.oanda.com
 single-id.k8s-stg-usc1.s.gcp.oanda.com

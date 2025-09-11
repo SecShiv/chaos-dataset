@@ -22,6 +22,7 @@
 *.apple-carry-relay.cloudflare.com
 *.apple-relay.cloudflare.com
 *.assets.dash.staging.cloudflare.com
+*.autorag.ai.cloudflare.com
 *.billing.support.cloudflare.com
 *.blocked.teams.fed.cloudflare.com
 *.blog.cloudflare.com
@@ -401,6 +402,7 @@ api-origin.cloudflare.com
 api-silos.staging.realtime.cloudflare.com
 api-staging.notifications.cloudflare.com
 api.integrations.cloudflare.com
+api.labs.cloudflare.com
 api.notifications.cloudflare.com
 api.one.dash.staging.cloudflare.com
 api.privacy-auditability.cloudflare.com
@@ -412,6 +414,8 @@ api.staging.integrations.cloudflare.com
 api.teams.cloudflare.com
 api.workers.cloudflare.com
 api0.staging.realtime.cloudflare.com
+apjc.labs.cloudflare.com
+apjc.v2.labs.cloudflare.com
 apni1x-dcn.cloudflare.com
 apollo.cloudflare.com
 apollo.ns.cloudflare.com
@@ -423,6 +427,7 @@ apple-carry-relay.cloudflare.com
 apple-relay.cloudflare.com
 appolo.ns.cloudflare.com
 april.ns.cloudflare.com
+apwest.labs.cloudflare.com
 ar.cloudflare.com
 ara.ns.cloudflare.com
 aragorn.ns.cloudflare.com
@@ -457,6 +462,7 @@ assets.intel.cloudflare.com
 assets.magic-wan-connector.cloudflare.com
 assets.radar.cloudflare.com
 assets.www.cloudflare.com
+astriddb.labs.cloudflare.com
 athena.cloudflare.com
 athena.ns.cloudflare.com
 atmpj.tw.cdn.cloudflare.com
@@ -465,12 +471,14 @@ au.api.cloudflare.com
 au.api.staging.cloudflare.com
 aubrey.ns.cloudflare.com
 audrey.ns.cloudflare.com
+aueast.labs.cloudflare.com
 augustus.ns.cloudflare.com
 aurora.ns.cloudflare.com
 austin.ns.cloudflare.com
 auth.cloudflare.com
 autodiscover.dairystatecheese.com.kip.ns.cloudflare.com
 autofix-container-staging.mcp.cloudflare.com
+autorag.ai.cloudflare.com
 autumn.ns.cloudflare.com
 ave.ns.cloudflare.com
 ay.ns.cloudflare.com
@@ -8387,10 +8395,16 @@ clayton.ns.cloudflare.com
 clcouldcn2.cloudflare.com
 cleo.ns.cloudflare.com
 cli-resty.cloudflare.com
+client.sso.labs.cloudflare.com
 clint.ns.cloudflare.com
 cloe.cloudflare.com
 cloe.ns.cloudflare.com
 clyde.ns.cloudflare.com
+cml-bastion-apjc-default.labs.cloudflare.com
+cml-bastion-apjc.labs.cloudflare.com
+cml-sso-proxy-orig.labs.cloudflare.com
+cms-api.labs.cloudflare.com
+cms.labs.cloudflare.com
 cnd.cloudflare.com
 cndjs.cloudflare.com
 cobol.demos.cloudflare.com
@@ -8412,6 +8426,8 @@ conferences.research.cloudflare.com
 connie.ns.cloudflare.com
 conrad.ns.cloudflare.com
 content.cloudflare.com
+content.labs.cloudflare.com
+content.v2.labs.cloudflare.com
 contrail-staging.ces.dlp.teams.cloudflare.com
 contrail.ces.dlp.teams.cloudflare.com
 cora.ns.cloudflare.com
@@ -8682,6 +8698,7 @@ ethereum.cloudflare.com
 etienne.ns.cloudflare.com
 etta.ns.cloudflare.com
 eugene.ns.cloudflare.com
+euwest.labs.cloudflare.com
 eva.ns.cloudflare.com
 evan.ns.cloudflare.com
 evangeline.ns.cloudflare.com
@@ -8874,6 +8891,8 @@ iapi.cloudflare.com
 ica.ns.cloudflare.com
 id.cloudflare.com
 id-id.www.cloudflare.com
+idp-rag.labs.cloudflare.com
+idp.labs.cloudflare.com
 idrac.cloudflare.com
 ignacio.ns.cloudflare.com
 ignat.ns.cloudflare.com
@@ -9432,6 +9451,7 @@ mcp.cloudflare.com
 meadow.ns.cloudflare.com
 media-deals.jumia.com.cdn.cloudflare.com
 media-hub.staging.realtime.cloudflare.com
+media.labs.cloudflare.com
 meera.ns.cloudflare.com
 meerans.cloudflare.com
 meg.ns.cloudflare.com
@@ -10071,6 +10091,7 @@ quinton.ns.cloudflare.com
 r.ns.cloudflare.com
 r2-calculator.cloudflare.com
 r2-staging.rpki.cloudflare.com
+r2.labs.cloudflare.com
 r2.rpki.cloudflare.com
 r230.em2.cloudflare.com
 r232.em2.cloudflare.com
@@ -10185,6 +10206,8 @@ sales.cloudflare.com
 salvador.ns.cloudflare.com
 sam.ns.cloudflare.com
 samara.ns.cloudflare.com
+saml-auto.labs.cloudflare.com
+saml-sso-auto.labs.cloudflare.com
 sandbox.one.dash.cloudflare.com
 sandra.ns.cloudflare.com
 sandy.ns.cloudflare.com
@@ -18076,6 +18099,8 @@ ssl98489.cloudflare.com
 ssl98490.cloudflare.com
 ssl98491.cloudflare.com
 ssl99926.cloudflare.com
+sso-auto.labs.cloudflare.com
+sso-proxy.labs.cloudflare.com
 staging.cloudflare.com
 staging-api.privacy-auditability.cloudflare.com
 staging-dash.key-transparency.cloudflare.com
@@ -18160,6 +18185,7 @@ telemetry-staging.magic-wan-connector.cloudflare.com
 temp-gateway.api.staging.cloudflare.com
 teresa.ns.cloudflare.com
 terin.ns.cloudflare.com
+terrasoup.labs.cloudflare.com
 terrie.ns.cloudflare.com
 terry.ns.cloudflare.com
 tess.ns.cloudflare.com
@@ -18231,6 +18257,8 @@ uriah.ns.cloudflare.com
 urlscanner.radar.staging.cloudflare.com
 ursula.ns.cloudflare.com
 usa-server-loc.cloudflare.com
+uscentral.labs.cloudflare.com
+uswest.labs.cloudflare.com
 v2.radar.cloudflare.com
 val.ns.cloudflare.com
 valentin.ns.cloudflare.com

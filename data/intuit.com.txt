@@ -204,6 +204,7 @@
 *.bos.intuit.com
 *.bosptc.intuit.com
 *.bppdlppdusw2.iks2.a.intuit.com
+*.brazeassetprocessor.a.intuit.com
 *.brm.intuit.com
 *.brm-preprod.a.intuit.com
 *.brm-prod.a.intuit.com
@@ -19208,8 +19209,11 @@ datapersist-datalake-prd-bpp-auth-service.dngspokdlprdusw2.iks2.a.intuit.com
 datapersist-datalake-prd-bpp-emr-service.dngspokdlprdusw2.iks2.a.intuit.com
 datapersist-datalake-stg-bpp-auth-service.dngspokdlprdusw2.iks2.a.intuit.com
 datapersist-datalake-stg-bpp-emr-service.dngspokdlprdusw2.iks2.a.intuit.com
+datapersist-e2e-ebus-clickstream.dataengppduse2.iks2.a.intuit.com
 datapersist-e2e-ebus-noauth.dataengppduse2.iks2.a.intuit.com
 datapersist-e2e-ebus-noauth.dataengppdusw2.iks2.a.intuit.com
+datapersist-e2e-ebus-public.dataengppduse2.iks2.a.intuit.com
+datapersist-e2e-ebus-public.dataengppdusw2.iks2.a.intuit.com
 datapersist-e2e-oss-proxy.mailchimpppdusw2.iks2.a.intuit.com
 datapersist-eventbus-prd-ebus-rest-producer-v2-iks.dataengppduse2.iks2.a.intuit.com
 datapersist-eventbus-prd-ebus-rest-producer-v2-iks.dataengppdusw2.iks2.a.intuit.com
@@ -19219,6 +19223,8 @@ datapersist-eventbus-stg-ebus-rest-producer-v2-iks.dataengppduse2.iks2.a.intuit.
 datapersist-eventbus-stg-ebus-rest-producer-v2-iks.dataengppdusw2.iks2.a.intuit.com
 datapersist-eventbus-stg-ebus-rest-producer-v2-iks.dataengprduse2.iks2.a.intuit.com
 datapersist-eventbus-stg-ebus-rest-producer-v2-iks.dataengprdusw2.iks2.a.intuit.com
+datapersist-prd-ebus-noauth.dataengprduse2.iks2.a.intuit.com
+datapersist-prd-ebus-noauth.dataengprdusw2.iks2.a.intuit.com
 datapersist-prd-oss-proxy.mailchimpprdusw2.iks2.a.intuit.com
 datapersist-qboz-ips-cache.dataengprduse2.iks2.a.intuit.com
 datapersist-qboz-ips-cache.dataengprdusw2.iks2.a.intuit.com
@@ -23783,6 +23789,7 @@ ebsqeservices-pre-production-kapx4c.pd.idps.a.intuit.com
 ebsrptm.intuit.com
 ebssys.intuit.com
 ebtonline.flb.intuit.com
+ebus-clickstream-datapersist.dataengppduse2.iks2.a.intuit.com
 ebus-clickstream-datapersist.dataengppdusw2.iks2.a.intuit.com
 ebus-cluster-service-d-4021951.dataengprduse2.iks2.a.intuit.com
 ebus-cluster-service-d-4021951.dataengprdusw2.iks2.a.intuit.com
@@ -23790,8 +23797,10 @@ ebus-data-mesh-service-7476405.dataengprdusw2.iks2.a.intuit.com
 ebus-functional-testin-8085687.dataengprduse2.iks2.a.intuit.com
 ebus-functional-testin-8085687.dataengprdusw2.iks2.a.intuit.com
 ebus-noauth-e2e.ebusrest-ppd.a.intuit.com
+ebus-noauth-prd.ebusrest-prd.a.intuit.com
 ebus-notification-serv-1476917.dataengprdusw2.iks2.a.intuit.com
 ebus-prd.a.intuit.com
+ebus-public-datapersist.dataengppdusw2.iks2.a.intuit.com
 ebus-rest-producer-v2-iks-data.dataengprduse2.iks2.a.intuit.com
 ebus-rest-producer-v2-iks-data.dataengprdusw2.iks2.a.intuit.com
 ebus-sdk-spring-exampl-3731927.dataengprdusw2.iks2.a.intuit.com
@@ -24846,6 +24855,7 @@ endpoint.dlp-dev.a.intuit.com
 endpoint.dlp-enforce-dev.intuit.com
 endpoint.dlp-enforce-dev.a.intuit.com
 endpoint.dlp.a.intuit.com
+endpoint.ips-olap-cg-prd.a.intuit.com
 enduraonlinebanking.flb.intuit.com
 energyfcu.flb.intuit.com
 enforce1.idps.intuit.com
@@ -54701,6 +54711,7 @@ pioneercuhb.flb.intuit.com
 pipeline-metrics-servi-6634511.dataengprdusw2.iks2.a.intuit.com
 pipelinemetrics.a.intuit.com
 pittsfordfcuonline.flb.intuit.com
+pk6-test10sep.a.intuit.com
 pkaur6-test-netgenie.a.intuit.com
 pkaur6-test-noor.a.intuit.com
 pkaur6-test-ssl.a.intuit.com
@@ -56126,6 +56137,8 @@ prd-dx01.devpapigwextprdusw2.iks2.a.intuit.com
 prd-dx11.devpapigwextprdusw2.iks2.a.intuit.com
 prd-eaasync-uswest2.ea.a.intuit.com
 prd-eaasync.ea.a.intuit.com
+prd-ebus-noauth.dataengprduse2.iks2.a.intuit.com
+prd-ebus-noauth.dataengprdusw2.iks2.a.intuit.com
 prd-edelivery.a.intuit.com
 prd-edicyclone.edi-east-2.a.intuit.com
 prd-edicyclone.edi.a.intuit.com
@@ -93008,4 +93021,3 @@ zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
 zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
-zycada.quickbooks.intuit.com

@@ -325,6 +325,8 @@
 *.tools.prod-usw2b.qstv.on.epicgames.com
 *.tools.prod-usw2p.qstv.on.epicgames.com
 *.ucs.on.epicgames.com
+*.uelegacy-assets.marketing.dev.on.epicgames.com
+*.uelegacy-gamedev.marketing.dev.on.epicgames.com
 *.ui.vault.substrate.on.epicgames.com
 *.unrealengine.cf.marketing.dev.on.epicgames.com
 *.unrealtournament.marketing.dev.on.epicgames.com
@@ -1316,6 +1318,8 @@ dcv-validate-token-us-east-1.megastation.it.epicgames.com
 deaa.dev.use1a.on.epicgames.com
 dead.dev.use1a.on.epicgames.com
 deadline-it-webservice-use1.it-entapps-dev.epicgames.com
+deadline-sp-usw2.it-entapps-dev.epicgames.com
+deadline-sp-webservice-usw2.it-entapps-dev.epicgames.com
 deadline-sp-webservice.it-entapps-dev.epicgames.com
 deadline-sp.it-entapps-dev.epicgames.com
 deadline-test-usw2.it-entapps-dev.epicgames.com
@@ -3480,6 +3484,7 @@ euw1.live.rtcp.on.epicgames.com
 euw1.vault.substrate.on.epicgames.com
 euw3.live.rtcp.on.epicgames.com
 events-public-service-live.ol.epicgames.com
+external-logs-collector.edec.dev.use1a.on.epicgames.com
 external-logs-collector.fbfb.live.use1a.on.epicgames.com
 fab-admin.ci.cceb.dev.use1a.on.epicgames.com
 fab-admin.daec.live.use1a.on.epicgames.com
@@ -4490,6 +4495,8 @@ redis-ui.team-epicenter.ebed.live.use1a.on.epicgames.com
 redis-ui.team-player-exp.cbfb.live.use1a.on.epicgames.com
 redismonitor-service.abfa.live.use1a.on.epicgames.com
 remotework.epicgames.com
+resonance-grpc-live.eeef.live.apse1a.on.epicgames.com
+resonance-grpc-live.eeef.live.use1a.on.epicgames.com
 resource-api-prod.artpipeline-dev.it.epicgames.com
 resource-api.artpipeline-dev.it.epicgames.com
 resources-auth.artpipe.epicgames.com
@@ -4625,6 +4632,7 @@ sonarqube.it-entapps-dev.epicgames.com
 sourcegraph-stage.it.epicgames.com
 spinnaker-api.dev.use1a.on.epicgames.com
 spinnaker.dev.use1a.on.epicgames.com
+splunk-syslog-collector.edec.dev.use1a.on.epicgames.com
 sprintdemo.installer.ega.ol.epicgames.com
 spt-request-tracer.operations.it.epicgames.com
 sssm.substrate.on.epicgames.com
@@ -4819,6 +4827,8 @@ ue-launcher-website-prod.ol.epicgames.com
 ue5help.epicgames.com
 uebd.epicgames.com
 uefn-docs.marketing.on.epicgames.com
+uelegacy-assets.marketing.dev.on.epicgames.com
+uelegacy-gamedev.marketing.dev.on.epicgames.com
 uetraining.epicgames.com
 ui.vault.substrate.on.epicgames.com
 unreal.epicgames.com

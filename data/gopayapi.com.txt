@@ -241,6 +241,7 @@ infrastructure-engineering.governance.team.payment-provider.gopayapi.com
 infrastructure-engineering.governance.team.payment-provider.staging.gopayapi.com
 infrastructure-engineering.governance.team.risk-gateway.gopayapi.com
 infrastructure-engineering.governance.team.risk-gateway.staging.gopayapi.com
+infrastructure-engineering.governance.team.sandbox-gws-app.gopayapi.com
 infrastructure-engineering.governance.team.status.global.staging.gateway.gopayapi.com
 infrastructure-engineering.governance.team.stg.gopayapi.com
 infrastructure-engineering.governance.team.stg-am.gopayapi.com
@@ -408,6 +409,7 @@ s-gloabl-gateway.gopayapi.com
 s-global-gateway.gopayapi.com
 s-vn-em-gateway.gopayapi.com
 sample.production.gopayapi.com
+sandbox-gws-app.gopayapi.com
 sandbox-id-pin.gopayapi.com
 sandbox-midtrans.gopayapi.com
 secure-parking.gopayapi.com
@@ -539,5 +541,3 @@ whatsapp.gopayapi.com
 withdrawal.gopayapi.com
 withdrawal-pgw.gopayapi.com
 www.internal.gopayapi.com
-www.internal-stg.gopayapi.com
-www.stg.whatsapp.gopayapi.com

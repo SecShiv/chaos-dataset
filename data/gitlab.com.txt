@@ -339,9 +339,11 @@ assets.gitlab.com
 auth.gitlab.com
 auth.aws.staging.gitlab.com
 auth.gcp.gitlab.com
+auth.gcp.staging.gitlab.com
 auth.pre.gitlab.com
 auth.staging.gitlab.com
 auth.token.gitlab.com
+auth.token.staging.gitlab.com
 biz.gitlab.com
 blackbox.gitlab.com
 blog.gitlab.com
@@ -365,6 +367,7 @@ ci.gitlab.com
 cinc.gitlab.com
 cloud.gitlab.com
 cloud.staging.gitlab.com
+cocreate.gitlab.com
 codesuggestions.gitlab.com
 content.gitlab.com
 contributors.gitlab.com
@@ -607,3 +610,5 @@ www.support-mw.gitlab.com
 www.swedish.chef.gitlab.com
 www.sync.geo.gitlab.com
 www.triage-serverless.gitlab.com
+www.university.gitlab.com
+www.version.gitlab.com

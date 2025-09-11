@@ -13,12 +13,14 @@
 *.digipop-demo.global.com
 *.digital.global.com
 *.gpillar-dev.global.com
+*.gpillar-observability-sandbox.global.com
 *.gpillar-preprod.global.com
 *.gpillar-prod.global.com
 *.gpillar-qa.global.com
 *.infosec.global.com
 *.int.ctech.global.com
 *.jenkins.shared.global.com
+*.o11y-sandbox.gpillar-observability-sandbox.global.com
 *.onair.global.com
 *.onair.data.global.com
 *.prod.adtech.global.com
@@ -526,6 +528,7 @@ goppsint.global.com
 goppstest.global.com
 goppstraining.global.com
 goppsuat.global.com
+gpillar-observability-sandbox.global.com
 gpjxd.global.com
 gpjxd1.global.com
 gpjxi.global.com
@@ -743,6 +746,8 @@ internal.sync.dev.outdoor.dax.global.com
 internal.sync.load.outdoor.dax.global.com
 internal.sync.qa.outdoor.dax.global.com
 internal.websocket-spike.dev.outdoor.dax.global.com
+inventory.load.outdoor.dax.global.com
+inventory.qa.outdoor.dax.global.com
 iqidrive.global.com
 jenkins.bp.global.com
 jenkins.ctech.global.com
@@ -1203,6 +1208,7 @@ ns1.global.com
 ns3.global.com
 nttcgi084086.tcgi.nt.global.com
 o1.teamone.global.com
+o11y-sandbox.gpillar-observability-sandbox.global.com
 o237.ptr6634.jobalerts.global.com
 o238.ptr333.careeralerts.global.com
 oasisgrpwainbound.global.com
@@ -1674,7 +1680,3 @@ www.kasinospion.global.com
 www.outdoor.global.com
 www.vote.global.com
 www.wmkowa.global.com
-zabbix.global.com
-zetta2gocardiff.global.com
-zetta2golondon.global.com
-zetta2gomanchester.global.com

@@ -49,6 +49,7 @@
 *.fleet-mgmt.fcs.gsa.gov
 *.freedom.helix.gsa.gov
 *.helix.gsa.gov
+*.iad.gsa.gov
 *.integration.orders.fas.gsa.gov
 *.marketplace.fleet-dev.fcs.gsa.gov
 *.marketplace.fleet-prod.fcs.gsa.gov
@@ -67364,6 +67365,7 @@ hrprod.hr.gsa.gov
 hrtest.hr.gsa.gov
 hub.acre.gsa.gov
 hwbpa.gsa.gov
+iad.gsa.gov
 iapps.pbs.gsa.gov
 ias-qpnet-02-co.gsa.gov
 iceberg.gsa.gov
@@ -68646,6 +68648,7 @@ uat.usaccess.gsa.gov
 uextportal.pbs.gsa.gov
 ugrex-static.pbs.gsa.gov
 ugrex.pbs.gsa.gov
+ui.prod.cnxs.vpcaas.fcs.gsa.gov
 ulmt.pbs.gsa.gov
 ulo.gsa.gov
 unctt.pbs.gsa.gov
@@ -69326,6 +69329,7 @@ www.tts.gsa.gov
 www.uat-cdt.gsa.gov
 www.uat-hrlinks.gsa.gov
 www.uat.salesforce.gsa.gov
+www.ui.prod.cnxs.vpcaas.fcs.gsa.gov
 www.usaccess-alp.gsa.gov
 www.usagov.platform.gsa.gov
 www.usdaadvantage.gsa.gov
@@ -69368,3 +69372,7 @@ xpwi.gsa.gov
 xpwi.gss.gsa.gov
 zipkin-collector.dev-ppm.fcs.gsa.gov
 zipkin-collector.mgmt-ppm.fcs.gsa.gov
+zipkin-collector.test-ppm.fcs.gsa.gov
+zipkin-ui.dev-ppm.fcs.gsa.gov
+zipkin-ui.mgmt-ppm.fcs.gsa.gov
+zipkin-ui.test-ppm.fcs.gsa.gov
