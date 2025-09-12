@@ -23,11 +23,13 @@ alto-qr.gopayapi.com
 am.gopayapi.com
 app.gopayapi.com
 app-stg.gopayapi.com
+app.react-integration-gwk.gopayapi.com
 aurora-h5.gopayapi.com
 automation-domain.gopayapi.com
 aws-ops.jkt-dc-02.gopayapi.com
 bank-api.stg.gopayapi.com
 bank-scheduler-service.gopayapi.com
+bank-scheduler-service-sandbox.gopayapi.com
 bank-scheduler-service-staging.gopayapi.com
 bar-foo.gopayapi.com
 bar-test.gopayapi.com
@@ -153,11 +155,13 @@ indomaret-cstore.staging.gopayapi.com
 indomaret-soap-gateway.gopayapi.com
 indomaret-soap-gateway-stg.gopayapi.com
 indomaret.staging.gopayapi.com
+indonesia-emoney.gopayapi.com
 indonesia-emoney.staging.gopayapi.com
 indonesia-points.gopayapi.com
 infrastructure-engineering.governance.team.gopayapi.com
 infrastructure-engineering.governance.team.am.gopayapi.com
 infrastructure-engineering.governance.team.bank-scheduler-service.gopayapi.com
+infrastructure-engineering.governance.team.bank-scheduler-service-sandbox.gopayapi.com
 infrastructure-engineering.governance.team.bank-scheduler-service-staging.gopayapi.com
 infrastructure-engineering.governance.team.customer.gopayapi.com
 infrastructure-engineering.governance.team.customer-cf-kong.staging.gopayapi.com
@@ -197,6 +201,7 @@ infrastructure-engineering.governance.team.id-points.gopayapi.com
 infrastructure-engineering.governance.team.id-points.staging.gopayapi.com
 infrastructure-engineering.governance.team.indomaret.gopayapi.com
 infrastructure-engineering.governance.team.indomaret.staging.gopayapi.com
+infrastructure-engineering.governance.team.indonesia-emoney.gopayapi.com
 infrastructure-engineering.governance.team.indonesia-emoney.staging.gopayapi.com
 infrastructure-engineering.governance.team.indonesia-points.gopayapi.com
 infrastructure-engineering.governance.team.insurance.gopayapi.com
@@ -271,6 +276,7 @@ integration-midtrans.gopayapi.com
 integration-whatsapp-adapter.gopayapi.com
 internal.gopayapi.com
 internal-stg.gopayapi.com
+internal-tooling.gtf-identity.team.app.react-integration-gwk.gopayapi.com
 internal-tooling.ops-and-dev-tooling.team.pin-web-client-sandbox.gopayapi.com
 internal-tooling.ops-and-dev-tooling.team.pin-web-client-staging.gopayapi.com
 internal.whatsapp.gopayapi.com
@@ -541,3 +547,4 @@ whatsapp.gopayapi.com
 withdrawal.gopayapi.com
 withdrawal-pgw.gopayapi.com
 www.internal.gopayapi.com
+www.internal-stg.gopayapi.com

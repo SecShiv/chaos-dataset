@@ -86,6 +86,7 @@
 *.protection.stn000cmh.ctr.sophos.com
 *.protection.stn010yul.ctr.sophos.com
 *.protection.stn030bom.ctr.sophos.com
+*.protection.stn030dxb.ctr.sophos.com
 *.protection.stn030syd.ctr.sophos.com
 *.protection.stn100bom.ctr.sophos.com
 *.protection.stn100gru.ctr.sophos.com
@@ -93,6 +94,8 @@
 *.protection.stn100syd.ctr.sophos.com
 *.protection.stn100yul.ctr.sophos.com
 *.proxy-ap-south-1.dev.rpsso.sophos.com
+*.proxy-eu-central-1.prod.rpsso.sophos.com
+*.proxy-eu-west-1.prod.rpsso.sophos.com
 *.proxy-us-east-2.prod.rpsso.sophos.com
 *.proxy-us-west-2.prod.rpsso.sophos.com
 *.publish.dev.labs.sophos.com
@@ -2789,6 +2792,7 @@
 9s480g76.cloudstation.eu-west-1.inf.hydra.sophos.com
 9s79mcgm.cloudstation.eu-west-1.dev.o365.sophos.com
 9sd8g3a3.cloudstation.eu-central-1.qa.hydra.sophos.com
+9sgjpqsr.stn030bom.ctr.sophos.com
 9spfum1e.cloudstation.eu-central-1.qa.hydra.sophos.com
 9splli1j.cloudstation.eu-west-1.inf.hydra.sophos.com
 9szpzsz4.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -9495,6 +9499,7 @@ firewall-cr-trf.cloudstation.us-west-2.prod.hydra.sophos.com
 firewall-cr-trf.cloudstation.us-west-2.qa.hydra.sophos.com
 firewall-monitor-alt.stn010yul.ctr.sophos.com
 firewall-monitor-alt.stn030bom.ctr.sophos.com
+firewall-monitor-alt.stn030dxb.ctr.sophos.com
 firewall-monitor-alt.stn030gru.ctr.sophos.com
 firewall-monitor-alt.stn030hnd.ctr.sophos.com
 firewall-monitor-alt.stn030syd.ctr.sophos.com
@@ -9521,6 +9526,7 @@ firewall-monitor.cloudstation.us-west-2.prod.hydra.sophos.com
 firewall-monitor.cloudstation.us-west-2.qa.hydra.sophos.com
 firewall-monitor.stn010yul.ctr.sophos.com
 firewall-monitor.stn030bom.ctr.sophos.com
+firewall-monitor.stn030dxb.ctr.sophos.com
 firewall-monitor.stn030gru.ctr.sophos.com
 firewall-monitor.stn030hnd.ctr.sophos.com
 firewall-monitor.stn030syd.ctr.sophos.com
@@ -15368,6 +15374,7 @@ mdr-optix-alert-v2-eu-central-1.prod.hydra.sophos.com
 mdr-optix-alert-v2-eu-west-1.dev.hydra.sophos.com
 mdr-optix-alert-v2-us-west-2.qa.hydra.sophos.com
 mdr-optix-alert-v2.stn010yul.ctr.sophos.com
+mdr-optix-alert-v2.stn030bom.ctr.sophos.com
 mdr-optix-alert-v2.stn100gru.ctr.sophos.com
 mdr-optix-alert-v2.stn100hnd.ctr.sophos.com
 mdr-optix-alert-v2.stn100yul.ctr.sophos.com
@@ -21272,6 +21279,7 @@ t9l4vikd.stn030hnd.ctr.sophos.com
 t9wk6yrc.cloudstation.eu-west-1.prod.hydra.sophos.com
 t9xh0fr9.stn030hnd.ctr.sophos.com
 t9y4e4nf.cloudstation.eu-west-1.inf.hydra.sophos.com
+ta178644.stn030dxb.ctr.sophos.com
 ta2r8vjw.cloudstation.us-east-2.prod.hydra.sophos.com
 ta4vu8we.cloudstation.eu-west-1.dev.hydra.sophos.com
 ta83yz1w.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -22331,9 +22339,11 @@ tunnels-ap-south-1.dev.ztna.access.sophos.com
 tunnels-ap-south-1.prod.ztna.access.sophos.com
 tunnels-ap-south-1.qa.ztna.access.sophos.com
 tunnels-ap-southeast-2.prod.ztna.access.sophos.com
+tunnels-eu-central-1.prod.rpsso.sophos.com
 tunnels-eu-central-1.prod.ztna.access.sophos.com
 tunnels-eu-central-1.qa.ztna.access.sophos.com
 tunnels-eu-west-1.dev.ztna.access.sophos.com
+tunnels-eu-west-1.prod.rpsso.sophos.com
 tunnels-eu-west-1.prod.ztna.access.sophos.com
 tunnels-us-east-2.prod.rpsso.sophos.com
 tunnels-us-east-2.prod.ztna.access.sophos.com

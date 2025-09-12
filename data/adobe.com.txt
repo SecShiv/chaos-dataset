@@ -367,6 +367,8 @@
 *.or.k8s.ipaas.corp.adobe.com
 *.or.k8s.np.ipaas.corp.adobe.com
 *.or1lab.corp.adobe.com
+*.or1sz2-openstack.corp.adobe.com
+*.or1sz2.corp.adobe.com
 *.orion.adobe.com
 *.p1.documentspreview.adobe.com
 *.p13n.corp.adobe.com
@@ -733,6 +735,8 @@ abo-ci.services.adobe.com
 abo-dev1.services.adobe.com
 abo-qa2.services.adobe.com
 abo-stage.services.adobe.com
+abo-va6.identity.adobe.com
+abo.identity.adobe.com
 abo.services.adobe.com
 abp-stage.corp.adobe.com
 abp.corp.adobe.com
@@ -3249,6 +3253,7 @@ cdn.ackdds.test.ajo.adobe.com
 cdn.acsappsvcs1.test.ajo.adobe.com
 cdn.admin.test.ajo.adobe.com
 cdn.aem-sites-internal.adobe.com
+cdn.aia.test.ajo.adobe.com
 cdn.auditor.adobe.com
 cdn.auditor-dev.adobe.com
 cdn.b2bmail.adobe.com
@@ -10944,6 +10949,7 @@ or1stm062.corp.adobe.com
 or1stm063.corp.adobe.com
 or1stm064.corp.adobe.com
 or1sz2-openstack.corp.adobe.com
+or1sz2.corp.adobe.com
 or1view.corp.adobe.com
 or1view2.corp.adobe.com
 or1vmcu05media.odvb.corp.adobe.com
@@ -19795,3 +19801,4 @@ ziptest.adobe.com
 zolesio.corp.adobe.com
 zoxxs.corp.adobe.com
 zp7swf2ueg.antivirus.enterprise.gs.aedash.adobe.com
+zzzzz.cm-verify.adobe.com

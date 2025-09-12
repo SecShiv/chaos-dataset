@@ -363,6 +363,8 @@
 *.crisp.dev.aws.finra.org
 *.crisp.qa.finra.org
 *.crisp.qa.aws.finra.org
+*.csdw.finra.org
+*.csdw.ct.finra.org
 *.csefp.qa.finra.org
 *.csr-apptoapp-lab.qa.finra.org
 *.csr-lab.qa.finra.org
@@ -1284,6 +1286,7 @@
 *.racs.finra.org
 *.racs.ct.finra.org
 *.racs.dev.finra.org
+*.racs.qa.finra.org
 *.radrw.finra.org
 *.radrw.dev.finra.org
 *.radrw.qa.finra.org
@@ -1849,6 +1852,7 @@ admin.fip.dr.finra.org
 admin.fip.int.finra.org
 admin.fip.qa.finra.org
 admin.indpro-qa2.qa.finra.org
+adv-form-int.datacollection.qa.finra.org
 adv-form-int2.datacollection.qa.finra.org
 adv-form.datacollection.qa.finra.org
 adv-nr-form-int.datacollection.qa.finra.org
@@ -3844,6 +3848,7 @@ fnrw-dfo.qa.finra.org
 fnrw-dm.finra.org
 fnrw-dm.dev.finra.org
 fnrw-dm.qa.finra.org
+fnrw-search.fnrw.finra.org
 fnrw-search.fnrw.qa.finra.org
 fnrw-unp.finra.org
 fnrw-unp.dev.finra.org
@@ -5105,6 +5110,7 @@ raas.qa.finra.org
 racs.finra.org
 racs.ct.finra.org
 racs.dev.finra.org
+racs.qa.finra.org
 radrw.finra.org
 radrw.ct.finra.org
 radrw.dev.finra.org
@@ -6412,3 +6418,5 @@ xfer-aep-qc.finra.org
 yum.awstools.finra.org
 yum.ct.aws.finra.org
 zen.dev.finra.org
+zen.qa.finra.org
+zr53.api.gateway-qaint.qa.finra.org

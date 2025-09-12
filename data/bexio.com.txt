@@ -1,14 +1,21 @@
 *.bexio.com
 *.adat-4127.bru.dev.bexio.com
+*.alfonso.bru.dev.bexio.com
 *.andrei.bru.dev.bexio.com
 *.bexio-preprod.gcp.bexio.com
+*.bill.bru.dev.bexio.com
 *.cosmin.bru.dev.bexio.com
+*.datadog.cmh.dev.bexio.com
 *.dev.bexio.com
+*.dev-17806.bru.dev.bexio.com
+*.dev-21840.bru.dev.bexio.com
 *.dev-21964.bru.dev.bexio.com
 *.dev20160.bru.dev.bexio.com
 *.dimi.bru.dev.bexio.com
+*.djm.bru.dev.bexio.com
 *.florin-2.bru.dev.bexio.com
 *.kanita.bru.dev.bexio.com
+*.kat1.zrh.dev.bexio.com
 *.martin-mfe.bru.dev.bexio.com
 *.matheus.bru.dev.bexio.com
 *.mdobric.bru.dev.bexio.com
@@ -99,6 +106,7 @@ admin.dev-17089.bru.dev.bexio.com
 admin.dev-17747.bru.dev.bexio.com
 admin.dev-17756.bru.dev.bexio.com
 admin.dev-17806.bru.dev.bexio.com
+admin.dev-17978.bru.dev.bexio.com
 admin.dev-18260.bru.dev.bexio.com
 admin.dev-18730.bru.dev.bexio.com
 admin.dev-19596.bru.dev.bexio.com
@@ -488,6 +496,7 @@ api.dev-17089.bru.dev.bexio.com
 api.dev-17747.bru.dev.bexio.com
 api.dev-17756.bru.dev.bexio.com
 api.dev-17806.bru.dev.bexio.com
+api.dev-17978.bru.dev.bexio.com
 api.dev-18260.bru.dev.bexio.com
 api.dev-18730.bru.dev.bexio.com
 api.dev-19596.bru.dev.bexio.com
@@ -884,6 +893,7 @@ assets.dev-17089.bru.dev.bexio.com
 assets.dev-17747.bru.dev.bexio.com
 assets.dev-17756.bru.dev.bexio.com
 assets.dev-17806.bru.dev.bexio.com
+assets.dev-17978.bru.dev.bexio.com
 assets.dev-18260.bru.dev.bexio.com
 assets.dev-18730.bru.dev.bexio.com
 assets.dev-19596.bru.dev.bexio.com
@@ -1239,6 +1249,7 @@ auth.dev-17089.bru.dev.bexio.com
 auth.dev-17747.bru.dev.bexio.com
 auth.dev-17756.bru.dev.bexio.com
 auth.dev-17806.bru.dev.bexio.com
+auth.dev-17978.bru.dev.bexio.com
 auth.dev-18260.bru.dev.bexio.com
 auth.dev-18730.bru.dev.bexio.com
 auth.dev-19596.bru.dev.bexio.com
@@ -1489,6 +1500,7 @@ banking.dev-17089.bru.dev.bexio.com
 banking.dev-17747.bru.dev.bexio.com
 banking.dev-17756.bru.dev.bexio.com
 banking.dev-17806.bru.dev.bexio.com
+banking.dev-17978.bru.dev.bexio.com
 banking.dev-18260.bru.dev.bexio.com
 banking.dev-18730.bru.dev.bexio.com
 banking.dev-19596.bru.dev.bexio.com
@@ -1873,6 +1885,7 @@ billing.dev-17089.bru.dev.bexio.com
 billing.dev-17747.bru.dev.bexio.com
 billing.dev-17756.bru.dev.bexio.com
 billing.dev-17806.bru.dev.bexio.com
+billing.dev-17978.bru.dev.bexio.com
 billing.dev-18260.bru.dev.bexio.com
 billing.dev-18730.bru.dev.bexio.com
 billing.dev-19596.bru.dev.bexio.com
@@ -2258,6 +2271,7 @@ cockpit.dev-17089.bru.dev.bexio.com
 cockpit.dev-17747.bru.dev.bexio.com
 cockpit.dev-17756.bru.dev.bexio.com
 cockpit.dev-17806.bru.dev.bexio.com
+cockpit.dev-17978.bru.dev.bexio.com
 cockpit.dev-18260.bru.dev.bexio.com
 cockpit.dev-18730.bru.dev.bexio.com
 cockpit.dev-19596.bru.dev.bexio.com
@@ -2604,6 +2618,7 @@ db-admin.dev-17089.bru.dev.bexio.com
 db-admin.dev-17747.bru.dev.bexio.com
 db-admin.dev-17756.bru.dev.bexio.com
 db-admin.dev-17806.bru.dev.bexio.com
+db-admin.dev-17978.bru.dev.bexio.com
 db-admin.dev-18260.bru.dev.bexio.com
 db-admin.dev-18730.bru.dev.bexio.com
 db-admin.dev-19596.bru.dev.bexio.com
@@ -3022,6 +3037,7 @@ developer.dev-17089.bru.dev.bexio.com
 developer.dev-17747.bru.dev.bexio.com
 developer.dev-17756.bru.dev.bexio.com
 developer.dev-17806.bru.dev.bexio.com
+developer.dev-17978.bru.dev.bexio.com
 developer.dev-18260.bru.dev.bexio.com
 developer.dev-18730.bru.dev.bexio.com
 developer.dev-19596.bru.dev.bexio.com
@@ -3624,6 +3640,7 @@ documentdesigner.dev-17089.bru.dev.bexio.com
 documentdesigner.dev-17747.bru.dev.bexio.com
 documentdesigner.dev-17756.bru.dev.bexio.com
 documentdesigner.dev-17806.bru.dev.bexio.com
+documentdesigner.dev-17978.bru.dev.bexio.com
 documentdesigner.dev-18260.bru.dev.bexio.com
 documentdesigner.dev-18730.bru.dev.bexio.com
 documentdesigner.dev-19596.bru.dev.bexio.com
@@ -4035,6 +4052,7 @@ idp.dev-17089.bru.dev.bexio.com
 idp.dev-17747.bru.dev.bexio.com
 idp.dev-17756.bru.dev.bexio.com
 idp.dev-17806.bru.dev.bexio.com
+idp.dev-17978.bru.dev.bexio.com
 idp.dev-18260.bru.dev.bexio.com
 idp.dev-18730.bru.dev.bexio.com
 idp.dev-19596.bru.dev.bexio.com
@@ -4395,6 +4413,7 @@ indagia.dev-17089.bru.dev.bexio.com
 indagia.dev-17747.bru.dev.bexio.com
 indagia.dev-17756.bru.dev.bexio.com
 indagia.dev-17806.bru.dev.bexio.com
+indagia.dev-17978.bru.dev.bexio.com
 indagia.dev-18260.bru.dev.bexio.com
 indagia.dev-18730.bru.dev.bexio.com
 indagia.dev-19596.bru.dev.bexio.com
@@ -4691,6 +4710,7 @@ lead.dev-17089.bru.dev.bexio.com
 lead.dev-17747.bru.dev.bexio.com
 lead.dev-17756.bru.dev.bexio.com
 lead.dev-17806.bru.dev.bexio.com
+lead.dev-17978.bru.dev.bexio.com
 lead.dev-18260.bru.dev.bexio.com
 lead.dev-18730.bru.dev.bexio.com
 lead.dev-19596.bru.dev.bexio.com
@@ -5073,6 +5093,7 @@ logout.dev-17089.bru.dev.bexio.com
 logout.dev-17747.bru.dev.bexio.com
 logout.dev-17756.bru.dev.bexio.com
 logout.dev-17806.bru.dev.bexio.com
+logout.dev-17978.bru.dev.bexio.com
 logout.dev-18260.bru.dev.bexio.com
 logout.dev-18730.bru.dev.bexio.com
 logout.dev-19596.bru.dev.bexio.com
@@ -5445,6 +5466,7 @@ mail.dev-17089.bru.dev.bexio.com
 mail.dev-17747.bru.dev.bexio.com
 mail.dev-17756.bru.dev.bexio.com
 mail.dev-17806.bru.dev.bexio.com
+mail.dev-17978.bru.dev.bexio.com
 mail.dev-18260.bru.dev.bexio.com
 mail.dev-18730.bru.dev.bexio.com
 mail.dev-19596.bru.dev.bexio.com
@@ -5750,6 +5772,7 @@ mailytica-test.bexio.com
 maintenance.bexio.com
 marketplace.bexio.com
 marketplace-partner-simulator.bexio-preprod.gcp.bexio.com
+marketplace-partner-simulator.dev-17978.bru.dev.bexio.com
 marketplace-partner-simulator.dev17978.bru.dev.bexio.com
 marketplace-partner-simulator.marketplace-partner-simulator.bru.dev.bexio.com
 marketplace.bexio-preprod.gcp.bexio.com
@@ -5841,6 +5864,7 @@ my.dev-17089.bru.dev.bexio.com
 my.dev-17747.bru.dev.bexio.com
 my.dev-17756.bru.dev.bexio.com
 my.dev-17806.bru.dev.bexio.com
+my.dev-17978.bru.dev.bexio.com
 my.dev-18260.bru.dev.bexio.com
 my.dev-18730.bru.dev.bexio.com
 my.dev-19596.bru.dev.bexio.com
@@ -6225,6 +6249,7 @@ network.dev-17089.bru.dev.bexio.com
 network.dev-17747.bru.dev.bexio.com
 network.dev-17756.bru.dev.bexio.com
 network.dev-17806.bru.dev.bexio.com
+network.dev-17978.bru.dev.bexio.com
 network.dev-18260.bru.dev.bexio.com
 network.dev-18730.bru.dev.bexio.com
 network.dev-19596.bru.dev.bexio.com
@@ -6608,6 +6633,7 @@ office.dev-17089.bru.dev.bexio.com
 office.dev-17747.bru.dev.bexio.com
 office.dev-17756.bru.dev.bexio.com
 office.dev-17806.bru.dev.bexio.com
+office.dev-17978.bru.dev.bexio.com
 office.dev-18260.bru.dev.bexio.com
 office.dev-18730.bru.dev.bexio.com
 office.dev-19596.bru.dev.bexio.com
@@ -7011,6 +7037,7 @@ portal.dev-17089.bru.dev.bexio.com
 portal.dev-17747.bru.dev.bexio.com
 portal.dev-17756.bru.dev.bexio.com
 portal.dev-17806.bru.dev.bexio.com
+portal.dev-17978.bru.dev.bexio.com
 portal.dev-18260.bru.dev.bexio.com
 portal.dev-18730.bru.dev.bexio.com
 portal.dev-19596.bru.dev.bexio.com
@@ -7421,6 +7448,7 @@ static.dev-17089.bru.dev.bexio.com
 static.dev-17747.bru.dev.bexio.com
 static.dev-17756.bru.dev.bexio.com
 static.dev-17806.bru.dev.bexio.com
+static.dev-17978.bru.dev.bexio.com
 static.dev-18260.bru.dev.bexio.com
 static.dev-18730.bru.dev.bexio.com
 static.dev-19596.bru.dev.bexio.com
@@ -7659,6 +7687,7 @@ www.c-plt2.cmh.dev.bexio.com
 www.daniel-dev.bru.dev.bexio.com
 www.dev-17089.bru.dev.bexio.com
 www.dev-17747.bru.dev.bexio.com
+www.dev-17978.bru.dev.bexio.com
 www.dev-18260.bru.dev.bexio.com
 www.dev-18730.bru.dev.bexio.com
 www.dev-19596.bru.dev.bexio.com
@@ -7710,3 +7739,4 @@ zendesk1.bexio.com
 zendesk2.bexio.com
 zendesk3.bexio.com
 zendesk4.bexio.com
+zuora-reconciliation.it.bexio.com

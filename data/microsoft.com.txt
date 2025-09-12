@@ -933,7 +933,9 @@
 *.credentials-ppe.auth.microsoft.com
 *.credentials.auth.microsoft.com
 *.crsfin.prometheus.fp.commerce.microsoft.com
+*.cs-ca1.healthplatform.microsoft.com
 *.cs-canary.healthplatform.microsoft.com
+*.cs-fr1.healthplatform.microsoft.com
 *.cs-uk1.healthplatform.microsoft.com
 *.cs-us1.healthplatform.microsoft.com
 *.cs.integrations.microsoft.com
@@ -1348,7 +1350,9 @@
 *.entitlement.teams.microsoft.com
 *.entitlements-int.mp.microsoft.com
 *.entitlements.mp.microsoft.com
+*.entitlementservice.cs-ca1.healthplatform.microsoft.com
 *.entitlementservice.cs-canary.healthplatform.microsoft.com
+*.entitlementservice.cs-fr1.healthplatform.microsoft.com
 *.entitlementservice.cs-uk1.healthplatform.microsoft.com
 *.entitlementservice.cs-us1.healthplatform.microsoft.com
 *.entitlementsfederation-int.mp.microsoft.com
@@ -2221,7 +2225,9 @@
 *.order.rest.store.microsoft.com
 *.ordermanagement.microsoft.com
 *.ordermanagement-ppe.microsoft.com
+*.orgmanagementservice.cs-ca1.healthplatform.microsoft.com
 *.orgmanagementservice.cs-canary.healthplatform.microsoft.com
+*.orgmanagementservice.cs-fr1.healthplatform.microsoft.com
 *.orgmanagementservice.cs-uk1.healthplatform.microsoft.com
 *.orgmanagementservice.cs-us1.healthplatform.microsoft.com
 *.ori-dev.serviceshub.microsoft.com
@@ -2485,7 +2491,9 @@
 *.pronservice.speech.microsoft.com
 *.provisioning-dev.dcat.dsp.mp.microsoft.com
 *.provisioningdrop.microsoft.com
+*.provisioningservice.cs-ca1.healthplatform.microsoft.com
 *.provisioningservice.cs-canary.healthplatform.microsoft.com
+*.provisioningservice.cs-fr1.healthplatform.microsoft.com
 *.provisioningservice.cs-uk1.healthplatform.microsoft.com
 *.provisioningservice.cs-us1.healthplatform.microsoft.com
 *.proxy-int.rl.microsoft.com
@@ -4688,7 +4696,9 @@
 *.spectre-stg.microsoft.com
 *.speech.microsoft.com
 *.speech-test.microsoft.com
+*.speechobjectsservice.cs-ca1.healthplatform.microsoft.com
 *.speechobjectsservice.cs-canary.healthplatform.microsoft.com
+*.speechobjectsservice.cs-fr1.healthplatform.microsoft.com
 *.speechobjectsservice.cs-uk1.healthplatform.microsoft.com
 *.speechobjectsservice.cs-us1.healthplatform.microsoft.com
 *.spots-ppe.microsoft.com
@@ -5240,6 +5250,7 @@
 *.z02.daily-datawarehouse.fabric.microsoft.com
 *.z02.daily-dfs.fabric.microsoft.com
 *.z02.daily-onelake.fabric.microsoft.com
+*.z02.daily-table.fabric.microsoft.com
 *.z02.dailygraphql.fabric.microsoft.com
 *.z02.datawarehouse.fabric.microsoft.com
 *.z02.datawarehouse.fabric-df.microsoft.com
@@ -5279,6 +5290,7 @@
 *.z03.daily-dfs.fabric.microsoft.com
 *.z03.daily-onelake.fabric.microsoft.com
 *.z03.daily-sql.cosmos.fabric.microsoft.com
+*.z03.daily-table.fabric.microsoft.com
 *.z03.dailygraphql.fabric.microsoft.com
 *.z03.datawarehouse.fabric.microsoft.com
 *.z03.datawarehouse.fabric-df.microsoft.com
@@ -5485,6 +5497,7 @@
 *.z08.daily-dfs.fabric.microsoft.com
 *.z08.daily-onelake.fabric.microsoft.com
 *.z08.daily-sql.cosmos.fabric.microsoft.com
+*.z08.daily-table.fabric.microsoft.com
 *.z08.dailygraphql.fabric.microsoft.com
 *.z08.datawarehouse.fabric.microsoft.com
 *.z08.datawarehouse.fabric-df.microsoft.com
@@ -5608,6 +5621,7 @@
 *.z0b.daily-dfs.fabric.microsoft.com
 *.z0b.daily-onelake.fabric.microsoft.com
 *.z0b.daily-sql.cosmos.fabric.microsoft.com
+*.z0b.daily-table.fabric.microsoft.com
 *.z0b.dailygraphql.fabric.microsoft.com
 *.z0b.datawarehouse.fabric.microsoft.com
 *.z0b.datawarehouse.fabric-df.microsoft.com
@@ -5689,6 +5703,7 @@
 *.z0d.daily-dfs.fabric.microsoft.com
 *.z0d.daily-onelake.fabric.microsoft.com
 *.z0d.daily-sql.cosmos.fabric.microsoft.com
+*.z0d.daily-table.fabric.microsoft.com
 *.z0d.dailygraphql.fabric.microsoft.com
 *.z0d.datawarehouse.fabric.microsoft.com
 *.z0d.datawarehouse.fabric-df.microsoft.com
@@ -7568,6 +7583,7 @@
 *.z3b.daily-datawarehouse.fabric.microsoft.com
 *.z3b.daily-dfs.fabric.microsoft.com
 *.z3b.daily-onelake.fabric.microsoft.com
+*.z3b.daily-table.fabric.microsoft.com
 *.z3b.dailygraphql.fabric.microsoft.com
 *.z3b.datawarehouse.fabric.microsoft.com
 *.z3b.datawarehouse.fabric-df.microsoft.com
@@ -7609,6 +7625,7 @@
 *.z3c.daily-dfs.fabric.microsoft.com
 *.z3c.daily-onelake.fabric.microsoft.com
 *.z3c.daily-sql.cosmos.fabric.microsoft.com
+*.z3c.daily-table.fabric.microsoft.com
 *.z3c.dailygraphql.fabric.microsoft.com
 *.z3c.datawarehouse.fabric.microsoft.com
 *.z3c.datawarehouse.fabric-df.microsoft.com
@@ -8296,6 +8313,7 @@
 *.z4d.daily-dfs.fabric.microsoft.com
 *.z4d.daily-onelake.fabric.microsoft.com
 *.z4d.daily-sql.cosmos.fabric.microsoft.com
+*.z4d.daily-table.fabric.microsoft.com
 *.z4d.dailygraphql.fabric.microsoft.com
 *.z4d.datawarehouse.fabric.microsoft.com
 *.z4d.datawarehouse.fabric-df.microsoft.com
@@ -8373,6 +8391,7 @@
 *.z4f.daily-datawarehouse.fabric.microsoft.com
 *.z4f.daily-dfs.fabric.microsoft.com
 *.z4f.daily-onelake.fabric.microsoft.com
+*.z4f.daily-table.fabric.microsoft.com
 *.z4f.dailygraphql.fabric.microsoft.com
 *.z4f.datawarehouse.fabric.microsoft.com
 *.z4f.datawarehouse.fabric-df.microsoft.com
@@ -8459,6 +8478,7 @@
 *.z51.daily-dfs.fabric.microsoft.com
 *.z51.daily-onelake.fabric.microsoft.com
 *.z51.daily-sql.cosmos.fabric.microsoft.com
+*.z51.daily-table.fabric.microsoft.com
 *.z51.dailygraphql.fabric.microsoft.com
 *.z51.datawarehouse.fabric.microsoft.com
 *.z51.datawarehouse.fabric-df.microsoft.com
@@ -11773,6 +11793,7 @@
 *.za3.daily-datawarehouse.fabric.microsoft.com
 *.za3.daily-dfs.fabric.microsoft.com
 *.za3.daily-onelake.fabric.microsoft.com
+*.za3.daily-table.fabric.microsoft.com
 *.za3.dailygraphql.fabric.microsoft.com
 *.za3.datawarehouse.fabric.microsoft.com
 *.za3.datawarehouse.fabric-df.microsoft.com
@@ -13585,6 +13606,7 @@
 *.zd0.daily-dfs.fabric.microsoft.com
 *.zd0.daily-onelake.fabric.microsoft.com
 *.zd0.daily-sql.cosmos.fabric.microsoft.com
+*.zd0.daily-table.fabric.microsoft.com
 *.zd0.dailygraphql.fabric.microsoft.com
 *.zd0.datawarehouse.fabric.microsoft.com
 *.zd0.datawarehouse.fabric-df.microsoft.com
@@ -13666,6 +13688,7 @@
 *.zd2.daily-dfs.fabric.microsoft.com
 *.zd2.daily-onelake.fabric.microsoft.com
 *.zd2.daily-sql.cosmos.fabric.microsoft.com
+*.zd2.daily-table.fabric.microsoft.com
 *.zd2.dailygraphql.fabric.microsoft.com
 *.zd2.datawarehouse.fabric.microsoft.com
 *.zd2.datawarehouse.fabric-df.microsoft.com
@@ -14191,6 +14214,7 @@
 *.zdf.daily-dfs.fabric.microsoft.com
 *.zdf.daily-onelake.fabric.microsoft.com
 *.zdf.daily-sql.cosmos.fabric.microsoft.com
+*.zdf.daily-table.fabric.microsoft.com
 *.zdf.dailygraphql.fabric.microsoft.com
 *.zdf.datawarehouse.fabric.microsoft.com
 *.zdf.datawarehouse.fabric-df.microsoft.com
@@ -14426,8 +14450,11 @@
 *.ze5.blob.fabric-df.microsoft.com
 *.ze5.c.fabric.microsoft.com
 *.ze5.c.fabric-df.microsoft.com
+*.ze5.daily-blob.fabric.microsoft.com
 *.ze5.daily-c.fabric.microsoft.com
 *.ze5.daily-datawarehouse.fabric.microsoft.com
+*.ze5.daily-dfs.fabric.microsoft.com
+*.ze5.daily-onelake.fabric.microsoft.com
 *.ze5.daily-sql.cosmos.fabric.microsoft.com
 *.ze5.dailygraphql.fabric.microsoft.com
 *.ze5.datawarehouse.fabric.microsoft.com
@@ -15072,6 +15099,7 @@
 *.zf5.daily-dfs.fabric.microsoft.com
 *.zf5.daily-onelake.fabric.microsoft.com
 *.zf5.daily-sql.cosmos.fabric.microsoft.com
+*.zf5.daily-table.fabric.microsoft.com
 *.zf5.dailygraphql.fabric.microsoft.com
 *.zf5.datawarehouse.fabric.microsoft.com
 *.zf5.datawarehouse.fabric-df.microsoft.com
@@ -15269,6 +15297,7 @@
 *.zfa.daily-dfs.fabric.microsoft.com
 *.zfa.daily-onelake.fabric.microsoft.com
 *.zfa.daily-sql.cosmos.fabric.microsoft.com
+*.zfa.daily-table.fabric.microsoft.com
 *.zfa.dailygraphql.fabric.microsoft.com
 *.zfa.datawarehouse.fabric.microsoft.com
 *.zfa.datawarehouse.fabric-df.microsoft.com
@@ -15435,6 +15464,7 @@
 *.zfe.daily-dfs.fabric.microsoft.com
 *.zfe.daily-onelake.fabric.microsoft.com
 *.zfe.daily-sql.cosmos.fabric.microsoft.com
+*.zfe.daily-table.fabric.microsoft.com
 *.zfe.dailygraphql.fabric.microsoft.com
 *.zfe.datawarehouse.fabric.microsoft.com
 *.zfe.datawarehouse.fabric-df.microsoft.com
@@ -69752,6 +69782,7 @@ backend.pending.sls-dev.update.microsoft.com
 backend.pending.sls-int.update.microsoft.com
 backend.pending.sls-tip.update.microsoft.com
 backend.pending.sls.update.microsoft.com
+backend.pilot.jamadev.microsoft.com
 backend.pub-dev.dcat.dsp.mp.microsoft.com
 backend.pub-int.dcat.dsp.mp.microsoft.com
 backend.pub-prod.dcat.dsp.mp.microsoft.com
@@ -73889,6 +73920,7 @@ centralindia.tts-frontend.speech.microsoft.com
 centralindia.tts.speech.microsoft.com
 centralindia.vnet.powerplatform.microsoft.com
 centralus.aadbridge.mcapiaadbridge.commerce.microsoft.com
+centralus.aks.supplychain.microsoft.com
 centralus.api-lab.supplychain.microsoft.com
 centralus.api.cognitive.microsoft.com
 centralus.api.mcapsacademy.microsoft.com
@@ -75199,6 +75231,7 @@ cloud2.devportal.azure.glbdns.microsoft.com
 cloudaccelerator.microsoft.com
 cloudaccelerator-dev.microsoft.com
 cloudaccelerator-qa.microsoft.com
+cloudaccelerator-uat.microsoft.com
 cloudapp.azs-longhaul-01.selfhost.corp.microsoft.com
 cloudapp.bellevue.azurestack.corp.microsoft.com
 cloudapp.cccrca.azurestack.corp.microsoft.com
@@ -78969,6 +79002,7 @@ cxpes-test-cmgi.geneva.keyvault.microsoft.com
 cxpes-test-iridias-sfev2.cxpes.microsoft.com
 cxpes-test-iridias-sfkv.cxpes.microsoft.com
 cxpes-test-iridias.geneva.keyvault.microsoft.com
+cxportal.microsoft.com
 cxpqualityhub.microsoft.com
 cxpqualityhub-dev.microsoft.com
 cxpqualityhub-ppe.microsoft.com
@@ -81598,6 +81632,7 @@ dnam365batchdev.microsoft.com
 dnam365batchppe.microsoft.com
 dnam365batchprod.microsoft.com
 dnamanager.dna.teams.microsoft.com
+dnc-jarvis-prd.microsoft.com
 dnet.mixtapes.microsoft.com
 dns.microsoft.com
 dns.myworkspace.microsoft.com
@@ -82649,6 +82684,7 @@ eastus2.aadbridge.mcapiaadbridge-aircapi.commerce.microsoft.com
 eastus2.aadbridge.mcapiaadbridge-int.commerce.microsoft.com
 eastus2.aadbridge.mcapiaadbridge.commerce.microsoft.com
 eastus2.adlinfra.int.teams.microsoft.com
+eastus2.aks.supplychain.microsoft.com
 eastus2.api-lab.supplychain.microsoft.com
 eastus2.api.adu.microsoft.com
 eastus2.api.canary.adu.microsoft.com
@@ -85947,6 +85983,7 @@ fastpath.wdcpppe.microsoft.com
 fastscramsql01.europe.corp.microsoft.com
 fastsearch-cosmos.microsoft.com
 fasttrack.microsoft.com
+fasttrack-ai-corp-dev.microsoft.com
 fasttrack-ai-dev.microsoft.com
 fasttrack-docs.microsoft.com
 fasttrackipaapi.microsoft.com
@@ -91262,6 +91299,7 @@ ingest-trd-7j7xxpak9n90t1fxak.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-7jf3d35je2av0jr7jq.z5.dev.kusto.fabric.microsoft.com
 ingest-trd-7nctxp5eyu9syw4ftd.z3.dev.kusto.fabric.microsoft.com
 ingest-trd-7njazsb5qwsnzd835j.z4.dev.kusto.fabric.microsoft.com
+ingest-trd-7pc6c1vwwkzsn9yzs6.z4.kusto.fabric.microsoft.com
 ingest-trd-7qhr5mqfn9annuqerm.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-7r3ckskvq5xum3xvs2.z5.dev.kusto.fabric.microsoft.com
 ingest-trd-7rxb394w2k3xrpva68.z2.dev.kusto.fabric.microsoft.com
@@ -91481,6 +91519,7 @@ ingest-trd-pu1zcn8zkzedbw0ky7.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-q1tcgjmh76gdg4188d.z0.dev.kusto.fabric.microsoft.com
 ingest-trd-q2249bxptn1g85q1sc.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-q697pxwk5m8zeuf4vc.z5.dev.kusto.fabric.microsoft.com
+ingest-trd-q8caaxxe5pf92kyvs9.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-q8qky7nj5ka6pfcc8s.z6.dev.kusto.fabric.microsoft.com
 ingest-trd-qa397hba7vu8pqyfr0.z3.dev.kusto.fabric.microsoft.com
 ingest-trd-qag28sagg1vurp9x3w.z1.kusto.fabric.microsoft.com
@@ -91488,6 +91527,7 @@ ingest-trd-qj2d9anmeva1f8eta2.z4.dev.kusto.fabric.microsoft.com
 ingest-trd-qka724afv3png8tznt.z6.dev.kusto.fabric.microsoft.com
 ingest-trd-qpsf0h3g6ybf9shc12.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-qqx55aqwhs840zf0ue.z7.kusto.fabric.microsoft.com
+ingest-trd-qtr6g7cfg7sma53wav.z4.dev.kusto.fabric.microsoft.com
 ingest-trd-qv6dtq66sn5e53d0cw.z8.kusto.fabric.microsoft.com
 ingest-trd-qwf799n7jruew08tk1.z4.dev.kusto.fabric.microsoft.com
 ingest-trd-qzbbdpc9g2perq8zds.z0.kusto.fabric.microsoft.com
@@ -91603,6 +91643,7 @@ ingest-trd-y7pumasa0ty6nhwf66.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-y8m4cc05vw072zbdy0.z1.dev.kusto.fabric.microsoft.com
 ingest-trd-yeaujy4kdpr1s08c8f.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-yfh9j2ep4ujc70qcx5.z0.dev.kusto.fabric.microsoft.com
+ingest-trd-yhn0fsc9pxeffyvrwg.z1.dev.kusto.fabric.microsoft.com
 ingest-trd-yhp3gg2kbgycuz5em9.z8.kusto.fabric.microsoft.com
 ingest-trd-yjjertx0tgbtm3p2un.z7.dev.kusto.fabric.microsoft.com
 ingest-trd-ynyb6yb12h7u84nth1.z0.dev.kusto.fabric.microsoft.com
@@ -103048,6 +103089,8 @@ musred037anrba.network.microsoft.com
 musred037anrbb.network.microsoft.com
 musred037anrbc.network.microsoft.com
 musred037anrbd.network.microsoft.com
+musred088an7dk.network.microsoft.com
+musred088an7dl.network.microsoft.com
 musred088f5b01.network.microsoft.com
 musred088f5b03.network.microsoft.com
 musred088f5b06.network.microsoft.com
@@ -103307,6 +103350,7 @@ mymicrosoftituat.microsoft.com
 mymlads.microsoft.com
 myoem.microsoft.com
 myorder.microsoft.com
+myorderapinonprod.microsoft.com
 myorderbprt.microsoft.com
 myorderppe.microsoft.com
 myphone.microsoft.com
@@ -104556,6 +104600,8 @@ noam.vaacregist.rtt.teams.microsoft.com
 noam.voiceanalytics.teams.microsoft.com
 noam.writer.avs.infra.teams.microsoft.com
 noam1p.dev.api.interfaces.records.teams.microsoft.com
+noamdf.blob.sdg.teams.microsoft.com
+noamdf.httpblob.sdg.teams.microsoft.com
 noamdf.ipp.sdg.teams.microsoft.com
 noamdf.location.teams.microsoft.com
 noamdf.presence.teams.microsoft.com
@@ -106311,12 +106357,14 @@ origin.gallery.microsoft.com
 origin.jpmsnstatic.jpchn.glbdns.microsoft.com
 origin.mam.manage-beta.microsoft.com
 origin.mam.manage-dogfood.microsoft.com
+origin.mam.manage-selfhost.microsoft.com
 origin.pde.jpmsnstatic.jpchn.glbdns.microsoft.com
 origin.scdev.microsoft.com
 origin.sdx.microsoft.com
 origin.ship.microsoft.com
 origin.us.wss.mam.manage-beta.microsoft.com
 origin.us.wss.mam.manage-dogfood.microsoft.com
+origin.us.wss.mam.manage-selfhost.microsoft.com
 origin2.microsoft.com
 origin2.download.microsoft.com
 origserver.msft.scm.microsoft.com
@@ -107209,6 +107257,7 @@ pcm.complianceautomation.microsoft.com
 pcmanager.microsoft.com
 pcmanager-en.microsoft.com
 pcmanager-website-preview.microsoft.com
+pcmanager.ai.microsoft.com
 pcmanager.api.mc.microsoft.com
 pcpricing-clientauth.microsoft.com
 pcs-clientcert.dce.mp.microsoft.com
@@ -121926,6 +121975,7 @@ stp.microsoft.com
 stppsxuat.partners.extranet.microsoft.com
 stproductdata.redmond.corp.microsoft.com
 stproductdataservice.microsoft.com
+strataplatforms-ms-ppe.microsoft.com
 strategicmissions.microsoft.com
 stratus.research.microsoft.com
 stream.microsoft.com
@@ -122176,8 +122226,10 @@ supplychain.qa.microsoft.com
 supplychain.source.microsoft.com
 supplychaindopoc.microsoft.com
 supplychainops.microsoft.com
+supplychainops-shell.microsoft.com
 supplychainops-shell-sit.microsoft.com
 supplychainops-shell-uat.microsoft.com
+supplychainops-uat.microsoft.com
 supplychainservices.microsoft.com
 supplychainservicesint.microsoft.com
 supplychainsustainability.microsoft.com
@@ -124024,6 +124076,7 @@ test.admin.acs.microsoft.com
 test.adminanalytics.powerplatform.microsoft.com
 test.adsdk.microsoft.com
 test.agreements.microsoft.com
+test.aicoach.microsoft.com
 test.aks-supplychain.microsoft.com
 test.alias.coreidentity.microsoft.com
 test.am.targetingservice.services.microsoft.com
@@ -125796,6 +125849,7 @@ trd-7fgvkuemvxskurr7d7.z2.kusto.fabric.microsoft.com
 trd-7j7xxpak9n90t1fxak.z8.dev.kusto.fabric.microsoft.com
 trd-7jf3d35je2av0jr7jq.z5.dev.kusto.fabric.microsoft.com
 trd-7nctxp5eyu9syw4ftd.z3.dev.kusto.fabric.microsoft.com
+trd-7pc6c1vwwkzsn9yzs6.z4.kusto.fabric.microsoft.com
 trd-7qhr5mqfn9annuqerm.z2.dev.kusto.fabric.microsoft.com
 trd-7r3ckskvq5xum3xvs2.z5.dev.kusto.fabric.microsoft.com
 trd-7rxb394w2k3xrpva68.z2.dev.kusto.fabric.microsoft.com
@@ -126061,6 +126115,7 @@ trd-tcux9gcdgpmzzy922q.z3.dev.kusto.fabric.microsoft.com
 trd-tfum1xrs99n0mkp8xq.z0.dev.kusto.fabric.microsoft.com
 trd-tpe86spvvdtdz1qc73.z4.dev.kusto.fabric.microsoft.com
 trd-tqxv3r4rhkt10dy1bp.z1.dev.kusto.fabric.microsoft.com
+trd-ttjgqfnjz9b84b42vk.z5.kusto.fabric.microsoft.com
 trd-tu5acq4ce0mmkf4tgz.z6.dev.kusto.fabric.microsoft.com
 trd-twry0cngux3d9uc59e.z5.dev.kusto.fabric.microsoft.com
 trd-txffvhbntqthfw4qc6.z7.dev.kusto.fabric.microsoft.com
@@ -126375,6 +126430,7 @@ turingapi.microsoft.com
 turingapi-noncompliant.microsoft.com
 turingapi-rapiddeploy.microsoft.com
 turn.teams.microsoft.com
+turn.test.aicoach.microsoft.com
 tuschy644cian1.corp.microsoft.com
 tuschy644cimn1.corp.microsoft.com
 tuschy644cips1.corp.microsoft.com
@@ -129017,6 +129073,7 @@ vortex-win.data.microsoft.com
 vortex.data.microsoft.com
 vortex.data.glbdns2.microsoft.com
 vortexingester.dds.microsoft.com
+vpdevdataexportus.vivapulseapp.dev.microsoft.com
 vpn.frontend.dev.pubsuites.microsoft.com
 vpn.ras.microsoft.com
 vpn.saw.microsoft.com
@@ -129305,6 +129362,8 @@ wancanary-ppe.microsoft.com
 wap.surenderlss.rtmp.selfhost.corp.microsoft.com
 wap.virtlss2019.rtmp.selfhost.corp.microsoft.com
 wapd.microsoft.com
+warehouse-int.manage-beta.microsoft.com
+warehouse-int.manage-selfhost.microsoft.com
 warehouse.ap04.manage.microsoft.com
 warehouse.ap05.manage.microsoft.com
 warehouse.eu03.manage.microsoft.com
@@ -129463,6 +129522,7 @@ wc1.lync.mds.microsoft.com
 wca.partners.extranet.microsoft.com
 wcdaas.microsoft.com
 wcdaas-dev.microsoft.com
+wcdapi.microsoft.com
 wcdass.microsoft.com
 wcdev.redmond.corp.microsoft.com
 wcdweb.microsoft.com
@@ -132123,5 +132183,3 @@ zurichfairfax.directorytocosmos.microsoft.com
 zurichgallatin.directorytocosmos.microsoft.com
 zurichppe.directorytocosmos.microsoft.com
 zurichprod.directorytocosmos.microsoft.com
-zusred011m1091.service.microsoft.com
-zzzzz.ustcms.microsoft.com

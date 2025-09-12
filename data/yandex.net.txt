@@ -6141,6 +6141,7 @@ aurum2.search.yandex.net
 auth-dev.i.fog.yandex.net
 auth-router.qloud.yandex.net
 auth.corba.yandex.net
+auth.on-prem.maps.yandex.net
 auth.storage.yastore.mobile.yandex.net
 auth01.test.code42.techadmin.yandex.net
 authority-search.feeds.yandex.net
@@ -19263,6 +19264,7 @@ core-nsk-vlan652.yandex.net
 core-nsk-vlan659.yandex.net
 core-nsk-vlan699.yandex.net
 core-ods-vlan699.yandex.net
+core-onprem-proxy.maps.yandex.net
 core-onpremise.maps.yandex.net
 core-pgm01e.mk.yandex.net
 core-pgs01d.mk.yandex.net
@@ -25184,6 +25186,7 @@ evslusar.sync.dev.yandex.net
 evslusar.webdav.dev.yandex.net
 evvers-dev.i.fog.yandex.net
 ex-tools01g.qa.yandex.net
+exams-authproxy-external-admin.taxi.yandex.net
 exams-authproxy.taxi.yandex.net
 executer.dev.yandex.net
 exlsx.haze.yandex.net
@@ -29796,6 +29799,8 @@ grocery-authproxy.lavka.tst.yandex.net
 grocery-b2b-authproxy-pa.lavka.yandex.net
 grocery-b2b-authproxy.lavka.yandex.net
 grocery-b2b-authproxy.lavka.tst.yandex.net
+grocery-b2b-backoffice-authproxy.lavka.yandex.net
+grocery-backoffice-authproxy.lavka.yandex.net
 grocery-frontend-standalone-deli.lavka.yandex.net
 grocery-frontend-standalone-ext.lavka.tst.yandex.net
 grocery-frontend-standalone.lavka.yandex.net
@@ -60930,6 +60935,7 @@ registry.ape.yandex.net
 registry.cloud.yandex.net
 registry.cloud-preprod.yandex.net
 registry.load.yandex.net
+registry.on-prem.maps.yandex.net
 registry.testpers.yandex.net
 registry.tst.ape.yandex.net
 regproxy-amd.i.fog.yandex.net
@@ -78910,6 +78916,7 @@ storage.mds.yandex.net
 storage.mdst.yandex.net
 storage.mt.yandex.net
 storage.music.yandex.net
+storage.on-prem.maps.yandex.net
 storage.pe.cloud-preprod.yandex.net
 storage.snews.yandex.net
 storage.stm.yandex.net
@@ -108076,3 +108083,4 @@ zweb-test-m1.haze.yandex.net
 zwei.haze.yandex.net
 zworker-n1.yandex.net
 zworker-s1.yandex.net
+zworker-test.yandex.net

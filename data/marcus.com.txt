@@ -1,6 +1,7 @@
 *.marcus.com
 *.dev.api.cc-pod2.infra.marcus.com
 *.dev.api.cc-pod4.infra.marcus.com
+*.gsqa.ud.agent.infra.marcus.com
 *.patqa.api.cc-pod2.infra.marcus.com
 *.patqa.api.cc-pod4.infra.marcus.com
 *.patuat.api.cc-pod2.infra.marcus.com
@@ -258,9 +259,11 @@ gscbclient.infra.marcus.com
 gsqa-chjf.agent.saturn.infra.marcus.com
 gsqa-sca.agent.saturn.infra.marcus.com
 gsqa-staging.agent.saturn.marcus.com
+gsqa-staging.ud.agent.infra.marcus.com
 gsqa.agent.cookie.infra.marcus.com
 gsqa.agent.saturn.marcus.com
 gsqa.infra.marcus.com
+gsqa.ud.agent.infra.marcus.com
 gsqa.vendor.cookie.infra.marcus.com
 gsuat.infra.marcus.com
 h2o-dev.infra.marcus.com

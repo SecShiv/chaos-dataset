@@ -21,6 +21,8 @@
 *.analytics.zynga.com
 *.apache-test.dev.gotslots.zynga.com
 *.api.zynga.com
+*.api.developer.zynga.com
+*.api.developers.zynga.com
 *.api.stats.zynga.com
 *.apollo.wnks.zynga.com
 *.applied-ai.zynga.com
@@ -63,6 +65,8 @@
 *.clivewashere.dev.gotslots.zynga.com
 *.cloudeng-testing.zynga.com
 *.connect.zynga.com
+*.console.developer.zynga.com
+*.console.developers.zynga.com
 *.container-registry.zynga.com
 *.container-registry-proxy.zynga.com
 *.conversation.zynga.com
@@ -97,6 +101,7 @@
 *.dev.poker.zynga.com
 *.dev.pokern.zynga.com
 *.dev.runtime7.zynga.com
+*.dev.shooters.zynga.com
 *.dev.tinyroyale.zynga.com
 *.dev.wnks.zynga.com
 *.dev.zbc.zynga.com
@@ -114,6 +119,8 @@
 *.dev7.poker.zynga.com
 *.dev8.poker.zynga.com
 *.dev9.poker.zynga.com
+*.developer.zynga.com
+*.developers.zynga.com
 *.devops.zynga.com
 *.devops.poker.zynga.com
 *.dgalvez.dev.gotslots.zynga.com
@@ -180,6 +187,7 @@
 *.gots169.dev.gotslots.zynga.com
 *.gots170.dev.gotslots.zynga.com
 *.gots176.dev.gotslots.zynga.com
+*.gots187.dev.gotslots.zynga.com
 *.gots189.dev.gotslots.zynga.com
 *.gots198.dev.gotslots.zynga.com
 *.gotshared.gotslots.zynga.com
@@ -250,8 +258,10 @@
 *.llenth.gotslots.zynga.com
 *.loadtest.hunters.zynga.com
 *.loadtest.pokern.zynga.com
+*.loadtest.shooters.zynga.com
 *.lt.atg.zynga.com
 *.lt.hunters.zynga.com
+*.lt.shooters.zynga.com
 *.lt.tinyroyale.zynga.com
 *.ltbpayments.dev.gotslots.zynga.com
 *.magellan.zynga.com
@@ -321,15 +331,18 @@
 *.prd.hunters.k8s.zynga.com
 *.prd.pokern.k8s.zynga.com
 *.prd.sharedgames.k8s.zynga.com
+*.prd.shooters.zynga.com
 *.prd.tinyroyale.zynga.com
 *.prd.zbc.zynga.com
 *.privacy.zynga.com
 *.prod-client.runtime7.zynga.com
 *.prod.hunters.zynga.com
 *.prod.pokern.zynga.com
+*.prod.shooters.zynga.com
 *.production.atx.zynga.com
 *.production.hunters.zynga.com
 *.production.pokern.zynga.com
+*.production.shooters.zynga.com
 *.production.wnks.zynga.com
 *.proto1.zbc.zynga.com
 *.pvashisht.wnks.zynga.com
@@ -372,6 +385,7 @@
 *.services.zynga.com
 *.shasija.dev.gotslots.zynga.com
 *.shiarora.wnks.zynga.com
+*.shooters.zynga.com
 *.sifang.dev.gotslots.zynga.com
 *.sklapper.gotslots.zynga.com
 *.skyscraper.zynga.com
@@ -396,6 +410,7 @@
 *.staging.payments.zynga.com
 *.staging.pokern.zynga.com
 *.staging.runtime7.zynga.com
+*.staging.shooters.zynga.com
 *.staging.wnks.zynga.com
 *.static.zynga.com
 *.stats.zynga.com
@@ -405,6 +420,7 @@
 *.stg.lt.hunters.k8s.zynga.com
 *.stg.pokern.k8s.zynga.com
 *.stg.sharedservices.k8s.zynga.com
+*.stg.shooters.zynga.com
 *.stg.tinyroyale.zynga.com
 *.stg.zbc.zynga.com
 *.stjohnson.dev.gotslots.zynga.com
@@ -2435,5 +2451,3 @@ zy1.farm2.zynga.com
 zyngacmg.corp.zynga.com
 zyngapoker-prd.poker.zynga.com
 zyngaturkey-support.svctr.zynga.com
-zyngawithfriends.glb.zynga.com
-zyntranet.corp.zynga.com

@@ -1143,6 +1143,7 @@
 *.perf.2022.ca.turbotaxonline.intuit.com
 *.perf.2023.ca.turbotaxonline.intuit.com
 *.perf.2024.ca.turbotaxonline.intuit.com
+*.perf.a.intuit.com
 *.perf.qbo.intuit.com
 *.perf.turbotaxonline.intuit.com
 *.pfp-preprod.a.intuit.com
@@ -1238,6 +1239,7 @@
 *.prd-sbg-pmts-moneyin.a.intuit.com
 *.prd-sbg-pmts-paymentslogin.a.intuit.com
 *.prd-sbg-pmts-risk-v2.a.intuit.com
+*.prd-sscpwatchdoglambda.a.intuit.com
 *.prd.a.intuit.com
 *.prd.a2i.a.intuit.com
 *.prd.aidpd.sms.intelligentsystems-prd.a.intuit.com
@@ -16256,6 +16258,7 @@ company-info-tool-salestech.growthprdusw2.iks2.a.intuit.com
 company-management.company-ppd.a.intuit.com
 company-management.company-prd.a.intuit.com
 company-management.preprod.sbg.intuit.com
+company-mgmt-async-bizaccmngt.qbomono3prdusw2.iks2.a.intuit.com
 company-mgmt-prd-1-qb-company-service.qbo-sgmnt-prod-usw2.iks.a.intuit.com
 company-mgmt-prd-1-user-role-management.qbo-sgmnt-prod-usw2.iks.a.intuit.com
 company-mgmt-prd-1qb-company-service.qbo-sgmnt-prod-usw2.iks.a.intuit.com
@@ -19005,6 +19008,7 @@ datagovern-compliance-prd-responsysdm.t4i-prod-west2.iks.a.intuit.com
 datagovern-compliance-prd-salesorder-dm.sbgqboprodusw2.iks2.a.intuit.com
 datagovern-compliance-prd-sbg-datamgr.pfm-usw2-prd.iks.a.intuit.com
 datagovern-compliance-prd-sbg-datamgr.platform-sgmnt-prod-usw2.iks.a.intuit.com
+datagovern-compliance-prd-scope-builder.t4iprdusw2.iks2.a.intuit.com
 datagovern-compliance-prd-sharedsvc-dm.pcg-prod-usw2.iks.a.intuit.com
 datagovern-compliance-prd-swoogo-dm.t4i-prod-west2.iks.a.intuit.com
 datagovern-compliance-prd-tpv-mgmt-service.t4iprdusw2.iks2.a.intuit.com
@@ -27429,6 +27433,7 @@ fdp-prdb-financial-entity-mgmt.fdpprduse2.iks2.a.intuit.com
 fdp-prdb-financial-entity-mgmt.ipifdp2produsw2.iks2.a.intuit.com
 fdp-prdc-financial-entity-mgmt.ipifdp2produsw2.iks2.a.intuit.com
 fdp-prdd-financial-entity-mgmt.ipifdp2produsw2.iks2.a.intuit.com
+fdp-prdg-financial-entity-mgmt.ipifdp2produsw2.iks2.a.intuit.com
 fdp-prdi-web-scraping-platform.ipifdpprodpciusw2.iks2.a.intuit.com
 fdp-pre-production-w3r7i3.pd.idps.a.intuit.com
 fdp-production-noxzu5.pd.idps.a.intuit.com
@@ -28868,6 +28873,8 @@ forwarder.tax.cmn.ppd.a.intuit.com
 forwarder.tst.cmn.pi.a.intuit.com
 forwarder.tst.gen.cto.a.intuit.com
 fos-test-idtoken-cert.e2e.intuit.com
+foundation-company-prd-company-mgmt-async.qbomono3prdusw2.iks2.a.intuit.com
+foundation-company-prd-pool-management-svc.qbomono3prdusw2.iks2.a.intuit.com
 foundation-exptplatform-prd-monitoring-svc.growthppdusw2.iks2.a.intuit.com
 foundation-exptplatform-stg-monitoring-svc.growthppdusw2.iks2.a.intuit.com
 foundation-fdp-prd-idx-cost-instrumentation.ipifdp2produsw2.iks2.a.intuit.com
@@ -55278,6 +55285,7 @@ pomenimk-internal-qdcf.imkselfservice.intuit.com
 pomenimk-lvdcf.imkselfservice.intuit.com
 pomenimk-qdcf.imkselfservice.intuit.com
 pomenimk.imkselfservice.intuit.com
+pool-management-svc-qbo.qbomono3prdusw2.iks2.a.intuit.com
 pool170-247.suncompcs.qyvip.sso.intuit.com
 pop.intuit.com
 portal.intuit.com
@@ -66895,6 +66903,7 @@ sci.intuit.com
 scienceops.a.intuit.com
 scientistmother.blogroduction-z3s7lh.pd.idps.a.intuit.com
 scm-production-esx4mn.pd.idps.a.intuit.com
+scope-builder-datagovern.t4iprdusw2.iks2.a.intuit.com
 scorecalculator.a.intuit.com
 scorecard-playground-kwrvb0.pd.idps.a.intuit.com
 scorecard-pre-production-ei0ftf.pd.idps.a.intuit.com
@@ -93021,3 +93030,4 @@ zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
 zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
+zycada.quickbooks.intuit.com

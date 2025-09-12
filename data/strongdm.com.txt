@@ -38,6 +38,7 @@ app.us-west-2.dev.strongdm.com
 app.us-west-2.snd.strongdm.com
 app.us-west-2.spirit.strongdm.com
 app.us-west-2.stg.strongdm.com
+arka.snd.strongdm.com
 asg-lifecycle-hooks.prod.us-east-2.ims.strongdm.com
 asg-lifecycle-hooks.snd.us-east-2.ims.strongdm.com
 asg-lifecycle-hooks.staging.us-east-2.ims.strongdm.com
@@ -71,6 +72,7 @@ db-failover-orchestrator.us-west-2.snd.strongdm.com
 db-failover-orchestrator.us-west-2.stg.strongdm.com
 discover.strongdm.com
 docs.strongdm.com
+dogfood-proxy.us-east-2.data.strongdm.com
 downloads.strongdm.com
 downloads.dev.strongdm.com
 downloads.snd.strongdm.com
@@ -147,6 +149,8 @@ sfdc-redshift-connector.us.us-east-2.data.strongdm.com
 status.strongdm.com
 threat-inference.eks.us-east-2.snd.strongdm.com
 threat-inference.us-east-2.stg.strongdm.com
+threat-inference.us-west-2.snd.strongdm.com
+threat-inference.us-west-2.stg.strongdm.com
 token-vending-machine.snd.strongdm.com
 tracking.strongdm.com
 ux2.search.corp.strongdm.com

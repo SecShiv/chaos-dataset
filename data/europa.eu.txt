@@ -517,6 +517,7 @@
 *.ply.ccnp.aws.cloud.tech.ec.europa.eu
 *.pm2.europa.eu
 *.poc.ocean-store.tech.ec.europa.eu
+*.portal.csirt.enisa.europa.eu
 *.portal.qa.afis.olaf.europa.eu
 *.postal-statistics.ec.europa.eu
 *.pp.euipo.europa.eu
@@ -811,6 +812,7 @@
 39729.nms.tech.ec.europa.eu
 39729san1.nms.tech.ec.europa.eu
 39729san2.nms.tech.ec.europa.eu
+39df27aa95f14a23b3f68b231afcda82-intranet.cedefop.europa.eu
 3stepsforward.eige.europa.eu
 40150.nms.tech.ec.europa.eu
 40150san1.nms.tech.ec.europa.eu
@@ -956,6 +958,7 @@
 78648.nms.tech.ec.europa.eu
 78648san1.nms.tech.ec.europa.eu
 78648san2.nms.tech.ec.europa.eu
+7ef5df971b2746eaa427a6447c77b9e1-intranet.cedefop.europa.eu
 7kd.consilium.europa.eu
 82794.nms.tech.ec.europa.eu
 82794san1.nms.tech.ec.europa.eu
@@ -1029,6 +1032,7 @@
 85388.nms.tech.ec.europa.eu
 85388san1.nms.tech.ec.europa.eu
 85388san2.nms.tech.ec.europa.eu
+8692efd9ec7c427cbd28d918dbb02ab7-intranet.cedefop.europa.eu
 87376.nms.tech.ec.europa.eu
 87376san1.nms.tech.ec.europa.eu
 87376san2.nms.tech.ec.europa.eu
@@ -1394,6 +1398,7 @@ amora.europol.europa.eu
 anaconda.ew.eea.europa.eu
 analysis.easo.europa.eu
 analytics-dev.efsa.europa.eu
+analytics-intranet.cedefop.europa.eu
 analytics-test.efsa.europa.eu
 analytics.dev.eba.europa.eu
 analytics.eba.europa.eu
@@ -1756,6 +1761,7 @@ autodiscover.fm.europarl.europa.eu
 autodiscover.fra.europa.eu
 autodiscover.frontex.europa.eu
 autodiscover.gslb.frontex.europa.eu
+autodiscover.iam-stg.frontex.europa.eu
 autodiscover.imi.europa.eu
 autodiscover.int.een.ec.europa.eu
 autodiscover.ipex.ep.europa.eu
@@ -1779,6 +1785,8 @@ autodiscover.rtr.euipo.europa.eu
 autodiscover.sip.easa.europa.eu
 autodiscover.sne.euipo.europa.eu
 autodiscover.srb.europa.eu
+autodiscover.sso1.ecdc.europa.eu
+autodiscover.sso2.ecdc.europa.eu
 autodiscover.tech.ec.europa.eu
 autodiscover.tlsmail.cor.europa.eu
 autodiscover.tlsmail.eesc.europa.eu
@@ -1826,6 +1834,7 @@ awx.nms.sdlc.webcloud.ec.europa.eu
 b-1c23104798a77022818cfaa243ce4a58.iso6523-actorid-upis.edelivery.tech.ec.europa.eu
 b2b-api.test.upp.op.europa.eu
 b2becdt.cdt.europa.eu
+b3d13ef75ff84496a28381a742080aef-intranet.cedefop.europa.eu
 backend-a1.bcp.ted.europa.eu
 backend-a2.bcp.ted.europa.eu
 backend-b1.bcp.ted.europa.eu
@@ -3066,6 +3075,7 @@ d-cms2-rw.ecb.europa.eu
 d-darwin-astra-dev5.ecb.europa.eu
 d-integrate.ecb.europa.eu
 d10-oira.osha.europa.eu
+d60fa82a129a41a993ced784dcb217b0-intranet.cedefop.europa.eu
 da.acer.europa.eu
 da.auto.eba.europa.eu
 da.dev.eba.europa.eu
@@ -3568,8 +3578,10 @@ doubledev.cedefop.europa.eu
 download.echa.europa.eu
 download.era.europa.eu
 download.mail.frontex.europa.eu
+download.mail.iam-stg.frontex.europa.eu
 download.webconference.efsa.europa.eu
 download.webmail.frontex.europa.eu
+download.webmail.iam-stg.frontex.europa.eu
 downloads.smart-ths.europarl.europa.eu
 dpl-preprod.cis.consilium.europa.eu
 dpl.cis.consilium.europa.eu
@@ -4806,6 +4818,7 @@ ews.eesc-cor.europa.eu
 ews.efca.europa.eu
 ews.esma.europa.eu
 ews.frontex.europa.eu
+ews.iam-stg.frontex.europa.eu
 ews.webmail.acc.tech.ec.europa.eu
 ews.webmail.ec.europa.eu
 ewsbc.frontex.europa.eu
@@ -5943,6 +5956,7 @@ imap.consilium.europa.eu
 imap.dev.frontex.europa.eu
 imap.enisa.europa.eu
 imap.frontex.europa.eu
+imap.iam-stg.frontex.europa.eu
 imapserver.webmail.acc.tech.ec.europa.eu
 imas-prd.ecb.europa.eu
 imas-stg.ecb.europa.eu
@@ -6748,6 +6762,7 @@ mail.fch.europa.eu
 mail.fra.europa.eu
 mail.frontex.europa.eu
 mail.gslb.frontex.europa.eu
+mail.iam-stg.frontex.europa.eu
 mail.imi.europa.eu
 mail.int.een.ec.europa.eu
 mail.itb.ec.europa.eu
@@ -6763,6 +6778,8 @@ mail.publications.europa.eu
 mail.rail-research.europa.eu
 mail.safeguards.ec.europa.eu
 mail.srb.europa.eu
+mail.sso1.ecdc.europa.eu
+mail.sso2.ecdc.europa.eu
 mail.ted.europa.eu
 mail.train.een.ec.europa.eu
 mail.uat.een.ec.europa.eu
@@ -7436,6 +7453,7 @@ notifications.frontex.europa.eu
 notify.dev.frontex.europa.eu
 notify.dev.pulse.ep.europa.eu
 notify.frontex.europa.eu
+notify.iam-stg.frontex.europa.eu
 notify.pulse.ep.europa.eu
 notify1.dev.pulse.ep.europa.eu
 notify1.pulse.ep.europa.eu
@@ -7812,6 +7830,8 @@ owa.ombudsman.europa.eu
 owa.osha.europa.eu
 owa.rail-research.europa.eu
 owa.srb.europa.eu
+owa.sso1.ecdc.europa.eu
+owa.sso2.ecdc.europa.eu
 owa.train.een.ec.europa.eu
 owa.uat.een.ec.europa.eu
 owa01.easo.europa.eu
@@ -8005,6 +8025,7 @@ pop.cedefop.europa.eu
 pop.cpvo.europa.eu
 pop.dev.frontex.europa.eu
 pop.frontex.europa.eu
+pop.iam-stg.frontex.europa.eu
 popserver.webmail.acc.tech.ec.europa.eu
 portal-a.dataviz.ecb.europa.eu
 portal-pp.emsa.europa.eu
@@ -9230,7 +9251,9 @@ shinyproxy-test.ema.europa.eu
 showcase-publicaccess.publications.europa.eu
 showvoc.op.europa.eu
 shpextmail.frontex.europa.eu
+shpextmail.iam-stg.frontex.europa.eu
 shpmail.frontex.europa.eu
+shpmail.iam-stg.frontex.europa.eu
 shs.tech.ec.europa.eu
 shulications.europa.eu
 shuttle01.eionet.europa.eu
@@ -9414,6 +9437,7 @@ smtp.f4e.europa.eu
 smtp.frontex.europa.eu
 smtp.fusionforenergy.europa.eu
 smtp.gslb.frontex.europa.eu
+smtp.iam-stg.frontex.europa.eu
 smtp.perci.europol.europa.eu
 smtp.qa.echa.europa.eu
 smtp.satcen.europa.eu
@@ -9666,6 +9690,7 @@ sso.eionet.europa.eu
 sso.ema.europa.eu
 sso.emea.europa.eu
 sso1.ecdc.europa.eu
+sso2.ecdc.europa.eu
 sst.satcen.europa.eu
 st.de.osha.europa.eu
 sta.jrc.ec.europa.eu
@@ -11043,6 +11068,7 @@ webmail.events.esrb.europa.eu
 webmail.f4e.europa.eu
 webmail.frontex.europa.eu
 webmail.gsa.europa.eu
+webmail.iam-stg.frontex.europa.eu
 webmail.iss.europa.eu
 webmail.oami.europa.eu
 webmail.osha.europa.eu
@@ -11178,6 +11204,7 @@ ws-esp.preprod.eba.europa.eu
 ws-esp.test.eba.europa.eu
 ws.data-oriented-services.ec.europa.eu
 ws.dlt.myworkplace.services.ec.europa.eu
+ws.np.myworkplace.services.ec.europa.eu
 ws.thetis-pp.emsa.europa.eu
 ws.virtual-role-play-game.dev.digital-journey.europarl.europa.eu
 ws.virtual-role-play-game.digital-journey.europarl.europa.eu
@@ -11206,6 +11233,9 @@ www.2018greetings.efsa.europa.eu
 www.2019-2024.ep.europa.eu
 www.2019-2024.europarl.europa.eu
 www.30years.satcen.europa.eu
+www.39df27aa95f14a23b3f68b231afcda82-intranet.cedefop.europa.eu
+www.7ef5df971b2746eaa427a6447c77b9e1-intranet.cedefop.europa.eu
+www.8692efd9ec7c427cbd28d918dbb02ab7-intranet.cedefop.europa.eu
 www.a-a2a.ecb.europa.eu
 www.a-api-gw.ecb.europa.eu
 www.a-api-ptl.ecb.europa.eu
@@ -11237,6 +11267,7 @@ www.acceptance.icoco.tech.ec.europa.eu
 www.acer.europa.eu
 www.alde.cor.europa.eu
 www.alumni.europa.eu
+www.analytics-intranet.cedefop.europa.eu
 www.api-gw.ecb.europa.eu
 www.api-ptl.ecb.europa.eu
 www.api.dev.app4ees.frontex.europa.eu
@@ -11252,6 +11283,7 @@ www.auth.icoco.tech.ec.europa.eu
 www.autodiscover.pp.ecb.europa.eu
 www.avcalendar.consilium.europa.eu
 www.avplanning.consilium.europa.eu
+www.b3d13ef75ff84496a28381a742080aef-intranet.cedefop.europa.eu
 www.backup.europass.cedefop.europa.eu
 www.bankingsupervision.europa.eu
 www.bbi.europa.eu
@@ -11302,6 +11334,7 @@ www.cumulus.cedefop.europa.eu
 www.curia.europa.eu
 www.cyclone.enisa.europa.eu
 www.cyclonepp.enisa.europa.eu
+www.d60fa82a129a41a993ced784dcb217b0-intranet.cedefop.europa.eu
 www.dashboard.csirt.enisa.europa.eu
 www.dashboards.esm.europa.eu
 www.data.europa.eu
@@ -11674,6 +11707,8 @@ www.src-casper-prd-aws.ecb.europa.eu
 www.ssm.europa.eu
 www.ssm-portal-reg.ecb.europa.eu
 www.ssm-tls.ecb.europa.eu
+www.sso1.ecdc.europa.eu
+www.sso2.ecdc.europa.eu
 www.staging-crm.cedefop.europa.eu
 www.staging.cedefop.europa.eu
 www.staging.eea.europa.eu

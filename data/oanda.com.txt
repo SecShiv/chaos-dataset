@@ -88,6 +88,7 @@ acquisition-ihs-ui.oanda-uat-web-cluster-1.gcp.oanda.com
 acquisition-personal-info-update.k8s-uat-usc1.u.gcp.oanda.com
 acquisition-r10-api.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-r10n-api-blue.k8s-stg-usc1.s.gcp.oanda.com
+acquisition-r10n-api-green.k8s-prod-use4.p.gcp.oanda.com
 acquisition-r10n-api-green.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-r10n-api.k8s-prod-use4.p.gcp.oanda.com
 acquisition-reg-next-ui-blue.k8s-prod-use4.p.gcp.oanda.com.gcp.oanda.com
@@ -473,6 +474,7 @@ kafka-connect.k8s-stg-usc1.s.gcp.oanda.com
 kafka-connect.k8s-uat-usc1.u.gcp.oanda.com
 kafka-demo.svc.vm.p.gcp.oanda.com
 kafka-demo.svc.vm.s.gcp.oanda.com
+kafka-ui-demo.k8s-prod-use4.p.gcp.oanda.com
 kafka-ui-demo.k8s-stg-usc1.s.gcp.oanda.com
 kafka-ui.k8s-uat-usc1.u.gcp.oanda.com
 kafka.svc.vm.p.gcp.oanda.com
@@ -605,6 +607,7 @@ mt4-rest-api.k8s-uat-asne1.u.gcp.oanda.com
 mt4-rest-api.k8s-uat-usc1.u.gcp.oanda.com
 mt4-trade.oanda.com
 mt5-demo-rest-api.k8s-prod-asne1.p.gcp.oanda.com
+mt5-oanda-live-1-lb-spectrum.oanda.com
 mt5-oanda-uat-1-lb-spectrum.uat.oanda.com
 mt5-oel-statements-api.k8s-prod-use4.p.gcp.oanda.com
 mt5-oel-statements-api.k8s-stg-usc1.s.gcp.oanda.com
@@ -1539,5 +1542,3 @@ www2.oanda.com
 www3.oanda.com
 www4.oanda.com
 x.oanda.com
-yyz.oanda.com
-zabbix-uat.svc.ri.oanda.com

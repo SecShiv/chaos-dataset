@@ -35,6 +35,7 @@
 *.awsdca2.k8s.indeed.tech
 *.awsdub.k8s.indeed.tech
 *.awsdub2.k8s.indeed.tech
+*.awsfra1.k8s.indeed.tech
 *.awsnrt2.k8s.indeed.tech
 *.awsnrt3.k8s.indeed.tech
 *.awsnrtinfra2.k8s.indeed.tech
@@ -1190,6 +1191,7 @@ b4a28bb753a7dac3de3856eaecbe5841.loom-inference.awscmhqa5.k8s.indeed.tech
 b52e2f90b047f408bd9fac9087fc951f.loom-inference.awscmh5.k8s.indeed.tech
 b52e2f90b047f408bd9fac9087fc951f.loom-inference.awscmhqa4.k8s.indeed.tech
 b52e2f90b047f408bd9fac9087fc951g.loom-inference.awscmhqa4.k8s.indeed.tech
+b52e2f90b047f408bd9fac9087fc951g.loom-inference.awspdx2.k8s.indeed.tech
 b7075d01b4e10caed94e48bb18b2a6c7.loom-inference.awscmhqa4.k8s.indeed.tech
 ba3e2f1b10f60d2131ec497f95223442.loom-inference.awscmh6.k8s.indeed.tech
 ba3e2f1b10f60d2131ec497f95223442.loom-inference.awscmhqa5.k8s.indeed.tech
@@ -2771,6 +2773,7 @@ elaboration-webapp.qa.k8s.indeed.tech
 elastic-enterprise-search.awscmhqa2.k8s.indeed.tech
 elasticsearch-qa.awscmhqa.k8s.indeed.tech
 elastigirl.awscmhqa2.k8s.indeed.tech
+elephant--elephant-apply-start-features-m4.qa.indeed.tech
 elephant--elephant-click-features-m4.qa.indeed.tech
 elephant-cerebro-prod.awscmh2.k8s.indeed.tech
 elephant-cerebro-qa.awscmhqa2.k8s.indeed.tech
@@ -7033,6 +7036,7 @@ orc.cmhqa3.k8s.indeed.tech
 orc.infra.indeed.tech
 orc.qa.indeed.tech
 orc.stage.indeed.tech
+orchestration-platform.temporal.qa.indeed.tech
 order-service.cmhqa1.k8s.indeed.tech
 orgdsp-graphql.aus.k8s.indeed.tech
 orgdsp-graphql.awscmhstage.k8s.indeed.tech
@@ -10835,8 +10839,10 @@ xds.prod.awscmh5.k8s.indeed.tech
 xds.prod.awscmh6.k8s.indeed.tech
 xds.prod.awscmhinfra4.k8s.indeed.tech
 xds.prod.awsdub2.k8s.indeed.tech
+xds.prod.awsfra1.k8s.indeed.tech
 xds.prod.awsnrt3.k8s.indeed.tech
 xds.prod.awspdx2.k8s.indeed.tech
+xds.prod.eu-central-1.indeed.tech
 xds.prod.eu-west-1.indeed.tech
 xds.prod.us-east-2.indeed.tech
 xds.prod.us-west-2.indeed.tech
