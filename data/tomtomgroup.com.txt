@@ -1,3 +1,4 @@
+.tomtomgroup.com
 *.tomtomgroup.com
 *.alchemists.tomtomgroup.com
 *.aws-ap-south-1.cmr.tomtomgroup.com
@@ -39,6 +40,7 @@
 a.add-featurestore-web.gateway.tti-cancun.tomtomgroup.com
 a.dev.gateway.tti-cancun.tomtomgroup.com
 a.major-updates-a62d0846.gateway.tti-cancun.tomtomgroup.com
+a.major-version-updates.gateway.tti-cancun.tomtomgroup.com
 a.mateuszwisnik-tomtom-p.gateway.tti-cancun.tomtomgroup.com
 a.watchtower-resource-re.gateway.tti-cancun.tomtomgroup.com
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaalerts.koziorow3-we.routing-dev.tomtomgroup.com
@@ -526,6 +528,7 @@ aws-prometheus.gha-prod.tomtomgroup.com
 b.add-featurestore-web.gateway.tti-cancun.tomtomgroup.com
 b.dev.gateway.tti-cancun.tomtomgroup.com
 b.major-updates-a62d0846.gateway.tti-cancun.tomtomgroup.com
+b.major-version-updates.gateway.tti-cancun.tomtomgroup.com
 b.mateuszwisnik-tomtom-p.gateway.tti-cancun.tomtomgroup.com
 b.watchtower-resource-re.gateway.tti-cancun.tomtomgroup.com
 backstage-dev.sde.tomtomgroup.com
@@ -701,6 +704,7 @@ bump-cancun-helm-version.dev.tti-cancun.tomtomgroup.com
 c.add-featurestore-web.gateway.tti-cancun.tomtomgroup.com
 c.dev.gateway.tti-cancun.tomtomgroup.com
 c.major-updates-a62d0846.gateway.tti-cancun.tomtomgroup.com
+c.major-version-updates.gateway.tti-cancun.tomtomgroup.com
 c.mateuszwisnik-tomtom-p.gateway.tti-cancun.tomtomgroup.com
 c.watchtower-resource-re.gateway.tti-cancun.tomtomgroup.com
 caap-bridge-fixes.dev.tti-cancun.tomtomgroup.com
@@ -2086,6 +2090,7 @@ czub-nat-gw1-westeurope-prom.ngs-dev.tomtomgroup.com
 d.add-featurestore-web.gateway.tti-cancun.tomtomgroup.com
 d.dev.gateway.tti-cancun.tomtomgroup.com
 d.major-updates-a62d0846.gateway.tti-cancun.tomtomgroup.com
+d.major-version-updates.gateway.tti-cancun.tomtomgroup.com
 d.mateuszwisnik-tomtom-p.gateway.tti-cancun.tomtomgroup.com
 d.watchtower-resource-re.gateway.tti-cancun.tomtomgroup.com
 d3-array-3-0-4.dev.tti-cancun.tomtomgroup.com
@@ -2666,6 +2671,7 @@ easier-debugging.dev.tti-cancun.tomtomgroup.com
 easier-tests.dev.tti-cancun.tomtomgroup.com
 echo.dev.tti-cancun.tomtomgroup.com
 edinburgh.tomtomgroup.com
+edp.tomtomgroup.com
 eit-devices.tomtomgroup.com
 elasticsearch-mhub.cppsp.zt.cba.azure-weu.cmr.tomtomgroup.com
 elearning.tomtomgroup.com
@@ -2837,12 +2843,18 @@ fn4092-koreacentral-grafana.ngs-dev.tomtomgroup.com
 fn4092-koreacentral-prom.ngs-dev.tomtomgroup.com
 fn4092-koreacentral.ngs-dev.tomtomgroup.com
 fn4092-westeurope-alert.ngs-dev.tomtomgroup.com
+fn4092-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn4092-westeurope-prom.ngs-dev.tomtomgroup.com
 fn4092-westeurope.ngs-dev.tomtomgroup.com
 fn47dd-westeurope-alert.ngs-dev.tomtomgroup.com
 fn47dd-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn47dd-westeurope-prom.ngs-dev.tomtomgroup.com
 fn7168-westeurope-grafana.ngs-dev.tomtomgroup.com
+fn8106-koreacentral.ngs-dev.tomtomgroup.com
+fn8106-westeurope-alert.ngs-dev.tomtomgroup.com
+fn8106-westeurope-grafana.ngs-dev.tomtomgroup.com
+fn8106-westeurope-prom.ngs-dev.tomtomgroup.com
+fn8106-westeurope.ngs-dev.tomtomgroup.com
 fn8956-westeurope-alert.ngs-dev.tomtomgroup.com
 fn8956-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn8956-westeurope-prom.ngs-dev.tomtomgroup.com
@@ -2850,6 +2862,7 @@ fn9183-koreacentral-alert.ngs-dev.tomtomgroup.com
 fn9183-koreacentral-prom.ngs-dev.tomtomgroup.com
 fn9183-koreacentral.ngs-dev.tomtomgroup.com
 fn9183-westeurope-alert.ngs-dev.tomtomgroup.com
+fn9183-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn9183-westeurope-prom.ngs-dev.tomtomgroup.com
 fna08e-koreacentral-grafana.ngs-dev.tomtomgroup.com
 fna08e-koreacentral-prom.ngs-dev.tomtomgroup.com
@@ -4019,6 +4032,7 @@ luxon-update.dev.tti-cancun.tomtomgroup.com
 m-broken-ui-panel-outside-usa.dev.tti-cancun.tomtomgroup.com
 m-cppsp-dev2.t.t.aws-eu-west-1.cmr.tomtomgroup.com
 m-geoservers-urls.gateway.tti-cancun.tomtomgroup.com
+macos-runners-dashboard.macos.gha-prod.tomtomgroup.com
 magnus-alertmanager.sre-dev.tomtomgroup.com
 magnus-grafana.sre-dev.tomtomgroup.com
 magnus-prometheus.sre-dev.tomtomgroup.com
@@ -4058,6 +4072,7 @@ main.ttomsd-glb.pu-maps.aws-eu-west-1.cmr.tomtomgroup.com
 main.ttomsd-ind.pu-maps.aws-ap-south-1.cmr.tomtomgroup.com
 major-updates-a62d0846.gateway.tti-cancun.tomtomgroup.com
 major-updates-e289bf76.gateway.tti-cancun.tomtomgroup.com
+major-version-updates.gateway.tti-cancun.tomtomgroup.com
 mandatory-checked.dev.tti-cancun.tomtomgroup.com
 manual.dev.tti-cancun.tomtomgroup.com
 map-data-visualizer.tomtomgroup.com
@@ -4951,8 +4966,11 @@ quasar-3900.dev.tti-cancun.tomtomgroup.com
 quasar-3928.dev.tti-cancun.tomtomgroup.com
 quasar-3963.dev.tti-cancun.tomtomgroup.com
 quasar-3971.dev.tti-cancun.tomtomgroup.com
+quasar-4283.dev.tti-cancun.tomtomgroup.com
 quasar-4438.dev.tti-cancun.tomtomgroup.com
+quasar-4439.dev.tti-cancun.tomtomgroup.com
 quasar-4440.dev.tti-cancun.tomtomgroup.com
+quasar-4441-new.dev.tti-cancun.tomtomgroup.com
 quepid.tomtomgroup.com
 quickbuild.tomtomgroup.com
 quickbuild-dev.tomtomgroup.com
@@ -5810,6 +5828,7 @@ searchpu-26672-cloudplatform-k.ngs-dev.tomtomgroup.com
 secondary-codeowners.navapp-dev.tomtomgroup.com
 sectioned-road-netwo.3e07.aws-eu-west-1.cmr.tomtomgroup.com
 sectioning.dev.opc.tomtomgroup.com
+sectioning.int.opc.tomtomgroup.com
 security.tomtomgroup.com
 security-assesment.tomtomgroup.com
 security-assessment.tomtomgroup.com
@@ -6283,6 +6302,7 @@ ttomsd-glb.pu-maps.aws-eu-west-1.cmr.tomtomgroup.com
 ttomsd-ind.pu-maps.aws-ap-south-1.cmr.tomtomgroup.com
 tv-typo.gateway.tti-cancun.tomtomgroup.com
 tw-tpe-fwl-01.tomtomgroup.com
+twoway-routes.dev.tti-cancun.tomtomgroup.com
 tyk.dev.tti-cancun.tomtomgroup.com
 tyk.internal-k8s.tti-cancun.tomtomgroup.com
 typescript-4-5-2.dev.tti-cancun.tomtomgroup.com
@@ -6469,6 +6489,7 @@ www.testdroid.tomtomgroup.com
 wyz1-westeurope-alert.ngs-dev.tomtomgroup.com
 wyz1-westeurope-prom.ngs-dev.tomtomgroup.com
 wyz1-westeurope.ngs-dev.tomtomgroup.com
+xcmetrics.tomtomgroup.com
 xml2js-0-5-0.dev.tti-cancun.tomtomgroup.com
 xpectd.sre-dev.tomtomgroup.com
 yard.tomtomgroup.com
@@ -6590,3 +6611,7 @@ yktst3-westeurope-prom.ngs-dev.tomtomgroup.com
 yktst3-westeurope.ngs-dev.tomtomgroup.com
 yktst4-westeurope-alert.ngs-dev.tomtomgroup.com
 yktst4-westeurope-grafana.ngs-dev.tomtomgroup.com
+yktst4-westeurope-prom.ngs-dev.tomtomgroup.com
+yktst4-westeurope.ngs-dev.tomtomgroup.com
+yum.tomtomgroup.com
+zipsip.tomtomgroup.com

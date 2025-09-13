@@ -17,6 +17,7 @@
 *.otlp.us.prod.search-aggr.internal.algolia.com
 *.prod.wideevents.ssot.internal.algolia.com
 *.sandbox.algolia.com
+*.staging.datamixer.internal.algolia.com
 *.staging.inference.ai.algolia.com
 *.staging.kickstarter.internal.algolia.com
 *.us.algolia.com
@@ -390,6 +391,7 @@ similar-queries.us.algolia.com
 st2poc.algolia.com
 staging-data.us.algolia.com
 staging.ai-personalization.eu.algolia.com
+staging.datamixer.internal.algolia.com
 staging.inference.ai.algolia.com
 staging.kickstarter.internal.algolia.com
 static-dashboard.algolia.com
@@ -446,3 +448,5 @@ www.integrations-development.algolia.com
 www.integrations-staging.algolia.com
 www.partners.algolia.com
 www.stories.algolia.com
+www1.algolia.com
+zendesk.algolia.com

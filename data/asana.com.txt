@@ -179,6 +179,7 @@
 *.prod-internal-internal.app.asana.com
 *.prod-internal.app.asana.com
 *.prod-jp1-asana-cell01-29a8c2d9.app.asana.com
+*.prod-jp1-asana-cell01-4047586a.app.asana.com
 *.prod-jp1-asana-cell01-5d7f762f.app.asana.com
 *.prod-jp1-asana-cell01-70c20de5.app.asana.com
 *.prod-jp1-asana-cell01-8ed8ba19.app.asana.com
@@ -238,6 +239,7 @@
 *.prod-us1-asana-cell08.app.asana.com
 *.prod-us1-asana-cell09-59804895.app.asana.com
 *.prod-us1-asana-cell09-63096e8f.app.asana.com
+*.prod-us1-asana-cell09-745d3159.app.asana.com
 *.prod-us1-asana-cell09-bd138d2d.app.asana.com
 *.prod-us1-asana-cell09-de062a45.app.asana.com
 *.prod-us1-asana-cell09-e706c758.app.asana.com
@@ -306,6 +308,7 @@
 *.prod-us1-internal-cell02.app.asana.com
 *.prod-us1-internal-cell04-4a3831ca.app.asana.com
 *.prod-us1-internal-cell04-52d47aff.app.asana.com
+*.prod-us1-internal-cell04-543e3c34.app.asana.com
 *.prod-us1-internal-cell04-rollout.app.asana.com
 *.prod-us1-internal-cell04.app.asana.com
 *.sales.asana.com
@@ -855,6 +858,8 @@ prod-internal-internal.app.asana.com
 prod-internal.app.asana.com
 prod-jp1-asana-cell01-29a8c2d9.app.asana.com
 prod-jp1-asana-cell01-29a8c2d9.argocd.app.asana.com
+prod-jp1-asana-cell01-4047586a.app.asana.com
+prod-jp1-asana-cell01-4047586a.asana.argocd.app.asana.com
 prod-jp1-asana-cell01-5d7f762f.app.asana.com
 prod-jp1-asana-cell01-5d7f762f.argocd.app.asana.com
 prod-jp1-asana-cell01-70c20de5.app.asana.com
@@ -957,6 +962,8 @@ prod-us1-asana-cell09-59804895.app.asana.com
 prod-us1-asana-cell09-59804895.asana.argocd.app.asana.com
 prod-us1-asana-cell09-63096e8f.app.asana.com
 prod-us1-asana-cell09-63096e8f.asana.argocd.app.asana.com
+prod-us1-asana-cell09-745d3159.app.asana.com
+prod-us1-asana-cell09-745d3159.asana.argocd.app.asana.com
 prod-us1-asana-cell09-bd138d2d.app.asana.com
 prod-us1-asana-cell09-bd138d2d.asana.argocd.app.asana.com
 prod-us1-asana-cell09-de062a45.app.asana.com
@@ -1062,6 +1069,8 @@ prod-us1-internal-cell04-4a3831ca.app.asana.com
 prod-us1-internal-cell04-4a3831ca.internal.argocd.app.asana.com
 prod-us1-internal-cell04-52d47aff.app.asana.com
 prod-us1-internal-cell04-52d47aff.internal.argocd.app.asana.com
+prod-us1-internal-cell04-543e3c34.app.asana.com
+prod-us1-internal-cell04-543e3c34.internal.argocd.app.asana.com
 prod-us1-internal-cell04.app.asana.com
 prod-us1-spencer-test-3d17b5c9.app.asana.com
 prod-us1-spencer-test-3d17b5c9.argocd.app.asana.com
@@ -2400,3 +2409,4 @@ xtf7eyik3jokf02n.app.asana.com
 yaa-sirsolar.comform.asana.com
 yir-share.asana.com
 zaulekwnetrz-pl.app.asana.com
+zelliw.app.asana.com

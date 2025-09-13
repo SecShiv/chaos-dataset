@@ -546,6 +546,7 @@ cib.db.com
 cib-waf-66052-1.db.com
 cibconnect.db.com
 cidp-eu.db.com
+cidpext-uat.db.com
 cinq.db.com
 cinq.gtb.db.com
 ciso.db.com
@@ -572,6 +573,7 @@ cn.eds.gtb.db.com
 cnvrtb04.uk.db.com
 cnvrtb05.uk.db.com
 cnvrtb06.uk.db.com
+cnvrtb07.uk.db.com
 cnvrtd03.uk.db.com
 cnvrtp04.uk.db.com
 cnvrtp05.uk.db.com
@@ -1512,6 +1514,7 @@ de-uat4-i.de.db.com
 de-uat4-m.de.db.com
 de-uat4.dbrasweb.db.com
 de.cf.onlinecredit.db.com
+de.cidpext-uat.db.com
 de.dbanalytics.db.com
 de.dbras.extranet.db.com
 de.dbrasweb.db.com
@@ -2273,6 +2276,7 @@ fscm-uat.gtb.db.com
 fscm.egslb.db.com
 fscm.gtb.db.com
 fscmtsu.gtb.db.com
+fsfext-uat.db.com
 fsfprod.egslb.db.com
 fsfprodub.egslb.db.com
 ft.dbebills.db.com
@@ -3025,6 +3029,7 @@ master.dwebcms.intranet.db.com
 master.isso.db.com
 master.xmarkets.db.com
 mauritius.db.com
+mbat-config-prod.gslb.db.com
 mbms-eweb.svc.db.com
 mbmsweb.egslb.db.com
 mc.gm.db.com
@@ -4131,6 +4136,7 @@ sg.abx-prod2b.autobahn.db.com
 sg.abx-prod3a.autobahn.db.com
 sg.abx-prod3b.autobahn.db.com
 sg.alerts.gto.db.com
+sg.cidpext-uat.db.com
 sg.dbras.extranet.db.com
 sg.dbrasweb.db.com
 sg.demo.autobahnfx.gm.db.com
@@ -4536,6 +4542,8 @@ staging.dbnumis.db.com
 staging.dbnumis.intranet.db.com
 staging.dbwings.db.com
 staging.dbwings.intranet.db.com
+staging.de.cidpext-uat.db.com
+staging.de.cidpext-uat.intranet.db.com
 staging.de.tradefinder.db.com
 staging.delivery.prodde.pocdotcms.intranet.db.com
 staging.demo-sso.db-direct.eu.gtb.intranet.db.com
@@ -4843,6 +4851,8 @@ staging.sctinstclearing.intranet.db.com
 staging.search-uk.autobahn.db.com
 staging.selfserviceadmin.cn.gtb.intranet.db.com
 staging.services.brazil.intranet.db.com
+staging.sg.cidpext-uat.db.com
+staging.sg.cidpext-uat.intranet.db.com
 staging.sg.dweb.db.com
 staging.sg.prod.cbp.intranet.db.com
 staging.simulator-api.norisbank.intranet.db.com
@@ -4986,6 +4996,8 @@ staging.uatf1us-sso.db-direct.us.gtb.intranet.db.com
 staging.uatps.external.dbebills-global.de.intranet.db.com
 staging.uk.cashmanager.intranet.db.com
 staging.uk.cbp-pprd.intranet.db.com
+staging.uk.cidpext-uat.db.com
+staging.uk.cidpext-uat.intranet.db.com
 staging.uk.invest.intranet.db.com
 staging.uk.mtb.db.com
 staging.uk.mtb.intranet.db.com
@@ -5986,6 +5998,7 @@ uk.alerts.gto.db.com
 uk.cashmanager.db.com
 uk.cashmanager-waf-151296-1.db.com
 uk.cbp-pprd.db.com
+uk.cidpext-uat.db.com
 uk.csa.ger.db.com
 uk.dbanalytics.db.com
 uk.dbras.extranet.db.com

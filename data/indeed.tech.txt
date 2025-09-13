@@ -5976,6 +5976,12 @@ mdp-integration-flink-ldap.awscmhqa5.k8s.indeed.tech
 mdp-integration-flink-saml.awscmhqa5.k8s.indeed.tech
 mdp-online-syncer-qa-ldap.awscmhqa5.k8s.indeed.tech
 mdp-online-syncer-qa-saml.awscmhqa5.k8s.indeed.tech
+mdp-spark-history.indeed.tech
+mdp-spark-history.awscmh6.k8s.indeed.tech
+mdp-spark-history.awscmhqa5.k8s.indeed.tech
+mdp-spark-history.qa.indeed.tech
+mdp-spark-live.awscmhqa5.k8s.indeed.tech
+mdp-spark-live.qa.indeed.tech
 mdpc-akhq.indeed.tech
 mdpc-akhq.qa.indeed.tech
 meangreen-backend.aus.k8s.indeed.tech
@@ -7429,6 +7435,9 @@ private-endpoint-proxy-api.qa.indeed.tech
 prizmdoc-qa.awscmhqa2.k8s.indeed.tech
 prizmdoc-service.awscmh5.k8s.indeed.tech
 prizmdoc-service.awscmh6.k8s.indeed.tech
+prizmdoc-service.awsnrt3.k8s.indeed.tech
+prizmdoc-service.awspdx2.k8s.indeed.tech
+prizmdoc-service.awsyul2.k8s.indeed.tech
 prizmdoc.awscmh2.indeed.tech
 prizmdoc.awscmh2.k8s.indeed.tech
 prizmdoc.awscmhqa2.k8s.indeed.tech
@@ -10943,4 +10952,3 @@ zeebe.osqa.k8s.indeed.tech
 zentral.cpe.indeed.tech
 zentral.staging.cpe.indeed.tech
 zhiyuan-test-lemma-webapp.awscmhqa3.k8s.indeed.tech
-ztna.indeed.tech

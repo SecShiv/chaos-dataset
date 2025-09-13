@@ -736,6 +736,7 @@ pic-mt-admin.k8s-stg-euw3.s.gcp.oanda.com
 pic-mt-admin.k8s-uat-euw3.u.gcp.oanda.com
 pic-mt-otms-mobile-gateway.k8s-uat-euw3.u.gcp.oanda.com
 pic-mt5-feeder-oj-stage-1.k8s-stg-asne1.s.gcp.oanda.com
+pic-mt5-feeder-oj-uat-1.k8s-uat-asne1.u.gcp.oanda.com
 pic-mt5-manager-oanda-demo-1.k8s-prod-use4.p.gcp.oanda.com
 pic-mt5-manager-oanda-live-1.k8s-prod-use4.p.gcp.oanda.com
 pic-mt5-manager-oanda-stage-1.k8s-stg-usc1.s.gcp.oanda.com
@@ -1501,6 +1502,10 @@ vault.vault-cluster-2-nonprod.i.gcp.oanda.com
 vault.vault-cluster-2-prod.i.gcp.oanda.com
 vault.vault-cluster-3-prod.i.gcp.oanda.com
 vault.vault-cluster-4-prod.i.gcp.oanda.com
+vault.vaulte-cluster-1-nonprod.i.gcp.oanda.com
+vault.vaulte-cluster-2-nonprod.i.gcp.oanda.com
+vaulte.vault-cluster-1-nonprod.i.gcp.oanda.com
+vaulte.vault-cluster-2-nonprod.i.gcp.oanda.com
 vcenter.engi.oanda.com
 verylongname.oanda-nonprod-observability-cluster-1.i.gcp.oanda.com
 volatility-barriers.k8s-prod-use4.p.gcp.oanda.com
@@ -1542,3 +1547,5 @@ www2.oanda.com
 www3.oanda.com
 www4.oanda.com
 x.oanda.com
+yyz.oanda.com
+zabbix-uat.svc.ri.oanda.com

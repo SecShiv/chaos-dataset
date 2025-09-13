@@ -673,6 +673,7 @@ descubrir.mongodb.com
 dev.mongodb.com
 devcenter-backend-prod.mongodb.com
 devcenter-backend-staging.mongodb.com
+devcenter-frontend.devrel.prod.corp.mongodb.com
 devcenter.corp.mongodb.com
 developer.mongodb.com
 developers.mongodb.com
@@ -833,6 +834,7 @@ education-metrics.education.staging.corp.mongodb.com
 education.prod.corp.mongodb.com
 education.staging.corp.mongodb.com
 educators.mongodb.com
+educators.devrel.prod.corp.mongodb.com
 elq.mongodb.com
 em.mongodb.com
 email.mongodb.com
@@ -1528,6 +1530,7 @@ splunkdev.infosec.mongodb.com
 spruce.mongodb.com
 spruce-beta.corp.mongodb.com
 spruce-staging.corp.mongodb.com
+sputnik.cloud-atlas-search.staging.corp.mongodb.com
 sredoc-dev.corp.mongodb.com
 sredoc.corp.mongodb.com
 stage.community.mongodb.com
@@ -1631,11 +1634,13 @@ tribyl.corp.mongodb.com
 trino-dw-scraper.ts-tools.prod.corp.mongodb.com
 trino-dw-scraper.ts-tools.staging.corp.mongodb.com
 trino-etl.corp.mongodb.com
+trino-gateway-authn-mesh-ai.dataplatform.staging.corp.mongodb.com
 trino-gateway-authn-mesh.dataplatform.prod.corp.mongodb.com
 trino-gateway-authn-mesh.dataplatform.staging.corp.mongodb.com
 trino-gateway-authn-mesh.staging.corp.mongodb.com
 trino-gateway-mesh.dataplatform.prod.corp.mongodb.com
 trino-gateway.devprod-platform.staging.corp.mongodb.com
+trino-jwt-gateway-ai.dataplatform.staging.corp.mongodb.com
 trino-jwt-gateway.dataplatform.prod.corp.mongodb.com
 trino-jwt-gateway.dataplatform.staging.corp.mongodb.com
 trino-oauth-gateway.staging.corp.mongodb.com
@@ -1712,6 +1717,7 @@ us-west-2.stitch-staging.ga.aws.cloud.mongodb.com
 us-west1.gcp.realm.mongodb.com
 vault.corp.mongodb.com
 victoria-metrics-dev.corp.mongodb.com
+victoria-metrics-ftdc-dev.corp.mongodb.com
 victoria-metrics-intel-dev.corp.mongodb.com
 victoria-metrics-meta-dev.corp.mongodb.com
 victoria-metrics-meta-internal.corp.mongodb.com

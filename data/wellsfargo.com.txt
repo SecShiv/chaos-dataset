@@ -1,6 +1,7 @@
 .wellsfargo.com
 *.wellsfargo.com
 *.ceo.wellsfargo.com
+*.pgo.wellsfargo.com
 000002-dontest.wellsfargo.com
 082524public.wellsfargo.com
 1aat-et.stratus.wellsfargo.com
@@ -2481,6 +2482,7 @@ cibdp2024nonprod.wellsfargo.com
 cibt-dp-del.dr.wellsfargo.com
 cibt-dp-del.prod.wellsfargo.com
 cibt-dp-del.test.wellsfargo.com
+cig-formsimage-prod.wellsfargo.com
 cisive.wellsfargo.com
 cisive-bcp.wellsfargo.com
 cisive-prod.wellsfargo.com
@@ -7025,10 +7027,12 @@ mlcapi-bcp.wellsfargo.com
 mlcapi-dev.wellsfargo.com
 mlcapi-prd.wellsfargo.com
 mlcapi-uat.wellsfargo.com
+mmkr-event-service-prod.wellsfargo.com
 mmkr-event-service-pte.wellsfargo.com
 mmkr-event-service-sit.wellsfargo.com
 mmkr-event-service-uat.wellsfargo.com
 mmkr-questionnaire-service-dev.wellsfargo.com
+mmkr-questionnaire-service-prod.wellsfargo.com
 mmkr-questionnaire-service-pte.wellsfargo.com
 mmkr-questionnaire-service-uat.wellsfargo.com
 mmn10bhmczi81.wellsfargo.com
@@ -8730,6 +8734,7 @@ percussioni1.wellsfargo.com
 percussioni2.wellsfargo.com
 perk.g.wellsfargo.com
 perk.glb.wellsfargo.com
+pgo.wellsfargo.com
 pgs.wellsfargo.com
 pgs-bcp.wellsfargo.com
 pgs-prod.wellsfargo.com
@@ -9616,6 +9621,7 @@ retdl-application-search-mfe-sit.wellsfargo.com
 retdl-customer-search-mfe-dev.wellsfargo.com
 retdl-customer-search-mfe-sit.wellsfargo.com
 retdl-customer-search-mfe-uat.wellsfargo.com
+retdl-homepage-mfe-prod.wellsfargo.com
 retdl-homepage-mfe-pte.wellsfargo.com
 retdl-homepage-mfe-sit.wellsfargo.com
 retdl-merchant-reports-mfe-dev.wellsfargo.com
@@ -9630,6 +9636,7 @@ retdl-plcc-mfe-pte.wellsfargo.com
 retdl-plcc-mfe-sit.wellsfargo.com
 retdl-plcc-mfe-uat.wellsfargo.com
 retdl-plcc-testharness-dev.wellsfargo.com
+retdl-plcc-testharness-prod.wellsfargo.com
 retdl-plcc-testharness-pte.wellsfargo.com
 retdl-plcc-testharness-sit.wellsfargo.com
 retdl-plcc-testharness-uat.wellsfargo.com
@@ -9637,6 +9644,7 @@ retdl-submit-application-mfe-dev.wellsfargo.com
 retdl-submit-application-mfe-pte.wellsfargo.com
 retdl-submit-application-mfe-sit.wellsfargo.com
 retdl-transaction-mfe-dev.wellsfargo.com
+retdl-transaction-mfe-prod.wellsfargo.com
 retdl-transaction-mfe-pte.wellsfargo.com
 retdl-transaction-mfe-sit.wellsfargo.com
 retire7.wellsfargo.com

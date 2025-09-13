@@ -493,6 +493,7 @@
 *.s3express-control-gamma-us-east-2.amazon.com
 *.s3express-fips-use1-az5.us-east-1.amazon.com
 *.s3express-prod-use1-az2.us-east-1.amazon.com
+*.s3tables.us-west-2.olrostob.people.aws.dev.amazon.com
 *.sa-east-1-failover.console-gamma.aws-dev.amazon.com
 *.sa-east-1-failover.console.aws-dev.amazon.com
 *.sa-east-1.aws-signin-testing.amazon.com
@@ -18843,6 +18844,7 @@ assetman-website-na.integ.amazon.com
 assets-fan-alpha.aka.amazon.com
 assets-prod.prod.cn-northwest-1.columbo.fraud.aws.amazon.com
 assets.alpha.signage.amazon.com
+assets.api.music.amazon.com
 assets.artists.amazon.com
 assets.beta.signage.amazon.com
 assets.designzone.com.s3.amazon.com
@@ -20725,7 +20727,10 @@ aws-tcrs.iad.amazon.com
 aws-tcs.amazon.com
 aws-tcs-beta.integ.amazon.com
 aws-tcs-gamma.amazon.com
+aws-tcs-gamma.thf.amazon.com
 aws-tcs-onebox.iad.amazon.com
+aws-tcs-onebox.thf.amazon.com
+aws-tcs-prod.thf.amazon.com
 aws-tools.amazon.com
 aws-training-kikuproxy-prod.iad.amazon.com
 aws-trusted-advisor-gamma.us-gov-west-1.amazon.com
@@ -21357,6 +21362,7 @@ bb-ops-console-iad-pod04.amazon.com
 bb-ops-console-iad-pod04.aea.amazon.com
 bb-ops-console-iad-pod05-aka.aea.amazon.com
 bb-ops-console-iad-pod05.aka.amazon.com
+bb-ops-console-iad-pod07.aka.amazon.com
 bb-ops-console-iad.aea.amazon.com
 bb-ops-console-nrt.amazon.com
 bb-ops-console-nrt-pod01.amazon.com
@@ -32881,6 +32887,7 @@ fosportal-simulation-eu.corp.amazon.com
 fosportal-simulation-fe.corp.amazon.com
 fosportal-simulation-na.corp.amazon.com
 fot-bpm-aes-prod.corp.amazon.com
+foundry-akl.aka.amazon.com
 foundry-alpha-dev1.aka.amazon.com
 foundry-alpha-dev2.aka.amazon.com
 foundry-arn.aka.amazon.com
@@ -34160,6 +34167,7 @@ glob-datanet-new-01-iad.iad.proxy.amazon.com
 glob-datanet-new-02-iad.iad.proxy.amazon.com
 glob-datanet-new-gamma-02-iad.iad.proxy.amazon.com
 glob-datanet-new-iad.iad.proxy.amazon.com
+global.amazon.com
 global-it-stuff.corp.amazon.com
 global-taxonomy-editor-beta.aka.corp.amazon.com
 global-taxonomy-editor.aka.corp.amazon.com
@@ -44241,6 +44249,7 @@ na-sd-config-diagnostics.iad.proxy.amazon.com
 na-sort-centers.amazon.com
 na-sort-centers-gamma.corp.amazon.com
 na-sort-centers.corp.amazon.com
+na-widgets-projectkuiper.amazon.com
 na.account.amazon.com
 na.aftx.amazon.com
 na.app.veeqo.amazon.com
@@ -51038,6 +51047,8 @@ s3s.integ.amazon.com
 s3storagequal-mechanic-anlalama.integ.amazon.com
 s3storagequal-mechanic-gamma.corp.amazon.com
 s3storagequal-mechanic.aka.corp.amazon.com
+s3tables.us-west-2.olrostob.people.aws.dev.amazon.com
+s3tables.us-west-2.olrostob.people.aws.dev.amazon.com.amazon.com
 s4t-eu.aka.amazon.com
 s4t-fe.aka.amazon.com
 s4t-integ-eu.aka.amazon.com
@@ -55933,6 +55944,7 @@ sushi-control.integ.amazon.com
 sushi-gamma.amazon.com
 sushi-jlb.integ.amazon.com
 sushi.integ.amazon.com
+sustainabilityexchange.amazon.com
 svc.pdx.dreamscape.beta.console.hweng.amazon.com
 svsui-dub.dub.proxy.amazon.com
 svsui-iad.iad.proxy.amazon.com
@@ -56554,6 +56566,8 @@ tas-rck-h-na-p.iad.amazon.com
 tas-rck-na-pdx-d.integ.amazon.com
 tas-uk-extern.amazon.com
 tas-uk-extern.integ.amazon.com
+tasas-fe.amazon.com
+tasas-na.amazon.com
 taservice-gamma.amazon.com
 taservice-gamma-002.amazon.com
 taservice-gamma-01.amazon.com

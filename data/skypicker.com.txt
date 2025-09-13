@@ -50,6 +50,7 @@
 *.check-in.iap.balkan-sandbox.skypicker.com
 *.codepush.skypicker.com
 *.codepushup.skypicker.com
+*.commercial-sandbox.skypicker.com
 *.communications-genai.skypicker.com
 *.communications-iap.cs-systems-sandbox.skypicker.com
 *.communications.cs-systems-sandbox.skypicker.com
@@ -68,6 +69,7 @@
 *.data-lake-prod.skypicker.com
 *.demo-review-app.platform-sandbox.skypicker.com
 *.disruption-cost-card.iap.balkan-sandbox.skypicker.com
+*.disruption-resolver.disruptions-prod.skypicker.com
 *.disruptions-prod.skypicker.com
 *.disruptions-sandbox.skypicker.com
 *.disruptions.iap.balkan-sandbox.skypicker.com
@@ -75,6 +77,7 @@
 *.dutchman.skypicker.com
 *.dutchman-sandbox.skypicker.com
 *.emails-converter.disruptions-prod.skypicker.com
+*.emails-ng.disruptions-prod.skypicker.com
 *.explorator.skypicker.com
 *.faker.skypicker.com
 *.fe-cloudrun.skypicker.com
@@ -146,6 +149,8 @@
 *.i.sit-sandbox.skypicker.com
 *.iap.skypicker.com
 *.iap.ancillaries-prod.skypicker.com
+*.iap.antibot-prod.skypicker.com
+*.iap.antibot-sandbox.skypicker.com
 *.iap.autobooking-prod.skypicker.com
 *.iap.autobooking-sandbox.skypicker.com
 *.iap.balkan-prod.skypicker.com
@@ -156,6 +161,7 @@
 *.iap.cs-systems-sandbox.skypicker.com
 *.iap.data-acq-production.skypicker.com
 *.iap.data-acq-sandbox.skypicker.com
+*.iap.dataacq-production.skypicker.com
 *.iap.dutchman-sandbox.skypicker.com
 *.iap.fe-sandbox.skypicker.com
 *.iap.finance-prod.skypicker.com
@@ -167,6 +173,7 @@
 *.iap.reservations-prod.skypicker.com
 *.iap.reservations-sandbox.skypicker.com
 *.iap.review.balkan-sandbox.skypicker.com
+*.iap.review.booking-api.skypicker.com
 *.iap.review.cs-systems-sandbox.skypicker.com
 *.iap.review.php-sandbox.skypicker.com
 *.iap.review.reservations-sandbox.skypicker.com
@@ -190,6 +197,7 @@
 *.lynx-api-vpc-sandbox.skypicker.com
 *.lynx-sandbox.skypicker.com
 *.lynx-vpc-sandbox.skypicker.com
+*.lynxie-sandbox.skypicker.com
 *.mailing.iap.review.php-sandbox.skypicker.com
 *.mailing.review.php-sandbox.skypicker.com
 *.mambo.booking-api.skypicker.com
@@ -199,6 +207,7 @@
 *.msem-backoff-pain-review-demo.backoff-review-sandbox.skypicker.com
 *.mvdog.skypicker.com
 *.mysql.skypicker.com
+*.n8n.skypicker.com
 *.nest.php-sandbox.skypicker.com
 *.network-fingerprints-collector-sandbox.skypicker.com
 *.no-iap.shot-prod.skypicker.com
@@ -218,6 +227,7 @@
 *.pidgy-rmq.php-sandbox.skypicker.com
 *.pidgy.php-sandbox.skypicker.com
 *.pkgsite.review.platform-sandbox.skypicker.com
+*.platform-agents.skypicker.com
 *.platform-prod.skypicker.com
 *.platform-production.skypicker.com
 *.platform-sandbox.skypicker.com
@@ -225,6 +235,7 @@
 *.plexus-sandbox.skypicker.com
 *.postgresql-db-mailing.review.php-sandbox.skypicker.com
 *.presence-tracker.cs-systems-sandbox.skypicker.com
+*.pricing-api-golang-sandbox.skypicker.com
 *.pricing-sandbox.skypicker.com
 *.pricing-vpc-sandbox.skypicker.com
 *.prod.skypicker.com
@@ -290,6 +301,7 @@
 *.staging-cs-api.skypicker.com
 *.staging-cs-ticketing.skypicker.com
 *.swagger-mailing.review.php-sandbox.skypicker.com
+*.taskinator.skypicker.com
 *.tequila-proxy-review-app.tequila-proxy-sandbox.skypicker.com
 *.tequila-proxy-sandbox.skypicker.com
 *.ticketing.cs-systems-sandbox.skypicker.com
@@ -299,6 +311,7 @@
 *.upload-keys.skypicker.com
 *.uros-test.php-sandbox.skypicker.com
 *.vault-prod.skypicker.com
+*.waytogo.skypicker.com
 *.waytogo-sandbox.skypicker.com
 *.workforce-frontend.iap.review.balkan-sandbox.skypicker.com
 *.workforce-pain.iap.balkan-sandbox.skypicker.com

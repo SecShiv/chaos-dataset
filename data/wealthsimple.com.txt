@@ -2,6 +2,7 @@
 *.wealthsimple.com
 *.builds.wealthsimple.com
 *.cash-i2c-proxy.wealthsimple.com
+*.crypto.wealthsimple.com
 *.i2c-push-notifications.wealthsimple.com
 *.mtasks.trebuchet.iad.wealthsimple.com
 *.prod.iad.wealthsimple.com
@@ -47,6 +48,7 @@ cloudflare-edge.wealthsimple.com
 code.wealthsimple.com
 codebreaker.wealthsimple.com
 compliance-documents.cdn.wealthsimple.com
+crypto.wealthsimple.com
 cs-tools.wealthsimple.com
 cs-tools-satori.wealthsimple.com
 cs-tools-satori-staging.wealthsimple.com
@@ -158,4 +160,3 @@ www-staging.wealthsimple.com
 www.interac-sso.wealthsimple.com
 www.uk-brokerage.prod.iad.wealthsimple.com
 www.uk-brokerage.staging.iad.wealthsimple.com
-www2-staging.wealthsimple.com

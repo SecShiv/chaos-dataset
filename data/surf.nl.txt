@@ -3,6 +3,7 @@
 *.argos.surf.nl
 *.ci-backstage-record-harvester.dev.sdp.surf.nl
 *.ci-cors-record-harvester.dev.sdp.surf.nl
+*.ci-docker-proxy-record-harvester.dev.sdp.surf.nl
 *.ci-edurep-parsing-record-harvester.dev.sdp.surf.nl
 *.ci-feat-nplsinf-761-record-harvester.dev.sdp.surf.nl
 *.ci-file-names-record-harvester.dev.sdp.surf.nl
@@ -20,6 +21,7 @@
 *.ci-renovate-ghcr-io-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-lock-fi-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-minio-m-record-harvester.dev.sdp.surf.nl
+*.ci-renovate-mypy-1--record-harvester.dev.sdp.surf.nl
 *.ci-renovate-node-lt-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-pin-dep-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-pydanti-record-harvester.dev.sdp.surf.nl
@@ -839,6 +841,7 @@ ci-renovate-cr-surf-backstage.dev.sdp.surf.nl
 ci-renovate-cr-surf-monitoring.dev.sdp.surf.nl
 ci-renovate-eslint--admin.cxp.dev.sdp.surf.nl
 ci-renovate-localst-monitoring.dev.sdp.surf.nl
+ci-renovate-mypy-1--monitoring.dev.sdp.surf.nl
 ci-renovate-node-22-backstage.dev.sdp.surf.nl
 ci-renovate-node-lt-admin.cxp.dev.sdp.surf.nl
 ci-renovate-postgre-monitoring.dev.sdp.surf.nl
@@ -1173,6 +1176,12 @@ entrust-slave2.int.ia.surf.nl
 entrust-ssp1.ia.surf.nl
 entrust-ssp1.int.ia.surf.nl
 epc1.surf.nl
+epic-pid.storage.surf.nl
+epic7.storage.surf.nl
+epic8.storage.surf.nl
+epictest.storage.surf.nl
+epictest2.storage.surf.nl
+epictest3.storage.surf.nl
 erasmus-plus.pilot1.sram.surf.nl
 es.ece.secops.surf.nl
 esd.surf.nl
@@ -2557,6 +2566,9 @@ intranet-prod.surf.nl
 intranet-test.surf.nl
 ires03p.ia.surf.nl
 irma.eduid.lab.surf.nl
+irods3.storage.surf.nl
+irodstest1.storage.surf.nl
+irodstest2.storage.surf.nl
 isms.surf.nl
 issuer.exp.sram.lab.surf.nl
 issuer.issuer.dev.ssi.lab.surf.nl

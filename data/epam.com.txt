@@ -138,6 +138,7 @@
 *.apps.bumblebee.mdtu-ddm.projects.epam.com
 *.apps.categorization.mdtu-ddm.projects.epam.com
 *.apps.cd-environment.mdtu-ddm.projects.epam.com
+*.apps.celestia.mdtu-ddm.projects.epam.com
 *.apps.ceph-gp3-test.mdtu-ddm.projects.epam.com
 *.apps.cert-fix-check.mdtu-ddm.projects.epam.com
 *.apps.certs-fix.mdtu-ddm.projects.epam.com
@@ -446,6 +447,7 @@
 *.cl1-default-lb.epm-iass-anthos-aop.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-auto.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-bsrv.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-iass-anthos-bsrv.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-bstg.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-bwf.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-cgam.eu.gcp.cloudapp.epam.com
@@ -614,6 +616,7 @@
 *.cl2-default-lb.epm-hive-anthos1.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-hrms-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-iass-ant-paasmon.eu.gcp.cloudapp.epam.com
+*.cl2-default-lb.epm-iass-anthos-aop.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-iass-anthos-itwp.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-iass-anthos-paas.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-iass-anthos-test.eu.gcp.cloudapp.epam.com
@@ -1037,6 +1040,7 @@ admin-dev.epm-bpmg.projects.epam.com
 admin-portal.epam.epm-slkr.projects.epam.com
 admin-portal.tesla.epm-slkr.projects.epam.com
 admin-portal.walmart.epm-slkr.projects.epam.com
+admin-ui-dev.epm-bpmg.projects.epam.com
 admin-ui-v2.preship.gcp.gnrg-osdu.projects.epam.com
 admin-ui.preship.gcp.gnrg-osdu.projects.epam.com
 admin-ui.yrykhter.gcp.gnrg-osdu.projects.epam.com
@@ -1311,6 +1315,7 @@ api.broodmother.mdtu-ddm.projects.epam.com
 api.bumblebee.mdtu-ddm.projects.epam.com
 api.categorization.mdtu-ddm.projects.epam.com
 api.cd-environment.mdtu-ddm.projects.epam.com
+api.celestia.mdtu-ddm.projects.epam.com
 api.ceph-exp.mdtu-ddm.projects.epam.com
 api.ceph-gp3-test.mdtu-ddm.projects.epam.com
 api.ceph-test.mdtu-ddm.projects.epam.com
@@ -4687,6 +4692,7 @@ llm-research-app-everest-billing-dev.llm.lab.epam.com
 llm-research-app-everest-billing-prod.llm.lab.epam.com
 llm-research-app-experiment-prod.llm.lab.epam.com
 llm-research-app-genaihub-dev.llm.lab.epam.com
+llm-research-app-genaihub-feature.llm.lab.epam.com
 llm-research-app-genaihub-prod.llm.lab.epam.com
 llm-research-app-projectsearch-dev.llm.lab.epam.com
 llm-research-app-projectsearch-prod.llm.lab.epam.com
@@ -6498,6 +6504,8 @@ staging-ext.ai.lab.epam.com
 staging-finance.delivery.epam.com
 staging-hep-elearn.epm-mooc.projects.epam.com
 staging-msdp-elearn.epm-mooc.projects.epam.com
+staging-palm.epm-mooc.projects.epam.com
+staging-rai.lab.epam.com
 staging-smartlocker.lab.epam.com
 staging-upskill-elearn-uz.epm-mooc.projects.epam.com
 staging-upskill-elearn.epm-mooc.projects.epam.com
