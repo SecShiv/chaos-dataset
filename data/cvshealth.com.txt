@@ -4206,6 +4206,7 @@ internal-argocd-non-prod.hcb-west-atc-gke.cvshealth.com
 internal-argocd-non-prod.iaaslab-dev.cvshealth.com
 internal-argocd-non-prod.iaaslab-prod.cvshealth.com
 internal-argocd-non-prod.ists-preprod-gke.cvshealth.com
+internal-argocd-non-prod.myclaims-np-use4.cvshealth.com
 internal-argocd-non-prod.omni-io-test-gke.cvshealth.com
 internal-argocd-non-prod.pbm-dev-zdp-gke.cvshealth.com
 internal-argocd-non-prod.pbm-np-crbp-gke.cvshealth.com
@@ -4696,6 +4697,7 @@ internal-grafana-non-prod.hcb-west-atc-gke.cvshealth.com
 internal-grafana-non-prod.iaaslab-dev.cvshealth.com
 internal-grafana-non-prod.iaaslab-prod.cvshealth.com
 internal-grafana-non-prod.ists-preprod-gke.cvshealth.com
+internal-grafana-non-prod.myclaims-np-use4.cvshealth.com
 internal-grafana-non-prod.omni-io-test-gke.cvshealth.com
 internal-grafana-non-prod.pbm-dev-zdp-gke.cvshealth.com
 internal-grafana-non-prod.pbm-np-crbp-gke.cvshealth.com
@@ -4999,6 +5001,7 @@ internal-kiali-non-prod.hcb-west-atc-gke.cvshealth.com
 internal-kiali-non-prod.iaaslab-dev.cvshealth.com
 internal-kiali-non-prod.iaaslab-prod.cvshealth.com
 internal-kiali-non-prod.ists-preprod-gke.cvshealth.com
+internal-kiali-non-prod.myclaims-np-use4.cvshealth.com
 internal-kiali-non-prod.omni-io-test-gke.cvshealth.com
 internal-kiali-non-prod.pbm-dev-zdp-gke.cvshealth.com
 internal-kiali-non-prod.pbm-np-crbp-gke.cvshealth.com
@@ -5324,6 +5327,7 @@ internal-non-prod.iaaslab-prod.cvshealth.com
 internal-non-prod.intake-orchid-dev2-rx-nextgen.cvshealth.com
 internal-non-prod.ists-preprod-gke.cvshealth.com
 internal-non-prod.ivorya-qa-techx-use4.cvshealth.com
+internal-non-prod.myclaims-np-use4.cvshealth.com
 internal-non-prod.omni-io-test-gke.cvshealth.com
 internal-non-prod.orangea-dev-techx.cvshealth.com
 internal-non-prod.orchida-dev-techx.cvshealth.com
@@ -5432,7 +5436,9 @@ internal-prod.dr-specialty-sprx.cvshealth.com
 internal-prod.dr.digital-health4life.cvshealth.com
 internal-prod.dr.digital-health4life-automation.cvshealth.com
 internal-prod.dss-rx-prod.cvshealth.com
+internal-prod.dss-rx-prod-automation2023.cvshealth.com
 internal-prod.dss-rx-prod.automation.cvshealth.com
+internal-prod.dss-rx-prod.automation1.cvshealth.com
 internal-prod.eccp-prod.cvshealth.com
 internal-prod.edml-prod-east-gke.cvshealth.com
 internal-prod.edp-coginiti-west.cvshealth.com
@@ -5682,6 +5688,7 @@ internal-prometheus-kubemetrics.iaaslab-dev.cvshealth.com
 internal-prometheus-kubemetrics.iaaslab-prod.cvshealth.com
 internal-prometheus-kubemetrics.io-prod-restrct-cmpt.cvshealth.com
 internal-prometheus-kubemetrics.ists-preprod-gke.cvshealth.com
+internal-prometheus-kubemetrics.myclaims-np-use4.cvshealth.com
 internal-prometheus-kubemetrics.observability-prod.cvshealth.com
 internal-prometheus-kubemetrics.omni-io.cvshealth.com
 internal-prometheus-kubemetrics.omni-io-dev.cvshealth.com
@@ -6024,6 +6031,7 @@ internal-tracing-non-prod.hcb-west-atc-gke.cvshealth.com
 internal-tracing-non-prod.iaaslab-dev.cvshealth.com
 internal-tracing-non-prod.iaaslab-prod.cvshealth.com
 internal-tracing-non-prod.ists-preprod-gke.cvshealth.com
+internal-tracing-non-prod.myclaims-np-use4.cvshealth.com
 internal-tracing-non-prod.omni-io-test-gke.cvshealth.com
 internal-tracing-non-prod.pbm-dev-zdp-gke.cvshealth.com
 internal-tracing-non-prod.pbm-np-crbp-gke.cvshealth.com
@@ -7507,6 +7515,7 @@ prod.dr.digital-health4life-automation.cvshealth.com
 prod.dss-rx-prod.cvshealth.com
 prod.dss-rx-prod-automation2023.cvshealth.com
 prod.dss-rx-prod.automation.cvshealth.com
+prod.dss-rx-prod.automation1.cvshealth.com
 prod.f5-gateway.cvshealth.com
 prod.gke-pbm-cte.cvshealth.com
 prod.messagingingress.internal.cvshealth.com

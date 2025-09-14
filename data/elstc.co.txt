@@ -370,12 +370,14 @@ dev-14175-geturl-en.app.elstc.co
 dev-14178-devquickstart-link.app.elstc.co
 dev-14182-seo-do-not-index.app.elstc.co
 dev-14210-devquickstart-defaultdetail.app.elstc.co
+dev-14243-use-cases-feedback.app.elstc.co
 dev-14392-devquickstart-or-l10n.app.elstc.co
 dev-14417-seo-tagline-image.app.elstc.co
 dev-14449-devquickstart-spacing-below.app.elstc.co
 dev-14851-structured-data.app.elstc.co
 dev-14912-videos-callout-locales.app.elstc.co
 dev-15025-unlocalize-pdf-fallback.app.elstc.co
+dev-15061-seo-canonical.app.elstc.co
 dev-15133-social-image.app.elstc.co
 dev-1833b.app.elstc.co
 dev-1834.app.elstc.co
@@ -494,6 +496,7 @@ dev-apptranslatecontent-gh14407.app.elstc.co
 dev-auth.ea-stargate.elstc.co
 dev-banner-refactor.app.elstc.co
 dev-blog-category-detail-pagination.app.elstc.co
+dev-blog-l10n-labels-15605.app.elstc.co
 dev-blog-toc-15605.app.elstc.co
 dev-blogarchivedetail-15968.app.elstc.co
 dev-blogarchiveoverview-gh14237.app.elstc.co
@@ -509,6 +512,7 @@ dev-blogoverview-gh14238.app.elstc.co
 dev-blogsidebar-gh12801.app.elstc.co
 dev-blogv2-gh13760-13766.app.elstc.co
 dev-blogv2-gh14105.app.elstc.co
+dev-blogv2-l10n-15640-15641.app.elstc.co
 dev-blogv2banner-gh13790.app.elstc.co
 dev-blogv2quotes-gh13766.app.elstc.co
 dev-blogvideo.app.elstc.co
@@ -539,6 +543,7 @@ dev-cloudregions-gh14241.app.elstc.co
 dev-cloudregionsfixes.app.elstc.co
 dev-cms-redirect.app.elstc.co
 dev-code-owners.app.elstc.co
+dev-columnlisting.app.elstc.co
 dev-contact-gh14062.app.elstc.co
 dev-contact-gh14463.app.elstc.co
 dev-contentblock-gh12901-2.app.elstc.co
@@ -679,6 +684,7 @@ dev-quotes-gh14025.app.elstc.co
 dev-quotescarousel.app.elstc.co
 dev-reactaccessibleaccordion-gh13387.app.elstc.co
 dev-recommend.app.elstc.co
+dev-refactor-carousel-1.app.elstc.co
 dev-refactor-nav-1.app.elstc.co
 dev-regionalevents-gh13286.app.elstc.co
 dev-release-next-14-revert.app.elstc.co
@@ -695,7 +701,9 @@ dev-replace-function-swap.app.elstc.co
 dev-restructure.app.elstc.co
 dev-robots-seo-16067.app.elstc.co
 dev-rp-14723-blog-rss.app.elstc.co
+dev-sanity-seo-bugs-14474.app.elstc.co
 dev-search-autosuggest.app.elstc.co
+dev-search-l10n-15631.app.elstc.co
 dev-search-locales-gh12698.app.elstc.co
 dev-seo-bugs.app.elstc.co
 dev-seo-gh12586.app.elstc.co
@@ -703,6 +711,7 @@ dev-serverless-gh12657.app.elstc.co
 dev-signupcta-refactor.app.elstc.co
 dev-single-intent-layout.app.elstc.co
 dev-social-image-15133.app.elstc.co
+dev-source-code-15308.app.elstc.co
 dev-static-contributor.app.elstc.co
 dev-static-json-reader.app.elstc.co
 dev-static-json-writer.app.elstc.co
@@ -892,6 +901,7 @@ foobar3.igor-cert-manager-test.dev.cld.elstc.co
 foobar5.igor-cert-manager-test.dev.cld.elstc.co
 gcp-qa-us-central1-app-1-gke.qa.cld.elstc.co
 gcp.qa.cld.elstc.co
+genesis.cd.dev.cld.elstc.co
 geo.prod-emea.eden.elstc.co
 giss.app.elstc.co
 github-events.app.elstc.co
@@ -9043,6 +9053,7 @@ nginx-ingress-test-66571.ea-demo-prod.elstc.co
 nginx-ingress-test-66576.ea-demo-prod.elstc.co
 nginx-ingress-test-66585.ea-release.elstc.co
 nginx-ingress-test-66586.ea-registry-staging.elstc.co
+nginx-ingress-test-66594.ea-demo-prod.elstc.co
 nginx-ingress-test-66594.ea-registry-staging.elstc.co
 nginx-ingress-test-66598.ea-registry-staging.elstc.co
 nginx-ingress-test-66601.ea-registry-staging.elstc.co

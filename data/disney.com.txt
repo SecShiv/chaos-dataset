@@ -11405,6 +11405,7 @@ external-azure.media.disney.com
 external.andor.latest.use1.drt-dev.wdprapps.disney.com
 external.import-test-006.latest.use1.drt-dev.wdprapps.disney.com
 external.not-cassian.latest.use1.drt-dev.wdprapps.disney.com
+external.python.latest.use1.drt-dev.wdprapps.disney.com
 external.thatworked.latest.use1.drt-dev.wdprapps.disney.com
 extranet.disney.com
 extranet.611lab.disney.com
@@ -18863,6 +18864,7 @@ latest.dnxcapesvc.dlr.usw2.eks.wdprapps.disney.com
 latest.dnxcapesvc.wdw.use1.eks.wdprapps.disney.com
 latest.dnxcapesvc.wdw.usw2.eks.wdprapps.disney.com
 latest.dnxcastvas.dlr.eks.wdprapps.disney.com
+latest.dnxcastvas.dlr.usw2.eks.wdprapps.disney.com
 latest.dnxcastvas.wdw.eks.wdprapps.disney.com
 latest.dnxcastvas.wdw.usw2.eks.wdprapps.disney.com
 latest.dnxcomsvc.dlr.use1.eks.wdprapps.disney.com
@@ -18919,6 +18921,9 @@ latest.dpadmin-ui-new.wdprapps.disney.com
 latest.dpadmin-ui-temp.wdprapps.disney.com
 latest.dpadmin-ui.wdprapps.disney.com
 latest.dpayclient.wdprapps.disney.com
+latest.dpe-0.wdprapps.disney.com
+latest.dpe-1.wdprapps.disney.com
+latest.dpe-2.wdprapps.disney.com
 latest.dpe-adminui-dev.wdprapps.disney.com
 latest.dpe-adminui-dlp.wdprapps.disney.com
 latest.dpe-cache-service-use1.wdprapps.disney.com
@@ -18935,6 +18940,7 @@ latest.dpe-kafka-1.wdprapps.disney.com
 latest.dpe-kafka-2.wdprapps.disney.com
 latest.dpe-kafka.wdprapps.disney.com
 latest.dpe-svc-wdw.wdprapps.disney.com
+latest.dpe.wdprapps.disney.com
 latest.dpep-commstool.wdprapps.disney.com
 latest.dpep-harness-demo.wdprapps.disney.com
 latest.dpepautomationsuite.wdprapps.disney.com
@@ -31024,6 +31030,7 @@ pubsdev2.disney.com
 pubsqa.disney.com
 pubsub.disney.com
 pubsub-dev.disney.com
+pubsub-dev.ebs.disney.com
 pubsub-dev.edh.disney.com
 pubsub-poc.edh.disney.com
 pubsub-poc2.edh.disney.com
@@ -31064,6 +31071,7 @@ pwa-wsa-stage.disney.com
 pxc-use1.wdprapps.disney.com
 pxc-wdw.gam-prod.wdprapps.disney.com
 pxc-wdw.wdprapps.disney.com
+python.latest.use1.drt-dev.wdprapps.disney.com
 pzmobile.disney.com
 q.glimpse-qa.studio.disney.com
 q.glimpse.studio.disney.com
@@ -35599,7 +35607,9 @@ stage.dnxcomsvc.f1.wdw.use1.eks.wdprapps.disney.com
 stage.dnxcomsvc.f2.dlr.use1.eks.wdprapps.disney.com
 stage.dnxcomsvc.f2.wdw.use1.eks.wdprapps.disney.com
 stage.dnxcomsvc.f3.dlr.use1.eks.wdprapps.disney.com
+stage.dnxcomsvc.f3.wdw.use1.eks.wdprapps.disney.com
 stage.dnxcomsvc.wdw.use1.eks.wdprapps.disney.com
+stage.dnxdinevas.dlr.use1.eks.wdprapps.disney.com
 stage.dnxdinevas.f1.wdw.use1.eks.wdprapps.disney.com
 stage.dnxdinevas.f2.dlr.use1.eks.wdprapps.disney.com
 stage.dnxdinevas.f2.wdw.use1.eks.wdprapps.disney.com
@@ -35621,6 +35631,7 @@ stage.dnxnfsvc.f3.dlr.use1.eks.wdprapps.disney.com
 stage.dnxnfsvc.f3.wdw.use1.eks.wdprapps.disney.com
 stage.dnxnfsvc.wdw.use1.eks.wdprapps.disney.com
 stage.dnxofrsvc.dlr.use1.eks.wdprapps.disney.com
+stage.dnxofrsvc.dlr.usw2.eks.wdprapps.disney.com
 stage.dnxofrsvc.f1.dlr.use1.eks.wdprapps.disney.com
 stage.dnxofrsvc.f1.wdw.use1.eks.wdprapps.disney.com
 stage.dnxofrsvc.f2.wdw.use1.eks.wdprapps.disney.com
@@ -44127,6 +44138,7 @@ www.dine-sci-svc-dlr.wdprapps.disney.com
 www.dining-menu-svc.wdprapps.disney.com
 www.discountcodes.disney.com
 www.discovery.studio.disney.com
+www.disney24.disney.com
 www.disneyb2b.disney.com
 www.disneychannel.disney.com
 www.disneycopyright.disney.com
@@ -45636,3 +45648,4 @@ zookeeper-stage.wdw.disney.com
 zookeeper.ams.disney.com
 zookeeper.ams-dev.disney.com
 zookeeper.ams-qa.disney.com
+ztp.studio.disney.com

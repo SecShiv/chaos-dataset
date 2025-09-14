@@ -91,6 +91,7 @@ acquisition-r10n-api-blue.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-r10n-api-green.k8s-prod-use4.p.gcp.oanda.com
 acquisition-r10n-api-green.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-r10n-api.k8s-prod-use4.p.gcp.oanda.com
+acquisition-r10n-api.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-reg-next-ui-blue.k8s-prod-use4.p.gcp.oanda.com.gcp.oanda.com
 acquisition-reg-next-ui-blue.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-reg-next-ui-green.k8s-prod-use4.p.gcp.oanda.com.gcp.oanda.com
@@ -98,6 +99,7 @@ acquisition-reg-next-ui-green.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-reg-next-ui.k8s-stg-usc1.s.gcp.oanda.com
 acquisition-reg-winners.k8s-uat-usc1.u.gcp.oanda.com
 acquisition-smart-capture.k8s-uat-usc1.u.gcp.oanda.com
+activation-eid-api.k8s-prod-use4.p.gcp.oanda.com
 admin.svc.ny4.oanda.com
 affiliate-admin.oanda.com
 akamai-au.oanda.com
@@ -476,6 +478,7 @@ kafka-demo.svc.vm.p.gcp.oanda.com
 kafka-demo.svc.vm.s.gcp.oanda.com
 kafka-ui-demo.k8s-prod-use4.p.gcp.oanda.com
 kafka-ui-demo.k8s-stg-usc1.s.gcp.oanda.com
+kafka-ui.k8s-prod-use4.p.gcp.oanda.com
 kafka-ui.k8s-uat-usc1.u.gcp.oanda.com
 kafka.svc.vm.p.gcp.oanda.com
 kafka.svc.vm.s.gcp.oanda.com
@@ -735,6 +738,7 @@ pic-mt-admin.k8s-prod-euw3.p.gcp.oanda.com
 pic-mt-admin.k8s-stg-euw3.s.gcp.oanda.com
 pic-mt-admin.k8s-uat-euw3.u.gcp.oanda.com
 pic-mt-otms-mobile-gateway.k8s-uat-euw3.u.gcp.oanda.com
+pic-mt5-feeder-oj-demo-1.k8s-prod-asne1.p.gcp.oanda.com
 pic-mt5-feeder-oj-stage-1.k8s-stg-asne1.s.gcp.oanda.com
 pic-mt5-feeder-oj-uat-1.k8s-uat-asne1.u.gcp.oanda.com
 pic-mt5-manager-oanda-demo-1.k8s-prod-use4.p.gcp.oanda.com
@@ -1133,12 +1137,14 @@ sitegateway-admin-heavy-demo.k8s-prod-use4.p.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-stg-asne1.s.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-stg-usc1.s.gcp.oanda.com
+sitegateway-admin-heavy.k8s-prod-use4.p.gcp.oanda.com
 sitegateway-admin-heavy.k8s-stg-asne1.s.gcp.oanda.com
 sitegateway-admin-heavy.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway-admin-heavy.k8s-uat-asne1.u.gcp.oanda.com
 sitegateway-admin-heavy.k8s-uat-euw3.u.gcp.oanda.com
 sitegateway-admin-heavy.k8s-uat-usc1.u.gcp.oanda.com
 sitegateway-admin.k8s-dev-usc1.d.gcp.oanda.com
+sitegateway-admin.k8s-prod-euw3.p.gcp.oanda.com
 sitegateway-admin.k8s-stg-asne1.s.gcp.oanda.com
 sitegateway-admin.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway-admin.k8s-stg-usc1.s.gcp.oanda.com
@@ -1164,6 +1170,8 @@ sitegateway-streaming.k8s-uat-asne1.u.gcp.oanda.com
 sitegateway-streaming.k8s-uat-euw3.u.gcp.oanda.com
 sitegateway-streaming.k8s-uat-usc1.u.gcp.oanda.com
 sitegateway.k8s-dev-usc1.d.gcp.oanda.com
+sitegateway.k8s-prod-asne1.p.gcp.oanda.com
+sitegateway.k8s-prod-euw3.p.gcp.oanda.com
 sitegateway.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway.k8s-uat-asne1.u.gcp.oanda.com
 sitegateway.k8s-uat-euw3.u.gcp.oanda.com
@@ -1270,6 +1278,7 @@ tms-feeder-live.k8s-uat-euw3.u.gcp.oanda.com
 tms-feeder.oanda-live-fx-dmz-cluster-2.gcp.oanda.com
 tms-feeder.oanda-stglive-fx-dmz-cluster-1.gcp.oanda.com
 tms-feeder.oanda-uat-fx-dmz-cluster-2.gcp.oanda.com
+tms-fxtradeservice.k8s-uat-euw3.u.gcp.oanda.com
 tms-quotes-live-dark.k8s-uat-euw3.u.gcp.oanda.com
 tms-quotes-live.k8s-uat-euw3.u.gcp.oanda.com
 tms-savequotes-dark.oanda-stglive-fx-dmz-cluster-1.gcp.oanda.com

@@ -342,6 +342,7 @@ usw2.preprod.upgrade.com
 usw2.prod.upgrade.com
 usw2.services.upgrade.com
 usw2.stage.upgrade.com
+vault-all.use1.cidev.upgrade.com
 vault-all.use1.prod.upgrade.com
 vault-all.usw2.poc.upgrade.com
 vault-all.usw2.prod.upgrade.com
@@ -350,10 +351,12 @@ vault-batch-decrypt.use1.prod.upgrade.com
 vault-batch-decrypt.usw2.prod.upgrade.com
 vault-batch-encrypt.use1.prod.upgrade.com
 vault-batch-encrypt.usw2.prod.upgrade.com
+vault-standby.use1.cidev.upgrade.com
 vault-standby.use1.prod.upgrade.com
 vault-standby.usw2.poc.upgrade.com
 vault-standby.usw2.prod.upgrade.com
 vault-standby.usw2.services.upgrade.com
+vault.use1.cidev.upgrade.com
 vault.use1.poc.upgrade.com
 vault.use1.prod.upgrade.com
 vault.usw2.poc.upgrade.com
@@ -410,5 +413,3 @@ www.tube2.upgrade.com
 www.tun.upgrade.com
 www.vault.use1.prod.upgrade.com
 www.vault.usw2.poc.upgrade.com
-www.vault.usw2.prod.upgrade.com
-www.view.email.upgrade.com

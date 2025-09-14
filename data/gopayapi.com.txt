@@ -61,6 +61,7 @@ customer-tagihan.sandbox.gopayapi.com
 customer-tagihan.staging.gopayapi.com
 customer-traffic-mtls.i.di-production.gopayapi.com
 customer-traffic-mtls.i.di-staging.gopayapi.com
+customer-web.staging.gopayapi.com
 customer.sandbox.gopayapi.com
 customer.staging.gopayapi.com
 customers.gopayapi.com
@@ -171,6 +172,7 @@ infrastructure-engineering.governance.team.customer-iads.staging.gopayapi.com
 infrastructure-engineering.governance.team.customer-tagihan.gopayapi.com
 infrastructure-engineering.governance.team.customer-tagihan.sandbox.gopayapi.com
 infrastructure-engineering.governance.team.customer-tagihan.staging.gopayapi.com
+infrastructure-engineering.governance.team.customer-web.staging.gopayapi.com
 infrastructure-engineering.governance.team.customer.sandbox.gopayapi.com
 infrastructure-engineering.governance.team.customer.staging.gopayapi.com
 infrastructure-engineering.governance.team.driver1-gateway.gopayapi.com
@@ -546,3 +548,7 @@ waf-test-prod-0002.gopayapi.com
 waf-test-prod-0003.gopayapi.com
 whatsapp.gopayapi.com
 withdrawal.gopayapi.com
+withdrawal-pgw.gopayapi.com
+www.internal.gopayapi.com
+www.internal-stg.gopayapi.com
+www.stg.whatsapp.gopayapi.com
