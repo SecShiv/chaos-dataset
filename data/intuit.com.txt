@@ -6412,7 +6412,9 @@ aresenrichconfigqal-pre-production-bbgcmh.pd.idps.a.intuit.com
 argo-cloudops-dev.argocloudopsprdusw2.iks2.a.intuit.com
 argo-dataflow-v2-dev.techpiprdusw2.iks2.a.intuit.com
 argo-dataflow-x-dev.techpiprdusw2.iks2.a.intuit.com
+argo-events.cp-e2e.idps.a.intuit.com
 argo-wf-examples-delet-8543639.sbgqboprodusw2.iks2.a.intuit.com
+argo-workflows.cp-e2e.idps.a.intuit.com
 argo.apigw-id-prd-use2-k8s.iks2.a.intuit.com
 argo.apigw-id-prd-usw2-k8s.iks2.a.intuit.com
 argo.apigw-idx-prd-use2-k8s.iks2.a.intuit.com
@@ -6482,6 +6484,7 @@ argo.sbgqboprodusw2.iks2.a.intuit.com
 argo.sppdlswl1prdusw2.iks2.a.intuit.com
 argo.sppdlswl2prdusw2.iks2.a.intuit.com
 argocd-production-56erqf.pd.idps.a.intuit.com
+argocd.cp-e2e.idps.a.intuit.com
 argocd.iksm-ppd.a.intuit.com
 argocd.numalogicprometheususw2.a.intuit.com
 argocd.paas-cplane-prod-west2.a.intuit.com
@@ -30470,6 +30473,7 @@ grafana-privacera-dev.privecera-portal-dev.a.intuit.com
 grafana-production-mfn1xa.pd.idps.a.intuit.com
 grafana.a.intuit.com
 grafana.argocd.tools-k8s-prd.a.intuit.com
+grafana.cp-e2e.idps.a.intuit.com
 grafana.profile-ppd.a.intuit.com
 grafana.profile-prd.a.intuit.com
 grafana.profile-preprod.a.intuit.com
@@ -41278,6 +41282,9 @@ intcollabs-prd-request-service-stable.pcgprduse2.iks2.a.intuit.com
 intcollabs-prd-request-service-stable.pcgprdusw2.iks2.a.intuit.com
 intcollabs-prd-request-service.pcgprduse2.iks2.a.intuit.com
 intcollabs-prd-request-service.pcgprdusw2.iks2.a.intuit.com
+intcollabs-prd-returndownload-service-albc-desired.pcgprduse2.iks2.a.intuit.com
+intcollabs-prd-returndownload-service-albc-root.pcgprduse2.iks2.a.intuit.com
+intcollabs-prd-returndownload-service-albc-stable.pcgprduse2.iks2.a.intuit.com
 intcollabs-prd-returndownload-service.pcgprduse2.iks2.a.intuit.com
 intcollabs-prd-returndownload-service.pcgprdusw2.iks2.a.intuit.com
 intcollabs-prd-schedautojob.vepprduse2.iks2.a.intuit.com
@@ -93038,4 +93045,3 @@ zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
 zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
-zycada.quickbooks.intuit.com

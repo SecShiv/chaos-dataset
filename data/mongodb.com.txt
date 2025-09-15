@@ -17,6 +17,7 @@
 *.atlas-streams.staging.corp.mongodb.com
 *.autotc-inspector-staging.corp.mongodb.com
 *.autotc-inspector.corp.mongodb.com
+*.aws.atlas-gateway.cloud.mongodb.com
 *.aws.realm.mongodb.com
 *.aws.realm-dev.mongodb.com
 *.aws.realm-qa.mongodb.com
@@ -343,6 +344,7 @@ allhands.corp.mongodb.com
 amphora.corp.mongodb.com
 amundsen-acme.devops.test.corp.mongodb.com
 analytics-deet3190.deet.staging.corp.mongodb.com
+analytics.deet.staging.corp.mongodb.com
 analytics.prod.corp.mongodb.com
 analytics.staging.corp.mongodb.com
 analytics.test.corp.mongodb.com
@@ -455,6 +457,7 @@ atlas-cluster-ws.us-east-1.aws.cloud-stage.mongodb.com
 atlas-cluster-ws.us-east-2.aws.cloud-stage.mongodb.com
 atlas-data-lake.prod.corp.mongodb.com
 atlas-data-lake.staging.corp.mongodb.com
+atlas-gateway.cloud.mongodb.com
 atlas-pricing.corp.mongodb.com
 atlas-pricing.corps.staging.corp.mongodb.com
 augmeta.data-governance.prod.corp.mongodb.com
@@ -1056,6 +1059,7 @@ httpbin.test.corp.mongodb.com
 httpint.devops.test.corp.mongodb.com
 hub.mongodb.com
 hub.corp.mongodb.com
+ig-p.test.corp.mongodb.com
 images.go.mongodb.com
 incidentlog.skunkworks.staging.corp.mongodb.com
 info.mongodb.com
@@ -1136,6 +1140,7 @@ learn-sandbox.mongodb.com
 learn-staging.mongodb.com
 leasecalcs.corp.mongodb.com
 legacy.support.mongodb.com
+link-ui.data-governance.prod.corp.mongodb.com
 link-ui.data-governance.staging.corp.mongodb.com
 link.corp.mongodb.com
 link.data-governance.staging.corp.mongodb.com
@@ -1957,3 +1962,5 @@ yuzhou-web-app.devops.test.corp.mongodb.com
 yuzhou-web-app.test.corp.mongodb.com
 yuzhou.devops.test.corp.mongodb.com
 yuzhou2.devops.test.corp.mongodb.com
+zd-approvals.corp.mongodb.com
+zen-approvals.corp.mongodb.com

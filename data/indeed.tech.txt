@@ -172,6 +172,7 @@
 11faacf59ee596a54205b0ad7eecf119.loom-inference.awscmh5.k8s.indeed.tech
 11faacf59ee596a54205b0ad7eecf119.loom-inference.awscmhqa5.k8s.indeed.tech
 1362ddc2de98eb6354941662dc46cf1a.loom-inference.awscmhqa4.k8s.indeed.tech
+149dbfb31a7201f0a1e04413665e272d.loom-inference.awscmhqa4.k8s.indeed.tech
 15e74f89cd94e16c9b4afdf409f71cb2.agnes-amds-serving.science.jobseeker.awscmhqa2.k8s.indeed.tech
 15e74f89cd94e16c9b4afdf409f71cb2.agnes-amds-serving.science.jobseeker.awscmhqa5.k8s.indeed.tech
 1b16e32277ab4d09167da9fe50ce6b93.loom-inference.awscmhqa5.k8s.indeed.tech
@@ -226,6 +227,7 @@
 5741165712a95b74ac4aec2287683a4a.loom-inference.awscmhqa5.k8s.indeed.tech
 5860c5eae8214721c2d550f04122d7fb.loom-inference.awscmhqa5.k8s.indeed.tech
 5a3405a21c0fbd0109abe02d13ec8b8f.loom-inference.awscmhqa5.k8s.indeed.tech
+5cc9317b58c93d93de2160cd6d18d24d.loom-inference.awscmhqa4.k8s.indeed.tech
 60a5d90984cfd6ebca2aacab9508cae0.cert-manager.awsdca2.k8s.indeed.tech
 677b911e29b14a50387811911a435ae7.loom-inference.awscmhqa5.k8s.indeed.tech
 68eafed438fbd5157abb0add0f6351a2.loom-inference.awscmhqa5.k8s.indeed.tech
@@ -866,6 +868,7 @@ arc.awsdca.k8s.indeed.tech
 arc.awsdca2.k8s.indeed.tech
 arc.awsdub.k8s.indeed.tech
 arc.awsdub2.k8s.indeed.tech
+arc.awsfra1.k8s.indeed.tech
 arc.awsnrt.k8s.indeed.tech
 arc.awsnrt2.k8s.indeed.tech
 arc.awsnrt3.k8s.indeed.tech
@@ -2560,12 +2563,15 @@ e-invoicing-engine-prod.awscmhinfra3.k8s.indeed.tech
 e-invoicing-engine-qa.awscmhqa2.k8s.indeed.tech
 e-invoicing-engine-qa.awscmhqa5.k8s.indeed.tech
 e-invoicing-engine-stg.awscmhqa2.k8s.indeed.tech
+e-invoicing-engine-stg.awscmhqa5.k8s.indeed.tech
 e-invoicing-engine-uat.awscmhinfra2.k8s.indeed.tech
+e-invoicing-engine-uat.awscmhinfra3.k8s.indeed.tech
 e-invoicing-task-manager-prod.awscmhinfra2.k8s.indeed.tech
 e-invoicing-task-manager-prod.awscmhinfra3.k8s.indeed.tech
 e-invoicing-task-manager-qa.awscmhqa2.k8s.indeed.tech
 e-invoicing-task-manager-qa.awscmhqa5.k8s.indeed.tech
 e-invoicing-task-manager-stg.awscmhqa2.k8s.indeed.tech
+e-invoicing-task-manager-stg.awscmhqa5.k8s.indeed.tech
 e-invoicing-task-manager-uat.awscmhinfra2.k8s.indeed.tech
 e-invoicing-task-manager-uat.awscmhinfra3.k8s.indeed.tech
 e-invoicing.dev.indeed.tech
@@ -3947,6 +3953,9 @@ idash.cmhqa1.k8s.indeed.tech
 idash.cmhqa3.k8s.indeed.tech
 idash.data.indeed.tech
 idash.data.awscmh5.k8s.indeed.tech
+idash.data.qa.indeed.tech
+idash.data.qa.awscmhqa4.k8s.indeed.tech
+idash.data.qa.us-east-2.indeed.tech
 idash.data.us-east-2.indeed.tech
 idash.qa.k8s.indeed.tech
 ide.wombat.indeed.tech
@@ -4991,6 +5000,7 @@ kafdrop-core-sponsorship.awscmhqa5.k8s.indeed.tech
 kafdrop-insertion-order.awscmh2.k8s.indeed.tech
 kafdrop-insertion-order.awscmh5.k8s.indeed.tech
 kafdrop-insertion-order.awscmhqa2.k8s.indeed.tech
+kafdrop-insertion-order.awscmhqa5.k8s.indeed.tech
 kafdrop-jsbe.awscmh2.k8s.indeed.tech
 kafdrop-jsbe.awscmhqa2.k8s.indeed.tech
 kafdrop-jsbe.awscmhqa5.k8s.indeed.tech
@@ -6961,6 +6971,7 @@ npub-proxy.cmhqa2.k8s.indeed.tech
 npub-proxy.cmhqa3.k8s.indeed.tech
 npub-proxy.cmhstage.k8s.indeed.tech
 nrtprod.elk.indeed.tech
+nsync.awscmhinfra3.k8s.indeed.tech
 nvivek-bavs14.cmhqa2.k8s.indeed.tech
 oauth-filter-test-splat.awscmhqa4.k8s.indeed.tech
 oauth-filter-test.awscmhqa4.k8s.indeed.tech
@@ -7436,6 +7447,7 @@ private-endpoint-proxy-api.qa.indeed.tech
 prizmdoc-qa.awscmhqa2.k8s.indeed.tech
 prizmdoc-service.awscmh5.k8s.indeed.tech
 prizmdoc-service.awscmh6.k8s.indeed.tech
+prizmdoc-service.awsdub2.k8s.indeed.tech
 prizmdoc-service.awsnrt3.k8s.indeed.tech
 prizmdoc-service.awspdx2.k8s.indeed.tech
 prizmdoc-service.awsyul2.k8s.indeed.tech
@@ -8497,6 +8509,7 @@ revsys-engine-stg.awscmhinfra.k8s.indeed.tech
 revsys-engine-stg.awscmhqa2.k8s.indeed.tech
 revsys-engine-stg.infra.k8s.indeed.tech
 revsys-engine-uat.awscmhinfra2.k8s.indeed.tech
+revsys-engine-uat.awscmhinfra3.k8s.indeed.tech
 revsys-minio-prod.awscmhinfra2.k8s.indeed.tech
 revsys-minio-qa.awscmhqa.k8s.indeed.tech
 revsys-minio-qa.awscmhqa2.k8s.indeed.tech
@@ -8800,6 +8813,7 @@ security-spring-boot.awscmhprod.k8s.indeed.tech
 security-spring-boot.awscmhqa.k8s.indeed.tech
 securitydashboard.indeed.tech
 seg-india-vortex-cluster-qa-ldap.awscmhqa5.k8s.indeed.tech
+seg-india-vortex-cluster-qa-saml.awscmhqa5.k8s.indeed.tech
 segment-configuration-service-bdavitt.devlab.awscmhqa3.k8s.indeed.tech
 segment-configuration-service-jfong.devlab.awscmhqa3.k8s.indeed.tech
 segment-configuration-service-mfaquih.devlab.awscmhqa3.k8s.indeed.tech
@@ -8895,6 +8909,7 @@ sess.cmhstage.k8s.indeed.tech
 setup.sso.qa.indeed.tech
 sgtm.indeed.tech
 sgtm-cluster.awscmh2.k8s.indeed.tech
+sgtm-cluster.awscmh6.k8s.indeed.tech
 sgtm-cluster.awscmhqa5.k8s.indeed.tech
 sgtm-cluster.awsdub.k8s.indeed.tech
 sgtm-cluster.awsdub2.k8s.indeed.tech
@@ -10404,6 +10419,8 @@ vespa-admin-gen.awsdub2.k8s.indeed.tech
 vespa-admin-gen.awsnrt3.k8s.indeed.tech
 vespa-admin-gen.awspdx2.k8s.indeed.tech
 vespa-admin-gen.awssyd2.k8s.indeed.tech
+vespa-admin-tss.awscmh5.k8s.indeed.tech
+vespa-admin-tss.awscmh7.k8s.indeed.tech
 vespa-admin-tss.awscmhqa4.k8s.indeed.tech
 vespa-admin-tss.awspdx2.k8s.indeed.tech
 vespa-admin-tss.awsyul2.k8s.indeed.tech
@@ -10475,9 +10492,12 @@ vespa-config-tss-p.awsyul2.k8s.indeed.tech
 vespa-config-tss-s.awscmh5.k8s.indeed.tech
 vespa-config-tss-s.awscmh7.k8s.indeed.tech
 vespa-config-tss-s.awscmhqa4.k8s.indeed.tech
+vespa-config-tss-s.awsyul2.k8s.indeed.tech
 vespa-config-tss.awscmh5.k8s.indeed.tech
+vespa-config-tss.awscmh7.k8s.indeed.tech
 vespa-config-tss.awscmhqa4.k8s.indeed.tech
 vespa-config-tss.awspdx2.k8s.indeed.tech
+vespa-config-tss.awsyul2.k8s.indeed.tech
 vespa-config.awscmh3.k8s.indeed.tech
 vespa-config.awscmhqa3.k8s.indeed.tech
 vespa-config.awscmhqa4.k8s.indeed.tech
@@ -10522,7 +10542,10 @@ vespa-feed-gen.awspdx2.k8s.indeed.tech
 vespa-feed-gen.awssyd2.k8s.indeed.tech
 vespa-feed-gen.awsyul2.k8s.indeed.tech
 vespa-feed-tss-dev.awscmhqa4.k8s.indeed.tech
+vespa-feed-tss.awscmh5.k8s.indeed.tech
+vespa-feed-tss.awscmh7.k8s.indeed.tech
 vespa-feed-tss.awscmhqa4.k8s.indeed.tech
+vespa-feed-tss.awspdx2.k8s.indeed.tech
 vespa-feed.awscmh3.k8s.indeed.tech
 vespa-feed.awscmhqa3.k8s.indeed.tech
 vespa-feed.awscmhqa4.k8s.indeed.tech
@@ -10544,8 +10567,10 @@ vespa-query-gen.awspdx2.k8s.indeed.tech
 vespa-query-gen.awssyd2.k8s.indeed.tech
 vespa-query-gen.awsyul2.k8s.indeed.tech
 vespa-query-tss-dev.awscmhqa4.k8s.indeed.tech
+vespa-query-tss.awscmh5.k8s.indeed.tech
 vespa-query-tss.awscmhqa4.k8s.indeed.tech
 vespa-query-tss.awspdx2.k8s.indeed.tech
+vespa-query-tss.awsyul2.k8s.indeed.tech
 vespa-query.awscmh3.k8s.indeed.tech
 vespa-query.awscmhqa3.k8s.indeed.tech
 vespa-query.awscmhqa4.k8s.indeed.tech

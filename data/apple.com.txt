@@ -9944,6 +9944,8 @@ acmp-val.corp.apple.com
 acmp-val.g.apple.com
 acmp-val.mdn.spbz.apple.com
 acmp-val.rno.spbz.apple.com
+acmp.corp.apple.com
+acmp.g.apple.com
 acmultimediachat.apple.com
 acmultimediachat-dr.apple.com
 acmultimediachat-mdn.apple.com
@@ -13724,6 +13726,8 @@ cinnamon.apple.com
 cirrus.apple.com
 cisco-7000.wwdc.apple.com
 cisco3550.camel.apple.com
+citadelfactory-stage.awapne1.sbz.apple.com
+citadelfactory-stage.opsswe.ops.apple.com
 ckdashboardws.icloud.apple.com
 cl-dev.apple.com
 cl1.apple.com
@@ -14268,6 +14272,9 @@ cooljobs-uat-ext.apple.com
 cooljobs-usw2.apple.com
 coop-nk-test4.siri.apple.com
 copy.apple.com
+core-aws-crl2.corp.apple.com
+core-aws-facade.corp.apple.com
+core-aws-facade2.corp.apple.com
 core-pilot.corp.apple.com
 coremetrics.apple.com
 coremetrics-apse1.apple.com
@@ -24123,6 +24130,7 @@ ma-abuse-service.corp.apple.com
 ma-access-api-prod.apple.com
 ma-acm-dr-pbz-prod.apple.com
 ma-acm-dr-pbz-prod.spbz.apple.com
+ma-acmp-pbz-prod.apple.com
 ma-activity-prod.apple.com
 ma-albert-prod.apple.com
 ma-alula-prod.apple.com
@@ -26793,10 +26801,12 @@ mwp5-ty92-ssl.ls.apple.com
 mwp5-ty92.ls.apple.com
 mwp6-am31-ssl.ls.apple.com
 mwp6-apne1.ls.apple.com
+mwp6-apne2.ls.apple.com
 mwp6-eun1.ls.apple.com
 mwp6-euw1.ls.apple.com
 mwp6-hk02-ssl.ls.apple.com
 mwp6-hk02.ls.apple.com
+mwp6-kr.ls.apple.com
 mwp6-ms12-ssl.ls.apple.com
 mwp6-sl61-ssl.ls.apple.com
 mwp6-sl61.ls.apple.com
@@ -30606,6 +30616,7 @@ presidiooos-prod.apple.com
 pretender.corp.apple.com
 preview.cityofoz.vpw.ess.apple.com
 previewer.apple.com
+price-recon.acrbi.apple.com
 printservices.apple.com
 printservices-download-origin.apple.com
 prism.apple.com
@@ -32609,6 +32620,7 @@ rn-aatcportal.apple.com
 rn-access-api-prod.apple.com
 rn-acm-dr-pbz-prod.apple.com
 rn-acm-dr-pbz-prod.spbz.apple.com
+rn-acmp-pbz-prod.apple.com
 rn-acs-prod.apple.com
 rn-address-prod.apple.com
 rn-albert-prod.apple.com
@@ -33415,6 +33427,7 @@ rsa-rpc-catalog.apple.com
 rsgr1.apple.com
 rsgr2.apple.com
 rsis.apple.com
+rsn-tool.awusw2.spbz.apple.com
 rss-cma.apple.com
 rss-cma-pod1.apple.com
 rss-cma-pod2.apple.com
@@ -35715,6 +35728,8 @@ ssold.apple.com
 ssp.apple.com
 ssp-admin-all.corp.apple.com
 ssp-linux-admin-all.corp.apple.com
+sst-service-it-stage.rno.spbz.apple.com
+sst-service-it.rno.apple.com
 sst-service.corp.apple.com
 sst-service.mdn.spbz.apple.com
 sst-service.prz.spbz.apple.com
@@ -36779,6 +36794,11 @@ svc-partner-portal-qa.g.apple.com
 svpn-u.euro.apple.com
 svpn.euro.apple.com
 svs-facade-mdn.corp.apple.com
+svs-facade-pilot.corp.apple.com
+svs-facade-sh-pilot-mdn.corp.apple.com
+svs-facade-sh-pilot-mdn.mdn.spbz.apple.com
+svs-facade-sh-pilot.prz.apple.com
+svs-facade-sh-pilot.prz.spbz.apple.com
 svs-facade-sh.mdn.apple.com
 svs-facade-sh.mdn.spbz.apple.com
 svs-facade-sh.prz.apple.com
@@ -38496,6 +38516,9 @@ use1-capplan-pbz-isc.apple.com
 use1-capplan-pbz-isc.spbz.apple.com
 use1-cert-wallet.apple.com
 use1-contentreports-prod.apple.com
+use1-core-aws-crl2-pbz-prod.awuse1.spbz.apple.com
+use1-core-aws-facade-pbz-prod.awuse1.spbz.apple.com
+use1-core-aws-facade2-pbz-prod.awuse1.spbz.apple.com
 use1-d032-primary-stage.apple.com
 use1-data-appattest-aws-prod.apple.com
 use1-data-development-appattest-prod.apple.com
@@ -39779,6 +39802,9 @@ usw2-chat-xe06-shield.apple.com
 usw2-coachconnections-prod.apple.com
 usw2-collector-stage.apple.com
 usw2-contentreports-prod.apple.com
+usw2-core-aws-crl2-pbz-prod.awusw2.spbz.apple.com
+usw2-core-aws-facade-pbz-prod.awusw2.spbz.apple.com
+usw2-core-aws-facade2-pbz-prod.awusw2.spbz.apple.com
 usw2-covidtools-prod.apple.com
 usw2-cvp-webex-bridge-prod.apple.com
 usw2-cvp-webex-bridge-uat.apple.com

@@ -152,6 +152,11 @@
 *.vector-search.dev.databricks.com
 *.vector-search.staging.cloud.databricks.com
 *.vector-search.staging.gcp.databricks.com
+*.zerobus.europe-west3.gcp.databricks.com
+*.zerobus.us-central1.gcp.databricks.com
+*.zerobus.us-east1.gcp.databricks.com
+*.zerobus.us-east4.gcp.databricks.com
+*.zerobus.us-west1.gcp.databricks.com
 0.dev.gcp.databricks.com
 0.gcp.databricks.com
 0.staging.gcp.databricks.com
@@ -975,5 +980,3 @@ zippy-regional.gcp-us-east4.shards.managed.prod.ns.databricks.com
 zippy-regional.gcp-us-west1.shards.managed.prod.ns.databricks.com
 zippy-regional.gcp-us-west4.shards.managed.prod.ns.databricks.com
 zippy-regional.mumbai-prod.shards.managed.prod.ns.databricks.com
-zippy-regional.tokyo-prod.shards.managed.prod.ns.databricks.com
-zoom-notifications.dev.bse.corp.databricks.com

@@ -41,6 +41,7 @@
 *.community.cloudflare.com
 *.cp10.cloudflare.com
 *.cp11.cloudflare.com
+*.cp2.cloudflare.com
 *.cp4.cloudflare.com
 *.cp5.cloudflare.com
 *.cp6.cloudflare.com
@@ -93,6 +94,8 @@
 *.images.cloudflare.com
 *.indexer-staging.ipfs.cloudflare.com
 *.indexer.ipfs.cloudflare.com
+*.ingest.cloudflare.com
+*.ingest-staging.cloudflare.com
 *.ingress.ethereum.cloudflare.com
 *.integrations.cloudflare.com
 *.intel.cloudflare.com
@@ -166,6 +169,7 @@
 *.rate-limiting-3600.pat-issuer.cloudflare.com
 *.rate-limiting-86400.pat-issuer.cloudflare.com
 *.rdap.cloudflare.com
+*.realtime.cloudflare.com
 *.relay-app.privacy-gateway.cloudflare.com
 *.relay.ohttp.research.cloudflare.com
 *.research.cloudflare.com
@@ -8512,6 +8516,7 @@ darwin.ns.cloudflare.com
 dash.cloudflare.com
 dash.key-transparency.cloudflare.com
 dash.staging.cloudflare.com
+dash.staging.realtime.cloudflare.com
 dash.teams.cloudflare.com
 data.em2.cloudflare.com
 datasets.radar.cloudflare.com
@@ -8912,6 +8917,8 @@ indexer.ipfs.cloudflare.com
 indie.ns.cloudflare.com
 ines.ns.cloudflare.com
 info.cloudflare.com
+ingest.cloudflare.com
+ingest-staging.cloudflare.com
 ingress.ethereum.cloudflare.com
 ingrid.ns.cloudflare.com
 integrations.cloudflare.com
@@ -10127,6 +10134,7 @@ rayden.ns.cloudflare.com
 rayne.ns.cloudflare.com
 razvan.ns.cloudflare.com
 rdap.cloudflare.com
+realtime.cloudflare.com
 reese.ns.cloudflare.com
 registrar.cloudflare.com
 registry.cloudflare.com
@@ -18436,3 +18444,6 @@ zita.ns.cloudflare.com
 zlnvl.tw.cdn.cloudflare.com
 zod.ns.cloudflare.com
 zoe.ns.cloudflare.com
+ztx-bff-staging.teams.cloudflare.com
+ztx-bff.teams.cloudflare.com
+ztx-webhooks.one.dash.cloudflare.com

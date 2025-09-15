@@ -726,6 +726,15 @@
 *.dev.ikarem.io
 *.dev.network-auth.ikarem.io
 *.dev.obs.ikarem.io
+*.device-profiler-continental.outposts.ikarem.io
+*.device-profiler-continental.outposts-dev.ikarem.io
+*.device-profiler-continental.outposts-staging.ikarem.io
+*.device-profiler-global.outposts.ikarem.io
+*.device-profiler-global.outposts-dev.ikarem.io
+*.device-profiler-global.outposts-staging.ikarem.io
+*.device-profiler.outposts.ikarem.io
+*.device-profiler.outposts-dev.ikarem.io
+*.device-profiler.outposts-staging.ikarem.io
 *.dgaumont.dev.ikarem.io
 *.dgaumont.dev.network-auth.ikarem.io
 *.dgaumont.meraki-go.ikarem.io
@@ -6694,6 +6703,9 @@ dev.shard-discovery.ikarem.io
 devel.ikarem.io
 development-use.ops-portal.use.development.k8s.ikarem.io
 development-usw.ops-portal.usw.development.k8s.ikarem.io
+device-profiler.outposts.ikarem.io
+device-profiler.outposts-dev.ikarem.io
+device-profiler.outposts-staging.ikarem.io
 device1.jscoles-testing.ikarem.io
 device2.jscoles-testing.ikarem.io
 devin.dev.ikarem.io
@@ -6801,6 +6813,12 @@ dolma012.dev.network-auth.ikarem.io
 dolma012.meraki-go.ikarem.io
 dpark.dev.ikarem.io
 dpark.dev.network-auth.ikarem.io
+dpe.dev.ikarem.io
+dpe.device-profiler.apa.production.k8s.ikarem.io
+dpe.device-profiler.euc.production.k8s.ikarem.io
+dpe.device-profiler.use.staging.k8s.ikarem.io
+dpe.device-profiler.usw.development.k8s.ikarem.io
+dpe.device-profiler.usw.staging.k8s.ikarem.io
 dpiculik.dev.ikarem.io
 dpiculik.dev.network-auth.ikarem.io
 dpiculik.meraki-go.ikarem.io
@@ -14396,5 +14414,3 @@ yzhiyuan.dev.network-auth.ikarem.io
 yzhiyuan.meraki-go.ikarem.io
 zkalsuda.dev.ikarem.io
 zkalsuda.dev.network-auth.ikarem.io
-zkalsuda.meraki-go.ikarem.io
-zyma.mun-replica.artifactory.prod.ikarem.io
