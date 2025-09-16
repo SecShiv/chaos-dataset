@@ -1363,6 +1363,7 @@ dev-accesstokensapi.bentley.com
 dev-accesstokensapi-staging.bentley.com
 dev-accesstokensvalidator.bentley.com
 dev-accesstokensvalidator-staging.bentley.com
+dev-admin.bentley.com
 dev-aigateway-eus-staging.bentley.com
 dev-aka.bentley.com
 dev-alf.bentley.com
@@ -3305,6 +3306,7 @@ itwinsearchapi-eus.bentley.com
 itwinsearchapi-neu.bentley.com
 itwinsearchapi-neu-staging.bentley.com
 itwinsearchapi-sea.bentley.com
+itwinsearchapi-sea-staging.bentley.com
 itwinsearchapi-uks.bentley.com
 itwinsearchapi-uks-staging.bentley.com
 itwinstackusage.bentley.com
@@ -3373,6 +3375,7 @@ lms.bentley.com
 lnk.bentley.com
 loadteststub.identity.bentley.com
 lochner-pw.bentley.com
+lochner-pw-tmp.bentley.com
 lochner-pw-tmp-ws.bentley.com
 lochner-pw-ws.bentley.com
 logdispatcher.aue.bentley.com
@@ -4284,6 +4287,8 @@ pwsearch-wus2.internal.bentley.com
 pwwacinvitationmanager.bentley.com
 qa-4danalytics.bentley.com
 qa-4danalytics-tasks.bentley.com
+qa-admin.bentley.com
+qa-admin-staging.bentley.com
 qa-aigateway-eus-staging.bentley.com
 qa-aka.bentley.com
 qa-alf.bentley.com
@@ -5516,7 +5521,9 @@ qa-towersight.bentley.com
 qa-towersight-staging.bentley.com
 qa-towersightbff.bentley.com
 qa-towersightbff-eus.bentley.com
+qa-towersightbff-eus-staging.bentley.com
 qa-towersightbff-sea.bentley.com
+qa-towersightbff-sea-staging.bentley.com
 qa-towersightbff-staging.bentley.com
 qa-towersightitwin.bentley.com
 qa-towersightitwin-eus.bentley.com
@@ -5745,6 +5752,8 @@ seas.es-cs.bentley.com
 sec.edf.bentley.com
 seh-pw.bentley.com
 seh-pw-ws.bentley.com
+sei01-eu-pw-tmp.bentley.com
+sei01-eu-pw-tmp-ws.bentley.com
 sei01-us-pw-tmp.bentley.com
 select.bentley.com
 selectserver.bentley.com

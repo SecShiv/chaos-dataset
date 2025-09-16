@@ -1046,6 +1046,7 @@ chunderm.au1.gll.twilio.com
 chunderm.br1.twilio.com
 chunderm.br1.gll.twilio.com
 chunderm.de1.twilio.com
+chunderm.de1.gll.twilio.com
 chunderm.dev-us1.twilio.com
 chunderm.dev-us1.gll.dev.twilio.com
 chunderm.dev-us2.twilio.com
@@ -1062,8 +1063,10 @@ chunderm.sg1.gll.twilio.com
 chunderm.stage-au1.twilio.com
 chunderm.stage-au1.gll.stage.twilio.com
 chunderm.stage-us1.twilio.com
+chunderm.stage-us1.gll.stage.twilio.com
 chunderm.stage-us2.twilio.com
 chunderm.us1.twilio.com
+chunderm.us1.gll.twilio.com
 chunderm.us2.twilio.com
 chunderm.us2.gll.twilio.com
 chunderm0.de1.twilio.com
@@ -1452,6 +1455,7 @@ flex-insights-queues-stats-sink.ie1.twilio.com
 flex-insights-queues-stats-sink.stage-au1.twilio.com
 flex-insights-queues-stats-sink.stage-us1.twilio.com
 flex-insights-queues-stats-sink.us1.twilio.com
+flex-insights-rt.os.dev-us1.twilio.com
 flex-qe-e2e-tester.twilio.com
 flex-qe-e2e-tester.classic.us1.prod.kafka-v1.twilio.com
 flex-qe-e2e-tester.outside.us1.prod.kafka-v1.twilio.com
@@ -2213,6 +2217,7 @@ pstn.ashburn.stage.twilio.com
 pstn.au1.twilio.com
 pstn.au1-ix.twilio.com
 pstn.br1.twilio.com
+pstn.br1-ix.twilio.com
 pstn.de1.twilio.com
 pstn.de1-ix.twilio.com
 pstn.dev-us1.twilio.com
@@ -2231,6 +2236,7 @@ pstn.san-jose-ix.twilio.com
 pstn.san-jose-ix.dev.twilio.com
 pstn.san-jose-ix.stage.twilio.com
 pstn.sao-paulo.twilio.com
+pstn.sao-paulo-ix.twilio.com
 pstn.sg1.twilio.com
 pstn.sg1-ix.twilio.com
 pstn.singapore.twilio.com
@@ -2551,6 +2557,7 @@ sip.ashburn.stage.twilio.com
 sip.au1.twilio.com
 sip.au1-ix.twilio.com
 sip.br1.twilio.com
+sip.br1-ix.twilio.com
 sip.covid19-us1.twilio.com
 sip.de1.twilio.com
 sip.de1-ix.twilio.com
@@ -2571,6 +2578,7 @@ sip.san-jose-ix.twilio.com
 sip.san-jose-ix.dev.twilio.com
 sip.san-jose-ix.stage.twilio.com
 sip.sao-paulo.twilio.com
+sip.sao-paulo-ix.twilio.com
 sip.sg1.twilio.com
 sip.sg1-ix.twilio.com
 sip.singapore.twilio.com
@@ -3045,6 +3053,7 @@ xdr.dev-us1.twilio.com
 xdr.dev-us2.twilio.com
 xdr.stage-au1.twilio.com
 xdr.stage-us1.twilio.com
+xdr.us1.twilio.com
 xgrqm.twilio.com
 xkjmk.twilio.com
 ypwbb.twilio.com
@@ -3065,4 +3074,3 @@ zpa-pse-lb.dev.twilio.com
 zpa-pse.dev.twilio.com
 zscaler.corp.twilio.com
 zygops.corp.twilio.com
-zygops.dev.twilio.com

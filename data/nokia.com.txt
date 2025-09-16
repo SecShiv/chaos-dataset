@@ -356,6 +356,8 @@
 *.cg0312wrk-b-6nnmr.aut.saas.nokia.com
 *.cg911aut-g2xlp.aut.saas.nokia.com
 *.cg912wkl-b-bg8b5.aut.saas.nokia.com
+*.cg912wkl-b-pt4jx.aut.saas.nokia.com
+*.cg915wkl-a-qgtg9.aut.saas.nokia.com
 *.citwkl1610-xmhxl.aut.sdf.saas.nokia.com
 *.cloud-test.nokia.com
 *.cloudengine.nokia.com
@@ -363,6 +365,7 @@
 *.clustereks-25.csfp.int.dev.software.nokia.com
 *.cmdbeks-1-22.csfp.int.dev.software.nokia.com
 *.cmdbtest.csfp.int.dev.software.nokia.com
+*.cnfs-ui0915wkld-zmrnb.aut.saas.nokia.com
 *.commuter.ext.net.nokia.com
 *.console.fnps.nokia.com
 *.console.wifi.nokia.com
@@ -633,6 +636,7 @@
 *.ec0812wkld-jbt47.aut.saas.nokia.com
 *.ec0904aut-rmzh9.aut.saas.nokia.com
 *.ec0904wkld-7vqm4.aut.saas.nokia.com
+*.ec0904wkld-m9q9p.aut.saas.nokia.com
 *.ec0904wkld-msghx.aut.saas.nokia.com
 *.ec1001aut-njp6q.aut.saas.nokia.com
 *.ec1028aut-gn47p.aut.saas.nokia.com
@@ -2711,6 +2715,8 @@
 *.lt0909aut-nr5lv.aut.saas.nokia.com
 *.lt0910wkla-5hczv.aut.saas.nokia.com
 *.lt0910wkla-6gl46.aut.saas.nokia.com
+*.lt0910wkla-7qfbx.aut.saas.nokia.com
+*.lt0910wkla-8z4gk.aut.saas.nokia.com
 *.lt0910wkla-btnwf.aut.saas.nokia.com
 *.lt0910wkla-rfmbn.aut.saas.nokia.com
 *.lt1211wkla.aut.saas.nokia.com
@@ -2784,6 +2790,7 @@
 *.mj0902wklda-9cskc.aut.saas.nokia.com
 *.mj0903wkld-bvz6q.aut.saas.nokia.com
 *.mj0908auto-qx68s.aut.saas.nokia.com
+*.mj0908wklda-4w48q.aut.saas.nokia.com
 *.mj0908wklda-m44d8.aut.saas.nokia.com
 *.mj0908wklda-md4jg.aut.saas.nokia.com
 *.mj0908wklda-mlfdg.aut.saas.nokia.com
@@ -2979,6 +2986,7 @@
 *.pm0904w-b-z68tj.aut.saas.nokia.com
 *.pm0910a-pqdbh.aut.saas.nokia.com
 *.pm0910w-a-gwqpj.aut.saas.nokia.com
+*.pm0910w-a-j9qwk.aut.saas.nokia.com
 *.pm0910w-a-t9n29.aut.saas.nokia.com
 *.pm0910w-b-hrlbz.aut.saas.nokia.com
 *.pm0916a-6ct82.aut.saas.nokia.com
@@ -3177,6 +3185,7 @@
 *.tvf.int.net.nokia.com
 *.ui0912a-wjjb6.aut.saas.nokia.com
 *.ui0912aw-28m9m.aut.saas.nokia.com
+*.ui0915wkld-zmrnb.aut.saas.nokia.com
 *.uiv-aws-csfp-fp5pp1-6.uiv.labs.cns.nokia.com
 *.uiv-aws-csfp-mp6-6.uiv.labs.cns.nokia.com
 *.uiv-aws-csfp-mp6-7.uiv.labs.cns.nokia.com
@@ -3217,10 +3226,12 @@
 *.vb0530-kqf8b.aut.saas.nokia.com
 *.vb0530m-fb7kq.aut.saas.nokia.com
 *.vb0908a-snb5w.aut.saas.nokia.com
+*.vb0908a-xfckv.aut.saas.nokia.com
 *.vb0912a-h7cx9.aut.saas.nokia.com
 *.vb0913-bwffk.aut.saas.nokia.com
 *.vb0913-g268b.aut.saas.nokia.com
 *.vb0914-mkh28.aut.saas.nokia.com
+*.vb0915r-p8qr6.aut.saas.nokia.com
 *.vb1004nb-292nb.aut.saas.nokia.com
 *.vikas-eks-test.csfp.int.dev.software.nokia.com
 *.vikas-test.csfp.int.dev.software.nokia.com
@@ -3269,6 +3280,8 @@
 *.vt0909auto-plnwr.aut.saas.nokia.com
 *.vt0910auto-j47hn.aut.saas.nokia.com
 *.vt0910wkld-txr9q.aut.saas.nokia.com
+*.vt0915auto-w7q8s.aut.saas.nokia.com
+*.vt0915wkld-a-4psxj.aut.saas.nokia.com
 *.vt0916a-2m487.aut.saas.nokia.com
 *.vt0916auto-hgdnn.aut.saas.nokia.com
 *.vt0916wkld-2bhhl.aut.saas.nokia.com
@@ -11376,6 +11389,7 @@ eks-1-27-300723-003021.nuke-aws.labs.cns.nokia.com
 eks-1-27-300723-003023.nuke-aws.labs.cns.nokia.com
 eks-1-27-310723-052147.nuke-aws.labs.cns.nokia.com
 eks-1-32-370.nuke-aws.labs.cns.nokia.com
+eks-1-32-381.nuke-aws.labs.cns.nokia.com
 eks-1-33-298.nuke-aws.labs.cns.nokia.com
 eks-1-33-299.nuke-aws.labs.cns.nokia.com
 eks-1-33-300.nuke-aws.labs.cns.nokia.com
@@ -11414,6 +11428,12 @@ eks-1-33-374.nuke-aws.labs.cns.nokia.com
 eks-1-33-375.nuke-aws.labs.cns.nokia.com
 eks-1-33-379.nuke-aws.labs.cns.nokia.com
 eks-1-33-380.nuke-aws.labs.cns.nokia.com
+eks-1-33-381.nuke-aws.labs.cns.nokia.com
+eks-1-33-383.nuke-aws.labs.cns.nokia.com
+eks-1-33-384.nuke-aws.labs.cns.nokia.com
+eks-1-33-385.nuke-aws.labs.cns.nokia.com
+eks-1-33-386.nuke-aws.labs.cns.nokia.com
+eks-1-33-388.nuke-aws.labs.cns.nokia.com
 eks-10-dziankow.csfp.ext.dev.software.nokia.com
 eks-121.csfp.ext.dev.software.nokia.com
 eks-131-kf-24.nuke-aws.labs.cns.nokia.com
@@ -11550,6 +11570,7 @@ eks-kkrukow-telefonika.csfp.ext.dev.software.nokia.com
 eks-kkrukow-v1-6-11.csfp.ext.dev.software.nokia.com
 eks-kkrukow.csfp.ext.dev.software.nokia.com
 eks-krajewsk-anycloud.csfp.ext.dev.software.nokia.com
+eks-lab-ccpm.nuke-aws.labs.cns.nokia.com
 eks-marcin-1-21.csfp.ext.dev.software.nokia.com
 eks-mgr-test.csfp.int.dev.software.nokia.com
 eks-mgrtest.csfp.ext.dev.software.nokia.com
@@ -13393,6 +13414,7 @@ gates.int.net.nokia.com
 gateway.ibus-fp.ext.net.nokia.com
 gb.mobileshop.nokia.com
 gbohomecare.saas.nokia.com
+gcp-my-home.nokia.com
 gcp.my-home.nokia.com
 gcprun.ext.net.nokia.com
 gctfeebrsmp-temp-hs42418.cert.saas.nokia.com
@@ -19016,6 +19038,7 @@ nsdssoqa.nokia.com
 nsdssoqa.europe.nokia.com
 nsdssoqa.lta.nokia.com
 nsdssoqa.mea.nokia.com
+nsg.nokia.com
 nshk.ext.nokia.com
 nsmp001.saas.nokia.com
 nsmp001b.saas.nokia.com
@@ -25115,6 +25138,7 @@ umt.nokia.com
 unified-datafill.nokia.com
 unity-kpi.nokia.com
 universal-installer.cnfs-ui0912aw-77wnt.aut.saas.nokia.com
+universal-installer.cnfs-ui0915wkld-zmrnb.aut.saas.nokia.com
 universalnavigate.ext.net.nokia.com
 unms.mobily.ext.net.nokia.com
 unra-tst.nokia.com
@@ -27634,4 +27658,3 @@ zscuspimgexlbi01.ext.net.nokia.com
 zscuspwebexlbi01.ext.net.nokia.com
 zts-north.eu.software.nokia.com
 zvawapp020.ext.nokia.com
-zwww.partners.nokia.com

@@ -1,6 +1,7 @@
 .intuit.com
 *.intuit.com
 *.2021.ca.turbotaxonline.intuit.com
+*.2025.ca.turbotaxonline.intuit.com
 *.559166881778.sbgemr.a.intuit.com
 *.a.intuit.com
 *.a.cra.us-east-2.cgc.a.intuit.com
@@ -531,6 +532,7 @@
 *.e2e.2022.ca.turbotaxonline.intuit.com
 *.e2e.2023.ca.turbotaxonline.intuit.com
 *.e2e.2024.ca.turbotaxonline.intuit.com
+*.e2e.2025.ca.turbotaxonline.intuit.com
 *.e2e.a2i.a.intuit.com
 *.e2e.a2iv3.a.intuit.com
 *.e2e.aidpd.intelligentsystems-ppd.a.intuit.com
@@ -1133,6 +1135,7 @@
 *.pclata10030914deleteme.a.intuit.com
 *.pclata10161304deleteme.a.intuit.com
 *.pclatademo0124.a.intuit.com
+*.pd.ca.turbotaxonline.intuit.com
 *.pdc.aws.intuit.com
 *.pef-jenkins-fleet-manager.a.intuit.com
 *.perf.intuit.com
@@ -1301,6 +1304,7 @@
 *.preprod1-ibp.a.intuit.com
 *.prequal-svc-preprod.a.intuit.com
 *.prf-jenkins-mgr.a.intuit.com
+*.prf.2025.ca.turbotaxonline.intuit.com
 *.prf.api.a.intuit.com
 *.prf.cmn.cto.a.intuit.com
 *.prf.edge.intuit.com
@@ -1408,6 +1412,7 @@
 *.qal.2022.ca.turbotaxonline.intuit.com
 *.qal.2023.ca.turbotaxonline.intuit.com
 *.qal.2024.ca.turbotaxonline.intuit.com
+*.qal.2025.ca.turbotaxonline.intuit.com
 *.qal.app.intuit.com
 *.qal.cbdcpilot.a.intuit.com
 *.qal.crcm.a.intuit.com
@@ -17192,6 +17197,8 @@ crmmktg-custserv-prd-mailchimp-admin-api.mailchimpprdusw2.iks2.a.intuit.com
 crmmktg-custserv-stg-mailchimp-admin-api.mailchimpprdusw2.iks2.a.intuit.com
 crmmktg-marketing-prd-customer-data-platform.mailchimpprdusw2.iks2.a.intuit.com
 crmmktg-marketing-stg-customer-data-platform.mailchimpprdusw2.iks2.a.intuit.com
+crmmktg-mktginsanaly-rms-stg-metrics-api-svc.mlchmpcompprduse2.iks2.a.intuit.com
+crmmktg-mktginsanaly-rms-stg-metrics-api-svc.mlchmpcompprdusw2.iks2.a.intuit.com
 crmmktg-mktginsanl-prd-c2-experimentation-svc.mailchimpprdusw2.iks2.a.intuit.com
 crmp2losi.intuit.com
 crmpconsultanttclosi.intuit.com
@@ -18524,6 +18531,7 @@ data-extraction-servic-7294703.sbgqbo2prdusw2.iks2.a.intuit.com
 data-extraction-servic-7294703.sbgqboprodusw2.iks2.a.intuit.com
 data-finance-prd-ids-wfns-fin.dataengprdusw2.iks2.a.intuit.com
 data-finance-stg-ids-wfns-fin.dataengprdusw2.iks2.a.intuit.com
+data-fprod.api.intuit.com
 data-fusion-discovery-4689131.curationprdusw2.iks2.a.intuit.com
 data-gov-batch-intlgntsys.techaiprdusw2.iks2.a.intuit.com
 data-governance-iipa-e2e.a.intuit.com
@@ -22513,6 +22521,7 @@ dvfcuonlinebranch.flb.intuit.com
 dwww.intuit.com
 dx.intuit.com
 dx01-2.devpapigwextprd.iks2.a.intuit.com
+dx01-2025.devpapigwintppd.iks2.a.intuit.com
 dx01.devpapigwextprd.iks2.a.intuit.com
 dx01.devpapigwintppd.iks2.a.intuit.com
 dx11.devpapigwintppd.iks2.a.intuit.com
@@ -23167,6 +23176,7 @@ e2e.2021.ca.turbotaxonline.intuit.com
 e2e.2022.ca.turbotaxonline.intuit.com
 e2e.2023.ca.turbotaxonline.intuit.com
 e2e.2024.ca.turbotaxonline.intuit.com
+e2e.2025.ca.turbotaxonline.intuit.com
 e2e.a2i.a.intuit.com
 e2e.a2iv3.a.intuit.com
 e2e.aidpd.intelligentsystems-ppd.a.intuit.com
@@ -24867,6 +24877,7 @@ endpoint.dlp-dev.a.intuit.com
 endpoint.dlp-enforce-dev.intuit.com
 endpoint.dlp-enforce-dev.a.intuit.com
 endpoint.dlp.a.intuit.com
+endpoint.ips-olap-a2d-prf.a.intuit.com
 endpoint.ips-olap-cg-prd.a.intuit.com
 enduraonlinebanking.flb.intuit.com
 energyfcu.flb.intuit.com
@@ -25471,6 +25482,7 @@ entsecurity-util-stg-esbotportalmanagement.t4ieisprdsoxusw2.iks2.a.intuit.com
 entsecurity-util-stg-workforce-opex-dashboard.eisppdusw2.iks2.a.intuit.com
 envelope-money.payment-prod-usw2.iks.a.intuit.com
 envelope-money.pymt-usw2-prd.iks.a.intuit.com
+envelope.api.intuit.com
 eom.uclab.a.intuit.com
 eos-prd-global-vpce.erpsi.a.intuit.com
 eos-prd-useast2-vpce.erpsi.a.intuit.com
@@ -46978,6 +46990,8 @@ metastore-playground-3tacgs.pd.idps.a.intuit.com
 metrics-aggregator-dev.sbgcompprdusw2.iks2.a.intuit.com
 metrics-api-dev.cg-rtb-prod-usw2.iks.a.intuit.com
 metrics-api-dev.cgrtbprdusw2.iks2.a.intuit.com
+metrics-api-svc-mktginsanl.mlchmpcompprduse2.iks2.a.intuit.com
+metrics-api-svc-mktginsanl.mlchmpcompprdusw2.iks2.a.intuit.com
 metrics-es-dev.a.intuit.com
 metrics-es-gw.a.intuit.com
 metrics-es.a.intuit.com
@@ -52759,6 +52773,7 @@ paymentsworkflow.intuit.com
 paymentsworkflow-dev-gs50z3.pd.idps.a.intuit.com
 paymentsworkflow-pre-production-zyzz5g.pd.idps.a.intuit.com
 paymentsworkflow-production-t7whpk.pd.idps.a.intuit.com
+paymentsworkflow.api.intuit.com
 paymentsworkflowservice.intuit.com
 paymenttxndg-payments.paymentprdpciusw2.iks2.a.intuit.com
 paymenttxndg-payments.pymt-pci-usw2-prd.iks.a.intuit.com
@@ -53595,6 +53610,7 @@ payrollboppdusw2.iks2.a.intuit.com
 payrollboservices-pre-production-0ygffs.pd.idps.a.intuit.com
 payrollboservices-production-kwbmyv.pd.idps.a.intuit.com
 payrollcomplppdusw2.iks2.a.intuit.com
+payrollconsumer.api.intuit.com
 payrolldel-sandbox.payrollprduse2.iks2.a.intuit.com
 payrollextractionsvc-nlp.techaipciprduse2.iks2.a.intuit.com
 payrollextractionsvc-nlp.techaipciprdusw2.iks2.a.intuit.com
@@ -53768,9 +53784,11 @@ pcstestautomationbot-qal.api.intuit.com
 pd-metrics-processor-sandbox.sbgqboprodusw2.iks2.a.intuit.com
 pd-metrics-service-observe.sbgqboprodusw2.iks2.a.intuit.com
 pd-metrics-service-sandbox.sbgqboprodusw2.iks2.a.intuit.com
+pd.ca.turbotaxonline.intuit.com
 pd.ds-dev.a.intuit.com
 pd.idps.a.intuit.com
 pd.realestate.intuit.com
+pd1.ca.turbotaxonline.intuit.com
 pda.financialprofile-client.e2e.a.intuit.com
 pda.financialprofile-client.prd.a.intuit.com
 pdc-lv-brm.ilb.intuit.com
@@ -54643,6 +54661,7 @@ pi-prod-use2.iks.a.intuit.com
 pi-prod-usw2.iks.a.intuit.com
 pi.nonprod.splunk.intuit.com
 pi.splunk.intuit.com
+pi07-2.apigwsbgprdpci.iks2.a.intuit.com
 pibo-dev.a.intuit.com
 pice.a.intuit.com
 pickpack-omnichannel.sbgqboprodusw2.iks2.a.intuit.com
@@ -61010,6 +61029,7 @@ qal.2021.ca.turbotaxonline.intuit.com
 qal.2022.ca.turbotaxonline.intuit.com
 qal.2023.ca.turbotaxonline.intuit.com
 qal.2024.ca.turbotaxonline.intuit.com
+qal.2025.ca.turbotaxonline.intuit.com
 qal.about.intuit.com
 qal.academy.intuit.com
 qal.accountants.intuit.com
@@ -64859,6 +64879,7 @@ riskcontrolsystem-production-2umfgr.pd.idps.a.intuit.com
 riskcontrolsystem-production-glwpgi.pd.idps.a.intuit.com
 riskcontrolsystem-production-hezwzs.pd.idps.a.intuit.com
 riskdataetl.sbg-pmts-risk.a.intuit.com
+riskdatatools.api.intuit.com
 riskpred-imbc-prd-banchan.techaiprdusw2.iks2.a.intuit.com
 riskpred-imbc-stg-auto-rule-ext.techaiprdusw2.iks2.a.intuit.com
 riskpred-imbc-stg-banchan.techaiprdusw2.iks2.a.intuit.com
@@ -74101,6 +74122,7 @@ sniper-try.a.intuit.com
 sno-playground-36nsmf.pd.idps.a.intuit.com
 sno-playground-7gm2l9.pd.idps.a.intuit.com
 snoop.perf.a.intuit.com
+snorkel-ppd.labeling.a.intuit.com
 snorlax-platformexps.securityprduse2.iks2.a.intuit.com
 snorlax-platformexps.securityprdusw2.iks2.a.intuit.com
 snorlax-v2-platformexps.securityprdusw2.iks2.a.intuit.com
@@ -91118,6 +91140,7 @@ wallet-utilities-money.paymentprdusw2.iks2.a.intuit.com
 wallet-utilities-money.pymt-usw2-prd.iks.a.intuit.com
 walletauthforms.intuit.com
 walletauthforms.prd.a.intuit.com
+walletcash.api.intuit.com
 wallets-sbg.dev.payments.intuit.com
 wallets-sbg.e2e.payments.intuit.com
 wallets-sbg.payments.intuit.com
@@ -92608,6 +92631,7 @@ ww1.e2e.2022.ca.turbotaxonline.intuit.com
 ww1.e2e.2023.ca.turbotaxonline.intuit.com
 ww1.e2e.2024.ca.turbotaxonline.intuit.com
 ww1.irapps.intuit.com
+ww1.pd.ca.turbotaxonline.intuit.com
 ww1.perf.2021.ca.turbotaxonline.intuit.com
 ww1.perf.2022.ca.turbotaxonline.intuit.com
 ww1.perf.2023.ca.turbotaxonline.intuit.com
@@ -93045,3 +93069,4 @@ zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
 zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
+zycada.quickbooks.intuit.com

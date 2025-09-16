@@ -384,6 +384,7 @@
 *.moca.studio.disney.com
 *.monitoring.dev-posr.wdprapps.disney.com
 *.monitoring.hk-posr.wdprapps.disney.com
+*.monitoring.lst-green-posr.wdprapps.disney.com
 *.monitoring.lst-hkdl-posr.wdprapps.disney.com
 *.monitoring.lst-posr.wdprapps.disney.com
 *.monitoring.nonprod.tech.disney.com
@@ -1705,6 +1706,7 @@ aiml-deployer.splunk.disney.com
 aiml.dev.splunk.disney.com
 aiml.qa.splunk.disney.com
 aiml.splunk.disney.com
+aip.simba.shdrapps.disney.com
 air.dccr.disney.com
 airbyte-test.fas.fa.disney.com
 airflow-apigwy.wdprapps.disney.com
@@ -1862,6 +1864,7 @@ apex.corp.disney.com
 api.disney.com
 api-configurator.wdprapps.disney.com
 api-deployer.qa.splunk.disney.com
+api-deployer.splunk.disney.com
 api-dev-skyliner.attr-trackmap.disney.com
 api-dev.mst.disney.com
 api-dev.sda.dlr.disney.com
@@ -2011,6 +2014,7 @@ api.rio.ddsi.disney.com
 api.sb.cognos.ebs.disney.com
 api.sda.dlr.disney.com
 api.sda.wdw.disney.com
+api.splunk.disney.com
 api.stage.brightsign.wdprapps.disney.com
 api.stage.contentplanning.swna.wdpr.disney.com
 api.stage.drma.swna.wdpr.disney.com
@@ -4144,6 +4148,7 @@ calendar.scheduall.studio.disney.com
 calendarqa.scheduall.studio.disney.com
 callfortalks.jedi.disney.com
 callnet.wdw.disney.com
+camilo-rabbit-demo.wdprapps.disney.com
 camp.disney.com
 canonmap.studio.disney.com
 cap-bcl.wdprapps.disney.com
@@ -6636,6 +6641,10 @@ dclcelvrops03.dcl.wdpr.disney.com
 dclcelvxvcsa.dcl.wdpr.disney.com
 dclcelwitvxvcsa.dcl.wdpr.disney.com
 dclcelwitxvcsa.dcl.wdpr.disney.com
+dclcelxis.dcl.wdpr.disney.com
+dclcelxmm.dcl.wdpr.disney.com
+dclcelxmp.dcl.wdpr.disney.com
+dclcelxts.dcl.wdpr.disney.com
 dclcmworkflow.disney.com
 dclcmworkflow-stage.disney.com
 dclcmworkflowdev.disney.com
@@ -8588,6 +8597,7 @@ dev.vision.dcl.wdpr.disney.com
 dev.waittimes.toolbox.disney.com
 dev.wayfinder.disney.com
 dev.wdao-np.disney.com
+dev.wdprapps.disney.com
 dev.wdprchairmanscorner.disney.com
 dev.wdprfinance.disney.com
 dev.wdprhubsites.disney.com
@@ -11408,6 +11418,7 @@ ext.stg-alice.studio.disney.com
 extensis.disid.disney.com
 external-azure.media.disney.com
 external.andor.latest.use1.drt-dev.wdprapps.disney.com
+external.find-merch-ui.load.use1.drt-test.wdprapps.disney.com
 external.import-test-006.latest.use1.drt-dev.wdprapps.disney.com
 external.not-cassian.latest.use1.drt-dev.wdprapps.disney.com
 external.python.latest.use1.drt-dev.wdprapps.disney.com
@@ -13439,6 +13450,7 @@ financialsystems.disney.com
 financialsystems-dev.disney.com
 financialsystems-stage.disney.com
 find.disney.com
+find-merch-service.latest.usw2.drt-dev.wdprapps.disney.com
 find-qa.disney.com
 find-qa.we.disney.com
 find-stage.disney.com
@@ -15603,6 +15615,7 @@ hello-world.revmgmt.eks.wdprapps.disney.com
 hello-world.wdprapps.disney.com
 helloworld.latest.knative.wdprapps.disney.com
 help.disney.com
+help.ariel.qat.dmd.disney.com
 help.ariel.sandbox.dmd.disney.com
 help.studio.disney.com
 helpdesk.fas.fa.disney.com
@@ -16334,6 +16347,7 @@ im-cala-wwvm001.swna.wdpr.disney.com
 image-origin.int.photogrammetry.disney.com
 image-origin.photogrammetry.disney.com
 image-origin.stg.photogrammetry.disney.com
+image.simba.shdrapps.disney.com
 images.debut.disney.com
 images.rbac-dev.cam.qa.bespin.disney.com
 imagicademy.disney.com
@@ -17550,6 +17564,7 @@ latest.amundsen-metadata.pdp.lst.wdprapps.disney.com
 latest.amundsen-search.pdp.lst.wdprapps.disney.com
 latest.amundsen.pdp.lst.wdprapps.disney.com
 latest.amvs.wdprapps.disney.com
+latest.andor.gcp.wdprapps.disney.com
 latest.announcements-webapps.wdprapps.disney.com
 latest.anon-park-res-spa.wdprapps.disney.com
 latest.anon-park-res-va.wdprapps.disney.com
@@ -17777,6 +17792,8 @@ latest.authentication-svc.wdprapps.disney.com
 latest.authentication.svc.wdprapps.disney.com
 latest.authenticator-loader-spa-use1.gam-dev.wdprapps.disney.com
 latest.authenticator-loader-spa-usw2.gam-dev.wdprapps.disney.com
+latest.authenticator-spa.gam-dev.wdprapps.disney.com
+latest.authenticator-spa.wdprapps.disney.com
 latest.authmgr-keyservice.wdprapps.disney.com
 latest.author-dse-aem.wdprapps.disney.com
 latest.auto-attr-seat.dcl.wdpr.disney.com
@@ -18791,15 +18808,18 @@ latest.dlr-fp-admin-wam.wdprapps.disney.com
 latest.dlr-gam-keyring-das.gam-dev.wdprapps.disney.com
 latest.dlr-gam-keyring-das.wdprapps.disney.com
 latest.dlr-gam-keyring-lne.wdprapps.disney.com
+latest.dlr-guest-block-ha.gam-dev.wdprapps.disney.com
 latest.dlr-guest-entry.wdprapps.disney.com
 latest.dlr-guest-rmq.wdprapps.disney.com
 latest.dlr-guestblock-fg.wdprapps.disney.com
 latest.dlr-guestblock-gt.wdprapps.disney.com
+latest.dlr-guestblock-ha-use1.gam-dev.wdprapps.disney.com
 latest.dlr-guestblock.wdprapps.disney.com
 latest.dlr-guestbolock.wdprapps.disney.com
 latest.dlr-itinerary-mods.wdprapps.disney.com
 latest.dlr-itinerary-vas.wdprapps.disney.com
 latest.dlr-itinerary.wdprapps.disney.com
+latest.dlr-keyring-selfie-ha.gam-dev.wdprapps.disney.com
 latest.dlr-leveln.wdprapps.disney.com
 latest.dlr-lodging-addons-spa.wdprapps.disney.com
 latest.dlr-lodging-uc-handler.wdprapps.disney.com
@@ -21966,6 +21986,7 @@ latest.trade-pricing-service-dlr.wdprapps.disney.com
 latest.trade-pricing-service.wdprapps.disney.com
 latest.trade-reservation-service.mdx.nap7.wdpro.disney.com
 latest.trade-reservation-service.wdprapps.disney.com
+latest.trade-reservation-svc.wdprapps.disney.com
 latest.trade-retrieve-spa.wdprapps.disney.com
 latest.trade-retrieve-va.wdprapps.disney.com
 latest.trade-suite-service.wdprapps.disney.com
@@ -23466,6 +23487,7 @@ load.dme.wdprapps.disney.com
 load.dnxaicvas.dlr.use1.eks.wdprapps.disney.com
 load.dnxaicvas.wdw.use1.eks.wdprapps.disney.com
 load.dnxcapesvc.dlr.use1.eks.wdprapps.disney.com
+load.dnxcapesvc.wdw.use1.eks.wdprapps.disney.com
 load.dnxcastvas.dlr.eks.wdprapps.disney.com
 load.dnxcastvas.wdw.eks.wdprapps.disney.com
 load.dnxcomsvc.dlr.use1.eks.wdprapps.disney.com
@@ -25223,6 +25245,7 @@ load.trade-reservation-service.wdprapps.disney.com
 load.trade-reservation-svc.wdprapps.disney.com
 load.trade-retrieve-spa.wdprapps.disney.com
 load.trade-retrieve-va.wdprapps.disney.com
+load.trade-syndicated-nav-api.wdprapps.disney.com
 load.tradecontent-api-gw.wdprapps.disney.com
 load.tradecontent-dlr-api-gw.wdprapps.disney.com
 load.tradedistributor-api-gw.wdprapps.disney.com
@@ -26312,6 +26335,7 @@ mexico-ec-vpn.wdw.attractions.disney.com
 mexico0-ec-pa.wdw.attractions.disney.com
 mexico1-ec-pa.wdw.attractions.disney.com
 mfa-portal-poc.corp.disney.com
+mfp.simba.shdrapps.disney.com
 mft.disney.com
 mft-dev.disney.com
 mft-dev4.disney.com
@@ -28033,6 +28057,8 @@ origin.latest.arrw.svc.dlr.wdprapps.disney.com
 origin.latest.atlantis-vault-test.wdprapps.disney.com
 origin.latest.aulaniresort.nap7.disney.com
 origin.latest.auth-api.wdprapps.disney.com
+origin.latest.authenticator-spa-usw2.gam-dev.wdprapps.disney.com
+origin.latest.authenticator-spa.gam-dev.wdprapps.disney.com
 origin.latest.availability.service.wdprapps.disney.com
 origin.latest.aws.com-ui.sh1.wdpro.disney.com
 origin.latest.aws.cur.sh1.wdpro.disney.com
@@ -28138,6 +28164,9 @@ origin.latest.dlr-photopass-cmqcontroller.wdprapps.disney.com
 origin.latest.dlr-photopass-webapi.wdprapps.disney.com
 origin.latest.dlr-photopass-webui.wdprapps.disney.com
 origin.latest.dlr-roo.wdprapps.disney.com
+origin.latest.dlr-selfie-ha-use1.gam-dev.wdprapps.disney.com
+origin.latest.dlr-selfie-ha-usw2.gam-dev.wdprapps.disney.com
+origin.latest.dlr-selfie-ha.gam-dev.wdprapps.disney.com
 origin.latest.dlr-smartsheet-jira.wdprapps.disney.com
 origin.latest.dlr-tell-a-cast-dlr.wdprapps.disney.com
 origin.latest.dlr-tell-a-cast.wdprapps.disney.com
@@ -31045,6 +31074,7 @@ pubsub.disney.com
 pubsub-dev.disney.com
 pubsub-dev.ebs.disney.com
 pubsub-dev.edh.disney.com
+pubsub-dev.edh.ebs.disney.com
 pubsub-poc.edh.disney.com
 pubsub-poc2.edh.disney.com
 pubsub-stg.disney.com
@@ -31406,6 +31436,7 @@ rd2.swna.wdpr.disney.com
 rd4.swna.wdpr.disney.com
 rd4lbprd.swna.wdpr.disney.com
 rdatschedulingdev.disney.com
+rdf.simba.shdrapps.disney.com
 rdp-guest-profile-master.wdprapps.disney.com
 rdp-guest-profile-slave-1.wdprapps.disney.com
 rdp-guest-profile-slave-2.wdprapps.disney.com
@@ -34860,6 +34891,7 @@ stage.aplex-wdw.wdprapps.disney.com
 stage.aplex.wdprapps.disney.com
 stage.app-keymgmt-apigw.wdprapps.disney.com
 stage.app-keymgmt.wdprapps.disney.com
+stage.appd-connect.wdprapps.disney.com
 stage.apppmt-notifications.wdprapps.disney.com
 stage.apps-dcl-shore-burrow.wdprapps.disney.com
 stage.arae.wdprapps.disney.com
@@ -35784,6 +35816,8 @@ stage.dtr-castdashboard-dlr.wdprapps.disney.com
 stage.dtr-olci-va-dlr.wdprapps.disney.com
 stage.dtr-wdw.wdprapps.disney.com
 stage.dtr.wdprapps.disney.com
+stage.dtransport-web.wdprapps.disney.com
+stage.dtransport.wdprapps.disney.com
 stage.dtrbatch.wdprapps.disney.com
 stage.dtrservice.wdprapps.disney.com
 stage.dtrsubscriber.wdprapps.disney.com
@@ -37965,6 +37999,7 @@ stage.trade-reservation-service.wdprapps.disney.com
 stage.trade-reservation-svc.wdprapps.disney.com
 stage.trade-retrieve-spa.wdprapps.disney.com
 stage.trade-retrieve-va.wdprapps.disney.com
+stage.trade-syndicated-nav-api.wdprapps.disney.com
 stage.tradecontent-api-gw.wdprapps.disney.com
 stage.tradecontent-dlr-api-gw.wdprapps.disney.com
 stage.tradedistributor-api-gw.wdprapps.disney.com
@@ -40146,7 +40181,9 @@ tlfloapv0362.sena.wdpr.disney.com
 tlfloapv0363.sena.wdpr.disney.com
 tlfloapv0364.sena.wdpr.disney.com
 tlfloapv0366.sena.wdpr.disney.com
+tlfloapv0366.swna.wdpr.disney.com
 tlfloapv0367.sena.wdpr.disney.com
+tlfloapv0367.swna.wdpr.disney.com
 tlfloapv0401.swna.wdpr.disney.com
 tlfloapv0402.swna.wdpr.disney.com
 tlfloapv0403.swna.wdpr.disney.com
@@ -42078,6 +42115,7 @@ vl-frmv-rhe116.emea.wdpr.disney.com
 vl-frmv-rhe117.emea.wdpr.disney.com
 vl-frmv-rhe12.emea.wdpr.disney.com
 vl-frmv-rhe159.disney.com
+vl-frmv-rhe207.emea.wdpr.disney.com
 vl-frmv-rhe213.emea.wdpr.disney.com
 vl-frmv-rhe214.emea.wdpr.disney.com
 vl-frmv-rhe215.emea.wdpr.disney.com

@@ -376,6 +376,7 @@
 *.cl1-default-lb.epm-adpt-anthos1.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-ais-anthos-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-ais-anthos.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-alfa-ant-prl.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-aop-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-asmd-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-auto-anthos1.eu.gcp.cloudapp.epam.com
@@ -545,6 +546,7 @@
 *.cl1-default-lb.epm-rdci-anthos-dev.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rdci-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rdfc-anthos.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-rdpw-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rdua-anthos-ts.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rdua-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-ref-anthos.eu.gcp.cloudapp.epam.com
@@ -599,6 +601,7 @@
 *.cl2-default-lb.epm-bsrv-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-bwf-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-cgam-anthos.eu.gcp.cloudapp.epam.com
+*.cl2-default-lb.epm-cmdb-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-coec-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-cosr-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-cpe-anthos.eu.gcp.cloudapp.epam.com
@@ -634,6 +637,7 @@
 *.cl2-default-lb.epm-paas-anthos-b.eu.gcp.epm-paas.projects.epam.com
 *.cl2-default-lb.epm-paas-anthos-dmz.eu.gcp.epm-paas.projects.epam.com
 *.cl2-default-lb.epm-ppa-anthos-impact.eu.gcp.cloudapp.epam.com
+*.cl2-default-lb.epm-ppa-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-prj-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-prl-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-rdua-anthos-tspr.eu.gcp.cloudapp.epam.com
@@ -2569,6 +2573,8 @@ desktop.connect.epam.com
 deutsche-bank-platinum-2020.epam.com
 dev-acuvue.canvas.jaj-can.projects.epam.com
 dev-admin.osdu-gcp.go3-nrg.projects.epam.com
+dev-ai-copilot.epmc-apic.projects.epam.com
+dev-api-ai-copilot.epmc-apic.projects.epam.com
 dev-api.pipeline.epm-for.projects.epam.com
 dev-api.sche-ecat.projects.epam.com
 dev-api.trin-edt2.projects.epam.com
@@ -4616,6 +4622,7 @@ keycloak1-security.dev.norn-city.projects.epam.com
 keycloak2-security.dev.norn-city.projects.epam.com
 kibana-codemie.gke-sandbox-cl2.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
 kibana-codemie.gke-sandbox.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
+kibana-preview-codemie.gke-sandbox-cl2.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
 kibana-preview-codemie.gke-sandbox.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
 kibana.alib-poc.projects.epam.com
 kibana.app.epam.com
@@ -6754,6 +6761,7 @@ test.mgm-svod.projects.epam.com
 test.nonprod.infra.radar.epam.com
 test.nova.epam.com
 test.payroll.epm-rppl.projects.epam.com
+test.r2.qa2.info.epam.com
 test.rancher.epm-ces.projects.epam.com
 test.rd.cloud.epam.com
 test.real-estate-user.epm-rppl.projects.epam.com
@@ -7452,6 +7460,3 @@ ztna-microfrontend.stage.epam.com
 ztna-session-api.stage.epam.com
 ztna-staging.epm-iga.projects.epam.com
 ztna.app.epam.com
-ztna.app.stage.epam.com
-ztna.stage.epam.com
-ztnacheck.stage.epam.com

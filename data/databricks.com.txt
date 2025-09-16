@@ -126,11 +126,14 @@
 *.storage.staging.cloud.databricks.com
 *.storage.us-east-1.cloud.databricks.com
 *.storage.us-east-1.dev.databricks.com
+*.storage.us-east-1.staging.cloud.databricks.com
 *.storage.us-east-2.cloud.databricks.com
 *.storage.us-east-2.dev.databricks.com
 *.storage.us-west-1.cloud.databricks.com
+*.storage.us-west-1.staging.cloud.databricks.com
 *.storage.us-west-2.cloud.databricks.com
 *.storage.us-west-2.dev.databricks.com
+*.storage.us-west-2.staging.cloud.databricks.com
 *.teleport-aws.dev.databricks.com
 *.teleport-test.dev.databricks.com
 *.teleport.cloud.databricks.com
@@ -239,6 +242,7 @@ cartography-gov.sec.databricks.com
 chatapi.databricks.com
 chatapi.corp.databricks.com
 chatweb.databricks.com
+cicd-gov-east.dev-sec.databricks.com
 cicd-gov.dev-sec.databricks.com
 cicd-gov.sec.databricks.com
 clean-room.az-ukwest.shards.managed.prod.ns.databricks.com
@@ -980,3 +984,4 @@ zippy-regional.gcp-us-east4.shards.managed.prod.ns.databricks.com
 zippy-regional.gcp-us-west1.shards.managed.prod.ns.databricks.com
 zippy-regional.gcp-us-west4.shards.managed.prod.ns.databricks.com
 zippy-regional.mumbai-prod.shards.managed.prod.ns.databricks.com
+zippy-regional.tokyo-prod.shards.managed.prod.ns.databricks.com

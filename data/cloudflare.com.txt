@@ -54,7 +54,9 @@
 *.ct.cloudflare.com
 *.dap.cloudflare.com
 *.dash.cloudflare.com
+*.dash.fed.cloudflare.com
 *.dash.staging.cloudflare.com
+*.dash.staging.fed.cloudflare.com
 *.davos.cloudflare.com
 *.dcv.cloudflare.com
 *.dcvcheck.cloudflare.com
@@ -144,6 +146,7 @@
 *.partners.cloudflare.com
 *.partnertest.cloudflare.com
 *.pat-issuer.cloudflare.com
+*.payments.staging.cloudflare.com
 *.pdw.dlp.teams.cloudflare.com
 *.peering.cloudflare.com
 *.peerlist.ipfs.cloudflare.com
@@ -8514,8 +8517,10 @@ daric.test.dap.cloudflare.com
 darl.ns.cloudflare.com
 darwin.ns.cloudflare.com
 dash.cloudflare.com
+dash.fed.cloudflare.com
 dash.key-transparency.cloudflare.com
 dash.staging.cloudflare.com
+dash.staging.fed.cloudflare.com
 dash.staging.realtime.cloudflare.com
 dash.teams.cloudflare.com
 data.em2.cloudflare.com
@@ -9183,6 +9188,7 @@ lleah.ns.cloudflare.com
 lloyd.ns.cloudflare.com
 lmo.ns.cloudflare.com
 lo.ns.cloudflare.com
+local-dev.ces.dlp.teams.cloudflare.com
 location-legacy.staging.realtime.cloudflare.com
 location.staging.realtime.cloudflare.com
 lochlan.ns.cloudflare.com
@@ -9976,6 +9982,7 @@ onboarding-guide-staging.dash.staging.cloudflare.com
 onboarding-guide.platform.dash.cloudflare.com
 onboarding.ipfs.cloudflare.com
 one.dash.cloudflare.com
+one.dash.fed.cloudflare.com
 one.dash.staging.cloudflare.com
 one.dash.staging.fed.cloudflare.com
 opal.ns.cloudflare.com
@@ -10014,6 +10021,7 @@ patrick.ns.cloudflare.com
 patryk.ns.cloudflare.com
 paul.ns.cloudflare.com
 payments.dash.staging.cloudflare.com
+payments.staging.cloudflare.com
 pdw.dlp.teams.cloudflare.com
 peaches.ns.cloudflare.com
 pearl.ns.cloudflare.com

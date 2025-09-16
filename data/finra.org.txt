@@ -875,6 +875,7 @@
 *.gk.dev.dr.finra.org
 *.gk.qa.finra.org
 *.gk.qa.dr.finra.org
+*.gsearch.finra.org
 *.herdgreen-int-dev.datamgt.pa.finra.org
 *.herdgreen-int-qa.datamgt.pa.finra.org
 *.iaapps.finra.org
@@ -3714,6 +3715,7 @@ finprob.finra.org
 finprochat.finra.org
 finprochatuat.finra.org
 finprogw.finra.org
+finprogw-api.finra.org
 finprogw-qa2.qa.finra.org
 finprogw.ct.finra.org
 finprogw.dev.finra.org
@@ -4014,6 +4016,8 @@ green.fist.qa.finra.org
 green.gateway-int.dev.finra.org
 green.gateway.dev.finra.org
 green.indpro-qa2.qa.finra.org
+gsearch.finra.org
+gsearchapp.finra.org
 guestwireless.finra.org
 hello.dev.finra.org
 helpchat.finra.org
@@ -6421,3 +6425,5 @@ xfer-aep-qc.finra.org
 yum.awstools.finra.org
 yum.ct.aws.finra.org
 zen.dev.finra.org
+zen.qa.finra.org
+zr53.api.gateway-qaint.qa.finra.org

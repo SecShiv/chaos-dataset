@@ -184,6 +184,7 @@
 22d3a16f8a2ad49d1b3c77232e0e847a.loom-inference.awscmhqa5.k8s.indeed.tech
 2536252e8ad1645a873840e28a68726a.loom-inference.awscmh7.k8s.indeed.tech
 2536252e8ad1645a873840e28a68726a.loom-inference.awscmhqa4.k8s.indeed.tech
+2536252e8ad1645a873840e28a68726a.loom-inference.awscmhqa5.k8s.indeed.tech
 2536252e8ad1645a873840e28a68726a.loom-inference.awsdub2.k8s.indeed.tech
 2536252e8ad1645a873840e28a68726a.loom-inference.awsnrt3.k8s.indeed.tech
 2536252e8ad1645a873840e28a68726a.loom-inference.awspdx2.k8s.indeed.tech
@@ -306,6 +307,7 @@ a58e2cbbad7c289f1e9cf1f436c19775.loom-inference.awscmh5.k8s.indeed.tech
 a58e2cbbad7c289f1e9cf1f436c19775.loom-inference.awscmh6.k8s.indeed.tech
 a58e2cbbad7c289f1e9cf1f436c19775.loom-inference.awscmhqa4.k8s.indeed.tech
 a58e2cbbad7c289f1e9cf1f436c19775.loom-inference.awspdx2.k8s.indeed.tech
+a58e2cbbad7c289f1e9cf1f436c19775.loom-inference.awsyul2.k8s.indeed.tech
 a64ef68809cb811fb423aa3470062196.loom-inference.awscmh5.k8s.indeed.tech
 a64ef68809cb811fb423aa3470062196.loom-inference.awscmh6.k8s.indeed.tech
 a64ef68809cb811fb423aa3470062196.loom-inference.awsdub2.k8s.indeed.tech
@@ -2834,6 +2836,7 @@ empac-cmhprod.cmhprod2.k8s.indeed.tech
 empac-cmhprod.cmhprod3.k8s.indeed.tech
 empaq-data-pipeline-prod-ldap.awscmh6.k8s.indeed.tech
 empaq-data-pipeline-prod-saml.awscmh6.k8s.indeed.tech
+empaq-data-pipeline-qa-ldap.awscmhqa5.k8s.indeed.tech
 empaq-vortex-rbozzolo-vortex-23-qa-ldap.awscmhqa5.k8s.indeed.tech
 empaq-vortex-rbozzolo-vortex-23-qa-saml.awscmhqa5.k8s.indeed.tech
 empaq-vortex-test-vortex-cluster-prod-ldap.awscmh5.k8s.indeed.tech
@@ -5057,6 +5060,7 @@ kaylee.stage.k8s.indeed.tech
 kellnr.indeed.tech
 kibana.indeed.tech
 kibana-advertiser-job-linking.prod.indeed.tech
+kibana-advertiser-job-linking.qa.indeed.tech
 kibana-agg.prod.indeed.tech
 kibana-agg.qa.indeed.tech
 kibana-alderaan.prod.indeed.tech
@@ -9176,6 +9180,7 @@ sovren-qa.awscmhqa4.k8s.indeed.tech
 sovren-qa.awscmhqa5.k8s.indeed.tech
 sovren-test.awscmhqa4.k8s.indeed.tech
 sovren.awscmhqa4.k8s.indeed.tech
+sovren.awscmhqa5.k8s.indeed.tech
 spark.indeed.tech
 spark-cluster.bigqa.k8s.indeed.tech
 spark.awscmh5.k8s.indeed.tech

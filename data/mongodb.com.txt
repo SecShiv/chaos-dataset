@@ -514,7 +514,9 @@ brownout.ws.services.cloud.mongodb.com
 brownout.ws.us-east-1.aws.realm.mongodb.com
 bugs.mongodb.com
 build-baron.gateway.staging.corp.mongodb.com
+build-baron.server-tig.prod.corp.mongodb.com
 build-baron.server-tig.staging.corp.mongodb.com
+build-event-service.server-tig.prod.corp.mongodb.com
 build-event-service.server-tig.staging.corp.mongodb.com
 buildbaron.corp.mongodb.com
 bux180.mongodb.com
@@ -1163,12 +1165,14 @@ mail01.elq.mongodb.com
 mail02.elq.mongodb.com
 mail03.elq.mongodb.com
 mail04.elq.mongodb.com
+mana-qa.corp.mongodb.com
 mana-rule-generator.corps.prod.corp.mongodb.com
 mana-rule-generator.corps.staging.corp.mongodb.com
 mana.corp.mongodb.com
 map-toolkit.corp.mongodb.com
 marian.mongodb.com
 mars-dev-feature-5916-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-6852-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7121-dev.dataplatform-dev.staging.corp.mongodb.com
 mars.prod.corp.mongodb.com
 mars.staging.corp.mongodb.com
@@ -1238,6 +1242,7 @@ mycelium-docs.website.staging.corp.mongodb.com
 mycelium-poc-migration.website.staging.corp.mongodb.com
 mycelium-poc-preview.website.staging.corp.mongodb.com
 mycelium-poc.website.staging.corp.mongodb.com
+mycelium-qa1.website.staging.corp.mongodb.com
 mycelium-qa14.website.staging.corp.mongodb.com
 mycelium-qa18.website.staging.corp.mongodb.com
 mycelium-qa2.website.staging.corp.mongodb.com
@@ -1437,6 +1442,7 @@ restore-backup.usw2-az1.us-west-2.mongodb.com
 restore-backup.usw2-az2.us-west-2.mongodb.com
 restore-backup.usw2-az3.us-west-2.mongodb.com
 restore-backup.usw2-az4.us-west-2.mongodb.com
+retool.ts-tools.prod.corp.mongodb.com
 rooms.corp.mongodb.com
 route-ordering.test.corp.mongodb.com
 routing.prod.corp.mongodb.com
@@ -1492,6 +1498,7 @@ server-tig.prod.corp.mongodb.com
 server-tig.staging.corp.mongodb.com
 service-accounts-mgmt.infosec.prod.corp.mongodb.com
 service-accounts-mgmt.infosec.staging.corp.mongodb.com
+service-catalog.css.prod.corp.mongodb.com
 service-catalog.css.staging.corp.mongodb.com
 service-learn.mongodb.com
 servicecatalog.prod.corp.mongodb.com
@@ -1544,6 +1551,7 @@ stage.community.mongodb.com
 stage.developer.mongodb.com
 staging-fallback.devprod-evergreen.staging.corp.mongodb.com
 staging.corp.mongodb.com
+staging.retool.ts-tools.prod.corp.mongodb.com
 static.mongodb.com
 status.mongodb.com
 status.cloud.mongodb.com

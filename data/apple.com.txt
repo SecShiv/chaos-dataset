@@ -10138,10 +10138,12 @@ afimages-origin.apple.com
 afimagesback.apple.com
 afmd.apple.com
 afmd-prod.awusw2.sbz.apple.com
+afmd-prod.awusw2.spbz.apple.com
 afmd-server.apple.com
 afmd-server-prod.awusw2.sbz.apple.com
 afmd-stage.apple.com
 afmd-stage.awusw2.sbz.apple.com
+afmd-stage.awusw2.spbz.apple.com
 afsnext.apple.com
 afsnext-mdn.apple.com
 afsnext-nwk.apple.com
@@ -10679,6 +10681,8 @@ api-books.smoot.apple.com
 api-bos.smoot.apple.com
 api-broadcast.push.apple.com
 api-broadcast.sandbox.push.apple.com
+api-business.apple.com
+api-business.awuse1.sbz.apple.com
 api-canvas.apple.com
 api-caracal.apple.com
 api-caracal-stage.apple.com
@@ -10964,6 +10968,7 @@ api-sba-ci.smoot.apple.com
 api-sba-stg.smoot.apple.com
 api-sba.smoot.apple.com
 api-school.apple.com
+api-school.awuse1.sbz.apple.com
 api-sea.smoot.apple.com
 api-searchads.apple.com
 api-sel.smoot.apple.com
@@ -14065,6 +14070,9 @@ cohortnk11.gc.apple.com
 colibri-stage-stage.msc.sbz.apple.com
 colibri-stage-stage.rno.sbz.apple.com
 colibri-stg.hwte.apple.com
+colibri.hwte.apple.com
+colibri.msc.sbz.apple.com
+colibri.rno.sbz.apple.com
 collab-edge.apple.com
 collab-edge.ucnew.apple.com
 collab-uat.bswe.apple.com
@@ -14274,6 +14282,7 @@ coop-nk-test4.siri.apple.com
 copy.apple.com
 core-aws-crl2.corp.apple.com
 core-aws-facade.corp.apple.com
+core-aws-facade1.corp.apple.com
 core-aws-facade2.corp.apple.com
 core-pilot.corp.apple.com
 coremetrics.apple.com
@@ -14295,6 +14304,9 @@ coreosqa4.apple.com
 coreostest120.apple.com
 coreostest174.apple.com
 coreostest98.apple.com
+coresentry.corp.apple.com
+coresentryisc.mdn.spbz.apple.com
+coresentryisc.prz.spbz.apple.com
 coreserverbuild.apple.com
 coreservices-e1134-ms12-kryptonite-k8scontour-ext.ls.apple.com
 coreservices-e1134-ms12-kryptonite-k8straefik.ls.apple.com
@@ -15551,6 +15563,7 @@ digital-legacy-pilot-mdn.apple.com
 digital-legacy-pilot-prn.apple.com
 digital-legacy-prn.apple.com
 digitalappqa.apple.com
+digitalid.wpc.apple.com
 dinah03.corp.apple.com
 dinah04.corp.apple.com
 dinah05.corp.apple.com
@@ -15943,9 +15956,14 @@ ec-prd-uw2-pcms.apple.com
 ec-stg-ue1-ext-pcms.apple.com
 ec-stg-uw2-ext-pcms.apple.com
 ec.pcms.apple.com
+ecm-denali-aws-pbz-prod.apple.com
+ecm-denali-aws-pbz-prod.spbz.apple.com
+ecm-denali-aws-pbz.awapse1.spbz.apple.com
 ecm-denali-aws-training-pbz.apple.com
 ecm-denali-aws-training-pbz.spbz.apple.com
 ecm-denali-aws-training.corp.apple.com
+ecm-prod.g.apple.com
+ecm.corp.apple.com
 ecollateral.apple.com
 ecommerce.apple.com
 ecommerce-mdn.apple.com
@@ -16189,6 +16207,8 @@ engage-gws-voice-apac-ap-south-pbz.apple.com
 engage-gws-voice-apac-ap-south-pbz.spbz.apple.com
 engage-gws-voice-emea-eu-west-pbz.apple.com
 engage-gws-voice-emea-eu-west-pbz.spbz.apple.com
+engage-italk-asr-ccx.spbz.apple.com
+engage-italk-tts-ccx.spbz.apple.com
 engage-msc.apple.com
 engage-old.apple.com
 engage-rno.apple.com
@@ -22647,6 +22667,7 @@ ir-expe2103.euro.apple.com
 ir-expe2104.euro.apple.com
 ir-expe2105.euro.apple.com
 ir-expe2106.euro.apple.com
+irecycle-uat.apple.com
 ireg-m.apple.com
 ireg1-m.apple.com
 ireg1m.apple.com
@@ -22743,6 +22764,7 @@ it-training.apple.com
 it-training-prz.apple.com
 it-training-reno.apple.com
 italk-ccx-asr-dev.awusw2.spbz.apple.com
+italk-ccx-tts-dev.awusw2.spbz.apple.com
 itc-contact-us.apple.com
 itc-mzstatic-origin.itunes.apple.com
 itcmobile.apple.com
@@ -24882,6 +24904,8 @@ mantis-dev.apple.com
 mantis-query.apple.com
 mantis-query-stg.apple.com
 mantis-stg.apple.com
+mantra-uat-stage.awusw2.sbz.apple.com
+mantra-uat.msi.ops.apple.com
 manualforis-query.apple.com
 manuals.apple.com
 manuals.info.apple.com
@@ -27450,6 +27474,7 @@ news-client-search.apple.com
 news-edge.apple.com
 news-events.apple.com
 news-events-old.apple.com
+news-feed-smarter-fetch.infoapps.apple.com
 news-nar-aud.apple.com
 news-notification-events.apple.com
 news-old.apple.com
@@ -30674,6 +30699,27 @@ prod-nc.brucke.apple.com
 prod-nwk.brucke.apple.com
 prod-pub.apple.com
 prod-stocks-data-service.awuse2.sbz.apple.com
+prod-use1-pod01-apay-device-ccs.apay.apple.com
+prod-use1-pod01-apple-pay-gateway.apay.apple.com
+prod-use1-pod01-creditservices.apay.apple.com
+prod-use1-pod01-navigator.apay.apple.com
+prod-use1-pod01-partnerservice.apay.apple.com
+prod-use1-pod01-paymentservice.apay.apple.com
+prod-use1-pod01-trustprovider.apay.apple.com
+prod-use1-pod01-tsm.apay.apple.com
+prod-use1-pod08-smp-device.apay.apple.com
+prod-use1-pod11-smp-device.apay.apple.com
+prod-use1-pod12-smp-device.apay.apple.com
+prod-usw2-pod01-apay-device-ccs.apay.apple.com
+prod-usw2-pod01-creditservices.apay.apple.com
+prod-usw2-pod01-merchantservices.apay.apple.com
+prod-usw2-pod01-navigator.apay.apple.com
+prod-usw2-pod01-partnerservice.apay.apple.com
+prod-usw2-pod01-smp-device.apay.apple.com
+prod-usw2-pod01-trustprovider.apay.apple.com
+prod-usw2-pod01-tsm.apay.apple.com
+prod-usw2-pod09-smp-device.apay.apple.com
+prod-usw2-pod11-smp-device.apay.apple.com
 prod-weather-data-service-eks.aweun1.sbz.apple.com
 prod-weather-data-service-traffic-mirror-eks.awusw2.sbz.apple.com
 prod-weather-forecast-sftp.mdn.sbz.apple.com
@@ -36741,6 +36787,8 @@ supportprofileit.apple.com
 supportprofileuat.apple.com
 supportreporting.apple.com
 supportreporting-stg.apple.com
+supportsite-uat-stage.apple.com
+supportsite-uat-stage.mdn.sbz.apple.com
 supporttest.apple.com
 surf.apple.com
 surf1.isoproxy.apple.com
@@ -38518,6 +38566,7 @@ use1-cert-wallet.apple.com
 use1-contentreports-prod.apple.com
 use1-core-aws-crl2-pbz-prod.awuse1.spbz.apple.com
 use1-core-aws-facade-pbz-prod.awuse1.spbz.apple.com
+use1-core-aws-facade1-pbz-prod.awuse1.spbz.apple.com
 use1-core-aws-facade2-pbz-prod.awuse1.spbz.apple.com
 use1-d032-primary-stage.apple.com
 use1-data-appattest-aws-prod.apple.com
@@ -39804,6 +39853,7 @@ usw2-collector-stage.apple.com
 usw2-contentreports-prod.apple.com
 usw2-core-aws-crl2-pbz-prod.awusw2.spbz.apple.com
 usw2-core-aws-facade-pbz-prod.awusw2.spbz.apple.com
+usw2-core-aws-facade1-pbz-prod.awusw2.spbz.apple.com
 usw2-core-aws-facade2-pbz-prod.awusw2.spbz.apple.com
 usw2-covidtools-prod.apple.com
 usw2-cvp-webex-bridge-prod.apple.com
