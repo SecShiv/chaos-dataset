@@ -2710,6 +2710,7 @@ edge-envoy-ingress.awscmhstage.k8s.indeed.tech
 edge-envoy-ingress.awscmhstage2.k8s.indeed.tech
 edge-envoy-ingress.awsdub.k8s.indeed.tech
 edge-envoy-ingress.awsdub2.k8s.indeed.tech
+edge-envoy-ingress.awsfra1.k8s.indeed.tech
 edge-envoy-ingress.awsnrt2.k8s.indeed.tech
 edge-envoy-ingress.awsnrt3.k8s.indeed.tech
 edge-envoy-ingress.awsnrtqa.k8s.indeed.tech
@@ -2728,6 +2729,7 @@ edge-envoy-ingress.cmhqa1.k8s.indeed.tech
 edge-envoy-ingress.cmhqa2.k8s.indeed.tech
 edge-envoy-ingress.cmhqa3.k8s.indeed.tech
 edge-envoy-ingress.dubprod1.k8s.indeed.tech
+edge-envoy-ingress.eu-central-1.indeed.tech
 edge-envoy-ingress.eu-west-1.indeed.tech
 edge-envoy-ingress.infra.indeed.tech
 edge-envoy-ingress.pdxprod1.k8s.indeed.tech
@@ -5071,6 +5073,7 @@ kibana-architecture-diagram-generator.prod.indeed.tech
 kibana-architecture-diagram-generator.qa.indeed.tech
 kibana-assessments.prod.indeed.tech
 kibana-assessments.qa.indeed.tech
+kibana-atiadeployment.prod.indeed.tech
 kibana-automation.qa.indeed.tech
 kibana-backstage-indeed-elasticsearch.prod.indeed.tech
 kibana-backstage-indeed-elasticsearch.qa.indeed.tech
@@ -6052,6 +6055,8 @@ metadata-neodash-editor.awscmhqa5.k8s.indeed.tech
 metadata-neodash.awscmhqa2.k8s.indeed.tech
 metadata-neodash.awscmhqa5.k8s.indeed.tech
 metadata-tensorflow-serving-sidecar.awscmhqa3.k8s.indeed.tech
+metadata-vector-search-qdrant.awscmhqa5.k8s.indeed.tech
+metadata-vector-search-vespa.awscmhqa5.k8s.indeed.tech
 metadata.butterfly.prod.indeed.tech
 metadata.butterfly.qa.indeed.tech
 metastore.qa.indeed.tech
@@ -9184,6 +9189,7 @@ sovren.awscmhqa5.k8s.indeed.tech
 spark.indeed.tech
 spark-cluster.bigqa.k8s.indeed.tech
 spark.awscmh5.k8s.indeed.tech
+spark.awscmh6.k8s.indeed.tech
 spark.awscmhinfra3.k8s.indeed.tech
 spark.awscmhqa4.k8s.indeed.tech
 spark.awscmhqa5.k8s.indeed.tech
@@ -10634,6 +10640,7 @@ violet.qa.k8s.indeed.tech
 violet.tyates.dev.indeed.tech
 visibility-draw-plugin.cmh.k8s.indeed.tech
 vispana.awscmhqa3.k8s.indeed.tech
+vortex-mdp-feature-builder-experimental.awscmh6.k8s.indeed.tech
 vortex-mdp-online-integration-syncer-ldap.awscmhqa4.k8s.indeed.tech
 vortex-mdp-online-integration-syncer-saml.awscmhqa4.k8s.indeed.tech
 vortex-mdp-online-integration-syncer.awscmhqa4.k8s.indeed.tech
@@ -10981,7 +10988,3 @@ zapinfo.qa.awscmhqa.k8s.indeed.tech
 zapinfo.sandbox.indeed.tech
 zapinfo.sandbox.awscmhqa.k8s.indeed.tech
 zeebe.osqa.k8s.indeed.tech
-zentral.cpe.indeed.tech
-zentral.staging.cpe.indeed.tech
-zhiyuan-test-lemma-webapp.awscmhqa3.k8s.indeed.tech
-ztna.indeed.tech

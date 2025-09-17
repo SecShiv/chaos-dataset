@@ -789,6 +789,7 @@ platforms-platform-pwa.k8s-prod-use4.p.gcp.oanda.com
 platforms-platform-pwa.k8s-stg-usc1.s.gcp.oanda.com
 platforms-platform-pwa.k8s-uat-usc1.u.gcp.oanda.com
 platforms-up-ci-tests.k8s-uat-usc1.u.gcp.oanda.com
+platforms-up-kafka-processor-dark.k8s-prod-use4.p.gcp.oanda.com
 platforms-up-kafka-processor-dark.k8s-stg-usc1.s.gcp.oanda.com
 platforms-up-kafka-processor.k8s-prod-use4.p.gcp.oanda.com
 platforms-up-kafka-processor.k8s-stg-usc1.s.gcp.oanda.com
@@ -1100,11 +1101,13 @@ services-user-interceptor.k8s-stg-usc1.s.gcp.oanda.com
 services-user-interceptor.k8s-uat-usc1.u.gcp.oanda.com
 services-user-management-automation.k8s-uat-usc1.u.gcp.oanda.com
 services-user-management-dark.k8s-prod-use4.p.gcp.oanda.com
+services-user-management-dark.k8s-stg-euw3.s.gcp.oanda.com
 services-user-management-dark.k8s-stg-usc1.s.gcp.oanda.com
 services-user-management-listener.k8s-prod-use4.p.gcp.oanda.com
 services-user-management-listener.k8s-stg-usc1.s.gcp.oanda.com
 services-user-management-listener.k8s-uat-usc1.u.gcp.oanda.com
 services-user-management.k8s-prod-use4.p.gcp.oanda.com
+services-user-management.k8s-stg-euw3.s.gcp.oanda.com
 services-user-management.k8s-stg-usc1.s.gcp.oanda.com
 services-user-management.k8s-uat-usc1.u.gcp.oanda.com
 sf-game.oanda.com
@@ -1178,6 +1181,7 @@ sitegateway-streaming.k8s-uat-usc1.u.gcp.oanda.com
 sitegateway.k8s-dev-usc1.d.gcp.oanda.com
 sitegateway.k8s-prod-asne1.p.gcp.oanda.com
 sitegateway.k8s-prod-euw3.p.gcp.oanda.com
+sitegateway.k8s-prod-use4.p.gcp.oanda.com
 sitegateway.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway.k8s-uat-asne1.u.gcp.oanda.com
 sitegateway.k8s-uat-euw3.u.gcp.oanda.com

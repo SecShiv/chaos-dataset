@@ -76571,6 +76571,7 @@ au01iobackup201.mel.zoom.us
 au01iobackup201.syd.zoom.us
 au01kiwi.zoom.us
 au01logfiles.zoom.us
+au01logsystem.zoom.us
 au01mdmdevice.zoom.us
 au01meai3lb.zoom.us
 au01migration.zoom.us
@@ -76886,6 +76887,7 @@ au01st3.zoom.us
 au01tasks.zoom.us
 au01tasks-internal.zoom.us
 au01team.zoom.us
+au01udms.zoom.us
 au01uiproxy.zoom.us
 au01user.zoom.us
 au01va1calendarapi.zoom.us
@@ -78414,6 +78416,7 @@ chatgateway-ap-southeast-2.cloud.zoom.us
 chatgateway-ca-central-1.cloud.zoom.us
 chatgateway-eu-central-1.cloud.zoom.us
 chatgateway-go-aws-us-east-1.cloud.zoom.us
+chatgateway-go-aws-us-east-2.ai.cloud.zoom.us
 chatgateway-go-colo-iad-1.cloud.zoom.us
 chatgateway-go-colo-sjc-1.cloud.zoom.us
 chatgateway-go-go.cloud.zoom.us
@@ -78445,6 +78448,7 @@ chortek.zoom.us
 christianscience.zoom.us
 chroniclesofctr.zoom.us
 chrr.zoom.us
+chs-go-aws-va1.cloud.zoom.us
 chs-go-colo-sjc1.sjc.zoom.us
 chs-prod-aws-eu01.cloud.zoom.us
 chs-prod-aws-in01.cloud.zoom.us
@@ -78800,6 +78804,7 @@ dartmouth.zoom.us
 das.zoom.us
 das-internal.zoom.us
 dasnr.zoom.us
+data-infra-eu02-web-va1.zoom.us
 data-ingestionwfm.zoom.us
 data-ingestionwfm-va.zoom.us
 data-ingestionwfm-va2.zoom.us
@@ -78825,9 +78830,12 @@ dbmanager-eng.zoom.us
 dcc.zoom.us
 dccc.zoom.us
 dcmoboces.zoom.us
+dcsngxct.cloud.zoom.us
 dcsngxhkg.hkg.zoom.us
 dcsngxsjc.sjc.zoom.us
+dcsznginx-prod-aws-ct.cloud.zoom.us
 dcsznginx-prod-colo-hkg.hkg.zoom.us
+dcsznginx-prod-colo-sjc.sjc.zoom.us
 dcvc.zoom.us
 ddisystem.zoom.us
 de-cix.fra12.zoom.us
@@ -80203,6 +80211,7 @@ eu01tasks.zoom.us
 eu01tasks-internal.zoom.us
 eu01team.zoom.us
 eu01tts.zoom.us
+eu01udms.zoom.us
 eu01uiproxy.zoom.us
 eu01user.zoom.us
 eu01va1calendarapi.zoom.us
@@ -80453,6 +80462,7 @@ eu02file-paa.zoom.us
 eu02file-quic.zoom.us
 eu02file-vod.zoom.us
 eu02fileapi.zoom.us
+eu02frontline.zoom.us
 eu02grafanapbx.zoom.us
 eu02grafanazp.zoom.us
 eu02hwaccess01.fr.zoom.us
@@ -80809,6 +80819,8 @@ eu02xmppapi.zoom.us
 eu02xmppgateway-wss.zoom.us
 eu02xmppwss.zoom.us
 eu02xmppwsswebinar.zoom.us
+eu02zcp-zoomedge.zoom.us
+eu02zcpd-d.zoom.us
 eu02zdm.zoom.us
 eu02zdm-oh1.zoom.us
 eu02zdm-prov.zoom.us
@@ -80901,6 +80913,8 @@ fctgasia.zoom.us
 fdiinc.zoom.us
 fdlrez.zoom.us
 fdu.zoom.us
+feature-toggle.zoom.us
+feature-toggle-oh1.zoom.us
 fedaiscoring-colo-iad-1.cloud.zoom.us
 fedaiscoring-colo-sjc-1.cloud.zoom.us
 fedaiscoring-dg01-aws-us-east-2.cloud.zoom.us
@@ -84037,6 +84051,7 @@ hqasr-worker-english-13-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-13-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-14-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-14-prod-colo-sjc2.cloud.zoom.us
+hqasr-worker-english-15-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-16-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-16-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-18-prod-colo-iad2.cloud.zoom.us
@@ -84377,6 +84392,7 @@ in01intfile.zoom.us
 in01intst.zoom.us
 in01kiwi.zoom.us
 in01logfiles.zoom.us
+in01logsystem.zoom.us
 in01mdmdevice.zoom.us
 in01migration.zoom.us
 in01migration-internal.zoom.us
@@ -84770,8 +84786,14 @@ join.zoom.us
 joinheadspace.zoom.us
 joirides.zoom.us
 jp01-infra.zoom.us
+jp01-infra-oh1.zoom.us
 jp01-infra-va1.zoom.us
 jp01-infra-va1-internal.zoom.us
+jp01-infra-va2.zoom.us
+jp01-web.zoom.us
+jp01-web-oh1.zoom.us
+jp01-web-va1.zoom.us
+jp01-web-va2.zoom.us
 jp01-xmpp.zoom.us
 jp01-xmpp-i.zoom.us
 jp01-xmpp-va1.zoom.us
@@ -88090,10 +88112,12 @@ sg01logsystem.zoom.us
 sg01mdmdevice.zoom.us
 sg01migration.zoom.us
 sg01migration-internal.zoom.us
+sg01mqttws.zoom.us
 sg01mqttws-device.zoom.us
 sg01mqttws-device-oh1.zoom.us
 sg01mqttws-device-va1.zoom.us
 sg01mqttws-device-va2.zoom.us
+sg01mqttws-hash.zoom.us
 sg01mws.zoom.us
 sg01nws.zoom.us
 sg01nws-va1.zoom.us
@@ -88103,6 +88127,7 @@ sg01opanalyzer.zoom.us
 sg01pbx-va1-ucs-nginx1.zoom.us
 sg01pbx-va1-ucs-nginx2.zoom.us
 sg01pmcapi.zoom.us
+sg01rule-engine.zoom.us
 sg01searchpilot.zoom.us
 sg01sequence.zoom.us
 sg01sipproxy.zoom.us
@@ -88126,6 +88151,10 @@ sg01xmppapi.zoom.us
 sg01xmppgateway-wss.zoom.us
 sg01xmppwss.zoom.us
 sg01xmppwsswebinar.zoom.us
+sg01zdm.zoom.us
+sg01zdm-oh1.zoom.us
+sg01zdm-va1.zoom.us
+sg01zdm-va2.zoom.us
 sg01zdmapi.zoom.us
 sg01zdmapi-dten.zoom.us
 sg01zdmapi-logi.zoom.us
@@ -88821,6 +88850,8 @@ syngenta.zoom.us
 sysbc.sy.zoom.us
 sysbca.sy.zoom.us
 sysbcb.sy.zoom.us
+system-br01-web.zoom.us
+system-br01-web-va1.zoom.us
 system-dg01-web-va1.zoom.us
 system-go-infra-va1.zoom.us
 syta.zoom.us
@@ -88946,8 +88977,11 @@ tmc.zoom.us
 tmpworldwide.zoom.us
 tnc.zoom.us
 tnsml-sid.zoom.us
+tnsml-sid-au.zoom.us
 tnsml-sid-ca.zoom.us
 tnsml-sid-eu.zoom.us
+tnsml-sid-eu02.zoom.us
+tnsml-sid-in.zoom.us
 toadkk-co-jp.zoom.us
 tom-eu01.zoom.us
 tom-go.zoom.us
@@ -90215,6 +90249,7 @@ us01pbxintfs301.ams.zoom.us
 us01pbxintfs301.fra.zoom.us
 us01pbxintfs301.iad.zoom.us
 us01pbxintfs301.kix.zoom.us
+us01pbxintfs301.nrt.zoom.us
 us01pbxintfs301.sin.zoom.us
 us01pbxintfs301.sjc.zoom.us
 us01pbxintfs401.iad.zoom.us
@@ -90230,6 +90265,7 @@ us01pbxintms301.ams.zoom.us
 us01pbxintms301.fra.zoom.us
 us01pbxintms301.iad.zoom.us
 us01pbxintms301.kix.zoom.us
+us01pbxintms301.nrt.zoom.us
 us01pbxintms301.sin.zoom.us
 us01pbxintms301.sjc.zoom.us
 us01pbxintms401.iad.zoom.us
@@ -90245,6 +90281,7 @@ us01pbxintopensips301.ams.zoom.us
 us01pbxintopensips301.fra.zoom.us
 us01pbxintopensips301.iad.zoom.us
 us01pbxintopensips301.kix.zoom.us
+us01pbxintopensips301.nrt.zoom.us
 us01pbxintopensips301.sin.zoom.us
 us01pbxintopensips301.sjc.zoom.us
 us01pbxintopensips401.iad.zoom.us
@@ -90260,6 +90297,7 @@ us01pbxintrs301.ams.zoom.us
 us01pbxintrs301.fra.zoom.us
 us01pbxintrs301.iad.zoom.us
 us01pbxintrs301.kix.zoom.us
+us01pbxintrs301.nrt.zoom.us
 us01pbxintrs301.sin.zoom.us
 us01pbxintrs301.sjc.zoom.us
 us01pbxintrs401.iad.zoom.us
@@ -90275,6 +90313,7 @@ us01pbxintrtts301.ams.zoom.us
 us01pbxintrtts301.fra.zoom.us
 us01pbxintrtts301.iad.zoom.us
 us01pbxintrtts301.kix.zoom.us
+us01pbxintrtts301.nrt.zoom.us
 us01pbxintrtts301.sin.zoom.us
 us01pbxintrtts301.sjc.zoom.us
 us01pbxintrtts401.iad.zoom.us
@@ -90484,6 +90523,7 @@ us01pbxsbcintacc201.hkg.zoom.us
 us01pbxsbcintacc301.ams.zoom.us
 us01pbxsbcintacc301.fra.zoom.us
 us01pbxsbcintacc301.kix.zoom.us
+us01pbxsbcintacc301.nrt.zoom.us
 us01pbxsbcintacc301.sin.zoom.us
 us01pbxsbcintacc301a.iad.zoom.us
 us01pbxsbcintacc301a.sjc.zoom.us
@@ -90497,6 +90537,7 @@ us01pbxsbcintbyoc201.hkg.zoom.us
 us01pbxsbcintbyoc301.ams.zoom.us
 us01pbxsbcintbyoc301.fra.zoom.us
 us01pbxsbcintbyoc301.kix.zoom.us
+us01pbxsbcintbyoc301.nrt.zoom.us
 us01pbxsbcintbyoc301.sin.zoom.us
 us01pbxsbcintbyop01.am.zoom.us
 us01pbxsbcintbyop01.fr.zoom.us
@@ -90521,6 +90562,7 @@ us01pbxsbcintice201.hkg.zoom.us
 us01pbxsbcintice301.ams.zoom.us
 us01pbxsbcintice301.fra.zoom.us
 us01pbxsbcintice301.kix.zoom.us
+us01pbxsbcintice301.nrt.zoom.us
 us01pbxsbcintice301.sin.zoom.us
 us01pbxsbcintice301a.iad.zoom.us
 us01pbxsbcintice301a.sjc.zoom.us
@@ -90540,6 +90582,7 @@ us01pbxsbcintinter301.ams.zoom.us
 us01pbxsbcintinter301.fra.zoom.us
 us01pbxsbcintinter301.iad.zoom.us
 us01pbxsbcintinter301.kix.zoom.us
+us01pbxsbcintinter301.nrt.zoom.us
 us01pbxsbcintinter301.sin.zoom.us
 us01pbxsbcintinter301.sjc.zoom.us
 us01pbxsbcintinter401.iad.zoom.us
@@ -90554,6 +90597,7 @@ us01pbxsbcintonnet301.ams.zoom.us
 us01pbxsbcintonnet301.fra.zoom.us
 us01pbxsbcintonnet301.iad.zoom.us
 us01pbxsbcintonnet301.kix.zoom.us
+us01pbxsbcintonnet301.nrt.zoom.us
 us01pbxsbcintonnet301.sin.zoom.us
 us01pbxsbcintonnet301.sjc.zoom.us
 us01pbxsbcintonnet401.iad.zoom.us
@@ -90572,6 +90616,7 @@ us01pbxsbcintopacc201.hkg.zoom.us
 us01pbxsbcintopacc301.ams.zoom.us
 us01pbxsbcintopacc301.fra.zoom.us
 us01pbxsbcintopacc301.kix.zoom.us
+us01pbxsbcintopacc301.nrt.zoom.us
 us01pbxsbcintopacc301.sin.zoom.us
 us01pbxsbcintopacc301a.iad.zoom.us
 us01pbxsbcintopacc301a.sjc.zoom.us
@@ -90592,6 +90637,7 @@ us01pbxsbcintopcrc301.ams.zoom.us
 us01pbxsbcintopcrc301.fra.zoom.us
 us01pbxsbcintopcrc301.iad.zoom.us
 us01pbxsbcintopcrc301.kix.zoom.us
+us01pbxsbcintopcrc301.nrt.zoom.us
 us01pbxsbcintopcrc301.sin.zoom.us
 us01pbxsbcintopcrc301.sjc.zoom.us
 us01pbxsbcintopcrc401.iad.zoom.us
@@ -90607,6 +90653,7 @@ us01pbxsbcintpeer301.ams.zoom.us
 us01pbxsbcintpeer301.fra.zoom.us
 us01pbxsbcintpeer301.iad.zoom.us
 us01pbxsbcintpeer301.kix.zoom.us
+us01pbxsbcintpeer301.nrt.zoom.us
 us01pbxsbcintpeer301.sin.zoom.us
 us01pbxsbcintpeer301.sjc.zoom.us
 us01pbxsbcintpeer401.iad.zoom.us
@@ -90624,6 +90671,7 @@ us01pbxsbcintwrtc201.hkg.zoom.us
 us01pbxsbcintwrtc301.ams.zoom.us
 us01pbxsbcintwrtc301.fra.zoom.us
 us01pbxsbcintwrtc301.kix.zoom.us
+us01pbxsbcintwrtc301.nrt.zoom.us
 us01pbxsbcintwrtc301.sin.zoom.us
 us01pbxsbcintwrtc301a.iad.zoom.us
 us01pbxsbcintwrtc301a.sjc.zoom.us
@@ -95143,6 +95191,13 @@ us07commonconsumer-va.zoom.us
 us07commonconsumer-va2.zoom.us
 us07das.zoom.us
 us07das-internal.zoom.us
+us07docs.zoom.us
+us07docs-internal.zoom.us
+us07docs-internal-oh1.zoom.us
+us07docs-internal-va1.zoom.us
+us07docs-oh1.zoom.us
+us07docs-va1.zoom.us
+us07docsd-d.zoom.us
 us07ekszese.zoom.us
 us07ekszese2.zoom.us
 us07events.zoom.us
@@ -110618,6 +110673,7 @@ zpcc-amd-prod-1.fra.zoom.us
 zpcc-amd-prod-1.iad.zoom.us
 zpcc-amd-prod-1.kix.zoom.us
 zpcc-amd-prod-1.nrt.zoom.us
+zpcc-amd-prod-1.sin.zoom.us
 zpcc-amd-prod-1.sjc.zoom.us
 zpcc-harbor.dv.zoom.us
 zpcc-harbor.iad.zoom.us

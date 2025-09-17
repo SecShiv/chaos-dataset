@@ -51,6 +51,7 @@
 *.helix.gsa.gov
 *.iad.gsa.gov
 *.integration.orders.fas.gsa.gov
+*.managed.fleet-prod.fcs.gsa.gov
 *.marketplace.fleet-dev.fcs.gsa.gov
 *.marketplace.fleet-prod.fcs.gsa.gov
 *.marketplace.fleet-stg.fcs.gsa.gov
@@ -88,6 +89,7 @@
 *.prod.ocms.mcaas.fcs.gsa.gov
 *.prod.ogpvp.mcaas.fcs.gsa.gov
 *.prod.pipe.mcaas.fcs.gsa.gov
+*.prod.sss.mcaas.fcs.gsa.gov
 *.prod.tem.mcaas.fcs.gsa.gov
 *.production.orders.fas.gsa.gov
 *.pwa.fleet-dev.fcs.gsa.gov
@@ -67568,6 +67570,7 @@ mailgate13.gsa.gov
 mailgate14.gsa.gov
 mailhog.fleet-dev.fcs.gsa.gov
 mailhost.fss.gsa.gov
+managed.fleet-prod.fcs.gsa.gov
 maps.gsa.gov
 maps.stg.gsa.gov
 marketplace.fleet-dev.fcs.gsa.gov
@@ -67921,6 +67924,7 @@ portal.test-eos.gsa.gov
 portal.usaccess.gsa.gov
 portalguard.gsa.gov
 portfolios-folio.staging.gsa.gov
+ppms-ai-api-uat.dev-ppm.fcs.gsa.gov
 ppms-api-test.test-ppm.fcs.gsa.gov
 ppms-app-ui-develop.dev-ppm.fcs.gsa.gov
 ppms-app-ui-feature-jm-eks.test-ppm.fcs.gsa.gov
@@ -67954,6 +67958,8 @@ ppms-property-reporting-api-develop.dev-ppm.fcs.gsa.gov
 ppms-property-reporting-api-test.dev-ppm.fcs.gsa.gov
 ppms-property-reporting-api-test.test-ppm.fcs.gsa.gov
 ppms-property-reporting-api-uat.dev-ppm.fcs.gsa.gov
+ppms-redis-insight-develop.dev-ppm.fcs.gsa.gov
+ppms-redis-insight-uat.dev-ppm.fcs.gsa.gov
 ppms-sales-api-develop.dev-ppm.fcs.gsa.gov
 ppms-sales-api-test.dev-ppm.fcs.gsa.gov
 ppms-sales-api-test.test-ppm.fcs.gsa.gov
@@ -69375,4 +69381,3 @@ zipkin-collector.mgmt-ppm.fcs.gsa.gov
 zipkin-collector.test-ppm.fcs.gsa.gov
 zipkin-ui.dev-ppm.fcs.gsa.gov
 zipkin-ui.mgmt-ppm.fcs.gsa.gov
-zipkin-ui.test-ppm.fcs.gsa.gov

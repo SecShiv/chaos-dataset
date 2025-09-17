@@ -1146,6 +1146,7 @@
 *.perf.2022.ca.turbotaxonline.intuit.com
 *.perf.2023.ca.turbotaxonline.intuit.com
 *.perf.2024.ca.turbotaxonline.intuit.com
+*.perf.2025.ca.turbotaxonline.intuit.com
 *.perf.a.intuit.com
 *.perf.qbo.intuit.com
 *.perf.turbotaxonline.intuit.com
@@ -1681,6 +1682,8 @@
 *.testsshekhar5sl2.a.intuit.com
 *.testtools.psp-pp.intuit.com
 *.testzonenigel.a.intuit.com
+*.tidepool-preprod.a.intuit.com
+*.tidepool.a.intuit.com
 *.tincan2-ppd.a.intuit.com
 *.tincan2.a.intuit.com
 *.tis-preprod.a.intuit.com
@@ -3353,6 +3356,7 @@ acct-tax-eng-2023-proconnect.pcgprduse2.iks2.a.intuit.com
 acct-tax-eng-2023-proconnect.pcgprdusw2.iks2.a.intuit.com
 acct-tax-eng-2024-incometax.pcgprdusw2.iks2.a.intuit.com
 acct-tax-eng-2024-proconnect.pcgprdusw2.iks2.a.intuit.com
+acct-tax-eng-2025-proconnect.pcgprduse2.iks2.a.intuit.com
 acctrv-api-subsmgmt.t4iprdusw2.iks2.a.intuit.com
 acctrv-genplugin-subsmgmt.t4iprdpciusw2.iks2.a.intuit.com
 acctrv-pri-async-subsmgmt.t4iobill1prdusw2.iks2.a.intuit.com
@@ -40405,6 +40409,12 @@ incometax-prd-acct-tax-eng-2023-stable.pcgprdusw2.iks2.a.intuit.com
 incometax-prd-acct-tax-eng-2024-desired.pcgprdusw2.iks2.a.intuit.com
 incometax-prd-acct-tax-eng-2024-root.pcgprdusw2.iks2.a.intuit.com
 incometax-prd-acct-tax-eng-2024-stable.pcgprdusw2.iks2.a.intuit.com
+incometax-prd-acct-tax-eng-2025-albc-desired.pcgprduse2.iks2.a.intuit.com
+incometax-prd-acct-tax-eng-2025-albc-root.pcgprduse2.iks2.a.intuit.com
+incometax-prd-acct-tax-eng-2025-albc-stable.pcgprduse2.iks2.a.intuit.com
+incometax-prd-acct-tax-eng-2025-desired.pcgprduse2.iks2.a.intuit.com
+incometax-prd-acct-tax-eng-2025-root.pcgprduse2.iks2.a.intuit.com
+incometax-prd-acct-tax-eng-2025-stable.pcgprduse2.iks2.a.intuit.com
 incometax-prd-input-view-catalog-svc-albc-desired.pcgprduse2.iks2.a.intuit.com
 incometax-prd-input-view-catalog-svc-albc-desired.pcgprdusw2.iks2.a.intuit.com
 incometax-prd-input-view-catalog-svc-albc-root.pcgprduse2.iks2.a.intuit.com
@@ -40473,6 +40483,9 @@ incometax-prep-stg-direct-tax-prep-service.cgrtbprdusw2.iks2.a.intuit.com
 incometax-prep-stg-qbit-service.sbgqboprodusw2.iks2.a.intuit.com
 incometax-prep-stg-tax-return-data-resolution.cgtaxproduse2.iks2.a.intuit.com
 incometax-prep-stg-tax-return-data-resolution.cgtaxprodusw2.iks2.a.intuit.com
+incometax-qal-acct-tax-eng-2025-albc-desired.pcgppduse2.iks2.a.intuit.com
+incometax-qal-acct-tax-eng-2025-albc-root.pcgppduse2.iks2.a.intuit.com
+incometax-qal-acct-tax-eng-2025-albc-stable.pcgppduse2.iks2.a.intuit.com
 incometax-stg-accountant-core-service.pcgprdusw2.iks2.a.intuit.com
 incometax-stg-acct-tax-eng-2013-desired.pcgprdusw2.iks2.a.intuit.com
 incometax-stg-acct-tax-eng-2013-root.pcgprdusw2.iks2.a.intuit.com
@@ -46663,6 +46676,7 @@ medialabs.intuit.com
 mediaspace.intuit.com
 medibuddy.sso.intuit.com
 medusa-api.kaos.a.intuit.com
+meet.app.intuit.com
 meetingplace.intuit.com
 meetingplace1.intuit.com
 meetingplace1a.intuit.com
@@ -53080,6 +53094,8 @@ payroll-payrolltax-prd-efepr-data-governance.payrollbo-prod-use2.iks.a.intuit.co
 payroll-payrolltax-prd-efepr-data-governance.payrollbo-sgmnt-prod-usw2.iks.a.intuit.com
 payroll-payrolltax-prd-efepr-services-filer-service.payrollbo-prod-use2.iks.a.intuit.com
 payroll-payrolltax-prd-efepr-services-filer-service.payrollbo-sgmnt-prod-usw2.iks.a.intuit.com
+payroll-payrolltax-prd-efepr-services-operator-service.payrollboprduse2.iks2.a.intuit.com
+payroll-payrolltax-prd-efepr-services-operator-service.payrollboprdusw2.iks2.a.intuit.com
 payroll-payrolltax-prd-efepr-services.payrollbo-ppd-use2.iks.a.intuit.com
 payroll-payrolltax-prd-efepr-services.payrollbo-prod-use2.iks.a.intuit.com
 payroll-payrolltax-prd-efepr-services.payrollbo-sgmnt-prod-usw2.iks.a.intuit.com
@@ -54256,6 +54272,7 @@ perf.2021.ca.turbotaxonline.intuit.com
 perf.2022.ca.turbotaxonline.intuit.com
 perf.2023.ca.turbotaxonline.intuit.com
 perf.2024.ca.turbotaxonline.intuit.com
+perf.2025.ca.turbotaxonline.intuit.com
 perf.a.intuit.com
 perf.accountants.intuit.com
 perf.accountants.quickbooks.web.qdc.intuit.com
@@ -55762,6 +55779,7 @@ pr-next-release-95.dataclassifier.sdm.intuit.com
 pr-next-release-96.dataclassifier.sdm.intuit.com
 pr-next-release-97.dataclassifier.sdm.intuit.com
 pr-next-release.dataclassifier.sdm.intuit.com
+pr-operator-service.payrollboprd.iks2.a.intuit.com
 pr-pr-172.dataclassifier.sdm.intuit.com
 pr-pr-173.dataclassifier.sdm.intuit.com
 pr-pr-174.dataclassifier.sdm.intuit.com
@@ -76408,6 +76426,7 @@ tax-filing-prd-tax-filing.cg-tax-prod-use2.iks.a.intuit.com
 tax-filing-prd-tax-filing.cg-tax-prod-usw2.iks.a.intuit.com
 tax-filing-prd-tax-filing.cgtaxproduse2.iks2.a.intuit.com
 tax-filing-prd-tax-filing.cgtaxprodusw2.iks2.a.intuit.com
+tax-filing-prd-taxmoneymanager.cgtaxprodusw2.iks2.a.intuit.com
 tax-filing-prd-transform-service.pcgprduse2.iks2.a.intuit.com
 tax-filing-prd-transform-service.pcgprdusw2.iks2.a.intuit.com
 tax-filing-stg-1-formfly.futures-prod-usw2.iks.a.intuit.com
@@ -77057,6 +77076,7 @@ taxmapping-qalws.ilb.intuit.com
 taxmapping-qalws.lb.intuit.com
 taxmd.intuit.com
 taxml-iso-prdap.ilb.intuit.com
+taxmoneymanager-taxfiling.cgtaxprodusw2.iks2.a.intuit.com
 taxonline.intuit.com
 taxonline-ws.intuit.com
 taxonomy.a.intuit.com
@@ -92636,6 +92656,7 @@ ww1.perf.2021.ca.turbotaxonline.intuit.com
 ww1.perf.2022.ca.turbotaxonline.intuit.com
 ww1.perf.2023.ca.turbotaxonline.intuit.com
 ww1.perf.2024.ca.turbotaxonline.intuit.com
+ww1.perf.2025.ca.turbotaxonline.intuit.com
 ww1.perf.irapps.intuit.com
 ww1.qal.2021.ca.turbotaxonline.intuit.com
 ww1.qal.2022.ca.turbotaxonline.intuit.com
@@ -93069,4 +93090,3 @@ zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
 zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
-zycada.quickbooks.intuit.com

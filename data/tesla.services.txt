@@ -4,6 +4,11 @@
 *.artifactory-eu.it.tesla.services
 *.artifactory.it.tesla.services
 *.core.tesla.services
+*.data.ap.tesla.services
+*.data.dev.ap.tesla.services
+*.data.eng.ap.tesla.services
+*.data.prd.ap.tesla.services
+*.data.tst.ap.tesla.services
 *.dev.ap.tesla.services
 *.dev.me.tesla.services
 *.eng.ap.tesla.services
@@ -38,6 +43,7 @@
 *.tclips.dev.ap.tesla.services
 *.tclips.eng.ap.tesla.services
 *.tclips.prd.ap.tesla.services
+*.tclips.stage.ap.tesla.services
 *.teleport.it.tesla.services
 *.teslavision.mo.tesla.services
 *.test-arf.it.tesla.services
@@ -7404,6 +7410,3 @@ z.tesla.services
 zestia.tesla.services
 zeus.tesla.services
 zimbra.tesla.services
-zip3-dev-loadtest.mo.tesla.services
-zip3-dev.mo.tesla.services
-zip3.mo.tesla.services

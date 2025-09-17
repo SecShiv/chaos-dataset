@@ -167,6 +167,7 @@
 *.prod-eu1-asana-cell01-ff94ab31.app.asana.com
 *.prod-eu1-asana-cell01-rollout.app.asana.com
 *.prod-eu1-asana-cell01.app.asana.com
+*.prod-eu1-asana-cell02-0b05e1d3.app.asana.com
 *.prod-eu1-asana-cell02-33e059d3.app.asana.com
 *.prod-eu1-asana-cell02-441d1bc4.app.asana.com
 *.prod-eu1-asana-cell02-96d9d049.app.asana.com
@@ -220,6 +221,7 @@
 *.prod-us1-asana-cell05-60c30739.app.asana.com
 *.prod-us1-asana-cell05-661fd829.app.asana.com
 *.prod-us1-asana-cell05-95540e75.app.asana.com
+*.prod-us1-asana-cell05-aca05f88.app.asana.com
 *.prod-us1-asana-cell05-d1b6d269.app.asana.com
 *.prod-us1-asana-cell05-d8dba564.app.asana.com
 *.prod-us1-asana-cell05-rollout.app.asana.com
@@ -274,6 +276,7 @@
 *.prod-us1-asana-cell13-062758b6.app.asana.com
 *.prod-us1-asana-cell13-066ff195.app.asana.com
 *.prod-us1-asana-cell13-5b4cf902.app.asana.com
+*.prod-us1-asana-cell13-691624b4.app.asana.com
 *.prod-us1-asana-cell13-6b8e2ab7.app.asana.com
 *.prod-us1-asana-cell13-c75783bc.app.asana.com
 *.prod-us1-asana-cell13-cd0ae160.app.asana.com
@@ -282,12 +285,14 @@
 *.prod-us1-asana-cell14-119c2e12.app.asana.com
 *.prod-us1-asana-cell14-1f1b15e0.app.asana.com
 *.prod-us1-asana-cell14-34b9918a.app.asana.com
+*.prod-us1-asana-cell14-4c328ea9.app.asana.com
 *.prod-us1-asana-cell14-94a989ff.app.asana.com
 *.prod-us1-asana-cell14-c156bbd1.app.asana.com
 *.prod-us1-asana-cell14-d17b2caa.app.asana.com
 *.prod-us1-asana-cell14-rollout.app.asana.com
 *.prod-us1-asana-cell14.app.asana.com
 *.prod-us1-asana-cell15-680810a1.app.asana.com
+*.prod-us1-asana-cell15-9333a228.app.asana.com
 *.prod-us1-asana-cell15-de04dcdf.app.asana.com
 *.prod-us1-asana-cell15-rollout.app.asana.com
 *.prod-us1-asana-cell15.app.asana.com
@@ -846,6 +851,8 @@ prod-eu1-asana-cell01-ff94ab31.app.asana.com
 prod-eu1-asana-cell01-ff94ab31.asana.argocd.app.asana.com
 prod-eu1-asana-cell01-rollout.app.asana.com
 prod-eu1-asana-cell01.app.asana.com
+prod-eu1-asana-cell02-0b05e1d3.app.asana.com
+prod-eu1-asana-cell02-0b05e1d3.asana.argocd.app.asana.com
 prod-eu1-asana-cell02-33e059d3.app.asana.com
 prod-eu1-asana-cell02-33e059d3.asana.argocd.app.asana.com
 prod-eu1-asana-cell02-441d1bc4.app.asana.com
@@ -939,6 +946,8 @@ prod-us1-asana-cell05-661fd829.app.asana.com
 prod-us1-asana-cell05-661fd829.asana.argocd.app.asana.com
 prod-us1-asana-cell05-95540e75.app.asana.com
 prod-us1-asana-cell05-95540e75.asana.argocd.app.asana.com
+prod-us1-asana-cell05-aca05f88.app.asana.com
+prod-us1-asana-cell05-aca05f88.asana.argocd.app.asana.com
 prod-us1-asana-cell05-d1b6d269.app.asana.com
 prod-us1-asana-cell05-d1b6d269.asana.argocd.app.asana.com
 prod-us1-asana-cell05-d8dba564.app.asana.com
@@ -1024,6 +1033,8 @@ prod-us1-asana-cell13-066ff195.app.asana.com
 prod-us1-asana-cell13-066ff195.asana.argocd.app.asana.com
 prod-us1-asana-cell13-5b4cf902.app.asana.com
 prod-us1-asana-cell13-5b4cf902.asana.argocd.app.asana.com
+prod-us1-asana-cell13-691624b4.app.asana.com
+prod-us1-asana-cell13-691624b4.asana.argocd.app.asana.com
 prod-us1-asana-cell13-6b8e2ab7.app.asana.com
 prod-us1-asana-cell13-6b8e2ab7.asana.argocd.app.asana.com
 prod-us1-asana-cell13-c75783bc.app.asana.com
@@ -1037,6 +1048,8 @@ prod-us1-asana-cell14-1f1b15e0.app.asana.com
 prod-us1-asana-cell14-1f1b15e0.asana.argocd.app.asana.com
 prod-us1-asana-cell14-34b9918a.app.asana.com
 prod-us1-asana-cell14-34b9918a.asana.argocd.app.asana.com
+prod-us1-asana-cell14-4c328ea9.app.asana.com
+prod-us1-asana-cell14-4c328ea9.asana.argocd.app.asana.com
 prod-us1-asana-cell14-94a989ff.app.asana.com
 prod-us1-asana-cell14-94a989ff.asana.argocd.app.asana.com
 prod-us1-asana-cell14-c156bbd1.app.asana.com
@@ -1046,6 +1059,8 @@ prod-us1-asana-cell14-d17b2caa.asana.argocd.app.asana.com
 prod-us1-asana-cell14.app.asana.com
 prod-us1-asana-cell15-680810a1.app.asana.com
 prod-us1-asana-cell15-680810a1.asana.argocd.app.asana.com
+prod-us1-asana-cell15-9333a228.app.asana.com
+prod-us1-asana-cell15-9333a228.asana.argocd.app.asana.com
 prod-us1-asana-cell15-de04dcdf.app.asana.com
 prod-us1-asana-cell15-de04dcdf.asana.argocd.app.asana.com
 prod-us1-asana-cell15.app.asana.com

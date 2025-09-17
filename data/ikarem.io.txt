@@ -636,6 +636,7 @@
 *.dashboard.ajaykart.dev.ikarem.io
 *.dashboard.akislich.dev.ikarem.io
 *.dashboard.alherna4.dev.ikarem.io
+*.dashboard.amart.dev.ikarem.io
 *.dashboard.aminahaq.dev.ikarem.io
 *.dashboard.amysorem.dev.ikarem.io
 *.dashboard.astraghu.dev.ikarem.io
@@ -663,6 +664,8 @@
 *.dashboard.nipunkum.dev.ikarem.io
 *.dashboard.notdavid.dev.ikarem.io
 *.dashboard.peterthomas.dev.ikarem.io
+*.dashboard.priyankg.dev.ikarem.io
+*.dashboard.rajdang.dev.ikarem.io
 *.dashboard.rohan.dev.ikarem.io
 *.dashboard.rretuta.dev.ikarem.io
 *.dashboard.rwu.dev.ikarem.io
@@ -2259,6 +2262,9 @@
 *.rajasekh.dev.ikarem.io
 *.rajasekh.dev.network-auth.ikarem.io
 *.rajasekh.meraki-go.ikarem.io
+*.rajdang.dev.ikarem.io
+*.rajdang.dev.network-auth.ikarem.io
+*.rajdang.meraki-go.ikarem.io
 *.rajtane.dev.ikarem.io
 *.rajtane.dev.network-auth.ikarem.io
 *.rajtane.meraki-go.ikarem.io
@@ -3367,6 +3373,7 @@
 *.sso.raiglesi.dev.ikarem.io
 *.sso.rajadapa.dev.ikarem.io
 *.sso.rajasekh.dev.ikarem.io
+*.sso.rajdang.dev.ikarem.io
 *.sso.rajtane.dev.ikarem.io
 *.sso.ralphgra.dev.ikarem.io
 *.sso.ramakant.dev.ikarem.io
@@ -12811,7 +12818,9 @@ staging-use.ops-portal.use.staging.k8s.ikarem.io
 staging-usw.ops-portal.usw.staging.k8s.ikarem.io
 staging.nac-oss.ikarem.io
 staging.obs.ikarem.io
+staging.panopticon.ikarem.io
 staging.shard-discovery.ikarem.io
+staging.workflows.dev.ikarem.io
 status-2.tphil.dashboardsre.ikarem.io
 status.tphil.dashboardsre.ikarem.io
 stbruno1.dev.ikarem.io
@@ -14133,6 +14142,10 @@ us-west-2.jitlab.medusa.secdev.ikarem.io
 us-west-2.jitlab.prod.secdev.ikarem.io
 us-west-2.machinejit.experiments.secdev.ikarem.io
 us-west-2.machinejit.prod.secdev.ikarem.io
+us-west-2.staging.workflows.dev.ikarem.io
+us-west-2.workflows.dev.ikarem.io
+us.staging.workflows.dev.ikarem.io
+us.workflows.dev.ikarem.io
 use.bastion.k8s.ikarem.io
 use.dex.k8s.ikarem.io
 use.internal.nt.dev.ikarem.io
@@ -14290,6 +14303,7 @@ wolfe.meraki-go.ikarem.io
 woo.dev.ikarem.io
 woo.dev.network-auth.ikarem.io
 woo.meraki-go.ikarem.io
+workflows.dev.ikarem.io
 woverell.dev.ikarem.io
 woverell.dev.network-auth.ikarem.io
 woverell.meraki-go.ikarem.io

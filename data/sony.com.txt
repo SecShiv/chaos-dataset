@@ -10,6 +10,7 @@
 *.am.sony.com
 *.ap.sony.com
 *.api.airpeak.sony.com
+*.apollo.sie.sony.com
 *.artifactory.sie.sony.com
 *.assets.stage.retail.me.sony.com
 *.astronomy.sie.sony.com
@@ -79,6 +80,8 @@
 *.infosec.sony.com
 *.integ.ack.me.sony.com
 *.integ.sumo.me.sony.com
+*.integ.update.me.sony.com
+*.ise.spe.sony.com
 *.jenkins.astronomy.sie.sony.com
 *.jenkins.devenv.astronomy.sie.sony.com
 *.jenkins.security.astronomy.sie.sony.com
@@ -159,6 +162,7 @@
 *.techhub.dev.developer.sony.com
 *.techhub.developer.sony.com
 *.techhub.stage.developer.sony.com
+*.test.apollo.sie.sony.com
 *.test.artifactory.sie.sony.com
 *.test.github.sie.sony.com
 *.test.github.snei.sony.com
@@ -555,6 +559,7 @@ apm-prod.spe.sony.com
 apm.windmill-dev-airgap.ss.sie.sony.com
 apm.windmill-sand.ss.sie.sony.com
 apocspool01.ap.sony.com
+apollo.sie.sony.com
 app.content.spe.sony.com
 app.gbpwprnt01.spe.sony.com
 app.sel.sony.com
@@ -3148,6 +3153,7 @@ intedcwlgpms-qa.spe.sony.com
 integ.ack.me.sony.com
 integ.collect.me.sony.com
 integ.sumo.me.sony.com
+integ.update.me.sony.com
 integrify.spe.sony.com
 intergate.eu.sony.com
 intergatep.eu.sony.com
@@ -8795,6 +8801,7 @@ pup-build-api.windmill-dev.ss.sie.sony.com
 pup-build-api.windmill-sand-airgap.ss.sie.sony.com
 pup-build-api.windmill-sand.ss.sie.sony.com
 pup-build-api.windmill-stg.ss.sie.sony.com
+pushgateway.prometheus.tnt.sie.sony.com
 pw.passport.sony.com
 pw.passport-dev.sony.com
 pw.passport-qa.sony.com
@@ -10967,6 +10974,7 @@ tbp.spe.sony.com
 tcoe-testlab.spe.sony.com
 teamcity-hub.nextgen-test.ss.sie.sony.com
 teamcity.nextgen-test.ss.sie.sony.com
+teat.apollo.sie.sony.com
 techbulletins.systemwatch.sony.com
 techhub.dev.developer.sony.com
 techhub.developer.sony.com
@@ -11000,6 +11008,7 @@ test-contractsportal.sie.sony.com
 test-jenkins.test.tnt.sie.sony.com
 test-jenkins.tnt.sie.sony.com
 test-s4globalnqa.sap.erpapps.sie.sony.com
+test.apollo.sie.sony.com
 test.applitools.sie.sony.com
 test.artifactory.sie.sony.com
 test.dev.eams.sony.com

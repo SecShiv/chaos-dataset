@@ -6,6 +6,9 @@
 *.appboot-test.netflix.com
 *.beta.netflix.com
 *.brand.netflix.com
+*.c00.tech.nxtgms.netflix.com
+*.c01.tech.nxtgms.netflix.com
+*.c02.tech.nxtgms.netflix.com
 *.cs-voip.netflix.com
 *.dev.cloud.netflix.com
 *.dev.dradis.netflix.com
@@ -39,6 +42,7 @@
 *.nm.push.test.netflix.com
 *.nrd.netflix.com
 *.nrdmeechum.netflix.com
+*.nxtgms.netflix.com
 *.obiwan.netflix.com
 *.obiwan.test.netflix.com
 *.oc.netflix.com
@@ -59,6 +63,7 @@
 *.staging.ftl.netflix.com
 *.staging.http1.netflix.com
 *.staging.web.netflix.com
+*.tech.nxtgms.netflix.com
 *.telltalenotif.prod.netflix.com
 *.telltalenotif.test.netflix.com
 *.test.netflix.com
@@ -520,11 +525,14 @@ bv0.v0j.go8k0.ftl.netflix.com
 bv0.v0j.go8k0.nrdp.prod.ftl.netflix.com
 bv0.v0j.go8k0.prod.ftl.netflix.com
 c-208-82-101-31.rev.sailge0-0-0-sec.csrt-tt02.dc2.prod.netflix.com
+c00.tech.nxtgms.netflix.com
 c001.ybz001.distributel.netflix.com
 c002.asu001.tigo-pa.netflix.com
 c002.ybz001.distributel.netflix.com
 c003.ybz001.distributel.netflix.com
 c004.ybz001.distributel.netflix.com
+c01.tech.nxtgms.netflix.com
+c02.tech.nxtgms.netflix.com
 c3po.netflix.com
 c3pot.netflix.com
 c4.eu-west-1.prod.netflix.com
@@ -1843,6 +1851,7 @@ nterop-test.netflix.com
 nts-cert-testcontent-test.nrd.netflix.com
 nts-cert-testcontent.nrd.netflix.com
 nutshell.netflix.com
+nxtgms.netflix.com
 nyc.netflix.com
 nyc-01-scbr.netflix.com
 nyc02.ix.netflix.com
@@ -2327,6 +2336,7 @@ te1-8.csrt-agg01.prod1.netflix.com
 te1-8.csrt-agg02.prod1.netflix.com
 team-demo-1.prototypes.netflix.com
 team-example.prototypes.netflix.com
+tech.nxtgms.netflix.com
 techblog.netflix.com
 telltalenotif-staging.prod.netflix.com
 telltalenotif.euwest1.prod.netflix.com

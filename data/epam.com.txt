@@ -121,6 +121,7 @@
 *.apps.alice-in-wl.mdtu-ddm.projects.epam.com
 *.apps.alkoponster.mdtu-ddm.projects.epam.com
 *.apps.andromeda.mdtu-ddm.projects.epam.com
+*.apps.apple.mdtu-ddm.projects.epam.com
 *.apps.aroma.mdtu-ddm.projects.epam.com
 *.apps.as-26028.mdtu-ddm.projects.epam.com
 *.apps.autoreg.mdtu-ddm.projects.epam.com
@@ -353,6 +354,7 @@
 *.aws.epm-plx.projects.epam.com
 *.aws.epmc-ctvu.projects.epam.com
 *.aws.radar.epam.com
+*.aws.radar.stage.epam.com
 *.aws.sche-digi.projects.epam.com
 *.aws.staffing.stage.epam.com
 *.az-krypton.epm-dce.projects.epam.com
@@ -376,6 +378,7 @@
 *.cl1-default-lb.epm-adpt-anthos1.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-ais-anthos-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-ais-anthos.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-aldo-ant.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-alfa-ant-prl.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-aop-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-asmd-anthos.eu.gcp.cloudapp.epam.com
@@ -881,6 +884,7 @@
 *.scrum-up-nonprod.lab.epam.com
 *.security.wmpr.test.wm.lab.epam.com
 *.settlement.epam.com
+*.shadow.datahub.epam.com
 *.simpledoc.epam.com
 *.simplepay.epam.com
 *.sit.wmpr.test.wm.lab.epam.com
@@ -1276,6 +1280,7 @@ api.alex-minimal.mdtu-ddm.projects.epam.com
 api.alice-in-wl.mdtu-ddm.projects.epam.com
 api.alkoponster.mdtu-ddm.projects.epam.com
 api.andromeda.mdtu-ddm.projects.epam.com
+api.apple.mdtu-ddm.projects.epam.com
 api.aqa2.maf.services.wstc-wcst.projects.epam.com
 api.aqa2.maf.wstc-wcst.projects.epam.com
 api.aqa2.mas.services.wstc-wcst.projects.epam.com
@@ -1398,6 +1403,7 @@ api.elysium.mdtu-ddm.projects.epam.com
 api.emissions.epam.com
 api.energy.lab.epam.com
 api.epm-rexp.projects.epam.com
+api.epm-vivi.projects.epam.com
 api.epmd-dpem.projects.epam.com
 api.epmu-mne.projects.epam.com
 api.esign.epam.com
@@ -3283,6 +3289,7 @@ elastic-poc.sche-conv.projects.epam.com
 elastic.community.gcp.gnrg-osdu.projects.epam.com
 elastic.core-dev.gcp.gnrg-osdu.projects.epam.com
 elastic.osdu-gcp.go3-nrg.projects.epam.com
+elastic.preship.gcp.gnrg-osdu.projects.epam.com
 elasticsearch-v6-238.aws.radar.stage.epam.com
 elasticsearch-v6-239.aws.radar.stage.epam.com
 elasticsearch-v6-241.aws.radar.stage.epam.com
@@ -7460,3 +7467,6 @@ ztna-microfrontend.stage.epam.com
 ztna-session-api.stage.epam.com
 ztna-staging.epm-iga.projects.epam.com
 ztna.app.epam.com
+ztna.app.stage.epam.com
+ztna.stage.epam.com
+ztnacheck.stage.epam.com

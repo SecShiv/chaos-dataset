@@ -73,6 +73,7 @@ bosc-containers.palantirgov.com
 botswana.palantirgov.com
 brawn.palantirgov.com
 bridge.palantirgov.com
+build.palantirgov.com
 burp-mckinley.palantirgov.com
 burundi.palantirgov.com
 c2n-integration.palantirgov.com
@@ -153,6 +154,7 @@ croton-container-registry.palantirgov.com
 croton-containers.palantirgov.com
 crueton.palantirgov.com
 data-grid-widget.gamma.palantirgov.com
+data-pipeline.mcs-integration-raft.palantirgov.com
 datafabric.palantirgov.com
 dauntless.palantirgov.com
 defense.rune-gws.palantirgov.com
@@ -166,6 +168,7 @@ diamond-chart.geaerospace-dsc.palantirgov.com
 dis.palantirgov.com
 divergent.palantirgov.com
 dla-ops-poc.palantirgov.com
+docs.mcs-integration-raft.palantirgov.com
 drc.palantirgov.com
 ebsc.palantirgov.com
 ebullient.palantirgov.com
@@ -206,6 +209,7 @@ galapagos-containers.palantirgov.com
 gallatin-defense.palantirgov.com
 gamma.palantirgov.com
 gantt.saildrone.palantirgov.com
+gdms.palantirgov.com
 geaerospace.palantirgov.com
 geaerospace-dsc.palantirgov.com
 genesis.palantirgov.com
@@ -227,6 +231,7 @@ gossamer-staging.palantirgov.com
 gothic.palantirgov.com
 gothic-compute.palantirgov.com
 gothic-container-registry.palantirgov.com
+gothic-containers.palantirgov.com
 grafana.mcs-integration-raft.palantirgov.com
 grape.palantirgov.com
 greendot.palantirgov.com
@@ -242,9 +247,11 @@ immuta-gws.palantirgov.com
 innovate.palantirgov.com
 innovation-hub.palantirgov.com
 insights.palantirgov.com
+internal-dev-idt.palantirgov.com
 ion-trail.panem.palantirgov.com
 itctest.palantirgov.com
 jaapi.palantirgov.com
+jaapi-container-registry.palantirgov.com
 jarlsberg.palantirgov.com
 jarlsberg-container-registry.palantirgov.com
 jarlsberg-containers.palantirgov.com
@@ -307,6 +314,7 @@ mcs-core-services-usgc-2.palantirgov.com
 mcs-integration-aitr-util-marrs.palantirgov.com
 mcs-integration-botts.palantirgov.com
 mcs-integration-coturn-marrs.palantirgov.com
+mcs-integration-cx-edge-marrs.palantirgov.com
 mcs-integration-debug-sofchat-yurts.palantirgov.com
 mcs-integration-dem-marrs.palantirgov.com
 mcs-integration-docs-marrs.palantirgov.com
@@ -320,11 +328,13 @@ mcs-integration-sauron-sofchat-yurts.palantirgov.com
 mcs-integration-service-sofchat-yurts.palantirgov.com
 mcs-integration-sofchat-yurts.palantirgov.com
 mcs-integration-solr-marrs.palantirgov.com
+mcs-integration-tile-proxy-marrs.palantirgov.com
 mcs-octo-usgc-2.palantirgov.com
 mcs-raft-usgc-2.palantirgov.com
 mcs-sandbox-analytics-yurts.palantirgov.com
 mcs-sandbox-debug-sofchat-yurts.palantirgov.com
 mcs-sandbox-identity-sofchat-yurts.palantirgov.com
+mcs-sandbox-ingestor-sofchat-yurts.palantirgov.com
 mcs-sandbox-quasar-sofchat-yurts.palantirgov.com
 mcs-sandbox-registry-yurts.palantirgov.com
 mcs-sandbox-sofchat-yurts.palantirgov.com
@@ -378,6 +388,7 @@ oshkosh.palantirgov.com
 paint.ttmtech.palantirgov.com
 pal-staging-mcs-usgc-2.palantirgov.com
 panem.palantirgov.com
+panem-multitenant.palantirgov.com
 paraline-dev.palantirgov.com
 parsnip.palantirgov.com
 part-waterfall.geaerospace-dsc.palantirgov.com
@@ -385,6 +396,7 @@ pcg.palantirgov.com
 pdfviewer.ttmtech.palantirgov.com
 pecorino.palantirgov.com
 pecorino-container-registry.palantirgov.com
+pecorino-containers.palantirgov.com
 peopletec.palantirgov.com
 peraton.palantirgov.com
 perseverance.palantirgov.com
@@ -395,6 +407,7 @@ perseverance-mgmt.palantirgov.com
 pfb.palantirgov.com
 pfcsdocs.palantirgov.com
 picogrid.palantirgov.com
+pinot-broker.mcs-integration-raft.palantirgov.com
 pinot-controller.mcs-integration-raft.palantirgov.com
 platform.lumen.palantirgov.com
 pmisa-army-usgc-2.palantirgov.com
@@ -440,8 +453,11 @@ saildrone.palantirgov.com
 saildrone-pre.palantirgov.com
 sandboxes-americano.palantirgov.com
 sandboxes-bosc.palantirgov.com
+sandboxes-croton.palantirgov.com
+sandboxes-jaapi.palantirgov.com
 sandboxes-limburger.palantirgov.com
 sandboxes-pecorino.palantirgov.com
+sandboxes-perseverance.palantirgov.com
 sandboxes-romano.palantirgov.com
 sandboxes-taro.palantirgov.com
 sandboxes-tourmaline.palantirgov.com

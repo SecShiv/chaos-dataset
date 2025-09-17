@@ -505,6 +505,12 @@
 *.sa-east-1.console.aws.amazon.com
 *.sa-east-1.console.aws-dev.amazon.com
 *.sa-east-1.gamma.console-api.aws.amazon.com
+*.sa-west-1.awsc-dev.aws.amazon.com
+*.sa-west-1.awsc-integ.aws.amazon.com
+*.sa-west-1.awsc-preprod.aws.amazon.com
+*.sa-west-1.console-api.aws.amazon.com
+*.sa-west-1.console.aws.amazon.com
+*.sa-west-1.gamma.console-api.aws.amazon.com
 *.sap-rise-landscape.sap.amazon.com
 *.searchhead.prod.splunk.security.fc.amazon.com
 *.securedisclosure.aws.amazon.com
@@ -20170,6 +20176,7 @@ aws-console-platform-proxy-integ.aka.kix.amazon.com
 aws-console-platform-proxy-integ.aka.kul.amazon.com
 aws-console-platform-proxy-integ.aka.lhr.amazon.com
 aws-console-platform-proxy-integ.aka.mdw.amazon.com
+aws-console-platform-proxy-integ.aka.scl.amazon.com
 aws-console-platform-proxy-integ.aka.sfo.amazon.com
 aws-console-platform-proxy-integ.aka.syd.amazon.com
 aws-console-platform-proxy-integ.aka.tpe.amazon.com
@@ -20209,6 +20216,7 @@ aws-console-proxy-integ-jlb.kix.amazon.com
 aws-console-proxy-integ-jlb.kul.amazon.com
 aws-console-proxy-integ-jlb.lhr.amazon.com
 aws-console-proxy-integ-jlb.mdw.amazon.com
+aws-console-proxy-integ-jlb.scl.amazon.com
 aws-console-proxy-integ-jlb.sfo.amazon.com
 aws-console-proxy-integ-jlb.syd.amazon.com
 aws-console-proxy-integ-jlb.tpe.amazon.com
@@ -20224,6 +20232,7 @@ aws-console-proxy-integ.kix.amazon.com
 aws-console-proxy-integ.kul.amazon.com
 aws-console-proxy-integ.lhr.amazon.com
 aws-console-proxy-integ.mdw.amazon.com
+aws-console-proxy-integ.scl.amazon.com
 aws-console-proxy-integ.sfo.amazon.com
 aws-console-proxy-integ.syd.amazon.com
 aws-console-proxy-integ.tpe.amazon.com
@@ -20739,6 +20748,7 @@ aws-tcs-gamma.thf.amazon.com
 aws-tcs-onebox.iad.amazon.com
 aws-tcs-onebox.thf.amazon.com
 aws-tcs-prod.thf.amazon.com
+aws-tcs.thf.amazon.com
 aws-tools.amazon.com
 aws-training-kikuproxy-prod.iad.amazon.com
 aws-trusted-advisor-gamma.us-gov-west-1.amazon.com
@@ -21714,6 +21724,7 @@ beta.aicompanion.legal.amazon.com
 beta.airjack.ctps.amazon.com
 beta.api.live.amazon.com
 beta.api.podcasters.amazon.com
+beta.api.slate.amazon.com
 beta.archway.amazon.com
 beta.artists.amazon.com
 beta.assets.act.legal.amazon.com
@@ -34229,6 +34240,7 @@ gluestudio.amazon.com
 gmacademy-jlb.corp.amazon.com
 gmacademy.corp.amazon.com
 gmcconne.signin.aws.amazon.com
+gmesbitwardenpvsocial.cupid-na.idprism-auth.amazon.com
 gmh-ops-dashboard.corp.amazon.com
 gnosis.corp.amazon.com
 go.amazon.com
@@ -45298,6 +45310,7 @@ nsm-nrt.amazon.com
 nsm-nrt.aka.corp.amazon.com
 nsm-pdx.amazon.com
 nsm-qro.aka.corp.amazon.com
+nsm-scl.aka.corp.amazon.com
 nsm-service-ale-external.iad.amazon.com
 nsm-service-apa-external.cmh.amazon.com
 nsm-service-external-osu.us-gov-west-1.amazon.com
@@ -51115,6 +51128,8 @@ sa-east-1.target-gamma.aws.amazon.com
 sa-east-1.target.aws.amazon.com
 sa-tools-beta.corp.amazon.com
 sa-tools.corp.amazon.com
+sa-west-1.console.aws.amazon.com
+sa-west-1.lightsail.aws.amazon.com
 saaet-poc-integ.corp.amazon.com
 sable-data-explorer-dub-jlb-dub.dub.proxy.amazon.com
 sable-data-explorer-dub.dub.proxy.amazon.com
@@ -52506,6 +52521,7 @@ share.corp.amazon.com
 sharedmailboxes.corp.amazon.com
 sharetest.amazon.com
 sharfzm.global-taxonomy-manager-dev.aka.corp.amazon.com
+sharihk-pew.dev.creatorstudio.amazon.com
 sharingservice.amazon.com
 sharingservice-beta.amazon.com
 sharingservice-gamma.amazon.com
@@ -53163,6 +53179,7 @@ smarthome-cameras-starlight-media-service.amazon.com
 smarthome-kibana-gamma.corp.amazon.com
 smarthome-kibana-prod.corp.amazon.com
 smarthr-gamma.integ.amazon.com
+smarthub.amazon.com
 smartiq-workflows-eu.aka.amazon.com
 smartiq-workflows-jp.aka.amazon.com
 smartiq-workflows-na.aka.amazon.com
@@ -57900,6 +57917,7 @@ tsm-zone1.osu.amazon.com
 tsm-zone1.pdt.amazon.com
 tsm-zone1.pdx.amazon.com
 tsm-zone1.qro.amazon.com
+tsm-zone1.scl.amazon.com
 tsm-zone1.sfo.amazon.com
 tsm-zone1.sin.amazon.com
 tsm-zone1.syd.amazon.com
@@ -57943,6 +57961,7 @@ tsm-zone2.osu.amazon.com
 tsm-zone2.pdt.amazon.com
 tsm-zone2.pdx.amazon.com
 tsm-zone2.qro.amazon.com
+tsm-zone2.scl.amazon.com
 tsm-zone2.sfo.amazon.com
 tsm-zone2.sin.amazon.com
 tsm-zone2.syd.amazon.com
@@ -58813,6 +58832,7 @@ utexas.amazon.com
 uts.amazon.com
 uw-email.amazon.com
 uxdg.amazon.com
+v1.soap-demo.aws.amazon.com
 v2.contracts.amazon.com
 v2.learn.amazon.com
 v2.learn-alpha.amazon.com
@@ -60422,6 +60442,7 @@ www.btd-cmh-beta.amazon.com
 www.btd-cmh-gamma.amazon.com
 www.btd-na.amazon.com
 www.btd-pdx-beta.amazon.com
+www.business.amazon.com
 www.card.amazon.com
 www.cards.amazon.com
 www.carphonewarehouse.amazon.com
@@ -60504,6 +60525,7 @@ www.shopbop.cdn.amazon.com
 www.smallbusiness.amazon.com
 www.smile.amazon.com
 www.sothebys.amazon.com
+www.stage-business.amazon.com
 www.stonybrook.amazon.com
 www.stonybrookuniversity.amazon.com
 www.texas.amazon.com

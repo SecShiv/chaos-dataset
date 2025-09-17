@@ -668,6 +668,7 @@ api.ashburn.dev-us1.twilio.com
 api.aws-account-creation.corp.twilio.com
 api.aws-support-slack-bot.corp.twilio.com
 api.opensearch.accsec.dev-us2.twilio.com
+api.opensearch.accsec.stage-us1.twilio.com
 api.opensearch.accsec.us1.twilio.com
 api.opensearch.cross-account-test.dev-us1.twilio.com
 api.opensearch.edge-logs.prod.twilio.com
@@ -1738,6 +1739,7 @@ kafka-mtls-test-app.aws-classic.dev-us2.dev.kafka-v1.twilio.com
 kafka-mtls-test-app.aws-classic.stage-us1.stage.kafka-v1.twilio.com
 kafka-mtls-test-app.aws-classic.us1.prod.kafka-v1.twilio.com
 kafka-producer-api.dev-us1.twilio.com
+kafka-producer-api.stage-au1.twilio.com
 kafka-self-service-internal.dev-us1.twilio.com
 kafka-self-service-internal.stage-us1.twilio.com
 kafka-self-service-internal.us1.twilio.com
@@ -2053,6 +2055,7 @@ opensearch-voiceinsights-product.alb.vnv.dev-us1.twilio.com
 opensearch-voiceinsights-product.dev-us1.twilio.com
 opensearch-voiceinsights-product.vnv.dev-us1.twilio.com
 opensearch.accsec.dev-us2.twilio.com
+opensearch.accsec.stage-us1.twilio.com
 opensearch.accsec.us1.twilio.com
 opensearch.alb.voiceinsights-product.vnv.dev-us1.twilio.com
 opensearch.edge-logs.edge.dev-us1.twilio.com
@@ -2078,9 +2081,12 @@ origination-prod.futel.sip.us1.twilio.com
 origination-stage.futel.sip.us1.twilio.com
 os.twilio.com
 os-api.mdp.dev-us1.twilio.com
+os-api.mdp.ie1.twilio.com
 os-api.mdp.stage-ie1.twilio.com
 os-api.mdp.stage-us1.twilio.com
+os-api.mdp.us1.twilio.com
 os.mdp.dev-us1.twilio.com
+os.mdp.ie1.twilio.com
 os.mdp.stage-ie1.twilio.com
 os.mdp.stage-us1.twilio.com
 os.mdp.us1.twilio.com
@@ -3074,3 +3080,4 @@ zpa-pse-lb.dev.twilio.com
 zpa-pse.dev.twilio.com
 zscaler.corp.twilio.com
 zygops.corp.twilio.com
+zygops.dev.twilio.com

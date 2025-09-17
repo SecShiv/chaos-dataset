@@ -1,5 +1,6 @@
 .yammer.com
 *.yammer.com
+*.azure-rt.staging.yammer.com
 *.c1.prod-central-1.mesos.yammer.com
 *.c1.prod-east-1.mesos.yammer.com
 *.c1.prodeu-north-1.mesos.yammer.com
@@ -60,6 +61,7 @@
 *.puc1.yammer.com
 *.pue1.yammer.com
 *.rt.yammer.com
+*.rt-tx.gov.yammer.com
 *.rt.dev.yammer.com
 *.rt.gov.yammer.com
 *.rt.msit.cosmic.yammer.com
@@ -85,7 +87,9 @@
 *.test.cosmic.yammer.com
 *.tools.yammer.com
 *.us.yammer.com
+*.us-1.yammer.com
 *.us-1.int.yammer.com
+*.us-1.staging.yammer.com
 *.yamalytics.yammer.com
 *.yammer-infra-routekey.test.eastus.cosmic.yammer.com
 *.yammer-infra-routekey.test.northcentralus.cosmic.yammer.com
@@ -454,6 +458,7 @@ emaemail.yammer.com
 email.yammer.com
 eng.yammer.com
 eng.staging.yammer.com
+eop.engage-ms-nudge.dev.yammer.com
 eu-1.yammer.com
 eu-1.int.yammer.com
 fawltytowers.integration.yammer.com

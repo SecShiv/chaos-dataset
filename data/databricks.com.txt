@@ -100,6 +100,7 @@
 *.serving.cloud.databricks.com
 *.serving.dev.databricks.com
 *.serving.staging.cloud.databricks.com
+*.sl.eu-central-1.cloud.databricks.com
 *.sl.us-west-2.cloud.databricks.com
 *.staging.cloud.databricks.com
 *.staging.gcp.databricks.com
@@ -243,6 +244,7 @@ chatapi.databricks.com
 chatapi.corp.databricks.com
 chatweb.databricks.com
 cicd-gov-east.dev-sec.databricks.com
+cicd-gov-east.sec.databricks.com
 cicd-gov.dev-sec.databricks.com
 cicd-gov.sec.databricks.com
 clean-room.az-ukwest.shards.managed.prod.ns.databricks.com
@@ -802,6 +804,7 @@ temp.corp.databricks.com
 test.databricks.com
 test-1.dev-sec.databricks.com
 test-web.databricks.com
+test.binder.training.databricks.com
 tft.databricks.com
 tft-reporting.databricks.com
 tft-staging.databricks.com

@@ -810,6 +810,7 @@ activitytrackerapi.ford.com
 adapt.ford.com
 adas-sim-dashdb.ford.com
 adas-zabbix-d.ford.com
+adas-zabbix-pp.ford.com
 adasautomationhub.gcp.ford.com
 adassim.ford.com
 adclaimsfinder.ford.com
@@ -5073,6 +5074,7 @@ aut67500.b2d.ford.com
 autdraw-qa.app.gcp.ford.com
 auth.ford.com
 auth-coc.parts.ford.com
+auth-dealer.b2bparts.ford.com
 auth-fdspcl-dlr-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 auth-fdspcl-dlr.prod.cf.app.ford.com
 auth-fdspcl2-dlr-vip-ashadc07-cf-rprxy1-19.ash.ford.com
@@ -5372,6 +5374,7 @@ b2bbuyer-us.ford.com
 b2bbuyerfordau.warley.ford.com
 b2bbuyerfordde.warley.ford.com
 b2bbuyerforduk.warley.ford.com
+b2bparts.ford.com
 b2bpasswordchange.ford.com
 b2c.imcs.ford.com
 b2c.webmonitor.ford.com
@@ -7304,13 +7307,17 @@ clwa.ford.com
 clwb.ford.com
 cm4d.ford.com
 cm4drabbitmqgcp.ford.com
+cmc.b2bparts.ford.com
 cmc.edu1.parts.ford.com
 cmc.parts.ford.com
 cmc2.parts.ford.com
 cmcauth.accessories.ford.com
+cmcauth.b2bparts.ford.com
 cmcauth.parts.ford.com
 cmcauth2.parts.ford.com
+cmcedu.b2bparts.ford.com
 cmcedu1.parts.ford.com
+cmceduauth.b2bparts.ford.com
 cmceduauth1.parts.ford.com
 cmcforddevlive.ford.com
 cmcfordprodb2clive.ford.com
@@ -8243,6 +8250,7 @@ dealer-survey-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 dealer-survey-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 dealer-survey.prod.cf.app.ford.com
 dealer.agenda.ford.com
+dealer.b2bparts.ford.com
 dealer.ial.ford.com
 dealer.india.ford.com
 dealer.osb.ford.com
@@ -10557,6 +10565,7 @@ edu-api-mddservice.sca.ford.com
 edu-auth-coc.parts.ford.com
 edu-auth.parts.ford.com
 edu-coc.parts.ford.com
+edu-dealer.b2bparts.ford.com
 edu-dealer.parts.ford.com
 edu-enhancedpartsfollowup.sca.ford.com
 edu-gtac-dlr-lnp-vip-ashadc07-cf-rprxy2-19.ash.ford.com
@@ -10570,6 +10579,7 @@ edu.advisory.ford.com
 edu.amgateway.ford.com
 edu.api.lps.ford.com
 edu.apigeedev.ford.com
+edu.b2bparts.ford.com
 edu.batch.gudb.ford.com
 edu.chargers.ford.com
 edu.cpmds.ford.com
@@ -10615,7 +10625,9 @@ edu2-dealer.parts.ford.com
 edu2.parts.ford.com
 edu2origin.parts.ford.com
 eduapi.fce.ford.com
+eduauth-dealer.b2bparts.ford.com
 eduauth.accessories.ford.com
+eduauth.b2bparts.ford.com
 eduauth.chargers.ford.com
 eduauth1-dealer.parts.ford.com
 eduauth1.parts.ford.com
@@ -10623,6 +10635,7 @@ eduauth2-dealer.parts.ford.com
 eduauth2.parts.ford.com
 eduauthaccessories.ca.ford.com
 eduorigin.accessories.ford.com
+eduorigin.b2bparts.ford.com
 eduorigin.chargers.ford.com
 eduorigin.parts.ford.com
 eese.extsp.ford.com
@@ -12658,6 +12671,7 @@ fmsws-rpt.manage.fmsdev.ford.com
 fmsws-ui.manage.fmsdev.ford.com
 fmsws.home.fmsdev.ford.com
 fmsws.manage.fmsdev.ford.com
+fmvss108-checks.ford.com
 fmvss108-checks-backend-dev.ford.com
 fnabot.ford.com
 fnabot-vip-chiadc07-cf-rprxy1-19.chi.ford.com
@@ -13822,6 +13836,7 @@ gdtsc-qa-vip-ashadc07-cf-rprxy2-19.ash.ford.com
 gdtsc-qa-vip-chiadc07-cf-rprxy2-19.chi.ford.com
 gdtsc-vip-ashadc07-cf-rprxy1-19.ash.ford.com
 gdtsc-vip-chiadc07-cf-rprxy1-19.chi.ford.com
+gdtschk.ford.com
 geaas.ici.ford.com
 geaasdev.ici.ford.com
 geaasedu-ici-vip-ashadc07-cf-rprxy2-19.ash.ford.com
@@ -16236,6 +16251,7 @@ julissa-portfolio.ford.com
 julissa-portfolio.app.gcp.ford.com
 juntos.ford.com
 juntostemp.ford.com
+jupyterhub.vsoc.ford.com
 jupyterhub.vsoc-qa.ford.com
 jvansic6-900543.hosts.cloud.ford.com
 jvansic6-dev01.hosts.cloud.ford.com
@@ -18597,6 +18613,7 @@ origin-wwwqa.t.bp3.ford.com
 origin-wwwqa.t.inventory.ford.com
 origin-wwwqa.t.quickquote.ford.com
 origin.accessories.ford.com
+origin.b2bparts.ford.com
 origin.caribe.ford.com
 origin.centroamerica.ford.com
 origin.chargers.ford.com
@@ -32681,6 +32698,7 @@ www.adapt.ford.com
 www.adas-sim-dash.ford.com
 www.adas-sim-dashdb.ford.com
 www.adas-zabbix-d.ford.com
+www.adas-zabbix-pp.ford.com
 www.adasautomationhub.gcp.ford.com
 www.adassim.ford.com
 www.adclaimsfinder.ford.com
@@ -34495,6 +34513,7 @@ www.fmcsurvey.ford.com
 www.fmms.ford.com
 www.fms-neo4j-dev.ford.com
 www.fms.gfin.ford.com
+www.fmvss108-checks.ford.com
 www.fmvss108-checks-backend-dev.ford.com
 www.fnos.armr.ford.com
 www.fobos.ford.com
@@ -34816,6 +34835,7 @@ www.gdiasea-vrs-dev.ford.com
 www.gdiasea-vrs-qa.ford.com
 www.gdsonline.ford.com
 www.gdtsc.ford.com
+www.gdtschk.ford.com
 www.geaas.ici.ford.com
 www.gear.ford.com
 www.gear-system-optimization.mfgfot.ford.com
@@ -36634,6 +36654,7 @@ www.qa.gcp.mvl-cam.ford.com
 www.qa.mpnr.ford.com
 www.qa.mvl-cam.ford.com
 www.qa.myperformance.ford.com
+www.qa.newfav.ford.com
 www.qa.officeride.ford.com
 www.qa.onsite.ford.com
 www.qa.owneradvantagerewards.ford.com
@@ -38173,6 +38194,7 @@ wwwdev-dms-fafc.cf.app.cn-int.ford.com
 wwwdev-download-gam.ford.com
 wwwdev-downloadagent-gam.fmc1.ford.com
 wwwdev-dplan-dlr.pp.cf.app.ford.com
+wwwdev-dpr.apps.pp1010.caas.gcp.ford.com
 wwwdev-dsrrp.rrpeulb.ford.com
 wwwdev-dyf.pp.cf.app.ford.com
 wwwdev-dyfca.pp.cf.app.ford.com
@@ -46854,6 +46876,7 @@ wwwqa-dfysvc1.pp.cf.app.ford.com
 wwwqa-digitalservices.pp.cf.app.ford.com
 wwwqa-dkc-dlr.pp.cf.app.ford.com
 wwwqa-dplan-dlr.pp.cf.app.ford.com
+wwwqa-dpr.apps.pp1010.caas.gcp.ford.com
 wwwqa-dr.fmc1.ford.com
 wwwqa-drax.cf.app.ford.com
 wwwqa-drax.pp.cf.app.ford.com
@@ -54251,3 +54274,5 @@ yourfordambassadorservice.prod.cf.app.ford.com
 z2mci.ford.com
 znas124.pp.f01.dc1.ford.com
 znas125.pp.f01.dc1.ford.com
+zpas224.prod.f01.dc1.ford.com
+zpas225.prod.f01.dc1.ford.com

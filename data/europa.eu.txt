@@ -60,6 +60,8 @@
 *.at.ec.europa.eu
 *.athina.ec.europa.eu
 *.ati.ec.europa.eu
+*.audit-aws-fr.audit.oots.tech.ec.europa.eu
+*.audit-aws-ie.audit.oots.tech.ec.europa.eu
 *.audit.oots.tech.ec.europa.eu
 *.avplanning-test.consilium.europa.eu
 *.backup.ec.europa.eu
@@ -143,6 +145,8 @@
 *.cros-legacy.ec.europa.eu
 *.cros.ec.europa.eu
 *.cs.acc.oots.tech.ec.europa.eu
+*.cs.audit-aws-fr.audit.oots.tech.ec.europa.eu
+*.cs.audit-aws-ie.audit.oots.tech.ec.europa.eu
 *.cs.audit.oots.tech.ec.europa.eu
 *.cs.dev-aws-ie.proj.oots.tech.ec.europa.eu
 *.cs.dev-aws-ie.qat.oots.tech.ec.europa.eu
@@ -302,8 +306,10 @@
 *.erasmus-networks.ec.europa.eu
 *.erasmus-plus.ec.europa.eu
 *.erc.europa.eu
+*.ersad.dev.data.test-era.europa.eu
 *.esarda.jrc.ec.europa.eu
 *.esco.ec.europa.eu
+*.esdc.europa.eu
 *.esma.europa.eu
 *.esurveillance.ec.europa.eu
 *.etf.europa.eu
@@ -358,6 +364,7 @@
 *.eusfx.ec.europa.eu
 *.euspa.europa.eu
 *.event.europa.eu
+*.ewpp.ec.europa.eu
 *.expo2020.campaign.europa.eu
 *.extranet-pp.eiopa.europa.eu
 *.extranet.eiopa.europa.eu
@@ -518,6 +525,8 @@
 *.place-based-innovation.ec.europa.eu
 *.ply.ccnp.aws.cloud.tech.ec.europa.eu
 *.pm2.europa.eu
+*.pnt.dhs.tech.ec.europa.eu
+*.poc.dhs.tech.ec.europa.eu
 *.poc.ocean-store.tech.ec.europa.eu
 *.portal.csirt.enisa.europa.eu
 *.portal.qa.afis.olaf.europa.eu
@@ -568,6 +577,7 @@
 *.research-innovation-community.ec.europa.eu
 *.research-innovation-exhibition.ec.europa.eu
 *.right-here-right-now.campaign.europa.eu
+*.rinf.dev.data.test-era.europa.eu
 *.road-safety.transport.ec.europa.eu
 *.runbook-accelerated-cloud.ecdp.tech.ec.europa.eu
 *.rural-vision.europa.eu
@@ -583,6 +593,7 @@
 *.school-education.ec.europa.eu
 *.scm.ema.europa.eu
 *.scratch.ld4rail.fpfis.tech.ec.europa.eu
+*.sec.dhs.tech.ec.europa.eu
 *.secure.europarl.europa.eu
 *.security-research-event.ec.europa.eu
 *.servers.polarion.rail-research.europa.eu
@@ -617,6 +628,7 @@
 *.startup-forum.rural-vision.europa.eu
 *.state-of-the-union.ec.europa.eu
 *.stg.consilium.europa.eu
+*.stg.dhs.tech.ec.europa.eu
 *.sto-europa-cini-za-mene.europarl.europa.eu
 *.storyx.ocean-store.tech.ec.europa.eu
 *.strategic-technologies.europa.eu
@@ -660,6 +672,7 @@
 *.training.oots.tech.ec.europa.eu
 *.transport.ec.europa.eu
 *.travel-europe.europa.eu
+*.trn.dhs.tech.ec.europa.eu
 *.trust-fund-for-africa.europa.eu
 *.trustfund-syria-region.ec.europa.eu
 *.tst.ccnp.aws.cloud.tech.ec.europa.eu
@@ -674,6 +687,7 @@
 *.uat.citi.fpfis.tech.ec.europa.eu
 *.uat.cofe.fpfis.tech.ec.europa.eu
 *.uat.dataplatform.tech.ec.europa.eu
+*.uat.dhs.tech.ec.europa.eu
 *.uat.euacademy.fpfis.tech.ec.europa.eu
 *.uat.fpfis.tech.ec.europa.eu
 *.uat.ld4rail.fpfis.tech.ec.europa.eu
@@ -1628,6 +1642,8 @@ audioconference1.ema.europa.eu
 audioconference2.ema.europa.eu
 audiovisual.ec.europa.eu
 audiovisual.europarl.europa.eu
+audit-aws-fr.audit.oots.tech.ec.europa.eu
+audit-aws-ie.audit.oots.tech.ec.europa.eu
 audit.oots.tech.ec.europa.eu
 aula.frontex.europa.eu
 auth-acc.bdti.dataplatform.tech.ec.europa.eu
@@ -2564,6 +2580,7 @@ clientportal.cdt.europa.eu
 clientportalacc.cdt.europa.eu
 clientportalint.cdt.europa.eu
 climate-adapt-plone4.devel5cph.eea.europa.eu
+climate-adapt-plone6.devel5cph.eea.europa.eu
 climate-adapt.eea.europa.eu
 climate-advisory-board.europa.eu
 climate-advisory-board.01dev.eea.europa.eu
@@ -4384,6 +4401,7 @@ errp3.auto.eba.europa.eu
 ers-trn1.efca.europa.eu
 ers-trn2.efca.europa.eu
 ers.efca.europa.eu
+ersad.dev.data.test-era.europa.eu
 ersad.test-era.europa.eu
 es-covid19.bdti.euccp.dataplatform.tech.ec.europa.eu
 es-fiu-training.europol.europa.eu
@@ -8850,6 +8868,7 @@ rgateway.eea.europa.eu
 right-here-right-now.campaign.europa.eu
 rinf-er.test-era.europa.eu
 rinf-vp.test-era.europa.eu
+rinf.dev.data.test-era.europa.eu
 rinf.era.europa.eu
 rinf.test-era.europa.eu
 rio.jrc.ec.europa.eu

@@ -32,6 +32,7 @@ amp.corp.meraki.com
 ap.meraki.com
 ap.tlsgw.meraki.com
 ap.tlsgw.sandbox.meraki.com
+ap.workflows.meraki.com
 apa.internal.nt.meraki.com
 apa.nt.meraki.com
 apa100.meraki.com
@@ -2768,6 +2769,7 @@ enroll.sandbox.meraki.com
 enrollment-devel.meraki.com
 eu.tlsgw.meraki.com
 eu.tlsgw.sandbox.meraki.com
+eu.workflows.meraki.com
 euc.internal.nt.meraki.com
 euc.nt.meraki.com
 euc101.meraki.com
@@ -5061,6 +5063,7 @@ n45.meraki.com
 n45-spare.meraki.com
 n454.meraki.com
 n457.meraki.com
+n458.dashboard.meraki.com
 n46.meraki.com
 n46-spare.meraki.com
 n47.meraki.com
@@ -6317,6 +6320,9 @@ radsec.meraki.com
 radsec.dev.meraki.com
 railing.meraki.com
 rails.meraki.com
+remote.ap.workflows.meraki.com
+remote.eu.workflows.meraki.com
+remote.us.workflows.meraki.com
 resources.meraki.com
 resources.it-managed.meraki.com
 rollout.api.meraki.com
@@ -8807,6 +8813,7 @@ tunnelproxy.usw.ha-splash.meraki.com
 tunnelproxy.usw.ha-splash.sandbox.meraki.com
 us.tlsgw.meraki.com
 us.tlsgw.sandbox.meraki.com
+us.workflows.meraki.com
 use.byoip.nt.meraki.com
 use.internal.nt.meraki.com
 use.internal.nt.sandbox.meraki.com
@@ -9804,6 +9811,7 @@ webmail.dev.meraki.com
 wiki.dev.meraki.com
 windchill.corp.meraki.com
 wired.meraki.com
+workflows.meraki.com
 www.meraki.com
 www-backup.meraki.com
 www-cisco.meraki.com
