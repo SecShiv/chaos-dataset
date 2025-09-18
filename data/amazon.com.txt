@@ -173,6 +173,7 @@
 *.appstream2.eu-west-1.aws.amazon.com
 *.appstream2.eu-west-2.aws.amazon.com
 *.appstream2.eu-west-3.aws.amazon.com
+*.appstream2.il-central-1.aws.amazon.com
 *.appstream2.sa-east-1.aws.amazon.com
 *.appstream2.us-east-1.aws.amazon.com
 *.appstream2.us-east-2.aws.amazon.com
@@ -198,6 +199,7 @@
 *.beta.games.amazon.com
 *.beta.snap.contracts.amazon.com
 *.border.gamma.us-east-1.kids-bordering.amazon.com
+*.bpp.compass.amazon.com
 *.business.amazon.com
 *.ca-central-1-failover.console-gamma.aws-dev.amazon.com
 *.ca-central-1-failover.console.aws-dev.amazon.com
@@ -346,6 +348,7 @@
 *.games.amazon.com
 *.gamma.app.aquil.devices.amazon.com
 *.gamma.console-api.aws.amazon.com
+*.gamma.docs.amazon.com
 *.gamma.games.amazon.com
 *.gamma.romania.amazon.com
 *.gamma.snap.contracts.amazon.com
@@ -18012,8 +18015,10 @@ api.optimus-preprod.aka.amazon.com
 api.podcasters.amazon.com
 api.portal-beta-china.data-deletion.privacy.amazon.com
 api.preprod.signage.amazon.com
+api.prod.aws-ars.oa.pdt.amazon.com
 api.prod.eu-west-1.panel.amazon.com
 api.prod.us-east-1.panel.amazon.com
+api.prodpreview.aws-ars.oa.pdt.amazon.com
 api.relay.amazon.com
 api.replica.compass.amazon.com
 api.s7-fe-prod-s1.iad.amazon.com
@@ -18052,6 +18057,7 @@ api.us-west-2.idp.beta.pearl.buywithprime.amazon.com
 api.us-west-2.preprod.docs.amazon.com
 api.us-west-2.quicksight.aws.amazon.com
 api.video-consent.compass.amazon.com
+api.zaarwil.bpp.compass.amazon.com
 api.zaz.beta.wallet-lifecycle-manager.payments.amazon.com
 apig.admin.beta.docs.amazon.com
 apig.documents.beta.docs.amazon.com
@@ -18283,6 +18289,7 @@ appstream2.euc-sso.sa-east-1.aws.amazon.com
 appstream2.euc-sso.us-east-1.aws.amazon.com
 appstream2.euc-sso.us-east-2.aws.amazon.com
 appstream2.euc-sso.us-west-2.aws.amazon.com
+appstream2.il-central-1.aws.amazon.com
 appstream2.sa-east-1.aws.amazon.com
 appstream2.us-east-1.aws.amazon.com
 appstream2.us-east-2.aws.amazon.com
@@ -20001,6 +20008,7 @@ aws-ars-propagator-pod0-tier1.oa.iad.amazon.com
 aws-ars-snowfort-alpha.corp.amazon.com
 aws-ars-snowfort-beta.corp.amazon.com
 aws-ars.oa.bah.amazon.com
+aws-ars.oa.pdt.amazon.com
 aws-ars.oa.tlv.amazon.com
 aws-ars.oa.tlv62.tlv.amazon.com
 aws-ars.oa.yyc.amazon.com
@@ -22736,6 +22744,7 @@ box-web-na.amazon.com
 box-web-nrt.amazon.com
 boxever.signin.aws.amazon.com
 boz.aka.amazon.com
+bpp.compass.amazon.com
 bps-djq-eu-pdx-d-tcp.integ.amazon.com
 bps-djq-jp-pdx-pd-tcp.integ.amazon.com
 bps-djq-main-na-p-tcp-iad.iad.proxy.amazon.com
@@ -26680,6 +26689,7 @@ ddb-mechanic-zeta-us-east-2.aka.corp.amazon.com
 ddb-mechanic-zeta-us-west-2.aka.corp.amazon.com
 ddb-mechanic.corp.amazon.com
 ddb-opsintel-sonarqube.corp.amazon.com
+ddb.api.prod.aws-ars.oa.pdt.amazon.com
 ddb.ca-central-1.amazon.com
 ddb.us-west-1.amazon.com
 ddbcxmonitor.aka.amazon.com
@@ -28079,6 +28089,7 @@ dsco-upload.corp.amazon.com
 dse-service.aka.amazon.com
 dsedashboard-udhayaka-iad.iad.proxy.amazon.com
 dsetestbed.pdx.amazon.com
+dsig.citi.accs.prod.amazon.com
 dsig.citi.accs.uat.amazon.com
 dsl.eu-west-1-gamma.aiv-delivery.net.amazon.com
 dsl.us-east-1-gamma.aiv-delivery.net.amazon.com
@@ -30231,6 +30242,7 @@ ec2-zuul-publisher-zaz62.zaz.amazon.com
 ec2-zuul-publisher-zrh60.zrh.amazon.com
 ec2-zuul-publisher-zrh61.zrh.amazon.com
 ec2-zuul-publisher-zrh62.zrh.amazon.com
+ec2.api.prod.aws-ars.oa.pdt.amazon.com
 ec2bi-reporteditor.amazon.com
 ec2bi-rs-password.amazon.com
 ec2bi-validationtool.amazon.com
@@ -30390,6 +30402,7 @@ eink-power-dashboard.aka.amazon.com
 eink-sonarqube-dashboard.aka.amazon.com
 eink-test.aka.amazon.com
 eink-utilitystack.aka.amazon.com
+einsight.cupid-na.idprism-auth.amazon.com
 eiportal.amazon.com
 eisws-console.amazon.com
 eisws-console-cn.amazon.com
@@ -33042,6 +33055,7 @@ fps-reporter-console-gamma-sec-iad.iad.proxy.amazon.com
 fps-sdbx-de.amazon.com
 fps-sdbx-uk.amazon.com
 fps-ui-beta.integ.amazon.com
+fps.api.prod.aws-ars.oa.pdt.amazon.com
 fpy-alpha.corp.amazon.com
 fpy-pilot.corp.amazon.com
 fpy.corp.amazon.com
@@ -45744,6 +45758,7 @@ one.amazon.com
 oneboard-beta.corp.amazon.com
 onebox-asap-iad.iad.proxy.amazon.com
 onebox-authoring-marketplace.iad.amazon.com
+onebox.api.prod.aws-ars.oa.pdt.amazon.com
 onebox.aws-dogfish.us-east-1.amazon.com
 onebox.dub.merlon.amazon.com
 onebox.quicksight.aws.amazon.com
@@ -50943,6 +50958,7 @@ s3-us-gov-west-1-cramps.pdt.amazon.com
 s3-us-west-1-finder.amazon.com
 s3-us-west-2-cramps.amazon.com
 s3-us-west-2-finder.amazon.com
+s3.api.prod.aws-ars.oa.pdt.amazon.com
 s3.awsc-dev.aws.amazon.com
 s3.awsc-integ.aws.amazon.com
 s3.awsc-preprod.aws.amazon.com
@@ -51131,6 +51147,7 @@ sa-tools.corp.amazon.com
 sa-west-1.console.aws.amazon.com
 sa-west-1.lightsail.aws.amazon.com
 saaet-poc-integ.corp.amazon.com
+saam-test.amazon.com
 sable-data-explorer-dub-jlb-dub.dub.proxy.amazon.com
 sable-data-explorer-dub.dub.proxy.amazon.com
 sable-data-explorer-gamma-test-jlb.corp.amazon.com
@@ -51800,6 +51817,7 @@ sdb-aa-sfo.sfo.proxy.amazon.com
 sdb-aa-sin.sin.proxy.amazon.com
 sdb-aa-syd.syd.proxy.amazon.com
 sdb-perf2-ssloffload.iad.amazon.com
+sdb.api.prod.aws-ars.oa.pdt.amazon.com
 sdc-cgk60-backend.cgk.amazon.com
 sdc-cgk61-backend.cgk.amazon.com
 sdc-cgk62-backend.cgk.amazon.com
@@ -54848,6 +54866,7 @@ sns-stub-catalyst-migrator-access.dog.amazon.com
 sns-stub-catalyst-migrator-access.thf.amazon.com
 sns-stub-catalyst-migrator-access.tlv.amazon.com
 sns-stub-catalyst-migrator-access.tpe.amazon.com
+sns.api.prod.aws-ars.oa.pdt.amazon.com
 snscx-tools.aka.amazon.com
 soap.amazon.com
 soap-dub.dub.proxy.amazon.com
@@ -55383,6 +55402,7 @@ sqs-stub-catalyst-migrator-access.mdw.amazon.com
 sqs-stub-catalyst-migrator-access.tlv.amazon.com
 sqs-stub-catalyst-migrator-access.tpe.amazon.com
 sqs-stub-catalyst-migrator-access.yyc.amazon.com
+sqs.api.prod.aws-ars.oa.pdt.amazon.com
 square-off-fe-gamma-jlb-pdx.pdx.proxy.amazon.com
 square-off-fe-pdx.pdx.proxy.amazon.com
 square-off-in.aka.amazon.com
@@ -60759,6 +60779,7 @@ yyz4-portal.amazon.com
 z.amazon.com
 za.amazon.com
 za-assoc-master.aka.amazon.com
+zaarwil.bpp.compass.amazon.com
 zairen-logstash-fe.corp.amazon.com
 zamboni-dub.aka.amazon.com
 zamboni-eu.integ.amazon.com

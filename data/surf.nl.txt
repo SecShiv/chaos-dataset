@@ -18,6 +18,7 @@
 *.ci-remove-fix-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-beautif-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-boto3-1-record-harvester.dev.sdp.surf.nl
+*.ci-renovate-cr-surf-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-fastapi-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-ghcr-io-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-lock-fi-record-harvester.dev.sdp.surf.nl
@@ -37,6 +38,7 @@
 *.ci-ssk-verzamelinge-record-harvester.dev.sdp.surf.nl
 *.ci-technical-type-record-harvester.dev.sdp.surf.nl
 *.ci-unify-image-record-harvester.dev.sdp.surf.nl
+*.ci-unique-identifie-record-harvester.dev.sdp.surf.nl
 *.ci-untitle-links-record-harvester.dev.sdp.surf.nl
 *.ci-update-backstage-record-harvester.dev.sdp.surf.nl
 *.ci-update-bruno-tes-record-harvester.dev.sdp.surf.nl
@@ -832,6 +834,7 @@ chat.ia.surf.nl
 chime0.surf.nl
 chime3.surf.nl
 chime7.surf.nl
+ci-aea700f78a8e8444-monitoring.dev.sdp.surf.nl
 ci-bundle-admin.cxp.dev.sdp.surf.nl
 ci-dev-admin.cxp.dev.sdp.surf.nl
 ci-docker-proxy-admin.cxp.dev.sdp.surf.nl
@@ -2543,6 +2546,7 @@ idp.experimenteer.dlo.surf.nl
 idp.issuer.dev.ssi.lab.surf.nl
 idp.issuer.test.ssi.lab.surf.nl
 idp.maes1.lab.surf.nl
+idp.pilot1.sram.surf.nl
 idp.sram.surf.nl
 idp.test.dlo.surf.nl
 idp.test.scz.lab.surf.nl
@@ -2816,12 +2820,14 @@ micro-ams.surf.nl
 middelbaar01.cr.surf.nl
 middelbaar02.cr.surf.nl
 mijn.surf.nl
+minio-console.cluster-dev-3-int.otc.sdp.surf.nl
 minio-console.cluster-dev-int.sdp.surf.nl
 minio-console.dev-int.sdp.surf.nl
 minio-console.infra-int.sdp.surf.nl
 minio-console.playground-int.sdp.surf.nl
 minio-console.stage-int.sdp.surf.nl
 minio-console.test-int.sdp.surf.nl
+minio.cluster-dev-3-int.otc.sdp.surf.nl
 minio.cluster-dev-int.sdp.surf.nl
 minio.dev-int.sdp.surf.nl
 minio.infra-int.sdp.surf.nl
@@ -3157,6 +3163,7 @@ prod.sdp.surf.nl
 profile.sram.surf.nl
 programmatweedaagse2020.surf.nl
 prometheus-client.cluster-dev-2.sdp.surf.nl
+prometheus-client.cluster-dev-3.otc.sdp.surf.nl
 prometheus-client.cluster-dev.sdp.surf.nl
 prometheus-client.infra.sdp.surf.nl
 prometheus-client.playground.sdp.surf.nl

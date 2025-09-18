@@ -290,6 +290,7 @@
 *.social.dev.on.epicgames.com
 *.social.live.on.epicgames.com
 *.stage.internal.kws.ol.epicgames.com
+*.static-assets-help-prod.epicgames.com
 *.static-assets-prod.epicgames.com
 *.store.epicgames.com
 *.store-dev.on.epicgames.com
@@ -1059,6 +1060,7 @@ artpipe-deadline.art-pipeline-dev-us-east-1.it.epicgames.com
 artpipeline-jenkins.artpipeline-dev.it.epicgames.com
 artportal.epicgames.com
 asiavpn.epicgames.com
+aurochs-ci.dcaf.dev.use1a.on.epicgames.com
 aurochs-dev-timvandijk.dcaf.dev.use1a.on.epicgames.com
 auth-api-prod.artpipeline-dev.it.epicgames.com
 auth-api.artpipeline-dev.it.epicgames.com
@@ -4226,6 +4228,7 @@ mms-service-ci-public.ogs.dev.on.epicgames.com
 mms-service-gamedev-admin.ogs.dev.on.epicgames.com
 mms-service-gamedev-public.ogs.dev.on.epicgames.com
 mobileauth.ol.epicgames.com
+moderation-automated-test-results.ecosec.on.epicgames.com
 moderation-moderator-service-dev01.ecac.dev.use1a.on.epicgames.com
 moderation-training-service-prod.ecbc.live.use1a.on.epicgames.com
 mol-letsencrypt-10-99-17-37.it-entapps-dev.epicgames.com
@@ -4660,6 +4663,7 @@ starter-kit-demo-gnino.dead.dev.use1a.on.epicgames.com
 starter-kit-demo-sea.dead.dev.use1a.on.epicgames.com
 stash.ds.on.epicgames.com
 stash.prod.adad.live.use1a.on.epicgames.com
+static-assets-help-prod.epicgames.com
 static-assets-prod.epicgames.com
 static-assets-prod-dest.epicgames.com
 static-assets-prod-origin.epicgames.com
@@ -4822,6 +4826,8 @@ tp.epicgames.com
 tracking.epicgames.com
 tracking.epicgames-stage.ol.epicgames.com
 tracking.fab-gamedev-lb.marketing.dev.on.epicgames.com
+transformer-service.abfa.live.use1a.on.epicgames.com
+transformer-service.fcfe.dev.use1a.on.epicgames.com
 trap.it.epicgames.com
 tst-docs.artpipe.epicgames.com
 turn-prod.rtcp.on.epicgames.com
@@ -4928,6 +4934,7 @@ vpn-dc4-ft.it.epicgames.com
 vpn-dc4.it.epicgames.com
 vpn-ld8-ft.it.epicgames.com
 vpn-ld8.it.epicgames.com
+vpn-pk01.it.epicgames.com
 vpn-portal.epicgames.com
 vpn-rdu.it.epicgames.com
 vpn-se2-ft.it.epicgames.com

@@ -56,13 +56,16 @@
 *.k8s.svm-woerden.cnap-am4.intranet.rws.nl
 *.k8s.svm-zwolle.cnap-am4.intranet.rws.nl
 *.k8s.svm.cnap-am4.intranet.rws.nl
+*.k8s.vm-integratie-prod.cnap-am4.intranet.rws.nl
 *.k8s.voz-acc.cnap-am2.intranet.rws.nl
 *.k8s.voz-acc.cnap-am4.intranet.rws.nl
 *.k8s.voz-poc.cnap-am2.intranet.rws.nl
 *.k8s.voz-prod.cnap-am4.intranet.rws.nl
+*.k8s.voz-symbio.cnap-am4.intranet.rws.nl
 *.k8s.wm-tab.cnap-am2.intranet.rws.nl
 *.k8s.wm-tab.cnap-am4.intranet.rws.nl
 *.k8s.wm-test.cnap-am2.intranet.rws.nl
+*.k8s.wm-tooling.cnap-am4.intranet.rws.nl
 *.k8s2.cnap-test.cnap-am2.intranet.rws.nl
 *.ngx.wm-test.cnap-am2.intranet.rws.nl
 *.pages-dev.dev.at.rws.nl
@@ -87,6 +90,7 @@ acc-geo.rws.nl
 acc-inloggen.rws.nl
 acc-kennismaken.rws.nl
 acc-kiosk.rws.nl
+acc-lis.rws.nl
 acc-maps.rws.nl
 acc-onderwaterobjecten.rws.nl
 acc-ovdsupport.rws.nl
@@ -203,6 +207,7 @@ apop.esb.intranet.rws.nl
 apop.intranet.esb.rws.nl
 app-vue.vm-02.azure.grid.rws.nl
 aqualarm.rws.nl
+aquo-kit.rws.nl
 argo-dev.dev.at.rws.nl
 argo-vault.at.rws.nl
 argocd-dev.dev.at.rws.nl
@@ -300,6 +305,7 @@ dataservice.acceptatie.liwo.intranet.rws.nl
 dataservice.test.liwo.intranet.rws.nl
 ddapi.rws.nl
 ddapi-preprod.rws.nl
+deformatieviewer.rws.nl
 demo-geoservices.rws.nl
 demo-geoservices.intranet.rws.nl
 dev-rancher.at.rws.nl
@@ -349,6 +355,7 @@ esb-werkstation-3.vm-02.azure.grid.rws.nl
 esb.intranet.rws.nl
 etl.rws.nl
 etl.intranet.rws.nl
+evas.rws.nl
 evenementen.rws.nl
 eventrecorder.ptp.acc-inloggen.rws.nl
 eventrecorder.ptp.inloggen.rws.nl
@@ -468,6 +475,7 @@ k8s.svm-veenendaal.cnap-am4.intranet.rws.nl
 k8s.svm-woerden.cnap-am4.intranet.rws.nl
 k8s.svm-zwolle.cnap-am4.intranet.rws.nl
 k8s.svm.cnap-am4.intranet.rws.nl
+kafka-ui.kafka.test.vm-04.azure.grid.rws.nl
 kas.dev.at.rws.nl
 kennismaken.rws.nl
 keycloak-acc.vm-02.azure.grid.rws.nl
@@ -486,6 +494,7 @@ langfuse-test.vm-05.azure.grid.rws.nl
 langfuse.vm-05.azure.grid.rws.nl
 lbs-test-nginx2.vip.ext-prod.rws.nl
 legacy.rws.nl
+lis.rws.nl
 listmonk.cnap.rws.nl
 live.acc.static.intranet.rws.nl
 live.acc.static.werkenbij.rws.nl
@@ -1003,6 +1012,7 @@ svs.ptp.inloggen.rws.nl
 taranis.intranet.rws.nl
 taz-cronus-s-rabbitmq.infra-24.azure.grid.rws.nl
 taz-grafana.infra-24.azure.grid.rws.nl
+taz-k8s-dashboard.infra-24.azure.grid.rws.nl
 techniekacademie.rws.nl
 tempeov.rws.nl
 tenant1.minio.dev.at.rws.nl
@@ -1183,6 +1193,7 @@ www-rws2011.rws.nl
 www.2docgen.intranet.rws.nl
 www.acc-bergerselect.rws.nl
 www.acc-deformatieviewer.rws.nl
+www.acc-lis.rws.nl
 www.acc-ovdsupport.rws.nl
 www.acc-p8.intranet.rws.nl
 www.acc-port-enc.rws.nl
@@ -1230,6 +1241,7 @@ www.ais.rws.nl
 www.alarmmodule.rws.nl
 www.apop.intranet.esb.rws.nl
 www.aqualarm.rws.nl
+www.aquo-kit.rws.nl
 www.asign.openam.rws.nl
 www.bas.intranet.rws.nl
 www.bbuem-console.intranet.rws.nl
@@ -1248,6 +1260,7 @@ www.crisiswerkplek.rws.nl
 www.custompages.prd.web8.intranet.rws.nl
 www.dataservice.acceptatie.liwo.intranet.rws.nl
 www.dataservice.test.liwo.intranet.rws.nl
+www.deformatieviewer.rws.nl
 www.demo-geoservices.rws.nl
 www.demo-geoservices.intranet.rws.nl
 www.digitaltwin-dev.rws.nl
@@ -1256,6 +1269,7 @@ www.disk.acceptatie.rws.nl
 www.docgen2.intranet.rws.nl
 www.esb.rws.nl
 www.esb.intranet.rws.nl
+www.evas.rws.nl
 www.ews.rws.nl
 www.fam.rws.nl
 www.fcd-acc-bemobile-aid-triggers.rws.nl
@@ -1279,6 +1293,7 @@ www.iam.wm.rws.nl
 www.ibeno.rws.nl
 www.icalk.rws.nl
 www.isms.intranet.rws.nl
+www.lis.rws.nl
 www.live.acc.static.werkenbij.rws.nl
 www.live.acc.tridion.api.rws.nl
 www.live.acc.werkenbij.rws.nl

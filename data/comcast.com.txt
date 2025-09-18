@@ -419,6 +419,8 @@
 *.fo-apse1-prod-a.r53-ap.merlin.comcast.com
 *.fo-apse2-dev-b.r53-ap-dev.merlin.comcast.com
 *.fo-apse2-prod-a.r53-ap.merlin.comcast.com
+*.fo-use1-prod-b.r53.merlin.comcast.com
+*.fo-usw2-prod-a.r53.merlin.comcast.com
 *.forgot-user-content-dev.np.digital.business.comcast.com
 *.forgot-user-content-int.np.digital.business.comcast.com
 *.forgot-user-content-pqa.np.digital.business.comcast.com
@@ -4001,6 +4003,7 @@
 10.24.76.61.cable.comcast.com
 107-0-113-221-ip-static.hfc.comcast.com
 111-223.cable.comcast.com
+123test.comcast.com
 147-194-100-1rec06-p2.cable.comcast.com
 149.28.250.30.dsl.comcast.com
 162-149-220-234-static.hfc.comcastbusialmadm-ch2-1p.cable.comcast.com
@@ -7459,6 +7462,7 @@ app.securitycentral.comcast.com
 app.smartoffice.comcast.com
 app.stag-greenhouse.comcast.com
 app.stag-securitycentral.comcast.com
+app.staging.hap.comcast.com
 app0.sentry.comcast.com
 app0.tube.comcast.com
 app01.comcast.com
@@ -12561,6 +12565,8 @@ celestial-payment-htte.cable.comcast.com
 celestial-payment-prod-as.cable.comcast.com
 celestial-payment-prod-ch.cable.comcast.com
 celestial-payment-prod-ho.cable.comcast.com
+celestial-payment-soak.cable.comcast.com
+celestial-payment-soak.dcn.slb.comcast.com
 celestial-payment-stg.cable.comcast.com
 celestial-payment-uat-a.cable.comcast.com
 celestial-payment-uat-b.cable.comcast.com
@@ -15790,6 +15796,7 @@ comet-stage-api-po-1p.slb.comcast.com
 comet-stage-api.tools.merlin.comcast.com
 comet-stage-po-1p.slb.comcast.com
 comet-stage.tools.merlin.comcast.com
+comettest.comcast.com
 comhrltec008-165137121005.cable.comcast.com
 comhrltec373.cable.comcast.com
 comjms-po-vip.cable.comcast.com
@@ -17776,6 +17783,7 @@ cpos-graphql-qa.cable.comcast.com
 cpos-graphql-uat-b.cable.comcast.com
 cpos-perf.cable.comcast.com
 cpos-qa.cable.comcast.com
+cpos-soak.cable.comcast.com
 cpos-uat-b.cable.comcast.com
 cpos-uat.cable.comcast.com
 cpos.cable.comcast.com
@@ -18125,11 +18133,13 @@ csmweb-1p.gslb.comcast.com
 csmweb-as-01d.cable.comcast.com
 csmweb-as-01q.cable.comcast.com
 csmweb-as-11d.cable.comcast.com
+csmweb-as-11p.cable.comcast.com
 csmweb-as-11q.cable.comcast.com
 csmweb-as-11s.cable.comcast.com
 csmweb-as-1p-con.cable.comcast.com
 csmweb-as-1p.cable.comcast.com
 csmweb-as-1s.cable.comcast.com
+csmweb-as-21p.cable.comcast.com
 csmweb-as-21s.cable.comcast.com
 csmweb-as-2p-con.cable.comcast.com
 csmweb-as-2p.cable.comcast.com
@@ -18484,6 +18494,7 @@ customerstatements.comcast.com
 customerstatements-dr.comcast.com
 customertimeapi.comcast.com
 customfeed.merlin.comcast.com
+customretesting.comcast.com
 custsvcweb.cable.comcast.com
 cutomobile.cable.comcast.com
 cvdgui-as-a1p.cable.comcast.com
@@ -20152,6 +20163,8 @@ directsiteminder.cable.comcast.com
 dis-alteryx-prod.comcast.com
 dis-alteryx-sandbox.comcast.com
 dis-alteryx-test.comcast.com
+discover.comcast.com
+discover.cable.comcast.com
 discovery.comcast.com
 discovery-db-r1s.gslb4.comcast.com
 dishwinback.cable.comcast.com
@@ -23006,6 +23019,11 @@ esrchx-wc-b1s.cable.comcast.com
 esrchx-wc-b2s.cable.comcast.com
 esrchx-wc-b4s.cable.comcast.com
 esrchx-wc-b5s.cable.comcast.com
+esri-il-02d.cable.comcast.com
+esri-il-02p.cable.comcast.com
+esri-il-02s.cable.comcast.com
+esri-va-02p.cable.comcast.com
+esri-va-02s.cable.comcast.com
 esridb-il-01d.cable.comcast.com
 esridb-va-01s.cable.comcast.com
 esrisandbox.cable.comcast.com
@@ -48695,11 +48713,13 @@ ppvodrs-wc-1s.cable.comcast.com
 ppvvod.comcast.com
 ppvvod.cable.comcast.com
 ppvvodapi.comcast.com
+ppvvodapiservice.comcast.com
 ppvvodapistg.comcast.com
 ppvvodprod-as-1p.slb.comcast.com
 ppvvodstg.comcast.com
 ppvvodstg-cf.comcast.com
 ppvvodstg.cable.comcast.com
+ppvvodtoken.comcast.com
 ppvvodtokenstg.comcast.com
 ppvweb-wc-01d.cable.comcast.com
 ppvweb-wc-1d.cable.comcast.com
@@ -54449,6 +54469,7 @@ retail360api-preprod.comcast.com
 retail360api-soak.comcast.com
 retail360api.preprod.comcast.com
 retaildashboard.cable.comcast.com
+retailpay-soak.cable.comcast.com
 retailpos.comcast.com
 retailpos-qa.comcast.com
 retailpos-uat.comcast.com
@@ -54661,6 +54682,7 @@ rmviewdb-wc-1p.cable.comcast.com
 rnetbox.cable.comcast.com
 road-api.cable.comcast.com
 roambi.cable.comcast.com
+roci.api.rogers.comcast.com
 rock.cable.comcast.com
 rock9-cmc-2s.cable.comcast.com
 rocketfuel-ui-assets-dev.np.digital.business.comcast.com
@@ -54678,6 +54700,7 @@ roeapp-as-a2d.cable.comcast.com
 roeapp-ch2-a4s.cable.comcast.com
 roeapp-wc-a1s.cable.comcast.com
 roeapp-wc-a2s.cable.comcast.com
+rogers.comcast.com
 rogers-bet-stage.gslb2.comcast.com
 rogers-bet.gslb2.comcast.com
 rogers-mds-int-nk-p.gslb2.comcast.com
@@ -58838,6 +58861,7 @@ sumida.cable.comcast.com
 sungaurdtesting08cert1.comcast.com
 sunidm.cable.comcast.com
 sunil-officepc.cable.comcast.com
+super8testingreg.comcast.com
 supernova.cable.comcast.com
 supersession-fo.merlin.comcast.com
 superset.comcast.com
@@ -67721,6 +67745,7 @@ www.digitalhome.comcast.com
 www.digitalnow.comcast.com
 www.dir-ping.gslb2.comcast.com
 www.directory.cable.comcast.com
+www.discover.comcast.com
 www.dlpitext-wc-01p.cable.comcast.com
 www.dms-dev.cable.comcast.com
 www.dms-qa.cable.comcast.com

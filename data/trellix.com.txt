@@ -1,6 +1,7 @@
 *.a.lab.training.trellix.com
 *.alpha.domaintest.xconsole.trellix.com
 *.alpha.xconsole.trellix.com
+*.ap-southeast-1.hyperautomation.trellix.com
 *.api.dev.manage.trellix.com
 *.app.xdr.trellix.com
 *.asianortheast1.app.xdr.trellix.com
@@ -20,6 +21,7 @@
 *.dev01.apps.xdr.trellix.com
 *.devops.xconsole.trellix.com
 *.dlp.manage.trellix.com
+*.dlp.preprod.manage.trellix.com
 *.etp.trellix.com
 *.europewest10.appcom.xdr.trellix.com
 *.fenet.trellix.com
@@ -114,6 +116,7 @@ api.soc.us-west-2.trellix.com
 api.staging.mdr.trellix.com
 api.vnext.xdrint.trellix.com
 api.vnext.xdrpreeks.trellix.com
+api.vpn.staging.mdr.trellix.com
 api.xdrint.trellix.com
 api.xdrpreeks.trellix.com
 apigee.trellix.com
@@ -167,6 +170,7 @@ bps.provisioning.staging.insights.trellix.com
 bpsapis.trellix.com
 bpsapis.beta.manage.trellix.com
 bpsapis.manage.trellix.com
+broker.vpn.staging.mdr.trellix.com
 business.trellix.com
 ca.etp.trellix.com
 careers.trellix.com
@@ -218,6 +222,7 @@ customer-dev-login.trellix.com
 customer-login.trellix.com
 customer-qa-login.trellix.com
 customer-stg-login.trellix.com
+cvpn.trellix.com
 cxp.trellix.com
 cyberchef.a.lab.training.trellix.com
 cyberchef.a.staging.lab.training.trellix.com
@@ -229,6 +234,7 @@ dashboard.csupp.gtiservice.trellix.com
 data.myaccounts-pendo.trellix.com
 data.pendo.trellix.com
 databus.gtiservice.trellix.com
+de-pav-vpn1.trellix.com
 demo.xconsole.trellix.com
 denvpn1.trellix.com
 denvpn2.trellix.com
@@ -340,6 +346,7 @@ github-stage.trellix.com
 gitlab.a.lab.training.trellix.com
 gitlab.lab.training.trellix.com
 go.trellix.com
+grafana.vpn.staging.mdr.trellix.com
 groove.trellix.com
 gsd.cloud.trellix.com
 gsd.staging.cloud.trellix.com
@@ -393,6 +400,7 @@ ihub.xdrprd-euc1.xdr.trellix.com
 ihub.xdrprd-use1.xdr.trellix.com
 ihub.xdrprd-usw2.xdr.trellix.com
 ihub.xdrqa.qa.xdr.trellix.com
+in-ban-vpn1.trellix.com
 in-hyd-sbc-1.trellix.com
 in-hyd-sbc-2.trellix.com
 ingress.xdr-ondemand-28.od.dev.xdr.trellix.com
@@ -496,6 +504,7 @@ nativepushapi.ap.etp.trellix.com
 nativepushapi.ca.etp.trellix.com
 nativepushapi.eu.etp.trellix.com
 nativepushapi.us.etp.trellix.com
+netmaker-exporter.vpn.staging.mdr.trellix.com
 nicktest.cloud.trellix.com
 nicktest.ops.cloud.trellix.com
 nonprod.sap.trellix.com
@@ -557,6 +566,7 @@ prod.sap.trellix.com
 prod.urlcat.amq.trellix.com
 prod.xconsole.trellix.com
 production.jenkins.app.xdr.trellix.com
+prometheus.vpn.staging.mdr.trellix.com
 protex-stage.corp.trellix.com
 protex.corp.trellix.com
 proxmox-test00.lab.training.trellix.com
@@ -783,6 +793,7 @@ ui.xdrpreeks.trellix.com
 us-aws-iseguest1.trellix.com
 us-dnv-iseguest1.trellix.com
 us-dnv-iseguest2.trellix.com
+us-dnv-vpn1.trellix.com
 us-lvs-iseguest1.trellix.com
 us-lvs-iseguest2.trellix.com
 us.etp.trellix.com

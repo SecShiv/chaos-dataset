@@ -380,6 +380,7 @@
 *.cl1-default-lb.epm-ais-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-aldo-ant.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-alfa-ant-prl.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-alfa-anthos-cipr.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-aop-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-asmd-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-auto-anthos1.eu.gcp.cloudapp.epam.com
@@ -409,6 +410,7 @@
 *.cl1-default-lb.epm-devr-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-dgen-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-disp-anthos-prod.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-disp-anthos-prod.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-disp-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-dmpl-anthos-dev.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-eco-anthos.eu.gcp.cloudapp.epam.com
@@ -575,6 +577,7 @@
 *.cl1-default-lb.epm-time-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-tmc-anthos-stg.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-tmc-anthos.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-trad-ant-dev.eu.azure.epm-iass.projects.epam.com
 *.cl1-default-lb.epm-trm-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-uns-ant-ihub-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-uns-anthos-ihub.eu.gcp.cloudapp.epam.com
@@ -694,6 +697,7 @@
 *.cyolo.epam.com
 *.dataheart.app.epam.com
 *.default-lb-epm-paas-ant-aws-dev.epm-paas-ant-aws-dev.eu.aws.epm-paas.projects.epam.com
+*.default-lb-epm-paas-anthos-eks.epm-paas-anthos-eks.eu.aws.epm-paas.projects.epam.com
 *.default-lb.epm-paas-anthos.eu.aws.epm-paas.projects.epam.com
 *.default.wmpr.test.wm.lab.epam.com
 *.delivery.epam.com
@@ -2299,6 +2303,7 @@ cicd.mdtu-ddm.projects.epam.com
 cicd2.mdtu-ddm.projects.epam.com
 cimobile.cloud.epam.com
 cimobile.lab.epam.com
+cip-stag.epm-cipr.projects.epam.com
 cit.wmpr.test.wm.lab.epam.com
 clearml-mgmt-vodc.lab.epam.com
 client-copy.epm-iga.projects.epam.com
@@ -2418,6 +2423,7 @@ cs-stag-gdpr.health.epam.com
 cs-stag.health.epam.com
 cs.health.epam.com
 csd-demo.sap-srs.projects.epam.com
+cstoes-dev.epm-paas.projects.epam.com
 csxstg-publish.csg.projects.epam.com
 ct-stable-int.azure.epmc-stc.projects.epam.com
 ct-stable.azure.epmc-stc.projects.epam.com
@@ -3343,6 +3349,7 @@ elasticsearch-v6-321.aws.radar.stage.epam.com
 elasticsearch-v6-323.aws.radar.stage.epam.com
 elasticsearch-v6-328.aws.radar.stage.epam.com
 elasticsearch-v6-386.aws.radar.stage.epam.com
+elasticsearch-v6-387.aws.radar.stage.epam.com
 elasticsearch-v6-412.aws.radar.epam.com
 elasticsearch-v6-413.aws.radar.epam.com
 elasticsearch-v6-414.aws.radar.epam.com
@@ -4336,6 +4343,7 @@ hive.epam.com
 hli-data.projects.epam.com
 hnda-paas.projects.epam.com
 home.models.epm-data.projects.epam.com
+home.skills-ai.epm-skls.projects.epam.com
 hotfix-api.emissions.lab.epam.com
 hotfix-api.emissionsaws.lab.epam.com
 hotfix.emissions.lab.epam.com

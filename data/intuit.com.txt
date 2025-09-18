@@ -989,6 +989,7 @@
 *.mc-engage.a.intuit.com
 *.mc-forms.a.intuit.com
 *.mc-ha.a.intuit.com
+*.mcdatalake-e2e-backend.api.a.intuit.com
 *.mcf-dev-qal.a.intuit.com
 *.mcf-dev.a.intuit.com
 *.mcf-prod.a.intuit.com
@@ -3432,6 +3433,7 @@ acquirer.perf.psd.intuit.com
 acquirer.psd.intuit.com
 acquirercenterweb-vip.dfw.intuit.com
 acquirercenterweb-vip.wdh.intuit.com
+acquisition-engine-provider.ipifdp2produsw2.iks2.a.intuit.com
 acquisition-gateway-fdp-sbx.ipifdpprodpciusw2.iks2.a.intuit.com
 acs-e2e.pharos.intuit.com
 acs-int.qa.qbo.a.intuit.com
@@ -6211,6 +6213,8 @@ appconnections-aws-qal.api.intuit.com
 appconnections-aws.api.intuit.com
 appd-policygen-dev.ipmsaasprodusw2.iks2.a.intuit.com
 appdynamics-capability-dev.ipmsaasprodusw2.iks2.a.intuit.com
+appf-tc03001-e2e.app.intuit.com
+appf-tc03001.app.intuit.com
 appfabric.intuit.com
 appfabric-prd-appfabric-snow.ippaasproduse2.iks2.a.intuit.com
 appfabric-prd-appfabric-web-operations.devpuxfabricprdusw2.iks2.a.intuit.com
@@ -23819,6 +23823,9 @@ ebus-clickstream-datapersist.dataengppduse2.iks2.a.intuit.com
 ebus-clickstream-datapersist.dataengppdusw2.iks2.a.intuit.com
 ebus-cluster-service-d-4021951.dataengprduse2.iks2.a.intuit.com
 ebus-cluster-service-d-4021951.dataengprdusw2.iks2.a.intuit.com
+ebus-common-prd.ebusrest-prd.a.intuit.com
+ebus-custom-datapersist.dataengprduse2.iks2.a.intuit.com
+ebus-custom-datapersist.dataengprdusw2.iks2.a.intuit.com
 ebus-data-mesh-service-7476405.dataengprdusw2.iks2.a.intuit.com
 ebus-functional-testin-8085687.dataengprduse2.iks2.a.intuit.com
 ebus-functional-testin-8085687.dataengprdusw2.iks2.a.intuit.com
@@ -28512,6 +28519,7 @@ finplan-taxplan-stg-tax-insights-service.pcgprdusw2.iks2.a.intuit.com
 fintech-airis-svc-devsuccess.paymentprdusw2.iks2.a.intuit.com
 fintech-api-payments.paymentprduse2.iks2.a.intuit.com
 fintech-api-payments.paymentprdusw2.iks2.a.intuit.com
+fintech-icc-prd-platform-superset.paymentprdusw2.iks2.a.intuit.com
 firm-e2e-lvdc.accountant.intuit.com
 firm-e2e-qydc.accountant.intuit.com
 firm-prd-lvdc.accountant.intuit.com
@@ -39759,6 +39767,7 @@ idx-common-stg-idx-banking-dq-api.ipifdp2produsw2.iks2.a.intuit.com
 idx-common-stg-productidentity.ipifdp2produsw2.iks2.a.intuit.com
 idx-connectivity-prd-appconnect.fdpprdusw2.iks2.a.intuit.com
 idx-connectivity-stg-appconnect.fdpprdusw2.iks2.a.intuit.com
+idx-connectivity-tax-acquisition-engine.ipifdp2produsw2.iks2.a.intuit.com
 idx-connectivity-tools-idx.ipifdpprodpciusw2.iks2.a.intuit.com
 idx-cost-instrumentation-idx.ipifdp2produsw2.iks2.a.intuit.com
 idx-crypto-prd-ipf-crypto-tx-service.ipifdp2produsw2.iks2.a.intuit.com
@@ -49587,6 +49596,7 @@ nontax-prod-1-a.sts.a.intuit.com
 nontax-prod-1-b.sts.a.intuit.com
 nontax-prod-2-a.sts.a.intuit.com
 nontax-prod-3-a.sts.a.intuit.com
+noor-test-asterias-ssl-sandbox.techpippdusw2.iks2.a.intuit.com
 nopostman-backend-devx.ipifdp2produsw2.iks2.a.intuit.com
 nopostman-backend-pla-7206201.ipifdp2produsw2.iks2.a.intuit.com
 nopostman-team-backen-9574169.ipifdp2produsw2.iks2.a.intuit.com
@@ -49899,6 +49909,8 @@ numaflow.dngsppdlppdusw2.iks2.a.intuit.com
 numaflow.dngsppdlprduse2.iks2.a.intuit.com
 numaflow.dngsppdlprdusw2.iks2.a.intuit.com
 numaflow.eisppdusw2.iks2.a.intuit.com
+numaflow.ewokprduse2.iks2.a.intuit.com
+numaflow.ewokprdusw2.iks2.a.intuit.com
 numaflow.falcoppdusw2.iks2.a.intuit.com
 numaflow.fdpppduse2.iks2.a.intuit.com
 numaflow.fdpprdpciuse2.iks2.a.intuit.com
@@ -54840,6 +54852,7 @@ platform-sgmnt-ppd.a.intuit.com
 platform-sgmnt-ppd.iks.a.intuit.com
 platform-sgmnt-ppd2.iks.a.intuit.com
 platform-sgmnt-prod-usw2.a.intuit.com
+platform-superset-creditcard.paymentprdusw2.iks2.a.intuit.com
 platform.aws-e2e.payments.intuit.com
 platform.dev.intuit.com
 platform.dr.payments.intuit.com
@@ -93090,3 +93103,4 @@ zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
 zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
+zycada.quickbooks.intuit.com

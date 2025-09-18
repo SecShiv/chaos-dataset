@@ -562,9 +562,11 @@
 *.aol-wiki.archived-corpsites.us-east-3.staging.vespa.oath.cloud
 *.aol-wiki.archived-corpsites.us-east-3.vespa.oath.cloud
 *.aol-wiki.archived-corpsites.us-west-1.vespa.oath.cloud
+*.aol.ranking-index.mlplatform.aws-eu-west-1a.vespa.oath.cloud
 *.aol.ranking-index.mlplatform.aws-us-east-1a.vespa.oath.cloud
 *.aol.ranking-index.mlplatform.aws-us-west-2a.staging.vespa.oath.cloud
 *.aol.ranking-index.mlplatform.aws-us-west-2a.test.vespa.oath.cloud
+*.aol.ranking-index.mlplatform.aws-us-west-2a.vespa.oath.cloud
 *.aol.ranking-index.mlplatform.gcp-us-east5-a.staging.vespa.oath.cloud
 *.aol.ranking-index.mlplatform.gcp-us-east5-a.test.vespa.oath.cloud
 *.aol.ranking-index.mlplatform.global.vespa.oath.cloud
@@ -4971,6 +4973,14 @@
 *.gcp.canary-pipeline.vespa.global.vespa.oath.cloud
 *.gcp.canary-pipeline.vespa.us-east-1.test.vespa.oath.cloud
 *.gcp.canary-pipeline.vespa.us-east-3.staging.vespa.oath.cloud
+*.gcp.rmf.ixtract.aws-us-west-2a.staging.vespa.oath.cloud
+*.gcp.rmf.ixtract.aws-us-west-2a.test.vespa.oath.cloud
+*.gcp.rmf.ixtract.gcp-us-east5-a.staging.vespa.oath.cloud
+*.gcp.rmf.ixtract.gcp-us-east5-a.test.vespa.oath.cloud
+*.gcp.rmf.ixtract.gcp-us-east5-a.vespa.oath.cloud
+*.gcp.rmf.ixtract.global.vespa.oath.cloud
+*.gcp.rmf.ixtract.us-east-1.test.vespa.oath.cloud
+*.gcp.rmf.ixtract.us-east-3.staging.vespa.oath.cloud
 *.gcp.rmf.ixtractstage.aws-us-west-2a.staging.vespa.oath.cloud
 *.gcp.rmf.ixtractstage.aws-us-west-2a.test.vespa.oath.cloud
 *.gcp.rmf.ixtractstage.gcp-us-east5-a.staging.vespa.oath.cloud
@@ -6369,6 +6379,7 @@
 *.sherpa-aerospike-tls.sherpa-aws-nonprod.aws.oath.cloud
 *.sherpa-aerospike-tls.sherpa-aws-prod.aws.oath.cloud
 *.sherpa-aws-nonprod.aws.oath.cloud
+*.sherpa-aws-perf.aws.oath.cloud
 *.sherpa-aws-prod.aws.oath.cloud
 *.shopping-rover.shopping-nonprod-aws.aws-us-east-1a.vespa.oath.cloud
 *.shopping-rover.shopping-nonprod-aws.aws-us-west-2a.staging.vespa.oath.cloud
@@ -8655,9 +8666,11 @@ aol-wiki.archived-corpsites.us-east-3.staging.vespa.oath.cloud
 aol-wiki.archived-corpsites.us-east-3.vespa.oath.cloud
 aol-wiki.archived-corpsites.us-west-1.vespa.oath.cloud
 aol-wiki.bjormel-vespa.us-east-1.dev.vespa.oath.cloud
+aol.ranking-index.mlplatform.aws-eu-west-1a.vespa.oath.cloud
 aol.ranking-index.mlplatform.aws-us-east-1a.vespa.oath.cloud
 aol.ranking-index.mlplatform.aws-us-west-2a.staging.vespa.oath.cloud
 aol.ranking-index.mlplatform.aws-us-west-2a.test.vespa.oath.cloud
+aol.ranking-index.mlplatform.aws-us-west-2a.vespa.oath.cloud
 aol.ranking-index.mlplatform.gcp-us-east5-a.staging.vespa.oath.cloud
 aol.ranking-index.mlplatform.gcp-us-east5-a.test.vespa.oath.cloud
 aol.ranking-index.mlplatform.global.vespa.oath.cloud
@@ -13690,6 +13703,14 @@ gcp.canary-pipeline.vespa.gcp-us-west1-b.vespa.oath.cloud
 gcp.canary-pipeline.vespa.global.vespa.oath.cloud
 gcp.canary-pipeline.vespa.us-east-1.test.vespa.oath.cloud
 gcp.canary-pipeline.vespa.us-east-3.staging.vespa.oath.cloud
+gcp.rmf.ixtract.aws-us-west-2a.staging.vespa.oath.cloud
+gcp.rmf.ixtract.aws-us-west-2a.test.vespa.oath.cloud
+gcp.rmf.ixtract.gcp-us-east5-a.staging.vespa.oath.cloud
+gcp.rmf.ixtract.gcp-us-east5-a.test.vespa.oath.cloud
+gcp.rmf.ixtract.gcp-us-east5-a.vespa.oath.cloud
+gcp.rmf.ixtract.global.vespa.oath.cloud
+gcp.rmf.ixtract.us-east-1.test.vespa.oath.cloud
+gcp.rmf.ixtract.us-east-3.staging.vespa.oath.cloud
 gcp.rmf.ixtractstage.aws-us-west-2a.staging.vespa.oath.cloud
 gcp.rmf.ixtractstage.aws-us-west-2a.test.vespa.oath.cloud
 gcp.rmf.ixtractstage.gcp-us-east5-a.staging.vespa.oath.cloud
@@ -17778,6 +17799,7 @@ shemmati.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 sherpa-aerospike-tls.sherpa-aws-nonprod.aws.oath.cloud
 sherpa-aerospike-tls.sherpa-aws-prod.aws.oath.cloud
 sherpa-aws-nonprod.aws.oath.cloud
+sherpa-aws-perf.aws.oath.cloud
 sherpa-aws-prod.aws.oath.cloud
 shield-01.kafka-server.storage-ops-automation.bf2.ows.oath.cloud
 shield-02.kafka-server.storage-ops-automation.bf2.ows.oath.cloud
@@ -20601,6 +20623,7 @@ video-platform-e2e-dev.aws.oath.cloud
 video-platform-splunk.aws.oath.cloud
 video-platform-yxsdev.aws.oath.cloud
 video-prod.aws.oath.cloud
+video-pub.sports-gains-dev.aws.oath.cloud
 video-stage.aws.oath.cloud
 video-upnext.vid-search.us-east-1.dev.vespa.oath.cloud
 video.gwang02.global.vespa.oath.cloud
@@ -21235,6 +21258,7 @@ vqphxoewa7opmzowj6ltbtzkyzjfqgr3u.vespa.oath.cloud
 vqpk6brjc2naghmhtdjoljhip2hx3bji4.vespa.oath.cloud
 vqq3lu6q2bfvsjheswzlh6ngcolo24w6i.public.vespa.oath.cloud
 vqquytzqdbhrm2k7ca7kakyehrp76etos.public.vespa.oath.cloud
+vqr3cyjqfggxcnbm6pzljwo7klp4o3xqc.vespa.oath.cloud
 vqrmask7cp5dbvbpgtnadtzvoqgfjeszs.vespa.oath.cloud
 vqrswaix5pwxr66kzcgwcziz6kprijxdb.vespa.oath.cloud
 vqrvw5hilnan2adt3gxmwp7va2y6cyghx.vespa.oath.cloud
@@ -22326,3 +22350,7 @@ zxliao.lumos.tw-media-wizardry.aws-use1-az1.dev.vespa.oath.cloud
 zxliao.lumos.tw-media-wizardry.us-east-1.dev.vespa.oath.cloud
 zxliao.music.sandbox.aws-us-east-2a.dev.vespa.oath.cloud
 zxliao.music.sandbox.us-east-1.dev.vespa.oath.cloud
+zxliao.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
+zxliaoin.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
+zxliaoorg.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
+zxliaoout.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud

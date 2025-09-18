@@ -370,6 +370,7 @@
 *.csr-lab.qa.finra.org
 *.csr.ct.pa.finra.org
 *.csr.devint.pa.finra.org
+*.ct.acquia.syndication.finra.org
 *.da.metastor.finra.org
 *.da.metastor.dev.finra.org
 *.dapi.finra.org
@@ -1952,6 +1953,7 @@ api-ews.bcdas.finra.org
 api-ews.bcdas.dev.finra.org
 api-ews.bcdas.qa.finra.org
 api-ews.racs.dev.finra.org
+api-ews.racs.qa.finra.org
 api-ext.dots.dev.finra.org
 api-external-int.slate.dev.finra.org
 api-external-int.slate.qa.finra.org
@@ -2730,6 +2732,7 @@ csr.qa.finra.org
 csr.qa.dr.finra.org
 ct.finra.org
 ct.acquia.finra.org
+ct.acquia.syndication.finra.org
 ct.developer.finra.org
 ctl-common.gateway.finra.org
 ctl-common.gateway-qaint.qa.finra.org

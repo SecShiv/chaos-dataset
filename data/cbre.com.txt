@@ -282,6 +282,13 @@ artifactory.gcsonp.cbre.com
 artifactory.pnonprod.gcso.cbre.com
 as.myim.cbre.com
 asianavigator.cbre.com
+askcbre-dev.cbre.com
+askcbre-dev-assistant.cbre.com
+askcbre-dev-negativenews.cbre.com
+askcbre-dev1.cbre.com
+askcbre-uat.cbre.com
+askcbre-uat-assistant.cbre.com
+askcbre-uat-negativenews.cbre.com
 asptest.cloudeng.cbre.com
 assetintel.cbre.com
 assetintel-dev.cbre.com
@@ -902,6 +909,7 @@ dev.gamecast.bluesky.cbre.com
 dev.gopulse.cbre.com
 dev.horizons.cbre.com
 dev.import.capitalflows.cbre.com
+dev.interactive.siteiq.cbre.com
 dev.intrepid.cbre.com
 dev.lae.dealiq.cbre.com
 dev.locator.cbre.com
@@ -939,6 +947,10 @@ dev.vantageanalytics.cbre.com
 dev1.apacfinishline.cbre.com
 dev1.bluesky.cbre.com
 dev1.finishline.cbre.com
+dev2.api.marketiq.cbre.com
+dev2.edpstats.marketiq.cbre.com
+dev2.marketiq.cbre.com
+dev2.reports.marketiq.cbre.com
 dev3.cbre.com
 dev3final.cbre.com
 dev3test.cbre.com
@@ -1058,6 +1070,7 @@ dr.api.china.apacfinishline.cbre.com
 dr.api.dealiq.cbre.com
 dr.api.finishline.cbre.com
 dr.api.performanceiq.cbre.com
+dr.api.survey.miq.cbre.com
 dr.apikey.cbre.com
 dr.apimanager.cbre.com
 dr.developer.cbre.com
@@ -2215,6 +2228,7 @@ myhcmmauat.cbre.com
 myhcmmauatext.cbre.com
 myhcmpjcfg.cbre.com
 myhcmpjtst.cbre.com
+myhcmpjuat.cbre.com
 myhcmspgwy.cbre.com
 myhcmuat.cbre.com
 myhremployeefeedback-qa.cbre.com
@@ -2725,6 +2739,7 @@ qa.brokerhub.cbre.com
 qa.cbreone.cbre.com
 qa.das.cbre.com
 qa.dealiq.cbre.com
+qa.dealstream.cbre.com
 qa.deliverable.brokerhub.cbre.com
 qa.developer.ifmhub.cbre.com
 qa.edpstats.marketiq.cbre.com
@@ -2734,6 +2749,7 @@ qa.flatfileui.brokerhub.cbre.com
 qa.flow.cbre.com
 qa.gateway.dealiq.cbre.com
 qa.gps-selfservice.cbre.com
+qa.interactive.siteiq.cbre.com
 qa.labportal.cbre.com
 qa.lae.dealiq.cbre.com
 qa.management.ifmhub.cbre.com
@@ -3091,6 +3107,7 @@ staging.geoserver.cbre.com
 staging.horizons.cbre.com
 staging.hub.cbre.com
 staging.ideas.cbre.com
+staging.interactive.siteiq.cbre.com
 staging.lae.dealiq.cbre.com
 staging.locator.cbre.com
 staging.marketiq.cbre.com
@@ -3113,7 +3130,11 @@ staging.vantageanalytics.cbre.com
 staging1.apacfinishline.cbre.com
 staging1.finishline.cbre.com
 staging2.apacfinishline.cbre.com
+staging2.api.marketiq.cbre.com
+staging2.edpstats.marketiq.cbre.com
 staging2.finishline.cbre.com
+staging2.marketiq.cbre.com
+staging2.reports.marketiq.cbre.com
 stagingapi.flow.cbre.com
 stagingbuild3d.cbre.com
 stagingplans.cbre.com
@@ -3362,6 +3383,7 @@ uat-emerald.cbre.com
 uat-emsoffice.cbre.com
 uat-enterprise-gw.serviceinsight.cbre.com
 uat-enterprise.serviceinsight.cbre.com
+uat-eos.cbre.com
 uat-files.cbre.com
 uat-gateway-si.cbre.com
 uat-gateway.serviceinsight.cbre.com
@@ -3704,6 +3726,7 @@ wireless.cbre.com
 workflow.cbre.com
 workorder.cbre.com
 workplace.cbre.com
+ws-apigtw.tops2-dev.cbre.com
 wso2-trafficmgr.cbre.com
 wso2-trafficmgr-dev.cbre.com
 wso2-trafficmgr-nonprod.cbre.com

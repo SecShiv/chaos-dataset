@@ -1740,6 +1740,7 @@ kafka-mtls-test-app.aws-classic.stage-us1.stage.kafka-v1.twilio.com
 kafka-mtls-test-app.aws-classic.us1.prod.kafka-v1.twilio.com
 kafka-producer-api.dev-us1.twilio.com
 kafka-producer-api.stage-au1.twilio.com
+kafka-producer-api.us1.twilio.com
 kafka-self-service-internal.dev-us1.twilio.com
 kafka-self-service-internal.stage-us1.twilio.com
 kafka-self-service-internal.us1.twilio.com
@@ -1852,6 +1853,7 @@ mdp-zeppelin-ui.us1.twilio.com
 media.dev-us1.twilio.com
 media.dev-us2.twilio.com
 media.ie1.twilio.com
+media.stage-au1.twilio.com
 media.stage-us1.twilio.com
 media.us1.twilio.com
 messaging.twilio.com
@@ -2005,6 +2007,7 @@ oasis.prod.twilio.com
 oasis.stage.twilio.com
 octo.internal-pages.twilio.com
 odin-athena.dev-us1.twilio.com
+odin-athena.prod.twilio.com
 odin-athena.stage.twilio.com
 odin-athena.stage-us1.twilio.com
 odin-athena.us1.twilio.com
@@ -3081,3 +3084,4 @@ zpa-pse.dev.twilio.com
 zscaler.corp.twilio.com
 zygops.corp.twilio.com
 zygops.dev.twilio.com
+zygops.stage.twilio.com

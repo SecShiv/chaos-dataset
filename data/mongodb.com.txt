@@ -458,6 +458,7 @@ atlas-cluster-ws.us-east-2.aws.cloud-stage.mongodb.com
 atlas-data-lake.prod.corp.mongodb.com
 atlas-data-lake.staging.corp.mongodb.com
 atlas-gateway.cloud.mongodb.com
+atlas-pricing-tool-public.corps.staging.corp.mongodb.com
 atlas-pricing.corp.mongodb.com
 atlas-pricing.corps.staging.corp.mongodb.com
 augmeta-monitor.data-governance.staging.corp.mongodb.com
@@ -654,6 +655,7 @@ customer-hub-task-14155-cleanup-mdbhubauth.ts-tools.staging.corp.mongodb.com
 customer-portal-backend.ts-tools.staging.corp.mongodb.com
 customer-portal-cms.ts-tools.staging.corp.mongodb.com
 customer-portal-frontend.ts-tools.staging.corp.mongodb.com
+customer-portal-uat-task-15088.ts-tools.staging.corp.mongodb.com
 customer-portal.ts-tools.staging.corp.mongodb.com
 dag-jaeger-collector.gateway.staging.corp.mongodb.com
 dagster.devprod-platform.staging.corp.mongodb.com
@@ -1173,6 +1175,7 @@ mana-rule-generator.corps.staging.corp.mongodb.com
 mana.corp.mongodb.com
 map-toolkit.corp.mongodb.com
 marian.mongodb.com
+marketplace-hub.app-mod-rnd.staging.corp.mongodb.com
 mars-dev-feature-5916-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-6852-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7121-dev.dataplatform-dev.staging.corp.mongodb.com
@@ -1456,6 +1459,7 @@ s2s-httpbin.test.corp.mongodb.com
 s2s-permissive-httpbin.devops.test.corp.mongodb.com
 s2s-public-httpbin.devops.test.corp.mongodb.com
 sa-sizing-v0.salesops.staging.corp.mongodb.com
+sa-stem.salesops.prod.corp.mongodb.com
 sa.prod.corp.mongodb.com
 sa.staging.corp.mongodb.com
 saas-buster-application-dashboard.infosec.staging.corp.mongodb.com
