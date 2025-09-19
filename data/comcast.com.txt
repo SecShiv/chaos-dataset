@@ -2100,6 +2100,7 @@
 *.prod.us-east-2.titanxdr.comcast.com
 *.prod.us-west-2.janus.comcast.com
 *.prodqa.api-business.comcast.com
+*.prometheus.dev-wifi-motion.comcast.com
 *.promo.pulse.comcast.com
 *.pulse.comcast.com
 *.qa-securitycentral.comcast.com
@@ -13367,6 +13368,7 @@ chqmacsvr-cc-02.cable.comcast.com
 chqmacsvr-cc-03.cable.comcast.com
 chqmacsvr-cc-04.cable.comcast.com
 chqs-ptxwgrbnnd.cable.comcast.com
+chqv-dir-wc-01p.cable.comcast.com
 chrisgray1000.comcast.com
 christest-cwb.g.comcast.com
 chronos.gslb2.comcast.com
@@ -18802,6 +18804,7 @@ daily-dash.cable.comcast.com
 dalinar.gslb2.comcast.com
 dam.cable.comcast.com
 damawsservicesqa.cable.comcast.com
+damweb-as-1p.cable.comcast.com
 damweb-as-1q.cable.comcast.com
 darkstar.comcast.com
 darktrace-poc.csv.comcast.com
@@ -19666,6 +19669,7 @@ dev-hotfix-kpiapi.cable.comcast.com
 dev-hotfix-myscorecard.cable.comcast.com
 dev-hotfix-practicals.cable.comcast.com
 dev-inv-assets.vb.comcast.com
+dev-ion-appmetrics.cable.comcast.com
 dev-ipcheck.sec.comcast.com
 dev-jns2.gumby.comcast.com
 dev-kms-as-001.stir.comcast.com
@@ -22163,6 +22167,7 @@ efvidm-as-2p.cable.comcast.com
 efvidm-as-3p.cable.comcast.com
 efvidmlb-as-1p.slb.comcast.com
 efvinf-as-blt01.cable.comcast.com
+efvinfsql-ho-1s.cable.comcast.com
 efvjump-as-1p.cable.comcast.com
 efvjump-as-3p.cable.comcast.com
 efvk8stsm1.cable.comcast.com
@@ -22660,6 +22665,7 @@ eqagears-ho-01p.cable.comcast.com
 eqajmp-as-1s.cable.comcast.com
 eqajmp-ho-01p.cable.comcast.com
 eqajump-as-01q.cable.comcast.com
+eqtobatc-as-01p.cable.comcast.com
 equalizer.comcast.com
 eraimport-wc-2p.cable.comcast.com
 erate.comcast.com
@@ -23491,6 +23497,16 @@ faanapp-as-aip.cable.comcast.com
 faanio-as-aip.cable.comcast.com
 faansql-as-aip.cable.comcast.com
 fabchat-as-a3p.cable.comcast.com
+fabric.comcast.com
+fabric-ai-as-lb.comcast.com
+fabric-ai-ch2-lb.comcast.com
+fabric-ai.gslb4.comcast.com
+fabric-as-lb.comcast.com
+fabric-ch2-lb.comcast.com
+fabric-core-as-lb.comcast.com
+fabric-core-ch2-lb.comcast.com
+fabric-core.gslb4.comcast.com
+fabric-ui.gslb4.comcast.com
 fabtest-vinyl-as-1p.slb.comcast.com
 fabtest01-as-2p.slb.comcast.com
 facilitiesmfu2200.cable.comcast.com
@@ -35362,6 +35378,7 @@ kubepocr.dxapps.comcast.com
 kubepocr.dxplatform.comcast.com
 kubernetes.merlin.comcast.com
 kubespray-as-1d.slb.comcast.com
+kuma-bo.r53dev.merlin.comcast.com
 kyebtavigilon.cable.comcast.com
 kyfcbavigilon.cable.comcast.com
 kypdhavigilon-idrac.cable.comcast.com
@@ -40190,7 +40207,10 @@ ncada-uat-rdei-ho-a1i.slb.comcast.com
 ncada-ula-rdei-as-a1s.slb.comcast.com
 ncada-ula-rdei-ch2-a1s.slb.comcast.com
 ncada-ula-s.gslb2.comcast.com
+ncadadb-mes.gslb4.comcast.com
+ncadadb-prod.gslb4.comcast.com
 ncadames-mysql-p.gslb4.comcast.com
+ncadasqldb-prod.gslb4.comcast.com
 ncar.cable.comcast.com
 nccltaddccb01-con.cable.comcast.com
 nccltaddccb01.cable.comcast.com
@@ -52148,6 +52168,7 @@ prometheus-nl-01-stg.snp-collectors.comcast.com
 prometheus-rdei-dev.snp-collectors.comcast.com
 prometheus-rdei-prod.snp-collectors.comcast.com
 prometheus-rdei-stg.snp-collectors.comcast.com
+prometheus.dev-wifi-motion.comcast.com
 prometheus.ots.comcast.com
 promoapp-as-1s-con.cable.comcast.com
 promoapp-as-1s.cable.comcast.com
@@ -56829,6 +56850,8 @@ spdbrest-wc-1p.slb.comcast.com
 spe-as-p01.cable.comcast.com
 spe-po-s01.cable.comcast.com
 special-ops.cable.comcast.com
+spectatortest.comcast.com
+spectatortest12.comcast.com
 spectredev.cable.comcast.com
 speedtest-kibana.snp.comcast.com
 speedtestting.comcast.com
@@ -59913,6 +59936,7 @@ teststagewest.comcast.com
 testsurvey.cable.comcast.com
 testsynamedia.comcast.com
 testtechopsrewire.cable.comcast.com
+testtemp.comcast.com
 testtemp1.comcast.com
 testtemp30.comcast.com
 testtier2suite.cable.comcast.com
@@ -70359,6 +70383,3 @@ zstsvc-wc-1p.slb.comcast.com
 zstsvc-wc-1q.slb.comcast.com
 zstsvc-wc-1s.slb.comcast.com
 zwestapi.cable.comcast.com
-zz-aaron.comcast.com
-zz-jim.slb.comcast.com
-zzz3.sb3http.gumby.comcast.com

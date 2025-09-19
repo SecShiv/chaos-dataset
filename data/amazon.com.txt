@@ -536,6 +536,7 @@
 *.transient-eu.amazon.com
 *.transient-fe.amazon.com
 *.us-east-1-failover.ahup.console-alpha.aws-dev.amazon.com
+*.us-east-1-failover.amanxaws.console-alpha.aws-dev.amazon.com
 *.us-east-1-failover.arnsolis.console-alpha.aws-dev.amazon.com
 *.us-east-1-failover.console-gamma.aws-dev.amazon.com
 *.us-east-1-failover.console.aws-dev.amazon.com
@@ -16906,6 +16907,8 @@ am-cms-console.integ.amazon.com
 amapedia.amazon.com
 amarillo.amazon.com
 amazo-loadb-10wvy7j77n07w-1803419470.us-east-1.elb.amazon.com
+amazon-1p-br-celcoin-signature-prod.amazon.com
+amazon-1p-lending-credito-mx-axio-beta-encryption-key.amazon.com
 amazon-author-fleet-iad.iad.proxy.amazon.com
 amazon-author-master-fleet.amazon.com
 amazon-creturns-cn-ext-preprod.amazon.com
@@ -23145,12 +23148,14 @@ bushwhack-pdx.pdx.proxy.amazon.com
 bushwhack-pek.pek.proxy.amazon.com
 bushwhack.corp.amazon.com
 business.amazon.com
+business-integrations-eu.amazon.com
 businessportal.aka.corp.amazon.com
 busra-pui.aka.corp.amazon.com
 busra-puis.aka.corp.amazon.com
 busy-machines.signin.aws.amazon.com
 butler-alpha.integ.amazon.com
 butterscotch.eu-north-1.amazon.com
+buy-for-me.integ.amazon.com
 buyability-analyzer-alpha.integ.amazon.com
 buyability-analyzer-beta.integ.amazon.com
 buyability-analyzer-prod.corp.amazon.com
@@ -23163,6 +23168,8 @@ buybackservice-default-in.aka.amazon.com
 buybackservice-default-in.dub.amazon.com
 buybox.amazon.com
 buyer-exp.aka.amazon.com
+buyforme.checkout.integ.amazon.com
+buyforme.integ.amazon.com
 buyingportal-ae.aka.amazon.com
 buyingportal-ae.integ.amazon.com
 buyingportal-au.amazon.com
@@ -27011,6 +27018,7 @@ dev-dsk-zubaidu-2c-bae0bced.us-west-2.amazon.com
 dev-dsk-zyyannes.aka.corp.amazon.com
 dev-et.aka.corp.amazon.com
 dev-learnsecurity.amazon.com
+dev-privacy.amazon.com
 dev-support-deployment.aka.pdx.amazon.com
 dev.analytics.amazon.com
 dev.api.podcasters.amazon.com
@@ -31550,6 +31558,7 @@ eu-west-abmcs-api.dev-business.amazon.com
 eu-west-abmcs-api.stage-business.amazon.com
 eu-wideget-projectkuiper.amazon.com
 eu-widget-projectkuiper.amazon.com
+eu-widgets-projectkuiper.amazon.com
 eu.ab.api.amazon.com
 eu.account.amazon.com
 eu.aftx.amazon.com
@@ -42097,6 +42106,7 @@ match-visualsearch-ca.amazon.com
 match-visualsearch-de.amazon.com
 match-visualsearch-es.amazon.com
 match-visualsearch-fr.amazon.com
+match-visualsearch-frontend-ae.amazon.com
 match-visualsearch-frontend-au.amazon.com
 match-visualsearch-frontend-ca.amazon.com
 match-visualsearch-frontend-de.amazon.com
@@ -42108,6 +42118,8 @@ match-visualsearch-frontend-nl.amazon.com
 match-visualsearch-frontend-sa.amazon.com
 match-visualsearch-frontend-se.amazon.com
 match-visualsearch-frontend-sg.amazon.com
+match-visualsearch-frontend-tr.amazon.com
+match-visualsearch-frontend-uk.amazon.com
 match-visualsearch-in.amazon.com
 match-visualsearch-it.amazon.com
 match-visualsearch-jp.amazon.com
@@ -43489,6 +43501,8 @@ mpf-csvtester.integ.amazon.com
 mpf-csvtester2-eu.aka.amazon.com
 mpf-csvtester2-fe.aka.amazon.com
 mpf-csvtester2.aka.amazon.com
+mpgs-test.amazon.com
+mpgs-testing.amazon.com
 mpss-fcd-default-jp-p-pdx.pdx.proxy.amazon.com
 mrahbarq-clouddesk.aka.corp.amazon.com
 mrg-config-manager.corp.amazon.com
@@ -55911,6 +55925,7 @@ substrate-pdx80-zgxia.corp.amazon.com
 substrate-pdx80-zhengyli.corp.amazon.com
 substrate-pdx80.corp.amazon.com
 success-profiles.corp.amazon.com
+sudhisen.beta.mcp.music.amazon.com
 suds-beta-jlb.corp.amazon.com
 sugarinc.signin.aws.amazon.com
 sumitomo-batch-tls-na-beta.amazon.com
@@ -58508,6 +58523,8 @@ ups-lfx-eu-pdx-d-tcp.integ.amazon.com
 ups-lfx-jp-pdx-d-tcp.integ.amazon.com
 ups-lfx-na-pdx-d-tcp.integ.amazon.com
 ups-lfx-na-pdx-d.integ.amazon.com
+upx-security-eu-eu-west-1.amazon.com
+upx-security-eu.eu-west-1.amazon.com
 urismo-shared-gamma-jlb-iad.iad.proxy.amazon.com
 urlaub-air.corp.amazon.com
 urlaub-amxl.corp.amazon.com
@@ -60639,6 +60656,7 @@ xdf-controlplane-v2-prod-jlb-iad.iad.proxy.amazon.com
 xelwerae-mico.aka.amazon.com
 xesyprod-client.amazon.com
 xew1-portal.amazon.com
+xiadani.bpp.compass.amazon.com
 xiaohqiu-simba.aka.amazon.com
 xiaomia-dev.podcasters.amazon.com
 xiaomj-devdsk-jenkins.corp.amazon.com

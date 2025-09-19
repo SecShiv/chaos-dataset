@@ -11109,6 +11109,7 @@ api.icloud.apple.com
 api.itunes.apple.com
 api.media.apple.com
 api.music.apple.com
+api.musicconnect.apple.com
 api.podcasts.apple.com
 api.podcastsconnect.apple.com
 api.prod.msd.developer.g.apple.com
@@ -13285,6 +13286,8 @@ carry-hawk-ausw2b.smoot.apple.com
 carry-hawk.smoot.apple.com
 carry-hk02.siri.apple.com
 carry-hk12.siri.apple.com
+carry-kestrel-aeuw1a.smoot.apple.com
+carry-kestrel.smoot.apple.com
 carry-ms17.siri.apple.com
 carry-ms20.siri.apple.com
 carry-ms42.siri.apple.com
@@ -16884,6 +16887,7 @@ fba.apple.com
 fbs-apse1.smoot.apple.com
 fbs-ci.smoot.apple.com
 fbs-euw1.smoot.apple.com
+fbs-stg-usw2.smoot.apple.com
 fbs-stg.smoot.apple.com
 fbs-usw2.smoot.apple.com
 fbs.smoot.apple.com
@@ -17784,6 +17788,23 @@ gr-api-apps-h.smoot.apple.com
 gr-api-apps.smoot.apple.com
 gr-api-ci-ausw2a.smoot.apple.com
 gr-api-ci.smoot.apple.com
+gr-api-das-aape1a.smoot.apple.com
+gr-api-das-aape1b.smoot.apple.com
+gr-api-das-aapne1a.smoot.apple.com
+gr-api-das-aapne2a.smoot.apple.com
+gr-api-das-aaps1b.smoot.apple.com
+gr-api-das-aapse1a.smoot.apple.com
+gr-api-das-aapse2b.smoot.apple.com
+gr-api-das-aeun1a.smoot.apple.com
+gr-api-das-aeus1b.smoot.apple.com
+gr-api-das-aeus1c.smoot.apple.com
+gr-api-das-aeuw1a.smoot.apple.com
+gr-api-das-aeuw1b.smoot.apple.com
+gr-api-das-asae1a.smoot.apple.com
+gr-api-das-ause1c.smoot.apple.com
+gr-api-das-ause2b.smoot.apple.com
+gr-api-das-ausw2b.smoot.apple.com
+gr-api-das.smoot.apple.com
 gr-api-de-asae1b.smoot.apple.com
 gr-api-de.smoot.apple.com
 gr-api-evs-aape1a.smoot.apple.com
@@ -23208,6 +23229,7 @@ jhr1.ebc.apple.com
 jhr2.ebc.apple.com
 jhratv.ebc.apple.com
 jhrsavant.ebc.apple.com
+jigsaw.corp.apple.com
 jimbu.apple.com
 jimdixon66.gamertest.hop.clickba.apple.com
 jingle.dashboard.iso.apple.com
@@ -23574,6 +23596,7 @@ kencur.apple.com
 kent-ext.apple.com
 kent-ext-stage.apple.com
 kershaw.apple.com
+kestrel-aapse1a.smoot.apple.com
 kestrel-ausw2b.smoot.apple.com
 kestrel.smoot.apple.com
 keychest-service-locker-synchronizer-mr.itunes.apple.com
@@ -33515,6 +33538,7 @@ rowan.apple.com
 rpass.apple.com
 rpc-mdn.apple.com
 rpc-prz.apple.com
+rpehub-stage.awusw2.sbz.apple.com
 rpg.apple.com
 rpg-mdn.apple.com
 rpg-nwk.apple.com
@@ -35335,6 +35359,7 @@ sirt.splunk.apple.com
 sis-apse1.smoot.apple.com
 sis-ci.smoot.apple.com
 sis-euw1.smoot.apple.com
+sis-stg-usw2.smoot.apple.com
 sis-stg.smoot.apple.com
 sis-usw2.smoot.apple.com
 sitemanager.itunes.apple.com
@@ -36954,6 +36979,11 @@ svpn-u.euro.apple.com
 svpn.euro.apple.com
 svs-facade-mdn.corp.apple.com
 svs-facade-pilot.corp.apple.com
+svs-facade-preprod-sh-mdn.apple.com
+svs-facade-preprod-sh-mdn.spbz.apple.com
+svs-facade-preprod-sh-prn.apple.com
+svs-facade-preprod-sh-prn.spbz.apple.com
+svs-facade-preprod.corp.apple.com
 svs-facade-sh-pilot-mdn.corp.apple.com
 svs-facade-sh-pilot-mdn.mdn.spbz.apple.com
 svs-facade-sh-pilot.prz.apple.com

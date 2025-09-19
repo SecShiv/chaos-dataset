@@ -567,6 +567,7 @@
 *.radio-spectrum-policy-group.ec.europa.eu
 *.rail-research.europa.eu
 *.rea.ec.europa.eu
+*.recreational-fishing.ec.europa.eu
 *.reform-support.ec.europa.eu
 *.regions-and-cities.europa.eu
 *.reintegration-assistance-tool.ec.europa.eu
@@ -1154,6 +1155,7 @@ acc-efgs-ws.tech.ec.europa.eu
 acc-ip.alumni.europa.eu
 acc.bdti.dataplatform.tech.ec.europa.eu
 acc.dataplatform.tech.ec.europa.eu
+acc.dhs.tech.ec.europa.eu
 acc.drug-precursors.ec.europa.eu
 acc.ecdp.tech.ec.europa.eu
 acc.edelivery.tech.ec.europa.eu
@@ -1974,6 +1976,7 @@ bethania.emcdda.europa.eu
 better-training-for-safer-food.ec.europa.eu
 betz.sysdig.tech.ec.europa.eu
 bg-fiu-training.europol.europa.eu
+bg.audio.europarl.europa.eu
 bg.fiu-training.europol.europa.eu
 bgc.frontex.europa.eu
 bgmo.jrc.ec.europa.eu
@@ -3032,6 +3035,7 @@ cs-t-aads.ucc.cis.consilium.europa.eu
 cs-t-amm01.ucc.cis.consilium.europa.eu
 cs-t-sm01sip.ucc.cis.consilium.europa.eu
 cs-t-sm02sip.ucc.cis.consilium.europa.eu
+cs.audio.europarl.europa.eu
 cs.audit-azr-de.audit.oots.tech.ec.europa.eu
 cs.audit.oots.tech.ec.europa.eu
 cs.lab-azr-de.lab.oots.tech.ec.europa.eu
@@ -3102,6 +3106,7 @@ d-integrate.ecb.europa.eu
 d10-oira.osha.europa.eu
 d60fa82a129a41a993ced784dcb217b0-intranet.cedefop.europa.eu
 da.acer.europa.eu
+da.audio.europarl.europa.eu
 da.auto.eba.europa.eu
 da.dev.eba.europa.eu
 da.eba.europa.eu
@@ -3117,6 +3122,7 @@ daher1.enisa.europa.eu
 daher2.enisa.europa.eu
 dal.osha.europa.eu
 dampos.eionet.europa.eu
+danaos-accp.efca.europa.eu
 danswer.devel4cph.eea.europa.eu
 dap-api-dev.developer.ema.europa.eu
 dap-api-dev.ema.europa.eu
@@ -3408,7 +3414,9 @@ devfoss.frontex.europa.eu
 devops.acceptance.tech.ec.europa.eu
 devops.acer.europa.eu
 devops.data-oriented-services.acceptance.ec.europa.eu
+devops.data-oriented-services.development.ec.europa.eu
 devops.data-oriented-services.ec.europa.eu
+devops.data-oriented-services.test.ec.europa.eu
 devops.drug-precursors.ec.europa.eu
 devops.qfng.ocean-store.tech.ec.europa.eu
 devops.tech.ec.europa.eu
@@ -4101,6 +4109,7 @@ eit.europa.eu
 ejcnrestricted.eurojust.europa.eu
 ejn-crimjust.europa.eu
 ejn-crimjust.eurojust.europa.eu
+el.audio.europarl.europa.eu
 ela.europa.eu
 elastic.devel4cph.eea.europa.eu
 elastic.opencsam.enisa.europa.eu
@@ -4491,6 +4500,7 @@ esvac.ema.europa.eu
 esvacbi-dev.ema.europa.eu
 esvacbi-test.ema.europa.eu
 esvacbi.ema.europa.eu
+et.audio.europarl.europa.eu
 etc-acc.eionet.europa.eu
 etc-lusi.eionet.europa.eu
 etc-scp.eionet.europa.eu
@@ -5156,6 +5166,7 @@ fepool.frontex.europa.eu
 fgas-licensing.ec.europa.eu
 fi-fiu-demo.europol.europa.eu
 fi-fiu-training.europol.europa.eu
+fi.audio.europarl.europa.eu
 fi.fiu-demo.europol.europa.eu
 fi.fiu-training.europol.europa.eu
 fi.osha.europa.eu
@@ -5188,6 +5199,7 @@ fiu-demo.europol.europa.eu
 fiu-pilot.europol.europa.eu
 fiu-pnr.europol.europa.eu
 fiu-training.europol.europa.eu
+fjd-accp.efca.europa.eu
 flavis.efsa.europa.eu
 flea.eea.europa.eu
 fleet-climate-advisory-board.01dev.eea.europa.eu
@@ -5323,6 +5335,7 @@ fxrates.preprod.eba.europa.eu
 fxrates.test.eba.europa.eu
 fxtest.frontex.europa.eu
 g4cap.jrc.ec.europa.eu
+ga.audio.europarl.europa.eu
 gallery.esma.europa.eu
 galliwasp.eea.europa.eu
 gamelist.european-quarter-explorer.europarl.europa.eu
@@ -5850,11 +5863,13 @@ hotspot.eeas.europa.eu
 hotspot1.eeas.europa.eu
 hotspot2.eeas.europa.eu
 hotspots.ec.europa.eu
+hr.audio.europarl.europa.eu
 hrds-feat.feature.azure.landing-zone.webcloud.ec.europa.eu
 hrintranet.era.europa.eu
 hrintranet.test-era.europa.eu
 hsm.f4e.europa.eu
 httpbin.dke.tech.ec.europa.eu
+hu.audio.europarl.europa.eu
 hu.osha.europa.eu
 hub-data-upload.acceptance.data.health.europa.eu
 hub-data-upload.dev.data.health.europa.eu
@@ -6516,7 +6531,9 @@ lfe-tf.europol.europa.eu
 lfe.europol.europa.eu
 library.ecdc.europa.eu
 libserver.cedefop.europa.eu
+licence.acc.ocean-store.tech.ec.europa.eu
 licence.devops.ocean-store.tech.ec.europa.eu
+licence.tst.ocean-store.tech.ec.europa.eu
 liferaydefault-7.ema.europa.eu
 liferaydefault-dev7.ema.europa.eu
 liferaydefault-test7.ema.europa.eu
@@ -6645,6 +6662,7 @@ lsweb3.euspa.europa.eu
 lsweb3.gsa.europa.eu
 lsweb4.euspa.europa.eu
 lsweb4.gsa.europa.eu
+lt.audio.europarl.europa.eu
 lu-fiu-demo.europol.europa.eu
 lu.fiu-demo.europol.europa.eu
 lux-award.europarl.europa.eu
@@ -6654,6 +6672,7 @@ luxaward-dev.europarl.europa.eu
 luxaward-pp.europarl.europa.eu
 luxaward.europarl.europa.eu
 luxembourg.booking.europarl.europa.eu
+lv.audio.europarl.europa.eu
 lv.osha.europa.eu
 lync.acer.europa.eu
 lync.eba.europa.eu
@@ -7216,6 +7235,7 @@ msteams.vcs.consilium.europa.eu
 mstunnel.f4e.europa.eu
 msync.curia.europa.eu
 msyncpp.curia.europa.eu
+mt.audio.europarl.europa.eu
 mta-1.mailing.euipo.europa.eu
 mta-sts.ecb.europa.eu
 mta-sts.pp.ecb.europa.eu
@@ -7308,6 +7328,7 @@ myjobaccount.eea.europa.eu
 myjobaccount.frontex.europa.eu
 mymail.curia.europa.eu
 myowa.frontex.europa.eu
+mypmo.europa.eu
 myprofile.frontex.europa.eu
 myremote-cl.cl.eeas.europa.eu
 myremote-sso.ec.europa.eu
@@ -7465,6 +7486,7 @@ nirvana2.f4e.europa.eu
 nis-summer-school.enisa.europa.eu
 nl-fiu-demo.europol.europa.eu
 nl-fiu-training.europol.europa.eu
+nl.audio.europarl.europa.eu
 nl.fiu-demo.europol.europa.eu
 nl.fiu-training.europol.europa.eu
 nl.gsa.europa.eu
@@ -8022,6 +8044,7 @@ pki.eba.europa.eu
 pki.ec.europa.eu
 pki.ecb.europa.eu
 pki.euspa.europa.eu
+pl.audio.europarl.europa.eu
 pl.osha.europa.eu
 place-based-innovation.ec.europa.eu
 planner.eionet.europa.eu
@@ -8043,7 +8066,9 @@ pm2.europa.eu
 pmf.ema.europa.eu
 pmm.f4e.europa.eu
 pnm01.ecdc.europa.eu
+pnt.dhs.tech.ec.europa.eu
 poc-extranet-f5-lux.ep.europa.eu
+poc.dhs.tech.ec.europa.eu
 poc.ocean-store.tech.ec.europa.eu
 poc.test.curia.europa.eu
 pocop.mail.ec.europa.eu
@@ -8324,6 +8349,7 @@ psur-repo-test.ema.europa.eu
 psur-repo-xcomp.ema.europa.eu
 psur-repo.ema.europa.eu
 psv.ema.europa.eu
+pt.audio.europarl.europa.eu
 pub-efsa.echa.europa.eu
 pub5600.cedefop.europa.eu
 public-buyers-community.ec.europa.eu
@@ -8900,6 +8926,7 @@ rmis.jrc.ec.europa.eu
 rms.dev.eba.europa.eu
 rms.eba.europa.eu
 rms.test.eba.europa.eu
+ro.audio.europarl.europa.eu
 ro.osha.europa.eu
 road-safety-charter.ec.europa.eu
 road-safety.transport.ec.europa.eu
@@ -8993,6 +9020,8 @@ s-dc-exrz02.mail.ec.europa.eu
 s-dc-exrz03.mail.ec.europa.eu
 s-dc-exrz11.mail.ec.europa.eu
 s-dc-exrz13.mail.ec.europa.eu
+s-efcaaccp-fjd.acme.efca.europa.eu
+s-efcaaccp-fjd.efca.europa.eu
 s-efcacorp-pcn.dev.efca.europa.eu
 s-efcacorp-pex.dev.efca.europa.eu
 s-efcacorp-pgn.dev.efca.europa.eu
@@ -9131,6 +9160,7 @@ search.eea.europa.eu
 search.era.europa.eu
 search.eurofound.europa.eu
 search.test-era.europa.eu
+sec.dhs.tech.ec.europa.eu
 secex-t.esma.europa.eu
 secex.esma.europa.eu
 secmail.ecb.europa.eu
@@ -9419,6 +9449,7 @@ sitcenseminar.consilium.europa.eu
 site.era.europa.eu
 site.test-era.europa.eu
 siteweb.iss.europa.eu
+sk.audio.europarl.europa.eu
 skills4future.etf.europa.eu
 skillsforfuture.etf.europa.eu
 skillspanorama.cedefop.europa.eu
@@ -9494,8 +9525,10 @@ smtp04.ecb.europa.eu
 smtp1.eca.europa.eu
 smtp1.euipo.europa.eu
 smtp1.oami.europa.eu
+smtp10.ecb.europa.eu
 smtp10.ep.europa.eu
 smtp10.europarl.europa.eu
+smtp11.ecb.europa.eu
 smtp110.ep.europa.eu
 smtp115.ep.europa.eu
 smtp130.ep.europa.eu
@@ -9996,6 +10029,7 @@ stcw-pp.emsa.europa.eu
 stecf.jrc.ec.europa.eu
 stg-star.ecb.europa.eu
 stg.consilium.europa.eu
+stg.dhs.tech.ec.europa.eu
 stg.euspa.europa.eu
 stingray.eea.europa.eu
 stires-ais-test2.emsa.europa.eu
@@ -10103,6 +10137,7 @@ sustainabilityportal.easa.europa.eu
 sustainabilitysupport.easa.europa.eu
 sustainable-energy-week.ec.europa.eu
 sustainable-fisheries.ec.europa.eu
+sv.audio.europarl.europa.eu
 svdapp120.euipo.europa.eu
 svdapp120.oami.europa.eu
 svdapp219.euipo.europa.eu
@@ -10536,6 +10571,7 @@ trimis.ec.europa.eu
 trip-dev.ema.europa.eu
 trip-uat.ema.europa.eu
 trip.ema.europa.eu
+trn.dhs.tech.ec.europa.eu
 trnext.frontex.europa.eu
 troika.fra.europa.eu
 tru.frontex.europa.eu
@@ -10593,6 +10629,7 @@ uat-sustainabilityportalapi.easa.europa.eu
 uat-t1.ecdp.dataplatform.tech.ec.europa.eu
 uat.cofe.fpfis.tech.ec.europa.eu
 uat.dataplatform.tech.ec.europa.eu
+uat.dhs.tech.ec.europa.eu
 uat.ecdc.europa.eu
 uat.een.ec.europa.eu
 uat.erid.fpfis.tech.ec.europa.eu
@@ -10628,6 +10665,7 @@ ugw2.tech.ec.europa.eu
 ui.eams.fpfis.tech.ec.europa.eu
 uidv.imv.europarl.europa.eu
 uipo.europa.eu
+uk.audio.europarl.europa.eu
 ukraine.europarl.europa.eu
 ukrainepp.europarl.europa.eu
 ulem-web.echa.europa.eu
@@ -11911,3 +11949,7 @@ zvcse1.ecdc.europa.eu
 zvipdmz.ecdc.europa.eu
 zvipdmz1.ecdc.europa.eu
 zvipdmz2.ecdc.europa.eu
+zvsso7.ecdc.europa.eu
+zvsso8.ecdc.europa.eu
+zwfe1.ecdc.europa.eu
+zwfe2.ecdc.europa.eu

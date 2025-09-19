@@ -94,6 +94,8 @@ aloha-api.qa.cbre.com
 aloha-assets.cbre.com
 aloha-assets.nonprod.cbre.com
 alphaiku.cbre.com
+ambassador-dev.cbre.com
+ambassador-uat.cbre.com
 amex.locator.cbre.com
 amlapi.cbre.com
 analytics.cbre.com
@@ -2784,8 +2786,10 @@ qa2.finishline.cbre.com
 qa2.migrationlistener.miq.cbre.com
 qa2.migrationresponse.miq.cbre.com
 qa2.miq.cbre.com
+qa2.mydeliverables.cbre.com
 qa2.reportmedia.miq.cbre.com
 qa2.search.miq.cbre.com
+qa2.surveycreator.miq.cbre.com
 qa2.vantage-analytics.cbre.com
 qa2.vantageanalytics.cbre.com
 qa3.apacfinishline.cbre.com
@@ -2793,6 +2797,7 @@ qa3.finishline.cbre.com
 qa3.media.miq.cbre.com
 qa3.miq.cbre.com
 qa3.mydeliverables.cbre.com
+qa3.surveycreator.miq.cbre.com
 qa4.api.miq.cbre.com
 qa4.api.templater.cbre.com
 qa4.miq.cbre.com
@@ -3506,9 +3511,12 @@ uat3.reportmedia.miq.cbre.com
 uat3.search.miq.cbre.com
 uat4.api.miq.cbre.com
 uat4.api.templater.cbre.com
+uat4.media.miq.cbre.com
 uat4.miq.cbre.com
+uat4.mydeliverables.cbre.com
 uat4.reportmedia.miq.cbre.com
 uat4.search.miq.cbre.com
+uat4.surveycreator.miq.cbre.com
 uatapi-ukplatform.cbre.com
 uatapi.devx.cbre.com
 uatapi.flow.cbre.com

@@ -318,6 +318,7 @@ acme-test-1.test.corp.mongodb.com
 acme.test.corp.mongodb.com
 adaptive.corp.mongodb.com
 adaptiveinsights.corp.mongodb.com
+admin-staging.corp.mongodb.com
 ae-dbt.analytics.staging.corp.mongodb.com
 ai-api-cnc.ts-tools.prod.corp.mongodb.com
 ai-api-cnc.ts-tools.staging.corp.mongodb.com
@@ -470,6 +471,7 @@ auth-qa.mongodb.com
 auth.prod.corp.mongodb.com
 auth.staging.corp.mongodb.com
 auth.test.corp.mongodb.com
+autoflow.backstage.staging.corp.mongodb.com
 autotc-inspector-staging.corp.mongodb.com
 autotc-inspector.corp.mongodb.com
 avocadoforfooda.corp.mongodb.com
@@ -926,6 +928,7 @@ fuji.test.corp.mongodb.com
 gateway.staging.corp.mongodb.com
 gateway.test.corp.mongodb.com
 gateway.ts-tools.staging.corp.mongodb.com
+gcalsyncservice-gs.ts-apac.staging.corp.mongodb.com
 gcp.realm.mongodb.com
 gen-scraper-sf-scraper.ts-tools.prod.corp.mongodb.com
 genome-dev.corp.mongodb.com
@@ -1128,6 +1131,7 @@ knowledge-prod.mongodb.com
 knowledge.corp.mongodb.com
 kolide-docs.corp.mongodb.com
 lab.sandbox.infosec.mongodb.com
+landingzone-demo.mongodb.com
 lb-b-dev.aws.cloud-dev.mongodb.com
 lb-b-dev.us-east-1.aws.cloud-dev.mongodb.com
 lb-b-qa.aws.cloud-qa.mongodb.com
@@ -1372,6 +1376,7 @@ pulse.corps.staging.corp.mongodb.com
 purple.mongodb.com
 pv-pd-sync-s.ts-apac.staging.corp.mongodb.com
 pyrra-dev.corp.mongodb.com
+query-whisperer.dataplatform.staging.corp.mongodb.com
 queryteam.corp.mongodb.com
 questions.corp.mongodb.com
 quickwit-dev.corp.mongodb.com
@@ -1685,8 +1690,10 @@ ts-tools.staging.corp.mongodb.com
 ttest-jwt.devops.test.corp.mongodb.com
 ttest.test.corp.mongodb.com
 university.mongodb.com
+university-services.education.staging.corp.mongodb.com
 university-tests.mongodb.com
 urp-dev.devprod-infra.staging.corp.mongodb.com
+urp-dev.staging.corp.mongodb.com
 urp-integration-staging.devprod-infra.staging.corp.mongodb.com
 urp.devprod-infra.prod.corp.mongodb.com
 urp.devprod-infra.staging.corp.mongodb.com

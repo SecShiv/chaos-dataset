@@ -197,6 +197,7 @@
 *.staging.dex.cloudflare.com
 *.staging.ethereum.cloudflare.com
 *.staging.gates.cloudflare.com
+*.staging.labs.cloudflare.com
 *.staging.mail.cloudflare.com
 *.staging.pages.cloudflare.com
 *.staging.realtime.cloudflare.com
@@ -428,6 +429,7 @@ api0.staging.realtime.cloudflare.com
 apjc-v2.labs.cloudflare.com
 apjc-v2.labs-staging.cloudflare.com
 apjc.labs.cloudflare.com
+apjc.labs-staging.cloudflare.com
 apjc.v2.labs.cloudflare.com
 apjc.v2.labs-staging.cloudflare.com
 apni1x-dcn.cloudflare.com
@@ -8423,6 +8425,7 @@ cml-bastion-apjc-default.labs.cloudflare.com
 cml-bastion-apjc.labs.cloudflare.com
 cml-sso-proxy-orig.labs.cloudflare.com
 cml-sso-proxy-orig.labs-staging.cloudflare.com
+cml-sso-proxy.labs-staging.cloudflare.com
 cms-api.labs.cloudflare.com
 cms-api.labs-staging.cloudflare.com
 cms.labs.cloudflare.com
@@ -18163,6 +18166,7 @@ staging.gates.cloudflare.com
 staging.gateway.agents.cloudflare.com
 staging.help.teams.cloudflare.com
 staging.ipfs.cloudflare.com
+staging.labs.cloudflare.com
 staging.mail.cloudflare.com
 staging.oai-gateway.cloudflare.com
 staging.oblivious-gateway.privacy-gateway.cloudflare.com
@@ -18477,5 +18481,3 @@ zlnvl.tw.cdn.cloudflare.com
 zod.ns.cloudflare.com
 zoe.ns.cloudflare.com
 ztx-bff-staging.teams.cloudflare.com
-ztx-bff.teams.cloudflare.com
-ztx-webhooks.one.dash.cloudflare.com
