@@ -318,6 +318,7 @@ acme-test-1.test.corp.mongodb.com
 acme.test.corp.mongodb.com
 adaptive.corp.mongodb.com
 adaptiveinsights.corp.mongodb.com
+admin-internal.corp.mongodb.com
 admin-staging.corp.mongodb.com
 ae-dbt.analytics.staging.corp.mongodb.com
 ai-api-cnc.ts-tools.prod.corp.mongodb.com
@@ -898,6 +899,7 @@ evergreen-bynn-lee.devprod-evergreen.staging.corp.mongodb.com
 evergreen-delegate.test.corp.mongodb.com
 evergreen-jason-walsh.devprod-evergreen.staging.corp.mongodb.com
 evergreen-jonathan-brill.devprod-evergreen.staging.corp.mongodb.com
+evergreen-kimberly-tao.devprod-evergreen.staging.corp.mongodb.com
 evergreen-multi.staging.corp.mongodb.com
 evergreen-sophie-stadler.devprod-evergreen.staging.corp.mongodb.com
 evergreen-staging.corp.mongodb.com
@@ -1183,6 +1185,8 @@ marketplace-hub.app-mod-rnd.staging.corp.mongodb.com
 mars-dev-feature-5916-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-6852-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7121-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-kube-api-retries-dev.dataplatform-dev.staging.corp.mongodb.com
 mars.prod.corp.mongodb.com
 mars.staging.corp.mongodb.com
 mas.corp.mongodb.com
@@ -1219,6 +1223,7 @@ mongodbcom-mesh-poc-cdn.website.staging.corp.mongodb.com
 mongodbcom-mesh-poc.website.staging.corp.mongodb.com
 mongodbcom-poc-cdn.website.staging.corp.mongodb.com
 mongodbcom-poc.website.staging.corp.mongodb.com
+mongodbcom-uat.website.staging.corp.mongodb.com
 mongodbcorp-qa.mongodb.com
 mongodbcorp-staging.mongodb.com
 mongogpt.aix.prod.corp.mongodb.com
@@ -1376,6 +1381,7 @@ pulse.corps.staging.corp.mongodb.com
 purple.mongodb.com
 pv-pd-sync-s.ts-apac.staging.corp.mongodb.com
 pyrra-dev.corp.mongodb.com
+query-whisperer-api.dataplatform.staging.corp.mongodb.com
 query-whisperer.dataplatform.staging.corp.mongodb.com
 queryteam.corp.mongodb.com
 questions.corp.mongodb.com

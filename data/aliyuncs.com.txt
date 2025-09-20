@@ -487,6 +487,7 @@
 *.cn-beijing-cross.mgw.aliyuncs.com
 *.cn-beijing-cross.oss-dls.aliyuncs.com
 *.cn-beijing-finance-1.aliyuncs.com
+*.cn-beijing-finance-1-internal.log.aliyuncs.com
 *.cn-beijing-finance-1-intranet.log.aliyuncs.com
 *.cn-beijing-finance-1-share.log.aliyuncs.com
 *.cn-beijing-finance-1.cr.aliyuncs.com
@@ -559,6 +560,7 @@
 *.cn-chengdu-alipay-internal.oss-alipay.aliyuncs.com
 *.cn-chengdu-alipay.oss-alipay.aliyuncs.com
 *.cn-chengdu-ant.aliyuncs.com
+*.cn-chengdu-ant-internal.log.aliyuncs.com
 *.cn-chengdu-ant-intranet.log.aliyuncs.com
 *.cn-chengdu-ant-share.log.aliyuncs.com
 *.cn-chengdu-ant.log.aliyuncs.com
@@ -571,6 +573,7 @@
 *.cn-chengdu-ant.vpc.tablestore.aliyuncs.com
 *.cn-chengdu-cross.mgw.aliyuncs.com
 *.cn-chengdu-internal.fc.aliyuncs.com
+*.cn-chengdu-internal.log.aliyuncs.com
 *.cn-chengdu-internet.batchcompute.aliyuncs.com
 *.cn-chengdu-intranet.log.aliyuncs.com
 *.cn-chengdu-sae-cd-prod.sae.aliyuncs.com
@@ -608,6 +611,7 @@
 *.cn-dalian.personal.cr.aliyuncs.com
 *.cn-fuzhou.aliyuncs.com
 *.cn-fuzhou-cross.mgw.aliyuncs.com
+*.cn-fuzhou-internal.log.aliyuncs.com
 *.cn-fuzhou-internet.batchcompute.aliyuncs.com
 *.cn-fuzhou-intranet.log.aliyuncs.com
 *.cn-fuzhou-share.log.aliyuncs.com
@@ -623,6 +627,7 @@
 *.cn-guangzhou.aliyuncs.com
 *.cn-guangzhou-cross.mgw.aliyuncs.com
 *.cn-guangzhou-cross.oss-dls.aliyuncs.com
+*.cn-guangzhou-internal.log.aliyuncs.com
 *.cn-guangzhou-internet.batchcompute.aliyuncs.com
 *.cn-guangzhou-intranet.log.aliyuncs.com
 *.cn-guangzhou-sae-gz-prod.sae.aliyuncs.com
@@ -680,6 +685,8 @@
 *.cn-hangzhou-c.dualstack.log.aliyuncs.com
 *.cn-hangzhou-c.log.aliyuncs.com
 *.cn-hangzhou-cloudstone.aliyuncs.com
+*.cn-hangzhou-corp-intranet.log.aliyuncs.com
+*.cn-hangzhou-corp-share.log.aliyuncs.com
 *.cn-hangzhou-corp.fc.aliyuncs.com
 *.cn-hangzhou-corp.fnf.aliyuncs.com
 *.cn-hangzhou-corp.lc.aliyuncs.com
@@ -688,6 +695,7 @@
 *.cn-hangzhou-cross.oss-dls.aliyuncs.com
 *.cn-hangzhou-finance.aliyuncs.com
 *.cn-hangzhou-finance-internal.fc.aliyuncs.com
+*.cn-hangzhou-finance-internal.log.aliyuncs.com
 *.cn-hangzhou-finance-intranet.log.aliyuncs.com
 *.cn-hangzhou-finance-share.log.aliyuncs.com
 *.cn-hangzhou-finance.cr.aliyuncs.com
@@ -786,6 +794,7 @@
 *.cn-heyuan-acdr-1-cross.oss-dls.aliyuncs.com
 *.cn-heyuan-acdr-1-internal.fc.aliyuncs.com
 *.cn-heyuan-acdr-1-internal.fnf.aliyuncs.com
+*.cn-heyuan-acdr-1-internal.log.aliyuncs.com
 *.cn-heyuan-acdr-1-intranet.log.aliyuncs.com
 *.cn-heyuan-acdr-1-share.log.aliyuncs.com
 *.cn-heyuan-acdr-1.cr.aliyuncs.com
@@ -805,6 +814,7 @@
 *.cn-heyuan-alipay-b.oss-alipay.aliyuncs.com
 *.cn-heyuan-alipay-internal.oss-alipay.aliyuncs.com
 *.cn-heyuan-alipay-office.oss-alipay.aliyuncs.com
+*.cn-heyuan-internal.log.aliyuncs.com
 *.cn-heyuan-internet.batchcompute.aliyuncs.com
 *.cn-heyuan-intranet.log.aliyuncs.com
 *.cn-heyuan-share.log.aliyuncs.com
@@ -875,9 +885,11 @@
 *.cn-huhehaote.aliyuncs.com
 *.cn-huhehaote-internal.fc.aliyuncs.com
 *.cn-huhehaote-internal.lc.aliyuncs.com
+*.cn-huhehaote-internal.log.aliyuncs.com
 *.cn-huhehaote-internet.batchcompute.aliyuncs.com
 *.cn-huhehaote-intranet.log.aliyuncs.com
 *.cn-huhehaote-nebula-1.aliyuncs.com
+*.cn-huhehaote-nebula-1-internal.log.aliyuncs.com
 *.cn-huhehaote-nebula-1-intranet.log.aliyuncs.com
 *.cn-huhehaote-nebula-1-share.log.aliyuncs.com
 *.cn-huhehaote-nebula-1.cr.aliyuncs.com
@@ -918,6 +930,7 @@
 *.cn-kunming.aliyuncs.com
 *.cn-nanjing.aliyuncs.com
 *.cn-nanjing-cross.mgw.aliyuncs.com
+*.cn-nanjing-internal.log.aliyuncs.com
 *.cn-nanjing-internet.batchcompute.aliyuncs.com
 *.cn-nanjing-intranet.log.aliyuncs.com
 *.cn-nanjing-share.log.aliyuncs.com
@@ -940,6 +953,7 @@
 *.cn-nanning.personal.cr.aliyuncs.com
 *.cn-nantong.aliyuncs.com
 *.cn-nantong-cross.mgw.aliyuncs.com
+*.cn-nantong-internal.log.aliyuncs.com
 *.cn-nantong-intranet.log.aliyuncs.com
 *.cn-nantong-share.log.aliyuncs.com
 *.cn-nantong.cr.aliyuncs.com
@@ -954,6 +968,7 @@
 *.cn-ningxia.ots.aliyuncs.com
 *.cn-north-2-gov-1.aliyuncs.com
 *.cn-north-2-gov-1-internal.fc.aliyuncs.com
+*.cn-north-2-gov-1-internal.log.aliyuncs.com
 *.cn-north-2-gov-1-internet.batchcompute.aliyuncs.com
 *.cn-north-2-gov-1-intranet.log.aliyuncs.com
 *.cn-north-2-gov-1-share.log.aliyuncs.com
@@ -986,6 +1001,7 @@
 *.cn-qingdao-internal.fc.aliyuncs.com
 *.cn-qingdao-internal.fnf.aliyuncs.com
 *.cn-qingdao-internal.lc.aliyuncs.com
+*.cn-qingdao-internal.log.aliyuncs.com
 *.cn-qingdao-internet.batchcompute.aliyuncs.com
 *.cn-qingdao-intranet.log.aliyuncs.com
 *.cn-qingdao-nebula.aliyuncs.com
@@ -1044,6 +1060,7 @@
 *.cn-shanghai-b.log.aliyuncs.com
 *.cn-shanghai-cloudspe.aliyuncs.com
 *.cn-shanghai-cloudspe-internal.fc.aliyuncs.com
+*.cn-shanghai-cloudspe-internal.log.aliyuncs.com
 *.cn-shanghai-cloudspe-intranet.log.aliyuncs.com
 *.cn-shanghai-cloudspe-share.log.aliyuncs.com
 *.cn-shanghai-cloudspe.cr.aliyuncs.com
@@ -1057,6 +1074,8 @@
 *.cn-shanghai-cloudspe.tablestore.aliyuncs.com
 *.cn-shanghai-cloudspe.vpc.ots.aliyuncs.com
 *.cn-shanghai-cloudspe.vpc.tablestore.aliyuncs.com
+*.cn-shanghai-corp-intranet.log.aliyuncs.com
+*.cn-shanghai-corp-share.log.aliyuncs.com
 *.cn-shanghai-corp.fc.aliyuncs.com
 *.cn-shanghai-corp.fnf.aliyuncs.com
 *.cn-shanghai-corp.lc.aliyuncs.com
@@ -1066,6 +1085,7 @@
 *.cn-shanghai-dualstack.oss.aliyuncs.com
 *.cn-shanghai-finance-1.aliyuncs.com
 *.cn-shanghai-finance-1-internal.fc.aliyuncs.com
+*.cn-shanghai-finance-1-internal.log.aliyuncs.com
 *.cn-shanghai-finance-1-intranet.log.aliyuncs.com
 *.cn-shanghai-finance-1-share.log.aliyuncs.com
 *.cn-shanghai-finance-1-vpc.log.aliyuncs.com
@@ -1119,6 +1139,9 @@
 *.cn-shanghai-smt-huat.aliyuncs.com
 *.cn-shanghai-vpc.log.aliyuncs.com
 *.cn-shanghai-vpc.oss.aliyuncs.com
+*.cn-shanghai-x-spe-intranet.log.aliyuncs.com
+*.cn-shanghai-x-spe-share.log.aliyuncs.com
+*.cn-shanghai-x-spe.log.aliyuncs.com
 *.cn-shanghai.batchcompute.aliyuncs.com
 *.cn-shanghai.cr.aliyuncs.com
 *.cn-shanghai.dualstack.log.aliyuncs.com
@@ -1168,6 +1191,7 @@
 *.cn-shenzhen-dualstack.oss.aliyuncs.com
 *.cn-shenzhen-e-internal.oss-data-acc.aliyuncs.com
 *.cn-shenzhen-finance-1.aliyuncs.com
+*.cn-shenzhen-finance-1-internal.log.aliyuncs.com
 *.cn-shenzhen-finance-1-intranet.log.aliyuncs.com
 *.cn-shenzhen-finance-1-share.log.aliyuncs.com
 *.cn-shenzhen-finance-1-vpc.log.aliyuncs.com
@@ -1195,6 +1219,7 @@
 *.cn-shenzhen-internal.fc.aliyuncs.com
 *.cn-shenzhen-internal.fnf.aliyuncs.com
 *.cn-shenzhen-internal.lc.aliyuncs.com
+*.cn-shenzhen-internal.log.aliyuncs.com
 *.cn-shenzhen-internal.oss-data-acc.aliyuncs.com
 *.cn-shenzhen-internet.batchcompute.aliyuncs.com
 *.cn-shenzhen-intranet.log.aliyuncs.com
@@ -1278,6 +1303,7 @@
 *.cn-wulanchabu-ha.dualstack.log.aliyuncs.com
 *.cn-wulanchabu-ha.log.aliyuncs.com
 *.cn-wulanchabu-internal.fc.aliyuncs.com
+*.cn-wulanchabu-internal.log.aliyuncs.com
 *.cn-wulanchabu-internal.oss-data-acc.aliyuncs.com
 *.cn-wulanchabu-internet.batchcompute.aliyuncs.com
 *.cn-wulanchabu-intranet.log.aliyuncs.com
@@ -1312,9 +1338,12 @@
 *.cn-xian.aliyuncs.com
 *.cn-xian.cr.aliyuncs.com
 *.cn-xian.personal.cr.aliyuncs.com
+*.cn-zhangbei-corp-intranet.log.aliyuncs.com
+*.cn-zhangbei-corp-share.log.aliyuncs.com
 *.cn-zhangbei-corp.fc.aliyuncs.com
 *.cn-zhangjaikou-dualstack.oss.aliyuncs.com
 *.cn-zhangjiakou.aliyuncs.com
+*.cn-zhangjiakou-2-internal.log.aliyuncs.com
 *.cn-zhangjiakou-2-intranet.log.aliyuncs.com
 *.cn-zhangjiakou-2-share.log.aliyuncs.com
 *.cn-zhangjiakou-2.dualstack.log.aliyuncs.com
@@ -1336,12 +1365,14 @@
 *.cn-zhangjiakou-internal.fc.aliyuncs.com
 *.cn-zhangjiakou-internal.fnf.aliyuncs.com
 *.cn-zhangjiakou-internal.lc.aliyuncs.com
+*.cn-zhangjiakou-internal.log.aliyuncs.com
 *.cn-zhangjiakou-internal.oss-data-acc.aliyuncs.com
 *.cn-zhangjiakou-internet.batchcompute.aliyuncs.com
 *.cn-zhangjiakou-intranet.log.aliyuncs.com
 *.cn-zhangjiakou-sae-zjk-prod.sae.aliyuncs.com
 *.cn-zhangjiakou-share.log.aliyuncs.com
 *.cn-zhangjiakou-spe.aliyuncs.com
+*.cn-zhangjiakou-spe-internal.log.aliyuncs.com
 *.cn-zhangjiakou-spe-intranet.log.aliyuncs.com
 *.cn-zhangjiakou-spe-share.log.aliyuncs.com
 *.cn-zhangjiakou-spe.dualstack.log.aliyuncs.com
@@ -2116,6 +2147,11 @@
 *.mysql.us-east-1.proxy.dms.aliyuncs.com
 *.mysql.us-west-1.proxy.dms.aliyuncs.com
 *.na-south-1.aliyuncs.com
+*.na-south-1-internal.log.aliyuncs.com
+*.na-south-1-intranet.log.aliyuncs.com
+*.na-south-1-share.log.aliyuncs.com
+*.na-south-1.dualstack.log.aliyuncs.com
+*.na-south-1.log.aliyuncs.com
 *.na-south-1.ots.aliyuncs.com
 *.na-south-1.ots-inner.aliyuncs.com
 *.na-south-1.ots-internal.aliyuncs.com
@@ -2670,6 +2706,7 @@
 *.rus-west-1.aliyuncs.com
 *.rus-west-1-inner-intranet.log.aliyuncs.com
 *.rus-west-1-inner-share.log.aliyuncs.com
+*.rus-west-1-internal.log.aliyuncs.com
 *.rus-west-1-intranet.log.aliyuncs.com
 *.rus-west-1-share.log.aliyuncs.com
 *.rus-west-1.batchcompute.aliyuncs.com
@@ -2889,6 +2926,11 @@
 *.us-gzone-ant-share.log.aliyuncs.com
 *.us-gzone-ant.log.aliyuncs.com
 *.us-southeast-1.aliyuncs.com
+*.us-southeast-1-internal.log.aliyuncs.com
+*.us-southeast-1-intranet.log.aliyuncs.com
+*.us-southeast-1-share.log.aliyuncs.com
+*.us-southeast-1.dualstack.log.aliyuncs.com
+*.us-southeast-1.log.aliyuncs.com
 *.us-southeast-1.ots.aliyuncs.com
 *.us-southeast-1.ots-inner.aliyuncs.com
 *.us-southeast-1.ots-internal.aliyuncs.com
@@ -12314,6 +12356,7 @@ ap-south-1.vpc.tablestore.aliyuncs.com
 ap-southeast-1.aliyuncs.com
 ap-southeast-1-cross.oss-dls.aliyuncs.com
 ap-southeast-1-fc-sg-shicheng.fc.aliyuncs.com
+ap-southeast-1-ha-internal.log.aliyuncs.com
 ap-southeast-1-internal.fc.aliyuncs.com
 ap-southeast-1-internal.fnf.aliyuncs.com
 ap-southeast-1-internal.lc.aliyuncs.com
@@ -21836,6 +21879,7 @@ cn-hongkong.aliyuncs.com
 cn-hongkong-cross.oss-dls.aliyuncs.com
 cn-hongkong-fc-hk-mongkok-internal.fc.aliyuncs.com
 cn-hongkong-fc-hk-mongkok.fc.aliyuncs.com
+cn-hongkong-ha-internal.log.aliyuncs.com
 cn-hongkong-internal.elasticsearch.aliyuncs.com
 cn-hongkong-internal.fc.aliyuncs.com
 cn-hongkong-internal.fnf.aliyuncs.com
@@ -22089,6 +22133,7 @@ cn-shanghai.vpc.tablestore.aliyuncs.com
 cn-shenzhen.aliyuncs.com
 cn-shenzhen-ant-share.log.aliyuncs.com
 cn-shenzhen-ant.log.aliyuncs.com
+cn-shenzhen-b-internal.log.aliyuncs.com
 cn-shenzhen-cloudstone.aliyuncs.com
 cn-shenzhen-cloudstone-ut.aliyuncs.com
 cn-shenzhen-corp.fc.aliyuncs.com
@@ -22117,6 +22162,7 @@ cn-shenzhen-finance-vpc.log.aliyuncs.com
 cn-shenzhen-finance.dualstack.log.aliyuncs.com
 cn-shenzhen-finance.log.aliyuncs.com
 cn-shenzhen-finance.oss.aliyuncs.com
+cn-shenzhen-ha-internal.log.aliyuncs.com
 cn-shenzhen-internal.elasticsearch.aliyuncs.com
 cn-shenzhen-internal.fc.aliyuncs.com
 cn-shenzhen-internal.fnf.aliyuncs.com
@@ -22163,11 +22209,13 @@ cn-uoozone-website-sd.oss-cn-beijing.aliyuncs.com
 cn-uutuu-save.oss-cn-hangzhou.aliyuncs.com
 cn-wuhan-lr.aliyuncs.com
 cn-wulanchabu.aliyuncs.com
+cn-wulanchabu-b-internal.log.aliyuncs.com
 cn-wulanchabu-b-intranet.log.aliyuncs.com
 cn-wulanchabu-b-share.log.aliyuncs.com
 cn-wulanchabu-b.dualstack.log.aliyuncs.com
 cn-wulanchabu-b.log.aliyuncs.com
 cn-wulanchabu-cloudstone-ut.aliyuncs.com
+cn-wulanchabu-ha-internal.log.aliyuncs.com
 cn-wulanchabu-internal.elasticsearch.aliyuncs.com
 cn-wulanchabu-intranet.log.aliyuncs.com
 cn-wulanchabu-share.log.aliyuncs.com
@@ -22205,6 +22253,7 @@ cn-zhangjiakou-corp.fc.aliyuncs.com
 cn-zhangjiakou-cross.oss-dls.aliyuncs.com
 cn-zhangjiakou-dualstack.oss.aliyuncs.com
 cn-zhangjiakou-fc-zjk-zhangbei.fc.aliyuncs.com
+cn-zhangjiakou-ha-internal.log.aliyuncs.com
 cn-zhangjiakou-internal.elasticsearch.aliyuncs.com
 cn-zhangjiakou-internal.fc.aliyuncs.com
 cn-zhangjiakou-internal.fnf.aliyuncs.com
@@ -104110,5 +104159,3 @@ zzzwww0416.oss-cn-hongkong.aliyuncs.com
 zzzxyweb.oss-cn-beijing.aliyuncs.com
 zzzz6.oss-cn-hongkong.aliyuncs.com
 zzzzmall-product.oss-cn-beijing.aliyuncs.com
-zzzzzxc.oss-cn-hangzhou.aliyuncs.com
-zzzzzzhuan.oss-cn-hangzhou.aliyuncs.com

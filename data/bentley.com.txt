@@ -185,6 +185,7 @@ authorize.int.prod.identity.bentley.com
 authorize.int.qa.identity.bentley.com
 autodiscover.bentley.com
 autoupdatecdn.bentley.com
+avenue-slc-pw-tmp.bentley.com
 avinor-pw.bentley.com
 avinor-pw-tmp.bentley.com
 avinor-pw-tmp-ws.bentley.com
@@ -224,6 +225,7 @@ bayerunited-pw-ws.bentley.com
 bcs-entitlement-policy-signing.bentley.com
 bcs-entitlement-policy-signing-qa.bentley.com
 bcsf.bentley.com
+bcsf3.bentley.com
 bcsm-dnsapi.bentley.com
 bdn.bentley.com
 bdn-staging.bentley.com
@@ -291,6 +293,7 @@ bw-pw-tmp.bentley.com
 bwa.bentley.com
 bwdc.bentley.com
 bws.bentley.com
+bytp-eu1-pw-tmp-ws.bentley.com
 c1-vl70.bentley.com
 c1-vl77.bentley.com
 c1-vl88.bentley.com
@@ -2059,6 +2062,8 @@ dev-dataagreementregistry-eus-staging.bentley.com
 dev-dataexportfunc-eus.bentley.com
 dev-dataexportfuncv2-eus.bentley.com
 dev-dataexportservice-eus.bentley.com
+dev-daw-edf.bentley.com
+dev-dawapi-edf.bentley.com
 dev-developer.bentley.com
 dev-digital-twin-design-challenge.bentley.com
 dev-dmitp-cdn001.bentley.com
@@ -2256,6 +2261,7 @@ dev-itxdashboardmanager.bentley.com
 dev-launchdarkly.bentley.com
 dev-launchdarkly-staging.bentley.com
 dev-linearscriptlogger-cac.bentley.com
+dev-logger-edf.bentley.com
 dev-management-edf.bentley.com
 dev-mantassf.bentley.com
 dev-medixai.bentley.com
@@ -2537,6 +2543,7 @@ dev-subscriptionservices.bentley.com
 dev-subscriptionservices-staging.bentley.com
 dev-supervisely.bentley.com
 dev-supplychainbillingmanager.bentley.com
+dev-supplychainstructureservice-staging.bentley.com
 dev-synchro.bentley.com
 dev-synchro-hubapi-eus.bentley.com
 dev-synchro-hubapi-eus-staging.bentley.com
@@ -3455,6 +3462,7 @@ markosky-hq-pw-tmp-ws.bentley.com
 markosky-hq-pw-ws.bentley.com
 martin-pw.bentley.com
 martin-pw-ws.bentley.com
+mb-usw-pw.bentley.com
 mcdot-pw.bentley.com
 mcdot-pw-tmp.bentley.com
 mcdot-pw-tmp-ws.bentley.com
@@ -5464,6 +5472,7 @@ qa-store.bentley.com
 qa-subscriptionservices.bentley.com
 qa-subscriptionservices-staging.bentley.com
 qa-supplychainbillingmanager.bentley.com
+qa-supplychainstructureservice-staging.bentley.com
 qa-synchro.bentley.com
 qa-synchro-hubapi-aue.bentley.com
 qa-synchro-hubapi-aue-staging.bentley.com
@@ -6342,4 +6351,3 @@ zephyr-pw.bentley.com
 zephyr-pw-tmp.bentley.com
 zh-cn.bentley.com
 zutari-uae-pw.bentley.com
-zutari-uae-pw-ws.bentley.com

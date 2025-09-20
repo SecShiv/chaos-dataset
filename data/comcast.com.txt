@@ -299,6 +299,7 @@
 *.crp.comcast.com
 *.csi-triage.comcast.com
 *.cube.comcast.com
+*.cubejsdev.ebi.comcast.com
 *.customer-hub-content-dev.np.digital.business.comcast.com
 *.customer-hub-content-int.np.digital.business.comcast.com
 *.customer-hub-content-pqa.np.digital.business.comcast.com
@@ -696,6 +697,7 @@
 *.notifications-uimfe-prod.digital.business.comcast.com
 *.notifications-uimfe-qa.np.digital.business.comcast.com
 *.notifications-uimfe-stg.np.digital.business.comcast.com
+*.np.bcc.campaign.comcast.com
 *.np.campaign.comcast.com
 *.np.crm.martech.comcast.com
 *.np.customerstatements.comcast.com
@@ -1947,6 +1949,7 @@
 *.outage-optin-ui-prod.digital.business.comcast.com
 *.outage-optin-ui-qa.np.digital.business.comcast.com
 *.outage-optin-ui-stg.np.digital.business.comcast.com
+*.p.bcc.campaign.comcast.com
 *.p.crm.martech.comcast.com
 *.p.martech.comcast.com
 *.p.martechedp.comcast.com
@@ -5584,6 +5587,7 @@
 208.20.10.201.comcast.com
 209-141-45-10.comcast.com
 23-31-20-71-static.hfc.comcast.com
+2a57j77nf17d51at4ovlohuf3wirpo7.cubejsdev.ebi.comcast.com
 2a57j77xqn344425611moj36m4mzh38.admin-prod.metrics.ebi.comcast.com
 2a57j77xqn344425611moj36m4mzh38.retailstoreui.aws-dev.thenexus.comcast.com
 2a57j77xqn344425611moj36m4mzh38.retailstoreui.aws.thenexus.comcast.com
@@ -18395,6 +18399,7 @@ cubeapp-as-1s-con.cable.comcast.com
 cubeapp-as-2s-con.cable.comcast.com
 cubear-as-1p-con.cable.comcast.com
 cubear-as-1p.cable.comcast.com
+cubejsdev.ebi.comcast.com
 cubit-elk-kibana-dev.csv.comcast.com
 cubit-monitoring-elastic-prod.csv.comcast.com
 cubit-monitoring-kibana-prod.csv.comcast.com
@@ -21892,6 +21897,7 @@ ebzweb-wc-89p.cable.comcast.com
 ebzweb-wc-90p.cable.comcast.com
 ec.comcast.com
 ec2-primary.downingtown.pa.comcast.com
+ecaf-mongo-12p.topnet.comcast.com
 ecaf-mongo-13p.topnet.comcast.com
 ecaf-mongo-1q.topnet.comcast.com
 ecaf.cable.comcast.com
@@ -39749,6 +39755,7 @@ mongo-01.dev.topnet.comcast.com
 mongo-02.dev.topnet.comcast.com
 mongo-02.staging.topnet.comcast.com
 mongo-03.dev.topnet.comcast.com
+mongo-03.staging.topnet.comcast.com
 mongo-ci-prod.vb.comcast.com
 mongo-ci-stage.vb.comcast.com
 mongo-dev.autobahn.comcast.com
@@ -57148,6 +57155,7 @@ squidbig-as-01.cable.comcast.com
 srcjump-po-01p.cable.comcast.com
 srcjump-wc-01p.cable.comcast.com
 sre-dcos-ho-1p.slb.comcast.com
+sre-test-xpki.genome.comcast.com
 srecld-po-a1p.cable.comcast.com
 srelog-as-a1p.cable.comcast.com
 sretest-as-a01p.cable.comcast.com
@@ -62215,6 +62223,8 @@ va-herndon-worldgat-mdf-vlan6-hsrp.cable.comcast.com
 va-herndon-worldgat-r1.cable.comcast.com
 va-herndon-worldgat-r2.cable.comcast.com
 va-herndon-worldgat-vlan40-hsrp.cable.comcast.com
+va-staging-vault-1-v8.staging.vault.comcast.com
+va-staging-vault-3-v8.staging.vault.comcast.com
 va-vault-1-v6.vault.comcast.com
 va-vault-4-v6.vault.comcast.com
 va.a11y.ecom.digital.business.comcast.com
@@ -70383,3 +70393,6 @@ zstsvc-wc-1p.slb.comcast.com
 zstsvc-wc-1q.slb.comcast.com
 zstsvc-wc-1s.slb.comcast.com
 zwestapi.cable.comcast.com
+zz-aaron.comcast.com
+zz-jim.slb.comcast.com
+zzz3.sb3http.gumby.comcast.com

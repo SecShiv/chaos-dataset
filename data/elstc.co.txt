@@ -160,6 +160,7 @@
 *.symbols.us-central1.gcp.qa.cld.elstc.co
 *.symbols.vpce.eu-west-1.aws.qa.cld.elstc.co
 *.us-central1.gcp.qa.cld.elstc.co
+*.vault.aws.dev.cld.elstc.co
 *.vpce.eu-west-1.aws.qa.cld.elstc.co
 8f5a5c4ea3bf4ebb9f039a5444d843db.eu-west-1.aws.qa.cld.elstc.co
 admin-ccr.prod-emea.eden.elstc.co
@@ -171,6 +172,8 @@ adminconsole.qa.cld.elstc.co
 apachelogs.prod-emea.eden.elstc.co
 api-mtls.auto-ops.eu-west-1.aws.admin.qa.cld.elstc.co
 api-mtls.auto-ops.eu-west-1.aws.console.qa.cld.elstc.co
+api-mtls.auto-ops.us-central1.gcp.admin.qa.cld.elstc.co
+api-mtls.auto-ops.us-central1.gcp.console.qa.cld.elstc.co
 api.qa.cld.elstc.co
 apm.elstc.co
 apm-archive-kibana.app.elstc.co
@@ -379,6 +382,7 @@ dev-14912-videos-callout-locales.app.elstc.co
 dev-15025-unlocalize-pdf-fallback.app.elstc.co
 dev-15061-seo-canonical.app.elstc.co
 dev-15133-social-image.app.elstc.co
+dev-15199-redirects.app.elstc.co
 dev-15253-training-hydration.app.elstc.co
 dev-1833b.app.elstc.co
 dev-1834.app.elstc.co
@@ -589,6 +593,7 @@ dev-enabledewcbutton-gh13170.app.elstc.co
 dev-eol-gh13988.app.elstc.co
 dev-eol-rss-feed.app.elstc.co
 dev-events-gh12857.app.elstc.co
+dev-events-overview-locale-url-15448.app.elstc.co
 dev-eventsoverview-151610.app.elstc.co
 dev-eventsoverview-gh13779.app.elstc.co
 dev-eventvideoslocale-gh13217.app.elstc.co
@@ -618,6 +623,7 @@ dev-gh12430-blog-posting-sd.app.elstc.co
 dev-gh13007-hero-pattern-generic-b.app.elstc.co
 dev-gh13682-start-local.app.elstc.co
 dev-gh13696-es-419.app.elstc.co
+dev-ghostcard-videos-cta-15359.app.elstc.co
 dev-grideyebrowfix-gh14235.app.elstc.co
 dev-hero-bug-gh12882.app.elstc.co
 dev-hero-gh13225.app.elstc.co
@@ -814,6 +820,7 @@ elastic-robots-github-app.app.elstc.co
 elasticgov.app.elstc.co
 emea.prod.ingress.eden.elstc.co
 enhancements.app.elstc.co
+ensemble-api.app.elstc.co
 ensemble-qa-us-central1-v1.gcp.qa.cld.elstc.co
 ensemble-qa-us-central1.gcp.qa.cld.elstc.co
 ensemble.app.elstc.co
@@ -11414,6 +11421,7 @@ nginx-ingress-test-85053.elastic-uploader-production.elstc.co
 nginx-ingress-test-85057.ea-release.elstc.co
 nginx-ingress-test-85078.ea-release.elstc.co
 nginx-ingress-test-85098.ea-registry-staging.elstc.co
+nginx-ingress-test-85106.elastic-uploader-production.elstc.co
 nginx-ingress-test-85107.ea-release.elstc.co
 nginx-ingress-test-85108.ea-eden-prod.elstc.co
 nginx-ingress-test-85109.ea-demo-prod.elstc.co
@@ -13332,3 +13340,6 @@ www.kcare-eportal.elstc.co
 www.kcare-eportal-govcloud.elstc.co
 www.kcare-eportal-production.elstc.co
 www.kcare-eportal-production-targeted.elstc.co
+xkcd-golang.app.elstc.co
+yangweilim.ce-aws.dev.cld.elstc.co
+yay.micky-test.ea-es.elstc.co
