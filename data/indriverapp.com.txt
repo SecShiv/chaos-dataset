@@ -319,10 +319,12 @@ idc-cf.cis.euce1.aws.indriverapp.com
 idc-cf.euce1.indriverapp.com
 idc-cf.latam-co.saea1.aws.indriverapp.com
 idc-cf.latam-pe.saea1.aws.indriverapp.com
+idc-cf.latam.saea1.aws.indriverapp.com
 idc.cis.euce1.aws.indriverapp.com
 idc.euce1.indriverapp.com
 idc.latam-co.saea1.aws.indriverapp.com
 idc.latam-pe.saea1.aws.indriverapp.com
+idc.latam.saea1.aws.indriverapp.com
 image-storage.fr1.baremetal.indriverapp.com
 in-cf.africa.afso1.aws.indriverapp.com
 in-cf.cis.euce1.aws.indriverapp.com
@@ -583,6 +585,7 @@ rest-push-sender.eu-east-1.indriverapp.com
 review-api.fr1.baremetal.indriverapp.com
 router.euce1.indriverapp.com
 router.fr1.baremetal.indriverapp.com
+rp-cf.africa.afso1.aws.indriverapp.com
 rp-cf.cis.euce1.aws.indriverapp.com
 rp-cf.euce1.indriverapp.com
 rp-cf.latam-br.saea1.aws.indriverapp.com
@@ -593,6 +596,7 @@ rp-cf.mena.meso1.aws.indriverapp.com
 rp-cf.sa.apso1.aws.indriverapp.com
 rp-cf.sea.apse3.aws.indriverapp.com
 rp-cf.usa.usea2.aws.indriverapp.com
+rp.africa.afso1.aws.indriverapp.com
 rp.cis.euce1.aws.indriverapp.com
 rp.euce1.indriverapp.com
 rp.latam-br.saea1.aws.indriverapp.com
@@ -701,6 +705,8 @@ truck-admin.fr1.baremetal.indriverapp.com
 truck-api.fr1.baremetal.indriverapp.com
 truck-grpc.indriverapp.com
 truck-verification.fr1.baremetal.indriverapp.com
+trv-cf.euce1.indriverapp.com
+trv.euce1.indriverapp.com
 trw-cf.euce1.indriverapp.com
 trw.euce1.indriverapp.com
 ts-cf.fr1.baremetal.indriverapp.com

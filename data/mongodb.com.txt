@@ -693,6 +693,7 @@ devops.prod.corp.mongodb.com
 devops.staging.corp.mongodb.com
 devops.test.corp.mongodb.com
 devpi-cloud-ops.corp.mongodb.com
+devprod-images.devprod-runtime-environments.staging.corp.mongodb.com
 devprod-infra.prod.corp.mongodb.com
 devprod-infra.staging.corp.mongodb.com
 devprod-platform.prod.corp.mongodb.com
@@ -740,6 +741,7 @@ docs.staging.corp.mongodb.com
 docs.website.staging.corp.mongodb.com
 doculoan-uat.sa-demo.staging.corp.mongodb.com
 doculoan.sa-demo.staging.corp.mongodb.com
+documate.data-governance.prod.corp.mongodb.com
 dojo.mongodb.com
 download.mongodb.com
 downloads.mongodb.com
@@ -747,6 +749,7 @@ drivers.prod.corp.mongodb.com
 drivers.staging.corp.mongodb.com
 drone.corp.mongodb.com
 dryland-flask-app.corps.staging.corp.mongodb.com
+dsat.corp.mongodb.com
 dsplatform.prod.corp.mongodb.com
 dsplatform.staging.corp.mongodb.com
 dst.devops.test.corp.mongodb.com
@@ -1469,8 +1472,10 @@ routing.test.corp.mongodb.com
 s2s-httpbin.test.corp.mongodb.com
 s2s-permissive-httpbin.devops.test.corp.mongodb.com
 s2s-public-httpbin.devops.test.corp.mongodb.com
+sa-backend-ind-ncr.sa-demo.staging.corp.mongodb.com
 sa-sizing-v0.salesops.staging.corp.mongodb.com
 sa-stem.salesops.prod.corp.mongodb.com
+sa-stem.salesops.staging.corp.mongodb.com
 sa.prod.corp.mongodb.com
 sa.staging.corp.mongodb.com
 saas-buster-application-dashboard.infosec.staging.corp.mongodb.com
@@ -1632,6 +1637,7 @@ tdt.rsc.staging.corp.mongodb.com
 teleport-test-1.corp.mongodb.com
 tempo-dev.corp.mongodb.com
 temporal.devprod-platform.staging.corp.mongodb.com
+temporal.private-ai.prod.corp.mongodb.com
 temporal.ts-tools.prod.corp.mongodb.com
 test-cert-2.test.corp.mongodb.com
 test-cert.test.corp.mongodb.com
@@ -1993,5 +1999,6 @@ yuzhou-web-app.devops.test.corp.mongodb.com
 yuzhou-web-app.test.corp.mongodb.com
 yuzhou.devops.test.corp.mongodb.com
 yuzhou2.devops.test.corp.mongodb.com
+zap-dev.salesops.staging.corp.mongodb.com
 zd-approvals.corp.mongodb.com
 zen-approvals.corp.mongodb.com

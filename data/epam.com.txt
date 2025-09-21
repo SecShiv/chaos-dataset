@@ -413,6 +413,7 @@
 *.cl1-default-lb.epm-disp-anthos-prod.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-disp-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-dmpl-anthos-dev.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-eag-ant-aitm.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-eco-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-emrd-anthos-calc.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-ems-anthos.eu.gcp.cloudapp.epam.com
@@ -2200,6 +2201,7 @@ business.anywhere.epam.com
 by-web-dev.aemcloud.epam.com
 by-web-stage.aemcloud.epam.com
 by.epam-com.staging.epm-iass.projects.epam.com
+byodise.lab.epam.com
 c-cms.pcr.stlm-d.lab.epam.com
 c869540e81fd.resources.epm-ddl.projects.epam.com
 c9d1371fc908.resources.epm-ddl.projects.epam.com
@@ -3353,6 +3355,7 @@ elasticsearch-v6-323.aws.radar.stage.epam.com
 elasticsearch-v6-328.aws.radar.stage.epam.com
 elasticsearch-v6-386.aws.radar.stage.epam.com
 elasticsearch-v6-387.aws.radar.stage.epam.com
+elasticsearch-v6-388.aws.radar.stage.epam.com
 elasticsearch-v6-412.aws.radar.epam.com
 elasticsearch-v6-413.aws.radar.epam.com
 elasticsearch-v6-414.aws.radar.epam.com
@@ -4091,6 +4094,7 @@ fcf61da06246.resources.epm-ddl.projects.epam.com
 fd-poo-tst-int.azure.epmc-stc.projects.epam.com
 fd-test-aqm-int-poo.hca.azure.epmc-stc.projects.epam.com
 fd-test-aqm-int.hca.azure.epmc-stc.projects.epam.com
+fdweb.epm-aloa.projects.epam.com
 fe1.web-components.uiaas.aws.sche-digi.projects.epam.com
 fe11-app.aws.sche-digi.projects.epam.com
 fe2.web-components.uiaas.aws.sche-digi.projects.epam.com
@@ -4374,6 +4378,7 @@ hunter.skills.epam.com
 hybris65b2b.epm-ddl.projects.epam.com
 hydrogddl.projects.epam.com
 ian-botan-dev.epm-bot.projects.epam.com
+ian-botan-stage.epm-bot.projects.epam.com
 iap-test.osdu-gcp.go3-nrg.projects.epam.com
 iapprove.iapr-mob.projects.epam.com
 iass-anthos-gw.epm-mooc.projects.epam.com
@@ -4522,6 +4527,7 @@ invitation.anywhere.epam.com
 invite.epam.com
 io.awsdev.epm-dce.projects.epam.com
 itsec.epam.com
+itservices.epam.com
 jabil-aqua-learn.epm-tmc.projects.epam.com
 jabil-bobr-learn.epm-tmc.projects.epam.com
 jabil-bonaqua-learn.epm-tmc.projects.epam.com
@@ -7483,5 +7489,3 @@ ztna-session-api.stage.epam.com
 ztna-staging.epm-iga.projects.epam.com
 ztna.app.epam.com
 ztna.app.stage.epam.com
-ztna.stage.epam.com
-ztnacheck.stage.epam.com

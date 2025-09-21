@@ -8366,6 +8366,7 @@ deploymentserver-us-east-1-gen1.splunk.disney.com
 design.studio.disney.com
 desktop.totvs.wdi-corp-dev.aws.intl.disney.com
 desktop.totvs.wdi-corp-production.aws.intl.disney.com
+destiny-nb.hank.dcl.wdpr.disney.com
 destiny.acme.dcl.wdpr.disney.com
 destiny.capnhook.dcl.wdpr.disney.com
 destiny.compass.dcl.wdpr.disney.com
@@ -8395,12 +8396,24 @@ destiny.gratsapi.dcl.wdpr.disney.com
 destiny.guest.keycloak-auth.dcl.wdpr.disney.com
 destiny.guestdclm.dcl.wdpr.disney.com
 destiny.guestplay.dcl.wdpr.disney.com
+destiny.infra.kafka-broker-na0.dcl.wdpr.disney.com
+destiny.infra.kafka-broker-na1.dcl.wdpr.disney.com
+destiny.infra.kafka-broker-na2.dcl.wdpr.disney.com
+destiny.infra.kafka-broker0.dcl.wdpr.disney.com
+destiny.infra.kafka-broker1.dcl.wdpr.disney.com
+destiny.infra.kafka-broker2.dcl.wdpr.disney.com.destiny.kafka-broker0.dcl.wdpr.disney.com
+destiny.infra.kafka-na.dcl.wdpr.disney.com
+destiny.infra.kafka.dcl.wdpr.disney.com
 destiny.jarvis.dcl.wdpr.disney.com
+destiny.kafka-broker-na0.dcl.wdpr.disney.com
+destiny.kafka-broker-na1.dcl.wdpr.disney.com
+destiny.kafka-broker-na2.dcl.wdpr.disney.com
 destiny.kafka-broker0.dcl.wdpr.disney.com
 destiny.kafka-broker1.dcl.wdpr.disney.com
 destiny.kafka-broker2.dcl.wdpr.disney.com
 destiny.kafka-broker3.dcl.wdpr.disney.com
 destiny.kafka-broker4.dcl.wdpr.disney.com
+destiny.kafka-na.dcl.wdpr.disney.com
 destiny.kafka.dcl.wdpr.disney.com
 destiny.keycloak-auth.dcl.wdpr.disney.com
 destiny.messaging.dcl.wdpr.disney.com
@@ -8413,6 +8426,7 @@ destiny.smartpipe.dcl.wdpr.disney.com
 destiny.timestone-admin-api.dcl.wdpr.disney.com
 destiny.timestone-admin-ui.dcl.wdpr.disney.com
 destiny.timestone.dcl.wdpr.disney.com
+destiny.vmtm.dcl.wdpr.disney.com
 destiny.youth-activities.dcl.wdpr.disney.com
 det.platform.engineering.test.disney.com
 detapps.disney.com
@@ -21124,6 +21138,7 @@ latest.resortsearch-batch.wdprapps.disney.com
 latest.resortsearch-dlr-subscriber.wdprapps.disney.com
 latest.resortsearch-subscriber.wdprapps.disney.com
 latest.resortsearch.wdprapps.disney.com
+latest.resource-catalog.gcp.wdprapps.disney.com
 latest.resretrieval.wdprapps.disney.com
 latest.resschlr-svc.wdprapps.disney.com
 latest.ressvc-dlr.wdprapps.disney.com
@@ -21437,6 +21452,7 @@ latest.ssl-automation.wdprapps.disney.com
 latest.sslauto.wdprapps.disney.com
 latest.sslautoui.wdprapps.disney.com
 latest.ssr-svc.wdprapps.disney.com
+latest.ssr-ui.use4-c1.gcp.wdprapps.disney.com
 latest.ssr.azure-nonprod.wdprapps.disney.com
 latest.ssr.wdprapps.disney.com
 latest.starburst.wdprapps.disney.com
@@ -27878,6 +27894,7 @@ ordhistsvc-internal.wdprapps.disney.com
 ordhistsvc-wdw.wdprapps.disney.com
 ore-bookings.wdprapps.disney.com
 ore-cast.wdprapps.disney.com
+ore-dg.wdprapps.disney.com
 ore-entitlements.wdprapps.disney.com
 ore-helios.wdprapps.disney.com
 ore-internal.wdprapps.disney.com
@@ -30044,6 +30061,7 @@ pico.studio.disney.com
 picoremote.studio.disney.com
 pigeonpresents.stage.disney.com
 pilot.apigateway.wdprapps.disney.com
+pilot.mtls-apigateway.wdprapps.disney.com
 pims.disney.com
 pims.sppapps.disney.com
 pims.sppappsdev.disney.com
@@ -41205,6 +41223,7 @@ treasure.play.dcl.wdpr.disney.com
 treasure.rancher.dcl.wdpr.disney.com
 treasure.smart-ship-helios.dcl.wdpr.disney.com
 treasure.smart-ship-svc.dcl.wdpr.disney.com
+treasure.smart-ship.dcl.wdpr.disney.com
 treasure.smartpipe.dcl.wdpr.disney.com
 treasure.svamvendor.dcl.wdpr.disney.com
 treasure.swellsteps-dse.dcl.wdpr.disney.com
@@ -44639,6 +44658,7 @@ www.igaservices.disney.com
 www.ilsgloballibrary.disney.com
 www.indiabms.uat.disney.com
 www.infinity.disney.com
+www.infosec.disney.com
 www.innoventions.disney.com
 www.insightiq.swna.wdpr.disney.com
 www.int.participations.studio.disney.com
@@ -45838,3 +45858,5 @@ zonal-stg-az.media.disney.com
 zookeeper-stage.wdw.disney.com
 zookeeper.ams.disney.com
 zookeeper.ams-dev.disney.com
+zookeeper.ams-qa.disney.com
+ztp.studio.disney.com

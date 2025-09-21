@@ -34,6 +34,7 @@
 *.ci-renovate-starlet-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-structl-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-types-b-record-harvester.dev.sdp.surf.nl
+*.ci-renovate-uvicorn-record-harvester.dev.sdp.surf.nl
 *.ci-send-deletes-record-harvester.dev.sdp.surf.nl
 *.ci-simplify-certs-record-harvester.dev.sdp.surf.nl
 *.ci-ssk-verzamelinge-record-harvester.dev.sdp.surf.nl
@@ -810,6 +811,7 @@ boarder.surf.nl
 boundary.exp.scz.lab.surf.nl
 boundary.exp.sram.lab.surf.nl
 browser.pilot1.sram.surf.nl
+buckets.pilot1.sram.surf.nl
 budget.storage.surf.nl
 bundle-http.playground.sdp.surf.nl
 ca.exp.sram.lab.surf.nl
@@ -850,6 +852,7 @@ ci-nplsinfr-753-sra-admin.cxp.dev.sdp.surf.nl
 ci-renovate-cr-surf-backstage.dev.sdp.surf.nl
 ci-renovate-cr-surf-monitoring.dev.sdp.surf.nl
 ci-renovate-eslint--admin.cxp.dev.sdp.surf.nl
+ci-renovate-fastapi-monitoring.dev.sdp.surf.nl
 ci-renovate-localst-monitoring.dev.sdp.surf.nl
 ci-renovate-mkdocs--monitoring.dev.sdp.surf.nl
 ci-renovate-mypy-1--monitoring.dev.sdp.surf.nl
@@ -3233,6 +3236,7 @@ raid.surf.nl
 raid1.surf.nl
 rclone.exp.scz.lab.surf.nl
 rclone.exp.sram.lab.surf.nl
+rdnlplatform.surf.nl
 rdp-web.exp.sram.lab.surf.nl
 rdp-web.pilot1.sram.surf.nl
 rdp.ia.surf.nl
@@ -4892,3 +4896,7 @@ zeventig.174.surf.nl
 zeventig.175.surf.nl
 zmail01p.ia.surf.nl
 zoekportaal.surf.nl
+zoekportaalback.surf.nl
+zoekportal.surf.nl
+zoekportalback.surf.nl
+zulip.sram.lab.surf.nl

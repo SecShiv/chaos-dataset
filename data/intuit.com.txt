@@ -548,6 +548,7 @@
 *.e2e.identity-plus.a.intuit.com
 *.e2e.incident-ai.a.intuit.com
 *.e2e.incident-assistant.a.intuit.com
+*.e2e.incident-copilot.a.intuit.com
 *.e2e.incident-management.a.intuit.com
 *.e2e.lc.a.intuit.com
 *.e2e.mint.intuit.com
@@ -1171,6 +1172,7 @@
 *.pl-data-lake-e2e.a.intuit.com
 *.pl-data-lake-prd-ue2.a.intuit.com
 *.pl-data-lake-prd.a.intuit.com
+*.placeholder-e2e-backend.api.a.intuit.com
 *.platform.intuit.com
 *.platform-sgmnt-prod-usw2.a.intuit.com
 *.playground.a.intuit.com
@@ -6883,8 +6885,10 @@ authkeygen.efe-prod-us-east-2.a.intuit.com
 authkeygen.efe-prod-us-west-2.a.intuit.com
 authkeygen.efe-prod.a.intuit.com
 authn-classic-a-authn-failover.identity-prd-us-east-2.a.intuit.com
+authn-classic-a-authn-failover.identity-prd-us-west-2.a.intuit.com
 authn-classic-a-dial.identity-prd.a.intuit.com
 authn-classic-a-failover-weighted.identity-prd-us-east-2.a.intuit.com
+authn-classic-a-failover-weighted.identity-prd-us-west-2.a.intuit.com
 authn-classic-a-failover.identity-prd-us-east-2.a.intuit.com
 authn-classic-a-iks2-authn-testing.identity-prd.a.intuit.com
 authn-classic-a-iks2-authn.identity-prd.a.intuit.com
@@ -6894,8 +6898,10 @@ authn-classic-a-iks2.identity-prd.a.intuit.com
 authn-classic-a-testing.identity-prd.a.intuit.com
 authn-classic-a.identity-prd.a.intuit.com
 authn-classic-b-authn-failover.identity-prd-us-east-2.a.intuit.com
+authn-classic-b-authn-failover.identity-prd-us-west-2.a.intuit.com
 authn-classic-b-dial.identity-prd.a.intuit.com
 authn-classic-b-failover-weighted.identity-prd-us-east-2.a.intuit.com
+authn-classic-b-failover-weighted.identity-prd-us-west-2.a.intuit.com
 authn-classic-b-failover.identity-prd-us-east-2.a.intuit.com
 authn-classic-b-iks2-authn-failover.identity-prd.a.intuit.com
 authn-classic-b-iks2-authn-testing.identity-prd.a.intuit.com
@@ -23990,6 +23996,9 @@ efe-pr-ams-payroll.payrollboprdusw2.iks2.a.intuit.com
 efe-pr-csi-payroll.composite-prod-use2.iks.a.intuit.com
 efe-pr-csi-payroll.composite-prod-usw2.iks.a.intuit.com
 efe-pr-tke-payroll.payrollbo-usw2-prd.iks.a.intuit.com
+efe-prd-filing-processor-core.cgtaxproduse2.iks2.a.intuit.com
+efe-prd-filing-processor-core.cgtaxprodusw2.iks2.a.intuit.com
+efe-prd-global-service-core.cgtaxproduse2.iks2.a.intuit.com
 efe-pre-prod-us-east-1.a.intuit.com
 efe-pre-prod-us-east-2.a.intuit.com
 efe-pre-prod-us-west-2.a.intuit.com
@@ -27960,6 +27969,8 @@ filing-prf-lvdc.tax.intuit.com
 filing-prf-qydc.tax.intuit.com
 filing-prfap.ilb.intuit.com
 filing-prfws.ilb.intuit.com
+filing-processor-core-taxfiling.cgtaxproduse2.iks2.a.intuit.com
+filing-processor-core-taxfiling.cgtaxprodusw2.iks2.a.intuit.com
 filing-prod.a.intuit.com
 filing-qal-qydc.tax.intuit.com
 filing-tax-aws.tax.intuit.com
@@ -29861,6 +29872,7 @@ global-payroll-workermgmt.payrollprdusw2.iks2.a.intuit.com
 global-prd-magic-ui-forms.sbgcompprdusw2.iks2.a.intuit.com
 global-prd-notifications-service.sbgcompprdusw2.iks2.a.intuit.com
 global-pref-integ-gotomarket.growthprdusw2.iks2.a.intuit.com
+global-service-core-taxfiling.cgtaxproduse2.iks2.a.intuit.com
 global-stg-magic-ui-forms.sbgcompprdusw2.iks2.a.intuit.com
 global-stg-notifications-service.sbgcompprdusw2.iks2.a.intuit.com
 global-translation-prd-gitopsconnector.sbgcompprdusw2.iks2.a.intuit.com
@@ -39081,8 +39093,11 @@ identity-prd-user-mgmt-orchestration-stable.identityprduse2.iks2.a.intuit.com
 identity-prd-user-mgmt-orchestration-stable.identityprdusw2.iks2.a.intuit.com
 identity-prd.a.intuit.com
 identity-prda-1-authn-classic-albc-desired.authnprduse2.iks2.a.intuit.com
+identity-prda-1-authn-classic-albc-desired.authnprdusw2.iks2.a.intuit.com
 identity-prda-1-authn-classic-albc-root.authnprduse2.iks2.a.intuit.com
+identity-prda-1-authn-classic-albc-root.authnprdusw2.iks2.a.intuit.com
 identity-prda-1-authn-classic-albc-stable.authnprduse2.iks2.a.intuit.com
+identity-prda-1-authn-classic-albc-stable.authnprdusw2.iks2.a.intuit.com
 identity-prda-authn-classic-albc-desired.identitycrprduse2.iks2.a.intuit.com
 identity-prda-authn-classic-albc-desired.identitycrprdusw2.iks2.a.intuit.com
 identity-prda-authn-classic-albc-stable.identitycrprduse2.iks2.a.intuit.com
@@ -39108,6 +39123,7 @@ identity-prdb-1-authn-classic-albc-desired.authnprdusw2.iks2.a.intuit.com
 identity-prdb-1-authn-classic-albc-root.authnprduse2.iks2.a.intuit.com
 identity-prdb-1-authn-classic-albc-root.authnprdusw2.iks2.a.intuit.com
 identity-prdb-1-authn-classic-albc-stable.authnprduse2.iks2.a.intuit.com
+identity-prdb-1-authn-classic-albc-stable.authnprdusw2.iks2.a.intuit.com
 identity-prdb-authn-classic-albc-desired.identitycrprduse2.iks2.a.intuit.com
 identity-prdb-authn-classic-albc-desired.identitycrprdusw2.iks2.a.intuit.com
 identity-prdb-authn-classic-albc-stable.identitycrprduse2.iks2.a.intuit.com
@@ -76587,6 +76603,12 @@ tax-prd-spark-config-service.cgrtbprdusw2.iks2.a.intuit.com
 tax-prd-spark-service.cgrtbprdusw2.iks2.a.intuit.com
 tax-prd-static-analysis-service.cgrtbprdusw2.iks2.a.intuit.com
 tax-prd-tax-grid-service.cgrtbprdusw2.iks2.a.intuit.com
+tax-prd-tax-organizer-albc-desired.pcgprduse2.iks2.a.intuit.com
+tax-prd-tax-organizer-albc-desired.pcgprdusw2.iks2.a.intuit.com
+tax-prd-tax-organizer-albc-root.pcgprduse2.iks2.a.intuit.com
+tax-prd-tax-organizer-albc-root.pcgprdusw2.iks2.a.intuit.com
+tax-prd-tax-organizer-albc-stable.pcgprduse2.iks2.a.intuit.com
+tax-prd-tax-organizer-albc-stable.pcgprdusw2.iks2.a.intuit.com
 tax-prd-tax-organizer-root.pcgprduse2.iks2.a.intuit.com
 tax-prd-tax-organizer-root.pcgprdusw2.iks2.a.intuit.com
 tax-prd-tax-organizer.pcgprduse2.iks2.a.intuit.com
@@ -93107,4 +93129,3 @@ zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
 zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
-zycada.quickbooks.intuit.com

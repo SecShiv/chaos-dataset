@@ -337,6 +337,7 @@ funding-api.k8s-stg-usc1.s.gcp.oanda.com
 funding-api.oanda-live-fx-dmz-cluster-1.gcp.oanda.com
 funding-api.oanda-stglive-fx-dmz-cluster-1.gcp.oanda.com
 funding-dr.k8s-prod-usc1.dr.gcp.oanda.com
+funding-feadmin.k8s-prod-usc1.dr.gcp.oanda.com
 funding-feadmin.k8s-prod-use4.p.gcp.oanda.com
 funding-feadmin.k8s-stg-usc1.s.gcp.oanda.com
 funding-feadmin.k8s-uat-usc1.u.gcp.oanda.com
@@ -426,6 +427,7 @@ grafana.oj.oanda.com
 grafana.practice.oanda.com
 grafana.sfb.oanda.com
 grafana.web.oanda.com
+grafana2.oanda-nonprod-observability-cluster-1.i.gcp.oanda.com
 hedging-proxy.k8s-prod-use4.p.gcp.oanda.com
 hello.oanda.com
 hello-world-vamp.oanda-ri-test-cluster-3.gcp.oanda.com
@@ -1103,6 +1105,7 @@ services-user-interceptor-dark.k8s-stg-usc1.s.gcp.oanda.com
 services-user-interceptor.k8s-stg-usc1.s.gcp.oanda.com
 services-user-interceptor.k8s-uat-usc1.u.gcp.oanda.com
 services-user-management-automation.k8s-uat-usc1.u.gcp.oanda.com
+services-user-management-dark.k8s-prod-euw3.p.gcp.oanda.com
 services-user-management-dark.k8s-prod-use4.p.gcp.oanda.com
 services-user-management-dark.k8s-stg-euw3.s.gcp.oanda.com
 services-user-management-dark.k8s-stg-usc1.s.gcp.oanda.com
@@ -1110,6 +1113,7 @@ services-user-management-listener.k8s-prod-use4.p.gcp.oanda.com
 services-user-management-listener.k8s-stg-usc1.s.gcp.oanda.com
 services-user-management-listener.k8s-uat-usc1.u.gcp.oanda.com
 services-user-management.k8s-prod-use4.p.gcp.oanda.com
+services-user-management.k8s-stg-asne1.s.gcp.oanda.com
 services-user-management.k8s-stg-euw3.s.gcp.oanda.com
 services-user-management.k8s-stg-usc1.s.gcp.oanda.com
 services-user-management.k8s-uat-usc1.u.gcp.oanda.com
@@ -1175,6 +1179,7 @@ sitegateway-streaming-demo.k8s-stg-asne1.s.gcp.oanda.com
 sitegateway-streaming-demo.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway-streaming-demo.k8s-stg-usc1.s.gcp.oanda.com
 sitegateway-streaming.k8s-dev-usc1.d.gcp.oanda.com
+sitegateway-streaming.k8s-prod-asne1.p.gcp.oanda.com
 sitegateway-streaming.k8s-prod-euw3.p.gcp.oanda.com
 sitegateway-streaming.k8s-stg-asne1.s.gcp.oanda.com
 sitegateway-streaming.k8s-stg-euw3.s.gcp.oanda.com
@@ -1410,6 +1415,7 @@ up-candles.k8s-stg-usc1.s.gcp.oanda.com
 up-candles.k8s-uat-asne1.u.gcp.oanda.com
 up-candles.k8s-uat-euw3.u.gcp.oanda.com
 up-candles.k8s-uat-usc1.u.gcp.oanda.com
+up-cdn.k8s-prod-use4.p.gcp.oanda.com
 up-cdn.k8s-stg-usc1.s.gcp.oanda.com
 up-execution.k8s-prod-asne1.p.gcp.oanda.com
 up-execution.k8s-prod-euw3.p.gcp.oanda.com
@@ -1526,6 +1532,7 @@ vault.vault-cluster-2-prod.i.gcp.oanda.com
 vault.vault-cluster-3-prod.i.gcp.oanda.com
 vault.vault-cluster-4-prod.i.gcp.oanda.com
 vault.vaultc-nonprod-cluster.i.gcp.oanda.com
+vault.vaultc-prod-cluster.i.gcp.oanda.com
 vault.vaulte-cluster-1-nonprod.i.gcp.oanda.com
 vault.vaulte-cluster-2-nonprod.i.gcp.oanda.com
 vaulte.vault-cluster-1-nonprod.i.gcp.oanda.com
