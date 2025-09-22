@@ -2201,6 +2201,7 @@ dashboard-helm.awscmhqa.k8s.indeed.tech
 dashboard-helm.ospureadmin.k8s.indeed.tech
 dashboard-helm.osqa.k8s.indeed.tech
 data.indeed.tech
+data-asset-inventory-service-qahttp.awscmhinfra3.k8s.indeed.tech
 data-asset-inventory-service.awscmhqa5.k8s.indeed.tech
 data.qa.indeed.tech
 data.qa.awscmhqa4.k8s.indeed.tech
@@ -2241,6 +2242,7 @@ debezium-orchestrator-qa.dataeng.indeed.tech
 debezium-orchestrator-qa.dataeng.k8s.indeed.tech
 decommissioner-api.awscmhinfra2.k8s.indeed.tech
 decommissioner-api.awscmhinfra3.k8s.indeed.tech
+decommissioner-api.awscmhqa5.k8s.indeed.tech
 decrypt.cmhprod1.k8s.indeed.tech
 decrypt.cmhprod2.k8s.indeed.tech
 decrypt.cmhprod3.k8s.indeed.tech
@@ -2413,6 +2415,7 @@ docker-registry.awsdca.k8s.indeed.tech
 docker-registry.awsdca2.k8s.indeed.tech
 docker-registry.awsdub.k8s.indeed.tech
 docker-registry.awsdub2.k8s.indeed.tech
+docker-registry.awsfra1.k8s.indeed.tech
 docker-registry.awsnrt.k8s.indeed.tech
 docker-registry.awsnrt2.k8s.indeed.tech
 docker-registry.awsnrt3.k8s.indeed.tech
@@ -9525,10 +9528,13 @@ sup.us-east-2.indeed.tech
 sup.us-east-2.infra.indeed.tech
 superadmin.sandbox.zapinfo.indeed.tech
 svats-hello.awscmhqa3.k8s.indeed.tech
+swift-jobs.indeed.tech
+swift-jobs.awscmh5.k8s.indeed.tech
 swift-jobs.awscmhqa4.k8s.indeed.tech
 swift-jobs.qa.indeed.tech
 swift-jobs.qa.awscmhqa4.k8s.indeed.tech
 swift-jobs.qa.us-east-2.indeed.tech
+swift-jobs.us-east-2.indeed.tech
 swift-jobs.us-east-2.qa.indeed.tech
 swift-metadata-exploration.indeed.tech
 swift-metadata-exploration.awscmh5.k8s.indeed.tech
@@ -10677,6 +10683,7 @@ violet.qa.k8s.indeed.tech
 violet.tyates.dev.indeed.tech
 visibility-draw-plugin.cmh.k8s.indeed.tech
 vispana.awscmhqa3.k8s.indeed.tech
+vortex-czhang.awscmhqa5.k8s.indeed.tech
 vortex-example-cf-http-log-flink-service.awscmhqa5.k8s.indeed.tech
 vortex-mdp-feature-builder-experimental.awscmh6.k8s.indeed.tech
 vortex-mdp-mvc.awscmhqa4.k8s.indeed.tech
@@ -11033,3 +11040,4 @@ zeebe.osqa.k8s.indeed.tech
 zentral.cpe.indeed.tech
 zentral.staging.cpe.indeed.tech
 zhiyuan-test-lemma-webapp.awscmhqa3.k8s.indeed.tech
+ztna.indeed.tech

@@ -658,6 +658,7 @@ customer-hub-task-14155-cleanup-mdbhubauth.ts-tools.staging.corp.mongodb.com
 customer-portal-backend.ts-tools.staging.corp.mongodb.com
 customer-portal-cms.ts-tools.staging.corp.mongodb.com
 customer-portal-frontend.ts-tools.staging.corp.mongodb.com
+customer-portal-main.ts-tools.staging.corp.mongodb.com
 customer-portal-uat-task-15088.ts-tools.staging.corp.mongodb.com
 customer-portal.ts-tools.staging.corp.mongodb.com
 dag-jaeger-collector.gateway.staging.corp.mongodb.com
@@ -853,6 +854,7 @@ elq.mongodb.com
 em.mongodb.com
 email.mongodb.com
 embeddings.cloud-atlas-search.staging.corp.mongodb.com
+emvee-cluster-sync.corps.staging.corp.mongodb.com
 emvee-gateway.corps.staging.corp.mongodb.com
 emvee-preprod.corps.prod.corp.mongodb.com
 emvee.corps.staging.corp.mongodb.com
@@ -1268,6 +1270,7 @@ mycelium-qa6.website.staging.corp.mongodb.com
 mycelium-qa9.website.staging.corp.mongodb.com
 myflaskapp.sa-demo.staging.corp.mongodb.com
 n.mongodb.com
+nextjs.mongodb.com
 nginx.ts-tools.staging.corp.mongodb.com
 nightwatch.corp.mongodb.com
 nimbus.prod.corp.mongodb.com
@@ -2001,4 +2004,3 @@ yuzhou.devops.test.corp.mongodb.com
 yuzhou2.devops.test.corp.mongodb.com
 zap-dev.salesops.staging.corp.mongodb.com
 zd-approvals.corp.mongodb.com
-zen-approvals.corp.mongodb.com

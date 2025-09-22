@@ -34,6 +34,7 @@
 *.k8s.sas-viya-p.cnap-am4.intranet.rws.nl
 *.k8s.sas-viya-sandbox.cnap-am4.intranet.rws.nl
 *.k8s.secupi-prod.cnap-am4.intranet.rws.nl
+*.k8s.secupi.cnap-am4.intranet.rws.nl
 *.k8s.spin-a.cnap-am4.intranet.rws.nl
 *.k8s.spin-p.cnap-am2.intranet.rws.nl
 *.k8s.spin-p.cnap-am4.intranet.rws.nl
@@ -332,6 +333,7 @@ docker-all.cisvm.intranet.rws.nl
 docker.cisvm.intranet.rws.nl
 documentatie.vm-02.azure.grid.rws.nl
 domeintabellen-idsw.rws.nl
+drm.edge.rws.nl
 druid-router.druidtest.test.vm-04.azure.grid.rws.nl
 druid.acceptatie.vm-05.azure.grid.rws.nl
 druid.test.vm-05.azure.grid.rws.nl
@@ -408,6 +410,7 @@ gitlab.dev.at.rws.nl
 glcr-dev.dev.at.rws.nl
 glcr.dev.at.rws.nl
 gmg301.rws.nl
+grafana-acc.vm-02.azure.grid.rws.nl
 grafana-test.vm-02.azure.grid.rws.nl
 grafana.cnpg.dev.at.rws.nl
 grafana.dev.at.rws.nl
@@ -1020,6 +1023,7 @@ taranis.intranet.rws.nl
 taz-cronus-s-rabbitmq.infra-24.azure.grid.rws.nl
 taz-grafana.infra-24.azure.grid.rws.nl
 taz-k8s-dashboard.infra-24.azure.grid.rws.nl
+taz-minio-api.infra-24.azure.grid.rws.nl
 techniekacademie.rws.nl
 tempeov.rws.nl
 tenant1.minio.dev.at.rws.nl
@@ -1440,5 +1444,3 @@ www.wiki.rws.nl
 www.wisboa.rws.nl
 www.xwd.rws.nl
 www.zwerfafval.rws.nl
-xwd.rws.nl
-zwerfafval.rws.nl

@@ -841,6 +841,7 @@ prometheus.k8s-dev-euw3.d.gcp.oanda.com
 prometheus.k8s-dev-euw3.dd.gcp.oanda.com
 prometheus.k8s-dev-usc1.d.gcp.oanda.com
 prometheus.k8s-dev-usc1.dd.gcp.oanda.com
+prometheus.k8s-infra-euw3.i.gcp.oanda.com
 prometheus.k8s-infra-logs-nonprod.i.gcp.oanda.com
 prometheus.k8s-infra-logs-prod-euw3.i.gcp.oanda.com
 prometheus.k8s-infra-logs-prod.i.gcp.oanda.com
@@ -892,6 +893,7 @@ push.k8s-corp-usc1.c.gcp.oanda.com
 push.k8s-dev-asne1.d.gcp.oanda.com
 push.k8s-dev-euw3.d.gcp.oanda.com
 push.k8s-dev-usc1.d.gcp.oanda.com
+push.k8s-infra-euw3.i.gcp.oanda.com
 push.k8s-infra-logs-nonprod.i.gcp.oanda.com
 push.k8s-infra-logs-prod-euw3.i.gcp.oanda.com
 push.k8s-infra-logs-prod.i.gcp.oanda.com
@@ -938,6 +940,7 @@ pushgateway.k8s-corp-usc1.c.gcp.oanda.com
 pushgateway.k8s-dev-asne1.d.gcp.oanda.com
 pushgateway.k8s-dev-euw3.d.gcp.oanda.com
 pushgateway.k8s-dev-usc1.d.gcp.oanda.com
+pushgateway.k8s-infra-euw3.i.gcp.oanda.com
 pushgateway.k8s-infra-logs-nonprod.i.gcp.oanda.com
 pushgateway.k8s-infra-logs-prod-euw3.i.gcp.oanda.com
 pushgateway.k8s-infra-logs-prod.i.gcp.oanda.com
@@ -1533,6 +1536,7 @@ vault.vault-cluster-3-prod.i.gcp.oanda.com
 vault.vault-cluster-4-prod.i.gcp.oanda.com
 vault.vaultc-nonprod-cluster.i.gcp.oanda.com
 vault.vaultc-prod-cluster.i.gcp.oanda.com
+vault.vaultc-prod-dr-cluster.i.gcp.oanda.com
 vault.vaulte-cluster-1-nonprod.i.gcp.oanda.com
 vault.vaulte-cluster-2-nonprod.i.gcp.oanda.com
 vaulte.vault-cluster-1-nonprod.i.gcp.oanda.com
@@ -1581,4 +1585,3 @@ www3.oanda.com
 www4.oanda.com
 x.oanda.com
 yyz.oanda.com
-zabbix-uat.svc.ri.oanda.com

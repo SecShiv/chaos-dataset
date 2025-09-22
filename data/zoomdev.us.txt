@@ -1488,6 +1488,7 @@ devbdocs.zoomdev.us
 devbdocs-internal.zoomdev.us
 devbdocs-internal-va1.zoomdev.us
 devbdocs-va1.zoomdev.us
+devbfilem.zoomdev.us
 devbgeneric-billing.zoomdev.us
 devbhome-destination.zoomdev.us
 devbhome-destination.cloud.zoomdev.us
@@ -3240,6 +3241,7 @@ meetingquery-beta-globaldev.zoomdev.us
 meetingquery-beta-zmdev-aws-us-east-1.zoomdev.us
 meetingquery-beta-zmdev-aws-us-east-1.ai.zoomdev.us
 meetingquery-globaldev.zoomdev.us
+meetingquery-stress-aws-us-east-1.ai.zoomdev.us
 meetingquery-zmdev-aws-us-east-1.zoomdev.us
 meetingquery-zmdev-aws-us-east-1.ai.zoomdev.us
 meetingquery-zmdev-oci-us-ashburn-1.ai.zoomdev.us
@@ -4234,6 +4236,7 @@ qa01cci-va-internal.zoomdev.us
 qa01cci-va2.zoomdev.us
 qa01cci-va2-internal.zoomdev.us
 qa01ccireport-va.zoomdev.us
+qa01ccivoice01.z1.zoomdev.us
 qa01ccizp.zoomdev.us
 qa01ccizp-a.zoomdev.us
 qa01ccizp-c.zoomdev.us
@@ -4299,6 +4302,7 @@ qa01ocicci-va2.zoomdev.us
 qa01ocicci-va2-internal.zoomdev.us
 qa01ociccinginx01.z1.zoomdev.us
 qa01ociccireport-va.zoomdev.us
+qa01ociccistatic-test-abhi.zoomdev.us
 qa01ociccivoice-haproxy-test.zoomdev.us
 qa01ociccivoice-usoci.zoomdev.us
 qa01ociccivoice01.z2.zoomdev.us
@@ -4343,6 +4347,7 @@ qa01pbx-failover-a.zoomdev.us
 qa01pbx-failover-b.zoomdev.us
 qa01pbx-grafana.zoomdev.us
 qa01pbx-opensips.zone11.zoomdev.us
+qa01pbx-opensips.zone11-test.zoomdev.us
 qa01pbx-prometheus.zoomdev.us
 qa01pbx-va.zoomdev.us
 qa01pbx-va2.zoomdev.us
