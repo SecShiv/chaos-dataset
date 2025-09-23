@@ -113,6 +113,7 @@
 *.gke-uc1-qa-1-4z4qq.qa-1.qa.cld.elstc.co
 *.gke-uc1-stg-1-5shjm.staging-1.staging.cld.elstc.co
 *.gke-uc1-stg-2-p5jmd.staging-1.staging.cld.elstc.co
+*.ingest.eu-west-1.aws.qa.cld.elstc.co
 *.kb.aks-eastus2-qa-2-wlsmk.qa-1.qa.cld.elstc.co
 *.kb.azure-qa-eastus2-app-1-aks-nl98x.qa-1.qa.cld.elstc.co
 *.kb.azure-qa-eastus2-app-1-aks.qa.cld.elstc.co
@@ -503,6 +504,7 @@ dev-auth.ea-stargate.elstc.co
 dev-banner-refactor.app.elstc.co
 dev-blog-category-detail-pagination.app.elstc.co
 dev-blog-l10n-labels-15605.app.elstc.co
+dev-blog-table-styles.app.elstc.co
 dev-blog-toc-15605.app.elstc.co
 dev-blog-toc.app.elstc.co
 dev-blogarchivedetail-15968.app.elstc.co
@@ -6428,6 +6430,7 @@ nginx-ingress-test-44256.elastic-uploader-production.elstc.co
 nginx-ingress-test-44270.ea-registry-staging.elstc.co
 nginx-ingress-test-44273.elastic-uploader-production.elstc.co
 nginx-ingress-test-44278.ea-release.elstc.co
+nginx-ingress-test-44290.ea-registry-production.elstc.co
 nginx-ingress-test-44290.ea-release.elstc.co
 nginx-ingress-test-44295.ea-release.elstc.co
 nginx-ingress-test-44341.ea-release.elstc.co

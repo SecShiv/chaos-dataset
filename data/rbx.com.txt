@@ -54,6 +54,7 @@
 *.astro.prod-engine.dic.rbx.com
 *.bloxid.rbx.com
 *.bloxvisualizer.st3.rbx.com
+*.cbar.bloxid.dev.rbx.com
 *.code-migration-app.st3.rbx.com
 *.core.airflow2.di.rbx.com
 *.cortex.rbx.com
@@ -337,6 +338,7 @@ camunda.ros-snap.rbx.com
 camunda.ros-stg.rbx.com
 cargo-registry.rbx.com
 cargo-registry-stage.rbx.com
+cbar.bloxid.dev.rbx.com
 ccov-ext.rbx.com
 ccov-play.rbx.com
 cdctl.rbx.com
@@ -494,6 +496,7 @@ github-test.rbx.com
 grafana.rbx.com
 grafana-stage.rbx.com
 grafana.astro-dev.di.rbx.com
+grpc.dev.follower.rbx.com
 grpc.dev.mewtwo.rbx.com
 grpc.mewtwo.rbx.com
 grpc.stage.mewtwo.rbx.com

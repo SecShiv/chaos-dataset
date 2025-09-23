@@ -72,6 +72,7 @@
 *.dev.akd-auditor.cloudflare.com
 *.developers.cloudflare.com
 *.devices.cloudflare.com
+*.devices.fed.cloudflare.com
 *.discord.cloudflare.com
 *.dlp.teams.cloudflare.com
 *.dns.cloudflare.com
@@ -162,6 +163,7 @@
 *.pkg.cloudflare.com
 *.platform.dash.cloudflare.com
 *.platform.dash.staging.cloudflare.com
+*.playground.x402.cloudflare.com
 *.plexi-dev.key-transparency.cloudflare.com
 *.plexi-staging.key-transparency.cloudflare.com
 *.plexi.key-transparency.cloudflare.com
@@ -8602,6 +8604,7 @@ dev.ssf.risk-score.teams.cloudflare.com
 dev.validation-worker.dlp.teams.cloudflare.com
 developers.cloudflare.com
 devices.cloudflare.com
+devices.fed.cloudflare.com
 devin.ns.cloudflare.com
 dexter.ns.cloudflare.com
 diablo.cloudflare.com
@@ -10155,6 +10158,9 @@ rafe.ns.cloudflare.com
 rag.ai.cloudflare.com
 raina.ns.cloudflare.com
 rainfocusadmin.www.cloudflare.com
+raio2026h1a.ct.cloudflare.com
+raio2027h1a.ct.cloudflare.com
+raio2027h2a.ct.cloudflare.com
 rajeev.ns.cloudflare.com
 ram.dfw01.linode.cloudflare.com
 ram.ns.cloudflare.com
@@ -10276,6 +10282,7 @@ satriaif1.cloudflare.com
 savanna.ns.cloudflare.com
 scdnjs.cloudflare.com
 scott.ns.cloudflare.com
+sdk-assets.realtime.cloudflare.com
 sdns-61.com.brett.ns.cloudflare.com
 seamus.ns.cloudflare.com
 sean.ns.cloudflare.com
@@ -18161,6 +18168,7 @@ staging.cloudflare.com
 staging-api.privacy-auditability.cloudflare.com
 staging-dash.key-transparency.cloudflare.com
 staging.abuse.cloudflare.com
+staging.admin.certifications.cloudflare.com
 staging.ai-worker.dlp.teams.cloudflare.com
 staging.akd-auditor.cloudflare.com
 staging.api.sqlite.cloudflare.com
@@ -18260,6 +18268,7 @@ test.phishnet.cloudflare.com
 test.polygon.cloudflare.com
 tg-probemanager.labs.cloudflare.com
 tg-probemanager.staging.labs.cloudflare.com
+tg-subs.staging.labs.cloudflare.com
 th-th.www.cloudflare.com
 thaddeus.ns.cloudflare.com
 thea.ns.cloudflare.com
@@ -18494,5 +18503,3 @@ zlnvl.tw.cdn.cloudflare.com
 zod.ns.cloudflare.com
 zoe.ns.cloudflare.com
 ztx-bff-staging.teams.cloudflare.com
-ztx-bff.teams.cloudflare.com
-ztx-webhooks.one.dash.cloudflare.com

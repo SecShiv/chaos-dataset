@@ -15667,6 +15667,7 @@ aft-pack-config-iad-ca-iad.iad.proxy.amazon.com
 aft-pack-config-iad.iad.proxy.amazon.com
 aft-pack-config-nrt-ca-nrt.nrt.proxy.amazon.com
 aft-pack-config-nrt.nrt.proxy.amazon.com
+aft-pack-config-zaz.aka.amazon.com
 aft-pack-config.integ.amazon.com
 aft-poirot-website-alpha.na.integ.aftx.amazon.com
 aft-poirot-website-beta.na.integ.aftx.amazon.com
@@ -21394,6 +21395,7 @@ bb-ops-console-iad-pod04.aea.amazon.com
 bb-ops-console-iad-pod05-aka.aea.amazon.com
 bb-ops-console-iad-pod05.aka.amazon.com
 bb-ops-console-iad-pod07.aka.amazon.com
+bb-ops-console-iad-pod09.aka.amazon.com
 bb-ops-console-iad.aea.amazon.com
 bb-ops-console-nrt.amazon.com
 bb-ops-console-nrt-pod01.amazon.com
@@ -25423,6 +25425,7 @@ contractcentraladmin-test.integ.amazon.com
 contractcentraladmin.corp.amazon.com
 contractcentralstage.amazon.com
 contracts.amazon.com
+contribute.ivs.ap-south-1.amazon.com
 contribution-remover.amazon.com
 contribution-remover-jlb-l-iad.iad.proxy.amazon.com
 contribution-remover-jlb.integ.amazon.com
@@ -25804,6 +25807,7 @@ crimson.integ.amazon.com
 crisp.amazon.com
 crisp-eu-alpha.corp.amazon.com
 crisp-eu.corp.amazon.com
+crisp-fe.corp.amazon.com
 crisp-gamma-iad.iad.proxy.amazon.com
 crisp-gamma-jlb.aka.amazon.com
 crisp-gamma-jlb2-iad.iad.proxy.amazon.com
@@ -30157,6 +30161,7 @@ ec2-tagging-service-tcp-prod.mel.amazon.com
 ec2-tagging-service-tcp-prod.tlv.amazon.com
 ec2-tagging-service-tcp-prod.zaz.amazon.com
 ec2-tagging-service-tcp-prod.zrh.amazon.com
+ec2-test-bastions-pilot-pdx80.corp.amazon.com
 ec2-topdog.amazon.com
 ec2-ups.amazon.com
 ec2-ups-gamma.amazon.com
@@ -34361,6 +34366,7 @@ golive-voyage-iad.iad.proxy.amazon.com
 golive-whizz-iad.iad.proxy.amazon.com
 golive.corp.amazon.com
 goodreads-preview.aka.amazon.com
+gopaljim-bye.dev.creatorstudio.amazon.com
 gopiper.corp.amazon.com
 goplay-gamma.corp.amazon.com
 goplay.corp.amazon.com
@@ -42298,6 +42304,8 @@ mdld-trn2.corp.amazon.com
 mdld-wro4.corp.amazon.com
 mdld-yyz8.corp.amazon.com
 mdm-iad.amazon.com
+mdps-kannadi-dashboard-fe-prod.aka.amazon.com
+mdps-kannadi-dashboard-na-prod.aka.amazon.com
 mdps-kannadi-eu-dashboard-dub.dub.proxy.amazon.com
 mdps-kannadi-eu-dashboard.integ.amazon.com
 mdps-kannadi-fe-dashboard-pdx.pdx.proxy.amazon.com
@@ -42951,6 +42959,8 @@ missp.amazon.com
 missp-alpha.integ.amazon.com
 missp-beta.integ.amazon.com
 mist-opstech-prod.corp.amazon.com
+misv2-akl-gamma.corp.amazon.com
+misv2-akl.corp.amazon.com
 misv2-arn-gamma.corp.amazon.com
 misv2-arn.corp.amazon.com
 misv2-bah-gamma.corp.amazon.com
@@ -42966,6 +42976,7 @@ misv2-cgk-gamma.corp.amazon.com
 misv2-cgk.corp.amazon.com
 misv2-cpt-gamma.corp.amazon.com
 misv2-cpt.corp.amazon.com
+misv2-dxb-gamma.corp.amazon.com
 misv2-dxb.corp.amazon.com
 misv2-fra-gamma.corp.amazon.com
 misv2-fra.corp.amazon.com
@@ -42995,6 +43006,7 @@ misv2-qro-gamma.corp.amazon.com
 misv2-qro.corp.amazon.com
 misv2-syd-gamma.corp.amazon.com
 misv2-syd.corp.amazon.com
+misv2-thf-gamma.corp.amazon.com
 misv2-tlv-gamma.corp.amazon.com
 misv2-tlv.corp.amazon.com
 misv2-tpe-gamma.corp.amazon.com
@@ -50937,6 +50949,7 @@ s3-smcs.bah.amazon.com
 s3-sunny-min.corp.amazon.com
 s3-throttleco-gamma-dub.aka.amazon.com
 s3-throttleco-gamma-iad.aka.amazon.com
+s3-throttleco-prod-akl.aka.amazon.com
 s3-throttleco-prod-arn.aka.amazon.com
 s3-throttleco-prod-bah.aka.amazon.com
 s3-throttleco-prod-bjs.aka.amazon.com
@@ -55018,6 +55031,7 @@ sort-foresight-ui-pp-eu-jlb-dub.dub.proxy.amazon.com
 sort-foresight-ui-preprod-na-iad.iad.proxy.amazon.com
 sort-foresight-ui-preprod-na-jlb-new-iad.iad.proxy.amazon.com
 sort-foresight-ui-prod-eu-jlb-dub.dub.proxy.amazon.com
+sort-jp-gamma.aka.amazon.com
 sort-jp.aka.amazon.com
 sort-transship-items.eu.aftx.amazon.com
 sort-transship-items.na.integ.aftx.amazon.com
@@ -55710,6 +55724,7 @@ stockadmin-alpha.corp.amazon.com
 stockadmin-baker.corp.amazon.com
 stockadmin-beta.corp.amazon.com
 stockadmin-dev-alpha.corp.amazon.com
+stockadmin-tax-alpha.corp.amazon.com
 stockadmin-test-alpha.corp.amazon.com
 stockadmin-test-beta.corp.amazon.com
 stockadmin-test-gamma.corp.amazon.com
@@ -59616,6 +59631,7 @@ vpp-gb-gamma.aka.amazon.com
 vpp-in-gamma.aka.amazon.com
 vpp-in.integ.amazon.com
 vpp-jp-gamma.aka.amazon.com
+vpp-sg-gamma.aka.amazon.com
 vpp-us-gamma.aka.amazon.com
 vpp.integ.amazon.com
 vqd-app-na.amazon.com
@@ -60053,6 +60069,7 @@ wheeljack-gamma.corp.amazon.com
 wheeljack.corp.amazon.com
 whereismybook-prod-iad.iad.proxy.amazon.com
 whereismybook-test.integ.amazon.com
+whichbox-iad-kannadi-dashboard-iad.iad.proxy.amazon.com
 whily-eu.aka.amazon.com
 whily-jp.aka.amazon.com
 whily.aka.amazon.com

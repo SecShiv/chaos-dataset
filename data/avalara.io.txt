@@ -269,6 +269,7 @@
 *.raas.avalara.io
 *.raas-prd.mylodgetax.raas.avalara.io
 *.raas-rc.raas.sbx.avalara.io
+*.raas-sbx.mylodgetax.raas.avalara.io
 *.raas-us-common.raas.dev.avalara.io
 *.raas-us-common.raas.qa.avalara.io
 *.raas-us-common.raas.stg.avalara.io
@@ -1634,6 +1635,7 @@ questionnaire-clustering.midgard.stg.avalara.io
 raas-prd.mylodgetax.raas.avalara.io
 raas-rc.raas.sbx.avalara.io
 raas-returns.raas.dev.avalara.io
+raas-sbx.mylodgetax.raas.avalara.io
 raas-us-common.raas.dev.avalara.io
 raas-us-common.raas.qa.avalara.io
 raas-us-common.raas.stg.avalara.io
@@ -2015,5 +2017,3 @@ zincron-sbx.midgard.avalara.io
 zincron.midgard.avalara.io
 zincron.midgard.qa.avalara.io
 zincron.midgard.stg.avalara.io
-zuora-basic.dev.avalara.io
-zuora-iia.dev.avalara.io

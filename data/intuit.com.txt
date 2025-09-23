@@ -776,6 +776,7 @@
 *.identity-qa.a.intuit.com
 *.identity-qal.a.intuit.com
 *.identity-vinnet.e2e.us-east-2.a.intuit.com
+*.identity-vinnet.e2e.us-west-2.a.intuit.com
 *.identity-vinnet.pr.us-west-2.a.intuit.com
 *.identity-vinnet.prd.us-east-2.a.intuit.com
 *.identity-vinnet.prf.us-east-2.a.intuit.com
@@ -1536,6 +1537,7 @@
 *.sbx.turbotaxonline.intuit.com
 *.sd.intuit.com
 *.sdg.bos.intuit.com
+*.sdm.a.intuit.com
 *.secfraud-lineage-e2e.a.intuit.com
 *.secrnd-devops-services-dev.a.intuit.com
 *.security-dev.ctodev.intuit.com
@@ -16083,6 +16085,9 @@ collab-inboundcont-stg-routing-service.vepprdusw2.iks2.a.intuit.com
 collab-instantmes-prd-slack-events-ips-sync.t4iprdusw2.iks2.a.intuit.com
 collab-instantmes-stg-slack-events-ips-sync.t4iprdusw2.iks2.a.intuit.com
 collab-local.intuit.com
+collab-prd-automated-request-mgr-albc-desired.pcgprdusw2.iks2.a.intuit.com
+collab-prd-automated-request-mgr-albc-root.pcgprdusw2.iks2.a.intuit.com
+collab-prd-automated-request-mgr-albc-stable.pcgprdusw2.iks2.a.intuit.com
 collab-prd-automated-request-mgr.pcgprdusw2.iks2.a.intuit.com
 collab-prd-e-signature-albc-desired.pcgprduse2.iks2.a.intuit.com
 collab-prd-e-signature-albc-desired.pcgprdusw2.iks2.a.intuit.com
@@ -16816,6 +16821,7 @@ conversations-view-intcollabs.t4i-prod-west2.iks.a.intuit.com
 conversations-view-intcollabs.vepprdusw2.iks2.a.intuit.com
 conversations.ccs-preprod.a.intuit.com
 conversations.ccs-prod.a.intuit.com
+converter-service-core--8330859.cgtaxproduse2.iks2.a.intuit.com
 convo-sgmnt-ppd-use2.iks.a.intuit.com
 convo-usw2-ppd.iks.a.intuit.com
 convoppduse2.iks2.a.intuit.com
@@ -22165,6 +22171,7 @@ document-service-pci-fdp.ipifdpprodpciusw2.iks2.a.intuit.com
 document-service-production-l3y4yz.pd.idps.a.intuit.com
 document-tagging-consumer-idx.fdpprduse2.iks2.a.intuit.com
 document-tagging-consumer-idx.ipifdp2produsw2.iks2.a.intuit.com
+document-upload-svc-finance.t4iprdusw2.iks2.a.intuit.com
 documentation-kpi-metr-8049023.ippaasprodusw2.iks2.a.intuit.com
 documentrecognitions-3871231.techaipciprduse2.iks2.a.intuit.com
 documentrecognitions-3871231.techaipciprdusw2.iks2.a.intuit.com
@@ -23996,6 +24003,7 @@ efe-pr-ams-payroll.payrollboprdusw2.iks2.a.intuit.com
 efe-pr-csi-payroll.composite-prod-use2.iks.a.intuit.com
 efe-pr-csi-payroll.composite-prod-usw2.iks.a.intuit.com
 efe-pr-tke-payroll.payrollbo-usw2-prd.iks.a.intuit.com
+efe-prd-converter-service-core.cgtaxproduse2.iks2.a.intuit.com
 efe-prd-filing-processor-core.cgtaxproduse2.iks2.a.intuit.com
 efe-prd-filing-processor-core.cgtaxprodusw2.iks2.a.intuit.com
 efe-prd-global-service-core.cgtaxproduse2.iks2.a.intuit.com
@@ -28190,6 +28198,7 @@ finance-procurement-stg-fin-gdrive-upload.t4iprdusw2.iks2.a.intuit.com
 finance-procurement-stg-retry-handler.t4i-prod-west2.iks.a.intuit.com
 finance-procurement-stg-servicenow-user-int.t4i-prod-west2.iks.a.intuit.com
 finance-procurement-stg-snow-response-int.t4i-prod-west2.iks.a.intuit.com
+finance-purchasing-prd-document-upload-svc.t4iprdusw2.iks2.a.intuit.com
 finance-purchasing-prd-gbs-genai-svc.t4iprdusw2.iks2.a.intuit.com
 finance-purchasing-prd-gbs-msg-filter-svc.t4iprdusw2.iks2.a.intuit.com
 finance-purchasing-prd-gbs-msg-processor.t4iprdusw2.iks2.a.intuit.com
@@ -38398,6 +38407,7 @@ ice-tax.cg-tax-prod-stg-use2.iks.a.intuit.com
 ice-tax.cg-tax-prod-stg-usw2.iks.a.intuit.com
 ice-tax.cg-tax-prod-use2.iks.a.intuit.com
 ice-tax.cg-tax-prod-usw2.iks.a.intuit.com
+iceadaptersvc-custcomms.growthprduse2.iks2.a.intuit.com
 iceandlight.nprod.a.intuit.com
 icia52vnflu-powu2ztflyj.pd.idps.a.intuit.com
 icims-a4a-inbound-workforce.t4i-prod-west2.iks.a.intuit.com
@@ -41158,6 +41168,7 @@ intcollabs-notification-prd-evaluator.growthprdusw2.iks2.a.intuit.com
 intcollabs-notification-prd-eventsprocessor.growthprduse2.iks2.a.intuit.com
 intcollabs-notification-prd-eventsprocessor.growthprdusw2.iks2.a.intuit.com
 intcollabs-notification-prd-feedback-listener.growthprdusw2.iks2.a.intuit.com
+intcollabs-notification-prd-iceadaptersvc.growthprduse2.iks2.a.intuit.com
 intcollabs-notification-prd-message-router.growthprdusw2.iks2.a.intuit.com
 intcollabs-notification-prd-notif-common.growthprduse2.iks2.a.intuit.com
 intcollabs-notification-prd-notif-common.growthprdusw2.iks2.a.intuit.com
@@ -51510,6 +51521,8 @@ oss-analytics-prd-shakira-event-processor1.devpmsaasprdusw2.iks2.a.intuit.com
 oss-analytics-prd-shakira-test-prod-jenkins.devpmsaasprdusw2.iks2.a.intuit.com
 oss-analytics-prd-shakira-testing-jenkins4.devpmsaasprdusw2.iks2.a.intuit.com
 oss-analytics-prd-shakira-testing-prd-latest.devpmsaasprdusw2.iks2.a.intuit.com
+oss-analytics-prd-test-async-svc.ippaasprodusw2.iks2.a.intuit.com
+oss-analytics-prda-test-async-svc.ippaasprodusw2.iks2.a.intuit.com
 oss-analytics-stg-aiops-argorollout-demo.ipmsaasprodusw2.iks2.a.intuit.com
 oss-analytics-stg-numalogic-osam-fci.ipmsaasprodusw2.iks2.a.intuit.com
 oss-analytics-stg-osam-apigw-numa.ipmsaasprodusw2.iks2.a.intuit.com
@@ -73430,6 +73443,7 @@ services-registry-stg-service-registry.ippaasproduse2.iks.a.intuit.com
 services-registry-stg-service-registry.ippaasprodusw2.iks.a.intuit.com
 services-registry-stg-service-registry.paas-prod-west2.iks.a.intuit.com
 services-registry-stgp-service-registry-v2.ippaasproduse2.iks2.a.intuit.com
+services-registry-stgp-service-registry-v2.ippaasprodusw2.iks2.a.intuit.com
 services-rtb.intuit.com
 services-stage.intuit.com
 services-stage.lvdc.intuit.com
@@ -74174,6 +74188,7 @@ sno-playground-7gm2l9.pd.idps.a.intuit.com
 snoop.perf.a.intuit.com
 snorkel-platform.snorkel-ppd.labeling.a.intuit.com
 snorkel-ppd.labeling.a.intuit.com
+snorkelflow.snorkel-ppd.labeling.a.intuit.com
 snorlax-platformexps.securityprduse2.iks2.a.intuit.com
 snorlax-platformexps.securityprdusw2.iks2.a.intuit.com
 snorlax-v2-platformexps.securityprdusw2.iks2.a.intuit.com
@@ -77507,6 +77522,7 @@ test-aps1-gw1-x.intuit.com
 test-aps1-gw1-y.intuit.com
 test-apse2-gw1-x.intuit.com
 test-apse2-gw1-y.intuit.com
+test-async-svc-svcplatdev.ippaasprodusw2.iks2.a.intuit.com
 test-ccl-preprod.iks.a.intuit.com
 test-cert-1.conntest.idps.intuit.com
 test-cert-e2e-update.iksm-test-lili.iks.a.intuit.com

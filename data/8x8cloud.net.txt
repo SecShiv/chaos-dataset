@@ -25,6 +25,7 @@
 *.infra-prod.8x8cloud.net
 *.k8s.8x8cloud.net
 *.mobilesvcs-dev.aws.infra8.8x8cloud.net
+*.mobilesvcs-prod.aws.infra8.8x8cloud.net
 *.o11y-nonprod.oci.infra8.8x8cloud.net
 *.o11y-prod.oci.infra8.8x8cloud.net
 *.onprem.infra8.8x8cloud.net
@@ -76,6 +77,7 @@ loghost-sjc01b.prod.sjc01.us-west.8x8cloud.net
 loghost-sjc01c.prod.sjc01.us-west.8x8cloud.net
 loghost.prod.sjc01.us-west.8x8cloud.net
 mobilesvcs-dev.aws.infra8.8x8cloud.net
+mobilesvcs-prod.aws.infra8.8x8cloud.net
 mta.staging.8x8cloud.net
 mx.8x8cloud.net
 nginxtest-dev.pilot.aws.infra8.8x8cloud.net
@@ -95,4 +97,3 @@ vpn.staging.sjc01.us-west.8x8cloud.net
 vpngw.prod.sjc01.us-west.8x8cloud.net
 vpngw.staging.sjc01.us-west.8x8cloud.net
 wavefront-prometheus-ec2-dev.platformdevops.8x8cloud.net
-wiki.platformdevops.8x8cloud.net

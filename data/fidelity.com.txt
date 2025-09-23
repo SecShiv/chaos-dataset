@@ -518,6 +518,7 @@ akamai.digitalassets.fidelity.com
 akamai.digitalassets-stg.fdas.fidelity.com
 akamai.digitalmedialibrary.prod.fidelity.com
 akamai.doc.iws.fidelity.com
+akamai.docs.digitalassets-qa.fidelity.com
 akamai.dpcsxq2.fidelity.com
 akamai.dpesbxq2.fidelity.com
 akamai.eca.iws.fidelity.com
@@ -2201,6 +2202,7 @@ contacts-service-pr3.aw143.c.fidelity.com
 contacts-service-pr4.aw143.c.fidelity.com
 contacts-service-pr43.aw143.c.fidelity.com
 contacts-service-pr45.aw143.c.fidelity.com
+contacts-service-pr46.aw143.c.fidelity.com
 contacts-service-pr5.aw143.c.fidelity.com
 contacts-service-pr6.aw143.c.fidelity.com
 contacts-service-pr7.aw143.c.fidelity.com
@@ -2908,6 +2910,7 @@ dnstesting-fidns4.fidelity.com
 dnsxqammk01.fidelity.com
 docs-oma1.fidelity.com
 docs-oma2.fidelity.com
+docs.digitalassets-qa.fidelity.com
 dp-ccai-clientcert.fidelity.com
 dp-ccai-clientcert-test.fidelity.com
 dpapi.fidelity.com
@@ -5053,6 +5056,7 @@ firms-service-api-pr110.aw143.c.fidelity.com
 firms-service-api-pr111.aw143.c.fidelity.com
 firms-service-api-pr112.aw143.c.fidelity.com
 firms-service-api-pr113.aw143.c.fidelity.com
+firms-service-api-pr115.aw143.c.fidelity.com
 firms-service-api-pr13.aw143.c.fidelity.com
 firms-service-api-pr17.aw143.c.fidelity.com
 firms-service-api-pr2.aw143.c.fidelity.com
@@ -7918,6 +7922,7 @@ nftest.fidelity.com
 nick-test.aw143.c.fidelity.com
 nick.flywheel-web.aw143.c.fidelity.com
 nickv50.flywheel-web.aw143.c.fidelity.com
+no-cape-iam.auth-ecs-sample.aw183.c.fidelity.com
 non-streaming-news.fidelity.com
 non-streaming-news-pre.fidelity.com
 non-streaming-news-pre-uat.fidelity.com
@@ -8646,6 +8651,7 @@ pfxfac.fidelity.com
 pfxfac.ecs.fidelity.com
 pi-vanity.fidelity.com
 pi-vanity2.fidelity.com
+pif-cape-log-bucket.auth-ecs-sample.aw183.c.fidelity.com
 pif-test.auth-ecs-sample.aw183.c.fidelity.com
 pif-test3.auth-ecs-sample.aw183.c.fidelity.com
 pif-test4.auth-ecs-sample.aw183.c.fidelity.com
@@ -8942,6 +8948,8 @@ pr146.api.marketplace.aw143.c.fidelity.com
 pr146.internal.api.marketplace.aw143.c.fidelity.com
 pr147.api.marketplace.aw143.c.fidelity.com
 pr147.internal.api.marketplace.aw143.c.fidelity.com
+pr148.api.marketplace.aw143.c.fidelity.com
+pr148.internal.api.marketplace.aw143.c.fidelity.com
 pr16.api.marketplace.aw143.c.fidelity.com
 pr17.api.marketplace.aw143.c.fidelity.com
 pr17.internal.api.marketplace.aw143.c.fidelity.com
@@ -9016,11 +9024,15 @@ pr50.api.marketplace.aw143.c.fidelity.com
 pr50.internal.api.marketplace.aw143.c.fidelity.com
 pr55.api.marketplace.aw143.c.fidelity.com
 pr61.api.lookalike-service.aw143.c.fidelity.com
+pr62.api.lookalike-service.aw143.c.fidelity.com
+pr63.api.lookalike-service.aw143.c.fidelity.com
 pr71-partner.aw143.c.fidelity.com
 pr72-partner.aw143.c.fidelity.com
 pr74-partner.aw143.c.fidelity.com
 pr76-partner.aw143.c.fidelity.com
 pr77-partner.aw143.c.fidelity.com
+pr78-partner.aw143.c.fidelity.com
+pr79-partner.aw143.c.fidelity.com
 pr95.api.investor-profile.aw143.c.fidelity.com
 pr95.investors.aw143.c.fidelity.com
 pr99.api.investor-profile.aw143.c.fidelity.com
@@ -12220,6 +12232,7 @@ termquotertpproxy.fidelity.com
 test.fidelity.com
 test-digicert2.fidelity.com
 test-digicert3.fidelity.com
+test-pif.auth-ecs-sample.aw183.c.fidelity.com
 test-process-apsintl-dev.aps.aw078.c.fidelity.com
 test-process-oly-dv.aps.aw008.c.fidelity.com
 test-src-process-apsintl-dev.aps.aw078.c.fidelity.com

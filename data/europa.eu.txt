@@ -3,6 +3,7 @@
 *.aadds.esma.europa.eu
 *.aai.open-science-cloud.ec.europa.eu
 *.academy.europa.eu
+*.acc.arachne.tech.ec.europa.eu
 *.acc.dataplatform.tech.ec.europa.eu
 *.acc.dhs.tech.ec.europa.eu
 *.acc.drug-precursors.ec.europa.eu
@@ -519,6 +520,7 @@
 *.pages.code.europa.eu
 *.pages.gitlab.acc.dhs.tech.ec.europa.eu
 *.pages.sdlc.aws.cloud.tech.ec.europa.eu
+*.pages.sdlc.webcloud.ec.europa.eu
 *.partnership-instrument-map.test.ec.europa.eu
 *.pesco.europa.eu
 *.pics.ec.europa.eu
@@ -1469,6 +1471,7 @@ api-vast.jrc.service.ec.europa.eu
 api.acc2.esurveillance.tech.ec.europa.eu
 api.acceptance.ted.europa.eu
 api.admin.open-science-cloud.ec.europa.eu
+api.app4ees.frontex.europa.eu
 api.chlorine.elastic.europarl.europa.eu
 api.cloe.tech.ec.europa.eu
 api.consilium.europa.eu
@@ -1513,6 +1516,7 @@ api.smd.dataplatform.tech.ec.europa.eu
 api.stage.app4ees.frontex.europa.eu
 api.tech.ec.europa.eu
 api.ted.europa.eu
+api.test.app4ees.frontex.europa.eu
 api.test.eba.europa.eu
 api.test.vistool.tech.ec.europa.eu
 api.uat.dataplatform.tech.ec.europa.eu
@@ -1530,6 +1534,8 @@ apimgr-pp.emsa.europa.eu
 apimgr.emsa.europa.eu
 apims.app4ees.frontex.europa.eu
 apims.dev.app4ees.frontex.europa.eu
+apims.stage.app4ees.frontex.europa.eu
+apims.test.app4ees.frontex.europa.eu
 apis-1282852273.eu-west-1.elb.amazonaws.comsa.europa.eu
 apmtest.euipo.europa.eu
 apmtest.oami.europa.eu
@@ -2649,6 +2655,7 @@ cms.european-quarter-explorer.europarl.europa.eu
 cms.frontex.europa.eu
 cms.multimedia.europarl.europa.eu
 cms.multimediapp.europarl.europa.eu
+cms.stage.app4ees.frontex.europa.eu
 cms.test.app4ees.frontex.europa.eu
 cms.travel-europe.europa.eu
 cms.webstreaming4ep.europarl.europa.eu
@@ -6092,8 +6099,10 @@ integrate.ecb.europa.eu
 integration-dev.ema.europa.eu
 integration-test.ema.europa.eu
 integration.app4ees.frontex.europa.eu
+integration.dev.app4ees.frontex.europa.eu
 integration.ema.europa.eu
 integration.euipo.europa.eu
+integration.stage.app4ees.frontex.europa.eu
 integration.test.app4ees.frontex.europa.eu
 intellectual-property-helpdesk.ec.europa.eu
 intelliverse.frontex.europa.eu
@@ -10635,6 +10644,7 @@ uat-spor-roms-vnet.ema.europa.eu
 uat-sustainabilityportal.easa.europa.eu
 uat-sustainabilityportalapi.easa.europa.eu
 uat-t1.ecdp.dataplatform.tech.ec.europa.eu
+uat-www.easa.europa.eu
 uat.cofe.fpfis.tech.ec.europa.eu
 uat.dataplatform.tech.ec.europa.eu
 uat.dhs.tech.ec.europa.eu
@@ -11359,10 +11369,14 @@ www.alumni.europa.eu
 www.analytics-intranet.cedefop.europa.eu
 www.api-gw.ecb.europa.eu
 www.api-ptl.ecb.europa.eu
+www.api.app4ees.frontex.europa.eu
 www.api.dev.app4ees.frontex.europa.eu
 www.api.stage.app4ees.frontex.europa.eu
+www.api.test.app4ees.frontex.europa.eu
 www.apims.app4ees.frontex.europa.eu
 www.apims.dev.app4ees.frontex.europa.eu
+www.apims.stage.app4ees.frontex.europa.eu
+www.apims.test.app4ees.frontex.europa.eu
 www.appf.europa.eu
 www.art-collection.europarl.europa.eu
 www.athena.europa.eu
@@ -11402,6 +11416,7 @@ www.cloud.imi.europa.eu
 www.cmfb.europa.eu
 www.cms.app4ees.frontex.europa.eu
 www.cms.dev.app4ees.frontex.europa.eu
+www.cms.stage.app4ees.frontex.europa.eu
 www.cms.test.app4ees.frontex.europa.eu
 www.cms2-ro.ecb.europa.eu
 www.cms2-rw.ecb.europa.eu
@@ -11678,6 +11693,8 @@ www.insight-stg.ecb.europa.eu
 www.insight.ecb.europa.eu
 www.int.een.ec.europa.eu
 www.integration.app4ees.frontex.europa.eu
+www.integration.dev.app4ees.frontex.europa.eu
+www.integration.stage.app4ees.frontex.europa.eu
 www.integration.test.app4ees.frontex.europa.eu
 www.intelliverse.frontex.europa.eu
 www.interop.europass.cedefop.europa.eu

@@ -11,6 +11,7 @@
 *.ai-games.lab.epam.com
 *.ai-proxy.lab.epam.com
 *.ainf-mob1.epam.com
+*.alejandro.amdd-azd.projects.epam.com
 *.anywhere-referral.epam.com
 *.api.solutionshub.epam.com
 *.app.epam.com
@@ -379,6 +380,7 @@
 *.cl1-default-lb.epm-ais-anthos-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-ais-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-aldo-ant.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-alfa-ant-dial.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-alfa-ant-prl.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-alfa-anthos-cipr.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-aop-anthos.eu.gcp.cloudapp.epam.com
@@ -546,6 +548,7 @@
 *.cl1-default-lb.epm-prj-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-prl-anthos-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-prl-anthos.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-rcgn-anthos-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rcgn-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rcmt-anthos-dev.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rcmt-anthos.eu.gcp.cloudapp.epam.com
@@ -647,6 +650,7 @@
 *.cl2-default-lb.epm-ppa-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-prj-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-prl-anthos.eu.gcp.cloudapp.epam.com
+*.cl2-default-lb.epm-rcgn-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-rdua-anthos-tspr.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-ref-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-rexp-anthos.eu.gcp.cloudapp.epam.com
@@ -1139,6 +1143,7 @@ alm.epam.com
 alm-dev.lab.epam.com
 alm.lab.epam.com
 alpha.connect.epm-plx.projects.epam.com
+alpha.epm-mooc.projects.epam.com
 alw-uat.al01-impl.projects.epam.com
 am.epam.com
 amazonmq.qa.radar.epam.com
@@ -1173,6 +1178,7 @@ api-develop.aws.epm-plx.projects.epam.com
 api-gw.epm-talk.projects.epam.com
 api-mcc-qa.epam.com
 api-pre.connect.epam.com
+api-prod.aemcloud.epam.com
 api-qa.connect.epam.com
 api-stage.aemcloud.epam.com
 api-stg.connect.epam.com
@@ -1672,6 +1678,7 @@ api.pipeline.epam.com
 api.pipelines.mdtu-ddm.projects.epam.com
 api.platform-deploy-cluster.mdtu-ddm.projects.epam.com
 api.plt-deploy.mdtu-ddm.projects.epam.com
+api.poc.time.epam.com
 api.poc1.mdtu-ddm.projects.epam.com
 api.pqa2.maf.services.wstc-wcst.projects.epam.com
 api.pqa2.maf.wstc-wcst.projects.epam.com
@@ -4413,6 +4420,7 @@ imr-dev2.epm-orp.projects.epam.com
 imr-dev3.epm-orp.projects.epam.com
 imr-prod.epm-orp.projects.epam.com
 imr-qa.epm-orp.projects.epam.com
+in-direct.peoplecentral.epam.com
 in-web-dev.aemcloud.epam.com
 in-web-stage.aemcloud.epam.com
 in.epam-com.staging.epm-iass.projects.epam.com
@@ -4716,6 +4724,7 @@ llama3-70b-awq-api.llm.lab.epam.com
 llama3-api.llm.lab.epam.com
 llava-api.llm.lab.epam.com
 llj.pcr.stlm-d.lab.epam.com
+llm-research-app-10k-dev.llm.lab.epam.com
 llm-research-app-10k-prod.llm.lab.epam.com
 llm-research-app-10k-visual-dev.llm.lab.epam.com
 llm-research-app-bentocolpali.llm.lab.epam.com
@@ -5128,6 +5137,7 @@ msdp-stg-learn.epm-tmc.projects.epam.com
 msdp-vera-learn.epm-tmc.projects.epam.com
 msdp-victoria-learn.epm-tmc.projects.epam.com
 msdp-vladik-learn.epm-tmc.projects.epam.com
+msdp.alpha.epm-mooc.projects.epam.com
 msdp.elearn.epam.com
 msdp.elearn.epm-mooc.projects.epam.com
 msdp.epm-tmc.projects.epam.com
@@ -5322,6 +5332,7 @@ password.epam.com
 password-qa-bud.epm-gess.projects.epam.com
 paycheck-4050-ui-dev-epm-frpa-dev.us.paas.epam.com
 paycheck-4050-ui-qa-epm-frpa-dev.us.paas.epam.com
+payment-wooli.epm-ldi.projects.epam.com
 payroll.lab.epam.com
 pb.opensource.epam.com
 pbxgomel.epam.com
@@ -6629,16 +6640,19 @@ studio-preprod-palm-elearn-university.epm-mooc.projects.epam.com
 studio-preprod-palm-elearn.epm-mooc.projects.epam.com
 studio-preprod-palm-hep-elearn.epm-mooc.projects.epam.com
 studio-preprod-palm-msdp-elearn.epm-mooc.projects.epam.com
+studio.alpha.epm-mooc.projects.epam.com
 studio.du.elearn.epam.com
 studio.elearn.epam.com
 studio.elearn.epm-mooc.projects.epam.com
 studio.elearn.university.epam.com
 studio.elearn.university.epm-mooc.projects.epam.com
+studio.hep.alpha.epm-mooc.projects.epam.com
 studio.hep.elearn.epam.com
 studio.hep.elearn.epm-mooc.projects.epam.com
 studio.hep.staging-elearn.epm-mooc.projects.epam.com
 studio.hep.staging-palm.epm-mooc.projects.epam.com
 studio.mentora.al01-impl.projects.epam.com
+studio.msdp.alpha.epm-mooc.projects.epam.com
 studio.msdp.elearn.epam.com
 studio.msdp.elearn.epm-mooc.projects.epam.com
 studio.msdp.staging-elearn.epm-mooc.projects.epam.com
@@ -7495,4 +7509,3 @@ ztna-staging.epm-iga.projects.epam.com
 ztna.app.epam.com
 ztna.app.stage.epam.com
 ztna.stage.epam.com
-ztnacheck.stage.epam.com

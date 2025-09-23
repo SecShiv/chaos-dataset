@@ -137,6 +137,7 @@
 *.osaka.ie1.twilio.com
 *.osaka.us1.twilio.com
 *.outside.twilio.com
+*.previews-edge-plugin-testing-no-versioning.ewh.dev.twilio.com
 *.previews-edge-plugin-testing.ewh.dev.twilio.com
 *.previews-edge-plugin-testing.ewh.prod.twilio.com
 *.previews-edge-web-hosting-demo.ewh.dev.twilio.com
@@ -1222,6 +1223,7 @@ data-producer-api.dev-us1.twilio.com
 data-producer-api.stage-au1.twilio.com
 data-producer-api.stage-us1.twilio.com
 data-reliability-dashboard.dev-us1.twilio.com
+data-reliability-dashboard.us1.twilio.com
 data-science.dev-us1.eak.twilio.com
 data-science.stage-us1.eak.twilio.com
 data-science.us1.eak.twilio.com
@@ -1264,6 +1266,7 @@ dev.twilio.com
 dev-aem-cms-us1.api-lb.dev.twilio.com
 dev-de1.ad.corp.twilio.com
 dev-jp2.ad.corp.twilio.com
+dev-sy1.ad.corp.twilio.com
 dev-us1.twilio.com
 dev-us1.ad.corp.twilio.com
 dev-us2.twilio.com
@@ -1459,6 +1462,7 @@ flex-insights-queues-stats-sink.stage-au1.twilio.com
 flex-insights-queues-stats-sink.stage-us1.twilio.com
 flex-insights-queues-stats-sink.us1.twilio.com
 flex-insights-rt.os.dev-us1.twilio.com
+flex-insights-rt.os.stage-us1.twilio.com
 flex-qe-e2e-tester.twilio.com
 flex-qe-e2e-tester.classic.us1.prod.kafka-v1.twilio.com
 flex-qe-e2e-tester.outside.us1.prod.kafka-v1.twilio.com
@@ -1844,6 +1848,9 @@ lookups.dev.twilio.com
 lqkdr.twilio.com
 lqrmp.twilio.com
 mail.twilio.com
+main-metaflow.dev-us1.twilio.com
+main-metaflow.stage-us1.twilio.com
+main-metaflow.us1.twilio.com
 maqsam.sip.twilio.com
 marketopages.twilio.com
 matrix.twilio.com
@@ -2199,6 +2206,7 @@ prod-de1.ad.corp.twilio.com
 prod-euc1-sg-vpce.ad.corp.twilio.com
 prod-in1.ad.corp.twilio.com
 prod-jp1.ad.corp.twilio.com
+prod-sy1.ad.corp.twilio.com
 prod-us1.ad.corp.twilio.com
 prod-us2.ad.corp.twilio.com
 prod-use1-sg-vpce.ad.corp.twilio.com
@@ -2691,6 +2699,7 @@ stage-ie1.twilio.com
 stage-in1.twilio.com
 stage-jp2.twilio.com
 stage-jp2.ad.corp.twilio.com
+stage-sy1.ad.corp.twilio.com
 stage-us.adaptivemobile.corp.twilio.com
 stage-us1.twilio.com
 stage-us1.ad.corp.twilio.com

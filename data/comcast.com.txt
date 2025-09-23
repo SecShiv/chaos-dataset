@@ -1976,6 +1976,7 @@
 *.perf.api-business.comcast.com
 *.perf.esign.np.digital.business.comcast.com
 *.platco-settings-app.thor.comcast.com
+*.platformx.comcast.com
 *.poc-bsd-ui-framework-dev.np.digital.business.comcast.com
 *.poc-bsd-ui-framework-int.np.digital.business.comcast.com
 *.poc-bsd-ui-framework-pqa.np.digital.business.comcast.com
@@ -5594,6 +5595,7 @@
 2a57j77xqn344425611moj36m4mzh38.rslapi.aws-uat.thenexus.comcast.com
 2a57j780olgpdp90t2ovqk215xjqw9p.aimlhub-dev.ebi.comcast.com
 2a57j78878lzx88uodzybiwwwq2ps5s.retailstoreui.aws-uat.thenexus.comcast.com
+2a57j78878lzx88uodzybiwwwq2ps5s.retailtest.aws-dev.thenexus.comcast.com
 2a57j78878lzx88uodzybiwwwq2ps5s.rslapi.aws-dev.thenexus.comcast.com
 2a57j78h5fsbzb7ey72hbx9c01pbxcf.dev.xpriguard.comcast.com
 2a57j78lztda5joakq20jlljwrivtpe.stage-ezdeploy.comcast.com
@@ -7968,6 +7970,10 @@ atsdb-wc-b1q.cable.comcast.com
 atsdb-wc-bpgrid.cable.comcast.com
 attaboysan.cable.comcast.com
 attaboysan2.cable.comcast.com
+attestationvalidationstg21a.comcast.com
+attestationvalidationstg21b.comcast.com
+attestationvalidationstg22.comcast.com
+attestationvaljob22.comcast.com
 attroute-east.gslb4.comcast.com
 attroute-po.cable.comcast.com
 attroute-wc.cable.comcast.com
@@ -11658,6 +11664,7 @@ ccc-manager-dr-contingent.g.comcast.com
 ccc-po-1p.slb.comcast.com
 ccc.contingent-int.comcast.com
 ccc.dxsre.comcast.com
+cccintdb.gslb4.comcast.com
 cccm-as-1p.slb.comcast.com
 cccm-contingent-int.comcast.com
 cccm-po-1p.slb.comcast.com
@@ -20981,6 +20988,7 @@ dxlineage-dev.comcast.com
 dxlineage-uat.comcast.com
 dxlineage.dev.comcast.com
 dxlineage.uat.comcast.com
+dxlucidintdb.gslb4.comcast.com
 dxopsdashboard.comcast.com
 dxp-cloud-ivr-apigee-preprod.comcast.com
 dxp-cloud-ivr-apigee-qa.comcast.com
@@ -22879,6 +22887,8 @@ esldocu-1s.gslb2.comcast.com
 eslfme-po-01p.cable.comcast.com
 eslfme-po-a0p.cable.comcast.com
 eslgis.cable.comcast.com
+eslgisccp-ap.cable.comcast.com
+eslgisccp-hp.cable.comcast.com
 eslgisccp-prod.cable.comcast.com
 esliq-po-a2p.cable.comcast.com
 eslmapp-wc-a1p.slb.comcast.com
@@ -40671,6 +40681,7 @@ nedcst.cable.comcast.com
 nedctisqlprd.cable.comcast.com
 nedctisqlprd2.cable.comcast.com
 nedcxa-ch2-02p.cable.comcast.com
+nedcyberark.cable.comcast.com
 neddatacenterrequest.cable.comcast.com
 neddevprojects.cable.comcast.com
 neddtccs.cable.comcast.com
@@ -54210,6 +54221,7 @@ reeats-kafkaf-ch2-1p.slb.comcast.com
 reeats-ui-prod-1p.gslb2.comcast.com
 reeats-uip-ch2-1p.slb.comcast.com
 reeatsccpkafkadev.comcast.com
+reeatsinfluxdb.comcast.com
 reeatsiop.comcast.com
 reeatsiop-1p.gslb4.comcast.com
 reeatsiop-as-1p.slb.comcast.com
@@ -54508,6 +54520,7 @@ retailpos-uat.comcast.com
 retailstoreui.aws-dev.thenexus.comcast.com
 retailstoreui.aws-uat.thenexus.comcast.com
 retailstoreui.aws.thenexus.comcast.com
+retailtest.aws-dev.thenexus.comcast.com
 retailweb.comcast.com
 retesc-cen-as-1q.slb.comcast.com
 retesc-cen-ch2-1q.slb.comcast.com
@@ -54715,6 +54728,7 @@ rnetbox.cable.comcast.com
 road-api.cable.comcast.com
 roambi.cable.comcast.com
 roci.api.rogers.comcast.com
+roci.rogers.comcast.com
 rock.cable.comcast.com
 rock9-cmc-2s.cable.comcast.com
 rocketfuel-ui-assets-dev.np.digital.business.comcast.com
@@ -56496,6 +56510,7 @@ sitweb-ch2-g1p.cable.comcast.com
 sitweb-ch2-s1p.cable.comcast.com
 sitweb-wc-g1p.cable.comcast.com
 sked-mma.sky-uk-euwest1.dxsre.comcast.com
+skedintdb-int.gslb4.comcast.com
 skillskit-as-1p.slb.comcast.com
 skillskit-fb-as-1p.slb.comcast.com
 skillskit-fb-prod.comcast.com

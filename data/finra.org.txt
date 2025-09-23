@@ -202,6 +202,7 @@
 *.builds2.aws.qa.finra.org
 *.builds3.aws.qa.finra.org
 *.builds4.aws.qa.finra.org
+*.builds4b.aws.finra.org
 *.builds5.qa.finra.org
 *.builds5.qa.dr.finra.org
 *.buildscat.finra.org
@@ -2303,6 +2304,7 @@ builds4.aws.toolsqa.finra.org
 builds4.aws.toolsqa.dr.finra.org
 builds4.awstools.finra.org
 builds4.dev.aws.finra.org
+builds4b.aws.finra.org
 builds5.finra.org
 builds5.aws.finra.org
 builds5.aws.qa.finra.org
@@ -5435,6 +5437,7 @@ s3c.finra.org
 s3q.finra.org
 sample.dev.finra.org
 saucelab.finra.org
+savingscalculator.nga.finra.org
 savingscalculator.nga.qa.finra.org
 scammeterquiz.nga.finra.org
 scammeterquiz.nga.qa.finra.org
@@ -6437,3 +6440,4 @@ yum.awstools.finra.org
 yum.ct.aws.finra.org
 zen.dev.finra.org
 zen.qa.finra.org
+zr53.api.gateway-qaint.qa.finra.org

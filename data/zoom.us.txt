@@ -76906,6 +76906,8 @@ au01uiproxy.zoom.us
 au01user.zoom.us
 au01va1calendarapi.zoom.us
 au01va1nws-auth.zoom.us
+au01va1single.zoom.us
+au01va1webok.zoom.us
 au01va2applications.zoom.us
 au01va2calendarapi.zoom.us
 au01va2command.zoom.us
@@ -78892,12 +78894,18 @@ dcc.zoom.us
 dccc.zoom.us
 dcmoboces.zoom.us
 dcsngxct.cloud.zoom.us
+dcsngxff.cloud.zoom.us
 dcsngxhkg.hkg.zoom.us
+dcsngxmb.cloud.zoom.us
 dcsngxsjc.sjc.zoom.us
+dcsngxsp.cloud.zoom.us
 dcsznginx-go-aws-oh-1.cloud.zoom.us
 dcsznginx-go-colo-iad-1.iad.zoom.us
 dcsznginx-go-colo-sjc-1.sjc.zoom.us
 dcsznginx-prod-aws-ct.cloud.zoom.us
+dcsznginx-prod-aws-ff.cloud.zoom.us
+dcsznginx-prod-aws-mb.cloud.zoom.us
+dcsznginx-prod-aws-sp.cloud.zoom.us
 dcsznginx-prod-colo-hkg.hkg.zoom.us
 dcsznginx-prod-colo-jed.ksa.zoom.us
 dcsznginx-prod-colo-sjc.sjc.zoom.us
@@ -80300,6 +80308,8 @@ eu01uiproxy.zoom.us
 eu01user.zoom.us
 eu01va1calendarapi.zoom.us
 eu01va1nws-auth.zoom.us
+eu01va1single.zoom.us
+eu01va1webok.zoom.us
 eu01va2applications.zoom.us
 eu01va2calendarapi.zoom.us
 eu01va2command.zoom.us
@@ -85987,6 +85997,7 @@ mqttws-oh1.zoom.us
 mqttws-va2.zoom.us
 mqttws-zdm.zoom.us
 mqttws-zdm-oh1.zoom.us
+mqttws-zdm-va1.zoom.us
 mshsgroup.zoom.us
 msstateextension.zoom.us
 mst.zoom.us
@@ -88243,7 +88254,11 @@ sg01contactservice.zoom.us
 sg01contactservice-va.zoom.us
 sg01das.zoom.us
 sg01das-internal.zoom.us
+sg01docs.zoom.us
 sg01docs-internal.zoom.us
+sg01docs-internal-va1.zoom.us
+sg01docs-va1.zoom.us
+sg01docsd-d.zoom.us
 sg01file.zoom.us
 sg01file-ia.zoom.us
 sg01file-paa.zoom.us
@@ -89554,6 +89569,7 @@ us-04.cold.zoom.us
 us-atlas.zoom.us
 us-bff.zoom.us
 us-bff-va1.zoom.us
+us-canal-k8s.zoom.us
 us.telemetry.zoom.us
 us01-01cc01.cc.zoom.us
 us01-01cc01.iad.zoom.us
@@ -90349,6 +90365,7 @@ us01mdcpp.zoom.us
 us01meai3lb.zoom.us
 us01migration.zoom.us
 us01migration-internal.zoom.us
+us01mongosync.zoom.us
 us01nypbxotter.ny.zoom.us
 us01ocs.zoom.us
 us01ocs-ore.zoom.us
@@ -93862,6 +93879,7 @@ us01va2sipproxy.zoom.us
 us01va2uiproxy.zoom.us
 us01va2webok.zoom.us
 us01va2zdm-prov.zoom.us
+us01vamongosync.zoom.us
 us01websrvconfig.zoom.us
 us01websrvop.zoom.us
 us01wfm.zoom.us
@@ -94871,6 +94889,7 @@ us04-xmpp-va1.zoom.us
 us04-xmpp-va1-i.zoom.us
 us04-xmpp-va1-internal.zoom.us
 us04-xmpp-va1-internal-i.zoom.us
+us04ai.zoom.us
 us04aic.zoom.us
 us04api.zoom.us
 us04applications.zoom.us
@@ -94908,6 +94927,7 @@ us04images.zoom.us
 us04imapi.zoom.us
 us04integration-edu.zoom.us
 us04integration-edu-oh1.zoom.us
+us04integration-slackmigration.zoom.us
 us04integrations.zoom.us
 us04integrations.corp.zoom.us
 us04intfile.zoom.us
@@ -95716,6 +95736,7 @@ v2.ny.zoom.us
 v2.sj.zoom.us
 va-gows.zoom.us
 va-ws.zoom.us
+va1-us01-openapi-mas.zoom.us
 va2-gows.zoom.us
 va2-ws.zoom.us
 va2applicationscontent.zoom.us
@@ -96405,6 +96426,7 @@ zam-example-app-prod-us01-oh1-webok.zoom.us
 zam-example-app-prod-us01-oh1-xmpp.zoom.us
 zam-example-app-prod-us01-useast2-realtime.zoom.us
 zam-example-app-prod-us01-uswest2-realtime.zoom.us
+zam-example-app-prod-us01-va1-bigdata.zoom.us
 zam-example-app-prod-us01-va1-infra.zoom.us
 zam-example-app-prod-us01-va1-nws.zoom.us
 zam-example-app-prod-us01-va1-web.zoom.us
@@ -96591,6 +96613,7 @@ zcp-infra-go-oh-dbexecutor.zoom.us
 zcp-infra-go-va1-dbexecutor.zoom.us
 zcp-infra-neweng-dbexecutor.zoom.us
 zcp-infra-sa01-pbx-dbexecutor.zoom.us
+zcp-infra-uk01-dbexecutor.zoom.us
 zcp-new-eng.zoom.us
 zcp-server.zoom.us
 zcp-temporal.zoom.us
@@ -111128,6 +111151,7 @@ zt-low-usage-15-14-0-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-low-usage-15-go-aws-us-east-1.ai.cloud.zoom.us
 zt-low-usage-15-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-low-usage-15-prod-aws-us-east-2.ai.cloud.zoom.us
+zt-pl-en-0-go-aws-us-east-1.ai.cloud.zoom.us
 zt-pl-en-0-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-pl-en-0-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-ru-en-0-go-aws-us-east-1.ai.cloud.zoom.us
@@ -111149,6 +111173,8 @@ zt-yue-zh-zht-e-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-yue-zh-zht-en-0-go-aws-us-east-1.ai.cloud.zoom.us
 zt-yue-zh-zht-en-0-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-yue-zh-zht-en-0-prod-aws-us-east-2.ai.cloud.zoom.us
+zt-zlm-0-go-aws-us-east-1.ai.cloud.zoom.us
+zt-zlm-go-aws-us-east-1.ai.cloud.zoom.us
 ztt.keyserver-locator-us.zoom.us
 ztt.keyserver-locator-us-03.zoom.us
 ztt.keyserver-locator-us-04.zoom.us

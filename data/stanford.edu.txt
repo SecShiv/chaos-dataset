@@ -3346,6 +3346,7 @@ aiplayground-mergelab.stanford.edu
 aiplayground-ootb.stanford.edu
 aiplayground-st.stanford.edu
 aiplayground-stage.stanford.edu
+aiplayground-testlab.stanford.edu
 aiplushealth.stanford.edu
 air-dru.stanford.edu
 airai.stanford.edu
@@ -25836,9 +25837,11 @@ certdb-stage.stanford.edu
 certdb-uat.stanford.edu
 certificate.stanford.edu
 certificate-dev.stanford.edu
+certificate-dev.iam.stanford.edu
 certificate-stage.stanford.edu
 certificate-test.stanford.edu
 certificate-uat.stanford.edu
+certificate-uat.iam.stanford.edu
 certificates.stanford.edu
 certificatevalidationtest.stanford.edu
 certified-testrtcache.stanford.edu
@@ -34259,6 +34262,8 @@ cs181w.stanford.edu
 cs182.stanford.edu
 cs182w.stanford.edu
 cs18si.stanford.edu
+cs191.stanford.edu
+cs191w.stanford.edu
 cs193a.stanford.edu
 cs193c.stanford.edu
 cs193d.stanford.edu
@@ -37726,6 +37731,7 @@ datatalk-dev.genie.stanford.edu
 datatalk-ingestion.genie.stanford.edu
 datatalk-persistent.genie.stanford.edu
 datatalk-sql.genie.stanford.edu
+datatalk.genie.stanford.edu
 datathon.stanford.edu
 datausers.stanford.edu
 dataviz.stanford.edu
@@ -39943,6 +39949,7 @@ desktopsupport.stanford.edu
 desktoptower.stanford.edu
 desoto.stanford.edu
 despina.stanford.edu
+dessertwithdonors.stanford.edu
 dest.stanford.edu
 destinyapigateway.stanford.edu
 destinyidp.stanford.edu
@@ -124353,10 +124360,14 @@ lbre-eqdb-p1.stanford.edu
 lbre-es1.stanford.edu
 lbre-es2.stanford.edu
 lbre-es3.stanford.edu
+lbre-escluster.stanford.edu
 lbre-esdev01.stanford.edu
 lbre-esdev02.stanford.edu
 lbre-esdev03.stanford.edu
 lbre-eskender01.stanford.edu
+lbre-esvmh01.stanford.edu
+lbre-esvmh02.stanford.edu
+lbre-esvmh03.stanford.edu
 lbre-evoko.stanford.edu
 lbre-f4hq182.stanford.edu
 lbre-f4ht182.stanford.edu
@@ -124551,6 +124562,11 @@ lbre-prxy-dev.stanford.edu
 lbre-prxy-prd.stanford.edu
 lbre-pserver.stanford.edu
 lbre-pubfiles.stanford.edu
+lbre-pvevmh01.stanford.edu
+lbre-pvevmh02.stanford.edu
+lbre-pvevmh03.stanford.edu
+lbre-pvevmh04.stanford.edu
+lbre-pvevmh05.stanford.edu
 lbre-quickbook.stanford.edu
 lbre-refw.stanford.edu
 lbre-reserved.stanford.edu
@@ -124563,6 +124579,10 @@ lbre-routing-dev2.stanford.edu
 lbre-routing-q.stanford.edu
 lbre-rw-sw01.stanford.edu
 lbre-rw-sw03.stanford.edu
+lbre-rwc-pvedev.stanford.edu
+lbre-rwc-pvedev01.stanford.edu
+lbre-rwc-pvedev02.stanford.edu
+lbre-rwc-pvedev03.stanford.edu
 lbre-rwcef-cpoweb.stanford.edu
 lbre-rwcef-cpwb.stanford.edu
 lbre-rwcef-n4.stanford.edu
@@ -232326,6 +232346,7 @@ soe-h5ggc14.stanford.edu
 soe-h7c7l72.stanford.edu
 soe-h7s5l72.stanford.edu
 soe-hanson.stanford.edu
+soe-hardwarepurchase.stanford.edu
 soe-hbbv6h2.stanford.edu
 soe-hbf23m2.stanford.edu
 soe-hc022g3.stanford.edu
@@ -261348,6 +261369,7 @@ tinypc.stanford.edu
 tioman.stanford.edu
 tioman2.stanford.edu
 tiomann.stanford.edu
+tip.fsi.stanford.edu
 tips.stanford.edu
 tis-archwin2.slac.stanford.edu
 tis-libwin18.slac.stanford.edu
@@ -275881,6 +275903,7 @@ www.datatalk-dev.genie.stanford.edu
 www.datatalk-ingestion.genie.stanford.edu
 www.datatalk-persistent.genie.stanford.edu
 www.datatalk-sql.genie.stanford.edu
+www.datatalk.genie.stanford.edu
 www.dbudgetsys.stanford.edu
 www.ddh.compute.stanford.edu
 www.decibel.stanford.edu
@@ -278010,5 +278033,3 @@ zz2-3dlab-0822.stanford.edu
 zz3-3dlab-0323.stanford.edu
 zzoappsrv01.slac.stanford.edu
 zzoappsrv02.slac.stanford.edu
-zztoday.slac.stanford.edu
-zzzzzz.stanford.edu
