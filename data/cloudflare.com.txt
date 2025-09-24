@@ -79,6 +79,8 @@
 *.docs.cloudflare.com
 *.domains.cloudflare.com
 *.drand.cloudflare.com
+*.editor.cloudflare.com
+*.editor-staging.cloudflare.com
 *.ethereum.cloudflare.com
 *.fonts.cloudflare.com
 *.fortran.demos.cloudflare.com
@@ -438,6 +440,7 @@ apjc-v2.labs.cloudflare.com
 apjc-v2.labs-staging.cloudflare.com
 apjc.labs.cloudflare.com
 apjc.labs-staging.cloudflare.com
+apjc.labs.cloudflare.com.labs-staging.cloudflare.com
 apjc.v2.labs.cloudflare.com
 apjc.v2.labs-staging.cloudflare.com
 apni1x-dcn.cloudflare.com
@@ -453,6 +456,7 @@ appolo.ns.cloudflare.com
 april.ns.cloudflare.com
 apwest.labs.cloudflare.com
 apwest.labs-staging.cloudflare.com
+apwest.labs.cloudflare.com.labs-staging.cloudflare.com
 ar.cloudflare.com
 ara.ns.cloudflare.com
 aragorn.ns.cloudflare.com
@@ -499,6 +503,7 @@ aubrey.ns.cloudflare.com
 audrey.ns.cloudflare.com
 aueast.labs.cloudflare.com
 aueast.labs-staging.cloudflare.com
+aueast.labs.cloudflare.com.labs-staging.cloudflare.com
 augustus.ns.cloudflare.com
 aurora.ns.cloudflare.com
 austin.ns.cloudflare.com
@@ -8434,10 +8439,12 @@ cml-bastion-apjc-default.labs.cloudflare.com
 cml-bastion-apjc.labs.cloudflare.com
 cml-sso-proxy-orig.labs.cloudflare.com
 cml-sso-proxy-orig.labs-staging.cloudflare.com
+cml-sso-proxy.labs.cloudflare.com
 cml-sso-proxy.labs-staging.cloudflare.com
 cms-api.labs.cloudflare.com
 cms-api.labs-staging.cloudflare.com
 cms.labs.cloudflare.com
+cms.labs-staging.cloudflare.com
 cnd.cloudflare.com
 cndjs.cloudflare.com
 cobol.demos.cloudflare.com
@@ -8462,6 +8469,7 @@ content.cloudflare.com
 content.labs.cloudflare.com
 content.labs-staging.cloudflare.com
 content.v2.labs.cloudflare.com
+content.v2.labs-staging.cloudflare.com
 contrail-staging.ces.dlp.teams.cloudflare.com
 contrail.ces.dlp.teams.cloudflare.com
 cora.ns.cloudflare.com
@@ -8606,6 +8614,7 @@ developers.cloudflare.com
 devices.cloudflare.com
 devices.fed.cloudflare.com
 devin.ns.cloudflare.com
+dex.cloudflare.com
 dexter.ns.cloudflare.com
 diablo.cloudflare.com
 diana.ns.cloudflare.com
@@ -8672,6 +8681,8 @@ edge-staging.admin.sqlite.cloudflare.com
 edge.admin.sqlite.cloudflare.com
 edge01.fra01.cloudflare.com
 edgoo-pni.mad.cloudflare.com
+editor.cloudflare.com
+editor-staging.cloudflare.com
 edna.cloudflare.com
 edna.ns.cloudflare.com
 edward.ns.cloudflare.com
@@ -8740,6 +8751,7 @@ etta.ns.cloudflare.com
 eugene.ns.cloudflare.com
 euwest.labs.cloudflare.com
 euwest.labs-staging.cloudflare.com
+euwest.labs.cloudflare.com.labs-staging.cloudflare.com
 eva.ns.cloudflare.com
 evan.ns.cloudflare.com
 evangeline.ns.cloudflare.com
@@ -10146,6 +10158,7 @@ r.ns.cloudflare.com
 r2-calculator.cloudflare.com
 r2-staging.rpki.cloudflare.com
 r2.labs.cloudflare.com
+r2.labs-staging.cloudflare.com
 r2.rpki.cloudflare.com
 r230.em2.cloudflare.com
 r232.em2.cloudflare.com
@@ -10266,6 +10279,7 @@ salvador.ns.cloudflare.com
 sam.ns.cloudflare.com
 samara.ns.cloudflare.com
 saml-auto.labs.cloudflare.com
+saml-auto.labs-staging.cloudflare.com
 saml-sso-auto.labs.cloudflare.com
 saml-sso-auto.labs-staging.cloudflare.com
 sandbox.one.dash.cloudflare.com
@@ -18281,6 +18295,7 @@ tia.ns.cloudflare.com
 tiffany.ns.cloudflare.com
 tim.ns.cloudflare.com
 time.cloudflare.com
+timescale.dex.cloudflare.com
 tin.ns.cloudflare.com
 tina.ns.cloudflare.com
 tion.ns.cloudflare.com
@@ -18330,7 +18345,10 @@ ursula.ns.cloudflare.com
 usa-server-loc.cloudflare.com
 uscentral.labs.cloudflare.com
 uscentral.labs-staging.cloudflare.com
+uscentral.labs.cloudflare.com.labs-staging.cloudflare.com
 uswest.labs.cloudflare.com
+uswest.labs-staging.cloudflare.com
+uswest.labs.cloudflare.com.labs-staging.cloudflare.com
 v2.radar.cloudflare.com
 val.ns.cloudflare.com
 valentin.ns.cloudflare.com
@@ -18503,3 +18521,5 @@ zlnvl.tw.cdn.cloudflare.com
 zod.ns.cloudflare.com
 zoe.ns.cloudflare.com
 ztx-bff-staging.teams.cloudflare.com
+ztx-bff.teams.cloudflare.com
+ztx-webhooks.one.dash.cloudflare.com

@@ -7,6 +7,7 @@
 *.api.mail-backend-schd-prd.aws.yahoo.cloud
 *.api.mock.identity-gcp-s-compute.gcp.yahoo.cloud
 *.api.oauth.identity-gcp-s-compute.gcp.yahoo.cloud
+*.api.partner.identity-gcp-s-compute.gcp.yahoo.cloud
 *.api.rhapsody-infra-aws-dev.aws.yahoo.cloud
 *.auctions-tw-desktop-k8s.media.yahoo.cloud
 *.centraltech-nonprod1-use1.omega.aws.yahoo.cloud
@@ -97,6 +98,7 @@
 *.flurry-yarn-stg-usw2-hadoop-job-history-server.infra.svc.usw2.grid-aws-staging.aws.yahoo.cloud
 *.flurry-yarn-stg-usw2-hadoop-timelineserver.infra.svc.usw2.grid-aws-staging.aws.yahoo.cloud
 *.flurry-yarn-stg-usw2-hadoop-yarn-rm.infra.svc.usw2.grid-aws-staging.aws.yahoo.cloud
+*.frontend.authn.identity-gcp-s-compute.gcp.yahoo.cloud
 *.googleapis.grid-gcp-staging.gcp.yahoo.cloud
 *.graviton-news-gateway-production.vibe-k8s.media.yahoo.cloud
 *.grid-aws-dev.aws.yahoo.cloud
@@ -283,6 +285,7 @@ api.msd-prod.aws.yahoo.cloud
 api.msd-stage.aws.yahoo.cloud
 api.oauth-service.identity-gcp-p-compute.gcp.yahoo.cloud
 api.oauth.identity-gcp-p-compute.gcp.yahoo.cloud
+api.partner.identity-gcp-p-compute.gcp.yahoo.cloud
 api.rhapsody-infra-aws-dev.aws.yahoo.cloud
 app.paranoids-peng-wg-llaves.aws.yahoo.cloud
 apple.finance-chart-api-production.finance-k8s.media.yahoo.cloud
@@ -422,6 +425,7 @@ flurry-yarn-stg-usw2-hadoop-hdfs-nn.infra.svc.usw2.grid-aws-staging.aws.yahoo.cl
 flurry-yarn-stg-usw2-hadoop-job-history-server.infra.svc.usw2.grid-aws-staging.aws.yahoo.cloud
 flurry-yarn-stg-usw2-hadoop-timelineserver.infra.svc.usw2.grid-aws-staging.aws.yahoo.cloud
 flurry-yarn-stg-usw2-hadoop-yarn-rm.infra.svc.usw2.grid-aws-staging.aws.yahoo.cloud
+frontend.authn.identity-gcp-s-compute.gcp.yahoo.cloud
 funcapi.msd-func.aws.yahoo.cloud
 fzwebservice.payments-aws-services-dev.aws.yahoo.cloud
 fzwebservice.payments-aws-services-stg.aws.yahoo.cloud

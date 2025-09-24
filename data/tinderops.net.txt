@@ -1,4 +1,5 @@
 *.as1.tinderops.net
+*.ci.tinderops.net
 *.eck.ue1az.tinderops.net
 *.prodv2.k8s.tinderops.net
 *.security.k8s.tinderops.net
@@ -50,6 +51,7 @@ cerebro.ue1az.tinderops.net
 cerebro.ue1new.tinderops.net
 cerebro.uw2.tinderops.net
 chaos.tinderops.net
+ci.tinderops.net
 clamav.security.k8s.tinderops.net
 content.prometheus.tinderops.net
 dasera.security.k8s.tinderops.net

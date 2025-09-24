@@ -19,6 +19,7 @@
 *.autotc-inspector.corp.mongodb.com
 *.aws.atlas-gateway.cloud.mongodb.com
 *.aws.atlas-gateway.cloud-qa.mongodb.com
+*.aws.atlas-gateway.cloud-stage.mongodb.com
 *.aws.atlas-metrics.cloud-stage.mongodb.com
 *.aws.atlas-traces.cloud-stage.mongodb.com
 *.aws.realm.mongodb.com
@@ -427,6 +428,7 @@ api.support.staging.corp.mongodb.com
 api.test.corp.mongodb.com
 api.ts-tools.staging.corp.mongodb.com
 apigateway.ts-tools.staging.corp.mongodb.com
+apix-bot.cloud-build.prod.corp.mongodb.com
 apix-bot.cloud-build.staging.corp.mongodb.com
 apix-bot.skunkworks.staging.corp.mongodb.com
 app-mod-builder.app-mod-rnd.staging.corp.mongodb.com
@@ -469,6 +471,7 @@ atlas-data-lake.prod.corp.mongodb.com
 atlas-data-lake.staging.corp.mongodb.com
 atlas-gateway.cloud.mongodb.com
 atlas-gateway.cloud-qa.mongodb.com
+atlas-gateway.cloud-stage.mongodb.com
 atlas-metrics.cloud-stage.mongodb.com
 atlas-pricing-tool-public.corps.staging.corp.mongodb.com
 atlas-pricing.corp.mongodb.com
@@ -991,7 +994,9 @@ global.stitch-staging.ga.aws.cloud.mongodb.com
 go.mongodb.com
 godoc.corp.mongodb.com
 gpt.rsc.prod.corp.mongodb.com
+grafana-api.helix.corp.mongodb.com
 grafana-healthcheck.corp.mongodb.com
+grafana-staging-api.helix.corp.mongodb.com
 grafana-staging.helix.corp.mongodb.com
 grafana.corp.mongodb.com
 grafana.devprod-infra.prod.corp.mongodb.com
@@ -1206,10 +1211,14 @@ marketplace-hub.app-mod-rnd.staging.corp.mongodb.com
 mars-dev-feature-5916-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-6852-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7121-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-7170-test-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-7171-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7201-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7204-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-dp-ui-core-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-kube-api-retries-dev.dataplatform-dev.staging.corp.mongodb.com
+mars.dataplatform.staging.corp.mongodb.com
 mars.prod.corp.mongodb.com
 mars.staging.corp.mongodb.com
 mas.corp.mongodb.com
@@ -1709,6 +1718,7 @@ trino-gateway.devprod-platform.staging.corp.mongodb.com
 trino-jwt-gateway-ai.dataplatform.staging.corp.mongodb.com
 trino-jwt-gateway.dataplatform.prod.corp.mongodb.com
 trino-jwt-gateway.dataplatform.staging.corp.mongodb.com
+trino-oauth-gateway-dev.staging.corp.mongodb.com
 trino-oauth-gateway.staging.corp.mongodb.com
 trino.devprod-platform.staging.corp.mongodb.com
 trust.mongodb.com
@@ -1731,6 +1741,7 @@ university-tests.mongodb.com
 urp-dev.devprod-infra.staging.corp.mongodb.com
 urp-dev.staging.corp.mongodb.com
 urp-integration-staging.devprod-infra.staging.corp.mongodb.com
+urp-joe-dipilato.devprod-infra.staging.corp.mongodb.com
 urp.devprod-infra.prod.corp.mongodb.com
 urp.devprod-infra.staging.corp.mongodb.com
 urp.prod.corp.mongodb.com
@@ -2024,4 +2035,3 @@ yuzhou-web-app.test.corp.mongodb.com
 yuzhou.devops.test.corp.mongodb.com
 yuzhou2.devops.test.corp.mongodb.com
 zap-dev.salesops.staging.corp.mongodb.com
-zd-approvals.corp.mongodb.com

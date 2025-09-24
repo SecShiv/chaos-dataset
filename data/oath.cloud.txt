@@ -3529,6 +3529,7 @@
 *.dcs-mx3-dev.aws.oath.cloud
 *.dcs-online-targeting-dev.aws.oath.cloud
 *.dcs-online-targeting-prd.aws.oath.cloud
+*.dcs-poseidon-dev.aws.oath.cloud
 *.dcs-sabre-dev.aws.oath.cloud
 *.dcs-sabre-prd.aws.oath.cloud
 *.dcs-tgt-anltcs-dev.aws.oath.cloud
@@ -3878,6 +3879,7 @@
 *.e546b3d1.a.cd.vespa.oath.cloud
 *.e546b3d1.g.cd.vespa.oath.cloud
 *.e546b3d1.z.cd.vespa.oath.cloud
+*.e5749704.z.vespa.oath.cloud
 *.e5772439.a.vespa.oath.cloud
 *.e5772439.g.vespa.oath.cloud
 *.e5772439.z.vespa.oath.cloud
@@ -7476,6 +7478,7 @@
 *.ylin17.affiliate-beta.intl-commerce.us-east-1.dev.vespa.oath.cloud
 *.ylin17.affiliate-beta.intl-commerce.us-east-3.perf.vespa.oath.cloud
 *.ylin17.affiliate.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
+*.ylin19.gds-w-syms.ect-srch.aws-us-east-2a.perf.vespa.oath.cloud
 *.ynpm-search.ynpm-search.aws-us-west-2a.staging.vespa.oath.cloud
 *.ynpm-search.ynpm-search.aws-us-west-2a.test.vespa.oath.cloud
 *.ynpm-search.ynpm-search.gcp-us-east5-a.staging.vespa.oath.cloud
@@ -8741,6 +8744,7 @@ api.paranoids-vuln-firemon.aws.oath.cloud
 api.paranoids-vuln-splunk.aws.oath.cloud
 api.release-ui.one-mobile-dev.aws.oath.cloud
 api.rhapsody-infra-aws-dev.aws.oath.cloud
+api.search-aws-gossip-nonprod.aws.oath.cloud
 api.srs-dev.pcp.aws.oath.cloud
 api.srs-prod.pcp.aws.oath.cloud
 api.subscriptions-cc-aws-dev.aws.oath.cloud
@@ -12497,9 +12501,11 @@ dcs-core-dmp-prd.aws.oath.cloud
 dcs-kite-dev.aws.oath.cloud
 dcs-kite-prd.aws.oath.cloud
 dcs-metroplex-api.dev.aws.oath.cloud
+dcs-metroplex-prd.aws.oath.cloud
 dcs-modeling-scoring-dev.aws.oath.cloud
 dcs-mx3-dev.aws.oath.cloud
 dcs-online-targeting-prd.aws.oath.cloud
+dcs-poseidon-dev.aws.oath.cloud
 dcs-sabre-dev.aws.oath.cloud
 dcs-sabre-prd.aws.oath.cloud
 dd12fccb.amphorae.service.tw1.ows.oath.cloud
@@ -20877,6 +20883,7 @@ vkez4ibtsttduhnc57srmyooh55owhfhz.vespa.oath.cloud
 vkf5yh3qk6tk23uienhvyf344vrdpp433.vespa.oath.cloud
 vkfc655q76qdz6vmcb6xsvfa57m6yynk2.cd.vespa.oath.cloud
 vkfc655q76qdz6vmcb6xsvfa57m6yynk2.vespa.oath.cloud
+vkfxqgmxomm7ax5am7k45fmoixuvfxfxw.vespa.oath.cloud
 vkh3s2vdc3f5btpso3voj5kb277tn2b6h.vespa.oath.cloud
 vkhoajd5ulhnt2sfjlazbx7vnupyv2fxf.cd.vespa.oath.cloud
 vkhoajd5ulhnt2sfjlazbx7vnupyv2fxf.public-cd.vespa.oath.cloud
@@ -22318,6 +22325,7 @@ ylin17.affiliate.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
 ylin17.music.sandbox.aws-us-east-2a.dev.vespa.oath.cloud
 ylin17.music.sandbox.us-east-1.dev.vespa.oath.cloud
 ylin17.weapon-store.eric-test.us-east-1.dev.vespa.oath.cloud
+ylin19.gds-w-syms.ect-srch.aws-us-east-2a.perf.vespa.oath.cloud
 yms-int-cdn.mse-dev.aws.oath.cloud
 yms-qa-cdn.mse-dev.aws.oath.cloud
 yms-test-cdn.mse-dev.aws.oath.cloud

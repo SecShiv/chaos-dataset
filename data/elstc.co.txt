@@ -224,6 +224,7 @@ argo-wf-stg-awsuse1-cp-app-3.staging.cld.elstc.co
 argo-wf-stg-awsuse1-cp-global.staging.cld.elstc.co
 argo-wf-stg-awsuse1-cp-internal-app-1.staging.cld.elstc.co
 argo-wf-stg-awsuse1-cp-internal-app-2.staging.cld.elstc.co
+argo-wf-stg-awsuse1-ecp-renovate-1.staging.cld.elstc.co
 argo-wf-stg-awsuse1-hosted-1.staging.cld.elstc.co
 argo-wf-stg-gcpusc1-cp-app-1.staging.cld.elstc.co
 argo-workflows-genesis.cd.dev.cld.elstc.co
@@ -661,6 +662,7 @@ dev-mergedev31jan.app.elstc.co
 dev-misc-frontendfixes.app.elstc.co
 dev-modblock-spacingfixes.app.elstc.co
 dev-modblockfixes.app.elstc.co
+dev-modularblock-spacing.app.elstc.co
 dev-modularblocks.app.elstc.co
 dev-mulesoft-add-vault.app.elstc.co
 dev-naas-l10n-links-15582.app.elstc.co
@@ -725,8 +727,10 @@ dev-restructure.app.elstc.co
 dev-robots-seo-16067.app.elstc.co
 dev-rp-14723-blog-rss.app.elstc.co
 dev-sanity-blogauthor-seo-16138.app.elstc.co
+dev-sanity-card-padding-15750.app.elstc.co
 dev-sanity-meetups-latest-15483.app.elstc.co
 dev-sanity-seo-bugs-14474.app.elstc.co
+dev-sanity-titletext-15751.app.elstc.co
 dev-search-autosuggest.app.elstc.co
 dev-search-l10n-15631.app.elstc.co
 dev-search-locales-gh12698.app.elstc.co
@@ -964,6 +968,7 @@ http-logger.app.elstc.co
 infosec-assets.app.elstc.co
 infra.elstc.co
 infra-kibana.prod-emea.eden.elstc.co
+ingest.eu-west-1.aws.qa.cld.elstc.co
 ingress.eden.elstc.co
 intotheindex.staging.ingress.eden.elstc.co
 inventory.elstc.co
@@ -4668,6 +4673,7 @@ nginx-ingress-test-30635.elastic-uploader-production.elstc.co
 nginx-ingress-test-30636.ea-registry-production.elstc.co
 nginx-ingress-test-30645.ea-release.elstc.co
 nginx-ingress-test-30646.elastic-uploader-production.elstc.co
+nginx-ingress-test-30652.ea-registry-staging.elstc.co
 nginx-ingress-test-30656.ea-registry-staging.elstc.co
 nginx-ingress-test-30666.ea-registry-staging.elstc.co
 nginx-ingress-test-30690.ea-eden-staging.elstc.co

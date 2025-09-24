@@ -127,6 +127,7 @@ ai-agentic-service-61.adtech.ci.dailymotion.com
 ai-agentic-service-62.adtech.ci.dailymotion.com
 ai-agentic-service-63.adtech.ci.dailymotion.com
 ai-agentic-service-64.adtech.ci.dailymotion.com
+ai-agentic-service-65.adtech.ci.dailymotion.com
 ai-agentic-ui-29.adtech.ci.dailymotion.com
 ai-agentic-ui-30.adtech.ci.dailymotion.com
 ai-agentic-ui-32.adtech.ci.dailymotion.com
@@ -136,6 +137,7 @@ ai-agentic-ui-36.adtech.ci.dailymotion.com
 ai-agentic-ui-37.adtech.ci.dailymotion.com
 ai-agentic-ui-40.adtech.ci.dailymotion.com
 ai-agentic-ui-43.adtech.ci.dailymotion.com
+ai-agentic-ui-45.adtech.ci.dailymotion.com
 airflow-2.data-kub.gcp.dailymotion.com
 airflow-2.data-kub.stage.gcp.dailymotion.com
 airflow.data-kub.dev.gcp.dailymotion.com
@@ -448,6 +450,7 @@ ber.dailymotion.com
 beta.dailymotion.com
 betaplayer.dailymotion.com
 bfm.dailymotion.com
+bigquery-mcp.data.dailymotion.com
 bigquery-mcp.stg.data.dailymotion.com
 blackboxsvc.dailymotion.com
 blog.dailymotion.com
@@ -470,6 +473,7 @@ brand.dailymotion.com
 brd-gan-srv.dailymotion.com
 bufferfy.dailymotion.com
 business.dailymotion.com
+captcha2.dailymotion.com
 careers.dailymotion.com
 cargo-01.ext.dc3.dailymotion.com
 cargo-02.ext.dc3.dailymotion.com
@@ -648,6 +652,8 @@ core-video-294.ci.dailymotion.com
 core-video-295.ci.dailymotion.com
 core-video-299.ci.dailymotion.com
 core-video-3.ci.dailymotion.com
+core-video-302.ci.dailymotion.com
+core-video-303.ci.dailymotion.com
 core-video-49.ci.dailymotion.com
 core-video-54.ci.dailymotion.com
 core-video-55.ci.dailymotion.com
@@ -892,6 +898,7 @@ data-search-provider-254.ci.dailymotion.com
 data-search-provider-255.ci.dailymotion.com
 data-search-provider-256.ci.dailymotion.com
 data-search-provider-257.ci.dailymotion.com
+data-search-provider-258.ci.dailymotion.com
 data-ssa-ws.data-kub.dev.gcp.dailymotion.com
 data-ssa-ws.data-kub.gcp.dailymotion.com
 data-ssa-ws.data-kub.stage.gcp.dailymotion.com
@@ -1062,6 +1069,7 @@ devexp-fake-python-service-457.ci.dailymotion.com
 devexp-fake-python-service-458.ci.dailymotion.com
 devexp-fake-python-service-458.stg.ci.dailymotion.com
 devexp-fake-python-service-460.stg.ci.dailymotion.com
+devexp-fake-python-service-461.stg.ci.dailymotion.com
 devexp-fake-python-service-pr-267.stg.ci.dailymotion.com
 devexp-grafana-20.ci.dailymotion.com
 devexp-grafana-24.ci.dailymotion.com
@@ -1613,6 +1621,8 @@ internaltools-gifct-25.ci.dailymotion.com
 internaltools-graphql-1008.ci.dailymotion.com
 internaltools-graphql-1020.ci.dailymotion.com
 internaltools-graphql-1021.ci.dailymotion.com
+internaltools-graphql-1023.ci.dailymotion.com
+internaltools-graphql-1024.ci.dailymotion.com
 internaltools-graphql-859.ci.dailymotion.com
 internaltools-graphql-906.ci.dailymotion.com
 internaltools-graphql-910.ci.dailymotion.com
@@ -1883,6 +1893,9 @@ leo-console-api-3000.adtech.ci.dailymotion.com
 leo-console-api-3001-apidoc.adtech.ci.dailymotion.com
 leo-console-api-3001-ui.adtech.ci.dailymotion.com
 leo-console-api-3001.adtech.ci.dailymotion.com
+leo-console-api-3002-apidoc.adtech.ci.dailymotion.com
+leo-console-api-3002-ui.adtech.ci.dailymotion.com
+leo-console-api-3002.adtech.ci.dailymotion.com
 leo-console-app-3124-api.adtech.ci.dailymotion.com
 leo-console-app-3124-cypress-api.adtech.ci.dailymotion.com
 leo-console-app-3124-cypress-dashboard.adtech.ci.dailymotion.com
@@ -1965,6 +1978,8 @@ leo-console-app-3141-api.adtech.ci.dailymotion.com
 leo-console-app-3141-cypress-api.adtech.ci.dailymotion.com
 leo-console-app-3141-cypress-dashboard.adtech.ci.dailymotion.com
 leo-console-app-3141-cypress-director.adtech.ci.dailymotion.com
+leo-console-app-3141-minio.adtech.ci.dailymotion.com
+leo-console-app-3141.adtech.ci.dailymotion.com
 leo-context-segment-22.adtech.ci.dailymotion.com
 leo-data-api-10.ci.dailymotion.com
 leo-data-api-17.ci.dailymotion.com
@@ -4122,12 +4137,14 @@ westeros-gbased-4893.ci.dailymotion.com
 westeros-gbased-4894.ci.dailymotion.com
 westeros-gbased-4895.ci.dailymotion.com
 westeros-gbased-4901.ci.dailymotion.com
+westeros-gbased-4903.ci.dailymotion.com
 westeros-hermes-473.ci.dailymotion.com
 westeros-hermes-476.ci.dailymotion.com
 westeros-hermes-478.ci.dailymotion.com
 westeros-hermes-482.ci.dailymotion.com
 westeros-hermes-501.ci.dailymotion.com
 westeros-hermes-502.ci.dailymotion.com
+westeros-hermes-504.ci.dailymotion.com
 westeros-oauth-684.ci.dailymotion.com
 westeros-oauth-694.ci.dailymotion.com
 westeros-oauth-695.ci.dailymotion.com

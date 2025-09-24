@@ -1069,6 +1069,8 @@ b.plus.walmart.com
 b.super.walmart.com
 b.wallet-teflon.business-teflon.walmart.com
 b.wallet-teflon.www-teflon.walmart.com
+b.wallet.business.walmart.com
+b.wallet.www.walmart.com
 b.www.walmart.com
 b.www-e16.walmart.com
 b.www-perf.walmart.com
@@ -2312,6 +2314,8 @@ cpa-qa.walmart.com.walmart.com
 cpa-ui.walmart.com
 cpa-ui-stg.walmart.com
 cpangaeaptf.qa.walmart.com
+cpay-wrapper-pci.cc-core-project-pci.stage.walmart.com
+cqa-vip35-cpay-wrapper-pci.cc-core-project-pci.stage.walmart.com
 crab.walmart.com
 cran.artifacts.walmart.com
 cran.artifacts.azeast.walmart.com
@@ -2751,6 +2755,7 @@ developer.api.stg.jp.walmart.com
 developer.api.uk.walmart.com
 developer.api.uk.stg.walmart.com
 developer.api.us.walmart.com
+developer.api.us.qa.walmart.com
 developer.api.us.stg.walmart.com
 developer.api.us2.walmart.com
 developer.api.us2.stg.walmart.com
@@ -3526,6 +3531,7 @@ epi-miscqa-vip01-www.test12345.walmart.com
 epi-miscqa-vip01-www.test24.walmart.com
 epi-miscqa-vip01-www.test28.walmart.com
 epi-miscqa-vip01-www.test29.walmart.com
+epi-miscqa-vip02-developer.api.us.qa.walmart.com
 epi-miscqa-vip02-ramesh.walmart.com
 epi-miscqa-vip02-test.walmart.com
 epi-miscqa-vip03-business-stage.walmart.com
@@ -9034,6 +9040,7 @@ tracing-istio-system.prod.seiyuapis.cloud.walmart.com
 tracing-istio-system.stg.seiyuapis.cloud.walmart.com
 track.walmart.com
 tracking.walmart.com
+tracking.ib.transaction.walmart.com
 tracking01.walmart.com
 trafffndation.cws.qa.walmart.com
 traffic-service.walmart.com
@@ -9954,5 +9961,3 @@ zy-prod2.walmart.com
 zy-test1.walmart.com
 zy-test2.walmart.com
 zy-test3.walmart.com
-zy-www.walmart.com
-zy.testing.walmart.com

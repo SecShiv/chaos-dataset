@@ -973,6 +973,7 @@
 *.crsfin.prometheus.fp.commerce.microsoft.com
 *.cs-ca1.healthplatform.microsoft.com
 *.cs-canary.healthplatform.microsoft.com
+*.cs-de1.healthplatform.microsoft.com
 *.cs-fr1.healthplatform.microsoft.com
 *.cs-uk1.healthplatform.microsoft.com
 *.cs-us1.healthplatform.microsoft.com
@@ -1351,6 +1352,7 @@
 *.elixirppe.microsoft.com
 *.email.communication.gcc.microsoft.com
 *.email.dev.communication.microsoft.com
+*.email.events.microsoft.com
 *.email.int.communication.microsoft.com
 *.email.npe.communication.microsoft.com
 *.email.ppe.communication.microsoft.com
@@ -1395,6 +1397,7 @@
 *.entitlements.mp.microsoft.com
 *.entitlementservice.cs-ca1.healthplatform.microsoft.com
 *.entitlementservice.cs-canary.healthplatform.microsoft.com
+*.entitlementservice.cs-de1.healthplatform.microsoft.com
 *.entitlementservice.cs-fr1.healthplatform.microsoft.com
 *.entitlementservice.cs-uk1.healthplatform.microsoft.com
 *.entitlementservice.cs-us1.healthplatform.microsoft.com
@@ -2275,6 +2278,7 @@
 *.ordermanagement-ppe.microsoft.com
 *.orgmanagementservice.cs-ca1.healthplatform.microsoft.com
 *.orgmanagementservice.cs-canary.healthplatform.microsoft.com
+*.orgmanagementservice.cs-de1.healthplatform.microsoft.com
 *.orgmanagementservice.cs-fr1.healthplatform.microsoft.com
 *.orgmanagementservice.cs-uk1.healthplatform.microsoft.com
 *.orgmanagementservice.cs-us1.healthplatform.microsoft.com
@@ -2546,6 +2550,7 @@
 *.provisioningdrop.microsoft.com
 *.provisioningservice.cs-ca1.healthplatform.microsoft.com
 *.provisioningservice.cs-canary.healthplatform.microsoft.com
+*.provisioningservice.cs-de1.healthplatform.microsoft.com
 *.provisioningservice.cs-fr1.healthplatform.microsoft.com
 *.provisioningservice.cs-uk1.healthplatform.microsoft.com
 *.provisioningservice.cs-us1.healthplatform.microsoft.com
@@ -4754,6 +4759,7 @@
 *.speech-test.microsoft.com
 *.speechobjectsservice.cs-ca1.healthplatform.microsoft.com
 *.speechobjectsservice.cs-canary.healthplatform.microsoft.com
+*.speechobjectsservice.cs-de1.healthplatform.microsoft.com
 *.speechobjectsservice.cs-fr1.healthplatform.microsoft.com
 *.speechobjectsservice.cs-uk1.healthplatform.microsoft.com
 *.speechobjectsservice.cs-us1.healthplatform.microsoft.com
@@ -6700,6 +6706,7 @@
 *.z21.daily-dfs.fabric.microsoft.com
 *.z21.daily-onelake.fabric.microsoft.com
 *.z21.daily-sql.cosmos.fabric.microsoft.com
+*.z21.daily-table.fabric.microsoft.com
 *.z21.dailygraphql.fabric.microsoft.com
 *.z21.dailyuserdatafunctions.fabric.microsoft.com
 *.z21.datawarehouse.fabric.microsoft.com
@@ -7052,6 +7059,7 @@
 *.z29.daily-dfs.fabric.microsoft.com
 *.z29.daily-onelake.fabric.microsoft.com
 *.z29.daily-sql.cosmos.fabric.microsoft.com
+*.z29.daily-table.fabric.microsoft.com
 *.z29.dailygraphql.fabric.microsoft.com
 *.z29.dailyuserdatafunctions.fabric.microsoft.com
 *.z29.datawarehouse.fabric.microsoft.com
@@ -7320,6 +7328,7 @@
 *.z2f.daily-dfs.fabric.microsoft.com
 *.z2f.daily-onelake.fabric.microsoft.com
 *.z2f.daily-sql.cosmos.fabric.microsoft.com
+*.z2f.daily-table.fabric.microsoft.com
 *.z2f.dailygraphql.fabric.microsoft.com
 *.z2f.dailyuserdatafunctions.fabric.microsoft.com
 *.z2f.datawarehouse.fabric.microsoft.com
@@ -7501,6 +7510,7 @@
 *.z33.daily-dfs.fabric.microsoft.com
 *.z33.daily-onelake.fabric.microsoft.com
 *.z33.daily-sql.cosmos.fabric.microsoft.com
+*.z33.daily-table.fabric.microsoft.com
 *.z33.dailygraphql.fabric.microsoft.com
 *.z33.dailyuserdatafunctions.fabric.microsoft.com
 *.z33.datawarehouse.fabric.microsoft.com
@@ -7544,6 +7554,7 @@
 *.z34.daily-dfs.fabric.microsoft.com
 *.z34.daily-onelake.fabric.microsoft.com
 *.z34.daily-sql.cosmos.fabric.microsoft.com
+*.z34.daily-table.fabric.microsoft.com
 *.z34.dailygraphql.fabric.microsoft.com
 *.z34.dailyuserdatafunctions.fabric.microsoft.com
 *.z34.datawarehouse.fabric.microsoft.com
@@ -7764,6 +7775,7 @@
 *.z39.daily-dfs.fabric.microsoft.com
 *.z39.daily-onelake.fabric.microsoft.com
 *.z39.daily-sql.cosmos.fabric.microsoft.com
+*.z39.daily-table.fabric.microsoft.com
 *.z39.dailygraphql.fabric.microsoft.com
 *.z39.dailyuserdatafunctions.fabric.microsoft.com
 *.z39.datawarehouse.fabric.microsoft.com
@@ -8206,6 +8218,7 @@
 *.z43.daily-dfs.fabric.microsoft.com
 *.z43.daily-onelake.fabric.microsoft.com
 *.z43.daily-sql.cosmos.fabric.microsoft.com
+*.z43.daily-table.fabric.microsoft.com
 *.z43.dailygraphql.fabric.microsoft.com
 *.z43.dailyuserdatafunctions.fabric.microsoft.com
 *.z43.datawarehouse.fabric.microsoft.com
@@ -8472,6 +8485,7 @@
 *.z49.daily-dfs.fabric.microsoft.com
 *.z49.daily-onelake.fabric.microsoft.com
 *.z49.daily-sql.cosmos.fabric.microsoft.com
+*.z49.daily-table.fabric.microsoft.com
 *.z49.dailygraphql.fabric.microsoft.com
 *.z49.dailyuserdatafunctions.fabric.microsoft.com
 *.z49.datawarehouse.fabric.microsoft.com
@@ -8909,6 +8923,7 @@
 *.z53.daily-datawarehouse.fabric.microsoft.com
 *.z53.daily-dfs.fabric.microsoft.com
 *.z53.daily-onelake.fabric.microsoft.com
+*.z53.daily-table.fabric.microsoft.com
 *.z53.dailygraphql.fabric.microsoft.com
 *.z53.dailyuserdatafunctions.fabric.microsoft.com
 *.z53.datawarehouse.fabric.microsoft.com
@@ -9257,6 +9272,7 @@
 *.z5b.daily-dfs.fabric.microsoft.com
 *.z5b.daily-onelake.fabric.microsoft.com
 *.z5b.daily-sql.cosmos.fabric.microsoft.com
+*.z5b.daily-table.fabric.microsoft.com
 *.z5b.dailygraphql.fabric.microsoft.com
 *.z5b.dailyuserdatafunctions.fabric.microsoft.com
 *.z5b.datawarehouse.fabric.microsoft.com
@@ -9917,6 +9933,8 @@
 *.z6a.daily-dfs.fabric.microsoft.com
 *.z6a.daily-onelake.fabric.microsoft.com
 *.z6a.daily-sql.cosmos.fabric.microsoft.com
+*.z6a.dailygraphql.fabric.microsoft.com
+*.z6a.dailyuserdatafunctions.fabric.microsoft.com
 *.z6a.datawarehouse.fabric.microsoft.com
 *.z6a.datawarehouse.fabric-df.microsoft.com
 *.z6a.dfs.fabric.microsoft.com
@@ -10968,6 +10986,7 @@
 *.z82.daily-dfs.fabric.microsoft.com
 *.z82.daily-onelake.fabric.microsoft.com
 *.z82.daily-sql.cosmos.fabric.microsoft.com
+*.z82.daily-table.fabric.microsoft.com
 *.z82.dailygraphql.fabric.microsoft.com
 *.z82.dailyuserdatafunctions.fabric.microsoft.com
 *.z82.datawarehouse.fabric.microsoft.com
@@ -11230,6 +11249,7 @@
 *.z88.daily-dfs.fabric.microsoft.com
 *.z88.daily-onelake.fabric.microsoft.com
 *.z88.daily-sql.cosmos.fabric.microsoft.com
+*.z88.daily-table.fabric.microsoft.com
 *.z88.dailygraphql.fabric.microsoft.com
 *.z88.dailyuserdatafunctions.fabric.microsoft.com
 *.z88.datawarehouse.fabric.microsoft.com
@@ -12951,6 +12971,7 @@
 *.zaf.daily-dfs.fabric.microsoft.com
 *.zaf.daily-onelake.fabric.microsoft.com
 *.zaf.daily-sql.cosmos.fabric.microsoft.com
+*.zaf.daily-table.fabric.microsoft.com
 *.zaf.dailygraphql.fabric.microsoft.com
 *.zaf.dailyuserdatafunctions.fabric.microsoft.com
 *.zaf.datawarehouse.fabric.microsoft.com
@@ -12994,6 +13015,7 @@
 *.zb0.daily-dfs.fabric.microsoft.com
 *.zb0.daily-onelake.fabric.microsoft.com
 *.zb0.daily-sql.cosmos.fabric.microsoft.com
+*.zb0.daily-table.fabric.microsoft.com
 *.zb0.dailygraphql.fabric.microsoft.com
 *.zb0.dailyuserdatafunctions.fabric.microsoft.com
 *.zb0.datawarehouse.fabric.microsoft.com
@@ -13430,6 +13452,7 @@
 *.zba.daily-dfs.fabric.microsoft.com
 *.zba.daily-onelake.fabric.microsoft.com
 *.zba.daily-sql.cosmos.fabric.microsoft.com
+*.zba.daily-table.fabric.microsoft.com
 *.zba.datawarehouse.fabric.microsoft.com
 *.zba.datawarehouse.fabric-df.microsoft.com
 *.zba.dfs.fabric.microsoft.com
@@ -13735,6 +13758,7 @@
 *.zc1.daily-dfs.fabric.microsoft.com
 *.zc1.daily-onelake.fabric.microsoft.com
 *.zc1.daily-sql.cosmos.fabric.microsoft.com
+*.zc1.daily-table.fabric.microsoft.com
 *.zc1.dailygraphql.fabric.microsoft.com
 *.zc1.dailyuserdatafunctions.fabric.microsoft.com
 *.zc1.datawarehouse.fabric.microsoft.com
@@ -14610,6 +14634,7 @@
 *.zd5.daily-dfs.fabric.microsoft.com
 *.zd5.daily-onelake.fabric.microsoft.com
 *.zd5.daily-sql.cosmos.fabric.microsoft.com
+*.zd5.daily-table.fabric.microsoft.com
 *.zd5.dailygraphql.fabric.microsoft.com
 *.zd5.dailyuserdatafunctions.fabric.microsoft.com
 *.zd5.datawarehouse.fabric.microsoft.com
@@ -14832,6 +14857,7 @@
 *.zda.daily-dfs.fabric.microsoft.com
 *.zda.daily-onelake.fabric.microsoft.com
 *.zda.daily-sql.cosmos.fabric.microsoft.com
+*.zda.daily-table.fabric.microsoft.com
 *.zda.dailygraphql.fabric.microsoft.com
 *.zda.dailyuserdatafunctions.fabric.microsoft.com
 *.zda.datawarehouse.fabric.microsoft.com
@@ -15010,6 +15036,7 @@
 *.zde.daily-dfs.fabric.microsoft.com
 *.zde.daily-onelake.fabric.microsoft.com
 *.zde.daily-sql.cosmos.fabric.microsoft.com
+*.zde.daily-table.fabric.microsoft.com
 *.zde.dailygraphql.fabric.microsoft.com
 *.zde.dailyuserdatafunctions.fabric.microsoft.com
 *.zde.datawarehouse.fabric.microsoft.com
@@ -15185,6 +15212,7 @@
 *.ze2.daily-dfs.fabric.microsoft.com
 *.ze2.daily-onelake.fabric.microsoft.com
 *.ze2.daily-sql.cosmos.fabric.microsoft.com
+*.ze2.daily-table.fabric.microsoft.com
 *.ze2.dailygraphql.fabric.microsoft.com
 *.ze2.dailyuserdatafunctions.fabric.microsoft.com
 *.ze2.datawarehouse.fabric.microsoft.com
@@ -15273,6 +15301,7 @@
 *.ze4.daily-dfs.fabric.microsoft.com
 *.ze4.daily-onelake.fabric.microsoft.com
 *.ze4.daily-sql.cosmos.fabric.microsoft.com
+*.ze4.daily-table.fabric.microsoft.com
 *.ze4.dailygraphql.fabric.microsoft.com
 *.ze4.dailyuserdatafunctions.fabric.microsoft.com
 *.ze4.datawarehouse.fabric.microsoft.com
@@ -28148,6 +28177,7 @@ agentservicepubuataoc.parttest.extranettest.microsoft.com
 agentservicepubuatapj.parttest.extranettest.microsoft.com
 agentservicestg.partners.extranet.microsoft.com
 agentserviceuatapj.parttest.extranettest.microsoft.com
+agentsn.amsub0202.manage.microsoft.com
 agenttools.xbox.com.glbdns2.microsoft.com
 agentur-in-nuernberg.epubuataoc.parttest.extranettest.microsoft.com
 agentweb.store.microsoft.com
@@ -28573,8 +28603,10 @@ ambausx-ucc-prd-au.securitycenter.microsoft.com
 ambausx-ucc-prd-aue.securitycenter.microsoft.com
 ambausx-ucc-prd-aus.securitycenter.microsoft.com
 ambausx-ucc-prd-cus.securitycenter.microsoft.com
+ambausx-ucc-prd-cus3.securitycenter.microsoft.com
 ambausx-ucc-prd-eu.securitycenter.microsoft.com
 ambausx-ucc-prd-eus2.securitycenter.microsoft.com
+ambausx-ucc-prd-eus3.securitycenter.microsoft.com
 ambausx-ucc-prd-ina.securitycenter.microsoft.com
 ambausx-ucc-prd-inc0a.securitycenter.microsoft.com
 ambausx-ucc-prd-ins0a.securitycenter.microsoft.com
@@ -28586,6 +28618,7 @@ ambausx-ucc-prd-uk.securitycenter.microsoft.com
 ambausx-ucc-prd-uks.securitycenter.microsoft.com
 ambausx-ucc-prd-ukw.securitycenter.microsoft.com
 ambausx-ucc-prd-us.securitycenter.microsoft.com
+ambausx-ucc-prd-us3.securitycenter.microsoft.com
 ambausx-ucc-prd-weu.securitycenter.microsoft.com
 ambausx-ucs-can-can.securitycenter.microsoft.com
 ambausx-ucs-can-canc.securitycenter.microsoft.com
@@ -78121,6 +78154,7 @@ contributorsearch.microsoft.com
 contributorsearch-origin.mediaservices.microsoft.com
 contributorsearch-ssl.ppe.microsoft.com
 controlledconfigpolicysigning.manage-dogfood.microsoft.com
+controlledconfigpolicysigning.manage-selfhost.microsoft.com
 controlplane.healthplatform.microsoft.com
 controls-int.corp.microsoft.com
 controls-int.cp.microsoft.com
@@ -80944,6 +80978,7 @@ dcattipapi.mp.glbdns2.microsoft.com
 dcattipcmd.mp.glbdns2.microsoft.com
 dcattipsolutions.mp.glbdns2.microsoft.com
 dcc-int.mp.microsoft.com
+dcc-test.microsoft.com
 dcc.kg.microsoft.com
 dcc.mp.microsoft.com
 dccareerhub.microsoft.com
@@ -81053,6 +81088,7 @@ ddiapilab.corp.microsoft.com
 ddigeneva.redmond.corp.microsoft.com
 ddigenevamonitoringagent.corp.microsoft.com
 ddilegacyweblab.corp.microsoft.com
+ddimodernweb-poc.corp.microsoft.com
 ddimodernweb.corp.microsoft.com
 ddimodernweblab.corp.microsoft.com
 dditsql.redmond.corp.microsoft.com
@@ -81065,6 +81101,7 @@ dditsqln1.redmond.corp.microsoft.com
 dditsqln2.redmond.corp.microsoft.com
 ddiweb.corp.microsoft.com
 ddiwebha.corp.microsoft.com
+ddiwebhalab.corp.microsoft.com
 ddiweblab.corp.microsoft.com
 ddiwebuat.redmond.corp.microsoft.com
 ddlabconnector.redmond.corp.microsoft.com
@@ -81078,6 +81115,7 @@ ddomwms01.redmond.corp.microsoft.com
 ddomwms03.redmond.corp.microsoft.com
 ddomwms05.redmond.corp.microsoft.com
 ddomwms07.redmond.corp.microsoft.com
+ddpurch-staging.microsoft.com
 ddrdpgw01.redmond.corp.microsoft.com
 ddrtsd.redmond.corp.microsoft.com
 ddrtsd.sourcedepot.corp.microsoft.com
@@ -83234,6 +83272,7 @@ dstestsiteuat.corp.microsoft.com
 dsts.ecs.microsoft.com
 dsts.ecs-dev.microsoft.com
 dsts.ecs-int.microsoft.com
+dsts.mira.ecs.microsoft.com
 dstsclient.aircapi.int.payouts.microsoft.com
 dstsppe-authentication.mace.microsoft.com
 dswebapi.corp.microsoft.com
@@ -84213,6 +84252,7 @@ edmereceng01.corp.microsoft.com
 edmerecppe.corp.microsoft.com
 edms.microsoft.com
 edmt-dev.microsoft.com
+edmt-prod.microsoft.com
 edmtapi.corp.microsoft.com
 edmtapidev.corp.microsoft.com
 edmtapiuat.corp.microsoft.com
@@ -85393,6 +85433,7 @@ estb.db2.cb3.glbdns.microsoft.com
 estb.db2.cb3.glbdns2.microsoft.com
 estimator.microsoft.com
 estimator-api-prod.microsoft.com
+estimator-preprod.fabric.microsoft.com
 estimatordiy.microsoft.com
 estimatorsit.microsoft.com
 estimiza.crypttordiy.microsoft.com
@@ -88161,6 +88202,7 @@ foundershub-dev.startups.microsoft.com
 foundershub-ppe-aks.startups.microsoft.com
 foundershub-ppe.startups.microsoft.com
 foundershub.startups.microsoft.com
+foxglove.mstic.signals.microsoft.com
 fp-db.ds.microsoft.com
 fp-pr1.ds.microsoft.com
 fp-tk2.ds.microsoft.com
@@ -91689,6 +91731,7 @@ i4.services.social.microsoft.com
 i4.social.microsoft.com
 i4.technet.microsoft.com
 ia.microsoft.com
+ia.auth.globalsecureaccess.microsoft.com
 iad.servicesnet.microsoft.com
 iad3.servicesnet.microsoft.com
 iad31ga.servicesnet.microsoft.com
@@ -92415,6 +92458,7 @@ ingest-trd-3aa9213kp4bxfpr0e1.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-3chavy7y8n4qu90gtn.z5.dev.kusto.fabric.microsoft.com
 ingest-trd-3dpvk4ar9efhb5xs0g.z5.dev.kusto.fabric.microsoft.com
 ingest-trd-3gdr1n4e9p5has0ds1.z9.dev.kusto.fabric.microsoft.com
+ingest-trd-3ts1tg41dfxqxw3mau.z2.kusto.fabric.microsoft.com
 ingest-trd-3vcu48j2a6929wg091.z3.dev.kusto.fabric.microsoft.com
 ingest-trd-3x16mns7ag9waucdmt.z6.dev.kusto.fabric.microsoft.com
 ingest-trd-403byh3nmkzmf8qbp8.z4.dev.kusto.fabric.microsoft.com
@@ -95514,6 +95558,7 @@ lexseat.microsoft.com
 lexseatsupport.microsoft.com
 lextestapp1.microsoft.com
 lexuat.download.prss.microsoft.com
+lfivanriian103.network.microsoft.com
 lfivanriip3201.network.microsoft.com
 lfivanriip3202.network.microsoft.com
 lg.microsoft.com
@@ -97816,6 +97861,7 @@ lustuktk5an10n.network.microsoft.com
 lustuktk5an10o.network.microsoft.com
 lustuktk5an10p.network.microsoft.com
 lustuktk5an10q.network.microsoft.com
+lustuktk5an10t.network.microsoft.com
 lustuktk5an10v.network.microsoft.com
 lustuktk5an10w.network.microsoft.com
 lustuktk5an10x.network.microsoft.com
@@ -97859,6 +97905,7 @@ lustuktk5an12c.network.microsoft.com
 lustuktk5an12d.network.microsoft.com
 lustuktk5an12e.network.microsoft.com
 lustuktk5an12f.network.microsoft.com
+lustuktk5an12g.network.microsoft.com
 lustuktk5an12h.network.microsoft.com
 lustuktk5an12k.network.microsoft.com
 lustuktk5an12l.network.microsoft.com
@@ -97896,12 +97943,18 @@ lustuktk5an13p.network.microsoft.com
 lustuktk5an13q.network.microsoft.com
 lustuktk5an13u.network.microsoft.com
 lustuktk5an13v.network.microsoft.com
+lustuktk5an13w.network.microsoft.com
 lustuktk5an13x.network.microsoft.com
 lustuktk5an13y.network.microsoft.com
 lustuktk5an13z.network.microsoft.com
 lustuktk5an149.network.microsoft.com
 lustuktk5an14a.network.microsoft.com
+lustuktk5an14b.network.microsoft.com
+lustuktk5an14c.network.microsoft.com
+lustuktk5an14d.network.microsoft.com
+lustuktk5an14e.network.microsoft.com
 lustuktk5an14f.network.microsoft.com
+lustuktk5an14g.network.microsoft.com
 lustuktk5an14h.network.microsoft.com
 lustuktk5an14i.network.microsoft.com
 lustuktk5an14j.network.microsoft.com
@@ -98073,6 +98126,7 @@ lustuktk5an1aj.network.microsoft.com
 lustuktk5an1ak.network.microsoft.com
 lustuktk5an1am.network.microsoft.com
 lustuktk5an1an.network.microsoft.com
+lustuktk5an1ao.network.microsoft.com
 lustuktk5an1ap.network.microsoft.com
 lustuktk5an1aq.network.microsoft.com
 lustuktk5an1ar.network.microsoft.com
@@ -98099,6 +98153,7 @@ lustuktk5an1bm.network.microsoft.com
 lustuktk5an1bn.network.microsoft.com
 lustuktk5an1bo.network.microsoft.com
 lustuktk5an1bp.network.microsoft.com
+lustuktk5an1bq.network.microsoft.com
 lustuktk5an1br.network.microsoft.com
 lustuktk5an1bs.network.microsoft.com
 lustuktk5an1bt.network.microsoft.com
@@ -98118,6 +98173,7 @@ lustuktk5an1ce.network.microsoft.com
 lustuktk5an1cf.network.microsoft.com
 lustuktk5an1cg.network.microsoft.com
 lustuktk5an1ch.network.microsoft.com
+lustuktk5an1ci.network.microsoft.com
 lustuktk5an1cj.network.microsoft.com
 lustuktk5an1ck.network.microsoft.com
 lustuktk5an1cl.network.microsoft.com
@@ -98126,10 +98182,12 @@ lustuktk5an1cp.network.microsoft.com
 lustuktk5an1cq.network.microsoft.com
 lustuktk5an1cr.network.microsoft.com
 lustuktk5an1cu.network.microsoft.com
+lustuktk5an1cv.network.microsoft.com
 lustuktk5an1cw.network.microsoft.com
 lustuktk5an1cx.network.microsoft.com
 lustuktk5an1cy.network.microsoft.com
 lustuktk5an1cz.network.microsoft.com
+lustuktk5an1d0.network.microsoft.com
 lustuktk5an1d3.network.microsoft.com
 lustuktk5an1d4.network.microsoft.com
 lustuktk5an1d5.network.microsoft.com
@@ -98152,9 +98210,12 @@ lustuktk5an1dw.network.microsoft.com
 lustuktk5an1dx.network.microsoft.com
 lustuktk5an1dy.network.microsoft.com
 lustuktk5an1e0.network.microsoft.com
+lustuktk5an1e2.network.microsoft.com
 lustuktk5an1e3.network.microsoft.com
 lustuktk5an1e4.network.microsoft.com
+lustuktk5an1e5.network.microsoft.com
 lustuktk5an1e6.network.microsoft.com
+lustuktk5an1ea.network.microsoft.com
 lustuktk5an1eb.network.microsoft.com
 lustuktk5an1ec.network.microsoft.com
 lustuktk5an1ed.network.microsoft.com
@@ -98165,19 +98226,23 @@ lustuktk5an1ei.network.microsoft.com
 lustuktk5an1ej.network.microsoft.com
 lustuktk5an1eo.network.microsoft.com
 lustuktk5an1ep.network.microsoft.com
+lustuktk5an1eq.network.microsoft.com
 lustuktk5an1er.network.microsoft.com
 lustuktk5an1es.network.microsoft.com
 lustuktk5an1ev.network.microsoft.com
 lustuktk5an1ex.network.microsoft.com
 lustuktk5an1ey.network.microsoft.com
 lustuktk5an1ez.network.microsoft.com
+lustuktk5an1f0.network.microsoft.com
 lustuktk5an1f1.network.microsoft.com
 lustuktk5an1f2.network.microsoft.com
 lustuktk5an1f3.network.microsoft.com
 lustuktk5an1f4.network.microsoft.com
+lustuktk5an1f7.network.microsoft.com
 lustuktk5an1f9.network.microsoft.com
 lustuktk5an1fb.network.microsoft.com
 lustuktk5an1fc.network.microsoft.com
+lustuktk5an1fd.network.microsoft.com
 lustuktk5an1fh.network.microsoft.com
 lustuktk5an1fi.network.microsoft.com
 lustuktk5an1fj.network.microsoft.com
@@ -98185,6 +98250,7 @@ lustuktk5an1fk.network.microsoft.com
 lustuktk5an1fl.network.microsoft.com
 lustuktk5an1fm.network.microsoft.com
 lustuktk5an1fn.network.microsoft.com
+lustuktk5an1fo.network.microsoft.com
 lustuktk5an1fp.network.microsoft.com
 lustuktk5an1fq.network.microsoft.com
 lustuktk5an1fr.network.microsoft.com
@@ -98193,13 +98259,18 @@ lustuktk5an1ft.network.microsoft.com
 lustuktk5an1fu.network.microsoft.com
 lustuktk5an1fv.network.microsoft.com
 lustuktk5an1fw.network.microsoft.com
+lustuktk5an1fx.network.microsoft.com
 lustuktk5an1fy.network.microsoft.com
 lustuktk5an1g0.network.microsoft.com
 lustuktk5an1g4.network.microsoft.com
 lustuktk5an1g6.network.microsoft.com
 lustuktk5an1g7.network.microsoft.com
+lustuktk5an1g8.network.microsoft.com
 lustuktk5an1g9.network.microsoft.com
+lustuktk5an1ga.network.microsoft.com
 lustuktk5an1gb.network.microsoft.com
+lustuktk5an1gd.network.microsoft.com
+lustuktk5an1ge.network.microsoft.com
 lustuktk5an1gf.network.microsoft.com
 lustuktk5an1gg.network.microsoft.com
 lustuktk5an1gj.network.microsoft.com
@@ -98207,24 +98278,29 @@ lustuktk5an1gk.network.microsoft.com
 lustuktk5an1gm.network.microsoft.com
 lustuktk5an1go.network.microsoft.com
 lustuktk5an1gp.network.microsoft.com
+lustuktk5an1gq.network.microsoft.com
 lustuktk5an1gu.rotortest.microsoft.com
 lustuktk5an1gv.network.microsoft.com
 lustuktk5an1gw.network.microsoft.com
 lustuktk5an1h0.network.microsoft.com
 lustuktk5an1h1.network.microsoft.com
 lustuktk5an1h2.network.microsoft.com
+lustuktk5an1h3.network.microsoft.com
 lustuktk5an1h4.network.microsoft.com
 lustuktk5an1h5.network.microsoft.com
 lustuktk5an1h6.network.microsoft.com
+lustuktk5an1h7.network.microsoft.com
 lustuktk5an1h8.network.microsoft.com
 lustuktk5an1h9.network.microsoft.com
 lustuktk5an1ha.network.microsoft.com
 lustuktk5an1hb.network.microsoft.com
 lustuktk5an1hc.network.microsoft.com
+lustuktk5an1hd.network.microsoft.com
 lustuktk5an1hg.network.microsoft.com
 lustuktk5an1hh.network.microsoft.com
 lustuktk5an1hj.network.microsoft.com
 lustuktk5an1hm.network.microsoft.com
+lustuktk5an1hn.network.microsoft.com
 lustuktk5an1ho.network.microsoft.com
 lustuktk5an1hp.network.microsoft.com
 lustuktk5an1hr.network.microsoft.com
@@ -103285,6 +103361,7 @@ mobile.blu.cb3.glbdns.microsoft.com
 mobile.br.blu.cb3.glbdns.microsoft.com
 mobile.ca.blu.cb3.glbdns.microsoft.com
 mobile.db2.cb3.glbdns.microsoft.com
+mobile.events-int.data.microsoft.com
 mobile.events.data.microsoft.com
 mobile.exlook.microsoft.com
 mobile.in.sin.cb3.glbdns.microsoft.com
@@ -103623,6 +103700,8 @@ mprsweb.client.video.microsoft.com
 mprswebppe.client.video.microsoft.com
 mps-dex-can-cus-611.microsoft.com
 mps-dex-can-eus2-611.microsoft.com
+mps-dex-prd-aue-611.microsoft.com
+mps-dex-prd-aus-611.microsoft.com
 mps-dex-prd-cus-611.microsoft.com
 mps-dex-prd-eus2-611.microsoft.com
 mps-dex-prd-neu-611.microsoft.com
@@ -108242,6 +108321,7 @@ od2sslclientabapsdkprimary.redmond.corp.microsoft.com
 od2sslclientabapsdksecondary.redmond.corp.microsoft.com
 od2sslclientstandard.redmond.corp.microsoft.com
 odata.research.microsoft.com
+odatainternal.adinsight.api.ads.microsoft.com
 odcqa.mmd.microsoft.com
 oddjob-all-prod-westus.cms.microsoft.com
 oddjob-all-prod.cms.microsoft.com
@@ -112956,6 +113036,7 @@ private.geneva.keyvault.devprod.microsoft.com
 private.insiderrisk.microsoft.com
 private.marketplaceapi.microsoft.com
 private.ppe.packages.microsoft.com
+privatelink.packages.microsoft.com
 privatelink.prod.powerquery.microsoft.com
 privatelink.prod.pq-df.microsoft.com
 privatelink.test.packages.microsoft.com
@@ -113480,6 +113561,7 @@ prodinternaldyn.redmond.corp.microsoft.com
 prodintipla.redmond.corp.microsoft.com
 prodkeyvaultconnection.cosmic.microsoft.com
 prodmc-passive.glbdns2.microsoft.com
+prodmemautomationportalapi.meminternal.microsoft.com
 prodmgdid.accountguard.microsoft.com
 prodoaappsts.gtm.corp.microsoft.com
 prodonestoreweb.microsoft.com
@@ -114005,6 +114087,7 @@ pub-prod.dcat.dsp.mp.microsoft.com
 pub-tip.dcat.dsp.mp.microsoft.com
 pub.geneva.keyvault.bmc.teams.microsoft.com
 pub.mac.microsoft.com
+pubble.event.microsoft.com
 pubcenter.microsoft.com
 pubcenter-444.microsoft.com
 pubcenterapi.microsoft.com
@@ -122038,7 +122121,9 @@ sfr1poc1.juno.microsoft.com
 sfr1prod.juno.microsoft.com
 sfr1prod.private.juno.microsoft.com
 sfr1uat.juno.microsoft.com
+sfr1uat.junoppe.microsoft.com
 sfr1uat.private.juno.microsoft.com
+sfr1uat.private.junoppe.microsoft.com
 sfr2int.juno.microsoft.com
 sfr2int.junoppe.microsoft.com
 sfr2int.private.juno.microsoft.com
@@ -122729,6 +122814,7 @@ skillservicesprodeus.prod.fdagw.profileskills.microsoft.com
 skillservicesprodwus.prod.fdagw.profileskills.microsoft.com
 skillservicesuat.microsoft.com
 skillservicesuateus.preprod.fdagw.profileskills.microsoft.com
+skillservicesuatwus.preprod.fdagw.profileskills.microsoft.com
 sknalt.smltenant.microsoft.com
 sknclidemo.smltenant.microsoft.com
 sknclitest.smltenant.microsoft.com
@@ -128690,6 +128776,7 @@ trd-3chavy7y8n4qu90gtn.z5.dev.kusto.fabric.microsoft.com
 trd-3gdr1n4e9p5has0ds1.z9.dev.kusto.fabric.microsoft.com
 trd-3hkumz4juwxb2ende9.z4.dev.kusto.fabric.microsoft.com
 trd-3nzzez17q7epcdqd87.z3.dev.kusto.fabric.microsoft.com
+trd-3ts1tg41dfxqxw3mau.z2.kusto.fabric.microsoft.com
 trd-3vcu48j2a6929wg091.z3.dev.kusto.fabric.microsoft.com
 trd-3x16mns7ag9waucdmt.z6.dev.kusto.fabric.microsoft.com
 trd-403byh3nmkzmf8qbp8.z4.dev.kusto.fabric.microsoft.com
@@ -131964,6 +132051,7 @@ vnext-private-7.ucm.ads.microsoft.com
 vnext-private-9.ucm.ads.microsoft.com
 vnext-test.msapprovals.microsoft.com
 vnext-uat.msapprovals.microsoft.com
+vnext.apply.careers.microsoft.com
 vnext.azureava.microsoft.com
 vnext.careers.microsoft.com
 vnext.dev-azureava.microsoft.com
@@ -135088,6 +135176,7 @@ zachza.myworkspace.microsoft.com
 zaf.daas.microsoft.com
 zafpegasusapp.aadcerts.microsoft.com
 zahratsps.reddog.microsoft.com
+zai-uat-mwh-proc.ait.microsoft.com
 zbcmp-request-0116.ustcms.microsoft.com
 zbcmp.pfgold.dev.ustcms.microsoft.com
 zbcmstestcert.ustcms.microsoft.com

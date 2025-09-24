@@ -50,6 +50,7 @@ abstractor-staging.cbre.com
 acc01.mydevices.cbre.com
 acc01.uatdevices.cbre.com
 actions.tops2.cbre.com
+actions.tops2-dev.cbre.com
 actions.tops2-uat.cbre.com
 activate-ui-blue.vas-plat.cbre.com
 activate-ui-green.vas-plat.cbre.com
@@ -1103,8 +1104,10 @@ dtedashboard.cbre.com
 dtest.devx.cbre.com
 dtestapi.devx.cbre.com
 e911-sbc2.cbre.com
+ea-recommendation-agents.dev.devx.cbre.com
 ea-recommendation-agents.internal.devx.cbre.com
 ea-recommendation-agents.nonprod.devx.cbre.com
+ea-recommendation-agents.prod.devx.cbre.com
 eap.twistlock.gcso.cbre.com
 eastus2.azure.edge.artifactory.gcso.cbre.com
 eastus2.azure.edge.artifactory.gcsonp.cbre.com
@@ -2293,6 +2296,7 @@ myreceiptsuat.cbre.com
 myreceiptsuat-aws.cbre.com
 myreimfin.cbre.com
 myreimfinuat.cbre.com
+mysafety-dev.cbre.com
 myservice.cbre.com
 myservice-dev.cbre.com
 myservice-qa.cbre.com
@@ -2830,6 +2834,9 @@ qat.experience.cbre.com
 qaui.officeready-np.cbre.com
 qc.api.forecaster.cbre.com
 qc.forecaster.cbre.com
+qhse-hub.cbre.com
+qhse-hub-dev.cbre.com
+qhse-hub-test.cbre.com
 qlik.cbre.com
 qlik-demo.cbre.com
 qlik-stage.cbre.com
@@ -2937,7 +2944,10 @@ sce-dev.intrepid.cbre.com
 sce.intrepid.cbre.com
 scmtest2.cbre.com
 screening.cbre.com
+sdlc-agents.dev.devx.cbre.com
+sdlc-agents.devx.cbre.com
 sdlc-agents.internal.devx.cbre.com
+sdlc-agents.uat.devx.cbre.com
 se-dev.intrepid.cbre.com
 se-qa.nonprod.cbre.com
 se-test.intrepid.cbre.com
@@ -3499,6 +3509,7 @@ uat.pjm-np.cbre.com
 uat.pjmtech-np.cbre.com
 uat.reportmedia.miq.cbre.com
 uat.reports.marketiq.cbre.com
+uat.researchda.cbre.com
 uat.scm.ifmhub.cbre.com
 uat.search.miq.cbre.com
 uat.smartfm.cbre.com
@@ -4398,3 +4409,6 @@ zoning.finishline.cbre.com
 zoning.qa.finishline.cbre.com
 zoning.qa2.finishline.cbre.com
 zoning.staging.finishline.cbre.com
+zoning.staging1.finishline.cbre.com
+zoning.staging2.finishline.cbre.com
+zzz.dev.chatbot.cbre.com

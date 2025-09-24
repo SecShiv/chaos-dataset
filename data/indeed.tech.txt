@@ -622,6 +622,7 @@ airflow-dev.awscmhinfra2.k8s.indeed.tech
 airflow-dev.awsiaddata.k8s.indeed.tech
 airflow-dev123.awscmhinfra.k8s.indeed.tech
 airflow-dev2.awscmhinfra.k8s.indeed.tech
+airflow-flower.indeed.tech
 airflow-flower-dev.awsairflow.k8s.indeed.tech
 airflow-flower-dev.awscmhinfra.k8s.indeed.tech
 airflow-flower-dev.awscmhinfra2.k8s.indeed.tech
@@ -6004,6 +6005,8 @@ mdis-tfserving-http.awsnrtqa.k8s.indeed.tech
 mdis.awscmhqa3.k8s.indeed.tech
 mdml.prod.indeed.tech
 mdml.qa.indeed.tech
+mdp-deployment-status-service-prod.awscmh5.k8s.indeed.tech
+mdp-deployment-status-service-qa.awscmhqa4.k8s.indeed.tech
 mdp-flink-poc.awscmhqa5.k8s.indeed.tech
 mdp-flink-syncer-ldap.awscmhqa5.k8s.indeed.tech
 mdp-integration-api.awscmhqa5.k8s.indeed.tech
@@ -9210,8 +9213,11 @@ sourcing.cmhprod3.k8s.indeed.tech
 sovren-qa.awscmhqa4.k8s.indeed.tech
 sovren-qa.awscmhqa5.k8s.indeed.tech
 sovren-test.awscmhqa4.k8s.indeed.tech
+sovren.awscmh5.k8s.indeed.tech
 sovren.awscmhqa4.k8s.indeed.tech
 sovren.awscmhqa5.k8s.indeed.tech
+sovren.awsdub2.k8s.indeed.tech
+sovren.awsfra1.k8s.indeed.tech
 spark.indeed.tech
 spark-cluster.bigqa.k8s.indeed.tech
 spark.awscmh5.k8s.indeed.tech
@@ -10686,6 +10692,7 @@ visibility-draw-plugin.cmh.k8s.indeed.tech
 vispana.awscmhqa3.k8s.indeed.tech
 vortex-czhang.awscmhqa5.k8s.indeed.tech
 vortex-example-cf-http-log-flink-service.awscmhqa5.k8s.indeed.tech
+vortex-kfu.awscmhqa4.k8s.indeed.tech
 vortex-mdp-feature-builder-experimental.awscmh6.k8s.indeed.tech
 vortex-mdp-mvc.awscmhqa4.k8s.indeed.tech
 vortex-mdp-online-integration-syncer-ldap.awscmhqa4.k8s.indeed.tech
