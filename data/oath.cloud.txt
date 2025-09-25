@@ -1135,6 +1135,7 @@
 *.b2aad0bc.g.vespa.oath.cloud
 *.b2aad0bc.z.vespa.oath.cloud
 *.b2bmarketing-adtech-prod.aws.oath.cloud
+*.b2d002a0.z.vespa.oath.cloud
 *.b2e3f07b.a.cd.vespa.oath.cloud
 *.b2e3f07b.g.cd.vespa.oath.cloud
 *.b2e3f07b.z.cd.vespa.oath.cloud
@@ -1975,6 +1976,7 @@
 *.canary.lumos.tw-media-wizardry.aws-ap-southeast-1a.vespa.oath.cloud
 *.canary.lumos.tw-media-wizardry.aws-us-west-2a.staging.vespa.oath.cloud
 *.canary.lumos.tw-media-wizardry.aws-us-west-2a.test.vespa.oath.cloud
+*.canary.lumos.tw-media-wizardry.aws-us-west-2a.vespa.oath.cloud
 *.canary.lumos.tw-media-wizardry.gcp-us-east5-a.staging.vespa.oath.cloud
 *.canary.lumos.tw-media-wizardry.gcp-us-east5-a.test.vespa.oath.cloud
 *.canary.lumos.tw-media-wizardry.global.vespa.oath.cloud
@@ -3643,6 +3645,9 @@
 *.df996fec.a.vespa.oath.cloud
 *.df996fec.g.vespa.oath.cloud
 *.df996fec.z.vespa.oath.cloud
+*.dfa0fd8a.a.vespa.oath.cloud
+*.dfa0fd8a.g.vespa.oath.cloud
+*.dfa0fd8a.z.vespa.oath.cloud
 *.dfb2829a.a.vespa.oath.cloud
 *.dfb2829a.g.vespa.oath.cloud
 *.dfb2829a.z.vespa.oath.cloud
@@ -4595,6 +4600,7 @@
 *.f6c1f818.a.vespa.oath.cloud
 *.f6c1f818.g.vespa.oath.cloud
 *.f6c1f818.z.vespa.oath.cloud
+*.f6d58c20.z.vespa.oath.cloud
 *.f6d6764b.a.vespa.oath.cloud
 *.f6d6764b.g.vespa.oath.cloud
 *.f6d6764b.z.vespa.oath.cloud
@@ -7043,6 +7049,15 @@
 *.topichub.topichub.us-east-3.staging.vespa.oath.cloud
 *.topichub.topichub.us-east-3.vespa.oath.cloud
 *.topichub.topichub.us-west-1.vespa.oath.cloud
+*.topics-index.mlplatform.aws-us-west-2a.staging.vespa.oath.cloud
+*.topics-index.mlplatform.aws-us-west-2a.test.vespa.oath.cloud
+*.topics-index.mlplatform.aws-us-west-2a.vespa.oath.cloud
+*.topics-index.mlplatform.aws-use1-az2.vespa.oath.cloud
+*.topics-index.mlplatform.gcp-us-east5-a.staging.vespa.oath.cloud
+*.topics-index.mlplatform.gcp-us-east5-a.test.vespa.oath.cloud
+*.topics-index.mlplatform.global.vespa.oath.cloud
+*.topics-index.mlplatform.us-east-1.test.vespa.oath.cloud
+*.topics-index.mlplatform.us-east-3.staging.vespa.oath.cloud
 *.topics.abunews.ap-northeast-1.vespa.oath.cloud
 *.topics.abunews.ap-northeast-2.vespa.oath.cloud
 *.topics.abunews.ap-southeast-1.vespa.oath.cloud
@@ -7478,6 +7493,7 @@
 *.ylin17.affiliate-beta.intl-commerce.us-east-1.dev.vespa.oath.cloud
 *.ylin17.affiliate-beta.intl-commerce.us-east-3.perf.vespa.oath.cloud
 *.ylin17.affiliate.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
+*.ylin19.gds-original.ect-srch.aws-us-east-2a.perf.vespa.oath.cloud
 *.ylin19.gds-w-syms.ect-srch.aws-us-east-2a.perf.vespa.oath.cloud
 *.ynpm-search.ynpm-search.aws-us-west-2a.staging.vespa.oath.cloud
 *.ynpm-search.ynpm-search.aws-us-west-2a.test.vespa.oath.cloud
@@ -10034,6 +10050,7 @@ canary.lumos.tw-media-wizardry.ap-southeast-1.vespa.oath.cloud
 canary.lumos.tw-media-wizardry.aws-ap-southeast-1a.vespa.oath.cloud
 canary.lumos.tw-media-wizardry.aws-us-west-2a.staging.vespa.oath.cloud
 canary.lumos.tw-media-wizardry.aws-us-west-2a.test.vespa.oath.cloud
+canary.lumos.tw-media-wizardry.aws-us-west-2a.vespa.oath.cloud
 canary.lumos.tw-media-wizardry.gcp-us-east5-a.staging.vespa.oath.cloud
 canary.lumos.tw-media-wizardry.gcp-us-east5-a.test.vespa.oath.cloud
 canary.lumos.tw-media-wizardry.global.vespa.oath.cloud
@@ -12562,6 +12579,7 @@ dev-api-us-west-2.ckms-dev.aws.oath.cloud
 dev-api.notificationsystems-rivendell-aws-dev.aws.oath.cloud
 dev-base-httpd-rhel8.subscriptions-devops-aws-dev.aws.oath.cloud
 dev-capsearch.sieve-contentsearch.us-east-1.dev.vespa.oath.cloud
+dev-checkout-app-proxy.payments-aws-services-dev.aws.oath.cloud
 dev-connectid-s2s-analytics.aolp-ds-dev.aws.oath.cloud
 dev-consolidatedlogging.ads-supply-pe-dev.aws.oath.cloud
 dev-cts-api-ras.dcs-online-targeting-dev.aws.oath.cloud
@@ -19215,6 +19233,15 @@ topichub.topichub.us-east-1.test.vespa.oath.cloud
 topichub.topichub.us-east-3.staging.vespa.oath.cloud
 topichub.topichub.us-east-3.vespa.oath.cloud
 topichub.topichub.us-west-1.vespa.oath.cloud
+topics-index.mlplatform.aws-us-west-2a.staging.vespa.oath.cloud
+topics-index.mlplatform.aws-us-west-2a.test.vespa.oath.cloud
+topics-index.mlplatform.aws-us-west-2a.vespa.oath.cloud
+topics-index.mlplatform.aws-use1-az2.vespa.oath.cloud
+topics-index.mlplatform.gcp-us-east5-a.staging.vespa.oath.cloud
+topics-index.mlplatform.gcp-us-east5-a.test.vespa.oath.cloud
+topics-index.mlplatform.global.vespa.oath.cloud
+topics-index.mlplatform.us-east-1.test.vespa.oath.cloud
+topics-index.mlplatform.us-east-3.staging.vespa.oath.cloud
 topics.abunews.ap-northeast-1.vespa.oath.cloud
 topics.abunews.ap-northeast-2.vespa.oath.cloud
 topics.abunews.ap-southeast-1.vespa.oath.cloud
@@ -20671,6 +20698,7 @@ video-platform-splunk.aws.oath.cloud
 video-platform-yxsdev.aws.oath.cloud
 video-prod.aws.oath.cloud
 video-pub.sports-gains-dev.aws.oath.cloud
+video-pub.sports-gains-np.aws.oath.cloud
 video-stage.aws.oath.cloud
 video-upnext.vid-search.us-east-1.dev.vespa.oath.cloud
 video.gwang02.global.vespa.oath.cloud
@@ -20869,6 +20897,7 @@ vk4krbrh6es6gblpeshfrzykwil3cjnod.vespa.oath.cloud
 vk4txripeftv2wix6mk2seztmtnnmdtap.vespa.oath.cloud
 vk536qvc2qe23gs2z2q57susy2d7zar2s.public-cd.vespa.oath.cloud
 vk5qwzj34cvqoq6xyi4uzfwqxmozz2gxk.vespa.oath.cloud
+vk65bprltmaufn5civny6mh5mgp52cxqu.vespa.oath.cloud
 vk6m5siz7rgkx3ocmv6b25t4yikmmoyxj.vespa.oath.cloud
 vk6n4nmbwxalqeodzmocxjferbtqxw55g.public.vespa.oath.cloud
 vk7gg6m6ptofzekkpyaroh3v367fqbytv.vespa.oath.cloud
@@ -21332,6 +21361,7 @@ vr4cbt3mtpoxgq5ychcxjuzcxjgbsjekn.vespa.oath.cloud
 vr4kastjy4stob5qv5ulzeocjsq5bca64.vespa.oath.cloud
 vr4p3nezjcyfbbcfggykd5bfiobjghz67.public.vespa.oath.cloud
 vr5hbqz5jp7o2ixc6qpebkksq2h5kz24f.vespa.oath.cloud
+vr6ehdqrrmy56tsctt6sc6d2dmjukgh34.vespa.oath.cloud
 vr6oikool2q3hfhpn4tngwnppzjtqui3k.vespa.oath.cloud
 vr76t74uwljqiet5xovlqamnx4pi5rec7.vespa.oath.cloud
 vr776ufhbp7oeqa5dblierh4vscgntvuh.vespa.oath.cloud
@@ -22325,6 +22355,7 @@ ylin17.affiliate.intl-commerce.aws-use1-az1.dev.vespa.oath.cloud
 ylin17.music.sandbox.aws-us-east-2a.dev.vespa.oath.cloud
 ylin17.music.sandbox.us-east-1.dev.vespa.oath.cloud
 ylin17.weapon-store.eric-test.us-east-1.dev.vespa.oath.cloud
+ylin19.gds-original.ect-srch.aws-us-east-2a.perf.vespa.oath.cloud
 ylin19.gds-w-syms.ect-srch.aws-us-east-2a.perf.vespa.oath.cloud
 yms-int-cdn.mse-dev.aws.oath.cloud
 yms-qa-cdn.mse-dev.aws.oath.cloud

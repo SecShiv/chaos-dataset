@@ -194,6 +194,7 @@ auth.personalservice.telekom.com
 auth.personalservice-test.telekom.com
 auto-1f399c1b-in-oaixn.shared.dih.telekom.com
 autodiscover.cast1.telekom.com
+autodiscover.cast2.telekom.com
 autodiscover.external.cast1.telekom.com
 autodiscover.tr.telekom.com
 autoinvoice.dtse.telekom.com
@@ -694,6 +695,7 @@ globalcarrier.telekom.com
 grafana-auto.nttcom.bo.dih.telekom.com
 grafana.airbus.lila.dih.telekom.com
 grafana.amids.lila.dih.telekom.com
+grafana.bo.lila.dih.telekom.com
 grafana.cx-sandbox.lila.dih.telekom.com
 grafana.dataspace.lila.dih.telekom.com
 grafana.denso.lila.dih.telekom.com
@@ -1117,6 +1119,7 @@ rm.ems.telekom.com
 roamcontrol.globalcarrier.telekom.com
 robomotiongmb-107dbcf0.rox-dev.lila.dih.telekom.com
 rox-automatica-dashboard.kubeapps.rox-test.lila.dih.telekom.com
+rox-automatica-influxdb2.kubeapps.rox-test.lila.dih.telekom.com
 saat-3f73c248-de-zfnov.shared.dih.telekom.com
 safelo-5cfe3b43-de.rox-dev.lila.dih.telekom.com
 safelo-999604bb-de.rox-test.lila.dih.telekom.com
@@ -1377,6 +1380,7 @@ tvsdau-f449f59a-de-hjlkw.shared.dih.telekom.com
 tvsdau-f449f59a-de-wfuuc.shared.dih.telekom.com
 tvsdau-f449f59a-de-zyyen.shared.dih.telekom.com
 tx-adapter.cx-sandbox.lila.dih.telekom.com
+tx-adapter.denso.lila.dih.telekom.com
 tx-adapter.rox-test.lila.dih.telekom.com
 ui-greenhil-293e8e9b.shared.dih.telekom.com
 ui-iavgmbhingenieurgese-a6490688.iav.lila.dih.telekom.com
@@ -1440,6 +1444,7 @@ voices.telekom.com
 vpn.lab.tp.telekom.com
 vpn.tp.telekom.com
 vtu.m.login.idm.telekom.com
+wallet.digital-id.dih.telekom.com
 webmail.telekom.com
 wecare.telekom.com
 wecare.brand-dialog.telekom.com
@@ -1564,3 +1569,5 @@ yardstickroboticsgmb-e2820f4f.rox-test.lila.dih.telekom.com
 yourmate.telekom.com
 zhejia-01bbd1bf-cn.otc-shared.dih.telekom.com
 zhejia-2f2064cf-cn.otc-shared.dih.telekom.com
+zhejiangevtechcolt-2f2064cf.otc-shared.dih.telekom.com
+zwischenbericht.telekom.com

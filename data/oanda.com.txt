@@ -342,6 +342,7 @@ funding-feadmin.k8s-prod-usc1.dr.gcp.oanda.com
 funding-feadmin.k8s-prod-use4.p.gcp.oanda.com
 funding-feadmin.k8s-stg-usc1.s.gcp.oanda.com
 funding-feadmin.k8s-uat-usc1.u.gcp.oanda.com
+funding-oats-game.k8s-stg-usc1.s.gcp.oanda.com
 funding-oats.k8s-prod-use4.p.gcp.oanda.com
 funding.k8s-prod-use4.gcp.oanda.com
 funding.k8s-prod-use4.p.gcp.oanda.com
@@ -512,6 +513,7 @@ lab-education-jp.k8s-stg-asne1.s.gcp.oanda.com
 labs-api.oanda.com
 labs-books-ingester.k8s-prd-use4.p.gcp.oanda.com
 labs-books-ingester.k8s-stg-usc1.s.gcp.oanda.com
+labs-feeds-storage-cloud.k8s-stg-usc1.s.gcp.oanda.com
 labs-feeds-storage-cloud.k8s-uat-usc1.u.gcp.oanda.com
 labs-financing-rates-api.k8s-uat-usc1.gcp.oanda.com
 labs-fuzzysearch.k8s-stg-asne1.s.gcp.oanda.com
@@ -1071,6 +1073,7 @@ sandbox-react-test-0001.oanda-uat-fx-dmz-cluster-1.gcp.oanda.com
 sandbox-react-test-0002.oanda-uat-fx-dmz-cluster-1.gcp.oanda.com
 sandbox-sfa-java-test00.oanda-ri-test-cluster-3.gcp.oanda.com
 sandbox-ziraldo-003.k8s-uat-usc1.u.gcp.oanda.com
+scaleops.k8s-infra-usc1.i.gcp.oanda.com
 schema-registry-demo.k8s-prod-use4.p.gcp.oanda.com
 schema-registry-demo.k8s-uat-usc1.s.gcp.oanda.com
 schema-registry.k8s-prod-use4.p.gcp.oanda.com
@@ -1283,6 +1286,7 @@ test.k8s-stg-usc1.s.gcp.oanda.com
 test.k8s-uat-usc1.u.gcp.oanda.com
 test.vault-cluster-4-prod.i.gcp.oanda.com
 testapp.k8s-dev-usc1.d.gcp.oanda.com
+testapp.k8s-uat-usc1.u.gcp.oanda.com
 tick-blender-service-fxds.k8s-prod-use4.p.gcp.oanda.com
 tick-blender-service-fxds.k8s-stg-usc1.s.gcp.oanda.com
 tick-blender-service-fxds.k8s-uat-usc1.u.gcp.oanda.com
@@ -1347,6 +1351,7 @@ trading-rzeczewski-tests-01.k8s-uat-usc1.u.gcp.oanda.com
 trading-systems-dividend-points.k8s-uat-usc1.u.gcp.oanda.com
 trading-traders-dashboards.k8s-prod-use4.p.gcp.oanda.com
 trading-traders-dashboards.k8s-stg-usc1.s.gcp.oanda.com
+trading-traders-dashboards.k8s-uat-usc1.u.gcp.oanda.com
 trading-view-proxy-api.oanda-live-fx-dmz-cluster-1.gcp.oanda.com
 trading-view-proxy-api.oanda-uat-fx-dmz-cluster-1.gcp.oanda.com
 tradingalerts.k8s-prod-use4.p.gcp.oanda.com

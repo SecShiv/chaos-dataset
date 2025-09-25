@@ -6,6 +6,7 @@
 *.adm.staging.corp.mongodb.com
 *.aix.prod.corp.mongodb.com
 *.aix.staging.corp.mongodb.com
+*.akhilesh-maddali.evergreen-staging.devprod.mongodb.com
 *.allhands.corp.mongodb.com
 *.analytics.prod.corp.mongodb.com
 *.analytics.staging.corp.mongodb.com
@@ -706,6 +707,7 @@ devcenter.corp.mongodb.com
 developer.mongodb.com
 developers.mongodb.com
 devhub-cms.corp.mongodb.com
+device-manager.sa-demo.staging.corp.mongodb.com
 devops.prod.corp.mongodb.com
 devops.staging.corp.mongodb.com
 devops.test.corp.mongodb.com
@@ -1167,7 +1169,9 @@ lb-b-staging.us-east-1.aws.cloud.mongodb.com
 lb-b.aws.cloud.mongodb.com
 lb-b.us-east-1.aws.cloud.mongodb.com
 lb-p.prod.corp.mongodb.com
+leafy-factory-backend.industrysolutions.prod.corp.mongodb.com
 leafy-factory-frontend.industrysolutions.staging.corp.mongodb.com
+leafy-factory.industrysolutions.prod.corp.mongodb.com
 leafy-smart-meters.industrysolutions.prod.corp.mongodb.com
 leafycrm-backend-sa-ncr.sa-demo.staging.corp.mongodb.com
 leafycrm-frontend-sa-ncr.sa-demo.staging.corp.mongodb.com
@@ -1218,6 +1222,7 @@ mars-dev-feature-7204-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-dp-ui-core-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-kube-api-retries-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-track-manual-jobs-dev.dataplatform-dev.staging.corp.mongodb.com
 mars.dataplatform.staging.corp.mongodb.com
 mars.prod.corp.mongodb.com
 mars.staging.corp.mongodb.com
@@ -1621,6 +1626,7 @@ streaming-api.support.staging.corp.mongodb.com
 student.devrel.prod.corp.mongodb.com
 students.mongodb.com
 success.mongodb.com
+summarizer.server-triage.staging.corp.mongodb.com
 superset.devprod-platform.staging.corp.mongodb.com
 support.mongodb.com
 support-api.corp.mongodb.com
@@ -2035,3 +2041,5 @@ yuzhou-web-app.test.corp.mongodb.com
 yuzhou.devops.test.corp.mongodb.com
 yuzhou2.devops.test.corp.mongodb.com
 zap-dev.salesops.staging.corp.mongodb.com
+zd-approvals.corp.mongodb.com
+zen-approvals.corp.mongodb.com

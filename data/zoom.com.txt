@@ -147,6 +147,7 @@ artifacts.ai.corp.zoom.com
 artifacts.corp.zoom.com
 artifactscn.corp.zoom.com
 artifactsus.corp.zoom.com
+atlas-proxy.go.va1.infra.zoom.com
 atlas-proxy.sg01.va1.web.zoom.com
 atlas-proxy.us01.va1.web.zoom.com
 backend-blue.jenkins.ops.corp.zoom.com
@@ -315,6 +316,8 @@ gozp1.ops.corp.zoom.com
 gozva1.ops.corp.zoom.com
 gozva2.ops.corp.zoom.com
 grafana.go.zp.corp.zoom.com
+green.prod.gtw.pki.corp.zoom.com
+green.stg.gtw.pki.corp.zoom.com
 gwatch-agent.asde.corp.zoom.com
 gwatch-dg01va2zp.ops.corp.zoom.com
 gwatch-dg01zp.ops.corp.zoom.com
@@ -475,6 +478,7 @@ prod-03.vault.ops.corp.zoom.com
 prod-04-internal.vault.ops.corp.zoom.com
 prod-04.vault.ops.corp.zoom.com
 prod-internal.vault.ops.corp.zoom.com
+prod.gtw.pki.corp.zoom.com
 prod.vault.ops.corp.zoom.com
 prodperf.vault.ops.corp.zoom.com
 prodperfoh-01.vault.ops.corp.zoom.com
@@ -596,6 +600,7 @@ staging-blue.zev.ops.corp.zoom.com
 staging-internal.vault.ops.corp.zoom.com
 staging.vault.ops.corp.zoom.com
 staging.zev.ops.corp.zoom.com
+stg.gtw.pki.corp.zoom.com
 storage.git.dev.corp.zoom.com
 storage1.git.dev.corp.zoom.com
 storage2.git.dev.corp.zoom.com

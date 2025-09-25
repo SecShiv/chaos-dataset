@@ -116,6 +116,8 @@
 *.putux.put.telekom.net
 *.qa.vibes.telekom.net
 *.rbus-dev.ng.telekom.net
+*.rbus-preprod.ng.telekom.net
+*.rbus-test.ng.telekom.net
 *.rbus.ng.telekom.net
 *.rmc-cz.telekom.net
 *.sb.oc.telekom.net
@@ -1268,6 +1270,8 @@ rabbitmq.lab.intelligent.telekom.net
 rad.radius.telekom.net
 radius.telekom.net
 rbm.telekom.net
+rbus-preprod.ng.telekom.net
+rbus-test.ng.telekom.net
 rbus.ng.telekom.net
 rc-ucc-cloud-sbc1.telekom.net
 rc-ucc-cloud-sbc2.telekom.net
@@ -1345,6 +1349,7 @@ smartwork.digipro.telekom.net
 smartworkuat.digipro.telekom.net
 smtp.vdc.telekom.net
 smxportal.telekom.net
+snowflake.dev.gsus.telekom.net
 soc.telekom.net
 socialtv-dev.svhproducts.telekom.net
 socialtv-prod.svhproducts.telekom.net
@@ -1729,3 +1734,5 @@ x2ala.ng.telekom.net
 xgpt.chai-dev.ihub.telekom.net
 xks-test-louay-robert.ng.telekom.net
 zalenium.dev.pmatrem.telekom.net
+zoom-ucc-cloud-sbc.telekom.net
+zovoice.telekom.net

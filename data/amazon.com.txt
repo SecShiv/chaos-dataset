@@ -14625,6 +14625,7 @@ account-partnercentral-na.amazon.com
 account-partnercentral-na-gamma.corp.amazon.com
 account-partnercentral-na.integ.amazon.com
 account-partnercentral-uk.integ.amazon.com
+account-primevideo-devicepartnerships.amazon.com
 account-status.amazon.com
 account-swa.amazon.com
 account-swa-alpha.integ.amazon.com
@@ -15745,6 +15746,7 @@ afx-cx-ext-eu.amazon.com
 afx-cx-ext-eu.amazon.com.amazon.com
 afx-cx-ext-fe.amazon.com
 afx-cx-ext-na.amazon.com
+afx-cx-ext-na-gamma.amazon.com
 afx-proxy-na.amazon.com
 ag-order.amazon.com
 ag-order-gamma-tcp-iad.iad.proxy.amazon.com
@@ -16953,6 +16955,7 @@ amazon-stores-builder-na-prod.iad.amazon.com
 amazon-table-tennis.aka.corp.amazon.com
 amazonbooks.amazon.com
 amazonboost.corp.amazon.com
+amazonbusiness-integration.amazon.com
 amazonbusinessapi.aka.amazon.com
 amazoncard.amazon.com
 amazoncards.amazon.com
@@ -21047,6 +21050,11 @@ awsmp-seller-tools-cn-northwest-1.aka.amazon.com
 awsmp-seller-tools-cn.aka.amazon.com
 awsmp-seller-tools-gamma-cn-northwest-1.aka.amazon.com
 awsmp-seller-tools.integ.amazon.com
+awsmp-server-publishing-marketplace-gamma.thf.amazon.com
+awsmp-server-publishing-marketplace-prod.pdx.amazon.com
+awsmp-server-publishing.marketplace.gamma.pdx.amazon.com
+awsmp-server-publishing.marketplace.gamma.thf.amazon.com
+awsmp-server-publishing.marketplace.prod.thf.amazon.com
 awsmp-ssrs-metrics.corp.amazon.com
 awsmp-tableau.corp.amazon.com
 awsmp-thunder-bird-rendering-gamma.iad.amazon.com
@@ -21155,6 +21163,7 @@ axiom-corp.aea.amazon.com
 axiom.corp.amazon.com
 axon-alpha.corp.amazon.com
 axon-beta.corp.amazon.com
+axon-insights.amazon.com
 axon-ops-cn.aka.amazon.com
 axon-ops-eu.aka.amazon.com
 axon-ops-fe.aka.amazon.com
@@ -21164,6 +21173,7 @@ axon-ops.integ.amazon.com
 axon-pathfinder-beta.corp.amazon.com
 axon-pathfinder-gamma.corp.amazon.com
 axon-pathfinder.corp.amazon.com
+axon-reporting-public-test.aka.amazon.com
 axon.corp.amazon.com
 axp.accountdatafieldencryption.amazon.com
 axp.messagesignatureverification.amazon.com
@@ -31671,6 +31681,7 @@ excellence-jp.aka.amazon.com
 excellence-mx.aka.amazon.com
 excellence-nl.aka.amazon.com
 excellence-sa.aka.amazon.com
+excellence-sg.aka.amazon.com
 excellence-sixpm-us.aka.amazon.com
 excellence-tr.aka.amazon.com
 excellence-us.aka.amazon.com
@@ -32521,6 +32532,7 @@ firereleasenotes-na.amazon.com
 firescope.amazon.com
 firescope-dev.corp.amazon.com
 firescope.corp.amazon.com
+firetv.amazon.com
 firetv-cms-beta.corp.amazon.com
 firetv-cms-gamma.corp.amazon.com
 firetv-cms.corp.amazon.com
@@ -37941,6 +37953,7 @@ imdbtv-bobross-eu.amazon.com
 imdbtv-bobross-eu-preprod.dub.xcorp.amazon.com
 imdbtv-bobross-eu.integ.amazon.com
 imdbtv-bobross-na-prod.amazon.com
+img.mybenefits.amazon.com
 immwa-dub.dub.proxy.amazon.com
 immwa.corp.amazon.com
 impact-analysis-cerebro.integ.amazon.com
@@ -39967,6 +39980,7 @@ kzr.desktop.amazon.com
 l3-bk-jlb.corp.amazon.com
 l3-bk.corp.amazon.com
 l3-gamma-bk.corp.amazon.com
+l7amrs3origintest.amazon.com
 l7dashboard.amazon.com
 l7dashboards.amazon.com
 l7dashboards.corp.amazon.com
@@ -42125,6 +42139,7 @@ match-visualsearch-es.amazon.com
 match-visualsearch-fr.amazon.com
 match-visualsearch-frontend-ae.amazon.com
 match-visualsearch-frontend-au.amazon.com
+match-visualsearch-frontend-br.amazon.com
 match-visualsearch-frontend-ca.amazon.com
 match-visualsearch-frontend-de.amazon.com
 match-visualsearch-frontend-fr.amazon.com
@@ -42616,6 +42631,7 @@ metalgear.corp.amazon.com
 metering.marketplace.ap-east-1.amazon.com
 metis-api.corp.amazon.com
 metis-api.integ.amazon.com
+metis-avs-preprod.aka.amazon.com
 metis-preprod.amazon.com
 metis-preview.amazon.com
 metis-preview.aka.amazon.com
@@ -44339,6 +44355,7 @@ na.pack.eu.aftx.amazon.com
 na.r.ads.amazon.com
 na.returncap.corp.amazon.com
 na.simplepacktoolwebsite.eu.aftx.amazon.com
+na.tasas.amazon.com
 na.test.api.avnedev.com.amazon.com
 na.up-portal-qa.scot.amazon.dev.amazon.com
 na.up-portal.scot.amazon.dev.amazon.com
@@ -58556,6 +58573,8 @@ ups-lfx-na-pdx-d-tcp.integ.amazon.com
 ups-lfx-na-pdx-d.integ.amazon.com
 upx-security-eu-eu-west-1.amazon.com
 upx-security-eu.eu-west-1.amazon.com
+upx-security-na-us-east-1.amazon.com
+upx-security-na.us-east-1.amazon.com
 urismo-shared-gamma-jlb-iad.iad.proxy.amazon.com
 urlaub-air.corp.amazon.com
 urlaub-amxl.corp.amazon.com
@@ -60666,6 +60685,7 @@ xarns.corp.amazon.com
 xavier.corp.amazon.com
 xb-appt.amazon.com
 xb-appt-fe.amazon.com
+xb-appt-pilot.amazon.com
 xb-node.amazon.com
 xb-node-fe.amazon.com
 xb-node-report.amazon.com
@@ -60996,4 +61016,3 @@ zubaidu-dev.corp.amazon.com
 zuul-config-beta.corp.amazon.com
 zuul-config-gamma.corp.amazon.com
 zuul.corp.amazon.com
-zyzhang.aka.corp.amazon.com
