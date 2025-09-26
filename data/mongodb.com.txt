@@ -462,11 +462,13 @@ atlantis-githook.corp.mongodb.com
 atlantis.sandbox.infosec.mongodb.com
 atlantis.security.sandbox.infosec.mongodb.com
 atlas.mongodb.com
+atlas-cluster-ws.cloud-qa.mongodb.com
 atlas-cluster-ws.cloud-stage.mongodb.com
 atlas-cluster-ws.us-east-1.aws.cloud.mongodb.com
 atlas-cluster-ws.us-east-1.aws.cloud-dev.mongodb.com
 atlas-cluster-ws.us-east-1.aws.cloud-qa.mongodb.com
 atlas-cluster-ws.us-east-1.aws.cloud-stage.mongodb.com
+atlas-cluster-ws.us-east-2.aws.cloud-qa.mongodb.com
 atlas-cluster-ws.us-east-2.aws.cloud-stage.mongodb.com
 atlas-data-lake.prod.corp.mongodb.com
 atlas-data-lake.staging.corp.mongodb.com
@@ -498,6 +500,7 @@ azure.api.mongodb.com
 azure.api-dev.mongodb.com
 azure.realm.mongodb.com
 backend.test.corp.mongodb.com
+backstage-kyle-burgess.backstage.staging.corp.mongodb.com
 backstage-william.backstage.staging.corp.mongodb.com
 backstage.corp.mongodb.com
 backup-san.mongodb.com
@@ -671,6 +674,7 @@ csat.ts-apac.staging.corp.mongodb.com
 cta.corps.prod.corp.mongodb.com
 ctf.corp.mongodb.com
 customer-hub-task-14155-cleanup-mdbhubauth.ts-tools.staging.corp.mongodb.com
+customer-hub-uat-tstools-15192.ts-tools.staging.corp.mongodb.com
 customer-portal-backend.ts-tools.staging.corp.mongodb.com
 customer-portal-cms.ts-tools.staging.corp.mongodb.com
 customer-portal-frontend.ts-tools.staging.corp.mongodb.com
@@ -1063,6 +1067,7 @@ host-temp29.devops.test.corp.mongodb.com
 hostmaster.mongodb.com
 houston-sa.sa-demo.staging.corp.mongodb.com
 hr-chatbot-metrics.corps.staging.corp.mongodb.com
+hr-chatbot.corps.staging.corp.mongodb.com
 hris.prod.corp.mongodb.com
 hris.staging.corp.mongodb.com
 httpbin-2.test.corp.mongodb.com
@@ -1074,6 +1079,7 @@ httpbin-delegate.test.corp.mongodb.com
 httpbin-ipallowlist.test.corp.mongodb.com
 httpbin-open.gateway.test.corp.mongodb.com
 httpbin-open.test.corp.mongodb.com
+httpbin-ratelimit.prod.corp.mongodb.com
 httpbin-redirect-2.test.corp.mongodb.com
 httpbin-redirect.test.corp.mongodb.com
 httpbin-restrictive.test.corp.mongodb.com
@@ -1129,6 +1135,7 @@ istreporting.industrysolutions.prod.corp.mongodb.com
 it.mongodb.com
 it-oncall.corp.mongodb.com
 it.corp.mongodb.com
+iteng-jira-oncall-server.officeit.staging.corp.mongodb.com
 jaeger-collector.corp.mongodb.com
 jaeger.corp.mongodb.com
 jetbrains.corp.mongodb.com
@@ -1161,6 +1168,7 @@ knowledge.corp.mongodb.com
 kolide-docs.corp.mongodb.com
 lab.sandbox.infosec.mongodb.com
 landingzone-demo.mongodb.com
+langflow.ts-tools.staging.corp.mongodb.com
 lb-b-dev.aws.cloud-dev.mongodb.com
 lb-b-dev.us-east-1.aws.cloud-dev.mongodb.com
 lb-b-qa.aws.cloud-qa.mongodb.com
@@ -1350,6 +1358,7 @@ performance-monitoring-service-rest.server-tig.prod.corp.mongodb.com
 performance-monitoring-service-rest.server-tig.staging.corp.mongodb.com
 performance-monitoring.corp.mongodb.com
 pgp.mongodb.com
+pholiota-api.dsplatform.prod.corp.mongodb.com
 pholiota-api.dsplatform.staging.corp.mongodb.com
 pholiota-dev.corp.mongodb.com
 pholiota-local.corp.mongodb.com
@@ -1505,6 +1514,7 @@ route-ordering.test.corp.mongodb.com
 routing.prod.corp.mongodb.com
 routing.staging.corp.mongodb.com
 routing.test.corp.mongodb.com
+rr-flask-app-test.salesops.staging.corp.mongodb.com
 s2s-httpbin.test.corp.mongodb.com
 s2s-permissive-httpbin.devops.test.corp.mongodb.com
 s2s-public-httpbin.devops.test.corp.mongodb.com

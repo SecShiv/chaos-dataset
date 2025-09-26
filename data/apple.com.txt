@@ -10588,6 +10588,7 @@ apfc-mirror-prod.wishbone.g.apple.com
 apfc-public-prod.wishbone.g.apple.com
 api-aapne1a.smoot.apple.com
 api-aapne1c.smoot.apple.com
+api-aaps1a.smoot.apple.com
 api-aaps1b.smoot.apple.com
 api-aaps1c.smoot.apple.com
 api-aapse1b.smoot.apple.com
@@ -10763,6 +10764,7 @@ api-flights.smoot.apple.com
 api-fra.smoot.apple.com
 api-glb-aapne1a.smoot.apple.com
 api-glb-aapne1c.smoot.apple.com
+api-glb-aaps1a.smoot.apple.com
 api-glb-aaps1b.smoot.apple.com
 api-glb-aaps1c.smoot.apple.com
 api-glb-aapse1b.smoot.apple.com
@@ -10845,6 +10847,7 @@ api-lax.smoot.apple.com
 api-lon.smoot.apple.com
 api-lookup-aapne1a.smoot.apple.com
 api-lookup-aapne1c.smoot.apple.com
+api-lookup-aaps1a.smoot.apple.com
 api-lookup-aaps1b.smoot.apple.com
 api-lookup-aaps1c.smoot.apple.com
 api-lookup-aapse1c.smoot.apple.com
@@ -10945,6 +10948,7 @@ api-sae1b.smoot.apple.com
 api-sae1c.smoot.apple.com
 api-safari-aapne1a.smoot.apple.com
 api-safari-aapne1c.smoot.apple.com
+api-safari-aaps1a.smoot.apple.com
 api-safari-aaps1b.smoot.apple.com
 api-safari-aaps1c.smoot.apple.com
 api-safari-aapse1c.smoot.apple.com
@@ -10989,6 +10993,7 @@ api-server-applepaydemo-prod.usuqo07.app.apple.com
 api-sin.smoot.apple.com
 api-siri-aapne1a.smoot.apple.com
 api-siri-aapne1c.smoot.apple.com
+api-siri-aaps1a.smoot.apple.com
 api-siri-aaps1b.smoot.apple.com
 api-siri-aaps1c.smoot.apple.com
 api-siri-aapse1c.smoot.apple.com
@@ -18068,6 +18073,8 @@ gr-api-sports-ause2a.smoot.apple.com
 gr-api-sports-ause2b.smoot.apple.com
 gr-api-sports-ausw2a.smoot.apple.com
 gr-api-sports-ausw2b.smoot.apple.com
+gr-api-sports-ci-ausw2a.smoot.apple.com
+gr-api-sports-ci.smoot.apple.com
 gr-api-sports.smoot.apple.com
 gr-api-video-aape1a.smoot.apple.com
 gr-api-video-aape1b.smoot.apple.com
@@ -21511,8 +21518,10 @@ hybris-ext-pd.apple.com
 hydra.apple.com
 hyssop.apple.com
 iact.apple.com
+iact-ext-uat.rno.sbz.apple.com
 iact-mdn.apple.com
 iact-rno.apple.com
+iact.ist.apple.com
 iactmdn.apple.com
 iad.apple.com
 iad-internal.apple.com
@@ -30322,6 +30331,9 @@ platform-dmchat-avengers.apple.com
 platform-dmchat-retail.apple.com
 platform-dmchat-retail-pilot.awuse1.spbz.apple.com
 platform-dmchat-retail-pilot.awusw2.spbz.apple.com
+platform-dmchat-retail-prod.awuse1.spbz.apple.com
+platform-dmchat-retail-prod.awusw2.spbz.apple.com
+platform-dmchat-retail.corp.apple.com
 platformengineering.dashboard.iso.apple.com
 play-anon.itunes.apple.com
 play-edge-anon.itunes.apple.com

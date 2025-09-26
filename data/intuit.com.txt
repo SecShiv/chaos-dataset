@@ -7924,6 +7924,7 @@ billingcomm-billing-prd-erpsi-subscr.t4i-prod-west2.iks.a.intuit.com
 billingcomm-billing-prd-erpsi-ubb-publisher.t4i-prod-west2.iks.a.intuit.com
 billingcomm-billing-prd-fin-google-drive-int.t4iprdusw2.iks2.a.intuit.com
 billingcomm-billing-prd-fin-monthend-dashbrd.t4iprdusw2.iks2.a.intuit.com
+billingcomm-billing-prd-fundingsettlementcons.t4iprduse2.iks2.a.intuit.com
 billingcomm-billing-prd-invoice-api.t4iprdusw2.iks2.a.intuit.com
 billingcomm-billing-prd-obill-brm-event-pub.t4iprdusw2.iks2.a.intuit.com
 billingcomm-billing-prd-offer-recommender.platform-sgmnt-prod-usw2.iks.a.intuit.com
@@ -17219,6 +17220,7 @@ crmmktg-custserv-prd-mailchimp-admin-api.mailchimpprdusw2.iks2.a.intuit.com
 crmmktg-custserv-stg-mailchimp-admin-api.mailchimpprdusw2.iks2.a.intuit.com
 crmmktg-marketing-prd-customer-data-platform.mailchimpprdusw2.iks2.a.intuit.com
 crmmktg-marketing-stg-customer-data-platform.mailchimpprdusw2.iks2.a.intuit.com
+crmmktg-mktchnlmgmt-prd-nuni-agentic-workflow.mailchmpprduse2.iks2.a.intuit.com
 crmmktg-mktginsanaly-rms-stg-metrics-api-svc.mlchmpcompprduse2.iks2.a.intuit.com
 crmmktg-mktginsanaly-rms-stg-metrics-api-svc.mlchmpcompprdusw2.iks2.a.intuit.com
 crmmktg-mktginsanl-prd-c2-experimentation-svc.mailchimpprdusw2.iks2.a.intuit.com
@@ -28543,6 +28545,7 @@ fintech-airis-svc-devsuccess.paymentprdusw2.iks2.a.intuit.com
 fintech-api-payments.paymentprduse2.iks2.a.intuit.com
 fintech-api-payments.paymentprdusw2.iks2.a.intuit.com
 fintech-icc-prd-platform-superset.paymentprdusw2.iks2.a.intuit.com
+fintech-icc-prd-platform-template-builder.paymentprdusw2.iks2.a.intuit.com
 firm-e2e-lvdc.accountant.intuit.com
 firm-e2e-qydc.accountant.intuit.com
 firm-prd-lvdc.accountant.intuit.com
@@ -29489,6 +29492,7 @@ funding-txns-money-new.payment-sgmnt-prod.iks.a.intuit.com
 funding-txns-money.payment-sgmnt-prod-usw2.iks.a.intuit.com
 funding-txns-money.payment-sgmnt-prod.iks.a.intuit.com
 funding.payments.f1ilb.prd.intuit.com
+fundingsettlementcons-subsmgmt.t4iprduse2.iks2.a.intuit.com
 fundjobs-payments.payment-prod-usw2.iks.a.intuit.com
 fundmonitor-master-active.us-west-2.prd-sbg-pmts-txn.a.intuit.com
 fundmonitor-master.us-west-2.ppd-sbg-pmts-txn.a.intuit.com
@@ -50062,6 +50066,7 @@ numalogic-osam-fci-pl-1835453.ipmsaasprodusw2.iks2.a.intuit.com
 numalogic.a.intuit.com
 numalogicprometheususw2.a.intuit.com
 numaplane-platformops.devpmsaasprdusw2.iks2.a.intuit.com
+nuni-agentic-workflow-sandbox.mailchmpprduse2.iks2.a.intuit.com
 nuvisionfederal.flb.intuit.com
 nuvobankonline.flb.intuit.com
 nvebanking.flb.intuit.com
@@ -51526,6 +51531,7 @@ oss-analytics-prd-shakira-test-prod-jenkins.devpmsaasprdusw2.iks2.a.intuit.com
 oss-analytics-prd-shakira-testing-jenkins4.devpmsaasprdusw2.iks2.a.intuit.com
 oss-analytics-prd-shakira-testing-prd-latest.devpmsaasprdusw2.iks2.a.intuit.com
 oss-analytics-prd-test-async-svc.ippaasprodusw2.iks2.a.intuit.com
+oss-analytics-prd-unified-blueprint-creator.ippaasprodusw2.iks2.a.intuit.com
 oss-analytics-prda-test-async-svc.ippaasprodusw2.iks2.a.intuit.com
 oss-analytics-stg-aiops-argorollout-demo.ipmsaasprodusw2.iks2.a.intuit.com
 oss-analytics-stg-numalogic-osam-fci.ipmsaasprodusw2.iks2.a.intuit.com
@@ -54889,6 +54895,7 @@ platform-sgmnt-ppd.iks.a.intuit.com
 platform-sgmnt-ppd2.iks.a.intuit.com
 platform-sgmnt-prod-usw2.a.intuit.com
 platform-superset-creditcard.paymentprdusw2.iks2.a.intuit.com
+platform-template-buil-6210412.paymentprdusw2.iks2.a.intuit.com
 platform.aws-e2e.payments.intuit.com
 platform.dev.intuit.com
 platform.dr.payments.intuit.com
@@ -87972,6 +87979,7 @@ underwriting-money.payment-sgmnt-prod-pci-usw2.iks.a.intuit.com
 underwriting-money.paymentprdusw2.iks2.a.intuit.com
 underwriting-money.pymt-pci-usw2-prd.iks.a.intuit.com
 unespa.es.intuit.com
+unified-blueprint-crea-9523602.ippaasprodusw2.iks2.a.intuit.com
 unifiedapp-preprod.a.intuit.com
 unifiedapp-prod.a.intuit.com
 unionslaonline.flb.intuit.com
@@ -93154,3 +93162,4 @@ zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
 zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
+zycada.quickbooks.intuit.com

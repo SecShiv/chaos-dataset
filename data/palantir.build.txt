@@ -6,6 +6,7 @@
 *.cgr.docker.palantir.build
 *.cgr.docker.staging.palantir.build
 *.coder.palantir.build
+*.coder.staging.palantir.build
 *.consul.palantir.build
 *.consul.staging.palantir.build
 *.docker.palantir.build
@@ -79,6 +80,7 @@
 *.snapshot.docker.staging.palantir.build
 *.staging.palantir.build
 *.us-east-1.coder.palantir.build
+*.us-east-1.coder.staging.palantir.build
 *.us-gov-west-1.external.palantir.build
 *.us-gov-west-1.external.staging.palantir.build
 *.us-west-1.coder.palantir.build
@@ -381,6 +383,7 @@ uploads.github.palantir.build
 us-east-1.artifactory.palantir.build
 us-east-1.artifactory.staging.palantir.build
 us-east-1.coder.palantir.build
+us-east-1.coder.staging.palantir.build
 us-east-1.external.palantir.build
 us-east-1.external.staging.palantir.build
 us-gov-west-1.external.palantir.build

@@ -37,6 +37,7 @@ ap-south-1.api.cfp.ops.corp.zoom.com
 ap-south-2.api.cfp.ops.corp.zoom.com
 ap-southeast-1.api.cfp.ops.corp.zoom.com
 api.apps.tvm.corp.zoom.com
+api.nonprod-01.rebooter.ops.corp.zoom.com
 argus-zfg2search.sbx.sml.corp.zoom.com
 argus-zfgsearch.sbx.sml.corp.zoom.com
 argussearch.dev.sml.corp.zoom.com
@@ -150,6 +151,7 @@ artifactsus.corp.zoom.com
 atlas-proxy.go.va1.infra.zoom.com
 atlas-proxy.sg01.va1.web.zoom.com
 atlas-proxy.us01.va1.web.zoom.com
+atlas-proxy.us08oci.va1.main.zoom.com
 backend-blue.jenkins.ops.corp.zoom.com
 backend-green.jenkins.ops.corp.zoom.com
 backend-nonprod-blue.jenkins.ops.corp.zoom.com
@@ -441,6 +443,7 @@ noc-grafana.corp.zoom.com
 noc-grafana.ops.corp.zoom.com
 nonprod-01-eks.vault.ops.corp.zoom.com
 nonprod-01-internal.vault.ops.corp.zoom.com
+nonprod-01.rebooter.ops.corp.zoom.com
 nonprod-01.vault.ops.corp.zoom.com
 nonprod-02-eks.vault.ops.corp.zoom.com
 nonprod-02-internal.vault.ops.corp.zoom.com
@@ -502,6 +505,7 @@ prom.us01zva1.ops.corp.zoom.com
 promdv.ops.corp.zoom.com
 promsjc.ops.corp.zoom.com
 realtime.docs.git.ops.sc.corp.zoom.com
+rebooter.ops.corp.zoom.com
 rootcause.zoom.com
 rtmscubee2e.corp.zoom.com
 rumion-01-internal.vault.ops.corp.zoom.com

@@ -156,6 +156,7 @@
 *.ap-southeast-7.console.aws-dev.amazon.com
 *.ap-southeast-7.gamma.console-api.aws.amazon.com
 *.api-fips.sagemaker.us-gov-west-1.vpce.amazonaws.com.amazon.com
+*.api.spencer.us-east-1.vpce.amazon.com
 *.app.amazonbrowserapp.amazon.com
 *.app.iotroborunner.aws.amazon.com
 *.appconfigdata-beta-fips.us-east-1.vpce.amazon.com
@@ -19341,6 +19342,7 @@ atvext-sha256.amazon.com
 atwe-eu-tier2-pp-dub.dub.proxy.amazon.com
 atwe-in.integ.amazon.com
 atws-dab-default-jp-p-tcp-pdx.pdx.proxy.amazon.com
+atws-dab-default-jp-p-tcp.pdx.amazon.com
 atws-dab-eu-pdx-d-tcp.integ.amazon.com
 atws-dab-jp-pdx-d-tcp.integ.amazon.com
 atws-dab-pdx-d-tcp.integ.amazon.com
@@ -21405,6 +21407,7 @@ bb-ops-console-iad-pod04.aea.amazon.com
 bb-ops-console-iad-pod05-aka.aea.amazon.com
 bb-ops-console-iad-pod05.aka.amazon.com
 bb-ops-console-iad-pod07.aka.amazon.com
+bb-ops-console-iad-pod08.aka.amazon.com
 bb-ops-console-iad-pod09.aka.amazon.com
 bb-ops-console-iad.aea.amazon.com
 bb-ops-console-nrt.amazon.com
@@ -33746,6 +33749,7 @@ gamma-es.key.amazon.com
 gamma-eu-alexamobilediscoveryservice.aka.amazon.com
 gamma-eu-alexamobilefeedbackexperienceservice.aka.amazon.com
 gamma-eu-compass.corp.amazon.com
+gamma-eu-fcpackuiservice.aka.corp.amazon.com
 gamma-eu-mc-execute.corp.amazon.com
 gamma-eu-rescue-exception.corp.amazon.com
 gamma-fashionscience.corp.amazon.com
@@ -33764,6 +33768,7 @@ gamma-ingest.timestream.us-west-2.vpce.amazon.com
 gamma-ipc-set-fe.aka.amazon.com
 gamma-isp-compliance.corp.amazon.com
 gamma-it.key.amazon.com
+gamma-jp-fcpackuiservice.aka.corp.amazon.com
 gamma-jp.key.amazon.com
 gamma-kci.corp.amazon.com
 gamma-kuiper-next-shadow.integ.amazon.com
@@ -35084,6 +35089,7 @@ heliopause-us-east-1.amazon.com
 heliopay.amazon.com
 heliopay-beta.integ.amazon.com
 heliopay-preview.amazon.com
+heliosalchemist.cupid-na.idprism-auth.amazon.com
 hellotest.eu.integ.aftx.amazon.com
 helloworld-jlbrelay-backend.kat.amazon.com
 hells-gate.corp.amazon.com
@@ -35823,6 +35829,7 @@ iadtest.amazon.com
 iadtest-new.amazon.com
 iae26.weipingceramic.co-orca-bak.amazon.com
 iah6-portal.amazon.com
+iam-ataraxia.aka.corp.amazon.com
 iam-dashboard-corp.aea.amazon.com
 iam-dashboard.corp.amazon.com
 iam-dashboard.integ.amazon.com
@@ -45098,6 +45105,7 @@ nom-mgmt-prod.amazon.com
 nom-stream.amazon.com
 nom-stream-prod.amazon.com
 nomendum.signin.aws.amazon.com
+non-prod-yeti-qa.amazon.com
 nonprod.ems.external.amazon.com
 nonprofit.amazon.com
 nonprofitcentral.amazon.com

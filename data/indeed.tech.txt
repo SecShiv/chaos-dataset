@@ -160,6 +160,7 @@
 07e41d344fa88739cafa2a9a1bf8052a.cert-manager.awscmhqa5.k8s.indeed.tech
 08626d611ae293e155d955ffd9a0c41d.loom-inference.awscmhqa5.k8s.indeed.tech
 08d80741799121bab71897353112994b.loom-inference.awscmh5.k8s.indeed.tech
+08ec94bba95e4c88c1b6ffe4f78c2647.loom-inference.awscmh5.k8s.indeed.tech
 08ec94bba95e4c88c1b6ffe4f78c2647.loom-inference.awscmhqa4.k8s.indeed.tech
 098b0f10f7b9bcd5875ea55e2a5e7beb.loom-inference.awscmh5.k8s.indeed.tech
 098b0f10f7b9bcd5875ea55e2a5e7beb.loom-inference.awscmh6.k8s.indeed.tech
@@ -5505,6 +5506,7 @@ loom-t5-base-pay-extractor.locust.awscmhqa5.k8s.indeed.tech
 loom-test-amds-performance.locust.awscmhqa5.k8s.indeed.tech
 loom-test-loom-demo.locust.awscmh6.k8s.indeed.tech
 loom-test-xgboost-performance.locust.awscmhqa5.k8s.indeed.tech
+loom-tinyproxy-backend-infra.awscmhinfra3.k8s.indeed.tech
 loom-tinyproxy-backend-qa.awscmhqa5.k8s.indeed.tech
 loom-ui-dev.awscmhqa5.k8s.indeed.tech
 loomdemo-loomloadtest2.locust.awscmhqa2.k8s.indeed.tech
@@ -10696,6 +10698,7 @@ visibility-draw-plugin.cmh.k8s.indeed.tech
 vispana.awscmhqa3.k8s.indeed.tech
 vortex-czhang.awscmhqa5.k8s.indeed.tech
 vortex-example-cf-http-log-flink-service.awscmhqa5.k8s.indeed.tech
+vortex-integ-test-qa.awscmhqa5.k8s.indeed.tech
 vortex-kfu.awscmhqa4.k8s.indeed.tech
 vortex-mdp-feature-builder-experimental.awscmh6.k8s.indeed.tech
 vortex-mdp-mvc.awscmhqa4.k8s.indeed.tech
@@ -10888,6 +10891,7 @@ xds--prod.awscmh3.k8s.indeed.tech
 xds--prod.awscmh4.k8s.indeed.tech
 xds--prod.awscmh5.k8s.indeed.tech
 xds--prod.awscmh6.k8s.indeed.tech
+xds--prod.awscmh7.k8s.indeed.tech
 xds--prod.awsdub.k8s.indeed.tech
 xds--prod.awsdub2.k8s.indeed.tech
 xds--prod.awsfra1.k8s.indeed.tech

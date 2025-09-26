@@ -908,6 +908,7 @@
 *.dev.purestorage.adobecqms.net
 *.dev.pwc-actv.adobecqms.net
 *.dev.qantas-assets.adobecqms.net
+*.dev.qiddiya.adobecqms.net
 *.dev.questdiagnostics.adobecqms.net
 *.dev.radleyandco.adobecqms.net
 *.dev.rai-assets.adobecqms.net
@@ -1296,6 +1297,7 @@
 *.dispatcher1.stage.velocity.adobecqms.net
 *.dispatcher1.test.vaa.adobecqms.net
 *.dispatcher1.test.velocity.adobecqms.net
+*.dispatcher1.uat.vaa.adobecqms.net
 *.dispatcher10.prod.velocity.adobecqms.net
 *.dispatcher2.dev.vaa.adobecqms.net
 *.dispatcher2.dev.velocity.adobecqms.net
@@ -2092,6 +2094,7 @@
 *.preprod.pptr.adobecqms.net
 *.preprod.pru.adobecqms.net
 *.preprod.pwc-actv.adobecqms.net
+*.preprod.qiddiya.adobecqms.net
 *.preprod.raiservices.adobecqms.net
 *.preprod.raymond.adobecqms.net
 *.preprod.rics.adobecqms.net
@@ -2198,6 +2201,7 @@
 *.prod.abbvie.adobecqms.net
 *.prod.acca65s.adobecqms.net
 *.prod.adityabirla.adobecqms.net
+*.prod.adobecqms.adobecqms.net
 *.prod.adt.adobecqms.net
 *.prod.adt-test3-65.adobecqms.net
 *.prod.aegon.adobecqms.net
@@ -2663,6 +2667,7 @@
 *.prod.pwc-actv.adobecqms.net
 *.prod.pwc-falcon65.adobecqms.net
 *.prod.qantas-assets.adobecqms.net
+*.prod.qiddiya.adobecqms.net
 *.prod.qiddiya-assets.adobecqms.net
 *.prod.questdiagnostics.adobecqms.net
 *.prod.radleyandco.adobecqms.net
@@ -3309,6 +3314,7 @@
 *.qa.puratos-cn.adobecqms.net
 *.qa.purestorage.adobecqms.net
 *.qa.pwc-actv.adobecqms.net
+*.qa.qiddiya.adobecqms.net
 *.qa.questdiagnostics.adobecqms.net
 *.qa.rai-assets.adobecqms.net
 *.qa.raiservices.adobecqms.net
@@ -3901,6 +3907,7 @@
 *.stage.abbvie.adobecqms.net
 *.stage.acca65s.adobecqms.net
 *.stage.adityabirla.adobecqms.net
+*.stage.adobecqms.adobecqms.net
 *.stage.adt.adobecqms.net
 *.stage.adt-test3-65.adobecqms.net
 *.stage.aegon.adobecqms.net
@@ -4357,6 +4364,7 @@
 *.stage.pwc-actv.adobecqms.net
 *.stage.pwc-falcon65.adobecqms.net
 *.stage.qantas-assets.adobecqms.net
+*.stage.qiddiya.adobecqms.net
 *.stage.qiddiya-assets.adobecqms.net
 *.stage.questdiagnostics.adobecqms.net
 *.stage.radleyandco.adobecqms.net
@@ -5057,6 +5065,7 @@
 *.test.pwc-actv.adobecqms.net
 *.test.pwc-falcon65.adobecqms.net
 *.test.qantas-assets.adobecqms.net
+*.test.qiddiya.adobecqms.net
 *.test.questdiagnostics.adobecqms.net
 *.test.rai-assets.adobecqms.net
 *.test.raiservices.adobecqms.net
@@ -5332,6 +5341,7 @@
 *.uat.morganstanleyintra.adobecqms.net
 *.uat.morganstanleymsim.adobecqms.net
 *.uat.morganstanleypw.adobecqms.net
+*.uat.qiddiya.adobecqms.net
 *.uat.roche-eu-65.adobecqms.net
 *.uat.s6-web.adobecqms.net
 *.uat.severntrentwater-asec.adobecqms.net
@@ -5345,6 +5355,7 @@
 *.uat.tmobile.adobecqms.net
 *.uat.toyotamotorseurope.adobecqms.net
 *.uat.tsb-bank.adobecqms.net
+*.uat.vaa.adobecqms.net
 *.uat.virginatlantic.adobecqms.net
 *.uat.waste-management.adobecqms.net
 *.uat.waste-management-waf.adobecqms.net
@@ -5604,6 +5615,7 @@ actemrahcp-prod-genentech.adobecqms.net
 adityabirla.adobecqms.net
 adobe-xd.adobecqms.net
 adobe.pbase.adobecqms.net
+adobecqms.adobecqms.net
 adobexd.adobecqms.net
 adrbrrvrdb.ashishcha.adobecqms.net
 adt.adobecqms.net
@@ -5644,6 +5656,7 @@ aemcif.magento.adobecqms.net
 aemcomm.magento.adobecqms.net
 aemforms-intcivilaviation-prod.adobecqms.net
 aemforms-intcivilaviation-stage.adobecqms.net
+aemforms-lmic-grm-stage.adobecqms.net
 aeon.adobecqms.net
 aetna.adobecqms.net
 afs.adobecqms.net
@@ -8872,7 +8885,11 @@ dispatcher4.prod.velocity.adobecqms.net
 dispatcher4.stage.vaa.adobecqms.net
 dispatcher4.stage.velocity.adobecqms.net
 dispatcher5.prod.sprint65.adobecqms.net
+dispatcher5.prod.velocity.adobecqms.net
+dispatcher5.stage.velocity.adobecqms.net
 dispatcher6.prod.sprint65.adobecqms.net
+dispatcher6.prod.velocity.adobecqms.net
+dispatcher6.stage.velocity.adobecqms.net
 dispatcher7.prod.sprint65.adobecqms.net
 dispatcher8.prod.sprint65.adobecqms.net
 dispatcher9.prod.sprint65.adobecqms.net
@@ -13522,6 +13539,7 @@ qaow.bajajfinance.adobecqms.net
 qat.brunswick.adobecqms.net
 qerv23rv4r25b.chihci.adobecqms.net
 qervqr3vr4b4wt.chihci.adobecqms.net
+qiddiya.adobecqms.net
 qiddiya-assets.adobecqms.net
 qualcomm.adobecqms.net
 qualcomm65-dev.adobecqms.net
@@ -17502,4 +17520,3 @@ zeiss-prod65.adobecqms.net
 zeiss-stage65.adobecqms.net
 zeppelin.adobecqms.net
 zeppelin-prod-65.adobecqms.net
-zeppelin-test64.adobecqms.net

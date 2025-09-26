@@ -1,6 +1,7 @@
 .rws.nl
 *.am2-test-cnap-test.k8s.cnap.rws.nl
 *.apps.ai-01.os-t.rws.nl
+*.apps.global-hub.os-t.rws.nl
 *.apps.hcp01.os-t.rws.nl
 *.apps.hcp04.os-t.rws.nl
 *.apps.hub01.os-t.rws.nl
@@ -36,6 +37,8 @@
 *.k8s.sas-viya-sandbox.cnap-am4.intranet.rws.nl
 *.k8s.secupi-prod.cnap-am4.intranet.rws.nl
 *.k8s.secupi.cnap-am4.intranet.rws.nl
+*.k8s.services.cnap-am2.intranet.rws.nl
+*.k8s.services.cnap-am4.intranet.rws.nl
 *.k8s.spin-a.cnap-am4.intranet.rws.nl
 *.k8s.spin-p.cnap-am2.intranet.rws.nl
 *.k8s.spin-p.cnap-am4.intranet.rws.nl
@@ -905,6 +908,7 @@ relay-6.rws.nl
 rhel8.wabinfo.rws.nl
 risicodatabase.rws.nl
 ron-gkw-iseadm1.rws.nl
+rta.rta.test.vm-04.azure.grid.rws.nl
 rwis-frontend-acceptatie.vm-05.azure.grid.rws.nl
 rwis-frontend-test.vm-05.azure.grid.rws.nl
 rws-iavw-grs001.rws.nl

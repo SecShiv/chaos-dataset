@@ -430,6 +430,7 @@
 *.playground.tardis.telekom.de
 *.pre-lab.dtrc.tenant.das-schiff.telekom.de
 *.pre-lab.rando.tenant.das-schiff.telekom.de
+*.pre-prod.dtrc.tenant.das-schiff.telekom.de
 *.preprod-bm-bestellshop.aws.telekom.de
 *.preprod.bm.aws.telekom.de
 *.preprod.luke.dtp-nonprod.aws.telekom.de
@@ -4862,6 +4863,7 @@ ctrlit-test.telekom.de
 ctx.telekom.de
 ctx-shopplaner.telekom.de
 ctx-shopplaner-ta.telekom.de
+ctx-shopplaner-ta-internal.telekom.de
 cubicus.telekom.de
 cuda-complete-cc.telekom.de
 cuda-complete-ewu-cc.telekom.de
@@ -7575,6 +7577,7 @@ dev3-1758286609099.raccoon-mcp-server.trap.dev.tap.telekom.de
 dev3-1758491431544.raccoon-mcp-server.trap.dev.tap.telekom.de
 dev3-1758491905707.raccoon-mcp-server.trap.dev.tap.telekom.de
 dev3-1758630034059.raccoon-mcp-server.trap.dev.tap.telekom.de
+dev3-1758838507391.raccoon-mcp-server.trap.dev.tap.telekom.de
 dev3.raccoon-mcp-server.trap.dev.tap.telekom.de
 dev4-1758164392128.raccoon-mcp-server.trap.dev.tap.telekom.de
 dev4.raccoon-mcp-server.trap.dev.tap.telekom.de
@@ -7768,6 +7771,7 @@ development-1741936602109.trap-java-quarkus-example.trap.dev.tap.telekom.de
 development-1741939561062.docs.uat-trap.dev.tap.telekom.de
 development-1741940355889.docs.uat-trap.dev.tap.telekom.de
 development-1741960720947.deploy-ce856cb1.uat-trap.dev.tap.telekom.de
+development-1742482544505.story.trap.dev.tap.telekom.de
 development-1742886231422.trap-python-fastapi-example.trap.dev.tap.telekom.de
 development-1742886246232.trap-python-vanilla-example.trap.dev.tap.telekom.de
 development-1742886257660.trap-dotnet-razor-example.trap.dev.tap.telekom.de
@@ -8049,6 +8053,12 @@ development-1758617182351.trap-java-quarkus-example.trap.dev.tap.telekom.de
 development-1758617260911.trap-frontend-react-example.trap.dev.tap.telekom.de
 development-1758694725916.trap-frontend-react-example.trap.dev.tap.telekom.de
 development-1758694816861.trap-java-spring-example.trap.dev.tap.telekom.de
+development-1758780632121.trap-python-fastapi-example.trap.dev.tap.telekom.de
+development-1758780674319.trap-go-gin-example.trap.dev.tap.telekom.de
+development-1758780731857.trap-nodejs-fastify-example.trap.dev.tap.telekom.de
+development-1758780924336.trap-java-spring-example.trap.dev.tap.telekom.de
+development-1758781015767.trap-java-quarkus-example.trap.dev.tap.telekom.de
+development-1758781051369.trap-frontend-react-example.trap.dev.tap.telekom.de
 development-kosit-validator.aws.telekom.de
 development.api1.trap.dev.tap.telekom.de
 development.asd.uat-trap.dev.tap.telekom.de
@@ -8127,6 +8137,7 @@ development.service4-dev.trap.dev.tap.telekom.de
 development.service7-dev.trap.dev.tap.telekom.de
 development.service8-dev.trap.dev.tap.telekom.de
 development.sidd-dashboard.trap.dev.tap.telekom.de
+development.story.trap.dev.tap.telekom.de
 development.swag-service-dev.trap.dev.tap.telekom.de
 development.swag-service2-dev.trap.dev.tap.telekom.de
 development.swag-service3-dev.trap.dev.tap.telekom.de
@@ -8259,6 +8270,7 @@ dex.idp-meta-core.dev.tap.telekom.de
 dex.idp-meta-services.dev.tap.telekom.de
 dex.idp-moc-core.dev.tap.telekom.de
 dex.idp-moc-mktpl.dev.tap.telekom.de
+dex.idp-moc-orange.dev.tap.telekom.de
 dex.idp-moc-services.dev.tap.telekom.de
 dex.idp-moc-shsvc.dev.tap.telekom.de
 dex.idp-prd-core.dev.tap.telekom.de
@@ -10212,6 +10224,7 @@ feat-plusdx-836-docusaurus-faste-1758121844181.dxdocs.trap.dev.tap.telekom.de
 feat-plusdx-836-docusaurus-faste-1758122321751.dxdocs.trap.dev.tap.telekom.de
 feat-plusdx-836-docusaurus-faste-1758124007672.dxdocs.trap.dev.tap.telekom.de
 feat-plusdx-836-docusaurus-faster.dxdocs.trap.dev.tap.telekom.de
+feat-plusdx-859-use-bitn.review-trap-prod.dev.tap.telekom.de
 feature-cluster-update.dev.tvpp.res.telekom.de
 feature-dhdoit-0000-cards-cfs.code-factory.dev.tap.telekom.de
 feature-dhdoit-0000-mdx-fix-cfs.code-factory.dev.tap.telekom.de
@@ -12065,6 +12078,7 @@ idp-meta-core.dev.tap.telekom.de
 idp-meta-services.dev.tap.telekom.de
 idp-moc-core.dev.tap.telekom.de
 idp-moc-mktpl.dev.tap.telekom.de
+idp-moc-orange.dev.tap.telekom.de
 idp-moc-services.dev.tap.telekom.de
 idp-moc-shsvc.dev.tap.telekom.de
 idp-prd-core.dev.tap.telekom.de
@@ -13275,6 +13289,7 @@ kubernetes-dashboard.idp-meta-core.dev.tap.telekom.de
 kubernetes-dashboard.idp-meta-services.dev.tap.telekom.de
 kubernetes-dashboard.idp-moc-core.dev.tap.telekom.de
 kubernetes-dashboard.idp-moc-mktpl.dev.tap.telekom.de
+kubernetes-dashboard.idp-moc-orange.dev.tap.telekom.de
 kubernetes-dashboard.idp-moc-services.dev.tap.telekom.de
 kubernetes-dashboard.idp-prd-core.dev.tap.telekom.de
 kubernetes-dashboard.idp-prd-core.prod.tap.telekom.de
@@ -14216,6 +14231,7 @@ mf.byok.telekom.de
 mf.byok-fcsb.telekom.de
 mf.byok001.telekom.de
 mfaportal.laboratories.telekom.de
+mff-ocd-test.telekom.de
 mfz-portal.telekom.de
 mg-out-331.mail.telekom.de
 mg-out-341.mail.telekom.de
@@ -14485,11 +14501,13 @@ modi.telekom.de
 mogli.blcrm.aws.telekom.de
 moin.telekom.de
 moments-warteraum.telekom.de
+momo-portal.telekom.de
 momvt.sgp.telekom.de
 mon-prod.emm.telekom.de
 mon-ta.emm.telekom.de
 mon1-nic.epcm.dev.a4.telekom.de
 mon1-tst.epcm.s1.dev.a4.telekom.de
+mon1-tst2.epcm.s2.dev.a4.telekom.de
 mon1-tst3.epcm.s3.dev.a4.telekom.de
 monalisa.telekom.de
 monalisa.cndtag.oasis.telekom.de
@@ -14628,6 +14646,7 @@ myaccess-adm-technik.telekom.de
 myaccess-adm-technik.zdcn-ctx.telekom.de
 myaccess-technik.telekom.de
 myaccess-technik.zdcn-ctx.telekom.de
+myapp3.demo-dev.gc.telekom.de
 myaris.telekom.de
 myaris-dev.telekom.de
 myaris01-dev.dtitcid0018.azcloud.telekom.de
@@ -16792,6 +16811,7 @@ prd.sam.aws.telekom.de
 prd.samprod.aws.telekom.de
 pre-lab.dtrc.tenant.das-schiff.telekom.de
 pre-lab.rando.tenant.das-schiff.telekom.de
+pre-prod.dtrc.tenant.das-schiff.telekom.de
 preagreementdomainmanagement-blw-msa-cit2.blw.caas-t41.telekom.de
 preagreementdomainmanagement-blw-msa-lup.blw.caas-t21.telekom.de
 preagreementdomainmanagement-blw-msa-prod1.blw.caas-p21.telekom.de
@@ -17360,6 +17380,7 @@ prometheus.idp-dev-services.dev.tap.telekom.de
 prometheus.idp-meta-core.dev.tap.telekom.de
 prometheus.idp-meta-services.dev.tap.telekom.de
 prometheus.idp-moc-core.dev.tap.telekom.de
+prometheus.idp-moc-orange.dev.tap.telekom.de
 prometheus.idp-moc-services.dev.tap.telekom.de
 prometheus.idp-prd-core.dev.tap.telekom.de
 prometheus.isolated-mode.sc-tap-2083.dev.tap.telekom.de
@@ -19909,6 +19930,7 @@ school-sharepoint.telekom.de
 school-sharepoint-suche.telekom.de
 schueler.telekom.de
 schuelerpraktikum.telekom.de
+sckuzuconsumer-blw-msa-cit2.blw.caas-t41.telekom.de
 scm.apim.dtitcid0152.azcloud.telekom.de
 scm.apim.dtitcip0125.azcloud.telekom.de
 scoold.kube.devops.telekom.de
@@ -21803,6 +21825,7 @@ telecontext-internal-1758245160026.trap.prod.tap.telekom.de
 telecontext-internal-1758504505906.trap.prod.tap.telekom.de
 telecontext-internal-1758590830377.trap.prod.tap.telekom.de
 telecontext-internal-1758677168839.trap.prod.tap.telekom.de
+telecontext-internal-1758763520524.trap.prod.tap.telekom.de
 telecontext-internal.trap.prod.tap.telekom.de
 telefoniecenter-proto.sgp.telekom.de
 telefoniecenter-test0.sgp.telekom.de
@@ -26213,6 +26236,9 @@ unit-demo-app-1705314117051.trap.prod.tap.telekom.de
 unit-demo-app.trap.prod.tap.telekom.de
 unittest.otc.a4.telekom.de
 unterlagen-bnetza.telekom.de
+update-drax-docu-1758801085946.dxdocs.trap.dev.tap.telekom.de
+update-drax-docu-1758801556500.dxdocs.trap.dev.tap.telekom.de
+update-drax-docu.dxdocs.trap.dev.tap.telekom.de
 uptgeotool.telekom.de
 uptgeotool-dev.telekom.de
 uptgeotool-pre.telekom.de
@@ -27563,6 +27589,7 @@ wysiwyg.telekom.de
 x3mgtdmm.cndtag.oasis.telekom.de
 x3vodccm.cndtag.oasis.telekom.de
 x400.telekom.de
+x400-r.telekom.de
 x400-t.telekom.de
 x509.identity-management-idp.ndo-0.automation.telekom.de
 x509.identity-management-idp.ndo-5.automation.telekom.de

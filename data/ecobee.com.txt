@@ -6,6 +6,7 @@
 *.cam-stage.ecobee.com
 *.cw-dev.ecobee.com
 *.dev.ecobee.com
+*.ecobeeauth.ecobee.com
 *.ecostat.ecobee.com
 *.es.ecobee.com
 *.es.stage.ecobee.com
@@ -143,6 +144,7 @@ auth-admin-svc.stage.ecobee.com
 auth-admin.stage.ecobee.com
 auth-apps-svc.ecobee.com
 auth-apps-svc.stage.ecobee.com
+auth-dev.ecobee.com
 auth-staging.ecobee.com
 auth.a1-staging.ecobee.com
 auth0-admin-ap2.stage.ecobee.com
@@ -598,6 +600,7 @@ score.ecobee.com
 sdapi.shared.ecobee.com
 sdapi.ts-dev.ecobee.com
 sdapi.ts-prod.ecobee.com
+sendgrid.ecobeeauth.ecobee.com
 sensor-metrics.ecobee.com
 shared.ecobee.com
 shop.ecobee.com
