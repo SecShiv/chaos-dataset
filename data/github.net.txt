@@ -23,12 +23,17 @@
 *.service.gc-cus-01-az2.github.net
 *.service.gc-cus-01-az3.github.net
 *.service.iad.github.net
+*.service.japanwest.github.net
 *.service.mtwesteu01.github.net
 *.service.private-us-east-1.github.net
 *.service.prod-ae-01.github.net
 *.service.prod-ae-01-az1.github.net
 *.service.prod-ae-01-az2.github.net
 *.service.prod-ae-01-az3.github.net
+*.service.prod-jpw-01.github.net
+*.service.prod-jpw-01-az1.github.net
+*.service.prod-jpw-01-az2.github.net
+*.service.prod-jpw-01-az3.github.net
 *.service.prod-uks-01.github.net
 *.service.prod-uks-01-az1.github.net
 *.service.prod-uks-01-az2.github.net
@@ -190,6 +195,7 @@ service.azure-australiaeast.github.net
 service.azure-centralus.github.net
 service.azure-eastus.github.net
 service.azure-francecentral.github.net
+service.azure-japanwest.github.net
 service.azure-uksouth.github.net
 service.azure-westeurope.github.net
 service.bpdev-us-east-1.github.net
@@ -204,6 +210,7 @@ service.eu-central-1.github.net
 service.fr5-fra.github.net
 service.francecentral.github.net
 service.iad.github.net
+service.japanwest.github.net
 service.mtwesteu01.github.net
 service.private-us-east-1.github.net
 service.prod-weu-01.github.net
@@ -263,3 +270,5 @@ xe-1-2-3-0.bdr1-cp1-prd.net.cp1-iad.github.net
 xe-1-2-3-0.bdr2-cp1-prd.net.cp1-iad.github.net
 xe-2-0-3-0.bdr1-cp1-prd.net.cp1-iad.github.net
 xe-2-0-3-0.bdr2-cp1-prd.net.cp1-iad.github.net
+xe-2-2-3-0.bdr1-cp1-prd.net.cp1-iad.github.net
+xe-2-2-3-0.bdr2-cp1-prd.net.cp1-iad.github.net

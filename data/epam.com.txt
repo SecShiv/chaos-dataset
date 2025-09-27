@@ -530,6 +530,7 @@
 *.cl1-default-lb.epm-paas-ant-aks.eu.azure.epm-paas.projects.epam.com
 *.cl1-default-lb.epm-paas-ant-apmd.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-paas-ant-test1.eu.azure.epm-paas.projects.epam.com
+*.cl1-default-lb.epm-paas-ant-testqa1.eu.azure.epm-paas.projects.epam.com
 *.cl1-default-lb.epm-paas-anthos-a.eu.gcp.epm-paas.projects.epam.com
 *.cl1-default-lb.epm-paas-anthos-apm.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-paas-anthos-b.eu.gcp.epm-paas.projects.epam.com
@@ -2169,6 +2170,7 @@ backups.cloud.epam.com
 badger.qa.supernova.telescope.epam.com
 barrelbot.ai-x-a-accelerate.lab.epam.com
 bcp-dev.epm-ppa.projects.epam.com
+bcp.epm-ppa.projects.epam.com
 bcp.excerpa.els-rjed.projects.epam.com
 beacon.nbs-mask.projects.epam.com
 benefits.epam.com
@@ -2393,6 +2395,8 @@ console.api.datahub.epam.com
 console.cloud.epam.com
 console.cloudapp.epam.com
 console.datahub.epam.com
+consumer.dev.epm-ccms.projects.epam.com
+consumer.devrc.epm-ccms.projects.epam.com
 continuity.epam.com
 continuity.lab.epam.com
 continuum-careers.epam.com
@@ -2822,6 +2826,7 @@ draft-assistant-dev.llm.lab.epam.com
 draft-assistant.llm.lab.epam.com
 draft-gemini-poc.llm.lab.epam.com
 drcheck.stage.epam.com
+drill4j.epm-rpp.projects.epam.com
 ds1-eu-central-dmlr.videoportal.epam.com
 ds1-us-west-dmlr.videoportal.epam.com
 ds2-eu-central-dmlr.videoportal.epam.com
@@ -3370,6 +3375,7 @@ elasticsearch-v6-386.aws.radar.stage.epam.com
 elasticsearch-v6-387.aws.radar.stage.epam.com
 elasticsearch-v6-388.aws.radar.stage.epam.com
 elasticsearch-v6-389.aws.radar.stage.epam.com
+elasticsearch-v6-390.aws.radar.stage.epam.com
 elasticsearch-v6-412.aws.radar.epam.com
 elasticsearch-v6-413.aws.radar.epam.com
 elasticsearch-v6-414.aws.radar.epam.com
@@ -4749,6 +4755,7 @@ llm-research-app-experiment-prod.llm.lab.epam.com
 llm-research-app-genaihub-dev.llm.lab.epam.com
 llm-research-app-genaihub-feature.llm.lab.epam.com
 llm-research-app-genaihub-prod.llm.lab.epam.com
+llm-research-app-genaihub-uat.llm.lab.epam.com
 llm-research-app-projectsearch-dev.llm.lab.epam.com
 llm-research-app-projectsearch-prod.llm.lab.epam.com
 llm-research-app-resume-dev.llm.lab.epam.com
@@ -5187,6 +5194,7 @@ network.adi-coin.projects.epam.com
 networks.epam.com
 newtest.indigo.lifescience.epam.com
 newtest.lifescience.epam.com
+next.default-lb-epm-alpa-ant-rdptstg.epm-alpa-ant-rdptstg.eu.aws.cloudapp.epam.com
 next.solutionshub.epam.com
 nexus-ci.gke-sandbox.epm-rdfc-anthos.eu.gcp.cloudapp.epam.com
 nexus-ci.gke-sandbox.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
@@ -5965,6 +5973,8 @@ prod.supernova.telescope.epam.com
 prod.time.epam.com
 prod.trin-edt2.projects.epam.com
 prodauthor.infoportal-aws.epm-iass.projects.epam.com
+producer.dev.epm-ccms.projects.epam.com
+producer.devrc.epm-ccms.projects.epam.com
 professionals-api.dev.settlement.epam.com
 professionals-api.settlement-d.lab.epam.com
 professionals-api.settlement.lab.epam.com
@@ -6364,6 +6374,7 @@ settlement.lab.epam.com
 sftpgo.epm-gess.projects.epam.com
 share.epam.com
 sharepoint.epam.com
+sharepoint.devrc.epm-ccms.projects.epam.com
 ship.lab.epam.com
 shipment.lab.epam.com
 showcase.epam.com

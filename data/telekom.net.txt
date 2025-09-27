@@ -365,6 +365,7 @@ argocd.dev.oc.telekom.net
 argocd.oc.telekom.net
 argocd.playground.oc.telekom.net
 argocd.playground2.oc.telekom.net
+argocd.pluto-ai-nt.halo.telekom.net
 argocd.poc.sb.oc.telekom.net
 argocd.staging.oc.telekom.net
 auth.aicc-dev.pix.telekom.net
@@ -577,6 +578,9 @@ customer-insights-test.dev.oc.telekom.net
 customer-insights.dev.oc.telekom.net
 customer-insights.oc.telekom.net
 customer-insights.staging.oc.telekom.net
+customsvc1.pluto-ai-nt.halo.telekom.net
+customsvc2.pluto-ai-nt.halo.telekom.net
+customsvc3.pluto-ai-nt.halo.telekom.net
 cxc-dev.svhproducts.telekom.net
 cxc-ent-dev.svhproducts.telekom.net
 cxc-prod.svhproducts.telekom.net
@@ -766,6 +770,7 @@ flagteam.telekom.net
 flexibot.pix.telekom.net
 flexrom-test.ng.telekom.net
 flexrom.ng.telekom.net
+flink.pluto-ai-nt.halo.telekom.net
 flyer-registration.mwc.telekom.net
 flyer.mwc.telekom.net
 fmcocms01-2.msteamsvoice.telekom.net
@@ -821,6 +826,7 @@ grafana.dtgo.dlthub.telekom.net
 grafana.dtna.dlthub.telekom.net
 grafana.lab.intelligent.telekom.net
 grafana.monitoring.dx.oc.telekom.net
+grafana.pluto-ai-nt.halo.telekom.net
 grafana2.dtgo.dlthub.telekom.net
 grafana2.dtna.dlthub.telekom.net
 grf-uat.sdp.telekom.net
@@ -848,10 +854,12 @@ hotspot-handler.test.hotspot.telekom.net
 hss-analytics.test.hotspot.telekom.net
 hss.test.hotspot.telekom.net
 hub.ar-fieldadvisor.telekom.net
+hub.pluto-ai-nt.halo.telekom.net
 hubcraft-test.ng.telekom.net
 hurricane-internal.automation.telekom.net
 hurricane.automation.telekom.net
 ibc.telekom.net
+iceberg.pluto-ai-nt.halo.telekom.net
 icinga-grafana-lb.service.smp.telekom.net
 icinga-grafana-lb.service.stgsmp.telekom.net
 icinga-influxdb01.service.smp.telekom.net
@@ -924,6 +932,7 @@ jumphost.automation.telekom.net
 jupyterhub.dev.iotplatform.telekom.net
 jupyterhub.iotplatform.telekom.net
 k8s.lab.intelligent.telekom.net
+kafka.pluto-ai-nt.halo.telekom.net
 kahootroom.idsctest.ng.telekom.net
 kantinenauslastung.telekom.net
 karriere.test.gcw.ng.telekom.net
@@ -954,6 +963,8 @@ kvp-mobile.ng.telekom.net
 lab.intelligent.telekom.net
 label-studio.chai-dev.ihub.telekom.net
 label-studio.chai.ihub.telekom.net
+langfuse.dcpo-agent.dev.gsus.telekom.net
+langfuse.dcpo-agent.gsus.telekom.net
 lb-lwa-ext.sis2015-ref.ng.telekom.net
 lb-lwa-ext.sis2015.ng.telekom.net
 lb.gcw.ng.telekom.net
@@ -1011,6 +1022,7 @@ map-collector.pk2-prd.ng.telekom.net
 map-collector.pk2-uat.ng.telekom.net
 map-collector.psrod-prd.ng.telekom.net
 mapper-api-dev.ng.telekom.net
+mara.test.gcw.ng.telekom.net
 mare-api.telekom.net
 mare-test-api.telekom.net
 marek-t1.ng.telekom.net
@@ -1036,6 +1048,7 @@ meter.telekom.net
 mgmt.sam-terminals-test.telekom.net
 minio.dev.pmatrem.telekom.net
 minio.lab.intelligent.telekom.net
+minio.pluto-ai-nt.halo.telekom.net
 minio.prod.pmatrem.telekom.net
 minio.staging.pmatrem.telekom.net
 mira001.ucc.prod.fixed.telekom.net
@@ -1192,6 +1205,7 @@ pk2mc-dev.ng.telekom.net
 pk2mc-prod.ng.telekom.net
 pk2mc-uat.ng.telekom.net
 playground1.sdx.telekom.net
+plutodep.pluto-ai-nt.halo.telekom.net
 pnm-test.telekom.net
 poc.sb.oc.telekom.net
 pocs-dev.svhproducts.telekom.net
@@ -1360,6 +1374,7 @@ socket.retrotooluat.ng.telekom.net
 sourcegraph.ihub.telekom.net
 spa-dev.tsms.telekom.net
 spa.tsms.telekom.net
+spark.pluto-ai-nt.halo.telekom.net
 spcm01.stgsmp.telekom.net
 spds01.stgsmp.telekom.net
 special-intg-dev.svhproducts.telekom.net
@@ -1531,6 +1546,7 @@ trap-dev.ng.telekom.net
 trap-uat.ng.telekom.net
 trap.ng.telekom.net
 treuegeschenk.telekom.net
+trino.pluto-ai-nt.halo.telekom.net
 tss.telekom.net
 tts4ms-nonprod.ng.telekom.net
 tts4ms-prod.ng.telekom.net
@@ -1563,6 +1579,7 @@ vac.staging.oc.telekom.net
 vaic101-gwc.ucc.ref.fixed.telekom.net
 vault.a4.telekom.net
 vault.lab.intelligent.telekom.net
+vault.pluto-ai-nt.halo.telekom.net
 vb365.telekom.net
 vcs.telekom.net
 vcs-cast1.telekom.net
@@ -1738,5 +1755,3 @@ x2ala.ng.telekom.net
 xgpt.chai-dev.ihub.telekom.net
 xks-test-louay-robert.ng.telekom.net
 zalenium.dev.pmatrem.telekom.net
-zoom-ucc-cloud-sbc.telekom.net
-zovoice.telekom.net

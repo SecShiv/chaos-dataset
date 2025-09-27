@@ -9,6 +9,7 @@
 *.c00.tech.nxtgms.netflix.com
 *.c01.tech.nxtgms.netflix.com
 *.c02.tech.nxtgms.netflix.com
+*.cdn.tech.nxtgms.netflix.com
 *.cs-voip.netflix.com
 *.dev.cloud.netflix.com
 *.dev.dradis.netflix.com
@@ -613,6 +614,7 @@ ccs-us.netflix.com
 ccs.latency.prodaa.netflix.com
 ccslog.latency.prodaa.netflix.com
 cdn.netflix.com
+cdn.tech.nxtgms.netflix.com
 cdnadmin.netflix.com
 cdnadmin-eu.netflix.com
 cdnadmin-eu.int.test.netflix.com
@@ -2672,3 +2674,6 @@ xvpn.netflix.com
 xwiki.test.dvdco.netflix.com
 ybz001.distributel.netflix.com
 yellow2admin-prod.netflix.com
+yellow2admin-test.netflix.com
+zabbix.itp.netflix.com
+zvpn.netflix.com

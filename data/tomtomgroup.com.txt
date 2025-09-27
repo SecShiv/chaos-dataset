@@ -46,6 +46,7 @@ a.major-updates-a62d0846.gateway.tti-cancun.tomtomgroup.com
 a.major-version-updates.gateway.tti-cancun.tomtomgroup.com
 a.mateuszwisnik-tomtom-p.gateway.tti-cancun.tomtomgroup.com
 a.prod-deployment.gateway.tti-cancun.tomtomgroup.com
+a.ta-2690-update-volumes.gateway.tti-cancun.tomtomgroup.com
 a.watchtower-resource-re.gateway.tti-cancun.tomtomgroup.com
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaalerts.koziorow3-we.routing-dev.tomtomgroup.com
 abandon-husky.dev.tti-cancun.tomtomgroup.com
@@ -553,6 +554,7 @@ b.major-updates-a62d0846.gateway.tti-cancun.tomtomgroup.com
 b.major-version-updates.gateway.tti-cancun.tomtomgroup.com
 b.mateuszwisnik-tomtom-p.gateway.tti-cancun.tomtomgroup.com
 b.prod-deployment.gateway.tti-cancun.tomtomgroup.com
+b.ta-2690-update-volumes.gateway.tti-cancun.tomtomgroup.com
 b.watchtower-resource-re.gateway.tti-cancun.tomtomgroup.com
 backstage-dev.sde.tomtomgroup.com
 backstage-pr100.sde.tomtomgroup.com
@@ -736,6 +738,7 @@ c.major-updates-a62d0846.gateway.tti-cancun.tomtomgroup.com
 c.major-version-updates.gateway.tti-cancun.tomtomgroup.com
 c.mateuszwisnik-tomtom-p.gateway.tti-cancun.tomtomgroup.com
 c.prod-deployment.gateway.tti-cancun.tomtomgroup.com
+c.ta-2690-update-volumes.gateway.tti-cancun.tomtomgroup.com
 c.watchtower-resource-re.gateway.tti-cancun.tomtomgroup.com
 caap-bridge-fixes.dev.tti-cancun.tomtomgroup.com
 cabreleaseschedule.tomtomgroup.com
@@ -2138,6 +2141,7 @@ d.major-updates-a62d0846.gateway.tti-cancun.tomtomgroup.com
 d.major-version-updates.gateway.tti-cancun.tomtomgroup.com
 d.mateuszwisnik-tomtom-p.gateway.tti-cancun.tomtomgroup.com
 d.prod-deployment.gateway.tti-cancun.tomtomgroup.com
+d.ta-2690-update-volumes.gateway.tti-cancun.tomtomgroup.com
 d.watchtower-resource-re.gateway.tti-cancun.tomtomgroup.com
 d3-array-3-0-4.dev.tti-cancun.tomtomgroup.com
 d3-array-3-2-1.dev.tti-cancun.tomtomgroup.com
@@ -2887,6 +2891,13 @@ fn02bd-westeurope-alert.ngs-dev.tomtomgroup.com
 fn02bd-westeurope-prom.ngs-dev.tomtomgroup.com
 fn03c0-westeurope-prom.ngs-dev.tomtomgroup.com
 fn03c0-westeurope.ngs-dev.tomtomgroup.com
+fn0b82-westeurope-alert.ngs-dev.tomtomgroup.com
+fn0b82-westeurope-grafana.ngs-dev.tomtomgroup.com
+fn0b82-westeurope-prom.ngs-dev.tomtomgroup.com
+fn12b8-koreacentral-alert.ngs-dev.tomtomgroup.com
+fn12b8-koreacentral-grafana.ngs-dev.tomtomgroup.com
+fn12b8-westeurope-grafana.ngs-dev.tomtomgroup.com
+fn12b8-westeurope-prom.ngs-dev.tomtomgroup.com
 fn1413-koreacentral-alert.ngs-dev.tomtomgroup.com
 fn1413-koreacentral-prom.ngs-dev.tomtomgroup.com
 fn1413-westeurope-grafana.ngs-dev.tomtomgroup.com
@@ -2915,6 +2926,7 @@ fn47ad-westeurope-alert.ngs-dev.tomtomgroup.com
 fn47dd-westeurope-alert.ngs-dev.tomtomgroup.com
 fn47dd-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn47dd-westeurope-prom.ngs-dev.tomtomgroup.com
+fn4a82-westeurope-alert.ngs-dev.tomtomgroup.com
 fn6a8b-koreacentral-alert.ngs-dev.tomtomgroup.com
 fn6a8b-koreacentral-prom.ngs-dev.tomtomgroup.com
 fn6a8b-koreacentral.ngs-dev.tomtomgroup.com
@@ -3003,6 +3015,7 @@ fnc4ed-koreacentral-prom.ngs-dev.tomtomgroup.com
 fnc4ed-westeurope-alert.ngs-dev.tomtomgroup.com
 fnc4ed-westeurope-grafana.ngs-dev.tomtomgroup.com
 fnc4ed-westeurope-prom.ngs-dev.tomtomgroup.com
+fnc4ed-westeurope.ngs-dev.tomtomgroup.com
 fnc69f-westeurope-grafana.ngs-dev.tomtomgroup.com
 fnc69f-westeurope-prom.ngs-dev.tomtomgroup.com
 fncbe7-koreacentral-alert.ngs-dev.tomtomgroup.com
@@ -4810,6 +4823,7 @@ otel-proxy.3b641f14-eastus.sre.tomtomgroup.com
 otel-proxy.6b183034-westeurope.sre.tomtomgroup.com
 otel-proxy.8629aff6-westeurope.sre.tomtomgroup.com
 otel-proxy.f3a132fc-westeurope.sre.tomtomgroup.com
+otel-proxy.o11y-dev.tomtomgroup.com
 otel-proxy.otelgw-eastus.sre.tomtomgroup.com
 otel-proxy.sre-dev.tomtomgroup.com
 otelcollector.sre-lab.tomtomgroup.com
@@ -5141,6 +5155,7 @@ quasar-4440.dev.tti-cancun.tomtomgroup.com
 quasar-4441-new.dev.tti-cancun.tomtomgroup.com
 quasar-4511.dev.tti-cancun.tomtomgroup.com
 quasar-4532.dev.tti-cancun.tomtomgroup.com
+quasar-4553.dev.tti-cancun.tomtomgroup.com
 quepid.tomtomgroup.com
 quickbuild.tomtomgroup.com
 quickbuild-dev.tomtomgroup.com
@@ -6293,7 +6308,9 @@ sync-metric-reports.orbis-binding.tomtomgroup.com
 sync-metric-reports.prod.orbis-binding.tomtomgroup.com
 sync-reports.orbis-binding.tomtomgroup.com
 ta-1154-volumes-plugin.dev.tti-cancun.tomtomgroup.com
+ta-2690-fix-typo.dev.tti-cancun.tomtomgroup.com
 ta-2690-new-volumes-mvt.dev.tti-cancun.tomtomgroup.com
+ta-2690-update-volumes.gateway.tti-cancun.tomtomgroup.com
 table-checkbox-padding.dev.tti-cancun.tomtomgroup.com
 tableau.tomtomgroup.com
 tableau-bak.tomtomgroup.com
@@ -6798,3 +6815,5 @@ yktst4-westeurope-alert.ngs-dev.tomtomgroup.com
 yktst4-westeurope-grafana.ngs-dev.tomtomgroup.com
 yktst4-westeurope-prom.ngs-dev.tomtomgroup.com
 yktst4-westeurope.ngs-dev.tomtomgroup.com
+yum.tomtomgroup.com
+zipsip.tomtomgroup.com

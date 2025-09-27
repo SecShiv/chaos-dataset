@@ -1268,6 +1268,7 @@ deobk.twilio.com
 dev.twilio.com
 dev-aem-cms-us1.api-lb.dev.twilio.com
 dev-de1.ad.corp.twilio.com
+dev-in1.ad.corp.twilio.com
 dev-jp2.ad.corp.twilio.com
 dev-sy1.ad.corp.twilio.com
 dev-us1.twilio.com
@@ -1466,6 +1467,7 @@ flex-insights-queues-stats-sink.stage-us1.twilio.com
 flex-insights-queues-stats-sink.us1.twilio.com
 flex-insights-rt.os.dev-us1.twilio.com
 flex-insights-rt.os.stage-us1.twilio.com
+flex-insights-rt.os.us1.twilio.com
 flex-qe-e2e-tester.twilio.com
 flex-qe-e2e-tester.classic.us1.prod.kafka-v1.twilio.com
 flex-qe-e2e-tester.outside.us1.prod.kafka-v1.twilio.com
@@ -2207,10 +2209,14 @@ private-assets.twilio.com
 prod.twilio.com
 prod-aem-cms-us1.api-lb.prod.twilio.com
 prod-api-88703523.twilio.com
+prod-br1.ad.corp.twilio.com
 prod-de1.ad.corp.twilio.com
 prod-euc1-sg-vpce.ad.corp.twilio.com
 prod-in1.ad.corp.twilio.com
 prod-jp1.ad.corp.twilio.com
+prod-jp2.ad.corp.twilio.com
+prod-sae1-sg-vpce.ad.corp.twilio.com
+prod-sg1.ad.corp.twilio.com
 prod-sy1.ad.corp.twilio.com
 prod-us1.ad.corp.twilio.com
 prod-us2.ad.corp.twilio.com
@@ -2702,6 +2708,7 @@ stage-au1.twilio.com
 stage-de1.ad.corp.twilio.com
 stage-ie1.twilio.com
 stage-in1.twilio.com
+stage-in1.ad.corp.twilio.com
 stage-jp2.twilio.com
 stage-jp2.ad.corp.twilio.com
 stage-sy1.ad.corp.twilio.com
@@ -3104,4 +3111,3 @@ zpa-pse.dev.twilio.com
 zscaler.corp.twilio.com
 zygops.corp.twilio.com
 zygops.dev.twilio.com
-zygops.stage.twilio.com

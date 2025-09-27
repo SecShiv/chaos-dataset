@@ -1,6 +1,7 @@
 *.surf.nl
 *.apm.ece.secops.surf.nl
 *.argos.surf.nl
+*.ci-access-rights-record-harvester.dev.sdp.surf.nl
 *.ci-backstage-record-harvester.dev.sdp.surf.nl
 *.ci-cors-record-harvester.dev.sdp.surf.nl
 *.ci-docker-proxy-record-harvester.dev.sdp.surf.nl
@@ -31,6 +32,7 @@
 *.ci-renovate-pydanti-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-pytest--record-harvester.dev.sdp.surf.nl
 *.ci-renovate-python--record-harvester.dev.sdp.surf.nl
+*.ci-renovate-record--record-harvester.dev.sdp.surf.nl
 *.ci-renovate-ruff-0--record-harvester.dev.sdp.surf.nl
 *.ci-renovate-starlet-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-structl-record-harvester.dev.sdp.surf.nl
@@ -870,6 +872,7 @@ ci-renovate-cr-surf-monitoring.dev.sdp.surf.nl
 ci-renovate-eslint--admin.cxp.dev.sdp.surf.nl
 ci-renovate-fastapi-monitoring.dev.sdp.surf.nl
 ci-renovate-localst-monitoring.dev.sdp.surf.nl
+ci-renovate-minio-7-monitoring.dev.sdp.surf.nl
 ci-renovate-mkdocs--monitoring.dev.sdp.surf.nl
 ci-renovate-mypy-1--monitoring.dev.sdp.surf.nl
 ci-renovate-node-22-backstage.dev.sdp.surf.nl
@@ -4999,6 +5002,7 @@ zeventig.172.surf.nl
 zeventig.173.surf.nl
 zeventig.174.surf.nl
 zeventig.175.surf.nl
+zitadel.pilot1.sram.surf.nl
 zm.fidern.oidf.lab.surf.nl
 zmail01p.ia.surf.nl
 zoekportaal.surf.nl

@@ -265,6 +265,7 @@
 *.crce177.me-south-1-1.ec2.cloud.redislabs.com
 *.crce178.ap-east-1-1.ec2.cloud.redislabs.com
 *.crce179.ap-south-1-1.ec2.cloud.redislabs.com
+*.crce182.ap-south-1-1.ec2.cloud.redislabs.com
 *.crce185.ap-seast-1-1.ec2.cloud.redislabs.com
 *.crce202.eu-west-3-1.ec2.cloud.redislabs.com
 *.crce217.ap-south-1-1.ec2.cloud.redislabs.com
@@ -492,6 +493,7 @@
 *.internal.crce177.me-south-1-1.ec2.cloud.redislabs.com
 *.internal.crce178.ap-east-1-1.ec2.cloud.redislabs.com
 *.internal.crce179.ap-south-1-1.ec2.cloud.redislabs.com
+*.internal.crce182.ap-south-1-1.ec2.cloud.redislabs.com
 *.internal.crce185.ap-seast-1-1.ec2.cloud.redislabs.com
 *.internal.crce202.eu-west-3-1.ec2.cloud.redislabs.com
 *.internal.crce217.ap-south-1-1.ec2.cloud.redislabs.com
@@ -1183,6 +1185,7 @@ crce175.eu-north-1-1.ec2.cloud.redislabs.com
 crce177.me-south-1-1.ec2.cloud.redislabs.com
 crce178.ap-east-1-1.ec2.cloud.redislabs.com
 crce179.ap-south-1-1.ec2.cloud.redislabs.com
+crce182.ap-south-1-1.ec2.cloud.redislabs.com
 crce185.ap-seast-1-1.ec2.cloud.redislabs.com
 crce202.eu-west-3-1.ec2.cloud.redislabs.com
 crce217.ap-south-1-1.ec2.cloud.redislabs.com
@@ -1609,6 +1612,7 @@ retool-sm-qa.qa.redislabs.com
 retool.sm-qa.qa.redislabs.com
 ri.redislabs.com
 ri-app-qa.qa.redislabs.com
+ri-app-sm.k8s-idm.sm-qa.qa.redislabs.com
 ri-app-sm.k8s-mw.sm-qa.qa.redislabs.com
 ri-app-staging.qa.redislabs.com
 ri.app-qa.qa.redislabs.com
@@ -2594,3 +2598,4 @@ yanivh.cs.redislabs.com
 yanivh2.cs.redislabs.com
 yanivh5.cs.redislabs.com
 yonicluster.cs.redislabs.com
+yuval-openshift3-east.openshift-qa.redislabs.com

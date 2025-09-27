@@ -2220,6 +2220,9 @@ datadrop-service.aus.k8s.indeed.tech
 datadrop-service.cmhprod1.k8s.indeed.tech
 datadrop-service.cmhprod2.k8s.indeed.tech
 datadrop-service.cmhprod3.k8s.indeed.tech
+dataplat-genai-core.data.qa.indeed.tech
+dataplat-genai-core.data.qa.awscmhqa4.k8s.indeed.tech
+dataplat-genai-core.data.qa.us-east-2.indeed.tech
 datastream-validation-jetstream.aus.k8s.indeed.tech
 datastream-validation-jetstream.awscmhstage.k8s.indeed.tech
 datastream-validation-jetstream.cmhprod1.k8s.indeed.tech
@@ -3890,6 +3893,7 @@ http-ldap-proxy.cmhqa3.k8s.indeed.tech
 hub.indeed.tech
 hub.awscmh5.k8s.indeed.tech
 hub.awscmh6.k8s.indeed.tech
+hub.awscmh7.k8s.indeed.tech
 hub.qa.indeed.tech
 hub.qa.awscmhqa4.k8s.indeed.tech
 hub.qa.awscmhqa5.k8s.indeed.tech
@@ -10156,6 +10160,7 @@ translation.cmhqa1.k8s.indeed.tech
 translation.cmhqa2.k8s.indeed.tech
 translation.cmhqa3.k8s.indeed.tech
 translation.qa.k8s.indeed.tech
+trino-dev.aws.indeed.tech
 trino-gateway-stage.aws.indeed.tech
 trino-interactive.aws.indeed.tech
 trino-performancetests.aws.indeed.tech
@@ -10711,6 +10716,7 @@ vortex-mdp-online-syncer-saml.awscmh6.k8s.indeed.tech
 vortex-mdp-online-syncer-saml.awscmhqa5.k8s.indeed.tech
 vortex-rbozzolo-saml.awscmhqa5.k8s.indeed.tech
 vortex-tns-bots.awscmhqa5.k8s.indeed.tech
+vortex-vkryvyziuk.awscmhqa5.k8s.indeed.tech
 vortex-xiang.awscmhqa5.k8s.indeed.tech
 vrec-activity-management-service.aus.k8s.indeed.tech
 vrec-activity-management-service.cmhprod1.k8s.indeed.tech

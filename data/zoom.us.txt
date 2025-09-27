@@ -77106,6 +77106,8 @@ aw1-common-kix1.zoom.us
 aw1-common-kix1-i.zoom.us
 aw1-common-kix1-internal.zoom.us
 aw1-common-kix1-internal-i.zoom.us
+aw1-common-ksa1-i.zoom.us
+aw1-common-ksa1-internal-i.zoom.us
 aw1-common-mel1.zoom.us
 aw1-common-mel1-i.zoom.us
 aw1-common-mel1-internal.zoom.us
@@ -77362,6 +77364,7 @@ br01file-paa.zoom.us
 br01file-quic.zoom.us
 br01file-vod.zoom.us
 br01xaig.zoom.us
+br01xaig-nlb.zoom.us
 bradmark.zoom.us
 brand.zoom.us
 brandeis.zoom.us
@@ -77431,6 +77434,7 @@ ca.zoom.us
 ca-01.cold.zoom.us
 ca.pkibrokers.zoom.us
 ca.telemetry.zoom.us
+ca01-ai-search.cloud.zoom.us
 ca01-au-meetaug-store.zoom.us
 ca01-billingnws.zoom.us
 ca01-company-setup.zoom.us
@@ -79053,6 +79057,8 @@ dg01-web-va1.zoom.us
 dg01-web-va1-internal.zoom.us
 dg01-ze-zcp.zoom.us
 dg01-ze-zcp-va1.zoom.us
+dg01ai.zoom.us
+dg01aic.zoom.us
 dg01api.zoom.us
 dg01apizva.zoom.us
 dg01apizva-a.zoom.us
@@ -79175,6 +79181,7 @@ dg01pbx2n.zoom.us
 dg01pbxacp.zoom.us
 dg01pbxalp.zoom.us
 dg01pbxavp.zoom.us
+dg01pbxcake.zoom.us
 dg01pbxcdp.zoom.us
 dg01pbxcp.zoom.us
 dg01pbxgsp.zoom.us
@@ -80077,6 +80084,7 @@ eu01pbxproxy-fra.zoom.us
 eu01pbxproxy-hk.zoom.us
 eu01pbxproxy-hkg.zoom.us
 eu01pbxproxy-iad.zoom.us
+eu01pbxproxy-nrt.zoom.us
 eu01pbxproxy-nx.zoom.us
 eu01pbxproxy-sg.zoom.us
 eu01pbxproxy-sin.zoom.us
@@ -81487,6 +81495,7 @@ go-log-gateway-oh1.zoom.us
 go-log-gateway-va1.zoom.us
 go-mktemr.zoom.us
 go-nws-billing-op.zoom.us
+go-oh1-chs.zoom.us
 go-oh1-crs-i.zoom.us
 go-oh1-prometheus.zoom.us
 go-onprem01-cc01.zoom.us
@@ -81556,6 +81565,7 @@ go2zccsbca.ny.zoom.us
 go2zccsbcb.ny.zoom.us
 goa.restream.zoom.us
 goacademy.zoom.us
+goai.zoom.us
 goai-enginewfm.zoom.us
 goai-enginewfm-va.zoom.us
 goai-enginewfm-va2.zoom.us
@@ -82729,6 +82739,7 @@ gozccdm110.zoom.us
 gozccdm160.zoom.us
 gozccdm190.zoom.us
 gozccintzppeersbc01.dxb.zoom.us
+gozccintzppeersbc01.iad.zoom.us
 gozccintzppeersbc01.pdx.zoom.us
 gozccintzppeersbc01.sjc.zoom.us
 gozccms01-blue.dxb.zoom.us
@@ -82779,6 +82790,7 @@ gozccproxy02.pdx.zoom.us
 gozccproxy02.sc.zoom.us
 gozccproxy02.sjc.zoom.us
 gozccropensips01.dxb.zoom.us
+gozccropensips01.iad.zoom.us
 gozccropensips01.pdx.zoom.us
 gozccropensips01.sjc.zoom.us
 gozccsbc.sc.zoom.us
@@ -85361,6 +85373,7 @@ livongo.zoom.us
 llm-gateway-dg01-aws-us-east-2.cloud.zoom.us
 llm-gateway-go-colo-iad-1.cloud.zoom.us
 llm-gateway-go-colo-sjc-1.cloud.zoom.us
+llm-gateway-prod-aws-ap-northeast-1.ai.cloud.zoom.us
 llm-gateway-prod-aws-ap-south-1.ai.cloud.zoom.us
 llm-gateway-prod-aws-ap-southeast-1.ai.cloud.zoom.us
 llm-gateway-prod-aws-ap-southeast-2.ai.cloud.zoom.us
@@ -85603,6 +85616,7 @@ mailweb-ac731.asynccommsg.zoom.us
 mailweb-ac733.asynccommsg.zoom.us
 mailweb-ac741.asynccommeu02.zoom.us
 mailweb-ac742.asynccommeu02.zoom.us
+mailweb-ac901.asynccommsa.zoom.us
 mailweb-ac902.asynccommsa.zoom.us
 mailweb-achub074.asynccommgo.zoom.us
 mailweb-achub171.asynccomm.zoom.us
@@ -85726,6 +85740,7 @@ meetingquery-ap-northeast-1.cloud.zoom.us
 meetingquery-ap-south-1.cloud.zoom.us
 meetingquery-ap-southeast-1.cloud.zoom.us
 meetingquery-ap-southeast-2.cloud.zoom.us
+meetingquery-ca-central-1.cloud.zoom.us
 meetingquery-dg01-aws-us-east-2.ai.cloud.zoom.us
 meetingquery-dg01-aws-us-east-2.cloud.zoom.us
 meetingquery-go-aws-us-east-2.ai.cloud.zoom.us
@@ -85736,6 +85751,7 @@ meetingquery-prod-aws-ap-northeast-1.ai.cloud.zoom.us
 meetingquery-prod-aws-ap-south-1.ai.cloud.zoom.us
 meetingquery-prod-aws-ap-southeast-1.ai.cloud.zoom.us
 meetingquery-prod-aws-ap-southeast-2.ai.cloud.zoom.us
+meetingquery-prod-aws-ca-central-1.ai.cloud.zoom.us
 meetingquery-prod-aws-sa-east-1.ai.cloud.zoom.us
 meetingquery-prod-aws-us-east-1.ai.cloud.zoom.us
 meetingquery-prod-aws-us-east-2.ai.cloud.zoom.us
@@ -85889,6 +85905,7 @@ milterout-ac731.asynccommsg.zoom.us
 milterout-ac733.asynccommsg.zoom.us
 milterout-ac741.asynccommeu02.zoom.us
 milterout-ac742.asynccommeu02.zoom.us
+milterout-ac901.asynccommsa.zoom.us
 milterout-ac902.asynccommsa.zoom.us
 milterout-achub074.asynccommgo.zoom.us
 milterout-achub171.asynccomm.zoom.us
@@ -86249,6 +86266,7 @@ mtaout-ac503.asynccommau.zoom.us
 mtaout-ac701.asynccommeu.zoom.us
 mtaout-ac702.asynccommeu.zoom.us
 mtaout-ac703.asynccommeu.zoom.us
+mtaout-ac901.asynccommsa.zoom.us
 mtaout-ac902.asynccommsa.zoom.us
 mtaout-ac981.asynccomm08oci.zoom.us
 mtaout-achub074.asynccommgo.zoom.us
@@ -89525,9 +89543,24 @@ uk01-zcxp-apisix-va.zoom.us
 uk01-zcxp-apisix-va-i.zoom.us
 uk01-zcxp-apisix-va2.zoom.us
 uk01-zcxp-apisix-va2-i.zoom.us
+uk01bmt.zoom.us
 uk01command.zoom.us
+uk01contactservice.zoom.us
+uk01contactservice-a.zoom.us
+uk01contactservice-c.zoom.us
+uk01contactservice-va.zoom.us
+uk01contactservice-va-internal.zoom.us
+uk01contactservice-va2.zoom.us
+uk01integrations.zoom.us
 uk01pbx.zoom.us
+uk01pbx-va-ucs-nginx1.zoom.us
+uk01pbx-va-ucs-nginx2.zoom.us
+uk01pbx-va-ucs-nginx3.zoom.us
 uk01va2command.zoom.us
+uk01zpalertmanager.zoom.us
+uk01zpprom.zoom.us
+uk01zsns.zoom.us
+uk01zsns-rs.zoom.us
 ukg.zoom.us
 ukri.zoom.us
 uky.zoom.us
@@ -111440,5 +111473,3 @@ zwebmail.asynccommeu.zoom.us
 zwebmail.asynccommgo.zoom.us
 zworkspace.asynccomm.zoom.us
 zworkspace.asynccommau.zoom.us
-zworkspace.asynccommeu.zoom.us
-zworkspace.asynccommgo.zoom.us

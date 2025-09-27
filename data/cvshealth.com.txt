@@ -6920,6 +6920,7 @@ login.mypbm.cvshealth.com
 login.system.pcf.cic.cvshealth.com
 logs.dev.cvshealth.com
 logs.internal.dev.centralus.azure.o11y.cvshealth.com
+logs.internal.prod.centralus.azure.o11y.cvshealth.com
 logs.lab.cvshealth.com
 logs.nonprod.cvshealth.com
 logs.prod.cvshealth.com
@@ -6930,8 +6931,10 @@ lyncdiscoverinternal.cvshealth.com
 mah-brazesdk-ahm.prod.cvshealth.com
 mah-brazesdk.nonprod.cvshealth.com
 mah-google-playstore-dev.cvshealth.com
+mah-sso-auth-sign.qa.cvshealth.com
 mah-sso-enc.cvshealth.com
 mah-sso-enc.qa.cvshealth.com
+mah-sso-sign.qa.cvshealth.com
 mail.cvshealth.com
 mail.mig.cdn.cvshealth.com
 maintenance-pt.cvshealth.com
@@ -8230,6 +8233,7 @@ qa1.api-hcd-aco-use2.int.cvshealth.com
 qa1.api-hcd-minuteclinic-use2.cvshealth.com
 qa1.api-hcd-minuteclinic-use2.int.cvshealth.com
 qa1.api-onecm-use2.cvshealth.com
+qa1.api-pcw-esl-use2.int.cvshealth.com
 qa1.api-pcw-use2.cvshealth.com
 qa1.api-pss-accums-usc.cvshealth.com
 qa1.api-pss-accums-usc.int.cvshealth.com
@@ -8309,6 +8313,7 @@ qa2.api-hcb-clinical-use2.int.cvshealth.com
 qa2.api-hcb-clinical.int.cvshealth.com
 qa2.api-hcb-insurance-use2.cvshealth.com
 qa2.api-hcb-insurance-use2.int.cvshealth.com
+qa2.api-pcw-esl-use2.int.cvshealth.com
 qa2.api-pss-pharmacy-usc.cvshealth.com
 qa2.api-pss-pharmacy-usc.int.cvshealth.com
 qa2.api-pss-pricing-usc.cvshealth.com
@@ -8359,6 +8364,7 @@ qa3.api-hcb-clinical-use2.int.cvshealth.com
 qa3.api-hcb-clinical.int.cvshealth.com
 qa3.api-hcb-insurance-use2.cvshealth.com
 qa3.api-hcb-insurance-use2.int.cvshealth.com
+qa3.api-pcw-esl-use2.int.cvshealth.com
 qa3.api-pss-pharmacy-usc.cvshealth.com
 qa3.api-pss-pharmacy-usc.int.cvshealth.com
 qa3.api-pss-pricing-usc.cvshealth.com
@@ -11093,6 +11099,3 @@ xpmstrcmk.cvshealth.com
 xpmstrcmk-east.cvshealth.com
 xpmstrcmk-west.cvshealth.com
 yava-controller-prod.apps.prodocp-pssint.azuse2.cvshealth.com
-yava-controller-qa.apps.qaocp-pssint.azusc.cvshealth.com
-zelda.dev-cert.cvshealth.com
-zsheommed-01.cvshealth.com

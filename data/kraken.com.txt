@@ -24,6 +24,7 @@ alpha-api.kraken.com
 alpha-iapi.kraken.com
 alpha-nft.kraken.com
 alpha-trade.kraken.com
+alpha.prod.kraken.com
 analytics.kraken.com
 analytics-dev.kraken.com
 analytics.dev1.kraken.com
@@ -42,6 +43,7 @@ api-serenity.vip.uat.lobster.kraken.com
 api-temp1.kraken.com
 api.futures.kraken.com
 api.internal.uat.lobster.kraken.com
+api.prod.kraken.com
 api.uat.lobster.kraken.com
 api.vip.uat.lobster.kraken.com
 assets.kraken.com
@@ -61,6 +63,7 @@ beta-assets-dynamic.kraken.com
 beta-custody.kraken.com
 beta-dc-ws-frontend.kraken.com
 beta-iapi.kraken.com
+beta-id.prod.kraken.com
 beta-nft.kraken.com
 beta-pro.kraken.com
 beta-pro-iapi.kraken.com
@@ -99,6 +102,7 @@ custody.kraken.com
 custody-iapi.internal.uat.lobster.kraken.com
 custody-iapi.vip.uat.lobster.kraken.com
 custody.internal.uat.lobster.kraken.com
+custody.prod.kraken.com
 custody.uat.kraken.com
 custody.vip.uat.lobster.kraken.com
 d2c417cdev0fda97.lobster.kraken.com
@@ -164,12 +168,16 @@ gxtiyp1d.rewards-email.kraken.com
 iapi.kraken.com
 iapi-forge.vip.uat.lobster.kraken.com
 iapi-serenity.vip.uat.lobster.kraken.com
+iapi.dc3a.prod.kraken.com
 iapi.dc3a.uat.kraken.com
 iapi.internal.uat.lobster.kraken.com
+iapi.prod.kraken.com
 iapi.uat.kraken.com
 iapi.vip.uat.lobster.kraken.com
 id.kraken.com
 id.internal.uat.lobster.kraken.com
+id.pp-consumer-2.prod.kraken.com
+id.pp-consumer-3.prod.kraken.com
 id.vip.uat.lobster.kraken.com
 image.marketing.kraken.com
 images.kraken.com
@@ -217,7 +225,9 @@ mta.marketing.kraken.com
 mtgox-claims.kraken.com
 nexus.kraken.com
 nexus-api.lobster.kraken.com
+nexus.dc3a.prod.kraken.com
 nexus.lobster.kraken.com
+nexus.prod.kraken.com
 nft.kraken.com
 nft-metadata.kraken.com
 nft.internal.uat.lobster.kraken.com
@@ -450,6 +460,7 @@ pro-iapi.lobster.kraken.com
 pro-iapi.vip.uat.lobster.kraken.com
 pro.internal.uat.lobster.kraken.com
 pro.lobster.kraken.com
+pro.prod.kraken.com
 pro.vip.uat.lobster.kraken.com
 proapp.kraken.com
 prod1.kraken.com
@@ -481,11 +492,13 @@ staging-ws-frontend.kraken.com
 staging-ws-frontend.lobster.kraken.com
 staging.lobster.kraken.com
 staging.onchain.kraken.com
+staging.prod.kraken.com
 static-assets.dev.kraken.com
 status.kraken.com
 stg1.kraken.com
 support.kraken.com
 support.internal.uat.lobster.kraken.com
+support.prod.kraken.com
 support.vip.uat.lobster.kraken.com
 surveys.kraken.com
 tr-v10.kraken.com
@@ -516,7 +529,9 @@ vip-ws.vip.uat.lobster.kraken.com
 vip.uat.lobster.kraken.com
 wallet.kraken.com
 wallet.lobster.kraken.com
+warp-api.dc3a.prod.kraken.com
 warp-api.internal.uat.lobster.kraken.com
+warp-api.prod.kraken.com
 warp-api.uat.kraken.com
 warp-api.vip.uat.lobster.kraken.com
 warp.uat.kraken.com
@@ -531,6 +546,7 @@ ws-auth.kraken.com
 ws-auth-624cc112b75fefed-us-west-2-las.kraken.com
 ws-auth-624cc112b75fefed-us-west-2-lax.kraken.com
 ws-auth-aws.vip.uat.lobster.kraken.com
+ws-auth.dc3a.prod.kraken.com
 ws-auth.internal.uat.lobster.kraken.com
 ws-auth.lobster.kraken.com
 ws-auth.pro.demo.kraken.com
@@ -539,9 +555,12 @@ ws-beta.kraken.com
 ws-beta-pro.lobster.kraken.com
 ws-equities.kraken.com
 ws-equities-auth.kraken.com
+ws-equities-auth.dc3a.prod.kraken.com
 ws-equities-auth.internal.uat.lobster.kraken.com
+ws-equities-auth.prod.kraken.com
 ws-equities-auth.vip.uat.lobster.kraken.com
 ws-equities.internal.uat.lobster.kraken.com
+ws-equities.prod.kraken.com
 ws-equities.uat.kraken.com
 ws-equities.vip.uat.lobster.kraken.com
 ws-frontend.kraken.com
@@ -549,9 +568,11 @@ ws-frontend-beta-pro.lobster.kraken.com
 ws-frontend.internal.uat.lobster.kraken.com
 ws-frontend.lobster.kraken.com
 ws-frontend.pro.demo.kraken.com
+ws-frontend.prod.kraken.com
 ws-frontend.vip.uat.lobster.kraken.com
 ws-portfolio.kraken.com
 ws-portfolio.internal.uat.lobster.kraken.com
+ws-portfolio.prod.kraken.com
 ws-portfolio.vip.uat.lobster.kraken.com
 ws-prime-md.kraken.com
 ws-prime-md-1.kraken.com
@@ -565,6 +586,7 @@ ws.internal.uat.lobster.kraken.com
 ws.lobster.kraken.com
 ws.nodes.kraken.com
 ws.pro.demo.kraken.com
+ws.prod.kraken.com
 ws.uat.kraken.com
 ws.vip.uat.lobster.kraken.com
 wsg-frontend.uat.lobster.kraken.com
@@ -588,6 +610,9 @@ www.internal.uat.lobster.kraken.com
 www.krakentoau10tix.kraken.com
 www.krakentoau10tix-prod.kraken.com
 www.orders.kraken.com
+www.pp-consumer-2.prod.kraken.com
+www.pp-consumer-3.prod.kraken.com
+www.prod.kraken.com
 www.tr-v15.kraken.com
 www.tr15-preprod.kraken.com
 www.travel.kraken.com
@@ -624,3 +649,7 @@ zelda-ws.kraken.com
 zelda-ws-auth.kraken.com
 zelda-ws-auth.lobster.kraken.com
 zelda-ws-frontend.kraken.com
+zelda-ws-frontend.lobster.kraken.com
+zelda-ws.lobster.kraken.com
+zelda-www.kraken.com
+zelda-www.lobster.kraken.com

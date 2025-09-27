@@ -98,6 +98,8 @@ leo-metadata-api-grpc-prod-aws-us-west-2.k8s.dm.gg
 leo-pacing-api-grpc-prod-aws-ap-south-1.k8s.dm.gg
 leo-pacing-api-grpc-prod-aws-us-east-2.k8s.dm.gg
 leo-pacing-api-grpc-prod-aws-us-west-2.k8s.dm.gg
+lifecycle-manager-prod.k8s.dm.gg
+lifecycle-manager-staging.k8s.dm.gg
 logscale-01.dm.gg
 mal.dm.gg
 mebed.dm.gg
@@ -173,3 +175,7 @@ webed-01.dm.gg
 webed-02.dm.gg
 webed-03.dm.gg
 webed-04.dm.gg
+webed-05.dm.gg
+webed-06.dm.gg
+webed.dev.dm.gg
+webed.stg.dm.gg

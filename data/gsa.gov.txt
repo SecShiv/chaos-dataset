@@ -34,6 +34,7 @@
 *.dev.core.mcaas.fcs.gsa.gov
 *.dev.d2d.mcaas.fcs.gsa.gov
 *.dev.data.mcaas.fcs.gsa.gov
+*.dev.doc.mcaas.fcs.gsa.gov
 *.dev.dpa.mcaas.fcs.gsa.gov
 *.dev.dxcore.dx.mcaas.fcs.gsa.gov
 *.dev.erpa.mcaas.fcs.gsa.gov
@@ -83,6 +84,7 @@
 *.prod.core.mcaas.fcs.gsa.gov
 *.prod.d2d.mcaas.fcs.gsa.gov
 *.prod.data.mcaas.fcs.gsa.gov
+*.prod.doc.mcaas.fcs.gsa.gov
 *.prod.doi.mcaas.fcs.gsa.gov
 *.prod.dpa.mcaas.fcs.gsa.gov
 *.prod.dxcore.dx.mcaas.fcs.gsa.gov
@@ -115,6 +117,7 @@
 *.staging.core.mcaas.fcs.gsa.gov
 *.staging.d2d.mcaas.fcs.gsa.gov
 *.staging.data.mcaas.fcs.gsa.gov
+*.staging.doc.mcaas.fcs.gsa.gov
 *.staging.dpa.mcaas.fcs.gsa.gov
 *.staging.dxcore.dx.mcaas.fcs.gsa.gov
 *.staging.folio.mcaas.fcs.gsa.gov
@@ -139,6 +142,7 @@
 *.test.core.mcaas.fcs.gsa.gov
 *.test.d2d.mcaas.fcs.gsa.gov
 *.test.data.mcaas.fcs.gsa.gov
+*.test.doc.mcaas.fcs.gsa.gov
 *.test.dpa.mcaas.fcs.gsa.gov
 *.test.dxcore.dx.mcaas.fcs.gsa.gov
 *.test.folio.mcaas.fcs.gsa.gov
@@ -68503,6 +68507,10 @@ tamsapi.gsa.gov
 tamsapi.dev-acqit.helix.gsa.gov
 tamsapi.preprod.gsa.gov
 tamsapi.preprod-acqit.helix.gsa.gov
+tamsbi.gsa.gov
+tamsbi-dev.gsa.gov
+tamsbi-preprod.gsa.gov
+tamsbi-test.gsa.gov
 tappcon1.pbs.gsa.gov
 tappcon2.pbs.gsa.gov
 tappcon3.pbs.gsa.gov
@@ -68647,6 +68655,7 @@ training.smartpay.gsa.gov
 trn-hrlinks.gsa.gov
 ts.fss.gsa.gov
 tsc.gsa.gov
+tscportal-stage.gsa.gov
 tscportal-staging.gsa.gov
 tscportal.fas.gsa.gov
 tsd.r3.gsa.gov
@@ -69352,6 +69361,7 @@ www.tmssbi-test.gsa.gov
 www.track.fas.gsa.gov
 www.training.smartpay.gsa.gov
 www.trn-hrlinks.gsa.gov
+www.tscportal-stage.gsa.gov
 www.tscportal-staging.gsa.gov
 www.tscportal.fas.gsa.gov
 www.tsthrlinkscd.gsa.gov
@@ -69403,6 +69413,3 @@ xpwi.gss.gsa.gov
 zipkin-collector.dev-ppm.fcs.gsa.gov
 zipkin-collector.mgmt-ppm.fcs.gsa.gov
 zipkin-collector.test-ppm.fcs.gsa.gov
-zipkin-ui.dev-ppm.fcs.gsa.gov
-zipkin-ui.mgmt-ppm.fcs.gsa.gov
-zipkin-ui.test-ppm.fcs.gsa.gov
