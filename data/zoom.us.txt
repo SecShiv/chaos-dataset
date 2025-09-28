@@ -77565,6 +77565,7 @@ ca01imapi-ct.zoom.us
 ca01integration-edu.zoom.us
 ca01integration-edu-oh1.zoom.us
 ca01integration-slackmigration.zoom.us
+ca01integration-slackmigration-va1.zoom.us
 ca01integrations.zoom.us
 ca01integrations.corp.zoom.us
 ca01intfile.zoom.us
@@ -77615,13 +77616,20 @@ ca01oppbx.zoom.us
 ca01opva2.zoom.us
 ca01pbx.zoom.us
 ca01pbx-a.zoom.us
+ca01pbx-al.zoom.us
 ca01pbx-c.zoom.us
+ca01pbx-cf.zoom.us
+ca01pbx-va.zoom.us
+ca01pbx-va-sub1.zoom.us
 ca01pbx-va1-ucs-nginx1.zoom.us
 ca01pbx-va1-ucs-nginx2.zoom.us
+ca01pbx-va2.zoom.us
+ca01pbx-va2-sub1.zoom.us
 ca01pbx2n.zoom.us
 ca01pbxacp.zoom.us
 ca01pbxalp.zoom.us
 ca01pbxavp.zoom.us
+ca01pbxcake.zoom.us
 ca01pbxcdp.zoom.us
 ca01pbxcp.zoom.us
 ca01pbxgsp.zoom.us
@@ -77642,7 +77650,18 @@ ca01pbxpp.zoom.us
 ca01pbxppobi.zoom.us
 ca01pbxpreyp.zoom.us
 ca01pbxproxy.zoom.us
+ca01pbxproxy-am.zoom.us
+ca01pbxproxy-ams.zoom.us
+ca01pbxproxy-fr.zoom.us
+ca01pbxproxy-fra.zoom.us
+ca01pbxproxy-hk.zoom.us
+ca01pbxproxy-hkg.zoom.us
+ca01pbxproxy-iad.zoom.us
+ca01pbxproxy-nrt.zoom.us
 ca01pbxproxy-nx.zoom.us
+ca01pbxproxy-sg.zoom.us
+ca01pbxproxy-sin.zoom.us
+ca01pbxproxy-sjc.zoom.us
 ca01pbxproxy-sx.zoom.us
 ca01pbxrtts01.tr.zoom.us
 ca01pbxrtts01.vn.zoom.us
@@ -79045,6 +79064,7 @@ dg01-nws-billing-op.zoom.us
 dg01-nws-mongodb-va-01.zoom.us
 dg01-nws-mongodb-va-02.zoom.us
 dg01-nws-mongodb-va-03.zoom.us
+dg01-report.zoom.us
 dg01-s2-xmpprpc.zoom.us
 dg01-web.zoom.us
 dg01-web-1.zoom.us
@@ -79078,6 +79098,7 @@ dg01calendarapi.zoom.us
 dg01command.zoom.us
 dg01commonconsumer.zoom.us
 dg01commonconsumer-oh1.zoom.us
+dg01commonconsumer-va.zoom.us
 dg01connectors.zoom.us
 dg01contactservice.zoom.us
 dg01contactservice-va.zoom.us
@@ -79978,6 +79999,7 @@ eu01imapi.zoom.us
 eu01integration-edu.zoom.us
 eu01integration-edu-oh1.zoom.us
 eu01integration-slackmigration.zoom.us
+eu01integration-slackmigration-va1.zoom.us
 eu01integrations.zoom.us
 eu01integrations.corp.zoom.us
 eu01integrationzva.zoom.us
@@ -81064,6 +81086,7 @@ fedaiscoring-colo-iad-1.cloud.zoom.us
 fedaiscoring-colo-sjc-1.cloud.zoom.us
 fedaiscoring-dg01-aws-us-east-2.cloud.zoom.us
 fedaiscoring-go-aws-us-east-1.cloud.zoom.us
+fedaiscoring-go-aws-us-east-2.ai.cloud.zoom.us
 fedaiscoring-go-colo-iad-1.cloud.zoom.us
 fedaiscoring-go-colo-sjc-1.cloud.zoom.us
 fedaiscoring-go.cloud.zoom.us
@@ -84285,6 +84308,7 @@ hqasr-worker-english-7-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-8-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-8-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-9-prod-colo-iad2.cloud.zoom.us
+hqasr-worker-english-streaming-0-prod-colo-nrt1.cloud.zoom.us
 hqasr-worker-english-streaming-0-prod-colo-sin1.cloud.zoom.us
 hqasr-worker-english-streaming-3-prod-colo-fra1.cloud.zoom.us
 hqasr-worker-english-streaming-7-prod-colo-sjc2.cloud.zoom.us
@@ -84739,6 +84763,7 @@ institutfrancais.zoom.us
 integration-edu.zoom.us
 integration-edu-va1.zoom.us
 integration-slackmigration.zoom.us
+integration-slackmigration-va1.zoom.us
 integration-zoomrooms.zoom.us
 integrationau01va2ngx1.zoom.us
 integrationau01va2ngx2.zoom.us
@@ -85743,6 +85768,7 @@ meetingquery-ap-southeast-2.cloud.zoom.us
 meetingquery-ca-central-1.cloud.zoom.us
 meetingquery-dg01-aws-us-east-2.ai.cloud.zoom.us
 meetingquery-dg01-aws-us-east-2.cloud.zoom.us
+meetingquery-eu-central-1.cloud.zoom.us
 meetingquery-go-aws-us-east-2.ai.cloud.zoom.us
 meetingquery-go-aws-us-east-2.cloud.zoom.us
 meetingquery-go-colo-iad-1.cloud.zoom.us
@@ -85752,6 +85778,7 @@ meetingquery-prod-aws-ap-south-1.ai.cloud.zoom.us
 meetingquery-prod-aws-ap-southeast-1.ai.cloud.zoom.us
 meetingquery-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 meetingquery-prod-aws-ca-central-1.ai.cloud.zoom.us
+meetingquery-prod-aws-eu-central-1.ai.cloud.zoom.us
 meetingquery-prod-aws-sa-east-1.ai.cloud.zoom.us
 meetingquery-prod-aws-us-east-1.ai.cloud.zoom.us
 meetingquery-prod-aws-us-east-2.ai.cloud.zoom.us
@@ -87155,6 +87182,7 @@ prov2n.zoom.us
 provacp.zoom.us
 provalp.zoom.us
 provavp.zoom.us
+provcake.zoom.us
 provcdp.zoom.us
 provcp.zoom.us
 provfp.zoom.us
@@ -87165,11 +87193,16 @@ provppobi.zoom.us
 provpreyp.zoom.us
 provproxy.zoom.us
 provproxy-am.zoom.us
+provproxy-ams.zoom.us
 provproxy-fr.zoom.us
+provproxy-fra.zoom.us
 provproxy-hk.zoom.us
+provproxy-hkg.zoom.us
 provproxy-iad.zoom.us
+provproxy-nrt.zoom.us
 provproxy-nx.zoom.us
 provproxy-sg.zoom.us
+provproxy-sin.zoom.us
 provproxy-sjc.zoom.us
 provproxy-sx.zoom.us
 provproxy.am.zoom.us
@@ -88338,6 +88371,7 @@ sg01-infra-va1.zoom.us
 sg01-infra-va1-internal.zoom.us
 sg01-infra-va2.zoom.us
 sg01-infra-va2-internal.zoom.us
+sg01-linkpreview-va1.zoom.us
 sg01-report.zoom.us
 sg01-s2-xmpprpc.zoom.us
 sg01-web.zoom.us
@@ -88383,6 +88417,10 @@ sg01integrations.zoom.us
 sg01logfiles.zoom.us
 sg01logsystem.zoom.us
 sg01mdmdevice.zoom.us
+sg01mesh.zoom.us
+sg01mesh-oh1.zoom.us
+sg01mesh-va1.zoom.us
+sg01mesh-va2.zoom.us
 sg01migration.zoom.us
 sg01migration-internal.zoom.us
 sg01mqttws.zoom.us
@@ -88615,6 +88653,7 @@ smartchatsummary-us-east-1.cloud.zoom.us
 smartchatsummary-us-east-2.cloud.zoom.us
 smartchatsummary-zmo-prod-oci-aws-me-jeddah-1.ai.cloud.zoom.us
 smartprompt-ap-south-1.cloud.zoom.us
+smartprompt-ap-southeast-2.cloud.zoom.us
 smartprompt-dg01-aws-us-east-1.cloud.zoom.us
 smartprompt-dg01-aws-us-east-2.cloud.zoom.us
 smartprompt-go-aws-us-east-1.cloud.zoom.us
@@ -88623,6 +88662,7 @@ smartprompt-go-colo-iad-1.cloud.zoom.us
 smartprompt-go-colo-sjc-1.cloud.zoom.us
 smartprompt-go.cloud.zoom.us
 smartprompt-prod-aws-ap-south-1.ai.cloud.zoom.us
+smartprompt-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 smartprompt-prod-aws-sa-east-1.ai.cloud.zoom.us
 smartprompt-prod-aws-us-east-1.ai.cloud.zoom.us
 smartprompt-prod-aws-us-east-2.ai.cloud.zoom.us
@@ -88694,11 +88734,13 @@ smartprompt-zmo-prod-oci-aws-me-jeddah-1.ai.cloud.zoom.us
 smartprompt-zmo-prod-oci-me-riyadh-1.ai.cloud.zoom.us
 smartscheduling-ap-south-1.cloud.zoom.us
 smartscheduling-ap-southeast-1.cloud.zoom.us
+smartscheduling-ap-southeast-2.cloud.zoom.us
 smartscheduling-ca-central-1.cloud.zoom.us
 smartscheduling-go-aws-us-east-2.ai.cloud.zoom.us
 smartscheduling-go.cloud.zoom.us
 smartscheduling-prod-aws-ap-south-1.ai.cloud.zoom.us
 smartscheduling-prod-aws-ap-southeast-1.ai.cloud.zoom.us
+smartscheduling-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 smartscheduling-prod-aws-ca-central-1.ai.cloud.zoom.us
 smartscheduling-prod-aws-us-east-1.ai.cloud.zoom.us
 smartscheduling-prod-aws-us-east-2.ai.cloud.zoom.us
@@ -89545,6 +89587,8 @@ uk01-zcxp-apisix-va2.zoom.us
 uk01-zcxp-apisix-va2-i.zoom.us
 uk01bmt.zoom.us
 uk01command.zoom.us
+uk01commonconsumer.zoom.us
+uk01commonconsumer-va1.zoom.us
 uk01contactservice.zoom.us
 uk01contactservice-a.zoom.us
 uk01contactservice-c.zoom.us
@@ -89556,7 +89600,10 @@ uk01pbx.zoom.us
 uk01pbx-va-ucs-nginx1.zoom.us
 uk01pbx-va-ucs-nginx2.zoom.us
 uk01pbx-va-ucs-nginx3.zoom.us
+uk01pbx-va2.zoom.us
+uk01va1nws-auth.zoom.us
 uk01va2command.zoom.us
+uk01va2nws-auth.zoom.us
 uk01zpalertmanager.zoom.us
 uk01zpprom.zoom.us
 uk01zsns.zoom.us
@@ -89949,6 +89996,7 @@ us01ccistatic-a.zoom.us
 us01ccistatic-c.zoom.us
 us01ccistatic-cf.zoom.us
 us01ccistreamproxy.zoom.us
+us01ccistreamproxy-c.zoom.us
 us01ccistreamproxy-va.zoom.us
 us01ccistreamproxy-va2.zoom.us
 us01ccivoice-eu.zoom.us
@@ -90547,7 +90595,9 @@ us01opzva6-va2.zoom.us
 us01osai3lb.zoom.us
 us01pbx.zoom.us
 us01pbx-a.zoom.us
+us01pbx-al.zoom.us
 us01pbx-c.zoom.us
+us01pbx-cf.zoom.us
 us01pbx-d.zoom.us
 us01pbx-fl-a.zoom.us
 us01pbx-fl-b.zoom.us
@@ -95084,6 +95134,7 @@ us04imapi.zoom.us
 us04integration-edu.zoom.us
 us04integration-edu-oh1.zoom.us
 us04integration-slackmigration.zoom.us
+us04integration-slackmigration-va1.zoom.us
 us04integrations.zoom.us
 us04integrations.corp.zoom.us
 us04intfile.zoom.us
@@ -111431,7 +111482,9 @@ zt-yue-zh-zht-en-0-go-aws-us-east-1.ai.cloud.zoom.us
 zt-yue-zh-zht-en-0-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-yue-zh-zht-en-0-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-zlm-0-go-aws-us-east-1.ai.cloud.zoom.us
+zt-zlm-0-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-zlm-go-aws-us-east-1.ai.cloud.zoom.us
+zt-zlm-prod-aws-us-east-1.ai.cloud.zoom.us
 ztt.keyserver-locator-us.zoom.us
 ztt.keyserver-locator-us-03.zoom.us
 ztt.keyserver-locator-us-04.zoom.us
@@ -111473,3 +111526,5 @@ zwebmail.asynccommeu.zoom.us
 zwebmail.asynccommgo.zoom.us
 zworkspace.asynccomm.zoom.us
 zworkspace.asynccommau.zoom.us
+zworkspace.asynccommeu.zoom.us
+zworkspace.asynccommgo.zoom.us

@@ -1141,10 +1141,12 @@ single-id-dark.k8s-stg-asne1.s.gcp.oanda.com
 single-id-dark.k8s-stg-usc1.s.gcp.oanda.com
 single-id-demo-dark.k8s-prod-usc1.dr.gcp.oanda.com
 single-id-demo-dark.k8s-prod-usc1.p.gcp.oanda.com
+single-id-demo-dark.k8s-prod-use4.p.gcp.oanda.com
 single-id-demo-dark.k8s-stg-asne1.s.gcp.oanda.com
 single-id-demo-dark.k8s-stg-usc1.s.gcp.oanda.com
 single-id-demo.k8s-prod-usc1.dr.gcp.oanda.com
 single-id-demo.k8s-prod-usc1.p.gcp.oanda.com
+single-id-demo.k8s-prod-use4.p.gcp.oanda.com
 single-id-demo.k8s-stg-asne1.s.gcp.oanda.com
 single-id.k8s-prod-usc1.dr.gcp.oanda.com
 single-id.k8s-prod-usc1.p.gcp.oanda.com
@@ -1532,6 +1534,7 @@ v20inspector-preview.k8s-uat-usc1.u.gcp.oanda.com
 v20inspector.k8s-prod-use4.p.gcp.oanda.com
 v20inspector.k8s-stg-usc1.s.gcp.oanda.com
 v20inspector.k8s-uat-usc1.u.gcp.oanda.com
+vadym-website.k8s-stg-usc1.s.gcp.oanda.com
 vault-cluster-1.usc1.i.gcp.oanda.com
 vault-ui.vault-cluster-1-nonprod.i.gcp.oanda.com
 vault-ui.vault-cluster-1-prod.i.gcp.oanda.com
@@ -1576,6 +1579,7 @@ web-sfa-flask00-live.oanda-uat-web-cluster-1.gcp.oanda.com
 webmt5-aulive-1.oanda.com
 webmt5-demo-1.oanda.com
 webmt5-globaldemo-1.oanda.com
+webmt5-globallive-1.oanda.com
 webmt5-live-1.oanda.com
 webmt5-sgdemo-1.oanda.com
 webmt5-sglive-1.oanda.com

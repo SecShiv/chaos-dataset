@@ -190,6 +190,7 @@
 *.build.b80-hilti.adobecqms.net
 *.build.bajajmall.adobecqms.net
 *.build.basf-na.adobecqms.net
+*.build.bgsu.adobecqms.net
 *.build.blue-shield-of-california.adobecqms.net
 *.build.bms.adobecqms.net
 *.build.bnp-paribas.adobecqms.net
@@ -255,11 +256,13 @@
 *.build.jpmc-cib.adobecqms.net
 *.build.jpmc-corptech.adobecqms.net
 *.build.jpmc-gs.adobecqms.net
+*.build.jpmcbankna.adobecqms.net
 *.build.jti.adobecqms.net
 *.build.kingspan.adobecqms.net
 *.build.kpc.adobecqms.net
 *.build.levis.adobecqms.net
 *.build.lhs.adobecqms.net
+*.build.lloyds.adobecqms.net
 *.build.malaysiaairlines.adobecqms.net
 *.build.maxlife.adobecqms.net
 *.build.mc-aem.adobecqms.net
@@ -394,6 +397,7 @@
 *.ciqa.intel.adobecqms.net
 *.ciqa.intel-assets.adobecqms.net
 *.citibank.adobecqms.net
+*.cliffordchance.adobecqms.net
 *.clp.adobecqms.net
 *.clubhkt.adobecqms.net
 *.cm.brands.stellantis-us.adobecqms.net
@@ -556,6 +560,7 @@
 *.dev.bde.adobecqms.net
 *.dev.bdees.adobecqms.net
 *.dev.bdo.adobecqms.net
+*.dev.bgsu.adobecqms.net
 *.dev.biogen-b75.adobecqms.net
 *.dev.blue-shield-of-california.adobecqms.net
 *.dev.bmc-dam.adobecqms.net
@@ -605,6 +610,7 @@
 *.dev.cimb.adobecqms.net
 *.dev.citibank.adobecqms.net
 *.dev.citisgsgipbmy.adobecqms.net
+*.dev.cliffordchance.adobecqms.net
 *.dev.clp.adobecqms.net
 *.dev.clp-hk-power.adobecqms.net
 *.dev.clp-power-hk.adobecqms.net
@@ -778,6 +784,7 @@
 *.dev.jpmc-dam.adobecqms.net
 *.dev.jpmc-docmgmt.adobecqms.net
 *.dev.jpmc-gs.adobecqms.net
+*.dev.jpmcbankna.adobecqms.net
 *.dev.jti.adobecqms.net
 *.dev.kddi.adobecqms.net
 *.dev.keybank.adobecqms.net
@@ -797,6 +804,7 @@
 *.dev.lhs.adobecqms.net
 *.dev.lifetimefitness.adobecqms.net
 *.dev.lilly.adobecqms.net
+*.dev.lloyds.adobecqms.net
 *.dev.loblaw.adobecqms.net
 *.dev.logitech.adobecqms.net
 *.dev.loterienationale.adobecqms.net
@@ -1674,6 +1682,7 @@
 *.perf.basf-na.adobecqms.net
 *.perf.bde.adobecqms.net
 *.perf.bdees.adobecqms.net
+*.perf.bgsu.adobecqms.net
 *.perf.blue-shield-of-california.adobecqms.net
 *.perf.bms.adobecqms.net
 *.perf.bnp-paribas.adobecqms.net
@@ -1738,12 +1747,14 @@
 *.perf.jpmc-cib.adobecqms.net
 *.perf.jpmc-corptech.adobecqms.net
 *.perf.jpmc-gs.adobecqms.net
+*.perf.jpmcbankna.adobecqms.net
 *.perf.jti.adobecqms.net
 *.perf.kingspan.adobecqms.net
 *.perf.kpa.adobecqms.net
 *.perf.kpc.adobecqms.net
 *.perf.levis.adobecqms.net
 *.perf.lhs.adobecqms.net
+*.perf.lloyds.adobecqms.net
 *.perf.malaysiaairlines.adobecqms.net
 *.perf.manulifeapac.adobecqms.net
 *.perf.maxlife.adobecqms.net
@@ -1958,6 +1969,7 @@
 *.preprod.bcbsm.adobecqms.net
 *.preprod.bde.adobecqms.net
 *.preprod.bdo.adobecqms.net
+*.preprod.bgsu.adobecqms.net
 *.preprod.blue-shield-of-california.adobecqms.net
 *.preprod.bms.adobecqms.net
 *.preprod.bnp-paribas.adobecqms.net
@@ -2039,12 +2051,14 @@
 *.preprod.jpmc-cib.adobecqms.net
 *.preprod.jpmc-corptech.adobecqms.net
 *.preprod.jpmc-gs.adobecqms.net
+*.preprod.jpmcbankna.adobecqms.net
 *.preprod.jti.adobecqms.net
 *.preprod.keysight.adobecqms.net
 *.preprod.kingspan.adobecqms.net
 *.preprod.kpc.adobecqms.net
 *.preprod.levis.adobecqms.net
 *.preprod.lhs.adobecqms.net
+*.preprod.lloyds.adobecqms.net
 *.preprod.loterienationale.adobecqms.net
 *.preprod.malaysiaairlines.adobecqms.net
 *.preprod.manulifeapac.adobecqms.net
@@ -2290,6 +2304,7 @@
 *.prod.bdees.adobecqms.net
 *.prod.bdo.adobecqms.net
 *.prod.belk.adobecqms.net
+*.prod.bgsu.adobecqms.net
 *.prod.biogen-b75.adobecqms.net
 *.prod.blackmamba.adobecqms.net
 *.prod.blue-shield-of-california.adobecqms.net
@@ -2344,6 +2359,7 @@
 *.prod.cimb.adobecqms.net
 *.prod.citibank.adobecqms.net
 *.prod.citisgsgipbmy.adobecqms.net
+*.prod.cliffordchance.adobecqms.net
 *.prod.clp.adobecqms.net
 *.prod.clp-hk-power.adobecqms.net
 *.prod.clp-power-hk.adobecqms.net
@@ -2524,6 +2540,7 @@
 *.prod.jpmc-dam.adobecqms.net
 *.prod.jpmc-docmgmt.adobecqms.net
 *.prod.jpmc-gs.adobecqms.net
+*.prod.jpmcbankna.adobecqms.net
 *.prod.jrvts.adobecqms.net
 *.prod.jti.adobecqms.net
 *.prod.kddi.adobecqms.net
@@ -2549,6 +2566,7 @@
 *.prod.lhs.adobecqms.net
 *.prod.lifetimefitness.adobecqms.net
 *.prod.lilly.adobecqms.net
+*.prod.lloyds.adobecqms.net
 *.prod.loblaw.adobecqms.net
 *.prod.logitech.adobecqms.net
 *.prod.loterienationale.adobecqms.net
@@ -3032,6 +3050,7 @@
 *.qa.bde.adobecqms.net
 *.qa.bdees.adobecqms.net
 *.qa.bdo.adobecqms.net
+*.qa.bgsu.adobecqms.net
 *.qa.biogen-b75.adobecqms.net
 *.qa.blue-shield-of-california.adobecqms.net
 *.qa.bmc-dam.adobecqms.net
@@ -3071,6 +3090,7 @@
 *.qa.chubb.adobecqms.net
 *.qa.citibank.adobecqms.net
 *.qa.citisgsgipbmy.adobecqms.net
+*.qa.cliffordchance.adobecqms.net
 *.qa.clp.adobecqms.net
 *.qa.clp-hk-power.adobecqms.net
 *.qa.clp-power-hk.adobecqms.net
@@ -3210,6 +3230,7 @@
 *.qa.jpmc-dam.adobecqms.net
 *.qa.jpmc-docmgmt.adobecqms.net
 *.qa.jpmc-gs.adobecqms.net
+*.qa.jpmcbankna.adobecqms.net
 *.qa.jti.adobecqms.net
 *.qa.kddi.adobecqms.net
 *.qa.keybank.adobecqms.net
@@ -3224,6 +3245,7 @@
 *.qa.lhs.adobecqms.net
 *.qa.lifetimefitness.adobecqms.net
 *.qa.lilly.adobecqms.net
+*.qa.lloyds.adobecqms.net
 *.qa.logitech.adobecqms.net
 *.qa.loterienationale.adobecqms.net
 *.qa.loyaltyone.adobecqms.net
@@ -3679,6 +3701,7 @@
 *.sit.bde.adobecqms.net
 *.sit.bdees.adobecqms.net
 *.sit.bdo.adobecqms.net
+*.sit.bgsu.adobecqms.net
 *.sit.blue-shield-of-california.adobecqms.net
 *.sit.bms.adobecqms.net
 *.sit.bnp-paribas.adobecqms.net
@@ -3749,11 +3772,13 @@
 *.sit.jpmc-cib.adobecqms.net
 *.sit.jpmc-corptech.adobecqms.net
 *.sit.jpmc-gs.adobecqms.net
+*.sit.jpmcbankna.adobecqms.net
 *.sit.jti.adobecqms.net
 *.sit.kingspan.adobecqms.net
 *.sit.kpc.adobecqms.net
 *.sit.levis.adobecqms.net
 *.sit.lhs.adobecqms.net
+*.sit.lloyds.adobecqms.net
 *.sit.malaysiaairlines.adobecqms.net
 *.sit.manulifeapac.adobecqms.net
 *.sit.maxlife.adobecqms.net
@@ -3996,6 +4021,7 @@
 *.stage.bdees.adobecqms.net
 *.stage.bdo.adobecqms.net
 *.stage.belk.adobecqms.net
+*.stage.bgsu.adobecqms.net
 *.stage.biogen-b75.adobecqms.net
 *.stage.blue-shield-of-california.adobecqms.net
 *.stage.bmc-dam.adobecqms.net
@@ -4049,6 +4075,7 @@
 *.stage.citibank.adobecqms.net
 *.stage.citibank-65a.adobecqms.net
 *.stage.citisgsgipbmy.adobecqms.net
+*.stage.cliffordchance.adobecqms.net
 *.stage.clp.adobecqms.net
 *.stage.clp-hk-power.adobecqms.net
 *.stage.clp-power-hk.adobecqms.net
@@ -4231,6 +4258,7 @@
 *.stage.jpmc-dam.adobecqms.net
 *.stage.jpmc-docmgmt.adobecqms.net
 *.stage.jpmc-gs.adobecqms.net
+*.stage.jpmcbankna.adobecqms.net
 *.stage.jrvts.adobecqms.net
 *.stage.jti.adobecqms.net
 *.stage.kddi.adobecqms.net
@@ -4255,6 +4283,7 @@
 *.stage.lhs.adobecqms.net
 *.stage.lifetimefitness.adobecqms.net
 *.stage.lilly.adobecqms.net
+*.stage.lloyds.adobecqms.net
 *.stage.loblaw.adobecqms.net
 *.stage.logitech.adobecqms.net
 *.stage.loterienationale.adobecqms.net
@@ -4776,6 +4805,7 @@
 *.test.bde.adobecqms.net
 *.test.bdees.adobecqms.net
 *.test.bdo.adobecqms.net
+*.test.bgsu.adobecqms.net
 *.test.biogen-b75.adobecqms.net
 *.test.blue-shield-of-california.adobecqms.net
 *.test.bmc-dam.adobecqms.net
@@ -4816,6 +4846,7 @@
 *.test.chewy.adobecqms.net
 *.test.chubb.adobecqms.net
 *.test.citisgsgipbmy.adobecqms.net
+*.test.cliffordchance.adobecqms.net
 *.test.clp.adobecqms.net
 *.test.clp-hk-power.adobecqms.net
 *.test.clubhkt.adobecqms.net
@@ -4960,6 +4991,7 @@
 *.test.jpmc-dam.adobecqms.net
 *.test.jpmc-docmgmt.adobecqms.net
 *.test.jpmc-gs.adobecqms.net
+*.test.jpmcbankna.adobecqms.net
 *.test.jti.adobecqms.net
 *.test.kddi.adobecqms.net
 *.test.keybank.adobecqms.net
@@ -4974,6 +5006,7 @@
 *.test.lhs.adobecqms.net
 *.test.lifetimefitness.adobecqms.net
 *.test.lilly.adobecqms.net
+*.test.lloyds.adobecqms.net
 *.test.loblaw.adobecqms.net
 *.test.logitech.adobecqms.net
 *.test.loterienationale.adobecqms.net

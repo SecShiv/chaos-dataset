@@ -80,6 +80,7 @@ finserv.tvlk-data.com
 flight-pricing.prod.tvlk-data.com
 flight-pricing.stg.tvlk-data.com
 fpp.catalog.finserv.tvlk-data.com
+genai-gateway.stg.tvlk-data.com
 genai.stg.tvlk-data.com
 grafana-astronomer.realtime.tvlk-data.com
 grafana-private.core.mgmt.tvlk-data.com
@@ -124,6 +125,7 @@ rm-dashboard.prod.tvlk-data.com
 rm-dashboard.stg.tvlk-data.com
 staging.fpp.finserv.tvlk-data.com
 stg.tvlk-data.com
+superset.realtime-stg.tvlk-data.com
 svc-stg.k8s.tvlk-data.com
 test-istio-https.stg.tvlk-data.com
 test-istio-tcp.stg.tvlk-data.com

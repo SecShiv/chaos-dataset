@@ -142,8 +142,11 @@
 *.notifications.platform.dash.cloudflare.com
 *.ns.cloudflare.com
 *.oai-gateway.cloudflare.com
+*.observability-staging.cloudflare.com
+*.ohttp-issuer.cloudflare.com
 *.onboarding-guide-staging.dash.staging.cloudflare.com
 *.onboarding-guide.platform.dash.cloudflare.com
+*.one.cloudflare.com
 *.one.dash.cloudflare.com
 *.one.dash.fed.cloudflare.com
 *.one.dash.staging.cloudflare.com
@@ -8437,6 +8440,7 @@ client.sso.labs-staging.cloudflare.com
 clint.ns.cloudflare.com
 cloe.cloudflare.com
 cloe.ns.cloudflare.com
+cloudforce-one-staging.mcp.cloudflare.com
 clyde.ns.cloudflare.com
 cml-bastion-apjc-default.labs.cloudflare.com
 cml-bastion-apjc.labs.cloudflare.com
@@ -9227,6 +9231,7 @@ lisa.ns.cloudflare.com
 liv.cloudflare.com
 liv.ns.cloudflare.com
 live.cloudflare.com
+live-tail.observability-staging.cloudflare.com
 live.staging.cloudflare.com
 livebrandnew.comcdnjs.cloudflare.com
 liz.na.cloudflare.com
@@ -10018,10 +10023,12 @@ oaklyn.ns.cloudflare.com
 oauth.pipelines-staging.cloudflare.com
 objects.research.cloudflare.com
 oblivious-gateway.privacy-gateway.cloudflare.com
+observability-staging.cloudflare.com
 ocsp.cloudflare.com
 odin.ns.cloudflare.com
 ody.ns.cloudflare.com
 office365-addin.ces.dlp.teams.cloudflare.com
+ohttp-issuer.cloudflare.com
 old.developers.cloudflare.com
 olga.ns.cloudflare.com
 olivia.ns.cloudflare.com
@@ -10031,6 +10038,7 @@ om.ns.cloudflare.com
 onboarding-guide-staging.dash.staging.cloudflare.com
 onboarding-guide.platform.dash.cloudflare.com
 onboarding.ipfs.cloudflare.com
+one.cloudflare.com
 one.dash.cloudflare.com
 one.dash.fed.cloudflare.com
 one.dash.staging.cloudflare.com
@@ -18528,3 +18536,5 @@ zlnvl.tw.cdn.cloudflare.com
 zod.ns.cloudflare.com
 zoe.ns.cloudflare.com
 ztx-bff-staging.teams.cloudflare.com
+ztx-bff.teams.cloudflare.com
+ztx-webhooks.one.dash.cloudflare.com

@@ -334,6 +334,7 @@ ai-api-cnc.ts-tools.prod.corp.mongodb.com
 ai-api-cnc.ts-tools.staging.corp.mongodb.com
 ai-api.ts-tools.prod.corp.mongodb.com
 ai-api.ts-tools.staging.corp.mongodb.com
+ai-assistant.docs.staging.corp.mongodb.com
 ai-gateway-bot-playground.corps.staging.corp.mongodb.com
 ai-mdb-query-generator.corps.staging.corp.mongodb.com
 ai-proxy.corps.staging.corp.mongodb.com
@@ -433,6 +434,7 @@ apix-bot.cloud-build.prod.corp.mongodb.com
 apix-bot.cloud-build.staging.corp.mongodb.com
 apix-bot.skunkworks.staging.corp.mongodb.com
 app-mod-builder.app-mod-rnd.staging.corp.mongodb.com
+app-mod-neo4j.app-mod-rnd.staging.corp.mongodb.com
 app-mod-query-converter.mongodb.com
 app-mod-query-converter-dev.mongodb.com
 app-mod-query-converter-qa.mongodb.com
@@ -716,6 +718,7 @@ devops.prod.corp.mongodb.com
 devops.staging.corp.mongodb.com
 devops.test.corp.mongodb.com
 devpi-cloud-ops.corp.mongodb.com
+devprod-images.devprod-runtime-environments.prod.corp.mongodb.com
 devprod-images.devprod-runtime-environments.staging.corp.mongodb.com
 devprod-images.staging.corp.mongodb.com
 devprod-infra.prod.corp.mongodb.com
@@ -923,6 +926,7 @@ europe-west1.gcp.realm-staging.mongodb.com
 events.mongodb.com
 evergreen.mongodb.com
 evergreen-61a3d3bcf29b988eeef426a2.devprod-evergreen.staging.corp.mongodb.com
+evergreen-annie-black.devprod-evergreen.staging.corp.mongodb.com
 evergreen-bynn-lee.devprod-evergreen.staging.corp.mongodb.com
 evergreen-delegate.test.corp.mongodb.com
 evergreen-jason-walsh.devprod-evergreen.staging.corp.mongodb.com
@@ -952,6 +956,7 @@ fleetdm.corp.mongodb.com
 fleetdm.prod.corp.mongodb.com
 flex-manager-api.ps.staging.corp.mongodb.com
 flex-manager.ps.staging.corp.mongodb.com
+foliage-web-services.cloud-build.staging.corp.mongodb.com
 foo.test.corp.mongodb.com
 ftdc-converter-dev.corp.mongodb.com
 fuji.test.corp.mongodb.com
@@ -1565,6 +1570,7 @@ security-assurance-chabot.infosec.staging.corp.mongodb.com
 security-assurance-chatbot.infosec.staging.corp.mongodb.com
 security-metrics.corp.mongodb.com
 security-tooling-status.infosec.staging.corp.mongodb.com
+sensei.sa-demo.staging.corp.mongodb.com
 server-dsi.prod.corp.mongodb.com
 server-dsi.staging.corp.mongodb.com
 server-tig.prod.corp.mongodb.com
@@ -1822,6 +1828,8 @@ victoria-metrics-meta.corp.mongodb.com
 victoria-metrics.corp.mongodb.com
 vidyard.mongodb.com
 vm1.cf.mongodb.com
+vminsert-az1.cloud.mongodb.com
+vminsert-az1.cloud-staging.mongodb.com
 vminsert-az2.cloud.mongodb.com
 vminsert-az2.cloud-staging.mongodb.com
 vuln-hunt.infosec.staging.corp.mongodb.com
