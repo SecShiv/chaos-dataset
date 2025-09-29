@@ -515,6 +515,7 @@ dev-blogauthor-gh13336.app.elstc.co
 dev-blogauthor-gh14383b.app.elstc.co
 dev-blogcatdetail-gh13067.app.elstc.co
 dev-blogcatdetail-updates.app.elstc.co
+dev-blogcategory-urlfixes-gh14239.app.elstc.co
 dev-blogcategorynextfixes.app.elstc.co
 dev-blogfooter-gh14609.app.elstc.co
 dev-blogghostcard-gh12618.app.elstc.co
@@ -598,6 +599,7 @@ dev-doc-link-15298.app.elstc.co
 dev-dockerfile-fibers.app.elstc.co
 dev-dockerfile-optimizations.app.elstc.co
 dev-downloads-gh14081.app.elstc.co
+dev-downloads-thumbnail.app.elstc.co
 dev-ds-ux.app.elstc.co
 dev-ee-2780-elastic-stack-tag.app.elstc.co
 dev-ee2757.app.elstc.co
@@ -670,6 +672,7 @@ dev-marketo-gh13284.app.elstc.co
 dev-marketoformsplitfixes-gh14262.app.elstc.co
 dev-marketogdpr-gh13977.app.elstc.co
 dev-mergedev31jan.app.elstc.co
+dev-migrate-downloads.app.elstc.co
 dev-misc-frontendfixes.app.elstc.co
 dev-modblock-spacingfixes.app.elstc.co
 dev-modblockfixes.app.elstc.co
@@ -699,6 +702,7 @@ dev-pastreleases-gh13402.app.elstc.co
 dev-pastreleases-gh14439.app.elstc.co
 dev-perm-nav.app.elstc.co
 dev-prefer-apple-silicon.app.elstc.co
+dev-press-feed.app.elstc.co
 dev-press.app.elstc.co
 dev-prevent-empty-query.app.elstc.co
 dev-prevent-locale-rewrite-for-searchlabs.app.elstc.co
@@ -8628,6 +8632,7 @@ nginx-ingress-test-62563.elastic-uploader-production.elstc.co
 nginx-ingress-test-62565.ea-eden-prod.elstc.co
 nginx-ingress-test-62579.ea-registry-staging.elstc.co
 nginx-ingress-test-62585.ea-stargate.elstc.co
+nginx-ingress-test-62588.ea-demo-prod.elstc.co
 nginx-ingress-test-62594.ea-registry-production.elstc.co
 nginx-ingress-test-62596.ea-registry-staging.elstc.co
 nginx-ingress-test-62620.ea-registry-production.elstc.co
@@ -8644,6 +8649,7 @@ nginx-ingress-test-62704.ea-registry-staging.elstc.co
 nginx-ingress-test-62723.ea-registry-staging.elstc.co
 nginx-ingress-test-62740.ea-demo-staging.elstc.co
 nginx-ingress-test-62759.ea-registry-staging.elstc.co
+nginx-ingress-test-62790.ea-stargate.elstc.co
 nginx-ingress-test-62791.ea-release.elstc.co
 nginx-ingress-test-62792.ea-demo-staging.elstc.co
 nginx-ingress-test-62815.ea-demo-staging.elstc.co
@@ -13386,3 +13392,4 @@ www.kcare-eportal-production-targeted.elstc.co
 xkcd-golang.app.elstc.co
 yangweilim.ce-aws.dev.cld.elstc.co
 yay.micky-test.ea-es.elstc.co
+zuul.app.elstc.co

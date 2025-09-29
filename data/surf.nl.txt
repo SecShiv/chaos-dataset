@@ -20,6 +20,7 @@
 *.ci-remove-fix-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-beautif-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-boto3-1-record-harvester.dev.sdp.surf.nl
+*.ci-renovate-conflue-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-coverag-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-cr-surf-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-fastapi-record-harvester.dev.sdp.surf.nl
@@ -883,6 +884,7 @@ ci-renovate-pydanti-monitoring.dev.sdp.surf.nl
 ci-renovate-pytest--monitoring.dev.sdp.surf.nl
 ci-renovate-rollup--admin.cxp.dev.sdp.surf.nl
 ci-renovate-ruff-0--monitoring.dev.sdp.surf.nl
+ci-renovate-rust-ju-monitoring.dev.sdp.surf.nl
 ci-renovate-starlet-monitoring.dev.sdp.surf.nl
 ci-renovate-surf-in-admin.cxp.dev.sdp.surf.nl
 ci-renovate-surf-in-backstage.dev.sdp.surf.nl
@@ -898,6 +900,7 @@ client.exp.scz.lab.surf.nl
 client.exp.sram.lab.surf.nl
 client1.ams.scz.lab.surf.nl
 client2.ams.scz.lab.surf.nl
+cloudbeaver.pilot1.sram.surf.nl
 cluster-dev-2-int.sdp.surf.nl
 cluster-dev-2.sdp.surf.nl
 cluster-dev-3.otc.sdp.surf.nl
@@ -2911,6 +2914,7 @@ minio.cluster-dev-3-int.otc.sdp.surf.nl
 minio.cluster-dev-int.sdp.surf.nl
 minio.dev-int.sdp.surf.nl
 minio.infra-int.sdp.surf.nl
+minio.pilot1.sram.surf.nl
 minio.playground-int.sdp.surf.nl
 minio.stage-int.sdp.surf.nl
 minio.test-int.sdp.surf.nl

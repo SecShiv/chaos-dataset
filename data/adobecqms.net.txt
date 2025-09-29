@@ -259,6 +259,7 @@
 *.build.jpmcbankna.adobecqms.net
 *.build.jti.adobecqms.net
 *.build.kingspan.adobecqms.net
+*.build.klockner.adobecqms.net
 *.build.kpc.adobecqms.net
 *.build.levis.adobecqms.net
 *.build.lhs.adobecqms.net
@@ -789,6 +790,7 @@
 *.dev.kddi.adobecqms.net
 *.dev.keybank.adobecqms.net
 *.dev.kingspan.adobecqms.net
+*.dev.klockner.adobecqms.net
 *.dev.kohler.adobecqms.net
 *.dev.kohler-gbh.adobecqms.net
 *.dev.kone.adobecqms.net
@@ -1254,6 +1256,7 @@
 *.dev65.jpmc-am.adobecqms.net
 *.dev65.jpmc-am-65-es.adobecqms.net
 *.dev65.kennametalent.adobecqms.net
+*.dev65.klockner.adobecqms.net
 *.dev65.mediamonks.adobecqms.net
 *.dev65.nordstrom.adobecqms.net
 *.dev65.ps-direct.adobecqms.net
@@ -1532,6 +1535,7 @@
 *.kingspan-dev.adobecqms.net
 *.kingspan-prod.adobecqms.net
 *.kingspan-stage.adobecqms.net
+*.klockner.adobecqms.net
 *.kohler.adobecqms.net
 *.kohler-gbh.adobecqms.net
 *.kohls.adobecqms.net
@@ -1750,6 +1754,7 @@
 *.perf.jpmcbankna.adobecqms.net
 *.perf.jti.adobecqms.net
 *.perf.kingspan.adobecqms.net
+*.perf.klockner.adobecqms.net
 *.perf.kpa.adobecqms.net
 *.perf.kpc.adobecqms.net
 *.perf.levis.adobecqms.net
@@ -2055,6 +2060,7 @@
 *.preprod.jti.adobecqms.net
 *.preprod.keysight.adobecqms.net
 *.preprod.kingspan.adobecqms.net
+*.preprod.klockner.adobecqms.net
 *.preprod.kpc.adobecqms.net
 *.preprod.levis.adobecqms.net
 *.preprod.lhs.adobecqms.net
@@ -2548,6 +2554,7 @@
 *.prod.keybank.adobecqms.net
 *.prod.keysight.adobecqms.net
 *.prod.kingspan.adobecqms.net
+*.prod.klockner.adobecqms.net
 *.prod.kohler.adobecqms.net
 *.prod.kohler-gbh.adobecqms.net
 *.prod.kohls.adobecqms.net
@@ -2919,6 +2926,7 @@
 *.prod65.invesco.adobecqms.net
 *.prod65.jpmc-am.adobecqms.net
 *.prod65.jpmc-am-65-es.adobecqms.net
+*.prod65.klockner.adobecqms.net
 *.prod65.lbrands.adobecqms.net
 *.prod65.mediamonks.adobecqms.net
 *.prod65.nordstrom.adobecqms.net
@@ -2947,6 +2955,7 @@
 *.prod65.zeppelin.adobecqms.net
 *.prod65a.federalmogul.adobecqms.net
 *.prod65a.siriusxm.adobecqms.net
+*.prod65e.klockner.adobecqms.net
 *.production.hsbc-dxp-eu.adobecqms.net
 *.production.hsbc-dxp-global.adobecqms.net
 *.pru.adobecqms.net
@@ -3235,6 +3244,7 @@
 *.qa.kddi.adobecqms.net
 *.qa.keybank.adobecqms.net
 *.qa.kingspan.adobecqms.net
+*.qa.klockner.adobecqms.net
 *.qa.kohler-gbh.adobecqms.net
 *.qa.kohls.adobecqms.net
 *.qa.kpa.adobecqms.net
@@ -3775,6 +3785,7 @@
 *.sit.jpmcbankna.adobecqms.net
 *.sit.jti.adobecqms.net
 *.sit.kingspan.adobecqms.net
+*.sit.klockner.adobecqms.net
 *.sit.kpc.adobecqms.net
 *.sit.levis.adobecqms.net
 *.sit.lhs.adobecqms.net
@@ -4265,6 +4276,7 @@
 *.stage.kennametalent.adobecqms.net
 *.stage.keybank.adobecqms.net
 *.stage.kingspan.adobecqms.net
+*.stage.klockner.adobecqms.net
 *.stage.kohler.adobecqms.net
 *.stage.kohler-gbh.adobecqms.net
 *.stage.kohls.adobecqms.net
@@ -4627,6 +4639,7 @@
 *.stage65.informa.adobecqms.net
 *.stage65.infosys.adobecqms.net
 *.stage65.jpmc-am.adobecqms.net
+*.stage65.klockner.adobecqms.net
 *.stage65.lbrands.adobecqms.net
 *.stage65.mediamonks.adobecqms.net
 *.stage65.nordstrom.adobecqms.net
@@ -4996,6 +5009,7 @@
 *.test.kddi.adobecqms.net
 *.test.keybank.adobecqms.net
 *.test.kingspan.adobecqms.net
+*.test.klockner.adobecqms.net
 *.test.kpc.adobecqms.net
 *.test.kpmg.adobecqms.net
 *.test.kwm.adobecqms.net
@@ -5268,6 +5282,7 @@
 *.test65.grainger.adobecqms.net
 *.test65.groupelucienbarriere.adobecqms.net
 *.test65.infosys.adobecqms.net
+*.test65.klockner.adobecqms.net
 *.test65.mediamonks.adobecqms.net
 *.test65.nordstrom.adobecqms.net
 *.test65.ps-direct.adobecqms.net
@@ -17474,6 +17489,7 @@ wipro.adobecqms.net
 wipro-prod65-01.adobecqms.net
 wjkbvweo32232f322f3f312fcwekcwb.final.adobecqms.net
 wknd.adobecqms.net
+wknd-assets.dev.pocstackit.adobecqms.net
 wkndapp.dev.pocstackit.adobecqms.net
 wlgore-aws.adobecqms.net
 wlgore-aws-dev65a.adobecqms.net

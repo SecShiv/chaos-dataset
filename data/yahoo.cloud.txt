@@ -137,6 +137,7 @@
 *.kite-hbase-prd-use1z2-zookeeper-headless.infra.svc.use1.grid-aws-prod.aws.yahoo.cloud
 *.mc.identity-gcp-p-compute.gcp.yahoo.cloud
 *.media-data-gcp-looker.gcp.yahoo.cloud
+*.mediaplatform-mlplatform-qa.gcp.yahoo.cloud
 *.mediaplatform-nonprod1-use1.omega.gcp.yahoo.cloud
 *.mediaplatform-nonprod2-use1.omega.gcp.yahoo.cloud
 *.mediaplatform-prod1-asse1.omega.gcp.yahoo.cloud
@@ -691,7 +692,3 @@ yakl-server.us-west-2.athenz-k8s-prod.aws.yahoo.cloud
 yakl.athenz-k8s-prod.aws.yahoo.cloud
 yamplus-notification.dsp-plus-api-dev.aws.yahoo.cloud
 yamplus-notification.dsp-plus-api-prod.aws.yahoo.cloud
-yc.media-data-gcp-metastore-prd.gcp.yahoo.cloud
-yc.media-data-gcp-metastore-stg.gcp.yahoo.cloud
-ycpi.gcp.yahoo.cloud
-ycpi.ostk.yahoo.cloud

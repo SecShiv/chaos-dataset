@@ -390,6 +390,7 @@ allow-delorean-tf-maptools.dev.tti-hist.tomtomgroup.com
 allow-loading-1-incident-in-hi.dev.tti-cancun.tomtomgroup.com
 allow-removing-layers-in-dialo.dev.tti-cancun.tomtomgroup.com
 allow-search-for-every.gateway.tti-cancun.tomtomgroup.com
+allure-report.integration-prod.tomtomgroup.com
 allure.zeus.ado-prod.tomtomgroup.com
 alpha.tomtomgroup.com
 alpha-dev.tomtomgroup.com
@@ -3029,6 +3030,14 @@ fncbe7-westeurope-alert.ngs-dev.tomtomgroup.com
 fncbe7-westeurope-grafana.ngs-dev.tomtomgroup.com
 fncbe7-westeurope-prom.ngs-dev.tomtomgroup.com
 fncbe7-westeurope.ngs-dev.tomtomgroup.com
+fncd58-koreacentral-alert.ngs-dev.tomtomgroup.com
+fncd58-koreacentral-grafana.ngs-dev.tomtomgroup.com
+fncd58-koreacentral-prom.ngs-dev.tomtomgroup.com
+fncd58-koreacentral.ngs-dev.tomtomgroup.com
+fncd58-westeurope-alert.ngs-dev.tomtomgroup.com
+fncd58-westeurope-grafana.ngs-dev.tomtomgroup.com
+fncd58-westeurope-prom.ngs-dev.tomtomgroup.com
+fncd58-westeurope.ngs-dev.tomtomgroup.com
 fne624-westeurope-grafana.ngs-dev.tomtomgroup.com
 fne85a-koreacentral-alert.ngs-dev.tomtomgroup.com
 fne85a-koreacentral-prom.ngs-dev.tomtomgroup.com
@@ -4462,6 +4471,7 @@ nds-rally.tomtomgroup.com
 nearby-32-add-nearby-amenities.dev.tti-cancun.tomtomgroup.com
 nearby-72-add-payment-opening.dev.tti-cancun.tomtomgroup.com
 nearby-75.dev.tti-cancun.tomtomgroup.com
+nessie-dev.allspark.tomtomgroup.com
 netflow.tomtomgroup.com
 network-test.redir-tes.tomtomgroup.com
 neu.dev.vault.tomtomgroup.com

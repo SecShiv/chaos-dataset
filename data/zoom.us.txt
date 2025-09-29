@@ -78489,12 +78489,14 @@ chatgateway-go.cloud.zoom.us
 chatgateway-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 chatgateway-prod-aws-ca-central-1.ai.cloud.zoom.us
 chatgateway-prod-aws-eu-central-1.ai.cloud.zoom.us
+chatgateway-prod-aws-sa-east-1.ai.cloud.zoom.us
 chatgateway-prod-aws-us-east-1.ai.cloud.zoom.us
 chatgateway-prod-aws-us-east-2.ai.cloud.zoom.us
 chatgateway-prod-colo-iad-1.cloud.zoom.us
 chatgateway-prod-colo-sjc-1.cloud.zoom.us
 chatgateway-prod-oci-aws-me-jeddah-1.ai.cloud.zoom.us
 chatgateway-prod-oci-aws-me-riyadh-1.ai.cloud.zoom.us
+chatgateway-sa-east-1.cloud.zoom.us
 chatgateway-us-east-1.cloud.zoom.us
 chatgateway-us-east-2-dogfood.cloud.zoom.us
 chatgateway-us-east-2.cloud.zoom.us
@@ -80681,6 +80683,7 @@ eu02mqttws-device-va2.zoom.us
 eu02mqttws-hash.zoom.us
 eu02mqttws-hash-va1.zoom.us
 eu02mqttws-va1.zoom.us
+eu02mws.zoom.us
 eu02notificationgateway.zoom.us
 eu02nws.zoom.us
 eu02nws-va1.zoom.us
@@ -84586,8 +84589,11 @@ in01-web-va2.zoom.us
 in01-web-va2-i.zoom.us
 in01-web-va2-internal-i.zoom.us
 in01-webok.zoom.us
+in01-webok-i.zoom.us
 in01-webok-va1.zoom.us
+in01-webok-va1-i.zoom.us
 in01-webok-va1-internal.zoom.us
+in01-webok-va1-internal-i.zoom.us
 in01-webok-va2.zoom.us
 in01-webok-va2-internal.zoom.us
 in01-websrv-data-reconcile.zoom.us
@@ -84654,6 +84660,7 @@ in01mqttws-device-va2.zoom.us
 in01mqttws-hash.zoom.us
 in01mqttws-hash-va1.zoom.us
 in01mqttws-va1.zoom.us
+in01nacos.zoom.us
 in01napps.zoom.us
 in01nws.zoom.us
 in01nws-va1.zoom.us
@@ -88151,6 +88158,7 @@ sa01zdmapi-poly.zoom.us
 sa01zdmapi-va1.zoom.us
 sa01zdmapi-va2.zoom.us
 sa01zdmdevice.zoom.us
+sa01zkm.zoom.us
 sa01zpalertmanager.zoom.us
 sa01zpns.zoom.us
 sa01zpoh1alertmanager.zoom.us
@@ -89586,6 +89594,7 @@ uk01-zcxp-apisix-va-i.zoom.us
 uk01-zcxp-apisix-va2.zoom.us
 uk01-zcxp-apisix-va2-i.zoom.us
 uk01bmt.zoom.us
+uk01bot.zoom.us
 uk01command.zoom.us
 uk01commonconsumer.zoom.us
 uk01commonconsumer-va1.zoom.us
@@ -89596,6 +89605,8 @@ uk01contactservice-va.zoom.us
 uk01contactservice-va-internal.zoom.us
 uk01contactservice-va2.zoom.us
 uk01integrations.zoom.us
+uk01migration.zoom.us
+uk01migration-internal.zoom.us
 uk01pbx.zoom.us
 uk01pbx-va-ucs-nginx1.zoom.us
 uk01pbx-va-ucs-nginx2.zoom.us
@@ -89604,6 +89615,7 @@ uk01pbx-va2.zoom.us
 uk01va1nws-auth.zoom.us
 uk01va2command.zoom.us
 uk01va2nws-auth.zoom.us
+uk01zkm.zoom.us
 uk01zpalertmanager.zoom.us
 uk01zpprom.zoom.us
 uk01zsns.zoom.us
@@ -95058,6 +95070,7 @@ us04-nws-prometheus.zoom.us
 us04-oh1-nws-prometheus.zoom.us
 us04-oh1-ts.cloud.zoom.us
 us04-report.zoom.us
+us04-report-oh1.zoom.us
 us04-report-va1.zoom.us
 us04-s2-xmpprpc.zoom.us
 us04-va1-ts.cloud.zoom.us
@@ -95972,6 +95985,7 @@ va2marketplace.zoom.us
 va2mpapis.zoom.us
 va2sa01bot.zoom.us
 va2single.zoom.us
+va2uk01bot.zoom.us
 va2us04bot.zoom.us
 vaapplicationscontent.zoom.us
 vabot.zoom.us
@@ -95989,6 +96003,7 @@ vantiq.zoom.us
 vasa01bot.zoom.us
 vassar.zoom.us
 vastdata.zoom.us
+vauk01bot.zoom.us
 vaus04bot.zoom.us
 vayaconsulting.zoom.us
 vc-cudi.zoom.us
@@ -96595,6 +96610,7 @@ zam-example-app-prod-aw1-iad1-pbx.zoom.us
 zam-example-app-prod-aw1-iad2-asr.zoom.us
 zam-example-app-prod-aw1-iad3-common.zoom.us
 zam-example-app-prod-aw1-kix1-common.zoom.us
+zam-example-app-prod-aw1-ksa1-common.zoom.us
 zam-example-app-prod-aw1-mel1-common.zoom.us
 zam-example-app-prod-aw1-meriyadh1-ai.zoom.us
 zam-example-app-prod-aw1-nrt1-common.zoom.us
@@ -111483,8 +111499,10 @@ zt-yue-zh-zht-en-0-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-yue-zh-zht-en-0-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-zlm-0-go-aws-us-east-1.ai.cloud.zoom.us
 zt-zlm-0-prod-aws-us-east-1.ai.cloud.zoom.us
+zt-zlm-0-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-zlm-go-aws-us-east-1.ai.cloud.zoom.us
 zt-zlm-prod-aws-us-east-1.ai.cloud.zoom.us
+zt-zlm-prod-aws-us-east-2.ai.cloud.zoom.us
 ztt.keyserver-locator-us.zoom.us
 ztt.keyserver-locator-us-03.zoom.us
 ztt.keyserver-locator-us-04.zoom.us

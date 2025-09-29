@@ -68,6 +68,7 @@
 *.k8s.voz-acc.cnap-am2.intranet.rws.nl
 *.k8s.voz-acc.cnap-am4.intranet.rws.nl
 *.k8s.voz-poc.cnap-am2.intranet.rws.nl
+*.k8s.voz-prod.cnap-am2.intranet.rws.nl
 *.k8s.voz-prod.cnap-am4.intranet.rws.nl
 *.k8s.voz-symbio.cnap-am4.intranet.rws.nl
 *.k8s.voz-test.cnap-am2.intranet.rws.nl
@@ -451,6 +452,7 @@ icalk.rws.nl
 image.acc-kennismaken.rws.nl
 image.kennismaken.rws.nl
 imgdownload.rws.nl
+infinispan.test.vm-05.azure.grid.rws.nl
 inloggen.rws.nl
 innovatie-test.rws.nl
 innovatie-tst.rws.nl
@@ -557,7 +559,9 @@ minio-console.cees-test.dev.at.rws.nl
 minio-console.dev.at.rws.nl
 minio-console.gitlab.dev.at.rws.nl
 minio-console.testcees.dev.at.rws.nl
+minio-console.vm-05.azure.grid.rws.nl
 minio-indexer.test.vm-05.azure.grid.rws.nl
+minio-indexer.vm-05.azure.grid.rws.nl
 minio-storage-api.test.vm-04.azure.grid.rws.nl
 minio-storage.test.vm-04.azure.grid.rws.nl
 minio.at.rws.nl
@@ -565,6 +569,7 @@ minio.cees-test.dev.at.rws.nl
 minio.dev.at.rws.nl
 minio.gitlab.dev.at.rws.nl
 minio.testcees.dev.at.rws.nl
+minio.vm-05.azure.grid.rws.nl
 mip-proxy-acc.rws.nl
 mip-proxy-prod.rws.nl
 mon.charm.rws.nl

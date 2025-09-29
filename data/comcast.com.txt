@@ -1430,6 +1430,7 @@
 *.or.sample-ui-cloudfront-stg-va.np.digital.business.comcast.com
 *.or.scheduler.digital.business.comcast.com
 *.or.scheduler.np.digital.business.comcast.com
+*.or.segmentation-uimfe-dev.np.digital.business.comcast.com
 *.or.segmentation-uimfe-int.np.digital.business.comcast.com
 *.or.segmentation-uimfe-prod.digital.business.comcast.com
 *.or.segmentation-uimfe-qa.np.digital.business.comcast.com
@@ -2182,6 +2183,7 @@
 *.scheduler.np.digital.business.comcast.com
 *.scm.adv.comcast.com
 *.scm.advapi.comcast.com
+*.segmentation-uimfe-dev.np.digital.business.comcast.com
 *.segmentation-uimfe-int.np.digital.business.comcast.com
 *.segmentation-uimfe-prod.digital.business.comcast.com
 *.segmentation-uimfe-qa.np.digital.business.comcast.com
@@ -3384,6 +3386,7 @@
 *.va.sample-ui-cloudfront-stg-va.np.digital.business.comcast.com
 *.va.scheduler.digital.business.comcast.com
 *.va.scheduler.np.digital.business.comcast.com
+*.va.segmentation-uimfe-dev.np.digital.business.comcast.com
 *.va.segmentation-uimfe-int.np.digital.business.comcast.com
 *.va.segmentation-uimfe-prod.digital.business.comcast.com
 *.va.segmentation-uimfe-qa.np.digital.business.comcast.com
@@ -54711,6 +54714,7 @@ rhssor.comcast.com
 rhssor.dxplatform.comcast.com
 rhssos.comcast.com
 rhssos.dxplatform.comcast.com
+rhvhost.comcast.com
 ric.dev.rules.comcast.com
 ric.qa.rules.comcast.com
 ric.rules.comcast.com
@@ -55843,6 +55847,7 @@ segment-routing-proxy-as-01-dev.snp-collectors.comcast.com
 segment-routing-proxy-ho-01-dev.snp-collectors.comcast.com
 segment-routing-proxy-nl-01-dev.snp-collectors.comcast.com
 segment-routing-proxy-rdei-dev.snp-collectors.comcast.com
+segmentation-uimfe-dev.np.digital.business.comcast.com
 segmentation-uimfe-int.np.digital.business.comcast.com
 segmentation-uimfe-prod.digital.business.comcast.com
 segmentation-uimfe-qa.np.digital.business.comcast.com
@@ -59908,6 +59913,7 @@ testexseasonal-as-1t.slb.comcast.com
 testexseasonal-ch2-1t.slb.comcast.com
 testexseasonal.cable.comcast.com
 testexssvp-ch2-1s.slb.comcast.com
+testf5chicago.comcast.com
 testfiberdeep.cable.comcast.com
 testfixstage.comcast.com
 testfloridaregionfollowup.cable.comcast.com
@@ -69579,6 +69585,7 @@ xcmtest.comcast.com
 xcmuk.comcast.com
 xcntwb-ch2-1p.cable.comcast.com
 xcomm.cable.comcast.com
+xcontroltesting.comcast.com
 xcoslog-po-1p.slb.comcast.com
 xcoslog-wc-1p.slb.comcast.com
 xcosqe-po-a4q.cable.comcast.com
