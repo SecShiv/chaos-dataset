@@ -442,6 +442,7 @@
 *.networkmanager.awsc-integ.aws.amazon.com
 *.networkmanager.awsc-preprod.aws.amazon.com
 *.networkmanager.console.aws.amazon.com
+*.oam-gamma.us-east-1.amazon.com
 *.phd.aws.amazon.com
 *.photon-portal-alpha-iad.iad.proxy.amazon.com
 *.photon-portal-alpha-tcp-iad.iad.proxy.amazon.com
@@ -20209,6 +20210,7 @@ aws-console-platform-proxy-integ.aka.syd.amazon.com
 aws-console-platform-proxy-integ.aka.tpe.amazon.com
 aws-console-platform-proxy-integ.aka.yul.amazon.com
 aws-console-platform-proxy-integ.aka.yyc.amazon.com
+aws-console-platform-proxy-integ.aka.zaz.amazon.com
 aws-console-platform-proxy-integ.aka.zrh.amazon.com
 aws-console-platform-proxy-loadtest.aka.pdx.amazon.com
 aws-console-platform-proxy-preprod.aka.akl.amazon.com
@@ -20249,6 +20251,7 @@ aws-console-proxy-integ-jlb.syd.amazon.com
 aws-console-proxy-integ-jlb.tpe.amazon.com
 aws-console-proxy-integ-jlb.yul.amazon.com
 aws-console-proxy-integ-jlb.yyc.amazon.com
+aws-console-proxy-integ-jlb.zaz.amazon.com
 aws-console-proxy-integ-jlb.zrh.amazon.com
 aws-console-proxy-integ.aka.bjs.amazon.com
 aws-console-proxy-integ.arn.amazon.com
@@ -20265,6 +20268,7 @@ aws-console-proxy-integ.syd.amazon.com
 aws-console-proxy-integ.tpe.amazon.com
 aws-console-proxy-integ.yul.amazon.com
 aws-console-proxy-integ.yyc.amazon.com
+aws-console-proxy-integ.zaz.amazon.com
 aws-console-proxy-integ.zrh.amazon.com
 aws-console-proxy-loadtest-jlb.pdx.amazon.com
 aws-console-proxy-loadtest.pdx.amazon.com
@@ -21062,6 +21066,8 @@ awsmp-seller-tools-gamma-cn-northwest-1.aka.amazon.com
 awsmp-seller-tools.integ.amazon.com
 awsmp-server-publishing-marketplace-gamma.thf.amazon.com
 awsmp-server-publishing-marketplace-prod.pdx.amazon.com
+awsmp-server-publishing-prod.pdx.amazon.com
+awsmp-server-publishing-prod.thf.amazon.com
 awsmp-server-publishing.marketplace.gamma.pdx.amazon.com
 awsmp-server-publishing.marketplace.gamma.thf.amazon.com
 awsmp-server-publishing.marketplace.prod.thf.amazon.com
@@ -45522,6 +45528,7 @@ oak4-portal.amazon.com
 oak6-portal.amazon.com
 oak7-portal.amazon.com
 oam-dev.fin.corp.amazon.com
+oam-gamma.us-east-1.amazon.com
 oarmstrong.signin.aws.amazon.com
 oasis-backend.corp.amazon.com
 oasis.corp.amazon.com
@@ -49259,6 +49266,7 @@ rampconsole-jlb-dub.dub.proxy.amazon.com
 rampconsole-jlb-iad.iad.proxy.amazon.com
 rampconsole-jlb.corp.amazon.com
 rampconsole.corp.amazon.com
+rampidentity-bff-alpha.integ.amazon.com
 ramptaxinfobff-alpha.integ.amazon.com
 ramptemplatebff-alpha.integ.amazon.com
 rampuicommonsservice-alpha.integ.amazon.com
@@ -61057,6 +61065,3 @@ ztf-beta.corp.amazon.com
 ztf.corp.amazon.com
 zubaidu-dev.corp.amazon.com
 zuul-config-beta.corp.amazon.com
-zuul-config-gamma.corp.amazon.com
-zuul.corp.amazon.com
-zyzhang.aka.corp.amazon.com

@@ -636,6 +636,7 @@
 *.c.ipdns.public-teams.ctrl.ml.teams.microsoft.com
 *.c.nam.preview.ctrl.ml.teams.microsoft.com
 *.c.nam.public-teams.ctrl.ml.teams.microsoft.com
+*.c.sam.public-teams.ctrl.ml.teams.microsoft.com
 *.c.samafr.public-teams.ctrl.ml.teams.microsoft.com
 *.c.west.dogfood.ctrl.ml.teams.microsoft.com
 *.c.west.dogfood.main.ml.teams.microsoft.com
@@ -1018,6 +1019,7 @@
 *.cwscr-dev.dcat.dsp.mp.microsoft.com
 *.cwscr-int.dcat.dsp.mp.microsoft.com
 *.cwscr-int.eudb.dcat.dsp.mp.microsoft.com
+*.d.afr.public-teams.main.ml.teams.microsoft.com
 *.d.apac.public-teams.main.ml.teams.microsoft.com
 *.d.au.public-teams.main.ml.teams.microsoft.com
 *.d.east.dogfood.main.ml.teams.microsoft.com
@@ -1031,6 +1033,7 @@
 *.d.ipdns.public-teams.main.ml.teams.microsoft.com
 *.d.nam.preview.main.ml.teams.microsoft.com
 *.d.nam.public-teams.main.ml.teams.microsoft.com
+*.d.sam.public-teams.main.ml.teams.microsoft.com
 *.d.samafr.public-teams.main.ml.teams.microsoft.com
 *.d.west.dogfood.main.ml.teams.microsoft.com
 *.daas.microsoft.com
@@ -1270,6 +1273,7 @@
 *.dtr.ipdns.public-teams.main.ml.teams.microsoft.com
 *.dtr.nam.preview.main.ml.teams.microsoft.com
 *.dtr.nam.public-teams.main.ml.teams.microsoft.com
+*.dtr.sam.public-teams.main.ml.teams.microsoft.com
 *.dtr.samafr.public-teams.main.ml.teams.microsoft.com
 *.dtr.west.dogfood.main.ml.teams.microsoft.com
 *.dxt-database.fabric.microsoft.com
@@ -1822,6 +1826,7 @@
 *.kd-pke.ipdns.preview.keys.ml.teams.microsoft.com
 *.kd-pke.nam.preview.keys.ml.teams.microsoft.com
 *.kd-pke.west.dogfood.keys.ml.teams.microsoft.com
+*.kd.afr.public-teams.keys.ml.teams.microsoft.com
 *.kd.apac.public-teams.keys.ml.teams.microsoft.com
 *.kd.au.public-teams.keys.ml.teams.microsoft.com
 *.kd.east.dogfood.keys.ml.teams.microsoft.com
@@ -2017,6 +2022,7 @@
 *.mmp-sandbox.microsoft.com
 *.mmp-si.microsoft.com
 *.mobile.events.data.microsoft.com
+*.mockproxy.msgapi.int.teams.microsoft.com
 *.monet.teams.microsoft.com
 *.monitoringplatform-ppe.teams.microsoft.com
 *.monitoringplatform.gcc.teams.microsoft.com
@@ -2220,6 +2226,7 @@
 *.nw4.azurestack.selfhost.corp.microsoft.com
 *.nz-holoportation.dev.collab.mixedreality.microsoft.com
 *.nz.daas.microsoft.com
+*.o.afr.public-teams.main.ml.teams.microsoft.com
 *.o.apac.public-teams.main.ml.teams.microsoft.com
 *.o.au.public-teams.main.ml.teams.microsoft.com
 *.o.east.dogfood.main.ml.teams.microsoft.com
@@ -2233,6 +2240,7 @@
 *.o.ipdns.public-teams.main.ml.teams.microsoft.com
 *.o.nam.preview.main.ml.teams.microsoft.com
 *.o.nam.public-teams.main.ml.teams.microsoft.com
+*.o.sam.public-teams.main.ml.teams.microsoft.com
 *.o.samafr.public-teams.main.ml.teams.microsoft.com
 *.o.west.dogfood.main.ml.teams.microsoft.com
 *.o365usgovidm.corp.microsoft.com
@@ -2252,6 +2260,7 @@
 *.octip-client-prod.microsoft.com
 *.octop.rtmp.selfhost.corp.microsoft.com
 *.office.microsoft.com
+*.officeagent.microsoft.com
 *.officebeta.microsoft.com
 *.officecdn.microsoft.com
 *.officeredir.microsoft.com
@@ -2294,6 +2303,7 @@
 *.orgmanagementservice.cs-us1.healthplatform.microsoft.com
 *.ori-dev.serviceshub.microsoft.com
 *.origin-dev.video.microsoft.com
+*.origin-ppe.video.microsoft.com
 *.origin-stg.video.microsoft.com
 *.origin.account.microsoft.com
 *.origin.delivery.mp.microsoft.com
@@ -12869,6 +12879,7 @@
 *.za4.dxt-sql.cosmos.fabric.microsoft.com
 *.za4.dxt-table.fabric.microsoft.com
 *.za4.dxtgraphql.fabric.microsoft.com
+*.za4.dxtuserdatafunctions.fabric.microsoft.com
 *.za4.graphql.fabric.microsoft.com
 *.za4.graphql.fabric-df.microsoft.com
 *.za4.msit-blob.fabric.microsoft.com
@@ -15872,6 +15883,7 @@
 *.ze5.dxt-sql.cosmos.fabric.microsoft.com
 *.ze5.dxt-table.fabric.microsoft.com
 *.ze5.dxtgraphql.fabric.microsoft.com
+*.ze5.dxtuserdatafunctions.fabric.microsoft.com
 *.ze5.graphql.fabric.microsoft.com
 *.ze5.graphql.fabric-df.microsoft.com
 *.ze5.msit-blob.fabric.microsoft.com
@@ -29218,6 +29230,18 @@ ambausx-ucc-prd-ukw.securitycenter.microsoft.com
 ambausx-ucc-prd-us.securitycenter.microsoft.com
 ambausx-ucc-prd-us3.securitycenter.microsoft.com
 ambausx-ucc-prd-weu.securitycenter.microsoft.com
+ambausx-uch-prd-cus.securitycenter.microsoft.com
+ambausx-uch-prd-eu.securitycenter.microsoft.com
+ambausx-uch-prd-eus2.securitycenter.microsoft.com
+ambausx-uch-prd-ina.securitycenter.microsoft.com
+ambausx-uch-prd-inc0a.securitycenter.microsoft.com
+ambausx-uch-prd-ins0a.securitycenter.microsoft.com
+ambausx-uch-prd-neu.securitycenter.microsoft.com
+ambausx-uch-prd-uk.securitycenter.microsoft.com
+ambausx-uch-prd-uks.securitycenter.microsoft.com
+ambausx-uch-prd-ukw.securitycenter.microsoft.com
+ambausx-uch-prd-us.securitycenter.microsoft.com
+ambausx-uch-prd-weu.securitycenter.microsoft.com
 ambausx-ucs-can-can.securitycenter.microsoft.com
 ambausx-ucs-can-canc.securitycenter.microsoft.com
 ambausx-ucs-can-cane.securitycenter.microsoft.com
@@ -29870,6 +29894,7 @@ api.dco.microsoft.com
 api.dds.microsoft.com
 api.dev.adu.microsoft.com
 api.dev.cayman.microsoft.com
+api.dev.cloudtest.microsoft.com
 api.dev.esi.microsoft.com
 api.dev.forex.microsoft.com
 api.dev.ftop.microsoft.com
@@ -31902,6 +31927,7 @@ australiasoutheast.onelake.fabric.microsoft.com
 australiasoutheast.prod.powerquery.microsoft.com
 australiasoutheast.rp.prod.adu.microsoft.com
 australiasoutheast.vnet.powerplatform.microsoft.com
+austriaeast.vnet.powerplatform.microsoft.com
 autarky.microsoft.com
 auth.microsoft.com
 auth-aad.dcg.microsoft.com
@@ -35565,6 +35591,7 @@ auto-cusb-pbi-kv-httpszone09.z09.w.api.fabric.microsoft.com
 auto-cusb-pbi-kv-httpszone0a.z0a.w.api.fabric.microsoft.com
 auto-cusb-pbi-kv-httpszone0b.z0b.w.api.fabric.microsoft.com
 auto-cusb-pbi-kv-httpszone0c.z0c.w.api.fabric.microsoft.com
+auto-cusb-pbi-kv-httpszone0e.z0e.w.api.fabric.microsoft.com
 auto-cusb-pbi-kv-httpszone0f.z0f.w.api.fabric.microsoft.com
 auto-cusb-pbi-kv-httpszone10.z10.w.api.fabric.microsoft.com
 auto-cusb-pbi-kv-httpszone11.z11.w.api.fabric.microsoft.com
@@ -36950,6 +36977,7 @@ auto-dxt-pbi-kv-httpszonee1.ze1.w.dxtapi.fabric.microsoft.com
 auto-dxt-pbi-kv-httpszonee2.ze2.w.dxtapi.fabric.microsoft.com
 auto-dxt-pbi-kv-httpszonee3.ze3.w.dxtapi.fabric.microsoft.com
 auto-dxt-pbi-kv-httpszonee4.ze4.w.dxtapi.fabric.microsoft.com
+auto-dxt-pbi-kv-httpszonee5.ze5.w.dxtapi.fabric.microsoft.com
 auto-dxt-pbi-kv-httpszonee6.ze6.w.dxtapi.fabric.microsoft.com
 auto-dxt-pbi-kv-httpszonee7.ze7.w.dxtapi.fabric.microsoft.com
 auto-dxt-pbi-kv-httpszonee8.ze8.w.dxtapi.fabric.microsoft.com
@@ -70933,6 +70961,7 @@ azvsmas-india-prd.microsoft.com
 azvsmas-japan-prd.microsoft.com
 azvsmas-prd.microsoft.com
 azvsmas-stg.microsoft.com
+azwcusconcrtwfp01.corp.microsoft.com
 azwcusehjumpgw.corp.microsoft.com
 azwcusehnmsdi001.corp.microsoft.com
 azwcusehnmsdi001.redmond.corp.microsoft.com
@@ -74373,6 +74402,7 @@ c.perf.glbdns.microsoft.com
 c.preview.ctrl.ml.teams.microsoft.com
 c.public-teams.ctrl.ml.teams.microsoft.com
 c.r.office.microsoft.com
+c.sam.public-teams.ctrl.ml.teams.microsoft.com
 c.samafr.public-teams.ctrl.ml.teams.microsoft.com
 c.services.office.microsoft.com
 c.shapes.office.microsoft.com
@@ -75176,6 +75206,7 @@ cbsworker.mp.microsoft.com
 cbt.cp.microsoft.com
 cbtest.microsoft.com
 cbv.commercemgmt.m365.microsoft.com
+cbv.gpex-aircapi.cp.microsoft.com
 cc.or.download.microsoft.com
 cc.service.microsoft.com
 cc0e8a6c-8e12-4131-b7c7-bb586c08cf86.microsoft.com
@@ -78258,6 +78289,8 @@ commerceriskthresholdbilling-canary.tbs.microsoft.com
 commerceroot-admin.cp.microsoft.com
 commercerootjournal.cp.microsoft.com
 commercestatus.serviceinsights.microsoft.com
+commercial-displaycatalog.bigcatalog.commerce.microsoft.com
+commercial-frontdoor-displaycatalog.bigcatalog.commerce.microsoft.com
 commercial-staging-dcatbackend.bigcatalog-ac.commerce.microsoft.com
 commercial-staging-dcatbackend.bigcatalog-int.commerce.microsoft.com
 commercial-staging-dcatbackend.bigcatalog.commerce.microsoft.com
@@ -80960,6 +80993,7 @@ czawitj22m1451.network.microsoft.com
 d-signing.dogfood.ml.teams.microsoft.com
 d-signing.preview.ml.teams.microsoft.com
 d-signing.public-teams.ml.teams.microsoft.com
+d.afr.public-teams.main.ml.teams.microsoft.com
 d.apac.public-teams.main.ml.teams.microsoft.com
 d.au.public-teams.main.ml.teams.microsoft.com
 d.def.dogfood.main.ml.teams.microsoft.com
@@ -80985,6 +81019,7 @@ d.nam.preview.main.ml.teams.microsoft.com
 d.nam.public-teams.main.ml.teams.microsoft.com
 d.preview.main.ml.teams.microsoft.com
 d.public-teams.main.ml.teams.microsoft.com
+d.sam.public-teams.main.ml.teams.microsoft.com
 d.samafr.public-teams.main.ml.teams.microsoft.com
 d.urs.microsoft.com
 d.west.dogfood.main.ml.teams.microsoft.com
@@ -82054,6 +82089,7 @@ dev-author.aris.microsoft.com
 dev-azureava.microsoft.com
 dev-azureava-ai.microsoft.com
 dev-azureava-aisr.microsoft.com
+dev-azureava-aoai.microsoft.com
 dev-azureava-api.microsoft.com
 dev-azureava-bot.microsoft.com
 dev-azureavamgmt-api.microsoft.com
@@ -83947,6 +83983,7 @@ dtmprodnugget.dtmnebula.microsoft.com
 dtplabs.microsoft.com
 dtplabs-staging.microsoft.com
 dtpsites.redmond.corp.microsoft.com
+dtr-f.afr.public-teams.main.ml.teams.microsoft.com
 dtr-f.apac.public-teams.main.ml.teams.microsoft.com
 dtr-f.dogfood.main.ml.teams.microsoft.com
 dtr-f.eur.public-teams.main.ml.teams.microsoft.com
@@ -83954,6 +83991,7 @@ dtr-f.gcc.main.ml.gcc.teams.microsoft.com
 dtr-f.gov01.gcc.main.ml.gcc.teams.microsoft.com
 dtr-f.preview.main.ml.teams.microsoft.com
 dtr-f.public-teams.main.ml.teams.microsoft.com
+dtr-f.sam.public-teams.main.ml.teams.microsoft.com
 dtr-f.samafr.public-teams.main.ml.teams.microsoft.com
 dtr-signing.dogfood.ml.teams.microsoft.com
 dtr-signing.gcc.ml.gcc.teams.microsoft.com
@@ -83976,6 +84014,7 @@ dtr.nam.preview.main.ml.teams.microsoft.com
 dtr.nam.public-teams.main.ml.teams.microsoft.com
 dtr.preview.main.ml.teams.microsoft.com
 dtr.public-teams.main.ml.teams.microsoft.com
+dtr.sam.public-teams.main.ml.teams.microsoft.com
 dtr.samafr.public-teams.main.ml.teams.microsoft.com
 dtr.west.dogfood.main.ml.teams.microsoft.com
 dts-rly-01.datatransfer.microsoft.com
@@ -84479,6 +84518,7 @@ eastus.stt.speech.microsoft.com
 eastus.telephony.convai.speech.microsoft.com
 eastus.tip1.powerquery.microsoft.com
 eastus.tip2.powerquery.microsoft.com
+eastus.tme.supplychainplatform.microsoft.com
 eastus.tts-frontend.speech.microsoft.com
 eastus.tts.speech.microsoft.com
 eastus.us.tip1.flow.microsoft.com
@@ -86261,8 +86301,10 @@ eu.wip.mam.manage-int.microsoft.com
 eu.wip.mam.manage-mig.microsoft.com
 eu.wip.test.mam.manage.microsoft.com
 eu.wip.test.mam.manage-dogfood.microsoft.com
+eu.wss.mam.manage.microsoft.com
 eu.wss.mam.manage-beta.microsoft.com
 eu.wss.mam.manage-selfhost.microsoft.com
+eu.wss.mamservice.manage.microsoft.com
 eu.wss.mamservice.manage-beta.microsoft.com
 eu.wss.mamservice.manage-selfhost.microsoft.com
 eu.wut.smartscreen.microsoft.com
@@ -93116,6 +93158,7 @@ ingest-trd-2tupes0kqptah45dxb.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-2u2r3vbe6nc1jupaxh.z6.dev.kusto.fabric.microsoft.com
 ingest-trd-303a7yab0ny1u58m1r.z3.dev.kusto.fabric.microsoft.com
 ingest-trd-3067nqjz3fenzcx5b2.z0.dev.kusto.fabric.microsoft.com
+ingest-trd-32p5743dd0knt8e09c.z7.dev.kusto.fabric.microsoft.com
 ingest-trd-383y6saddr7hcxbwqg.z9.kusto.fabric.microsoft.com
 ingest-trd-38bcy1419r7fjad2hn.z1.dev.kusto.fabric.microsoft.com
 ingest-trd-3aa9213kp4bxfpr0e1.z2.dev.kusto.fabric.microsoft.com
@@ -93151,6 +93194,7 @@ ingest-trd-5k5h1ysxp18yjh0vs0.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-5r31jrr1029c4kzmz1.z4.kusto.fabric.microsoft.com
 ingest-trd-5ukzzz4m2xsf0668g4.z1.kusto.fabric.microsoft.com
 ingest-trd-5x565qbx0juz4czejs.z7.dev.kusto.fabric.microsoft.com
+ingest-trd-5yb18zefsgtyabyhqc.z0.dev.kusto.fabric.microsoft.com
 ingest-trd-5zr7w6mgnd2xe53pw8.z0.dev.kusto.fabric.microsoft.com
 ingest-trd-633dywxmas4e0t3p38.z1.kusto.fabric.microsoft.com
 ingest-trd-6cpkdy66wpdcvaaa87.z4.kusto.fabric.microsoft.com
@@ -93300,6 +93344,7 @@ ingest-trd-ftspzr15c0yb3y1gx4.z0.dev.kusto.fabric.microsoft.com
 ingest-trd-fw8td5hqb9b3beg907.z4.kusto.fabric.microsoft.com
 ingest-trd-fxbjw35b56es0s8tg4.z5.dev.kusto.fabric.microsoft.com
 ingest-trd-g02qvgc0gntf7383qh.z8.kusto.fabric.microsoft.com
+ingest-trd-g1gdkvzjf0eahevama.z7.dev.kusto.fabric.microsoft.com
 ingest-trd-g3ts2r7hbkkmsk99qf.z9.dev.kusto.fabric.microsoft.com
 ingest-trd-g7pk4qydvnwuz8gnfa.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-g9ptrzv5azf187pj67.z4.dev.kusto.fabric.microsoft.com
@@ -93381,6 +93426,7 @@ ingest-trd-nard13fanfkgpk3xat.z8.dev.kusto.fabric.microsoft.com
 ingest-trd-nc6anuj9fesyptmpm1.z9.dev.kusto.fabric.microsoft.com
 ingest-trd-ncjvuu70njd5149u7q.z9.dev.kusto.fabric.microsoft.com
 ingest-trd-ndesg50sz9snpswaw2.z4.dev.kusto.fabric.microsoft.com
+ingest-trd-ngr6z7zbqwa6616gqp.z7.dev.kusto.fabric.microsoft.com
 ingest-trd-nh448x5wbwt4kpz7nf.z0.dev.kusto.fabric.microsoft.com
 ingest-trd-njrss6gfcypndvsme3.z4.dev.kusto.fabric.microsoft.com
 ingest-trd-nmj84tg0keb0n5xbqm.z6.kusto.fabric.microsoft.com
@@ -93528,6 +93574,7 @@ ingest-trd-xc4ec91ethyhuehzws.z2.kusto.fabric.microsoft.com
 ingest-trd-xd493azu357z8x9ext.z6.dev.kusto.fabric.microsoft.com
 ingest-trd-xeh8w25ap1yb1uay7e.z5.dev.kusto.fabric.microsoft.com
 ingest-trd-xgv46tsqabp2gc1yz8.z1.dev.kusto.fabric.microsoft.com
+ingest-trd-xjckgbdybja07e09cb.z2.kusto.fabric.microsoft.com
 ingest-trd-xkyn2zw9d18925cubb.z0.kusto.fabric.microsoft.com
 ingest-trd-xmb2gqsu0fp41c6a98.z6.dev.kusto.fabric.microsoft.com
 ingest-trd-xqgssq8mex7w37ut1q.z5.kusto.fabric.microsoft.com
@@ -95502,6 +95549,7 @@ kd-pke.nam.preview.keys.ml.teams.microsoft.com
 kd-pke.preview.keys.ml.teams.microsoft.com
 kd-pke.west.dogfood.keys.ml.teams.microsoft.com
 kd.abartkoviak.keys-cloaked.ml.teams.microsoft.com
+kd.afr.public-teams.keys.ml.teams.microsoft.com
 kd.angorozi.keys-cloaked.ml.teams.microsoft.com
 kd.apac.public-teams.keys.ml.teams.microsoft.com
 kd.asosnitski.keys-cloaked.ml.teams.microsoft.com
@@ -98604,6 +98652,7 @@ lusredstban502.network.microsoft.com
 lusredstbanr01.network.microsoft.com
 lusredstcan101.network.microsoft.com
 lusredstcan102.network.microsoft.com
+lusredstcan104.network.microsoft.com
 lusredstcan112.network.microsoft.com
 lusredstcan113.network.microsoft.com
 lusredstcan114.network.microsoft.com
@@ -104011,6 +104060,8 @@ minhydhy3an5ck.network.microsoft.com
 minhydhy3an5cp.network.microsoft.com
 minhydhy3f5b04.network.microsoft.com
 minhydhy3p523b.network.microsoft.com
+minhydhy3p54s1.network.microsoft.com
+minhydhy3p54s2.network.microsoft.com
 mini-mirror-nc.e2elab.a4opacketcore.microsoft.com
 mini-mirror-nc.ncvo1.volab.microsoft.com
 mini-mirror-nc.ncvo2.volab.microsoft.com
@@ -109023,6 +109074,7 @@ o-deployment2.onepdm.microsoft.com
 o-deployment3.onepdm.microsoft.com
 o-onepdm.plmsit.microsoft.com
 o-plm.onepdm.microsoft.com
+o.afr.public-teams.main.ml.teams.microsoft.com
 o.apac.public-teams.main.ml.teams.microsoft.com
 o.au.public-teams.main.ml.teams.microsoft.com
 o.def.dogfood.main.ml.teams.microsoft.com
@@ -109046,6 +109098,7 @@ o.nam.public-teams.main.ml.teams.microsoft.com
 o.officecdn.microsoft.com
 o.preview.main.ml.teams.microsoft.com
 o.public-teams.main.ml.teams.microsoft.com
+o.sam.public-teams.main.ml.teams.microsoft.com
 o.samafr.public-teams.main.ml.teams.microsoft.com
 o.west.dogfood.main.ml.teams.microsoft.com
 o1.cloudsociety.microsoft.com
@@ -109234,8 +109287,10 @@ oc.wip.mam.manage.microsoft.com
 oc.wip.mam.manage-dogfood.microsoft.com
 oc.wip.mam.manage-int.microsoft.com
 oc.wip.mam.manage-mig.microsoft.com
+oc.wss.mam.manage.microsoft.com
 oc.wss.mam.manage-beta.microsoft.com
 oc.wss.mam.manage-selfhost.microsoft.com
+oc.wss.mamservice.manage.microsoft.com
 oc.wss.mamservice.manage-beta.microsoft.com
 oc.wss.mamservice.manage-selfhost.microsoft.com
 oc01.discovery.dm.microsoft.com
@@ -109656,6 +109711,7 @@ office2010beta.microsoft.com
 office365.microsoft.com
 office365.pinpoint.microsoft.com
 office365oauthintune.manage.microsoft.com
+officeagent.microsoft.com
 officeapps.live.comoffice.microsoft.com
 officebeta.microsoft.com
 officebeta.glbdns.microsoft.com
@@ -110895,6 +110951,8 @@ partnercenterservicechina-cy2.microsoft.com
 partnercenterservicechina-hk2.microsoft.com
 partnercenterservicechina-staging.microsoft.com
 partnercenterservicechina-staging.glbdns2.microsoft.com
+partnercentersit.onepdm.microsoft.com
+partnercenteruat.onepdm.microsoft.com
 partnercommerceui.microsoft.com
 partnercommunity.microsoft.com
 partnerconnect.microsoft.com
@@ -110972,11 +111030,14 @@ partnerresource.awasa.microsoft.com
 partnerresource.awasappe.microsoft.com
 partnerresources.microsoft.com
 partners.microsoft.com
+partners-can.mdi.securitycenter.microsoft.com
 partners-prd-as-seas.mdi.securitycenter.microsoft.com
 partners-prd-au-aue.mdi.securitycenter.microsoft.com
 partners-prd-au-aus.mdi.securitycenter.microsoft.com
 partners-prd-eu-neu.mdi.securitycenter.microsoft.com
 partners-prd-eu-weu.mdi.securitycenter.microsoft.com
+partners-prd-eu3-neu3.mdi.securitycenter.microsoft.com
+partners-prd-eu3-weu3.mdi.securitycenter.microsoft.com
 partners-prd-ila-ilc0a.mdi.securitycenter.microsoft.com
 partners-prd-ila-iln0a.mdi.securitycenter.microsoft.com
 partners-prd-ina-inc0a.mdi.securitycenter.microsoft.com
@@ -114852,6 +114913,7 @@ program.serviceshub.microsoft.com
 progressivemedia-mlxite3-static.microsoft.com
 progressivemedia-mlxprod-static.microsoft.com
 project.microsoft.com
+project-delivery-uat.microsoft.com
 project-df.microsoft.com
 project-prod-afd.project.microsoft.com
 project.mcapiprojects-int.commerce.microsoft.com
@@ -118419,6 +118481,7 @@ remotingcluster.aysesen.usw3.dev.pme.onepub.microsoft.com
 remotingcluster.carriezh.usw3.dev.pme.onepub.microsoft.com
 remotingcluster.inbuckle.usw3.dev.pme.onepub.microsoft.com
 remotingcluster.johnmcma.usw3.dev.pme.onepub.microsoft.com
+remotingcluster.shrookwa.usw3.dev.pme.onepub.microsoft.com
 removegetrole.smltenant.microsoft.com
 render-farm.microsoft.com
 render-nodemongo.poc.northcascade.microsoft.com
@@ -121809,8 +121872,10 @@ sea.wip.mam.manage-int.microsoft.com
 sea.wip.mam.manage-mig.microsoft.com
 sea.wip.test.mam.manage.microsoft.com
 sea.wip.test.mam.manage-dogfood.microsoft.com
+sea.wss.mam.manage.microsoft.com
 sea.wss.mam.manage-beta.microsoft.com
 sea.wss.mam.manage-selfhost.microsoft.com
+sea.wss.mamservice.manage.microsoft.com
 sea.wss.mamservice.manage-beta.microsoft.com
 sea.wss.mamservice.manage-selfhost.microsoft.com
 seabilliesgear.co.microsoft.com
@@ -122167,6 +122232,8 @@ sensorapi.prodweu.mdiot.microsoft.com
 sensorapifirstparty.mdiot.microsoft.com
 sensordataplaneapi.int.mdiot.microsoft.com
 sensordataplaneapi.prod-can.mdiot.microsoft.com
+sensordataplaneapi.prodeus.mdiot.microsoft.com
+sensordataplaneapi.prodweu.mdiot.microsoft.com
 sentinel.microsoft.com
 sentinel-ids-int.corp.microsoft.com
 sentinel-ids-pro.corp.microsoft.com
@@ -122326,6 +122393,7 @@ servicefabricclu.aysesen.usw3.dev.pme.onepub.microsoft.com
 servicefabricclu.carriezh.usw3.dev.pme.onepub.microsoft.com
 servicefabricclu.inbuckle.usw3.dev.pme.onepub.microsoft.com
 servicefabricclu.johnmcma.usw3.dev.pme.onepub.microsoft.com
+servicefabricclu.shrookwa.usw3.dev.pme.onepub.microsoft.com
 servicefabricclu.vaselvam.usw3.dev.pme.onepub.microsoft.com
 servicefabricmonitoring.dev.detection.rome.microsoft.com
 servicefabricmonitoring.prod.detection.rome.microsoft.com
@@ -124097,6 +124165,8 @@ smartoverage.microsoft.com
 smartoverage-int.microsoft.com
 smartparking-nonprod.microsoft.com
 smartpartnermarketing.microsoft.com
+smartrepo-mcp.corp.microsoft.com
+smartrepotest-mcp.corp.microsoft.com
 smartscreen.microsoft.com
 smartscreen-bn3p.smartscreen.microsoft.com
 smartscreen-by3p.smartscreen.microsoft.com
@@ -126567,6 +126637,7 @@ sv-sedepot.sourcedepot.corp.microsoft.com
 sv-sedepot.sys-ntgroup.ntdev.microsoft.com
 sv1pslab153.northamerica.corp.microsoft.com
 svc-apollo-uat.microsoft.com
+svc-expense-mgmt-uat.microsoft.com
 svc-vsccm-01a.northamerica.corp.microsoft.com
 svc.aircapitest.signup.microsoft.com
 svc.baseline.partners.extranet.microsoft.com
@@ -130197,6 +130268,7 @@ trd-nard13fanfkgpk3xat.z8.dev.kusto.fabric.microsoft.com
 trd-nc6anuj9fesyptmpm1.z9.dev.kusto.fabric.microsoft.com
 trd-ncjvuu70njd5149u7q.z9.dev.kusto.fabric.microsoft.com
 trd-ndesg50sz9snpswaw2.z4.dev.kusto.fabric.microsoft.com
+trd-ngr6z7zbqwa6616gqp.z7.dev.kusto.fabric.microsoft.com
 trd-nh448x5wbwt4kpz7nf.z0.dev.kusto.fabric.microsoft.com
 trd-nhkdxp652dzc35zc42.z3.dev.kusto.fabric.microsoft.com
 trd-njrss6gfcypndvsme3.z4.dev.kusto.fabric.microsoft.com
@@ -130328,6 +130400,7 @@ trd-xcaqyn13rhmanzza7y.z2.kusto.fabric.microsoft.com
 trd-xd493azu357z8x9ext.z6.dev.kusto.fabric.microsoft.com
 trd-xgv46tsqabp2gc1yz8.z1.dev.kusto.fabric.microsoft.com
 trd-xj5sxuw0ng660p6nhe.z1.dev.kusto.fabric.microsoft.com
+trd-xjckgbdybja07e09cb.z2.kusto.fabric.microsoft.com
 trd-xqgssq8mex7w37ut1q.z5.kusto.fabric.microsoft.com
 trd-xy701hk42zuqmvt4gt.z7.dev.kusto.fabric.microsoft.com
 trd-y2y27t1fffr9r3thnz.z9.kusto.fabric.microsoft.com
@@ -131379,9 +131452,11 @@ us.wip.mam.manage-int.microsoft.com
 us.wip.mam.manage-mig.microsoft.com
 us.wip.test.mam.manage.microsoft.com
 us.wip.test.mam.manage-dogfood.microsoft.com
+us.wss.mam.manage.microsoft.com
 us.wss.mam.manage-beta.microsoft.com
 us.wss.mam.manage-dogfood.microsoft.com
 us.wss.mam.manage-selfhost.microsoft.com
+us.wss.mamservice.manage.microsoft.com
 us.wss.mamservice.manage-beta.microsoft.com
 us.wss.mamservice.manage-selfhost.microsoft.com
 us1.office2010beta.microsoft.com

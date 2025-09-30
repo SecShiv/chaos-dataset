@@ -36,6 +36,7 @@
 *.dev.trustedproxy.atlassian.com
 *.developer.atlassian.com
 *.devenv.atlassian.com
+*.devsphere.tools.atlassian.com
 *.devsphere.tools.stg.atlassian.com
 *.druid.ap-northeast-2.prod.data.internal.atlassian.com
 *.druid.ap-southeast-1.prod.data.internal.atlassian.com
@@ -81,6 +82,7 @@
 *.socrates.atlassian.com
 *.staging.dea.atlassian.com
 *.staging.vault.internal.atlassian.com
+*.status.atlassian.com
 *.status.staging.atlassian.com
 *.stg.atlassian.com
 *.stg.cdn-origin.atlassian.com
@@ -816,3 +818,7 @@ www.test-clientauth.atlassian.com
 www.university.atlassian.com
 www.use1a-veeam01.office.atlassian.com
 www.vpn-apse2-dr-stg.atlassian.com
+www.vpn-apse2-stg.atlassian.com
+www.wiki.mailman.atlassian.com
+xid.atlassian.com
+xp.atlassian.com

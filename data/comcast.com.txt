@@ -139,8 +139,10 @@
 *.bsd-ui-docs-dev.np.digital.business.comcast.com
 *.bsd-ui-docs-int.np.digital.business.comcast.com
 *.bsd-ui-docs-pqa.np.digital.business.comcast.com
+*.bsd-ui-docs-prod-va.digital.business.comcast.com
 *.bsd-ui-docs-prod-va.np.digital.business.comcast.com
 *.bsd-ui-docs-qa.np.digital.business.comcast.com
+*.bsd-ui-docs-stg-va.np.digital.business.comcast.com
 *.bsd-user-registration-ui-dev.np.digital.business.comcast.com
 *.bsd-user-registration-ui-int.np.digital.business.comcast.com
 *.bsd-user-registration-ui-pqa.np.digital.business.comcast.com
@@ -830,8 +832,10 @@
 *.or.bsd-ui-docs-dev.np.digital.business.comcast.com
 *.or.bsd-ui-docs-int.np.digital.business.comcast.com
 *.or.bsd-ui-docs-pqa.np.digital.business.comcast.com
+*.or.bsd-ui-docs-prod-va.digital.business.comcast.com
 *.or.bsd-ui-docs-prod-va.np.digital.business.comcast.com
 *.or.bsd-ui-docs-qa.np.digital.business.comcast.com
+*.or.bsd-ui-docs-stg-va.np.digital.business.comcast.com
 *.or.bsd-user-registration-ui-dev.np.digital.business.comcast.com
 *.or.bsd-user-registration-ui-int.np.digital.business.comcast.com
 *.or.bsd-user-registration-ui-pqa.np.digital.business.comcast.com
@@ -2773,8 +2777,10 @@
 *.va.bsd-ui-docs-dev.np.digital.business.comcast.com
 *.va.bsd-ui-docs-int.np.digital.business.comcast.com
 *.va.bsd-ui-docs-pqa.np.digital.business.comcast.com
+*.va.bsd-ui-docs-prod-va.digital.business.comcast.com
 *.va.bsd-ui-docs-prod-va.np.digital.business.comcast.com
 *.va.bsd-ui-docs-qa.np.digital.business.comcast.com
+*.va.bsd-ui-docs-stg-va.np.digital.business.comcast.com
 *.va.bsd-user-registration-ui-dev.np.digital.business.comcast.com
 *.va.bsd-user-registration-ui-int.np.digital.business.comcast.com
 *.va.bsd-user-registration-ui-pqa.np.digital.business.comcast.com
@@ -9108,8 +9114,10 @@ bsd-udeploy.gslb2.comcast.com
 bsd-ui-docs-dev.np.digital.business.comcast.com
 bsd-ui-docs-int.np.digital.business.comcast.com
 bsd-ui-docs-pqa.np.digital.business.comcast.com
+bsd-ui-docs-prod-va.digital.business.comcast.com
 bsd-ui-docs-prod-va.np.digital.business.comcast.com
 bsd-ui-docs-qa.np.digital.business.comcast.com
+bsd-ui-docs-stg-va.np.digital.business.comcast.com
 bsd-user-registration-ui-dev.np.digital.business.comcast.com
 bsd-user-registration-ui-int.np.digital.business.comcast.com
 bsd-user-registration-ui-pqa.np.digital.business.comcast.com
@@ -23586,6 +23594,10 @@ farside-portal-ho.ots.comcast.com
 farside-portal-no.ots.comcast.com
 farside-portal-staging.ots.comcast.com
 farside-portal.ots.comcast.com
+farside-sandbox-sta-as.ots.comcast.com
+farside-sandbox-sta-ho.ots.comcast.com
+farside-sandbox-sta-no.ots.comcast.com
+farside-sandbox-sta.ots.comcast.com
 farside-staging-as.ots.comcast.com
 farside-staging-ho.ots.comcast.com
 farside-staging-no.ots.comcast.com
@@ -34932,6 +34944,9 @@ jbm-scl-yocto-build-008m.scl.svic.comcast.com
 jbm-scl-yocto-build-009m.scl.svic.comcast.com
 jbm-scl-yocto-build-010-200-10-11m.scl.svic.comcast.com
 jbm-scl-yocto-build-010m.scl.svic.comcast.com
+jbm-scl-yocto-build-011m.scl.svic.comcast.com
+jbm-scl-yocto-build-012m.scl.svic.comcast.com
+jbm-scl-yocto-build-013m.scl.svic.comcast.com
 jbm-scl-yocto-build-014m.scl.svic.comcast.com
 jbm-scl-yocto-build-015m.scl.svic.comcast.com
 jbm-scl-yocto-build-016m.scl.svic.comcast.com
@@ -40122,6 +40137,7 @@ nagios-po-1p.cable.comcast.com
 naipeng.cable.comcast.com
 nameboard-central.cable.comcast.com
 namespacehandling.comcast.com
+nametest.comcast.com
 nami.comcast.com
 nampo_old.cable.comcast.com
 nantucketveris01.cable.comcast.com
@@ -40767,6 +40783,8 @@ nedrs02.cable.comcast.com
 nedrs03.cable.comcast.com
 nedrtx-po-1p.cable.comcast.com
 nedsmbresetvideos.cable.comcast.com
+nedsochvalpha.cable.comcast.com
+nedsochvca.cable.comcast.com
 nedsp.cable.comcast.com
 nedspcluster1.cable.comcast.com
 nedsplow.cable.comcast.com
@@ -59962,6 +59980,7 @@ testing100.comcast.com
 testing2.comcast.com
 testing2.scl.svic.comcast.com
 testing200.comcast.com
+testing29.comcast.com
 testing300.comcast.com
 testing789.comcast.com
 testingcvp3.comcast.com
@@ -60105,6 +60124,7 @@ tfsshr.comcast.com
 tfsshr.cable.comcast.com
 tfsshr.g.comcast.com
 thanos-sidecar.dev.us-west-2.janus.comcast.com
+thanos.janus-central-obs-test.janus.comcast.com
 thegap.xd.comcast.com
 theneighborhood.cable.comcast.com
 thenewarkcenter.cable.comcast.com
@@ -66237,6 +66257,7 @@ wdctst22-po-1d.cable.comcast.com
 wdctst6-ho-1d.cable.comcast.com
 wdctst9-ho-1d.cable.comcast.com
 wdctst9-ho-3d.cable.comcast.com
+wdctst9-po-2d.cable.comcast.com
 wdcvdcnsx-ho-1.cable.comcast.com
 wdcvdcnsxmg-ho-1.cable.comcast.com
 wdcvdcnsxmg-ho-2.cable.comcast.com

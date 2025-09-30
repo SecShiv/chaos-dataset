@@ -457,6 +457,7 @@
 *.cl1-default-lb.epm-iass-anthos-adpt.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-aop.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-auto.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-iass-anthos-blng.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-bsrv.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-bsrv.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-bstg.eu.gcp.cloudapp.epam.com
@@ -705,6 +706,7 @@
 *.dataheart.app.epam.com
 *.datahub.epam.com
 *.default-lb-epm-paas-ant-aws-dev.epm-paas-ant-aws-dev.eu.aws.epm-paas.projects.epam.com
+*.default-lb-epm-paas-ant-aws-np.epm-paas-ant-aws-np.eu.aws.cloudapp.epam.com
 *.default-lb-epm-paas-anthos-eks.epm-paas-anthos-eks.eu.aws.epm-paas.projects.epam.com
 *.default-lb.epm-paas-anthos.eu.aws.epm-paas.projects.epam.com
 *.default.wmpr.test.wm.lab.epam.com
@@ -2035,7 +2037,9 @@ apps.update-libs-alex.mdtu-ddm.projects.epam.com
 apps.update-to-410.mdtu-ddm.projects.epam.com
 apps.vmtest.mdtu-ddm.projects.epam.com
 appstore.epam.com
+aqua-external.epm-tmc.projects.epam.com
 aqua-learn.epm-tmc.projects.epam.com
+aqua-mentoring.epm-tmc.projects.epam.com
 arch.epm-ppa.projects.epam.com
 argo-dev.epm-aidp.projects.epam.com
 argo-workflows.llm.lab.epam.com
@@ -2188,8 +2192,12 @@ bistag.epm-iass.projects.epam.com
 bitest.epm-iass.projects.epam.com
 blackbook.epam.com
 bnb.epam.com
+bobr-bo.epm-tmc.projects.epam.com
+bobr-external.epm-tmc.projects.epam.com
 bobr-learn.epm-tmc.projects.epam.com
+bonaqua-external.epm-tmc.projects.epam.com
 bonaqua-learn.epm-tmc.projects.epam.com
+bonaqua-mentoring.epm-tmc.projects.epam.com
 bookinfo.fd.cluster7.eu.azure.epm-paas.projects.epam.com
 booking-stage.lab.epam.com
 booking.lab.epam.com
@@ -3667,6 +3675,7 @@ eu-payroll.ocr.epam.com
 eu.artifactory.epam.com
 eu.gcp.time.epam.com
 eu.git.epam.com
+eu.glb-stg-people.epm-dce.projects.epam.com
 eu.staffing.stage.epam.com
 eu.stage.time.epam.com
 eu.stg-people.epm-dce.projects.epam.com
@@ -3674,7 +3683,10 @@ euc-stage-web.epm-uspp.projects.epam.com
 eureka-tst.alib-ces.projects.epam.com
 eureka.alib-ces.projects.epam.com
 europa.epm-dce.projects.epam.com
+eva-bo.epm-tmc.projects.epam.com
+eva-external.epm-tmc.projects.epam.com
 eva-learn.epm-tmc.projects.epam.com
+eva-mentoring.epm-tmc.projects.epam.com
 eva.epm-dce.projects.epam.com
 evbyminsa0012.epam.com
 evbyminsa0022.minsk.epam.com
@@ -4189,6 +4201,8 @@ gateway.aws.rcom-chtr.projects.epam.com
 gcp-cloud-run.lab.epam.com
 gcp-lilac-003-university.epm-mooc.projects.epam.com
 gcp-lilac-003.epm-mooc.projects.epam.com
+gcp-palm-010-alpha.epm-mooc.projects.epam.com
+gcp-palm-010.epm-mooc.projects.epam.com
 gcp-palm-qa-alpha.epm-mooc.projects.epam.com
 gcp-palm-qa.epm-mooc.projects.epam.com
 gcp.time.epam.com
@@ -4761,6 +4775,7 @@ llm-research-app-genaihub-dev.llm.lab.epam.com
 llm-research-app-genaihub-feature.llm.lab.epam.com
 llm-research-app-genaihub-prod.llm.lab.epam.com
 llm-research-app-genaihub-uat.llm.lab.epam.com
+llm-research-app-marsdemo-dev.llm.lab.epam.com
 llm-research-app-projectsearch-dev.llm.lab.epam.com
 llm-research-app-projectsearch-prod.llm.lab.epam.com
 llm-research-app-resume-dev.llm.lab.epam.com
@@ -4810,6 +4825,7 @@ logs.qa.supernova.telescope.epam.com
 ls-poc.sche-conv.projects.epam.com
 ls01-dev.sche-conv.projects.epam.com
 lsedemo.epam.com
+lubov-bo.epm-tmc.projects.epam.com
 lumi.perf.delivery.epam.com
 lunch-kh.lab.epam.com
 lvivgw.epam.com
@@ -5184,7 +5200,11 @@ mytestsite.epam.com
 myudin1.canvas.jaj-can.projects.epam.com
 n1.epm-rppl.projects.epam.com
 n1.pilot.dgelprivate.projects.epam.com
+n8n.llm.lab.epam.com
+nadezda-bo.epm-tmc.projects.epam.com
+nadezda-external.epm-tmc.projects.epam.com
 nadezda-learn.epm-tmc.projects.epam.com
+nadezda-mentoring.epm-tmc.projects.epam.com
 nafs.lab.epam.com
 nats-codemie.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
 nats-preview-codemie.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
@@ -6050,6 +6070,7 @@ qa-api.pipeline.epm-for.projects.epam.com
 qa-api.trin-edt2.projects.epam.com
 qa-authoring.hca.azure.epmc-stc.projects.epam.com
 qa-bizfx.hca.azure.epmc-stc.projects.epam.com
+qa-bo.epm-tmc.projects.epam.com
 qa-bt-2105-b2b-spa.aws-test-env.pypl-hbfc.projects.epam.com
 qa-bt-2105-b2c-spa.aws-test-env.pypl-hbfc.projects.epam.com
 qa-bt-2105-b2c.aws-test-env.pypl-hbfc.projects.epam.com
@@ -6059,10 +6080,12 @@ qa-cm.hca.azure.epmc-stc.projects.epam.com
 qa-competency.epm-tmc.projects.epam.com
 qa-earth-hybris.ctco-ecom.projects.epam.com
 qa-epam.epm-dce.projects.epam.com
+qa-external.epm-tmc.projects.epam.com
 qa-feedback.epm-rvm.projects.epam.com
 qa-identity.hca.azure.epmc-stc.projects.epam.com
 qa-integration.epm-hire.projects.epam.com
 qa-learn.epm-tmc.projects.epam.com
+qa-mentoring.epm-tmc.projects.epam.com
 qa-minions.hca.azure.epmc-stc.projects.epam.com
 qa-next.carbon.lab.epam.com
 qa-okr.epm-dce.projects.epam.com
@@ -6302,6 +6325,7 @@ rustam.debug.okr-msteams.epm-dmtm.projects.epam.com
 s3.baremetal-m24.gcp.gnrg-osdu.projects.epam.com
 s3.bm22.gcp.gnrg-osdu.projects.epam.com
 s3.core-dev.gcp.gnrg-osdu.projects.epam.com
+s3.demo.slbn-oaap.projects.epam.com
 s3.m23.gcp.gnrg-osdu.projects.epam.com
 s3.ofp.gcp.gnrg-osdu.projects.epam.com
 s3.ref.gcp.gnrg-osdu.projects.epam.com
@@ -7098,12 +7122,17 @@ vcn.qa.supernova.telescope.epam.com
 vegas.epam.com
 velcom.minsk.epam.com
 venus.epm-dce.projects.epam.com
+vera-bo.epm-tmc.projects.epam.com
 vera-learn.epm-tmc.projects.epam.com
+vera-mentoring.epm-tmc.projects.epam.com
 vercel.cd.aqm.hca.azure.epmc-stc.projects.epam.com
 vercel.int-aqm.hca.azure.epmc-stc.projects.epam.com
 vercel.qa-aqm.hca.azure.epmc-stc.projects.epam.com
 verdaccio.sche-conv.projects.epam.com
+victoria-bo.epm-tmc.projects.epam.com
+victoria-external.epm-tmc.projects.epam.com
 victoria-learn.epm-tmc.projects.epam.com
+victoria-mentoring.epm-tmc.projects.epam.com
 video.epam.com
 video-api-dev.future.lab.epam.com
 video-indexing-api-demo.future.lab.epam.com

@@ -24,6 +24,7 @@
 *.dlp.manage.trellix.com
 *.dlp.preprod.manage.trellix.com
 *.etp.trellix.com
+*.europewest10.app.xdr.trellix.com
 *.europewest10.appcom.xdr.trellix.com
 *.fenet.trellix.com
 *.gamma.xconsole.trellix.com
@@ -118,6 +119,7 @@ api.soc.us-west-2.trellix.com
 api.staging.mdr.trellix.com
 api.vnext.xdrint.trellix.com
 api.vnext.xdrpreeks.trellix.com
+api.vpn.mdr.trellix.com
 api.vpn.staging.mdr.trellix.com
 api.xdrint.trellix.com
 api.xdrpreeks.trellix.com
@@ -570,6 +572,7 @@ prod.sap.trellix.com
 prod.urlcat.amq.trellix.com
 prod.xconsole.trellix.com
 production.jenkins.app.xdr.trellix.com
+prometheus.vpn.mdr.trellix.com
 prometheus.vpn.staging.mdr.trellix.com
 protex-stage.corp.trellix.com
 protex.corp.trellix.com
@@ -1103,5 +1106,3 @@ xdrprd-usw2.xdr.trellix.com
 xdrpreeks.trellix.com
 xdrqa.qa.xdr.trellix.com
 xdrsre.dev.xdr.trellix.com
-xdrstg.staging.xdr.trellix.com
-xpandctf.trellix.com

@@ -269,6 +269,8 @@
 *.crce185.ap-seast-1-1.ec2.cloud.redislabs.com
 *.crce202.eu-west-3-1.ec2.cloud.redislabs.com
 *.crce217.ap-south-1-1.ec2.cloud.redislabs.com
+*.crce220.us-east-1-4.ec2.cloud.redislabs.com
+*.crce222.me-south-1-1.ec2.cloud.redislabs.com
 *.cs.redislabs.com
 *.cto.redislabs.com
 *.dev.redislabs.com
@@ -497,6 +499,8 @@
 *.internal.crce185.ap-seast-1-1.ec2.cloud.redislabs.com
 *.internal.crce202.eu-west-3-1.ec2.cloud.redislabs.com
 *.internal.crce217.ap-south-1-1.ec2.cloud.redislabs.com
+*.internal.crce220.us-east-1-4.ec2.cloud.redislabs.com
+*.internal.crce222.me-south-1-1.ec2.cloud.redislabs.com
 *.internal.eranctest6.azure.cloud.redislabs.com
 *.internal.erantest.us-central-1.gce.cloud.redislabs.com
 *.internal.erantest12.us-east-1-3.ec2.cloud.redislabs.com
@@ -1189,6 +1193,8 @@ crce182.ap-south-1-1.ec2.cloud.redislabs.com
 crce185.ap-seast-1-1.ec2.cloud.redislabs.com
 crce202.eu-west-3-1.ec2.cloud.redislabs.com
 crce217.ap-south-1-1.ec2.cloud.redislabs.com
+crce220.us-east-1-4.ec2.cloud.redislabs.com
+crce222.me-south-1-1.ec2.cloud.redislabs.com
 cs.redislabs.com
 csapi-dev.cs.redislabs.com
 csapi.cs.redislabs.com
@@ -1558,6 +1564,7 @@ petar-test.ui.dev.redislabs.com
 platform-hub-staging.dev.redislabs.com
 platform-hub.dev.redislabs.com
 polarity-security.redislabs.com
+poller-ci-e39920e5881b8a110680042cac0ed1edb3fea557.dev-prometheus.dev.redislabs.com
 pricing.demo.redislabs.com
 primary.cs.redislabs.com
 prom.monitoring.flo.demo.redislabs.com
@@ -1628,6 +1635,7 @@ slorello.grafana.demo.redislabs.com
 sm-das.dev.redislabs.com
 sm-envs.cloud-utils.sm-qa.qa.redislabs.com
 sm-vault.dev.redislabs.com
+solomon.platform.dev.redislabs.com
 solomon.staging.platform.dev.redislabs.com
 sonarqube.dev.redislabs.com
 sonarqube.dev-prometheus.dev.redislabs.com

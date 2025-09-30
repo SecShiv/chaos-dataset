@@ -75820,6 +75820,7 @@ agenciatributaria.zoom.us
 agrilife.zoom.us
 agsindia.zoom.us
 agu.zoom.us
+ai.zoom.us
 ai-agent.zoom.us
 ai-console-dg01-aws-us-east-1.ai.cloud.zoom.us
 ai-enginewfm.zoom.us
@@ -75828,6 +75829,7 @@ ai-enginewfm-va2.zoom.us
 ai-experience.zoom.us
 aiaa.zoom.us
 aibs.zoom.us
+aic.zoom.us
 aicgateway-dg01-aws-us-east-1.cloud.zoom.us
 aicgateway-dg01-aws-us-east-2.cloud.zoom.us
 aicgateway-go-aws-us-east-1.ai.cloud.zoom.us
@@ -77458,6 +77460,7 @@ ca01-nws-billaug-op.zoom.us
 ca01-nws-billing-op.zoom.us
 ca01-nws-billing-op-va2.zoom.us
 ca01-nws-prometheus.zoom.us
+ca01-openapi-graphql.zoom.us
 ca01-report.zoom.us
 ca01-report-va1.zoom.us
 ca01-s2-xmpprpc.zoom.us
@@ -77486,6 +77489,7 @@ ca01-xmpp-va1-i.zoom.us
 ca01-xmpp-va1-internal.zoom.us
 ca01-xmpp-va1-internal-i.zoom.us
 ca01ai3lb.zoom.us
+ca01aic.zoom.us
 ca01alertpbx1.zoom.us
 ca01applications.zoom.us
 ca01ark.zoom.us
@@ -79824,6 +79828,7 @@ eu01-nws-billaug-op.zoom.us
 eu01-nws-billing-op.zoom.us
 eu01-nws-billing-op-va2.zoom.us
 eu01-nws-prometheus.zoom.us
+eu01-openapi-graphql.zoom.us
 eu01-realtime-euwest1-i.zoom.us
 eu01-realtime-euwest1-internal-i.zoom.us
 eu01-realtime-i.zoom.us
@@ -84313,6 +84318,7 @@ hqasr-worker-english-8-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-9-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-streaming-0-prod-colo-nrt1.cloud.zoom.us
 hqasr-worker-english-streaming-0-prod-colo-sin1.cloud.zoom.us
+hqasr-worker-english-streaming-1-prod-colo-nrt1.cloud.zoom.us
 hqasr-worker-english-streaming-3-prod-colo-fra1.cloud.zoom.us
 hqasr-worker-english-streaming-7-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-streaming-8-prod-colo-sjc2.cloud.zoom.us
@@ -88645,6 +88651,7 @@ smart-chat-summary-us-east-2-dogfood.cloud.zoom.us
 smart-chat-summary-us-east-2.cloud.zoom.us
 smartbear.zoom.us
 smartchatsummary-dg01-aws-us-east-2.cloud.zoom.us
+smartchatsummary-go-aws-us-east-1.cloud.zoom.us
 smartchatsummary-go-aws-us-east-2.ai.cloud.zoom.us
 smartchatsummary-prod-aws-ap-northeast-1.ai.cloud.zoom.us
 smartchatsummary-prod-aws-ap-south-1.ai.cloud.zoom.us
@@ -89593,8 +89600,10 @@ uk01-zcxp-apisix-va.zoom.us
 uk01-zcxp-apisix-va-i.zoom.us
 uk01-zcxp-apisix-va2.zoom.us
 uk01-zcxp-apisix-va2-i.zoom.us
+uk01apm-api.zoom.us
 uk01bmt.zoom.us
 uk01bot.zoom.us
+uk01calendarapi.zoom.us
 uk01command.zoom.us
 uk01commonconsumer.zoom.us
 uk01commonconsumer-va1.zoom.us
@@ -89605,16 +89614,34 @@ uk01contactservice-va.zoom.us
 uk01contactservice-va-internal.zoom.us
 uk01contactservice-va2.zoom.us
 uk01integrations.zoom.us
+uk01kiwi.zoom.us
+uk01logsystem.zoom.us
 uk01migration.zoom.us
 uk01migration-internal.zoom.us
+uk01nws.zoom.us
+uk01partner-billing.zoom.us
 uk01pbx.zoom.us
 uk01pbx-va-ucs-nginx1.zoom.us
 uk01pbx-va-ucs-nginx2.zoom.us
 uk01pbx-va-ucs-nginx3.zoom.us
 uk01pbx-va2.zoom.us
+uk01pmcapi.zoom.us
+uk01swcc.zoom.us
+uk01swcc-va1.zoom.us
+uk01swcc-va2.zoom.us
+uk01uiproxy.zoom.us
+uk01va1calendarapi.zoom.us
 uk01va1nws-auth.zoom.us
+uk01va2calendarapi.zoom.us
 uk01va2command.zoom.us
 uk01va2nws-auth.zoom.us
+uk01va2uiproxy.zoom.us
+uk01va2zdm-prov.zoom.us
+uk01wsgateway-va1.zoom.us
+uk01xmppapi.zoom.us
+uk01zcp-zoomedge.zoom.us
+uk01zcpd-d.zoom.us
+uk01zdm-prov.zoom.us
 uk01zkm.zoom.us
 uk01zpalertmanager.zoom.us
 uk01zpprom.zoom.us
@@ -95434,6 +95461,7 @@ us06-nws-billing-op-oh1.zoom.us
 us06-nws-billing-op-va2.zoom.us
 us06-nws-prometheus.zoom.us
 us06-oh1-nws-prometheus.zoom.us
+us06-openapi-graphql.zoom.us
 us06-report.zoom.us
 us06-report-oh1.zoom.us
 us06-report-va1.zoom.us
@@ -95579,6 +95607,7 @@ us07-nws-prometheus.zoom.us
 us07-oh1-nws-prometheus.zoom.us
 us07-oh1eventssingle.zoom.us
 us07-openam.zoom.us
+us07-openapi-graphql.zoom.us
 us07-report.zoom.us
 us07-report-oh1.zoom.us
 us07-report-va1.zoom.us
@@ -96502,6 +96531,7 @@ zam-example-app-p-prod-aw1-mejeddah1-ai.zoom.us
 zam-example-app-p-prod-aw1-meriyadh1-ai.zoom.us
 zam-example-app-p-prod-aw1-mxqueretaro1-ai.zoom.us
 zam-example-app-p-prod-aw1-nrt1-common.zoom.us
+zam-example-app-p-prod-aw1-saeast1-ai.zoom.us
 zam-example-app-p-prod-aw1-sin1-common.zoom.us
 zam-example-app-p-prod-aw1-sjc1-ai.zoom.us
 zam-example-app-p-prod-aw1-sjc1-pbx.zoom.us
@@ -96532,6 +96562,7 @@ zam-example-app-p-prod-eu01-va2-web.zoom.us
 zam-example-app-p-prod-eu01-va2-webok.zoom.us
 zam-example-app-p-prod-eu02-eucentral1-ai.zoom.us
 zam-example-app-p-prod-eu02-va1-web.zoom.us
+zam-example-app-p-prod-go-iad1-ai.zoom.us
 zam-example-app-p-prod-go-oh1-ai.zoom.us
 zam-example-app-p-prod-go-oh1-nws.zoom.us
 zam-example-app-p-prod-go-oh1-web.zoom.us
@@ -111329,6 +111360,7 @@ zt-chinese-high-usage-0-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-chinese-high-usage-0-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-cs-en-0-go-aws-us-east-1.ai.cloud.zoom.us
 zt-cs-en-0-prod-aws-us-east-1.ai.cloud.zoom.us
+zt-cs-en-0-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-cy-en-0-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-cy-en-0-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-da-no-sv-en-0-go-aws-us-east-1.ai.cloud.zoom.us

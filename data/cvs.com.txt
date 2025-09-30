@@ -261,6 +261,7 @@ amber-rxmod-pat.devrxc.cvs.com
 amber-rxmod-patient.devrxc.cvs.com
 amber-rxmod.devrxc.cvs.com
 amber-rxper.devrxc.cvs.com
+amber-specialty.devrxc.cvs.com
 amber-spm.devrxc.cvs.com
 amber-spmnavigator.devrxc.cvs.com
 amber-spmportal.devrxc.cvs.com
@@ -920,6 +921,7 @@ corpadm-web-rxc-ri.cvs.com
 corpsvn.cvs.com
 cosmetics-grid-api-stg.cvs.com
 cosmetics-grid-stg.cvs.com
+costoptimization-web.cvs.com
 costvantage.cvs.com
 costvantage.mig.cdn.cvs.com
 cpe.docs.cvs.com
@@ -937,6 +939,7 @@ cream-callcenter.devrxc.cvs.com
 cream-callcenterpcc.devrxc.cvs.com
 cream-caremark.devrxc.cvs.com
 cream-chainlauncher.devrxc.cvs.com
+cream-cmm.devextrxc.cvs.com
 cream-crm-esl.devrxc.cvs.com
 cream-crossdc-rxcdevaz.cvs.com
 cream-crossdc-rxcdevri.cvs.com
@@ -983,8 +986,14 @@ cream-rxc-rphai.devrxc.cvs.com
 cream-rxcreports-cache-rxcdevaz.cvs.com
 cream-rxcreports-cache-rxcdevri.cvs.com
 cream-rxcreports.devrxc.cvs.com
+cream-rxcsigllm.devrxc.cvs.com
+cream-rxdw.devrxc.cvs.com
 cream-rxhub-esl-intake.devrxc.cvs.com
+cream-rxmod-drug.devrxc.cvs.com
+cream-rxmod-patient.devrxc.cvs.com
+cream-rxmod.devrxc.cvs.com
 cream-rxper.devrxc.cvs.com
+cream-specialty.devrxc.cvs.com
 cream-spm.devrxc.cvs.com
 cream-store-opportunity.devrxc.cvs.com
 cream-store-rxdw.devrxc.cvs.com
@@ -999,6 +1008,7 @@ cream-surescriptsepcs-intake.devextrxc.cvs.com
 cream-surescritpscvs-intake.devextrxc.cvs.com
 cream-ums-esl.devrxc.cvs.com
 cream-vcs-esl.devrxc.cvs.com
+cream-vcs.devrxc.cvs.com
 cream-wenocvs-intake.devextrxc.cvs.com
 cream-west-esl.devrxc.cvs.com
 creators.cvs.com
@@ -1546,6 +1556,9 @@ digital-fs-prod-summary-dev.corp.cvs.com
 digital-fs-prod-summary-prod.corp.cvs.com
 digital-fs-prod-summary.corp.cvs.com
 digital-fs-shelf-optimizer-dev.corp.cvs.com
+digital-fs-trending-products-kpis-dev.corp.cvs.com
+digital-fs-trending-products-kpis-prod.corp.cvs.com
+digital-fs-trending-products-kpis.corp.cvs.com
 digital-fs-ui-uat.cvs.com
 digital-fs-ymal-dev.corp.cvs.com
 digital-fs-ymal-prod.corp.cvs.com
@@ -2384,6 +2397,7 @@ fuchsia-rxmod-drug.devrxc.cvs.com
 fuchsia-rxmod-patient.devrxc.cvs.com
 fuchsia-rxmod.devrxc.cvs.com
 fuchsia-rxper.devrxc.cvs.com
+fuchsia-specialty.devrxc.cvs.com
 fuchsia-spm.devrxc.cvs.com
 fuchsia-spmnavigator.devrxc.cvs.com
 fuchsia-spmportal.devrxc.cvs.com
@@ -2877,6 +2891,7 @@ indigo-rxmod-pat.devrxc.cvs.com
 indigo-rxmod-patient.devrxc.cvs.com
 indigo-rxmod.devrxc.cvs.com
 indigo-rxper.devrxc.cvs.com
+indigo-specialty.devrxc.cvs.com
 indigo-spm.devrxc.cvs.com
 indigo-sprx-esl-rphai.devrxc.cvs.com
 indigo-store-opportunity.devrxc.cvs.com
@@ -3282,6 +3297,7 @@ ivory-rxmod-drug.devrxc.cvs.com
 ivory-rxmod-patient.devrxc.cvs.com
 ivory-rxmod.devrxc.cvs.com
 ivory-rxper.devrxc.cvs.com
+ivory-specialty.devrxc.cvs.com
 ivory-spm.devrxc.cvs.com
 ivory-sprx-esl-rphai.devrxc.cvs.com
 ivory-sprx-rphai.devrxc.cvs.com
@@ -4136,6 +4152,7 @@ orange-rxmod-patient.devrxc.cvs.com
 orange-rxmod.devrxc.cvs.com
 orange-rxp.cvs.com
 orange-rxper.devrxc.cvs.com
+orange-specialty.devrxc.cvs.com
 orange-spm.devrxc.cvs.com
 orange-spmnavigator.devrxc.cvs.com
 orange-spmportal.devrxc.cvs.com
@@ -4230,6 +4247,7 @@ orchid-rxmod-drug.devrxc.cvs.com
 orchid-rxmod-patient.devrxc.cvs.com
 orchid-rxmod.devrxc.cvs.com
 orchid-rxper.devrxc.cvs.com
+orchid-specialty.devrxc.cvs.com
 orchid-spm.devrxc.cvs.com
 orchid-sprx-esl-rphai.devrxc.cvs.com
 orchid-sprx-rphai.devrxc.cvs.com
@@ -4308,6 +4326,7 @@ payerrelations.cvs.com
 payerrelationspreprod.cvs.com
 payerrelationsssoqa.cvs.com
 payments.cnpapi.cvs.com
+payor-dev-mlops.corp.cvs.com
 payorsdev-otel.corp.cvs.com
 payorsolutions.cvshealth.mig.cdn.cvs.com
 payorsprod-prometheus.corp.cvs.com
@@ -7073,9 +7092,11 @@ rocm-rt-patientpreferences-service-v2.rocm-wprd.corp.cvs.com
 rocm-rt-patientpreferences-service-v2.rocm.corp.cvs.com
 rocm-rt-patientpreferences-service-v3.rocm-edev.corp.cvs.com
 rocm-rt-patientpreferences-service-v3.rocm-eprd.corp.cvs.com
+rocm-rt-patientpreferences-service-v3.rocm-ept.corp.cvs.com
 rocm-rt-patientpreferences-service-v3.rocm-eqa.corp.cvs.com
 rocm-rt-patientpreferences-service-v3.rocm-euat.corp.cvs.com
 rocm-rt-patientpreferences-service-v3.rocm-wprd.corp.cvs.com
+rocm-rt-patientpreferences-service-v3.rocm-wpt.corp.cvs.com
 rocm-rt-patientpreferences-service-v3.rocm-wuat.corp.cvs.com
 rocm-rt-patientpreferences-service.rocm-cld.corp.cvs.com
 rocm-rt-patientpreferences-service.rocm-edev.corp.cvs.com
@@ -10555,6 +10576,10 @@ rxdw-spm-service.rxdw-wdev.corp.cvs.com
 rxdw-spm-service.rxdw-wprd.corp.cvs.com
 rxdw-spm-service.rxdw-wpt.corp.cvs.com
 rxdw-spm-service.rxdw-wqa.corp.cvs.com
+rxdw-vaccine-record-report-service.rxdw-eprd.corp.cvs.com
+rxdw-vaccine-record-report-service.rxdw-wprd.corp.cvs.com
+rxdw-vaccine-record-request-service.rxdw-eprd.corp.cvs.com
+rxdw-vaccine-record-request-service.rxdw-wprd.corp.cvs.com
 rxdw-vv-ai-db-coordinator.rxdwri-enp1.corp.cvs.com
 rxdw-vv-ai-db-coordinator.rxdwri-eprd1.corp.cvs.com
 rxdw-vv-ai-db-coordinator.rxdwri-ept1.corp.cvs.com
@@ -10912,6 +10937,7 @@ sandbox-api.cvs.com
 sasretail.cvs.com
 sasretaildev.cvs.com
 scai-dc-slotting-qa.corp.cvs.com
+scai-fs-agenticai-api-dev.corp.cvs.com
 scai-grafana.corp.cvs.com
 scai-insighthub-convai-dev.corp.cvs.com
 scai-insighthub-convai-qa.corp.cvs.com
@@ -12164,6 +12190,7 @@ wine-rxmod-drug.devrxc.cvs.com
 wine-rxmod-patient.devrxc.cvs.com
 wine-rxmod.devrxc.cvs.com
 wine-rxper.devrxc.cvs.com
+wine-specialty.devrxc.cvs.com
 wine-spm.devrxc.cvs.com
 wine-sprx-esl-rphai.devrxc.cvs.com
 wine-sprx-rphai.devrxc.cvs.com

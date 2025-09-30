@@ -2547,6 +2547,7 @@ dev-spg.bentley.com
 dev-spg-staging.bentley.com
 dev-spg-staging01.bentley.com
 dev-spidamap.bentley.com
+dev-spidamap-eus.bentley.com
 dev-spidamap-staging.bentley.com
 dev-ssla.bentley.com
 dev-ssla2.bentley.com
@@ -2747,6 +2748,8 @@ dr-cp.bentley.com
 drmp-pw.bentley.com
 drmp-pw-tmp.bentley.com
 drmp-pw-ws.bentley.com
+dtpcad-pw.bentley.com
+dtpcad-pw-ws.bentley.com
 dubedge.bentley.com
 dubintweblync.bentley.com
 dublync.bentley.com
@@ -2767,6 +2770,8 @@ dw-2810-3-certmanager-test.bentley.com
 dw-3110-1-certmanager-test.bentley.com
 dw-alim-local-tmp.bentley.com
 dwapp1.bentley.com
+eacconsult-pw-tmp.bentley.com
+eacconsult-pw-tmp-ws.bentley.com
 eastus.openground.bentley.com
 eatonprojects-pw-tmp.bentley.com
 eatonprojects-pw-tmp-ws.bentley.com
@@ -2827,6 +2832,7 @@ entitlementsearch-weu.bentley.com
 entitlementsearch-weu-staging.bentley.com
 entitlementsearchservice.bentley.com
 entitlementsearchservice-eus2.bentley.com
+entitlementsearchservice-sea.bentley.com
 entitlementsearchservice-weu.bentley.com
 envelope.bentley.com
 envops-dev.aw-cs.bentley.com
@@ -2917,6 +2923,7 @@ fb2-idci.bentley.com
 fdot-pw.bentley.com
 fdot-pw-ws.bentley.com
 featureservice.bentley.com
+featureservice-eus-staging.bentley.com
 featureservice-neu.bentley.com
 featureservice-neu-staging.bentley.com
 featureservice-staging.bentley.com
@@ -3038,6 +3045,7 @@ htm-pw-ws.bentley.com
 huationg-pw.bentley.com
 huationg-pw-tmp.bentley.com
 huationg-pw-ws.bentley.com
+hullcon-pw.bentley.com
 hvdi.aw-au.bentley.com
 hz-pw-tmp.bentley.com
 hz-pw-tmp-ws.bentley.com
@@ -3652,6 +3660,8 @@ notificationscheduler-uks.dev-pwdm.bentley.com
 notificationscheduler-uks.pwdm.bentley.com
 notificationscheduler-uks.qa-pwdm.bentley.com
 notificationscheduler.dev-pwdm.bentley.com
+novartis-pw.bentley.com
+novartis-pw-ws.bentley.com
 ns1.bentley.com
 ns2.bentley.com
 nwave-demo-apm.bentley.com
@@ -3752,6 +3762,8 @@ payloadresolvesvc-staging.bentley.com
 pcsi-grafana-aue.bentley.com
 pcsi-grafana-cac.bentley.com
 pcsi-grafana-eus.bentley.com
+pcsi-grafana-uks.bentley.com
+pcsi-grafana-weu.bentley.com
 pdf-aue.pwdm.bentley.com
 pdf-cac.pwdm.bentley.com
 pdf-eus.dev-pwdm.bentley.com
@@ -4291,7 +4303,10 @@ pw365migration.pwdm.bentley.com
 pw365migration.qa-pwdm.bentley.com
 pw3vm-cert1.bentley.com
 pw8vm-cert1.bentley.com
+pwapi-aue.bentley.com
 pwapi-cac.bentley.com
+pwapi-uks.bentley.com
+pwapi-weu.bentley.com
 pwcm-au-primary.cm.bentley.com
 pwcm-au.cm.bentley.com
 pwcm-hadr-primary.cm.bentley.com
@@ -4313,6 +4328,8 @@ pwelink-staging.bentley.com
 pwfileservice-aue.bentley.com
 pwfileservice-cac.bentley.com
 pwfileservice-eus.bentley.com
+pwfileservice-uks.bentley.com
+pwfileservice-weu.bentley.com
 pwfo04.telecwcm-na.cm.bentley.com
 pwimodelpublishing.bentley.com
 pwimodelpublishing-aue.bentley.com
@@ -4349,6 +4366,8 @@ pwsearch-aue.internal.bentley.com
 pwsearch-cac.bentley.com
 pwsearch-eus.bentley.com
 pwsearch-eus.internal.bentley.com
+pwsearch-uks.bentley.com
+pwsearch-weu.bentley.com
 pwsearch-weu.internal.bentley.com
 pwsearch-wus2.internal.bentley.com
 pwwacinvitationmanager.bentley.com
@@ -5739,6 +5758,7 @@ review-server.itwin.bentley.com
 review-uks-staging.itwin.bentley.com
 review-uks.itwin.bentley.com
 review.itwin.bentley.com
+reviewandcommenting.dev.aw-au.bentley.com
 ribvm-cert1.bentley.com
 rinkerdesign-pw.bentley.com
 rinkerdesign-pw-ws.bentley.com
@@ -5909,6 +5929,7 @@ signingservicerightscompliant.bentley.com
 signingservicerightscompliant-staging.bentley.com
 simplehelp.bentley.com
 simulationhub-developer.bentley.com
+simulationhub-developer-staging.bentley.com
 simulationhub-eus.bentley.com
 simulationhub-eus-staging.bentley.com
 sip.bentley.com
@@ -5927,6 +5948,8 @@ snapshot.uks.bentley.com
 snbi-it.bentley.com
 softwaredownloads.bentley.com
 solutiontypemigration.bentley.com
+solvay-eu1-pw-tmp.bentley.com
+solvay-eu1-pw-tmp-ws.bentley.com
 spapp.bentley.com
 spidamap.bentley.com
 spidamap-staging.bentley.com
@@ -6371,6 +6394,7 @@ www.ims-token-signing.bentley.com
 www.inpun1fwlco01.bentley.com
 www.inpun2fwlco01.bentley.com
 www.itvil1fwlco01.bentley.com
+www.kb.bentley.com
 www.kolprdsba01.bentley.com
 www.lyncedgeint-dublin.bentley.com
 www.lyncedgeint-exton.bentley.com

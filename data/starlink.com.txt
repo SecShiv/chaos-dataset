@@ -9,6 +9,8 @@ accounts-master-api.staging.starlink.com
 accounts-master.beta.starlink.com
 accounts-master.staging.starlink.com
 admin.starlink.com
+admin.b.starlink.com
+admin.b.p.starlink.com
 admin.beta.starlink.com
 admin.gcp.beta.starlink.com
 admin.gcp.p.starlink.com
@@ -157,6 +159,7 @@ report.hcaptcha.staging.starlink.com
 sentry.starlink.com
 sentry.beta.starlink.com
 sentry.gcp.beta.starlink.com
+sentry.p.starlink.com
 sentry.staging.starlink.com
 setup.starlink.com
 setup.beta.starlink.com
@@ -194,6 +197,7 @@ ux.health.starlink.com
 vault.starlink.com
 vault.beta.starlink.com
 vault.gcp.beta.starlink.com
+vault.p.starlink.com
 vault.staging.starlink.com
 virtuals.starlink.com
 vps.starlink.com
@@ -230,4 +234,3 @@ www.starlink-agent.staging.starlink.com
 www.support-agent.starlink.com
 www.support-agent.staging.starlink.com
 www.vault.starlink.com
-www.vault.beta.starlink.com

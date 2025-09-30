@@ -7,6 +7,7 @@
 *.bank-gateway.sandbox.uphold.com
 *.bank-gateway.webhooks.uphold.com
 *.bank-gateway.webhooks.sandbox.uphold.com
+*.card-service.webhooks.sandbox.uphold.com
 *.enterprise.uphold.com
 *.enterprise.sandbox.uphold.com
 *.etracking.uphold.com
@@ -87,8 +88,10 @@ static-attachment.uphold.com
 status.uphold.com
 support.uphold.com
 support-sandbox.uphold.com
+support.enterprise.uphold.com
 trends.uphold.com
 trends-sandbox.uphold.com
+trust.uphold.com
 try.uphold.com
 wallet.uphold.com
 wallet-sandbox.uphold.com

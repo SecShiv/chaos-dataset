@@ -263,6 +263,7 @@
 *.server-triage.prod.corp.mongodb.com
 *.server-triage.staging.corp.mongodb.com
 *.skunkworks.staging.corp.mongodb.com
+*.sophie-stadler.evergreen-staging.devprod.mongodb.com
 *.staging.corp.mongodb.com
 *.stitch.mongodb.com
 *.support.mongodb.com
@@ -685,6 +686,7 @@ customer-portal-main.ts-tools.staging.corp.mongodb.com
 customer-portal-uat-task-15088.ts-tools.staging.corp.mongodb.com
 customer-portal.ts-tools.prod.corp.mongodb.com
 customer-portal.ts-tools.staging.corp.mongodb.com
+customer-test.ts-tools.staging.corp.mongodb.com
 dag-jaeger-collector.gateway.staging.corp.mongodb.com
 dagster.devprod-platform.staging.corp.mongodb.com
 data-architecture.prod.corp.mongodb.com
@@ -1235,6 +1237,7 @@ mars-dev-feature-7170-test-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7171-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7201-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7204-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-7220-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-api-mesh-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-dp-ui-core-dev.dataplatform-dev.staging.corp.mongodb.com
