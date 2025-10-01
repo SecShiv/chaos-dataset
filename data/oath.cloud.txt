@@ -6001,6 +6001,7 @@
 *.opensearch.observability-aws-central.aws.oath.cloud
 *.opinto01-2.csp.gemini-native.aws-us-east-2a.dev.vespa.oath.cloud
 *.opinto01.csp.gemini-native.aws-us-east-2a.dev.vespa.oath.cloud
+*.os.observability-aws-central-dev.aws.oath.cloud
 *.ows.oath.cloud
 *.panic.vespa.ap-northeast-1.vespa.oath.cloud
 *.panic.vespa.ap-northeast-2.vespa.oath.cloud
@@ -7148,6 +7149,7 @@
 *.us-east-1.gemini-reporting-aws-eks1-stage.aws.oath.cloud
 *.us-east-1.opensearch.observability-aws-central-dev.aws.oath.cloud
 *.us-east-1.opensearch.observability-aws-central.aws.oath.cloud
+*.us-east-1.os.observability-aws-central-dev.aws.oath.cloud
 *.us-east-1.test.vespa.oath.cloud
 *.us-east-3.perf.vespa.oath.cloud
 *.us-east-3.staging.vespa.oath.cloud
@@ -7834,6 +7836,7 @@
 3a7b91dc423d4a5391722c00c32e1f76.instanceid.athenz.aws.oath.cloud
 3ac910ad.shopping-tw-desktop-ows.tw1.ows.oath.cloud
 3af0a88b.amphorae.service.tp2.ows.oath.cloud
+3b9302bf.home-arivera.ne1.ows.oath.cloud
 3bcd2bc7.amphorae.service.tp2.ows.oath.cloud
 3be87110.amphorae.service.bf2.ows.oath.cloud
 3bfc33ec.amphorae.service.tp2.ows.oath.cloud
@@ -12803,6 +12806,7 @@ dkim01.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 dkim01.yahooanswersearch.sandbox.us-east-1.dev.vespa.oath.cloud
 dl.enterprise-worker-sandbox.eip.oath.cloud
 dl.enterprise-worker.eip.oath.cloud
+dlocal-be-prod.subscriptions-frontends-aws-prod.aws.oath.cloud
 dmatrixx.album-recommendation.testyahoocloudtest.aws-us-east-1c.dev.public.vespa.oath.cloud
 dmp-analytics.aolp-ds-dev.aws.oath.cloud
 dmp-analytics.aolp-ds-prd.aws.oath.cloud
@@ -13921,6 +13925,7 @@ groupon.external-feeds.us-east-1.test.vespa.oath.cloud
 groupon.external-feeds.us-east-3.staging.vespa.oath.cloud
 grpc-staging.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 grpc.tritonserver.search-web-qlas.aws.oath.cloud
+grype.paranoids-vuln-container-scanning-prod.aws.oath.cloud
 grype.paranoids-vuln-containers.aws.oath.cloud
 guido.python-dev-test.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 guyk.sol.blink-dpa.us-east-1.dev.vespa.oath.cloud
@@ -18391,6 +18396,7 @@ ss-iws.payments-aws-cde-prod.aws.oath.cloud
 ss-payments-ui-node.payments-aws-cde-prod.aws.oath.cloud
 ss-search-ui.payments-aws-services-prod.aws.oath.cloud
 ss-subscription-be.payments-aws-cde-prod.aws.oath.cloud
+ss-subsmobile-be.payments-aws-cde-prod.aws.oath.cloud
 ss-uiproxy.payments-aws-cde-prod.aws.oath.cloud
 ss-uiv.payments-aws-cde-prod.aws.oath.cloud
 ss-uivref.payments-aws-cde-prod.aws.oath.cloud
@@ -18905,6 +18911,7 @@ studios-gear-request.aws.oath.cloud
 studios-omniverse.aws.oath.cloud
 studios-prodreq.aws.oath.cloud
 studios-streaming.aws.oath.cloud
+subscription-be.payments-aws-cde-prod.aws.oath.cloud
 subscriptions.adsdev-portal.adv-ds-cardinal-dev.aws.oath.cloud
 subscriptions.fsszs-portal.home-zsaltys.aws.oath.cloud
 subscriptions.madev-portal.home-marora-aws.aws.oath.cloud

@@ -9,6 +9,7 @@
 *.consent.proxy.develop.gymshark.io
 *.develop.gymshark.io
 *.features.api.gymshark.io
+*.freight-forwarder-service.develop.gymshark.io
 *.locode.service.gymshark.io
 *.netsuite.service.gymshark.io
 *.netsuite.service.staging.gymshark.io
@@ -94,6 +95,7 @@ features.staging.gymshark.io
 fi.pwks.gymshark.io
 fis.develop.gymshark.io
 fr.pwks.gymshark.io
+freight-forwarder-service.develop.gymshark.io
 gb.pwks.gymshark.io
 gitlab.562366055580.sandbox.gymshark.io
 idservice.api.staging.gymshark.io
@@ -172,3 +174,6 @@ webhooks.gymshark.io
 webhooks.api.gymshark.io
 webhooks.api.develop.gymshark.io
 webhooks.api.staging.gymshark.io
+webhooks.develop.gymshark.io
+webhooks.staging.gymshark.io
+whoami.develop.gymshark.io

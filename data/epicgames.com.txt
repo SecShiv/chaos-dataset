@@ -253,6 +253,7 @@
 *.mes1.live.rtcp.on.epicgames.com
 *.mes1.rtcp.on.epicgames.com
 *.mgmt.ucs.on.epicgames.com
+*.migrations.ucs.on.epicgames.com
 *.nonprod.ucs.on.epicgames.com
 *.ogs.dev.on.epicgames.com
 *.ogs.live.on.epicgames.com
@@ -1438,6 +1439,8 @@ dope-demo.cceb.dev.use1a.on.epicgames.com
 dope-demo.ci.fab.cceb.dev.use1a.on.epicgames.com
 dots.fcfe.dev.use1a.on.epicgames.com
 download.epicgames.com
+download-android.epicgames.com
+download-android-gamedev.epicgames.com
 download-dynamic.epicgames.com
 download-flow-scaffolding.prodstaging.store.epicgames.com
 download-orig.epicgames.com
@@ -4885,6 +4888,7 @@ upload.fab-public.ci.cceb.dev.use1a.on.epicgames.com
 upload.fab.ci.cceb.dev.use1a.on.epicgames.com
 upload.fab.daec.live.use1a.on.epicgames.com
 urc-dev.nonprod.ucs.on.epicgames.com
+urc-uefn.live.ucs.on.epicgames.com
 urc.ci.ucs.on.epicgames.com
 us-east-1.ci.qstv.on.epicgames.com
 us-east-1.dev.qstv.on.epicgames.com

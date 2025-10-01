@@ -703,10 +703,12 @@
 *.crm.epam.com
 *.ctc.epam.com
 *.cyolo.epam.com
+*.datacatalog.epam.com
 *.dataheart.app.epam.com
 *.datahub.epam.com
 *.default-lb-epm-paas-ant-aws-dev.epm-paas-ant-aws-dev.eu.aws.epm-paas.projects.epam.com
 *.default-lb-epm-paas-ant-aws-np.epm-paas-ant-aws-np.eu.aws.cloudapp.epam.com
+*.default-lb-epm-paas-ant-aws-tst.epm-paas-ant-aws-tst.eu.aws.cloudapp.epam.com
 *.default-lb-epm-paas-anthos-eks.epm-paas-anthos-eks.eu.aws.epm-paas.projects.epam.com
 *.default-lb.epm-paas-anthos.eu.aws.epm-paas.projects.epam.com
 *.default.wmpr.test.wm.lab.epam.com
@@ -2535,6 +2537,7 @@ dboper-dev1.cloud.epam.com
 dboper-qa1.cloud.epam.com
 dboper-stage1.cloud.epam.com
 dboper.cloud.epam.com
+dc.lab.epam.com
 dca.epmc-emb.projects.epam.com
 de-web-dev.aemcloud.epam.com
 de-web-stage.aemcloud.epam.com
@@ -2793,6 +2796,7 @@ dialog-api-edu.future.lab.epam.com
 dialog-api-prd.future.lab.epam.com
 dialog-api-stg.future.lab.epam.com
 dialog-api0.future.lab.epam.com
+dify.llm.lab.epam.com
 digitalworkplace.epam.com
 disc.crm.epam.com
 disc.stageaz.epm-crm.projects.epam.com
@@ -3601,6 +3605,7 @@ epm-paas-gh5.eu.gcp.epm-paas.projects.epam.com
 epm-paas-q05.eu.gcp.epm-paas.projects.epam.com
 epm-pbi-anthos-us9.eu.gcp.cloudapp.epam.com
 epm-ppa.projects.epam.com
+epm-psai-qdrant-dev.llm.lab.epam.com
 epm-rdex-apps-alb.awstest.examinator.lab.epam.com
 epm-slkr.projects.epam.com
 epm-snps.epm-snps.projects.epam.com
@@ -4719,6 +4724,7 @@ laika-aws.epmc-adam.projects.epam.com
 lake.itsec.epam.com
 langfuse-epm-psai.llm.lab.epam.com
 langfuse-preview.gke-sandbox-cl2.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
+langfuse.gke-sandbox-cl2.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
 langfuse.llm.lab.epam.com
 laps.epam.com
 le.cloud.epam.com
@@ -4762,6 +4768,7 @@ llm-research-app-10k-dev.llm.lab.epam.com
 llm-research-app-10k-prod.llm.lab.epam.com
 llm-research-app-10k-visual-dev.llm.lab.epam.com
 llm-research-app-bentocolpali.llm.lab.epam.com
+llm-research-app-call-monitoring-poc-dev.llm.lab.epam.com
 llm-research-app-codemate-dev.llm.lab.epam.com
 llm-research-app-demo-dev.llm.lab.epam.com
 llm-research-app-demo-prod.llm.lab.epam.com
@@ -5011,12 +5018,14 @@ mcm-orest1-api.services.wstc-wcst.projects.epam.com
 mcm-pqa1-api.services.wstc-wcst.projects.epam.com
 mcp-aqa1-api.services.wstc-wcst.projects.epam.com
 mcp-bondar1-api.services.wstc-wcst.projects.epam.com
+mcp-dev.epm-edec.projects.epam.com
 mcp-dev1-api.services.wstc-wcst.projects.epam.com
 mcp-mqa1-api.services.wstc-wcst.projects.epam.com
 mcp-novachok1-api.services.wstc-wcst.projects.epam.com
 mcp-orest1-api.services.wstc-wcst.projects.epam.com
 mcp-pqa1-api.services.wstc-wcst.projects.epam.com
 mcp-stage1-api.services.wstc-wcst.projects.epam.com
+mcp-staging.epm-edec.projects.epam.com
 mcp-vasyl1-api.services.wstc-wcst.projects.epam.com
 mcp.delivery.epam.com
 mcp.stg-epam.epm-dce.projects.epam.com

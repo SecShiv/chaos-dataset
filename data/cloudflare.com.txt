@@ -39,6 +39,7 @@
 *.challenger.research.cloudflare.com
 *.challenges.cloudflare.com
 *.challenges-staging.cloudflare.com
+*.challenges.fed.cloudflare.com
 *.cobol.demos.cloudflare.com
 *.collector.prio.research.cloudflare.com
 *.community.cloudflare.com
@@ -8412,6 +8413,7 @@ challenge.docs.cloudflare.com
 challenger.research.cloudflare.com
 challenges.cloudflare.com
 challenges-staging.cloudflare.com
+challenges.fed.cloudflare.com
 chan.ns.cloudflare.com
 chan.us.cloudflare.com
 chance.ns.cloudflare.com
@@ -8597,6 +8599,7 @@ delilah.ns.cloudflare.com
 dell.ns.cloudflare.com
 demeter.cloudflare.com
 demi.ns.cloudflare.com
+demo-api.labs-staging.cloudflare.com
 demo-dev.pat-issuer.cloudflare.com
 demo-devel.realtime.cloudflare.com
 demo-origin.pat-issuer.cloudflare.com
@@ -8801,6 +8804,7 @@ fliv.ns.cloudflare.com
 fls.cloudflare.com
 fmitch.ns.cloudflare.com
 fonts.cloudflare.com
+fonts.static.dash.cloudflare.com
 fonzie.ns.cloudflare.com
 formation.wilfried-vadon.com.cdn.cloudflare.com
 fortran.demos.cloudflare.com
@@ -10107,6 +10111,7 @@ phil.ns.cloudflare.com
 phill.ns.cloudflare.com
 phishfilet.cloudflare.com
 phishnet.cloudflare.com
+phishnet.fed.cloudflare.com
 phoenix.ns.cloudflare.com
 piers.ns.cloudflare.com
 piotr.ns.cloudflare.com
@@ -18299,6 +18304,7 @@ test.dap.cloudflare.com
 test.developers.cloudflare.com
 test.ethereum.cloudflare.com
 test.phishnet.cloudflare.com
+test.phishnet.fed.cloudflare.com
 test.polygon.cloudflare.com
 tg-probemanager.labs.cloudflare.com
 tg-probemanager.staging.labs.cloudflare.com
@@ -18542,5 +18548,3 @@ zlnvl.tw.cdn.cloudflare.com
 zod.ns.cloudflare.com
 zoe.ns.cloudflare.com
 ztx-bff-staging.teams.cloudflare.com
-ztx-bff.teams.cloudflare.com
-ztx-webhooks.one.dash.cloudflare.com

@@ -440,6 +440,7 @@ app-mod-query-converter.mongodb.com
 app-mod-query-converter-dev.mongodb.com
 app-mod-query-converter-qa.mongodb.com
 app-mod-query-converter-staging.mongodb.com
+app.backstage.prod.corp.mongodb.com
 app.backstage.staging.corp.mongodb.com
 app.go.mongodb.com
 app.taka.corp.mongodb.com
@@ -503,8 +504,10 @@ aws.stitch.mongodb.com
 azure.api.mongodb.com
 azure.api-dev.mongodb.com
 azure.realm.mongodb.com
+b2k-server.docs.staging.corp.mongodb.com
 backend.test.corp.mongodb.com
 backstage-kyle-burgess.backstage.staging.corp.mongodb.com
+backstage-prod.backstage.staging.corp.mongodb.com
 backstage-william.backstage.staging.corp.mongodb.com
 backstage.corp.mongodb.com
 backup-san.mongodb.com
@@ -678,6 +681,7 @@ csat.ts-apac.staging.corp.mongodb.com
 cta.corps.prod.corp.mongodb.com
 ctf.corp.mongodb.com
 customer-hub-task-14155-cleanup-mdbhubauth.ts-tools.staging.corp.mongodb.com
+customer-hub-uat-task-14661.ts-tools.staging.corp.mongodb.com
 customer-hub-uat-tstools-15192.ts-tools.staging.corp.mongodb.com
 customer-portal-backend.ts-tools.staging.corp.mongodb.com
 customer-portal-cms.ts-tools.staging.corp.mongodb.com
@@ -1238,6 +1242,7 @@ mars-dev-feature-7171-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7201-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7204-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7220-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-api-link-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-api-mesh-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-dp-ui-core-dev.dataplatform-dev.staging.corp.mongodb.com
@@ -1331,6 +1336,8 @@ nimbus.staging.corp.mongodb.com
 noc-admin.mongodb.com
 notifications.corp.mongodb.com
 nyteam1.sa-demo.staging.corp.mongodb.com
+observability-agents-dev.mongodb.com
+observability-agents-qa.mongodb.com
 officeips.corp.mongodb.com
 officeit.prod.corp.mongodb.com
 officeit.staging.corp.mongodb.com
@@ -1648,6 +1655,7 @@ stitch-qa.mongodb.com
 stitch-staging.mongodb.com
 streaming-api.support.mongodb.com
 streaming-api.support.staging.corp.mongodb.com
+stride-gpt.cloud-security.staging.corp.mongodb.com
 student.devrel.prod.corp.mongodb.com
 students.mongodb.com
 success.mongodb.com
@@ -1736,6 +1744,7 @@ traefik-to-istio-example.devops.staging.corp.mongodb.com
 traefik-to-istio-example.devops.test.corp.mongodb.com
 training.mongodb.com
 training-staging.mongodb.com
+translation.corps.staging.corp.mongodb.com
 tribyl.corp.mongodb.com
 trino-dw-scraper.ts-tools.prod.corp.mongodb.com
 trino-dw-scraper.ts-tools.staging.corp.mongodb.com
@@ -1835,6 +1844,7 @@ victoria-metrics-meta.corp.mongodb.com
 victoria-metrics.corp.mongodb.com
 vidyard.mongodb.com
 vm1.cf.mongodb.com
+vminsert-az1-dev.corp.mongodb.com
 vminsert-az1.cloud.mongodb.com
 vminsert-az1.cloud-staging.mongodb.com
 vminsert-az2.cloud.mongodb.com

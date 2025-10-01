@@ -1,8 +1,10 @@
 *.surf.nl
+*.acc-ice.surf.nl
 *.apm.ece.secops.surf.nl
 *.argos.surf.nl
 *.ci-access-rights-record-harvester.dev.sdp.surf.nl
 *.ci-backstage-record-harvester.dev.sdp.surf.nl
+*.ci-chore-migrate-fl-record-harvester.dev.sdp.surf.nl
 *.ci-cors-record-harvester.dev.sdp.surf.nl
 *.ci-docker-proxy-record-harvester.dev.sdp.surf.nl
 *.ci-edurep-parsing-record-harvester.dev.sdp.surf.nl
@@ -94,10 +96,13 @@
 *.soil.surf.nl
 *.stage-int.sdp.surf.nl
 *.stage.sdp.surf.nl
+*.staging-int.otc.sdp.surf.nl
+*.staging.otc.sdp.surf.nl
 *.swift.surf.nl
 *.test-int.sdp.surf.nl
 *.test.sdp.surf.nl
 *.test.sram.surf.nl
+*.tst-ice.surf.nl
 0321.ap.surf.nl
 0504.ap.surf.nl
 0505.ap.surf.nl
@@ -634,6 +639,7 @@ _exch.surf.nl
 acc-admin.copyrightcheck.surf.nl
 acc-api.copyrightcheck.surf.nl
 acc-compliance.surf.nl
+acc-ice.surf.nl
 acc.mijn.surf.nl
 acc.spm.surf.nl
 acc.sram.surf.nl
@@ -857,6 +863,7 @@ chime3.surf.nl
 chime7.surf.nl
 ci-aea700f78a8e8444-monitoring.dev.sdp.surf.nl
 ci-bundle-admin.cxp.dev.sdp.surf.nl
+ci-chore-flux-v2-cr-monitoring.dev.sdp.surf.nl
 ci-dev-admin.cxp.dev.sdp.surf.nl
 ci-docker-proxy-admin.cxp.dev.sdp.surf.nl
 ci-fix-key-usages-admin.cxp.dev.sdp.surf.nl
@@ -3360,6 +3367,7 @@ runner-minio-console.ia.surf.nl
 runner-minio.ia.surf.nl
 runner-proxy01p.ia.surf.nl
 s3.surf.nl
+s3.pilot1.sram.surf.nl
 sa.sa-mif.oidf.lab.surf.nl
 sailer.surf.nl
 sam.surf.nl
@@ -3483,6 +3491,8 @@ sso.cua.surf.nl
 ssp-oidc-op.pilot1.sram.surf.nl
 stage-int.sdp.surf.nl
 stage.sdp.surf.nl
+staging-int.otc.sdp.surf.nl
+staging.otc.sdp.surf.nl
 standaarden.surf.nl
 startuppodium.surf.nl
 static.surf.nl
@@ -4385,6 +4395,7 @@ traefik.orgbook.test.ssi.lab.surf.nl
 traefik.sram-conf.lab.surf.nl
 traefik.von-network.test.ssi.lab.surf.nl
 trust-anchor.pilot1.sram.surf.nl
+tst-ice.surf.nl
 tue.owl.surf.nl
 turn-1.videobelpilot.surf.nl
 tv4.surf.nl

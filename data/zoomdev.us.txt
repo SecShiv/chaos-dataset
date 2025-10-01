@@ -2025,6 +2025,7 @@ devswcc-oh1.zoomdev.us
 devteam.zoomdev.us
 devturnsip01.zoomdev.us
 devus.zoomdev.us
+devva-rag-permission-spicedb.cloud.zoomdev.us
 devva001-rag-permission-spicedb.cloud.zoomdev.us
 devva2-integration-op-api.zoomdev.us
 devva2command-eks.zoomdev.us
@@ -2080,6 +2081,7 @@ ds-flink.main.oh1.ai.cloud.zoomdev.us
 ds-flink.main.va1.ai.cloud.zoomdev.us
 ds-hms.bdp.cloud.zoomdev.us
 ds-hms.cloud.main-test.zoomdev.us
+ds-ray-datascience.bdp.cloud.zoomdev.us
 ds-ray-ray-bdp.bdp.cloud.zoomdev.us
 ds-raycluster-bdp-gpu.bdp.cloud.zoomdev.us
 ds-shs-usashburn1.cloud.zoomdev.us
@@ -2183,6 +2185,7 @@ edge-gateway-zoom-docs-test-v3.zoomdev.us
 edge-gateway-zoom-docs-test-v4.zoomdev.us
 edge-zcp.corp.zoomdev.us
 edo.zoomdev.us
+edo-int.zoomdev.us
 eejzogxnxxmugaxpbfjl.testing-vault.zoomdev.us
 egtpigsetvrjrakcwvyk.testing-vault.zoomdev.us
 ejbapi.zoomdev.us
@@ -3108,6 +3111,7 @@ linktrace-zcp.zoomdev.us
 llm-gateway-admin-colo01-colo.zoomdev.us
 llm-gateway-demo-zmdev-aws-us-east-1.ai.zoomdev.us
 llm-gateway-dev-zmo-zmdev-oci-us-east-1.ai.zoomdev.us
+llm-gateway-lz-colo01-colo.zoomdev.us
 llm-gateway-sandbox1-zmdev-aws-us-east-1.ai.zoomdev.us
 llm-gateway-sandbox1-zmdev.ai.zoomdev.us
 llm-gateway-sandbox2-zmdev-aws-us-east-1.ai.zoomdev.us
@@ -3255,6 +3259,7 @@ main-openapi-graphql.zoomdev.us
 main-rag-dataconnector-temporal-frontend.zoomdev.us
 main-rag-dataconnector-temporal-ui.zoomdev.us
 main-rag-management.cloud.zoomdev.us
+main-search-ai.zoomdev.us
 main-stephen-zcp-test003.cloud.zoomdev.us
 main-webimcommon.zoomdev.us
 main-webimcommon.cloud.zoomdev.us
@@ -3860,6 +3865,8 @@ osrama-02-internal.sandbox-vault.zoomdev.us
 osrama-02.sandbox-vault.zoomdev.us
 osrama-03-internal.sandbox-vault.zoomdev.us
 osrama-03.sandbox-vault.zoomdev.us
+osrama-04-internal.sandbox-vault.zoomdev.us
+osrama-04.sandbox-vault.zoomdev.us
 osrama-internal.sandbox-vault.zoomdev.us
 osrama.sandbox-vault.zoomdev.us
 otter-integration.zoomdev.us
@@ -4137,6 +4144,7 @@ private-zwthdxi3jjk3ey32.2pz7zk7mzphm.onprem.zoomdev.us
 private-zx3aopqkzmpj42sy.mason-dev-lsgw.onprem.zoomdev.us
 private-zx6zxeygr2sryhdm.2pz7zk7mzphm.onprem.zoomdev.us
 private-zxaxiina4l5hla54.dummyvanity.onprem.zoomdev.us
+private-zxeviuosrcvmgvq3.63zfhx-onmicrosoft-com.onprem.zoomdev.us
 private-zxlud2kqh7xnjvyr.dummyvanity.onprem.zoomdev.us
 private-zy3vsko7bprosku3.jiangchentest.onprem.zoomdev.us
 private-zy4pl5xkkf4qvli7.63zfhx-onmicrosoft-com.onprem.zoomdev.us
@@ -4423,7 +4431,10 @@ qa01ccinginx.z1.zoomdev.us
 qa01ccinginx.z6.zoomdev.us
 qa01ccireport-va.zoomdev.us
 qa01ccivoice-eu.zoomdev.us
+qa01ccivoice-us.zoomdev.us
+qa01ccivoice01.zoomdev.us
 qa01ccivoice01.z1.zoomdev.us
+qa01ccivoice01.z3.zoomdev.us
 qa01ccivoice02.zoomdev.us
 qa01ccivoice02.z6.zoomdev.us
 qa01ccizp.zoomdev.us
@@ -4536,6 +4547,9 @@ qa01ocifile-cf.zoomdev.us
 qa01ocigrpcstreamproxy.zoomdev.us
 qa01ocigrpcstreamproxy-va.zoomdev.us
 qa01ocigrpcstreamproxy-va2.zoomdev.us
+qa01ocinotificationswfm.zoomdev.us
+qa01ocinotificationswfm-va.zoomdev.us
+qa01ocinotificationswfm-va2.zoomdev.us
 qa01ocisoftphonezva.zoomdev.us
 qa01ocisoftphonezva-va.zoomdev.us
 qa01ocisoftphonezva-va2.zoomdev.us
@@ -5103,6 +5117,7 @@ rsvd-zkj3ywslqlr3nlx3.ykvtsubwlpju.onprem.zoomdev.us
 rsvd-zkonnxqx6aabzqfk.qwos5thwbrzk.onprem.zoomdev.us
 rsvd-zkrb4sdmkf3hwyms.gwvteszzwy4t.onprem.zoomdev.us
 rsvd-zksz6pxkh7fnyay5.2pz7zk7mzphm.onprem.zoomdev.us
+rsvd-zkz4i5cmy7t2vrvy.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-zl3mu7gq2w5yippc.mgou5v2orjh2.onprem.zoomdev.us
 rsvd-zl4js7wmziyrob2b.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-zl4z6y5oa4o4vfnt.2pz7zk7mzphm.onprem.zoomdev.us
@@ -6228,6 +6243,8 @@ zoap-gateway-stress.zoomdev.us
 zoap-gateway-ta.zoomdev.us
 zoap-gateway-ta-up.zoomdev.us
 zoap-gateway-va1.zoomdev.us
+zoom-dbt-platform-cloud.dev.zdt.zoomdev.us
+zoom-dbt-platform-cloud.stage.zdt.zoomdev.us
 zoom-nginx-poc.zoomdev.us
 zoom-noc-zna.zoomdev.us
 zoom-token-signing.zoomdev.us
@@ -6372,5 +6389,3 @@ zworkspace.zoomdev.us
 zworkspace.acqa.zoomdev.us
 zworkspace.dogfood.zoomdev.us
 zyanydympcrkkydrhfzk.testing-vault.zoomdev.us
-zygkzszjufxdpvotndwu.testing-vault.zoomdev.us
-zyxjjfyanagmxnjmvhmd.testing-vault.zoomdev.us

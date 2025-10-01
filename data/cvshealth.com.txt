@@ -82,6 +82,7 @@
 *.dev.origin.caplab.cvshealth.com
 *.dev.platform.cvshealth.com
 *.dev.platform.caplab.cvshealth.com
+*.dev.platform.caplaborigin.cvshealth.com
 *.dev1-int.cvshealth.com
 *.devocp-pss-tufs-az.cvshealth.com
 *.digital-dfp-qa.cvshealth.com
@@ -116,6 +117,7 @@
 *.prod.caplab.cvshealth.com
 *.prod.origin.cvshealth.com
 *.prod.platform.cvshealth.com
+*.prod.platform.caplaborigin.cvshealth.com
 *.pss.cvshealth.com
 *.pss-tufs-az.cvshealth.com
 *.rebates.pbm.cvshealth.com
@@ -1822,6 +1824,8 @@ compliancemapsdev.cvshealth.com
 compoundinglabs.cvshealth.com
 compshop-dev.cvshealth.com
 compshop-stg.cvshealth.com
+compute22.digital-dfp-pegasus.cvshealth.com
+compute33.digital-dfp-np.cvshealth.com
 confluentcloud-kafka-docx.qa.cvshealth.com
 conformance-dev.cvshealth.com
 connect.io-prod-restrct-cmpt.cvshealth.com
@@ -3594,6 +3598,7 @@ external-sit-apix.cvshealth.com
 external-tracing-np.dev-ste-ms.cvshealth.com
 external-tracing-np.ehip.dev.cvshealth.com
 external-tracing-np.qa-ste-ms.cvshealth.com
+external.dev.platform.caplab.cvshealth.com
 ezqueryapi.cvshealth.com
 ezquerybservapi.cvshealth.com
 ezqueryrmapi.cvshealth.com
@@ -4314,6 +4319,7 @@ internal-argocd-non-prod.gke-dev-slack-app01.cvshealth.com
 internal-argocd-non-prod.gke-devex-qa.cvshealth.com
 internal-argocd-non-prod.gke-devex-qa-gen.cvshealth.com
 internal-argocd-non-prod.gke-dispensing-dev.cvshealth.com
+internal-argocd-non-prod.gke-eligibility-qa.cvshealth.com
 internal-argocd-non-prod.gke-healthsol-dev.cvshealth.com
 internal-argocd-non-prod.gke-membereft-dev.cvshealth.com
 internal-argocd-non-prod.gke-mfe-notify-qa.cvshealth.com
@@ -4684,6 +4690,7 @@ internal-elastic-dev-1-search.dbeng-usw2-gke.cvshealth.com
 internal-elastic-dev-1.dbeng-usw2-gke.cvshealth.com
 internal-elastic-dev-4-kibana.dev2-rx-nextgen.cvshealth.com
 internal-elastic-dev-4-search.dev2-rx-nextgen.cvshealth.com
+internal-elastic-dev-4.dev2-rx-nextgen.cvshealth.com
 internal-elastic-poc-1-kibana.dbeng-use4-gke.cvshealth.com
 internal-elastic-poc-1-search.dbeng-use4-gke.cvshealth.com
 internal-elastic-poc-1-transport.dbeng-use4-gke.cvshealth.com
@@ -4863,6 +4870,7 @@ internal-grafana-non-prod.gke-devex-qa.cvshealth.com
 internal-grafana-non-prod.gke-devex-qa-gen.cvshealth.com
 internal-grafana-non-prod.gke-devex-qa-gen.non-prod.cvshealth.com
 internal-grafana-non-prod.gke-dispensing-dev.cvshealth.com
+internal-grafana-non-prod.gke-eligibility-qa.cvshealth.com
 internal-grafana-non-prod.gke-healthsol-dev.cvshealth.com
 internal-grafana-non-prod.gke-membereft-dev.cvshealth.com
 internal-grafana-non-prod.gke-mfe-notify-qa.cvshealth.com
@@ -5200,6 +5208,7 @@ internal-kiali-non-prod.gke-dev-slack-app01.cvshealth.com
 internal-kiali-non-prod.gke-devex-qa.cvshealth.com
 internal-kiali-non-prod.gke-devex-qa-gen.cvshealth.com
 internal-kiali-non-prod.gke-dispensing-dev.cvshealth.com
+internal-kiali-non-prod.gke-eligibility-qa.cvshealth.com
 internal-kiali-non-prod.gke-healthsol-dev.cvshealth.com
 internal-kiali-non-prod.gke-membereft-dev.cvshealth.com
 internal-kiali-non-prod.gke-mfe-notify-qa.cvshealth.com
@@ -5559,6 +5568,7 @@ internal-non-prod.gke-dev-slack-app01.cvshealth.com
 internal-non-prod.gke-devex-qa.cvshealth.com
 internal-non-prod.gke-devex-qa-gen.cvshealth.com
 internal-non-prod.gke-dispensing-dev.cvshealth.com
+internal-non-prod.gke-eligibility-qa.cvshealth.com
 internal-non-prod.gke-healthsol-dev.cvshealth.com
 internal-non-prod.gke-membereft-dev.cvshealth.com
 internal-non-prod.gke-mfe-notify-qa.cvshealth.com
@@ -5939,6 +5949,7 @@ internal-prometheus-kubemetrics.gke-dss-rx-prod-kafka.cvshealth.com
 internal-prometheus-kubemetrics.gke-ecomm-prod.cvshealth.com
 internal-prometheus-kubemetrics.gke-ecomm-prodwest.cvshealth.com
 internal-prometheus-kubemetrics.gke-ecomm-qa.cvshealth.com
+internal-prometheus-kubemetrics.gke-eligibility-qa.cvshealth.com
 internal-prometheus-kubemetrics.gke-healthsol-dev.cvshealth.com
 internal-prometheus-kubemetrics.gke-ice-prod.cvshealth.com
 internal-prometheus-kubemetrics.gke-ice-prod-dr.cvshealth.com
@@ -6241,6 +6252,8 @@ internal-swaggerhub-np-api.digital-apigee.gke.cvshealth.com
 internal-swaggerhub-np.digital-apigee.gke.cvshealth.com
 internal-synthetic-chat.cvshealth.com
 internal-synthetic-langfuse.cvshealth.com
+internal-temporal-non-prod.digital-dfp-dev.cvshealth.com
+internal-temporal-ui-non-prod.digital-dfp-dev.cvshealth.com
 internal-test.cvshealth.com
 internal-test.digital-dfp-dev.cvshealth.com
 internal-test.digital-dfp-phoenix.cvshealth.com
@@ -6349,6 +6362,7 @@ internal-tracing-non-prod.gke-dev-slack-app01.cvshealth.com
 internal-tracing-non-prod.gke-devex-qa.cvshealth.com
 internal-tracing-non-prod.gke-devex-qa-gen.cvshealth.com
 internal-tracing-non-prod.gke-dispensing-dev.cvshealth.com
+internal-tracing-non-prod.gke-eligibility-qa.cvshealth.com
 internal-tracing-non-prod.gke-healthsol-dev.cvshealth.com
 internal-tracing-non-prod.gke-membereft-dev.cvshealth.com
 internal-tracing-non-prod.gke-mfe-notify-qa.cvshealth.com
@@ -8832,6 +8846,7 @@ rxc-api-int-use4-pt.cvshealth.com
 rxc-api-int-usw2-prod.cvshealth.com
 rxc-api-int-usw2-pt.cvshealth.com
 rxconnect-test-dev.cvshealth.com
+rxconnect-wine.cvshealth.com
 rxcoscc-be-int-use4c.cvshealth.com
 rxdw-vv-ui-non-prod.cvshealth.com
 rxfridgeaudit.scai-eprod.cvshealth.com
@@ -9093,6 +9108,7 @@ scai-dcallocation-dev.cvshealth.com
 scai-fridge-analytics-prod.cvshealth.com
 scai-fridge-analytics-qa.cvshealth.com
 scai-insighthub-dev.cvshealth.com
+scai-s2s.cvshealth.com
 scai-s2s-qa.cvshealth.com
 scai-seasonaldisp-dev.cvshealth.com
 scai-seasonaldisp-qa.cvshealth.com
@@ -9248,6 +9264,7 @@ sit-metrics-east1.cvshealth.com
 sit-metrics-east2.cvshealth.com
 sit-metrics-west.cvshealth.com
 sit.bpmservices.cvshealth.com
+sit.dev.platform.caplab.cvshealth.com
 sit.digital-apigee.gke.cvshealth.com
 sit.digital-clientapi.cvshealth.com
 sit.digital-dfp-qa.cvshealth.com
@@ -9925,6 +9942,7 @@ storesigns-eb-stg.cvshealth.com
 storesigns-endcaptopper-dev.cvshealth.com
 storesigns-endcaptopper-stg.cvshealth.com
 storesigns-liquor-stg.cvshealth.com
+storevvengine-nonprod.cvshealth.com
 stp-services-gtwy-west.cvshealth.com
 stpphysicians.cvshealth.com
 str.cvshealth.com

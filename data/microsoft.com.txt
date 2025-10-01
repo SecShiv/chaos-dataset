@@ -25184,6 +25184,7 @@ admin-ring3.community.support.microsoft.com
 admin-sdf.microsoft.com
 admin-sdf.exchange.microsoft.com
 admin-stg.studentpartners.microsoft.com
+admin-tdf.teams.microsoft.com
 admin-test.exchange.microsoft.com
 admin-test.healthbot.microsoft.com
 admin-uat.studentpartners.microsoft.com
@@ -25227,6 +25228,7 @@ admin.francesouth.prod.powerquery.microsoft.com
 admin.germanycentral.prod.powerquery.microsoft.com
 admin.germanynortheast.prod.powerquery.microsoft.com
 admin.germanywestcentral.prod.powerquery.microsoft.com
+admin.gr3e2e.teams.microsoft.com
 admin.groups-admin-ppe.data.microsoft.com
 admin.groups-admin-sandbox.data.microsoft.com
 admin.groups-admin.data.microsoft.com
@@ -29230,18 +29232,30 @@ ambausx-ucc-prd-ukw.securitycenter.microsoft.com
 ambausx-ucc-prd-us.securitycenter.microsoft.com
 ambausx-ucc-prd-us3.securitycenter.microsoft.com
 ambausx-ucc-prd-weu.securitycenter.microsoft.com
+ambausx-uch-can-can.securitycenter.microsoft.com
+ambausx-uch-can-canc.securitycenter.microsoft.com
+ambausx-uch-can-cane.securitycenter.microsoft.com
+ambausx-uch-prd-au.securitycenter.microsoft.com
+ambausx-uch-prd-aue.securitycenter.microsoft.com
+ambausx-uch-prd-aus.securitycenter.microsoft.com
 ambausx-uch-prd-cus.securitycenter.microsoft.com
+ambausx-uch-prd-cus3.securitycenter.microsoft.com
 ambausx-uch-prd-eu.securitycenter.microsoft.com
+ambausx-uch-prd-eu3.securitycenter.microsoft.com
 ambausx-uch-prd-eus2.securitycenter.microsoft.com
+ambausx-uch-prd-eus3.securitycenter.microsoft.com
 ambausx-uch-prd-ina.securitycenter.microsoft.com
 ambausx-uch-prd-inc0a.securitycenter.microsoft.com
 ambausx-uch-prd-ins0a.securitycenter.microsoft.com
 ambausx-uch-prd-neu.securitycenter.microsoft.com
+ambausx-uch-prd-neu3.securitycenter.microsoft.com
 ambausx-uch-prd-uk.securitycenter.microsoft.com
 ambausx-uch-prd-uks.securitycenter.microsoft.com
 ambausx-uch-prd-ukw.securitycenter.microsoft.com
 ambausx-uch-prd-us.securitycenter.microsoft.com
+ambausx-uch-prd-us3.securitycenter.microsoft.com
 ambausx-uch-prd-weu.securitycenter.microsoft.com
+ambausx-uch-prd-weu3.securitycenter.microsoft.com
 ambausx-ucs-can-can.securitycenter.microsoft.com
 ambausx-ucs-can-canc.securitycenter.microsoft.com
 ambausx-ucs-can-cane.securitycenter.microsoft.com
@@ -68269,6 +68283,7 @@ autosign.devices.microsoft.com
 autosignapi-uat.devices.microsoft.com
 autosignapi.devices.microsoft.com
 autospot-cayman-prod.mp.microsoft.com
+autospot-int.commerce.microsoft.com
 autospot.commerce.microsoft.com
 autosstore.jpchn.glbdns2.microsoft.com
 av.ashhu.myworkspace.microsoft.com
@@ -74029,6 +74044,7 @@ brekeyvaultdevppe.microsoft.com
 brekeyvaultprod.microsoft.com
 brerm.microsoft.com
 bridge.api.dev.universaldealassistance.microsoft.com
+bridge.api.sit.universaldealassistance.microsoft.com
 bridge.api.uat.universaldealassistance.microsoft.com
 bridge.api.universaldealassistance.microsoft.com
 bright-int-1.odyssey-int.azure.microsoft.com
@@ -76296,6 +76312,7 @@ ciedubgraan143.network.microsoft.com
 ciedubgraan144.network.microsoft.com
 ciedubgraan146.network.microsoft.com
 ciedubgraan157.network.microsoft.com
+ciedubgraan2ci.network.microsoft.com
 ciedubgraan5aa.network.microsoft.com
 ciedubgraan5ab.network.microsoft.com
 ciedubgraan5ac.network.microsoft.com
@@ -78892,6 +78909,7 @@ copilotdash-sdf.microsoft.com
 copilotdash-test.microsoft.com
 copilotdashods.microsoft.com
 copilotflightreview.microsoft.com
+copilotflightreview-test.microsoft.com
 copilotforfinance.microsoft.com
 copilotint.microsoft.com
 copilotsbs.microsoft.com
@@ -81666,6 +81684,7 @@ dcc.mp.microsoft.com
 dccareerhub.microsoft.com
 dccareerhubstage.microsoft.com
 dccentral.microsoft.com
+dccentral-test.microsoft.com
 dccesigqualsql.redmond.corp.microsoft.com
 dcdid-stg-membership-disney-959834601.ap-northeast-1.e.mp.microsoft.com
 dcfw.azurecore.microsoft.com
@@ -85147,6 +85166,7 @@ einvoicesit.redmond.corp.microsoft.com
 einvoicetest.microsoft.com
 einvoicetest.redmond.corp.microsoft.com
 einvoiceuat.redmond.corp.microsoft.com
+eip.microsoft.com
 eipeai.microsoft.com
 eipeaisit.parttest.extranettest.microsoft.com
 eiportal.one.microsoft.com
@@ -86348,13 +86368,16 @@ euaaccessportaltest.microsoft.com
 euaaccessprovisioning.microsoft.com
 euaaccessprovisioningprod.microsoft.com
 euaaccessservicedev.microsoft.com
+euaaccessserviceint.microsoft.com
 euaaccessserviceprod.microsoft.com
 euaaccesssupplierservicedev.microsoft.com
+euaaccesssupplierserviceint.microsoft.com
 euaaccesssupplierserviceprod.microsoft.com
 euaaccesssupplierservicetest.microsoft.com
 euaauthorization.microsoft.com
 euaauthorizationprod.microsoft.com
 euaauthorizationservicedev.microsoft.com
+euaauthorizationserviceint.microsoft.com
 euaauthorizationserviceprod.microsoft.com
 euaauthorizationservicetest.microsoft.com
 euadelegationdev.microsoft.com
@@ -93507,6 +93530,7 @@ ingest-trd-tdc3ammhz56syz7hcu.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-tfum1xrs99n0mkp8xq.z0.dev.kusto.fabric.microsoft.com
 ingest-trd-tqxv3r4rhkt10dy1bp.z1.dev.kusto.fabric.microsoft.com
 ingest-trd-tu5acq4ce0mmkf4tgz.z6.dev.kusto.fabric.microsoft.com
+ingest-trd-tuazef3tas1qc168fg.z0.kusto.fabric.microsoft.com
 ingest-trd-twry0cngux3d9uc59e.z5.dev.kusto.fabric.microsoft.com
 ingest-trd-txffvhbntqthfw4qc6.z7.dev.kusto.fabric.microsoft.com
 ingest-trd-tz88z8fm8rrjr69cj4.z4.dev.kusto.fabric.microsoft.com
@@ -94916,6 +94940,7 @@ jdmwprodiis.psz.tcs.corp.microsoft.com
 jdmwprodsqa01.psz.tcs.corp.microsoft.com
 jdmwprodsqa02.psz.tcs.corp.microsoft.com
 jdn-int.corp.microsoft.com
+jdweiner-dev1.redmond.corp.microsoft.com
 jeast.tas.exp.microsoft.com
 jekaufbuildouttestcert2.daas.microsoft.com
 jem.microsoft.com
@@ -103155,6 +103180,8 @@ mdatp.xplat.microsoft.com
 mdc1p201.azs.selfhost.corp.microsoft.com
 mdemunwalan113.network.microsoft.com
 mdemunwalan114.network.microsoft.com
+mdemunwalan1i8.network.microsoft.com
+mdemunwalan1i9.network.microsoft.com
 mdemunwalan7aa.network.microsoft.com
 mdemunwalan7ac.network.microsoft.com
 mdemunwalan7ad.network.microsoft.com
@@ -107891,6 +107918,7 @@ na.reporting.dm-beta.microsoft.com
 na.reporting.dm-dogfood.microsoft.com
 na.reporting.dm-mig.microsoft.com
 na.reporting.dm-selfhost.microsoft.com
+na.reporting.int.dm-dogfood.microsoft.com
 na.stager.dev.muv6.microsoft.com
 na.stager.df.muv6.microsoft.com
 na.stager.prod.muv6.microsoft.com
@@ -108151,8 +108179,10 @@ nebulaqavmc.ntdev.corp.microsoft.com
 nebulatestpublic.rmb.corp.microsoft.com
 nebulavmc.ntdev.corp.microsoft.com
 neet-uksouth-test-rp.aifs-test.microsoft.com
+neo4jgds.dev.wds.ame.microsoft.com
 neo4jgds.ppe.wds.ame.microsoft.com
 neo4jgds.prod.wds.ame.microsoft.com
+neo4jgraph.dev.wds.ame.microsoft.com
 neo4jgraph.ppe.wds.ame.microsoft.com
 neo4jgraph.prod.wds.ame.microsoft.com
 neo4jprod.partners.extranet.microsoft.com
@@ -118585,6 +118615,7 @@ reporting.familysafety.microsoft.com
 reporting.in01.dm.microsoft.com
 reporting.in02.dm.microsoft.com
 reporting.in03.dm.microsoft.com
+reporting.int.dm-dogfood.microsoft.com
 reporting.mp.dps.microsoft.com
 reporting.msops.microsoft.com
 reporting.na01.dm.microsoft.com
@@ -119400,6 +119431,7 @@ rpapp.smartmlppe.microsoft.com
 rpasstest.smltenant.microsoft.com
 rpdev.devai.microsoft.com
 rpds.smartmldev.microsoft.com
+rpe.microsoft.com
 rpfe.classic.cp.microsoft.com
 rpflighting.dev.microsoft.com
 rpgeneva.ekg.microsoft.com
@@ -122393,6 +122425,7 @@ servicefabricclu.aysesen.usw3.dev.pme.onepub.microsoft.com
 servicefabricclu.carriezh.usw3.dev.pme.onepub.microsoft.com
 servicefabricclu.inbuckle.usw3.dev.pme.onepub.microsoft.com
 servicefabricclu.johnmcma.usw3.dev.pme.onepub.microsoft.com
+servicefabricclu.leonbr.usw3.dev.pme.onepub.microsoft.com
 servicefabricclu.shrookwa.usw3.dev.pme.onepub.microsoft.com
 servicefabricclu.vaselvam.usw3.dev.pme.onepub.microsoft.com
 servicefabricmonitoring.dev.detection.rome.microsoft.com
@@ -122443,6 +122476,7 @@ services-uat-ops.premier.microsoft.com
 services-uat.learningecosystem.microsoft.com
 services-uat.premier.microsoft.com
 services.ams.wus2.premier.microsoft.com
+services.api.dev.universaldealassistance.microsoft.com
 services.api.sit.universaldealassistance.microsoft.com
 services.api.uat.universaldealassistance.microsoft.com
 services.api.universaldealassistance.microsoft.com
@@ -127030,6 +127064,7 @@ ta.deploymentservice.exp.microsoft.com
 ta.deploymentservice.int.exp.microsoft.com
 ta.imp.microsoft.com
 ta.throttling-ssl.groups-throttling-test.data.microsoft.com
+ta2.network.microsoft.com
 tab.dfp.microsoft.com
 table.azs-longhaul-03-int.selfhost.corp.microsoft.com
 table.bellevue.azurestack.corp.microsoft.com
@@ -131381,6 +131416,7 @@ us-west.c1.microsoft.com
 us-west.g.microsoft.com
 us-west.redir.s.microsoft.com
 us-west.uet.s.microsoft.com
+us-wus3-pd-cc-001.corp.microsoft.com
 us.aad.cs.dds.microsoft.com
 us.admin.api.flow.microsoft.com
 us.api.flow.microsoft.com
