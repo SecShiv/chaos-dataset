@@ -66,6 +66,7 @@ aladataboxapi-uat.resmed.com
 am.ccg.resmed.com
 amdev.ccg.resmed.com
 amr-prd.fsg.machineservices.resmed.com
+amr-qa.fsg.machineservices.resmed.com
 amr-stg.fsg.machineservices.resmed.com
 amruat-www.resmed.com
 ams-preview.resmed.com
@@ -82,6 +83,7 @@ ap-bbb.resmed.com
 ap-ventilation.resmed.com
 apac.resmed.com
 apac-prd.fsg.machineservices.resmed.com
+apac-qa.fsg.machineservices.resmed.com
 apac-stg.fsg.machineservices.resmed.com
 api.resmed.com
 api-iir.resmed.com
@@ -217,6 +219,7 @@ dev-internal-data.resmed.com
 dev-learninghub.resmed.com
 dev-mask-sizing-engine.resmed.com
 dev-media.resmed.com
+dev-mfs-machineservices.resmed.com
 dev-nocache-origin.resmed.com
 dev-onlinestore.resmed.com
 dev-portal-suite.devx.resmed.com
@@ -278,6 +281,7 @@ eudev.ccg.resmed.com
 euuat-www.resmed.com
 euuat.ccg.resmed.com
 events.resmed.com
+events-sbo-dev-amr.resmed.com
 ex.support.resmed.com
 explore.resmed.com
 external.dev1-apim.resmed.com
@@ -343,6 +347,7 @@ logger.resmed.com
 login.resmed.com
 login-dev.resmed.com
 login-dev.researchregistry.resmed.com
+login-qa.resmed.com
 login-stg.resmed.com
 login-stg.researchregistry.resmed.com
 login.airview.resmed.com
@@ -368,6 +373,7 @@ me.resmed.com
 media.resmed.com
 medxcloud-test.resmed.com
 mhs-prd.fsg.machineservices.resmed.com
+mhs-stg.fsg.machineservices.resmed.com
 mobile.resmed.com
 mobile.mail.resmed.com
 mon-amr.resmed.com
@@ -482,9 +488,12 @@ public.us1.paas.resmed.com
 pulse.resmed.com
 pulse-dev.resmed.com
 pulse-uat.resmed.com
+qa-admin.resupply.resmed.com
 qa-amr-gstp-ols-api-service.resmed.com
 qa-eu-gstp-ols-api-service.resmed.com
+qa-hme.resupply.resmed.com
 qa-onlinestore.resmed.com
+qa-patient.resupply.resmed.com
 qa.rsc.resmed.com
 qa2-onlinestore.resmed.com
 qliksenseeuprd.resmed.com

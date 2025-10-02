@@ -130,6 +130,7 @@
 *.bf0917auto-qkjzp.aut.saas.nokia.com
 *.bf0917wkld-6nbx4.aut.saas.nokia.com
 *.bf0924wkld-plvh4.aut.saas.nokia.com
+*.bf1001auto-ssfnz.aut.saas.nokia.com
 *.bf1104auto-xrr8f.aut.saas.nokia.com
 *.bf1104wkld-8fprt.aut.saas.nokia.com
 *.bf1104wkld-jjrc5.aut.saas.nokia.com
@@ -365,6 +366,8 @@
 *.central.us.dac.nokia.com
 *.cg0310aut-l5svq.aut.saas.nokia.com
 *.cg0312wrk-b-6nnmr.aut.saas.nokia.com
+*.cg101aut-ztjnw.aut.saas.nokia.com
+*.cg101wkl-a-wclp5.aut.saas.nokia.com
 *.cg911aut-g2xlp.aut.saas.nokia.com
 *.cg912wkl-b-bg8b5.aut.saas.nokia.com
 *.cg912wkl-b-pt4jx.aut.saas.nokia.com
@@ -381,6 +384,7 @@
 *.clustereks-25.csfp.int.dev.software.nokia.com
 *.cmdbeks-1-22.csfp.int.dev.software.nokia.com
 *.cmdbtest.csfp.int.dev.software.nokia.com
+*.cnfs-ui0915wkld-ml9z8.aut.saas.nokia.com
 *.cnfs-ui0915wkld-wj8rl.aut.saas.nokia.com
 *.cnfs-ui0915wkld-zmrnb.aut.saas.nokia.com
 *.commuter.ext.net.nokia.com
@@ -470,6 +474,7 @@
 *.cw0910aut-dzkch.aut.saas.nokia.com
 *.cw0910wkld-94lwz.aut.saas.nokia.com
 *.cw0916aut-rb7d6.aut.saas.nokia.com
+*.cw0929auto45-lmdtd.aut.saas.nokia.com
 *.cw1004wkld-hz8ds.aut.saas.nokia.com
 *.cw1014w-hhqf7.aut.saas.nokia.com
 *.cw1014w-hj82p.aut.saas.nokia.com
@@ -2872,6 +2877,7 @@
 *.mj0912wkldb-7lkfr.aut.saas.nokia.com
 *.mj0916w-zf66f.aut.saas.nokia.com
 *.mj0925wkld-pg9cq.aut.saas.nokia.com
+*.mj0925wkld-rn5n4.aut.saas.nokia.com
 *.mj0925wkld-w6xzz.aut.saas.nokia.com
 *.mj1021wkld-b5q59.aut.saas.nokia.com
 *.mj1022wkld-v497h.aut.saas.nokia.com
@@ -3054,9 +3060,11 @@
 *.pm0821w-m8wcd.aut.saas.nokia.com
 *.pm0826a-pj49z.aut.saas.nokia.com
 *.pm0902a-hc4xg.aut.saas.nokia.com
+*.pm0904a-xtnjq.aut.saas.nokia.com
 *.pm0904w-a-nksdl.aut.saas.nokia.com
 *.pm0904w-a-vwgrj.aut.saas.nokia.com
 *.pm0904w-b-bsg8t.aut.saas.nokia.com
+*.pm0904w-b-hmwbd.aut.saas.nokia.com
 *.pm0904w-b-z68tj.aut.saas.nokia.com
 *.pm0910a-hs5rh.aut.saas.nokia.com
 *.pm0910a-n2p77.aut.saas.nokia.com
@@ -3268,9 +3276,11 @@
 *.tshirttstmgt-wnpqp.aut.saas.nokia.com
 *.tshirttstwkl-2nvml.aut.saas.nokia.com
 *.tvf.int.net.nokia.com
+*.ui0912a-bhc8w.aut.saas.nokia.com
 *.ui0912a-kk6ff.aut.saas.nokia.com
 *.ui0912a-wjjb6.aut.saas.nokia.com
 *.ui0912aw-28m9m.aut.saas.nokia.com
+*.ui0915wkld-ml9z8.aut.saas.nokia.com
 *.ui0915wkld-zmrnb.aut.saas.nokia.com
 *.uiv-aws-csfp-fp5pp1-6.uiv.labs.cns.nokia.com
 *.uiv-aws-csfp-mp6-6.uiv.labs.cns.nokia.com
@@ -3300,6 +3310,7 @@
 *.ul0904aw-h47r2.aut.saas.nokia.com
 *.ul0930a-2mk78.aut.saas.nokia.com
 *.ul0930a-v8688.aut.saas.nokia.com
+*.ul0930aw-8d4b2.aut.saas.nokia.com
 *.ul0930aw-hv8mr.aut.saas.nokia.com
 *.ul0930aw-wjzk2.aut.saas.nokia.com
 *.ulgitlabqa-pages.int.net.nokia.com
@@ -7651,6 +7662,7 @@ afcore-ns.test21fp5pp1.csfp.ext.dev.software.nokia.com
 aft-dev.ext.net.nokia.com
 aft-qa.ext.net.nokia.com
 aft.ext.net.nokia.com
+agent.ci.int.net.nokia.com
 agenticops.devops01.g002.saas.nokia.com
 aginoodle.int.net.nokia.com
 aicpl.ext.net.nokia.com
@@ -9734,6 +9746,7 @@ clarocl-svhpthgd.ncyd.saas.nokia.com
 claroco-incotmrd.ncyd.saas.nokia.com
 clbwel.penne.us.software.nokia.com
 click.cmail.nokia.com
+clickhouse-ap.anf-ottdemo01.g002.saas.nokia.com
 clickhouse-ap.dint-dev01.g002.saas.nokia.com
 clientsmtp.nokia.com
 cloud-directory-gl.app.nokia.com
@@ -10823,6 +10836,7 @@ dev-shop.nokia.com
 dev-uxg-demo.nokia.com
 dev-uxg2.nokia.com
 dev-www.networks.nokia.com
+dev.agent.ci.int.net.nokia.com
 dev.aginoodle.int.net.nokia.com
 dev.amtana.b2bcrm.nokia.com
 dev.amtremote.b2bcrm.nokia.com
@@ -15528,6 +15542,7 @@ invoice.int.net.nokia.com
 ioc-munich.ext.net.nokia.com
 iot.nokia.com
 iotnucleon.iot.nokia.com
+ip-test.ext.net.nokia.com
 ip.ext.net.nokia.com
 ipex.test.nokia.com
 ipmnm-qa.ext.net.nokia.com
@@ -18780,6 +18795,7 @@ nhdad158.ntc.nokia.com
 nhdsy007.ntc.nokia.com
 nhib.ext.net.nokia.com
 nhub.nokia.com
+nico.ext.net.nokia.com
 nidd-api.int.net.nokia.com
 nidd-prod1.ext.net.nokia.com
 nidd-prod2.ext.net.nokia.com
@@ -19617,6 +19633,7 @@ partner.ext.net.nokia.com
 partner.jp.dac.nokia.com
 partner.staging.eu.dac.nokia.com
 partner.us.dac.nokia.com
+partner.west.ap.dac.nokia.com
 partner.west.us.dac.nokia.com
 partneraccess.nokia.com
 partneraccess.americas.nokia.com

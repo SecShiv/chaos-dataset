@@ -53,6 +53,7 @@ api.pp-feature-14.prod.kraken.com
 api.pp-feature-15.prod.kraken.com
 api.pp-feature-2.prod.kraken.com
 api.pp-feature-3.prod.kraken.com
+api.pp-feature-4.prod.kraken.com
 api.pp-feature-5.prod.kraken.com
 api.pp-feature-6.prod.kraken.com
 api.pp-feature-7.prod.kraken.com
@@ -117,6 +118,7 @@ culture.lobster.kraken.com
 custody.kraken.com
 custody-iapi.internal.uat.lobster.kraken.com
 custody-iapi.vip.uat.lobster.kraken.com
+custody.dc3a.prod.kraken.com
 custody.internal.uat.lobster.kraken.com
 custody.prod.kraken.com
 custody.uat.kraken.com
@@ -505,11 +507,13 @@ pro.pp-feature-15.prod.kraken.com
 pro.pp-feature-2.prod.kraken.com
 pro.pp-feature-3.prod.kraken.com
 pro.pp-feature-4.prod.kraken.com
+pro.pp-feature-5.prod.kraken.com
 pro.pp-feature-6.prod.kraken.com
 pro.pp-feature-7.prod.kraken.com
 pro.pp-feature-8.prod.kraken.com
 pro.pp-feature-9.prod.kraken.com
 pro.pp-funding-3.prod.kraken.com
+pro.pp-master.prod.kraken.com
 pro.pp-rc.prod.kraken.com
 pro.prod.kraken.com
 pro.vip.uat.lobster.kraken.com
@@ -671,6 +675,7 @@ www.internal.uat.lobster.kraken.com
 www.krakentoau10tix.kraken.com
 www.krakentoau10tix-prod.kraken.com
 www.orders.kraken.com
+www.pp-consumer-1.prod.kraken.com
 www.pp-consumer-2.prod.kraken.com
 www.pp-consumer-3.prod.kraken.com
 www.prod.kraken.com
@@ -710,7 +715,3 @@ zelda-ws.kraken.com
 zelda-ws-auth.kraken.com
 zelda-ws-auth.lobster.kraken.com
 zelda-ws-frontend.kraken.com
-zelda-ws-frontend.lobster.kraken.com
-zelda-ws.lobster.kraken.com
-zelda-www.kraken.com
-zelda-www.lobster.kraken.com

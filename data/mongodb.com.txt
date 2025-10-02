@@ -682,6 +682,7 @@ cta.corps.prod.corp.mongodb.com
 ctf.corp.mongodb.com
 customer-hub-task-14155-cleanup-mdbhubauth.ts-tools.staging.corp.mongodb.com
 customer-hub-uat-task-14661.ts-tools.staging.corp.mongodb.com
+customer-hub-uat-task-14680-v2.ts-tools.staging.corp.mongodb.com
 customer-hub-uat-tstools-15192.ts-tools.staging.corp.mongodb.com
 customer-portal-backend.ts-tools.staging.corp.mongodb.com
 customer-portal-cms.ts-tools.staging.corp.mongodb.com
@@ -1124,6 +1125,7 @@ infosec-workflow-scanner.prod.corp.mongodb.com
 infosec-workflow-scanner.staging.corp.mongodb.com
 infosec.prod.corp.mongodb.com
 infosec.staging.corp.mongodb.com
+infra-diag.ts-amer.staging.corp.mongodb.com
 infra.ts-tools.staging.corp.mongodb.com
 infrastructure-ui.ts-tools.staging.corp.mongodb.com
 insideline.corp.mongodb.com
@@ -1246,6 +1248,7 @@ mars-dev-feature-api-link-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-api-mesh-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-dp-ui-core-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-fix-warning-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-kube-api-retries-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-track-manual-jobs-dev.dataplatform-dev.staging.corp.mongodb.com
 mars.dataplatform.staging.corp.mongodb.com
@@ -1369,6 +1372,8 @@ partners.prod.corp.mongodb.com
 partners.staging.corp.mongodb.com
 pathway.mongodb.com
 pct-bot.corp.mongodb.com
+pct.cloud-build.prod.corp.mongodb.com
+pct.cloud-build.staging.corp.mongodb.com
 people-analytics.prod.corp.mongodb.com
 people-analytics.staging.corp.mongodb.com
 performance-monitoring-api.corp.mongodb.com

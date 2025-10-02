@@ -94,8 +94,11 @@
 *.emea.raas.sbx.avalara.io
 *.entvault-qa.sec.ci.avalara.io
 *.entvault.sec.ci.avalara.io
+*.epsilon.dev.eu-west-1.aws.avalara.io
 *.epsilon.prd.eu-west-1.aws.avalara.io
+*.epsilon.qa.eu-west-1.aws.avalara.io
 *.epsilon.sbx.eu-west-1.aws.avalara.io
+*.epsilon.stg.eu-west-1.aws.avalara.io
 *.eta.dev.us-ashburn-1.oci.avalara.io
 *.eta.int.us-ashburn-1.oci.avalara.io
 *.eta.prd.us-ashburn-1.oci.avalara.io
@@ -512,6 +515,7 @@ ava-stx.midgard.avalara.io
 ava-stx.midgard.stg.avalara.io
 avalara-id.ci.avalara.io
 avalara-id.qa.avalara.io
+avalara.sales.scs.ceplogger.dev.avalara.io
 avamon-reflect.qa.avalara.io
 avatax.avalara.io
 avatax-api.stg.us-west-2.avalara.io
@@ -1719,6 +1723,7 @@ scm.platform.us-west-2.qa.avalara.io
 scm.qa.platform.avalara.io
 scm.staging.platform.avalara.io
 scripts-ui.web.avalara.io
+scs.avalara.ceplogger.dev.avalara.io
 sec.ci.avalara.io
 sec.qa.avalara.io
 secretdetection.sec.avalara.io
@@ -2019,6 +2024,3 @@ xbc-api.midgard.stg.avalara.io
 zincron-sbx.midgard.avalara.io
 zincron.midgard.avalara.io
 zincron.midgard.qa.avalara.io
-zincron.midgard.stg.avalara.io
-zuora-basic.dev.avalara.io
-zuora-iia.dev.avalara.io

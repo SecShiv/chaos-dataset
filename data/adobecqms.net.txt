@@ -105,6 +105,11 @@
 *.author-columbia-prod65-1.adobecqms.net
 *.autoclubgrp.adobecqms.net
 *.b-contentprod.biogen-b75.adobecqms.net
+*.b80.prod.bg.cm.adobecqms.net
+*.b80.prod.cm.adobecqms.net
+*.b80.prod.regular.cm.adobecqms.net
+*.b80.stage.cm.adobecqms.net
+*.b80.stage.regular.cm.adobecqms.net
 *.bajajfinance.adobecqms.net
 *.bajajfinancedam.adobecqms.net
 *.bancoazteca.adobecqms.net
@@ -210,6 +215,7 @@
 *.build.chewy.adobecqms.net
 *.build.citisgsgipbmy.adobecqms.net
 *.build.clp-hk-power.adobecqms.net
+*.build.cm.adobecqms.net
 *.build.columbia.adobecqms.net
 *.build.coty.adobecqms.net
 *.build.county-los-angeles.adobecqms.net
@@ -303,6 +309,7 @@
 *.build.orientaltrading.adobecqms.net
 *.build.osi.adobecqms.net
 *.build.pacificdental.adobecqms.net
+*.build.pggm65.adobecqms.net
 *.build.philippine-airlines-inc.adobecqms.net
 *.build.philips.adobecqms.net
 *.build.philips-aem.adobecqms.net
@@ -357,6 +364,7 @@
 *.build.vmware.adobecqms.net
 *.build.waste-management-waf.adobecqms.net
 *.build.wells-fargo.adobecqms.net
+*.build.wintrustbank.adobecqms.net
 *.build2.stryker.adobecqms.net
 *.bw.adobecqms.net
 *.bw-dev.adobecqms.net
@@ -618,6 +626,7 @@
 *.dev.clp-hk-power.adobecqms.net
 *.dev.clp-power-hk.adobecqms.net
 *.dev.clubhkt.adobecqms.net
+*.dev.cm.adobecqms.net
 *.dev.cnb.adobecqms.net
 *.dev.coles-au-dev-02.adobecqms.net
 *.dev.coles-australia.adobecqms.net
@@ -1082,6 +1091,7 @@
 *.dev.weretail-global.adobecqms.net
 *.dev.wgm.adobecqms.net
 *.dev.whirlpool.adobecqms.net
+*.dev.wintrustbank.adobecqms.net
 *.dev.wlgore-aws.adobecqms.net
 *.dev.woolworths.adobecqms.net
 *.dev.woolworthsgroup.adobecqms.net
@@ -1313,6 +1323,8 @@
 *.dispatcher1.test.velocity.adobecqms.net
 *.dispatcher1.uat.vaa.adobecqms.net
 *.dispatcher10.prod.velocity.adobecqms.net
+*.dispatcher11.prod.velocity.adobecqms.net
+*.dispatcher12.prod.velocity.adobecqms.net
 *.dispatcher2.dev.vaa.adobecqms.net
 *.dispatcher2.dev.velocity.adobecqms.net
 *.dispatcher2.prod.vaa.adobecqms.net
@@ -1330,7 +1342,9 @@
 *.dispatcher4.stage.vaa.adobecqms.net
 *.dispatcher4.stage.velocity.adobecqms.net
 *.dispatcher5.prod.velocity.adobecqms.net
+*.dispatcher5.stage.velocity.adobecqms.net
 *.dispatcher6.prod.velocity.adobecqms.net
+*.dispatcher6.stage.velocity.adobecqms.net
 *.dispatcher7.prod.velocity.adobecqms.net
 *.dispatcher8.prod.velocity.adobecqms.net
 *.dispatcher9.prod.velocity.adobecqms.net
@@ -1707,6 +1721,7 @@
 *.perf.chase-com.adobecqms.net
 *.perf.citisgsgipbmy.adobecqms.net
 *.perf.clp-hk-power.adobecqms.net
+*.perf.cm.adobecqms.net
 *.perf.columbia.adobecqms.net
 *.perf.coty.adobecqms.net
 *.perf.county-los-angeles.adobecqms.net
@@ -1806,6 +1821,7 @@
 *.perf.orientaltrading.adobecqms.net
 *.perf.osi.adobecqms.net
 *.perf.pacificdental.adobecqms.net
+*.perf.pggm65.adobecqms.net
 *.perf.philippine-airlines-inc.adobecqms.net
 *.perf.philips.adobecqms.net
 *.perf.philips-aem.adobecqms.net
@@ -1864,6 +1880,7 @@
 *.perf.wbasites.adobecqms.net
 *.perf.wells-fargo.adobecqms.net
 *.perf.whirlpool.adobecqms.net
+*.perf.wintrustbank.adobecqms.net
 *.performance.adt.adobecqms.net
 *.pga-tour.adobecqms.net
 *.pgatour.adobecqms.net
@@ -1999,6 +2016,7 @@
 *.preprod.chubb.adobecqms.net
 *.preprod.citisgsgipbmy.adobecqms.net
 *.preprod.clp-hk-power.adobecqms.net
+*.preprod.cm.adobecqms.net
 *.preprod.columbia.adobecqms.net
 *.preprod.coty.adobecqms.net
 *.preprod.county-los-angeles.adobecqms.net
@@ -2112,6 +2130,7 @@
 *.preprod.orientaltrading.adobecqms.net
 *.preprod.osi.adobecqms.net
 *.preprod.pacificdental.adobecqms.net
+*.preprod.pggm65.adobecqms.net
 *.preprod.philippine-airlines-inc.adobecqms.net
 *.preprod.philips.adobecqms.net
 *.preprod.philips-aem.adobecqms.net
@@ -2183,6 +2202,7 @@
 *.preprod.vodafone-assets65.adobecqms.net
 *.preprod.waste-management-waf.adobecqms.net
 *.preprod.wells-fargo.adobecqms.net
+*.preprod.wintrustbank.adobecqms.net
 *.preprod.wlgore-aws.adobecqms.net
 *.preprod1.infineon.adobecqms.net
 *.preprod1.keysight.adobecqms.net
@@ -2377,6 +2397,7 @@
 *.prod.clp-hk-power.adobecqms.net
 *.prod.clp-power-hk.adobecqms.net
 *.prod.clubhkt.adobecqms.net
+*.prod.cm.adobecqms.net
 *.prod.cnb.adobecqms.net
 *.prod.coles-australia.adobecqms.net
 *.prod.colgate.adobecqms.net
@@ -2874,6 +2895,7 @@
 *.prod.weretail-global.adobecqms.net
 *.prod.wgm.adobecqms.net
 *.prod.whirlpool.adobecqms.net
+*.prod.wintrustbank.adobecqms.net
 *.prod.wlgore-aws.adobecqms.net
 *.prod.woolworths.adobecqms.net
 *.prod.woolworthsgroup.adobecqms.net
@@ -3112,6 +3134,7 @@
 *.qa.clp-hk-power.adobecqms.net
 *.qa.clp-power-hk.adobecqms.net
 *.qa.clubhkt.adobecqms.net
+*.qa.cm.adobecqms.net
 *.qa.cnb.adobecqms.net
 *.qa.columbia.adobecqms.net
 *.qa.commonspirit.adobecqms.net
@@ -3339,6 +3362,7 @@
 *.qa.pearson.adobecqms.net
 *.qa.pga-tour.adobecqms.net
 *.qa.pgatour.adobecqms.net
+*.qa.pggm65.adobecqms.net
 *.qa.philippine-airlines-inc.adobecqms.net
 *.qa.philips.adobecqms.net
 *.qa.philips-aem.adobecqms.net
@@ -3485,6 +3509,7 @@
 *.qa.wells-fargo.adobecqms.net
 *.qa.wgm.adobecqms.net
 *.qa.whirlpool.adobecqms.net
+*.qa.wintrustbank.adobecqms.net
 *.qa.wlgore-aws.adobecqms.net
 *.qa.workday.adobecqms.net
 *.qa.worldbank.adobecqms.net
@@ -3740,6 +3765,7 @@
 *.sit.cimb.adobecqms.net
 *.sit.citisgsgipbmy.adobecqms.net
 *.sit.clp-hk-power.adobecqms.net
+*.sit.cm.adobecqms.net
 *.sit.columbia.adobecqms.net
 *.sit.coty.adobecqms.net
 *.sit.county-los-angeles.adobecqms.net
@@ -3840,6 +3866,7 @@
 *.sit.orientaltrading.adobecqms.net
 *.sit.osi.adobecqms.net
 *.sit.pacificdental.adobecqms.net
+*.sit.pggm65.adobecqms.net
 *.sit.philippine-airlines-inc.adobecqms.net
 *.sit.philips.adobecqms.net
 *.sit.philips-aem.adobecqms.net
@@ -3897,6 +3924,7 @@
 *.sit.vmware.adobecqms.net
 *.sit.waste-management-waf.adobecqms.net
 *.sit.wells-fargo.adobecqms.net
+*.sit.wintrustbank.adobecqms.net
 *.sit.wlgore-aws.adobecqms.net
 *.sit1.bdo.adobecqms.net
 *.sit1.infineon.adobecqms.net
@@ -4102,6 +4130,7 @@
 *.stage.clp-hk-power.adobecqms.net
 *.stage.clp-power-hk.adobecqms.net
 *.stage.clubhkt.adobecqms.net
+*.stage.cm.adobecqms.net
 *.stage.cnb.adobecqms.net
 *.stage.coles-australia.adobecqms.net
 *.stage.colgate.adobecqms.net
@@ -4586,6 +4615,7 @@
 *.stage.weretail-global.adobecqms.net
 *.stage.wgm.adobecqms.net
 *.stage.whirlpool.adobecqms.net
+*.stage.wintrustbank.adobecqms.net
 *.stage.wlgore-aws.adobecqms.net
 *.stage.woolworths.adobecqms.net
 *.stage.woolworthsgroup.adobecqms.net
@@ -4875,6 +4905,7 @@
 *.test.clp.adobecqms.net
 *.test.clp-hk-power.adobecqms.net
 *.test.clubhkt.adobecqms.net
+*.test.cm.adobecqms.net
 *.test.coles-au-test-01.adobecqms.net
 *.test.coles-australia.adobecqms.net
 *.test.colgate.adobecqms.net
@@ -5251,6 +5282,7 @@
 *.test.wells-fargo.adobecqms.net
 *.test.wgm.adobecqms.net
 *.test.whirlpool.adobecqms.net
+*.test.wintrustbank.adobecqms.net
 *.test.wlgore-aws.adobecqms.net
 *.test.workday.adobecqms.net
 *.test.wsu.adobecqms.net
@@ -5315,6 +5347,7 @@
 *.test65.wsu.adobecqms.net
 *.test65.zeppelin.adobecqms.net
 *.test65a.colgate.adobecqms.net
+*.test65c.pggm65.adobecqms.net
 *.texas.adobecqms.net
 *.thomsonreuters.adobecqms.net
 *.three.adobecqms.net
@@ -7108,6 +7141,7 @@ clp-power-hk.adobecqms.net
 clp-power-hk65.adobecqms.net
 clp-power65.adobecqms.net
 clubhkt.adobecqms.net
+cm.adobecqms.net
 cm1useast1.amsmail.adobecqms.net
 cmo.adobecqms.net
 cmo-prod-64-dexter.adobecqms.net
@@ -10664,6 +10698,7 @@ prd.pentagonfed.adobecqms.net
 prd.ssga.adobecqms.net
 prd.thriventmutualfunds.adobecqms.net
 prd.trisept.adobecqms.net
+prd.wintrustbank.adobecqms.net
 prd1.minecraft.adobecqms.net
 prd63.sephora-dcm.adobecqms.net
 prd65.invesco.adobecqms.net
@@ -15819,6 +15854,7 @@ stg.pmiemea-aem64.adobecqms.net
 stg.spicejet.adobecqms.net
 stg.ssga.adobecqms.net
 stg.trisept.adobecqms.net
+stg.wintrustbank.adobecqms.net
 stg01.uhg-forms.adobecqms.net
 stg1.allianz-de.adobecqms.net
 stg1.minecraft.adobecqms.net

@@ -502,9 +502,12 @@
 *.docgen.dev.finra.org
 *.docgen.qa.finra.org
 *.doe.finra.org
+*.doe.awstools.finra.org
 *.doe.dev.finra.org
 *.doe.dev.awstools.finra.org
 *.doe.dev.dr.finra.org
+*.doe.qa.finra.org
+*.doe.qa.awstools.finra.org
 *.domino.finra.org
 *.domino.pa.finra.org
 *.doorbell-dev.fip.dev.finra.org
@@ -788,6 +791,7 @@
 *.fingerprints-qaint.qa.finra.org
 *.finpro.finra.org
 *.finpro.dev.finra.org
+*.finpro.qa.finra.org
 *.finprogw.finra.org
 *.finprogw.dev.finra.org
 *.finprogw.qa.finra.org
@@ -6462,5 +6466,3 @@ xfer-aep-qc.finra.org
 yum.awstools.finra.org
 yum.ct.aws.finra.org
 zen.dev.finra.org
-zen.qa.finra.org
-zr53.api.gateway-qaint.qa.finra.org

@@ -80,9 +80,11 @@
 *.liza.surf.nl
 *.local.snellius.surf.nl
 *.mgmt.argos.surf.nl
+*.mgmt.secops.surf.nl
 *.mgt.argos.surf.nl
 *.objectstorage.surf.nl
 *.objectstore.surf.nl
+*.opencti.surf.nl
 *.playground-int.sdp.surf.nl
 *.playground.sdp.surf.nl
 *.prod-int.sdp.surf.nl
@@ -92,6 +94,7 @@
 *.record-harvester.stage.sdp.surf.nl
 *.record-harvester.test.sdp.surf.nl
 *.s3.surf.nl
+*.secops.surf.nl
 *.snellius.surf.nl
 *.soil.surf.nl
 *.stage-int.sdp.surf.nl
@@ -1135,6 +1138,7 @@ e.surf.nl
 e-learning.surf.nl
 ec.minga.oidf.lab.surf.nl
 ece.secops.surf.nl
+ece01.secops.surf.nl
 echoip-dev.cua.surf.nl
 echoip.cua.surf.nl
 edu-federation-op.pilot1.sram.surf.nl
@@ -3415,6 +3419,8 @@ se.swamid.oidf.lab.surf.nl
 seaweed-ha.pilot1.sram.surf.nl
 seaweed-s3.pilot1.sram.surf.nl
 sec.surf.nl
+secmgmt01p.mgmt.secops.surf.nl
+secmgmt01p.secops.surf.nl
 secops1.argos.surf.nl
 secops1.con.argos.surf.nl
 secops2.argos.surf.nl

@@ -478,6 +478,7 @@ infra.svc.use1.grid-aws-prod.aws.yahoo.cloud
 infra.svc.use1.grid-aws-staging.aws.yahoo.cloud
 infra.svc.usw2.grid-aws-prod.aws.yahoo.cloud
 infra.svc.usw2.grid-aws-staging.aws.yahoo.cloud
+ingest-controller-stage.news-ml-stage-gcp-usw1.gcp.yahoo.cloud
 intl-media-k8s.media.yahoo.cloud
 jimap200022.mail.ne1.yahoo.cloud
 k8s-omega-gcp-nonprod.gcp.yahoo.cloud
@@ -602,6 +603,7 @@ sherpa-gcloud-nonprod.gcp.yahoo.cloud
 sherpa-gcp-nonprod.gcp.yahoo.cloud
 sherpa-gcp-prod.gcp.yahoo.cloud
 sia-run.yamas-gcp-dev.gcp.yahoo.cloud
+sn-for-you-nl-stage.news-ml-stage-gcp-use4.gcp.yahoo.cloud
 sn-for-you.news-ml-stage-gcp-use4.gcp.yahoo.cloud
 solo.mail-backend-schd-dev.aws.yahoo.cloud
 solo.mail-backend-schd-prd.aws.yahoo.cloud
@@ -621,6 +623,7 @@ stg-use1-simon-simonweb.svc.use1.grid-aws-staging.aws.yahoo.cloud
 streamer-v3.finance.aws.yahoo.cloud
 supernova-for-you-prod.news-ml-prod-gcp-usw1.gcp.yahoo.cloud
 supernova-regional.news-ml-dev-gcp-use4.gcp.yahoo.cloud
+supernova-user-dev.news-ml-dev-gcp-use4.gcp.yahoo.cloud
 supernova.news-ml-dev-gcp-use4.gcp.yahoo.cloud
 supernova.news-ml-stage-gcp-use4.gcp.yahoo.cloud
 taiwan-aws-nonprod-bigdata.aws.yahoo.cloud

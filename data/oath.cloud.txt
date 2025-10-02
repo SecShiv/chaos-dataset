@@ -768,6 +768,7 @@
 *.aws-nonprod.yk-showtimes-nonprod.yk-serving.aws-us-east-1a.vespa.oath.cloud
 *.aws-nonprod.yk-showtimes-nonprod.yk-serving.aws-us-west-2a.staging.vespa.oath.cloud
 *.aws-nonprod.yk-showtimes-nonprod.yk-serving.aws-us-west-2a.test.vespa.oath.cloud
+*.aws-nonprod.yk-showtimes-nonprod.yk-serving.aws-us-west-2a.vespa.oath.cloud
 *.aws-nonprod.yk-showtimes-nonprod.yk-serving.gcp-us-east5-a.staging.vespa.oath.cloud
 *.aws-nonprod.yk-showtimes-nonprod.yk-serving.gcp-us-east5-a.test.vespa.oath.cloud
 *.aws-nonprod.yk-showtimes-nonprod.yk-serving.global.vespa.oath.cloud
@@ -1099,6 +1100,7 @@
 *.b176828c.a.vespa.oath.cloud
 *.b176828c.g.vespa.oath.cloud
 *.b176828c.z.vespa.oath.cloud
+*.b188996c.z.vespa.oath.cloud
 *.b1b9054d.a.vespa.oath.cloud
 *.b1b9054d.g.vespa.oath.cloud
 *.b1b9054d.z.vespa.oath.cloud
@@ -1246,6 +1248,9 @@
 *.b7519191.a.cd.vespa.oath.cloud
 *.b7519191.g.cd.vespa.oath.cloud
 *.b7519191.z.cd.vespa.oath.cloud
+*.b75b496c.a.vespa.oath.cloud
+*.b75b496c.g.vespa.oath.cloud
+*.b75b496c.z.vespa.oath.cloud
 *.b76649c1.a.vespa.oath.cloud
 *.b76649c1.g.vespa.oath.cloud
 *.b76649c1.z.vespa.oath.cloud
@@ -1438,6 +1443,7 @@
 *.bea9fa5e.g.vespa.oath.cloud
 *.bea9fa5e.z.vespa.oath.cloud
 *.beap.aws.oath.cloud
+*.bec1423a.z.vespa.oath.cloud
 *.beca5057.a.cd.vespa.oath.cloud
 *.beca5057.g.cd.vespa.oath.cloud
 *.beca5057.z.cd.vespa.oath.cloud
@@ -5765,6 +5771,7 @@
 *.ncg-qa.aws.oath.cloud
 *.ncg-stage.aws.oath.cloud
 *.nchiang.clusters-indexing-tf-idf.stream.us-east-1.dev.vespa.oath.cloud
+*.nchiang.ranking-index.mlplatform.aws-use1-az1.dev.vespa.oath.cloud
 *.nchiang.ranking-index.mlplatform.us-east-1.dev.vespa.oath.cloud
 *.nchiang.stream-ranking.stream.aws-use1-az1.dev.vespa.oath.cloud
 *.nchiang.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
@@ -6200,8 +6207,12 @@
 *.productad.geminiapps.us-west-1.vespa.oath.cloud
 *.production.lumos.tw-media-wizardry.ap-northeast-1.vespa.oath.cloud
 *.production.lumos.tw-media-wizardry.ap-southeast-1.vespa.oath.cloud
+*.production.lumos.tw-media-wizardry.aws-ap-southeast-1a.vespa.oath.cloud
+*.production.lumos.tw-media-wizardry.aws-apse1-az1.vespa.oath.cloud
 *.production.lumos.tw-media-wizardry.aws-us-west-2a.staging.vespa.oath.cloud
 *.production.lumos.tw-media-wizardry.aws-us-west-2a.test.vespa.oath.cloud
+*.production.lumos.tw-media-wizardry.aws-us-west-2a.vespa.oath.cloud
+*.production.lumos.tw-media-wizardry.aws-usw2-az2.vespa.oath.cloud
 *.production.lumos.tw-media-wizardry.gcp-us-east5-a.staging.vespa.oath.cloud
 *.production.lumos.tw-media-wizardry.gcp-us-east5-a.test.vespa.oath.cloud
 *.production.lumos.tw-media-wizardry.global.vespa.oath.cloud
@@ -6513,6 +6524,7 @@
 *.smp-b2b-prod-internal.aws.oath.cloud
 *.smp-b2b-prod.aws.oath.cloud
 *.smp-b2b-stage.aws.oath.cloud
+*.smp-cozy-prod.aws.oath.cloud
 *.smp-cozy-stage.aws.oath.cloud
 *.smp-lat-prod.aws.oath.cloud
 *.smp-lat-stage.aws.oath.cloud
@@ -9113,6 +9125,7 @@ aws-nonprod.yk-showtimes-nonprod.yk-serving-nonprod.us-east-3.staging.vespa.oath
 aws-nonprod.yk-showtimes-nonprod.yk-serving.aws-us-east-1a.vespa.oath.cloud
 aws-nonprod.yk-showtimes-nonprod.yk-serving.aws-us-west-2a.staging.vespa.oath.cloud
 aws-nonprod.yk-showtimes-nonprod.yk-serving.aws-us-west-2a.test.vespa.oath.cloud
+aws-nonprod.yk-showtimes-nonprod.yk-serving.aws-us-west-2a.vespa.oath.cloud
 aws-nonprod.yk-showtimes-nonprod.yk-serving.gcp-us-east5-a.staging.vespa.oath.cloud
 aws-nonprod.yk-showtimes-nonprod.yk-serving.gcp-us-east5-a.test.vespa.oath.cloud
 aws-nonprod.yk-showtimes-nonprod.yk-serving.global.vespa.oath.cloud
@@ -16050,6 +16063,7 @@ nanguyen14.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 narprd1.subscriptions.obi-batch.aws.prod.private.aws.oath.cloud
 native.image-search.sandbox.us-east-1.dev.vespa.oath.cloud
 nchiang.clusters-indexing-tf-idf.stream.us-east-1.dev.vespa.oath.cloud
+nchiang.ranking-index.mlplatform.aws-use1-az1.dev.vespa.oath.cloud
 nchiang.ranking-index.mlplatform.us-east-1.dev.vespa.oath.cloud
 nchiang.stream-ranking.stream.aws-use1-az1.dev.vespa.oath.cloud
 nchiang.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
@@ -16994,8 +17008,12 @@ production-elk-kibana.huffpost-utils.aws.oath.cloud
 production-elk-logstash.huffpost-utils.aws.oath.cloud
 production.lumos.tw-media-wizardry.ap-northeast-1.vespa.oath.cloud
 production.lumos.tw-media-wizardry.ap-southeast-1.vespa.oath.cloud
+production.lumos.tw-media-wizardry.aws-ap-southeast-1a.vespa.oath.cloud
+production.lumos.tw-media-wizardry.aws-apse1-az1.vespa.oath.cloud
 production.lumos.tw-media-wizardry.aws-us-west-2a.staging.vespa.oath.cloud
 production.lumos.tw-media-wizardry.aws-us-west-2a.test.vespa.oath.cloud
+production.lumos.tw-media-wizardry.aws-us-west-2a.vespa.oath.cloud
+production.lumos.tw-media-wizardry.aws-usw2-az2.vespa.oath.cloud
 production.lumos.tw-media-wizardry.gcp-us-east5-a.staging.vespa.oath.cloud
 production.lumos.tw-media-wizardry.gcp-us-east5-a.test.vespa.oath.cloud
 production.lumos.tw-media-wizardry.global.vespa.oath.cloud

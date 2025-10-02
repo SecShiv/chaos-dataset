@@ -101,6 +101,7 @@
 *.apps.pd27.caas.niehl.ford.com
 *.apps.pd302.caas.gcp.ford.com
 *.apps.pd303.caas.gcp.ford.com
+*.apps.pd36.caas.sanand.ford.com
 *.apps.pd50.caas.sh8.ford.com
 *.apps.pd60.caas.ks1.ford.com
 *.apps.pp00.edc.caas.ford.com
@@ -3621,6 +3622,7 @@ api.pd302.caas.gcp.ford.com
 api.pd303.caas.gcp.ford.com
 api.pd310.caas.gcp.ford.com
 api.pd313.caas.gcp.ford.com
+api.pd36.caas.sanand.ford.com
 api.pd401.caas.gcp.ford.com
 api.pd402.caas.gcp.ford.com
 api.pd50.caas.sh8.ford.com
@@ -4437,6 +4439,7 @@ apps.pd303.caas.gcp.ford.com
 apps.pd304.caas.gcp.ford.com
 apps.pd310.caas.gcp.ford.com
 apps.pd313.caas.gcp.ford.com
+apps.pd36.caas.sanand.ford.com
 apps.pd401.caas.gcp.ford.com
 apps.pd402.caas.gcp.ford.com
 apps.pd50.caas.sh8.ford.com
@@ -7576,6 +7579,7 @@ competencycenter.ford.com
 complexity.ford.com
 complexity-dev.ford.com
 complexity-qa.ford.com
+complexity-ui.app.gcp.ford.com
 complexity-vip-chiadc07-cf-rprxy1-19.chi.ford.com
 complexity.app.gcp.ford.com
 complexity.prod.cf.app.ford.com
@@ -9601,6 +9605,7 @@ dev.pay.ford.com
 dev.pbc-backend.ford.com
 dev.permissions.ford.com
 dev.pinnacle.ford.com
+dev.power-up-academy-ui.app.gcp.ford.com
 dev.protectplus.gcp.ford.com
 dev.prs.programhealth.ford.com
 dev.raw.ford.com
@@ -18817,6 +18822,7 @@ otagov-qa.ford.com
 otagov-qa.app.gcp.ford.com
 otasoftwarereleaseanddeployment.ford.com
 otc.udb.ford.com
+otd.profilemgmtdev.ford.com
 otel-stage.app.gcp.ford.com
 otf.ford.com
 otf-dev.app.gcp.ford.com
@@ -19974,8 +19980,10 @@ pdfgen-vip-chiadc07-cf-rprxy2-19.chi.ford.com
 pdg.app.gcp.ford.com
 pdgchat.ford.com
 pdi-dev.ford.com
+pdi-stage.ford.com
 pdla.ford.com
 pdmaars.ford.com
+pdo.ford.com
 pdo-call-back-gforce3.etl.ford.com
 pdo-notification-gforce3.etl.ford.com
 pdo-sdp-metrics-vip-ashadc07-cf-rprxy1-19.ash.ford.com
@@ -36503,6 +36511,7 @@ www.otagov.ford.com
 www.otagov-qa.ford.com
 www.otagov-qa.app.gcp.ford.com
 www.otasoftwarereleaseanddeployment.ford.com
+www.otd.profilemgmtdev.ford.com
 www.otf.ford.com
 www.otf-ui.ford.com
 www.otfjprod.otf.ford.com
@@ -36642,6 +36651,7 @@ www.pddef.ford.com
 www.pdfgen.ford.com
 www.pdgchat.ford.com
 www.pdmaars.ford.com
+www.pdo.ford.com
 www.pdo-call-back-gforce3.etl.ford.com
 www.pdo-notification-gforce3.etl.ford.com
 www.pdo-sdp-metrics.ford.com

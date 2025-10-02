@@ -2,6 +2,7 @@
 *.analytics.ops.dev.playgami.scopely.com
 *.analytics.ops.prod.playgami.scopely.com
 *.atlantis.dev.electrum.scopely.com
+*.cloudops-euw1.sandbox.electrum.scopely.com
 *.console.playgami.scopely.com
 *.dev.electrum.scopely.com
 *.dev.partnerportal.scopely.com
@@ -10,6 +11,7 @@
 *.devops.ops.dev.playgami.scopely.com
 *.devops.ops.prod.playgami.scopely.com
 *.electrum-cluster-eu-west-1.dev.electrum.scopely.com
+*.int-cloudops-euw1.sandbox.electrum.scopely.com
 *.luna-api.scopely.com
 *.luna-dev.scopely.com
 *.network.dev.dev.electrum.scopely.com
@@ -19,6 +21,7 @@
 *.playgami.scopely.com
 *.prod.payments.playgami.scopely.com
 *.prod.playgami.scopely.com
+*.sandbox.electrum.scopely.com
 *.sandbox.playgami.scopely.com
 *.scs.ops.dev.playgami.scopely.com
 *.scs.ops.prod.playgami.scopely.com
@@ -43,6 +46,7 @@ ccvpn.scopely.com
 cdn2.scopely.com
 chunkstore.luna-api.scopely.com
 chunkstore.luna-dev.scopely.com
+cloudops-euw1.sandbox.electrum.scopely.com
 codereview.scopely.com
 console.playgami.scopely.com
 constructs.luna-dev.scopely.com
@@ -81,6 +85,7 @@ inapp-help.scopely.com
 incident.scopely.com
 inside.scopely.com
 inside-cms.scopely.com
+int-cloudops-euw1.sandbox.electrum.scopely.com
 jenkins-cdk.luna-dev.scopely.com
 jenkins-np.luna-dev.scopely.com
 jenkins.luna-dev.scopely.com
@@ -127,6 +132,7 @@ props.environmentname.luna-dev.scopely.com
 pvvpn.scopely.com
 radius.scopely.com
 reviewboard.luna-dev.scopely.com
+sandbox.electrum.scopely.com
 securemail.scopely.com
 servicedesk.scopely.com
 sip.scopely.com

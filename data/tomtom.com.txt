@@ -58,6 +58,7 @@
 10168.discos.orbis.tomtom.com
 10222.discos.orbis.tomtom.com
 10313.discos.orbis.tomtom.com
+10321.discos.orbis.tomtom.com
 10335.discos.orbis.tomtom.com
 10384.discos.orbis.tomtom.com
 10438.discos.orbis.tomtom.com
@@ -214,6 +215,7 @@
 17370.discos.orbis.tomtom.com
 17381.discos.orbis.tomtom.com
 17382.discos.orbis.tomtom.com
+17386.discos.orbis.tomtom.com
 17451.discos.orbis.tomtom.com
 17488.discos.orbis.tomtom.com
 17520.discos.orbis.tomtom.com
@@ -6429,6 +6431,7 @@ monitor-prod.prod-ams.tomtom.com
 monitor-sud.nonprod-ams.tomtom.com
 monitor-test.prod-ams.tomtom.com
 monitoring-green.cx-staging.tomtom.com
+monitoring.cx.tomtom.com
 monitoring.cx-staging.tomtom.com
 monitoring.geocoder.tomtom.com
 monitoring.od.tomtom.com
@@ -6915,6 +6918,7 @@ places-agent.pr-36.aqua.poi-dev.orbis.tomtom.com
 places-agent.pr-37.aqua.poi-dev.orbis.tomtom.com
 places-agent.pr-38.aqua.poi-dev.orbis.tomtom.com
 places-agent.pr-42.aqua.poi-dev.orbis.tomtom.com
+places-agent.pr-44.aqua.poi-dev.orbis.tomtom.com
 places.test.tomtom.com
 plan.tomtom.com
 platform.ifttt.services.tomtom.com
@@ -7954,6 +7958,7 @@ state-reader-10168.10168.discos.orbis.tomtom.com
 state-reader-10222.10222.discos.orbis.tomtom.com
 state-reader-10313.10313.discos.orbis.tomtom.com
 state-reader-10313.26045.discos.orbis.tomtom.com
+state-reader-10321.10321.discos.orbis.tomtom.com
 state-reader-10335.10335.discos.orbis.tomtom.com
 state-reader-10384.10384.discos.orbis.tomtom.com
 state-reader-10384.13262.discos.orbis.tomtom.com
@@ -8428,6 +8433,7 @@ state-reader-17381.5.discos.orbis.tomtom.com
 state-reader-17381.6.discos.orbis.tomtom.com
 state-reader-17381.7.discos.orbis.tomtom.com
 state-reader-17382.17382.discos.orbis.tomtom.com
+state-reader-17386.17386.discos.orbis.tomtom.com
 state-reader-17397.6.discos.orbis.tomtom.com
 state-reader-17397.7.discos.orbis.tomtom.com
 state-reader-17451.17451.discos.orbis.tomtom.com
@@ -10207,6 +10213,7 @@ state-reader-84040.84040.discos.orbis.tomtom.com
 state-reader-84173.84173.discos.orbis.tomtom.com
 state-reader-84197.84197.discos.orbis.tomtom.com
 state-reader-84295.6.discos.orbis.tomtom.com
+state-reader-84295.7.discos.orbis.tomtom.com
 state-reader-84489.84489.discos.orbis.tomtom.com
 state-reader-84590.10698.discos.orbis.tomtom.com
 state-reader-84590.16158.discos.orbis.tomtom.com
@@ -10275,6 +10282,7 @@ state-reader-87762.87762.discos.orbis.tomtom.com
 state-reader-88121.10698.discos.orbis.tomtom.com
 state-reader-88121.17869.discos.orbis.tomtom.com
 state-reader-88121.88121.discos.orbis.tomtom.com
+state-reader-88259.12279.discos.orbis.tomtom.com
 state-reader-88259.21263.discos.orbis.tomtom.com
 state-reader-88259.29351.discos.orbis.tomtom.com
 state-reader-88259.38434.discos.orbis.tomtom.com
@@ -10344,6 +10352,7 @@ state-reader-91460.7.discos.orbis.tomtom.com
 state-reader-91460.82596.discos.orbis.tomtom.com
 state-reader-91460.91460.discos.orbis.tomtom.com
 state-reader-91567.11529.discos.orbis.tomtom.com
+state-reader-91567.12279.discos.orbis.tomtom.com
 state-reader-91567.17957.discos.orbis.tomtom.com
 state-reader-91567.26045.discos.orbis.tomtom.com
 state-reader-91567.27572.discos.orbis.tomtom.com
@@ -10403,6 +10412,7 @@ state-reader-95495.95495.discos.orbis.tomtom.com
 state-reader-95764.95764.discos.orbis.tomtom.com
 state-reader-95830.6.discos.orbis.tomtom.com
 state-reader-95830.7.discos.orbis.tomtom.com
+state-reader-95830.95830.discos.orbis.tomtom.com
 state-reader-95896.16158.discos.orbis.tomtom.com
 state-reader-95896.20885.discos.orbis.tomtom.com
 state-reader-95896.6.discos.orbis.tomtom.com
@@ -11177,6 +11187,7 @@ trafficviewer.tomtom.com
 training.tomtom.com
 trajectory-config.korea.sso-maps.tomtom.com
 trajectory-config.sso-maps.tomtom.com
+trajectory-config.staging.sso-maps.tomtom.com
 transaction-service.restriction.dev.maps-amf.tomtom.com
 transaction-service.restriction.prod.maps-amf.tomtom.com
 transport.business.tomtom.com
