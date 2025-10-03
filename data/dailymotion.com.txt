@@ -136,6 +136,14 @@ ai-agentic-service-72.adtech.ci.dailymotion.com
 ai-agentic-service-73.adtech.ci.dailymotion.com
 ai-agentic-service-75.adtech.ci.dailymotion.com
 ai-agentic-service-78.adtech.ci.dailymotion.com
+ai-agentic-service-79.adtech.ci.dailymotion.com
+ai-agentic-service-80.adtech.ci.dailymotion.com
+ai-agentic-service-81.adtech.ci.dailymotion.com
+ai-agentic-service-83.adtech.ci.dailymotion.com
+ai-agentic-service-84.adtech.ci.dailymotion.com
+ai-agentic-service-85.adtech.ci.dailymotion.com
+ai-agentic-service-86.adtech.ci.dailymotion.com
+ai-agentic-service-88.adtech.ci.dailymotion.com
 ai-agentic-ui-29.adtech.ci.dailymotion.com
 ai-agentic-ui-30.adtech.ci.dailymotion.com
 ai-agentic-ui-32.adtech.ci.dailymotion.com
@@ -155,6 +163,10 @@ ai-agentic-ui-52.adtech.ci.dailymotion.com
 ai-agentic-ui-53.adtech.ci.dailymotion.com
 ai-agentic-ui-54.adtech.ci.dailymotion.com
 ai-agentic-ui-55.adtech.ci.dailymotion.com
+ai-agentic-ui-56.adtech.ci.dailymotion.com
+ai-agentic-ui-58.adtech.ci.dailymotion.com
+ai-agentic-ui-60.adtech.ci.dailymotion.com
+ai-agentic-ui-61.adtech.ci.dailymotion.com
 airflow-2.data-kub.gcp.dailymotion.com
 airflow-2.data-kub.stage.gcp.dailymotion.com
 airflow.data-kub.dev.gcp.dailymotion.com
@@ -579,6 +591,7 @@ core-channel-67.ci.dailymotion.com
 core-channel-68.ci.dailymotion.com
 core-channel-71.ci.dailymotion.com
 core-channel-73.ci.dailymotion.com
+core-channel-74.ci.dailymotion.com
 core-chatroom-75.ci.dailymotion.com
 core-chatroom-96.ci.dailymotion.com
 core-chatroom-97.ci.dailymotion.com
@@ -612,6 +625,8 @@ core-hashtag-232.ci.dailymotion.com
 core-like-80.ci.dailymotion.com
 core-like-81.ci.dailymotion.com
 core-like-84.ci.dailymotion.com
+core-like-85.ci.dailymotion.com
+core-like-86.ci.dailymotion.com
 core-organization-83.ci.dailymotion.com
 core-organization-85.ci.dailymotion.com
 core-organization-86.ci.dailymotion.com
@@ -628,6 +643,7 @@ core-subscription-164.ci.dailymotion.com
 core-subscription-165.ci.dailymotion.com
 core-subscription-166.ci.dailymotion.com
 core-subscription-167.ci.dailymotion.com
+core-subscription-168.ci.dailymotion.com
 core-subscription-47.ci.dailymotion.com
 core-subscription-52.ci.dailymotion.com
 core-subscription-56.ci.dailymotion.com
@@ -691,7 +707,11 @@ core-video-305.ci.dailymotion.com
 core-video-307.ci.dailymotion.com
 core-video-308.ci.dailymotion.com
 core-video-310.ci.dailymotion.com
+core-video-311.ci.dailymotion.com
 core-video-312.ci.dailymotion.com
+core-video-313.ci.dailymotion.com
+core-video-314.ci.dailymotion.com
+core-video-315.ci.dailymotion.com
 core-video-49.ci.dailymotion.com
 core-video-54.ci.dailymotion.com
 core-video-55.ci.dailymotion.com
@@ -773,6 +793,7 @@ data-dynamic-ad-pressure-194.ci.dailymotion.com
 data-dynamic-ad-pressure-195.ci.dailymotion.com
 data-dynamic-ad-pressure-196.ci.dailymotion.com
 data-dynamic-ad-pressure-203.ci.dailymotion.com
+data-dynamic-ad-pressure-207.ci.dailymotion.com
 data-dynamic-ad-pressure-22.ci.dailymotion.com
 data-dynamic-ad-pressure-23.ci.dailymotion.com
 data-dynamic-ad-pressure-25.ci.dailymotion.com
@@ -807,6 +828,7 @@ data-dynamic-floor-prices-118.ci.dailymotion.com
 data-dynamic-floor-prices-119.ci.dailymotion.com
 data-dynamic-floor-prices-120.ci.dailymotion.com
 data-dynamic-floor-prices-124.ci.dailymotion.com
+data-dynamic-floor-prices-125.ci.dailymotion.com
 data-dynamic-floor-prices-25.ci.dailymotion.com
 data-dynamic-floor-prices-26.ci.dailymotion.com
 data-dynamic-floor-prices-29.ci.dailymotion.com
@@ -1131,6 +1153,7 @@ devexp-fake-python-service-458.stg.ci.dailymotion.com
 devexp-fake-python-service-460.stg.ci.dailymotion.com
 devexp-fake-python-service-461.stg.ci.dailymotion.com
 devexp-fake-python-service-462.stg.ci.dailymotion.com
+devexp-fake-python-service-463.stg.ci.dailymotion.com
 devexp-fake-python-service-pr-267.stg.ci.dailymotion.com
 devexp-grafana-20.ci.dailymotion.com
 devexp-grafana-24.ci.dailymotion.com
@@ -1172,6 +1195,7 @@ dist-h02.dc3.dailymotion.com
 dist.mal.dailymotion.com
 dist.mar.dailymotion.com
 dist.vty.dailymotion.com
+dm-chartmuseum.ci.dailymotion.com
 dma7.adm.dailymotion.com
 dma7.corp.dailymotion.com
 dmads-dev.dailymotion.com
@@ -1530,6 +1554,7 @@ hub-stage.api.dailymotion.com
 hub.api.dailymotion.com
 hub.gcp.dailymotion.com
 humble.dailymotion.com
+hydra-core-394.ci.dailymotion.com
 hydra-partner-663.ci.dailymotion.com
 icinfra-01-priv.vip.dailymotion.com
 icinfra-01-pub.vip.dailymotion.com
@@ -2085,6 +2110,11 @@ leo-console-app-3146.adtech.ci.dailymotion.com
 leo-console-app-3147-api.adtech.ci.dailymotion.com
 leo-console-app-3147-minio.adtech.ci.dailymotion.com
 leo-console-app-3147.adtech.ci.dailymotion.com
+leo-console-app-3148-api.adtech.ci.dailymotion.com
+leo-console-app-3148-cypress-api.adtech.ci.dailymotion.com
+leo-console-app-3148-cypress-dashboard.adtech.ci.dailymotion.com
+leo-console-app-3148-cypress-director.adtech.ci.dailymotion.com
+leo-console-app-3148-minio.adtech.ci.dailymotion.com
 leo-context-segment-22.adtech.ci.dailymotion.com
 leo-context-segment-23.adtech.ci.dailymotion.com
 leo-data-api-10.ci.dailymotion.com
@@ -2568,6 +2598,7 @@ player-geo-575.ci.dailymotion.com
 player-geo-576.ci.dailymotion.com
 player-geo-577.ci.dailymotion.com
 player-geo-582.ci.dailymotion.com
+player-geo-583.ci.dailymotion.com
 player-test.dailymotion.com
 player.api-aws.dailymotion.com
 playstation.preprod.wtv.dailymotion.com
@@ -4370,7 +4401,3 @@ yacast.dailymotion.com
 yahweh.dailymotion.com
 yann.dev.dailymotion.com
 zaczek.dailymotion.com
-zaingroup-pni.sg1.dailymotion.com
-zayo.lax.dailymotion.com
-zfamily-filter.stage-37.dailymotion.com
-zxtmdebug.dailymotion.com

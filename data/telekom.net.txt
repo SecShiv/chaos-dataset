@@ -236,6 +236,7 @@ aiappscatalogclustering.learning-journey-dev.ng.telekom.net
 aiappscataloghome.learning-journey-dev.ng.telekom.net
 ailocal.telekom.net
 airflow.dev.iotplatform.telekom.net
+aivoicebot.telekom.net
 alertmanager.lab.intelligent.telekom.net
 analysis.aiapps.ng.telekom.net
 analysis.aiappsdev.ng.telekom.net
@@ -254,6 +255,7 @@ api-test.dih.telekom.net
 api-vg.aivoicebot.telekom.net
 api-vg.tua.aivoicebot.telekom.net
 api.ailocal.telekom.net
+api.aivoicebot.telekom.net
 api.analysis.aiappstest.ng.telekom.net
 api.ar-dev.ng.telekom.net
 api.ar-prod.ng.telekom.net
@@ -326,7 +328,11 @@ app.vr-tour.telekom.net
 app1924603054.trap-review.ng.telekom.net
 app1928076463.trap-review.ng.telekom.net
 app1931353264.trap-review.ng.telekom.net
+app1938824370.trap-review.ng.telekom.net
 app1941576883.trap-review.ng.telekom.net
+app1945443508.trap-review.ng.telekom.net
+app1952521398.trap-review.ng.telekom.net
+app1955863735.trap-review.ng.telekom.net
 app1982274749.trap-review.ng.telekom.net
 app1984896190.trap-review.ng.telekom.net
 app1985027262.trap-review.ng.telekom.net
@@ -339,9 +345,16 @@ app2010127557.trap-review.ng.telekom.net
 app2013076678.trap-review.ng.telekom.net
 app2030574795.trap-review.ng.telekom.net
 app2053967894.trap-review.ng.telekom.net
+app2055802903.trap-review.ng.telekom.net
 app2057572376.trap-review.ng.telekom.net
 app2061963290.trap-review.ng.telekom.net
+app2062094362.trap-review.ng.telekom.net
+app2065371164.trap-review.ng.telekom.net
+app2069303326.trap-review.ng.telekom.net
+app2071072799.trap-review.ng.telekom.net
+app2072776736.trap-review.ng.telekom.net
 app2072842272.trap-review.ng.telekom.net
+app2076905506.trap-review.ng.telekom.net
 app2089095206.trap-review.ng.telekom.net
 app2089226278.trap-review.ng.telekom.net
 app2092240935.trap-review.ng.telekom.net
@@ -357,6 +370,7 @@ app2772699916.trap.ng.telekom.net
 app3298561050.trap.ng.telekom.net
 appgwded01.telekom.net
 approval.intelligent.telekom.net
+apps.aivoicebot.telekom.net
 apps.mdm.telekom.net
 apps.oaw.telekom.net
 apps.sen.telekom.net
@@ -695,6 +709,8 @@ dt-chai.chai.ihub.telekom.net
 dt.mdm.telekom.net
 dtag-tls-010132lb01.telekom.net
 dtag-tls-010901lb01.telekom.net
+dtag-tls-690001lb01.telekom.net
+dtag-tls-690001lb02.telekom.net
 dtag-tls-690021lb02.telekom.net
 dtbss-ips-papi-dev.targetbss.telekom.net
 dtbss-ips-papi-uat.targetbss.telekom.net
@@ -745,6 +761,7 @@ elastic.staging.pmatrem.telekom.net
 elektro-check.telekom.net
 elk.hermes.ng.telekom.net
 emp.telekom.net
+endpoint.aivoicebot.telekom.net
 endpoint.tua.aivoicebot.telekom.net
 energy.telekom.net
 enrtatest01.voice.sandbox.dlthub.telekom.net
@@ -776,6 +793,7 @@ fibrepartners.telekom.net
 file.public.ds-clrx.dlthub.telekom.net
 file.public.dt-node1.uat-ds-clrx.dlthub.telekom.net
 file.public.dt-node2.uat-ds-clrx.dlthub.telekom.net
+files-api.aivoicebot.telekom.net
 files-api.tua.aivoicebot.telekom.net
 files.acc.telefon-einrichten.telekom.net
 files.dev.telefon-einrichten.telekom.net
@@ -914,7 +932,9 @@ ikms.tsms.telekom.net
 inflight.telekom.net
 infomanager.telekom.net
 initiate.telekom.net
+insights-api.aivoicebot.telekom.net
 insights-api.tua.aivoicebot.telekom.net
+insights-collector.aivoicebot.telekom.net
 insights-collector.tua.aivoicebot.telekom.net
 int.camino.fibrepartners.telekom.net
 int.fibrepartners.telekom.net
@@ -1035,6 +1055,7 @@ mailnonprod.emp.telekom.net
 mailprod.emp.telekom.net
 main.digipro.telekom.net
 mainuat.digipro.telekom.net
+management-ui.aivoicebot.telekom.net
 management-ui.tua.aivoicebot.telekom.net
 map-collector.pk2-dev.ng.telekom.net
 map-collector.pk2-prd.ng.telekom.net
@@ -1156,6 +1177,7 @@ oauth2-proxy.svhproducts.telekom.net
 oc.telekom.net
 oc-ucc-cloud-sbc.telekom.net
 ocs.ipls.telekom.net
+odata.aivoicebot.telekom.net
 odata.tua.aivoicebot.telekom.net
 ods-icons.trap.ng.telekom.net
 okr.idsctest.ng.telekom.net
@@ -1432,6 +1454,7 @@ staging.qctool.telekom.net
 startpage-prod-ref.apps.oaw.telekom.net
 startpage-prod.apps.oaw.telekom.net
 stat.okrboard.ng.telekom.net
+static-api.aivoicebot.telekom.net
 static-api.tua.aivoicebot.telekom.net
 static.webclient-beta.ng.telekom.net
 static.webclient-prod.ng.telekom.net
@@ -1493,6 +1516,13 @@ test-app-20251001-1125.trap-review.ng.telekom.net
 test-app-20251001-1213.trap-review.ng.telekom.net
 test-app-20251001-1538.trap-review.ng.telekom.net
 test-app-20251001-1550.trap-review.ng.telekom.net
+test-app-20251002-0819.trap-review.ng.telekom.net
+test-app-20251002-1006.trap-review.ng.telekom.net
+test-app-20251002-1159.trap-review.ng.telekom.net
+test-app-20251002-1227.trap-review.ng.telekom.net
+test-app-20251002-1257.trap-review.ng.telekom.net
+test-app-20251002-1346.trap-review.ng.telekom.net
+test-app-20251002-1441.trap-review.ng.telekom.net
 test-application-20250918-1134-with-very-long-hostname.trap-review.ng.telekom.net
 test-application-20250918-1356-with-very-long-hostname.trap-review.ng.telekom.net
 test-application-20250918-1410-with-very-long-hostname.trap-review.ng.telekom.net
@@ -1508,6 +1538,10 @@ test-application-20251001-1125-with-very-long-hostname.trap-review.ng.telekom.ne
 test-application-20251001-1128-with-very-long-hostname.trap-review.ng.telekom.net
 test-application-20251001-1213-with-very-long-hostname.trap-review.ng.telekom.net
 test-application-20251001-1304-with-very-long-hostname.trap-review.ng.telekom.net
+test-application-20251002-1227-with-very-long-hostname.trap-review.ng.telekom.net
+test-application-20251002-1257-with-very-long-hostname.trap-review.ng.telekom.net
+test-application-20251002-1346-with-very-long-hostname.trap-review.ng.telekom.net
+test-application-20251002-1414-with-very-long-hostname.trap-review.ng.telekom.net
 test-ecass.ng.telekom.net
 test-trap-api.trap-review.ng.telekom.net
 test.acs.telekom.net
@@ -1660,6 +1694,7 @@ web.dn-test-public-dmz.ng.telekom.net
 web.fm-nonprod-public-dmz.ng.telekom.net
 web.fm-prod-public-dmz.ng.telekom.net
 web.vasp-poc-public-dmz.ng.telekom.net
+webchat.aivoicebot.telekom.net
 webchat.tua.aivoicebot.telekom.net
 webclient-beta.ng.telekom.net
 webclient-prod.ng.telekom.net
@@ -1790,6 +1825,3 @@ wxfc.mbc.prod.fixed.telekom.net
 x2ala.ng.telekom.net
 xgpt.chai-dev.ihub.telekom.net
 xks-test-louay-robert.ng.telekom.net
-zalenium.dev.pmatrem.telekom.net
-zoom-ucc-cloud-sbc.telekom.net
-zovoice.telekom.net

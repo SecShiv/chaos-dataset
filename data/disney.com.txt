@@ -1,6 +1,7 @@
 .disney.com
 *.disney.com
 *.611lab.disney.com
+*.abc.disney.com
 *.adplatforms.disney.com
 *.adplatforms.corp.disney.com
 *.adsales.disney.com
@@ -239,6 +240,7 @@
 *.eph.esd.disney.com
 *.epr-api-dlr.wdprapps.disney.com
 *.esd.disney.com
+*.espn.disney.com
 *.eu-west-1.aws.hosted.ordering.dmd.disney.com
 *.eu-west-1.aws.hosted.ordering.stg.dmd.disney.com
 *.fa.disney.com
@@ -632,8 +634,10 @@
 *.origin.wdw-mods-lambda-wdw.wdprapps.disney.com
 *.origin.wdwcmeres-dlr.wdprapps.disney.com
 *.origin.wdwcmeres-wdw.wdprapps.disney.com
+*.otp.disney.com
 *.pages.gitlab.disney.com
 *.pandora.corp.disney.com
+*.parks.disney.com
 *.participant.disney.com
 *.partners.adplatforms.disney.com
 *.paymentsheet.wdprapps.disney.com
@@ -2634,6 +2638,7 @@ awsohco.disney.com
 awsqa.disney.com
 awssample-certificate.net.disney.com
 awssandbox.wdprapps.disney.com
+awstest.wdprapps.disney.com
 awtunnel.fas.fa.disney.com
 awtunnele.fas.fa.disney.com
 awx-cgs-sre-stage.disney.com
@@ -3485,6 +3490,7 @@ b.tbx-rest-queue-manager-wdw.wdprapps.disney.com
 b.tbx-rest-search-dlp.wdprapps.disney.com
 b.tbx-rest-search-dlr.wdprapps.disney.com
 b.tbx-rest-search-wdw.wdprapps.disney.com
+b.tbx-rest-standalone-product-dlr.wdprapps.disney.com
 b.tbx-rest-supplier-dlp.wdprapps.disney.com
 b.tbx-rest-supplier-dlr.wdprapps.disney.com
 b.tbx-rest-supplier-wdw.wdprapps.disney.com
@@ -8439,6 +8445,8 @@ destiny.capnhook.dcl.wdpr.disney.com
 destiny.cma-berthing.dcl.wdpr.disney.com
 destiny.cma.dcl.wdpr.disney.com
 destiny.commerce.dcl.wdpr.disney.com
+destiny.communicore-guest-ws.dcl.wdpr.disney.com
+destiny.communicore-ws.dcl.wdpr.disney.com
 destiny.compass.dcl.wdpr.disney.com
 destiny.confluent.cp.dcl.wdpr.disney.com
 destiny.confluent.dcl.wdpr.disney.com
@@ -8498,16 +8506,21 @@ destiny.kafka-na.dcl.wdpr.disney.com
 destiny.kafka.dcl.wdpr.disney.com
 destiny.keycloak-auth.dcl.wdpr.disney.com
 destiny.keystone-import.dcl.wdpr.disney.com
+destiny.loki-gateway.dcl.wdpr.disney.com
 destiny.messaging.dcl.wdpr.disney.com
 destiny.minio-console.dcl.wdpr.disney.com
 destiny.minio-operator.dcl.wdpr.disney.com
 destiny.minio-rke2.dcl.wdpr.disney.com
 destiny.minio.dcl.wdpr.disney.com
+destiny.play-avatar-render-gateway.dcl.wdpr.disney.com
+destiny.play-avatar-renderer.dcl.wdpr.disney.com
+destiny.play-helios-engine.dcl.wdpr.disney.com
 destiny.play.dcl.wdpr.disney.com
 destiny.rancher.dcl.wdpr.disney.com
 destiny.smartpipe.dcl.wdpr.disney.com
 destiny.swellsteps-dse.dcl.wdpr.disney.com
 destiny.tacktraining.dcl.wdpr.disney.com
+destiny.tempo-gateway.dcl.wdpr.disney.com
 destiny.timestone-admin-api.dcl.wdpr.disney.com
 destiny.timestone-admin-ui.dcl.wdpr.disney.com
 destiny.timestone.dcl.wdpr.disney.com
@@ -18503,6 +18516,7 @@ latest.das-wdw.wdprapps.disney.com
 latest.das.keyring.wdpro.disney.com
 latest.dash-anon-auth.wdprapps.disney.com
 latest.dash-cb-eventing.wdprapps.disney.com
+latest.dash-publisher.wdprapps.disney.com
 latest.dashsecure-sg-admin.wdprapps.disney.com
 latest.dashsecure-sg-metrics.wdprapps.disney.com
 latest.dashsecure.wdprapps.disney.com
@@ -20693,6 +20707,8 @@ latest.offer-mgmt-svc.wdprapps.disney.com
 latest.offer-svc-internal.dlp.wdprapps.disney.com
 latest.offerinventory-wdw.wdprapps.disney.com
 latest.offerorch-wdw.wdprapps.disney.com
+latest.oidc.dclapps.wdprapps.disney.com
+latest.oidc.dclinfra.wdprapps.disney.com
 latest.oidc.nvoapps.wdprapps.disney.com
 latest.olc-cast.wdprapps.disney.com
 latest.olc-gxp.wdprapps.disney.com
@@ -21703,6 +21719,7 @@ latest.swgs-mon.wdprapps.disney.com
 latest.swordpoint.wdprapps.disney.com
 latest.swtouch.abdseawarefull.wdprapps.disney.com
 latest.sync-gw.wdprapps.disney.com
+latest.sync.dcl.wdpr.disney.com
 latest.t9sep9sep1-9sep1.wdprapps.disney.com
 latest.t9sep9sep2-9sep2.wdprapps.disney.com
 latest.t9sep9sep3-9sep3.wdprapps.disney.com
@@ -22542,6 +22559,7 @@ latest.vendomatic.asgard.wdprapps.disney.com
 latest.vendomatic.wdprapps.disney.com
 latest.vericast.wdprapps.disney.com
 latest.verifonepay.wdprapps.disney.com
+latest.vga-imt-api.gcp.wdprapps.disney.com
 latest.vibe-ui.wdprapps.disney.com
 latest.vincent.wdprapps.disney.com
 latest.virtcap-svc.wdprapps.disney.com
@@ -23165,6 +23183,7 @@ load.admission-offer.wdw.wdprapps.disney.com
 load.admission-product-catalog-svc-wdw.wdprapps.disney.com
 load.admission-product-svc-wdw.wdprapps.disney.com
 load.admission-product.dlr.wdprapps.disney.com
+load.admission-product.usw.wdprapps.disney.com
 load.admission-product.wdw.wdprapps.disney.com
 load.admission-quote-svc.dlp.wdprapps.disney.com
 load.admission-quote.dlr.wdprapps.disney.com
@@ -24582,6 +24601,8 @@ load.offer-adapter-dlr.wdprapps.disney.com
 load.offer-adapter-wdw.wdprapps.disney.com
 load.offer-mgmt-svc.wdprapps.disney.com
 load.offer-svc-internal.dlp.wdprapps.disney.com
+load.oidc.dclapps.wdprapps.disney.com
+load.oidc.dclinfra.wdprapps.disney.com
 load.oidc.nvoapps.wdprapps.disney.com
 load.old-grit-svc.wdprapps.disney.com
 load.olympus.wdprapps.disney.com
@@ -28573,6 +28594,7 @@ origin.latest.hkdl-collector-service.wdprapps.disney.com
 origin.latest.hkdl-dsp-frontend.wdprapps.disney.com
 origin.latest.hkdl-inventory-service.wdprapps.disney.com
 origin.latest.hkdl-lodging-lsvc.wdprapps.disney.com
+origin.latest.hkdl-mock-svc-2.wdprapps.disney.com
 origin.latest.hkdl-occampaign-svc.wdprapps.disney.com
 origin.latest.hkdl-ote-frontend.wdprapps.disney.com
 origin.latest.hkdl-ote.wdprapps.disney.com
@@ -28871,6 +28893,8 @@ origin.load.dlr-photopass-webapi.wdprapps.disney.com
 origin.load.dlr-photopass-webui.wdprapps.disney.com
 origin.load.dlr-roo.wdprapps.disney.com
 origin.load.dlr-selfie-ha-usw2.gam-dev.wdprapps.disney.com
+origin.load.dlr-selfie-ha-usw2.gam-test.wdprapps.disney.com
+origin.load.dlr-selfie-ha.gam-test.wdprapps.disney.com
 origin.load.dpayclient-use1.wdprapps.disney.com
 origin.load.dpayclient-usw2.wdprapps.disney.com
 origin.load.dpayclient.wdprapps.disney.com
@@ -29658,6 +29682,7 @@ origin.stage.transfergenie-svc-ext.wdprapps.disney.com
 origin.stage.transfergenie-ui.wdprapps.disney.com
 origin.stage.transfergenie.wdprapps.disney.com
 origin.stage.translations.wdw.las1.wdpro.disney.com
+origin.stage.trips-web.wdprapps.disney.com
 origin.stage.tt-ac-ui-canada.wdprapps.disney.com
 origin.stage.tt-ac-ui.wdprapps.disney.com
 origin.stage.tt-omega-ui.wdprapps.disney.com
@@ -36116,6 +36141,7 @@ stage.dnxcomsvc.f2.wdw.use1.eks.wdprapps.disney.com
 stage.dnxcomsvc.f3.dlr.use1.eks.wdprapps.disney.com
 stage.dnxcomsvc.f3.wdw.use1.eks.wdprapps.disney.com
 stage.dnxcomsvc.wdw.use1.eks.wdprapps.disney.com
+stage.dnxcomsvc.wdw.usw2.eks.wdprapps.disney.com
 stage.dnxcshmsvc.wdw.use1.eks.wdprapps.disney.com
 stage.dnxdinevas.dlr.eks.wdprapps.disney.com
 stage.dnxdinevas.dlr.use1.eks.wdprapps.disney.com
@@ -36132,6 +36158,7 @@ stage.dnxhanvas.f2.dlr.use1.eks.wdprapps.disney.com
 stage.dnxhanvas.f2.wdw.use1.eks.wdprapps.disney.com
 stage.dnxhanvas.f3.dlr.use1.eks.wdprapps.disney.com
 stage.dnxhanvas.f3.wdw.use1.eks.wdprapps.disney.com
+stage.dnxhanvas.wdw.usw2.eks.wdprapps.disney.com
 stage.dnxmodsvas.dlr.use1.eks.wdprapps.disney.com
 stage.dnxmodsvas.f1.dlr.use1.eks.wdprapps.disney.com
 stage.dnxmodsvas.f1.wdw.use1.eks.wdprapps.disney.com
@@ -36154,6 +36181,7 @@ stage.dnxofrsvc.f3.wdw.use1.eks.wdprapps.disney.com
 stage.dnxofrsvc.wdw.use1.eks.wdprapps.disney.com
 stage.dnxofrsvc.wdw.usw2.eks.wdprapps.disney.com
 stage.dnxprdsvc.dlr.use1.eks.wdprapps.disney.com
+stage.dnxprdsvc.dlr.usw2.eks.wdprapps.disney.com
 stage.dnxprdsvc.f1.dlr.use1.eks.wdprapps.disney.com
 stage.dnxprdsvc.f1.wdw.use1.eks.wdprapps.disney.com
 stage.dnxprdsvc.f2.dlr.use1.eks.wdprapps.disney.com
@@ -37254,6 +37282,8 @@ stage.offer-mgmt-svc.wdprapps.disney.com
 stage.offer-svc-internal.dlp.wdprapps.disney.com
 stage.offerinventory-wdw.wdprapps.disney.com
 stage.offerorch-wdw.wdprapps.disney.com
+stage.oidc.dclapps.wdprapps.disney.com
+stage.oidc.dclinfra.wdprapps.disney.com
 stage.oidc.nvoapps.wdprapps.disney.com
 stage.old-grit-svc.wdprapps.disney.com
 stage.olympus.wdprapps.disney.com
@@ -39954,6 +39984,7 @@ tbx-rest-search-wdw-load.wdpr.disney.com
 tbx-rest-search-wdw.wdpr.disney.com
 tbx-rest-search-wdw.wdprapps.disney.com
 tbx-rest-search.dlr.wdprapps.disney.com
+tbx-rest-standalone-product-dlr.wdprapps.disney.com
 tbx-rest-supplier-dlp.wdprapps.disney.com
 tbx-rest-supplier-dlr.wdprapps.disney.com
 tbx-rest-supplier-wdw.wdprapps.disney.com
@@ -40389,6 +40420,7 @@ testsectigo-sretech.disney.com
 teststrata1.wdw.disney.com
 teststrata3.wdw.disney.com
 testy.latest.aws.wdprapps.disney.com
+testy2.latest.aws.wdprapps.disney.com
 testzdd-123.wdpr.disney.com
 tetools.wdprapps.disney.com
 tetris.latest.knative.wdprapps.disney.com
@@ -41194,6 +41226,7 @@ tot-avaya-ixmessaging.wdw.disney.com
 tot-nexorce.wdpr.disney.com
 tot-sbc-220cel.disney.com
 tot-sbc-220cele.net.disney.com
+tot-sbc-tdrc.net.disney.com
 tot-st-vpn.wdw.attractions.disney.com
 tot0-st-pa.wdw.attractions.disney.com
 tot1-st-pa.wdw.attractions.disney.com

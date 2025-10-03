@@ -1579,6 +1579,9 @@
 *.static.secadmin.finra.org
 *.static.secadmin-int.qa.finra.org
 *.static.secadmin.qa.finra.org
+*.stnbrnch.finra.org
+*.stnbrnch.dev.finra.org
+*.stnbrnch.qa.finra.org
 *.support.finra.org
 *.support-int.dev.finra.org
 *.support-int.qa.finra.org
@@ -4115,6 +4118,7 @@ iftqc.qa.finra.org
 ig-ext-stress.qa.finra.org
 ig-ext-vip.qa.finra.org
 imailgw.finra.org
+individual-search-ews-qa.radrw.qa.finra.org
 individual-search-ews-qaint.radrw.qa.finra.org
 individual-search-ews.radrw.finra.org
 indpro.finra.org
@@ -5876,6 +5880,9 @@ static.workmgt-internal.qa.finra.org
 static.workmgt.dev.finra.org
 static.workmgt.dr.finra.org
 static.workmgt.qa.finra.org
+stnbrnch.finra.org
+stnbrnch.dev.finra.org
+stnbrnch.qa.finra.org
 stress.crd.finra.org
 support.finra.org
 support-int.dev.finra.org
@@ -6466,3 +6473,5 @@ xfer-aep-qc.finra.org
 yum.awstools.finra.org
 yum.ct.aws.finra.org
 zen.dev.finra.org
+zen.qa.finra.org
+zr53.api.gateway-qaint.qa.finra.org

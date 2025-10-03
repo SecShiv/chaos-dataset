@@ -96,6 +96,7 @@ exchange-gsh.gopayapi.com
 exchange-gsh-staging.gopayapi.com
 exchange-staging.gopayapi.com
 final-test.gopayapi.com
+firebase-crash-reporter.gopayapi.com
 foo-bar.gopayapi.com
 foo-barone.gopayapi.com
 foo-test.gopayapi.com
@@ -115,6 +116,8 @@ gobills-stg.gopayapi.com
 gopay-consumer-app-firehose-sink.gopayapi.com
 gopay-portal.gopayapi.com
 gopay-portal-staging.gopayapi.com
+gopay-portal-staging.internal.gopayapi.com
+gopay-portal.internal.gopayapi.com
 gopay-referral-service.gopayapi.com
 gopay-support-board.gopayapi.com
 gopay-user-profile-store.gopayapi.com
@@ -198,6 +201,8 @@ infrastructure-engineering.governance.team.emoney-dopa-proxy.th.gopayapi.com
 infrastructure-engineering.governance.team.global-accelerator.onekyc.staging.gopayapi.com
 infrastructure-engineering.governance.team.gopay-portal.gopayapi.com
 infrastructure-engineering.governance.team.gopay-portal-staging.gopayapi.com
+infrastructure-engineering.governance.team.gopay-portal-staging.internal.gopayapi.com
+infrastructure-engineering.governance.team.gopay-portal.internal.gopayapi.com
 infrastructure-engineering.governance.team.gopay-web-page.gopayapi.com
 infrastructure-engineering.governance.team.gopay-web-page.staging.gopayapi.com
 infrastructure-engineering.governance.team.gosure-staging.gopayapi.com

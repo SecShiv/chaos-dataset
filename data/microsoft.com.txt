@@ -2310,6 +2310,7 @@
 *.origin-stg.video.microsoft.com
 *.origin.account.microsoft.com
 *.origin.delivery.mp.microsoft.com
+*.origin.video.microsoft.com
 *.orko10.dev.space.microsoft.com
 *.orko11.dev.space.microsoft.com
 *.orko12.dev.space.microsoft.com
@@ -24069,6 +24070,7 @@ a-usea-prod.templates.tac.teams.microsoft.com
 a-usea-prod.userprofilesvc.tac.teams.microsoft.com
 a-usea.auth.prod.communication.microsoft.com
 a-usea.prod.templates.tac.teams.microsoft.com
+a-usea2-cosmic.prod.templates.tac.teams.microsoft.com
 a-usea2-prod.userprofilesvc.tac.teams.microsoft.com
 a-usea2.prod.templates.tac.teams.microsoft.com
 a-usnc.prod.templates.tac.teams.microsoft.com
@@ -31797,6 +31799,8 @@ aue-001.prod.insights.microsoft.com
 aue-002.prod.insights.microsoft.com
 aue-003.prod.insights.microsoft.com
 aue-005.prod.insights.microsoft.com
+aue-006-ip.prod.insights.microsoft.com
+aue-006.prod.insights.microsoft.com
 aue.assist.microsoft.com
 aue.learningapp.microsoft.com
 aue.lmsconnector.microsoft.com
@@ -75616,6 +75620,7 @@ cdspermissions.corp.microsoft.com
 cdspermissionsppe.microsoft.com
 cdspermissionsppe.corp.microsoft.com
 cdspermissionsprod.corp.microsoft.com
+cdspermissionsship.microsoft.com
 cdw-com.partner.fttoolingapi.microsoft.com
 cdx.transform.microsoft.com
 cdxrdp.microsoft.com
@@ -77703,6 +77708,7 @@ cn-east.vpn.saw.microsoft.com
 cn.expertzone.microsoft.com
 cn.ieonline.microsoft.com
 cn.mc.geneva.keyvault.admanalytics.powerplatform.microsoft.com
+cn.storeedge.microsoft.com
 cn1-test.vpn.saw.microsoft.com
 cnazqualifytest.microsoft.com
 cnc.can.tip0.rpadminssl.flow.microsoft.com
@@ -78510,6 +78516,7 @@ composerapi-int.dps.mp.microsoft.com
 composerapi-intppe.dps.mp.microsoft.com
 composerapi-prodppe.dps.mp.microsoft.com
 composerapi.dps.mp.microsoft.com
+composerapi.ingestion.marketplace.microsoft.com
 composerweb-dev.dps.mp.microsoft.com
 composerweb-int.dps.mp.microsoft.com
 composerweb-int.ingestion.marketplace.microsoft.com
@@ -83825,6 +83832,7 @@ dreamcatcher.microsoft.com
 dreampathllm.microsoft.com
 dreamspace.microsoft.com
 dreamspacedev.microsoft.com
+dreamspaceuat.microsoft.com
 dreamspark.download.prss.microsoft.com
 dreamsparkuat.download.prss.microsoft.com
 dricopilotint.microsoft.com
@@ -84835,6 +84843,7 @@ ecstuat.microsoft.com
 ectelemetrydashboard.microsoft.com
 ectelemetryuat.microsoft.com
 ectelemetryuat.corp.microsoft.com
+ectelemetryuatcorp.microsoft.com
 ectest.one.microsoft.com
 ectools.soxpme.microsoft.com
 ecuxdut.dns.microsoft.com
@@ -87894,6 +87903,7 @@ fasp.microsoft.com
 faspuat.microsoft.com
 fast-fpga-docs.redmond.corp.microsoft.com
 fast-fx-cosmos.microsoft.com
+fast-monitor.redmond.corp.microsoft.com
 fast-ome.europe.corp.microsoft.com
 fast.go.microsoft.com
 fast.office.microsoft.com
@@ -89052,6 +89062,7 @@ frc-002.prod.insights.microsoft.com
 frc-003.prod.insights.microsoft.com
 frc-004.prod.insights.microsoft.com
 frc-006.prod.insights.microsoft.com
+frc-007-ip.prod.insights.microsoft.com
 frc-007.prod.insights.microsoft.com
 frc.appmanagement.microsoft.com
 frc.france.tip0.rpadminssl.flow.microsoft.com
@@ -90136,6 +90147,7 @@ global.economy.dev.collab.mixedreality.microsoft.com
 global.flo-holoportation.dev.collab.mixedreality.microsoft.com
 global.int.eers.services.teams.microsoft.com
 global.int.mediastorage.voiceapps.infra.teams.microsoft.com
+global.irsf.calling-tdf.fraud.microsoft.com
 global.mediastorage.voiceapps.infra.teams.microsoft.com
 global.profile.ppe.mesh.microsoft.com
 global.rooms.ppe.communication.microsoft.com
@@ -92922,6 +92934,7 @@ images-stable.ecomm.microsoft.com
 images-test.ti.defender.microsoft.com
 images.ecomm.microsoft.com
 images.metaservices.microsoft.com
+images.ti.defender.microsoft.com
 images1.store.microsoft.com
 images2.store.microsoft.com
 images3.store.microsoft.com
@@ -94224,6 +94237,7 @@ internal.cloudconfiguration-tst.dps.mp.microsoft.com
 internal.cloudconfiguration-tst.ingestion.marketplace.microsoft.com
 internal.cloudconfiguration.dps.mp.microsoft.com
 internal.cloudconfiguration.ingestion.marketplace.microsoft.com
+internal.composerapi.ingestion.marketplace.microsoft.com
 internal.copilotapi-int.dps.mp.microsoft.com
 internal.copilotapi.dps.mp.microsoft.com
 internal.discrequest-int.dps.mp.microsoft.com
@@ -94375,12 +94389,15 @@ intl-responseprediction.bingads.microsoft.com
 intlservices.microsoft.com
 intlsports-tip.blu.cb3.glbdns.microsoft.com
 intp-dev.redmond.corp.microsoft.com
+intportaltst.ipla.microsoft.com
 intract.microsoft.com
 introweb1.microsoft.com
 intsancert-answers.microsoft.com
 intservice.salesproductivity.dynamics.microsoft.com
 intshoeboxtest.fareast.corp.microsoft.com
+intspec.tst.ipla.microsoft.com
 intsync.ipla.microsoft.com
+intsync.tst.ipla.microsoft.com
 inttip-centralus.adbroker.microsoft.com
 inttip-eastasia.adbroker.microsoft.com
 inttip-eastus.adbroker.microsoft.com
@@ -98991,6 +99008,7 @@ lustuktk5an18a.network.microsoft.com
 lustuktk5an18c.network.microsoft.com
 lustuktk5an18e.network.microsoft.com
 lustuktk5an18f.network.microsoft.com
+lustuktk5an18h.network.microsoft.com
 lustuktk5an18i.network.microsoft.com
 lustuktk5an18j.network.microsoft.com
 lustuktk5an18k.network.microsoft.com
@@ -101840,6 +101858,7 @@ makesfclustereastusprod.microsoft.com
 makronet-com.partner.fttoolingapi.microsoft.com
 malaysia.sin.cb3.glbdns.microsoft.com
 malaysia.sin.cb3.glbdns2.microsoft.com
+malaysiawest.onelake.fabric.microsoft.com
 malfoy.parttest.extranettest.microsoft.com
 malnet.microsoft.com
 malnet-staging.microsoft.com
@@ -103206,8 +103225,11 @@ mdaas.microsoft.com
 mdaas-test.chme-mte.microsoft.com
 mdatp.xplat.microsoft.com
 mdc1p201.azs.selfhost.corp.microsoft.com
+mdemunwalan111.network.microsoft.com
+mdemunwalan112.network.microsoft.com
 mdemunwalan113.network.microsoft.com
 mdemunwalan114.network.microsoft.com
+mdemunwalan1i5.network.microsoft.com
 mdemunwalan1i8.network.microsoft.com
 mdemunwalan1i9.network.microsoft.com
 mdemunwalan7aa.network.microsoft.com
@@ -103953,6 +103975,7 @@ miextset.smltenant.microsoft.com
 mif.pstnhub.microsoft.com
 migesa-com-mx.partner.fttoolingapi.microsoft.com
 migration.partners.extranet.microsoft.com
+migration.windows365-test.microsoft.com
 migrationstg.parttest.extranettest.microsoft.com
 migrationsvc-amer.teams.microsoft.com
 migrationsvc-apac.teams.microsoft.com
@@ -106402,6 +106425,7 @@ musred088an175.network.microsoft.com
 musred088an177.network.microsoft.com
 musred088an178.network.microsoft.com
 musred088an179.network.microsoft.com
+musred088an1aa.network.microsoft.com
 musred088an5aa.network.microsoft.com
 musred088an7aa.network.microsoft.com
 musred088an7ab.network.microsoft.com
@@ -106444,6 +106468,8 @@ musred088an7di.network.microsoft.com
 musred088an7dj.network.microsoft.com
 musred088an7dk.network.microsoft.com
 musred088an7dl.network.microsoft.com
+musred088anrc1.network.microsoft.com
+musred088anrc2.network.microsoft.com
 musred088f5b01.network.microsoft.com
 musred088f5b03.network.microsoft.com
 musred088f5b06.network.microsoft.com
@@ -106519,6 +106545,8 @@ musredrr1an194.network.microsoft.com
 musredrr1an195.network.microsoft.com
 musredrr1an197.network.microsoft.com
 musredrr1an198.network.microsoft.com
+musredrr1an1ab.network.microsoft.com
+musredrr1an1ad.network.microsoft.com
 musredrr1an1ca.network.microsoft.com
 musredrr1an1cb.network.microsoft.com
 musredrr1an1ce.network.microsoft.com
@@ -108312,6 +108340,7 @@ network-nc.ncvo2.volab.microsoft.com
 networkingautorcaservice.microsoft.com
 networkmonitoring.cscp.blockchain.microsoft.com
 networkmonitoring.cscp.blockchainppe.microsoft.com
+networkread-ppe.corp.microsoft.com
 networktest.windowsphone-int.com.glbdns2.microsoft.com
 networktools.corp.microsoft.com
 networktrafficanalyticsmds.test.microsoft.com
@@ -110375,6 +110404,7 @@ ordermanagement-ppe.microsoft.com
 ordermanagement.ecx-sit.parttest.extranettest.microsoft.com
 ordermanagement.ecx-uat.parttest.extranettest.microsoft.com
 orderopexp-int.microsoft.com
+orderopexp-prd.microsoft.com
 orders.microsoft.com
 orders-int.licensing.microsoft.com
 orders-ppe.ssladminv2.mvs-s2s.microsoft.com
@@ -115155,6 +115185,10 @@ proxy.portal.centralus.manage-dogfood.microsoft.com
 proxy.portal.centralus.manage-selfhost.microsoft.com
 proxy.portal.centuseuap.manage-selfhost.microsoft.com
 proxy.portal.eastus2euap.manage-dogfood.microsoft.com
+proxy.portal.japaneast.manage.microsoft.com
+proxy.portal.seasia.manage.microsoft.com
+proxy.portal.westeurope.manage.microsoft.com
+proxy.portal.westus.manage.microsoft.com
 proxy.rl.microsoft.com
 proxy.servicefabric.cmfd.microsoft.com
 proxy.servicefabric.customermaster.fd.cloud.microsoft.com
@@ -118503,6 +118537,7 @@ release-automation-test.redmond.corp.microsoft.com
 release-automation.redmond.corp.microsoft.com
 release-ppe.prss.microsoft.com
 release.a4opacketcore.microsoft.com
+release.mp.microsoft.com
 releasebuildselectorprod.geneva.keyvault.microsoft.com
 released.api.ams.gcc.teams.microsoft.com
 releasenotes.flow.microsoft.com
@@ -121159,6 +121194,8 @@ sccmteam2.configmgr.microsoft.com
 sccmupdpacks.redmond.corp.microsoft.com
 sccore-aks-ppe.coresupplychain.microsoft.com
 sccore-aks-prd.coresupplychain.microsoft.com
+sccore-prd-eus.aks-supplychain.microsoft.com
+sccore-uat-eus.aks-supplychain.microsoft.com
 sccore-uat-wus2.aks-supplychain.microsoft.com
 scd.api.partners.microsoft.com
 scdev.microsoft.com
@@ -121897,6 +121934,8 @@ sea-003.prod.insights.microsoft.com
 sea-004.prod.insights.microsoft.com
 sea-005.prod.insights.microsoft.com
 sea-007.prod.insights.microsoft.com
+sea-008-ip.prod.insights.microsoft.com
+sea-008.prod.insights.microsoft.com
 sea-academy.microsoft.com
 sea.appmanagement.microsoft.com
 sea.asia.tip0.rpadminssl.flow.microsoft.com
@@ -123652,6 +123691,7 @@ ship2.scdev.microsoft.com
 shipaka.scdev.microsoft.com
 shipment.ppe.debug.microsoft.com
 shipopexp-int.microsoft.com
+shipopexp-prd.microsoft.com
 shippingchargeopexapi.dcc-int.mp.microsoft.com
 shippingchargeopexapi.dcc.mp.microsoft.com
 shipsolr.scdev.microsoft.com
@@ -131617,6 +131657,7 @@ usea.sdfp2.sbcobipp.sdg.teams.microsoft.com
 usea.sdfp2.sbcobmgmt.sdg.teams.microsoft.com
 usea.sdfp2.sbcteams.sdg.teams.microsoft.com
 usea.sdh.sdg.teams.microsoft.com
+usea2-cosmic.prod.templates.tac.teams.microsoft.com
 usea2-pstnbot.pstnbot.teams.microsoft.com
 usea2-pstnbot01.pstnbot.teams.microsoft.com
 usea2-pstnbot02.pstnbot.teams.microsoft.com
@@ -131861,6 +131902,7 @@ uswe.dm.sdg.teams.microsoft.com
 uswe.dmedge.sdg.teams.microsoft.com
 uswe.flex.ivr.appgw.mediapaas.infra.teams.microsoft.com
 uswe.invite-df.fl.teams.microsoft.com
+uswe.noam.cip.ivr.appgw.mediapaas.infra.teams.microsoft.com
 uswe.noam.flex.ivr.appgw.mediapaas.infra.teams.microsoft.com
 uswe.prod.templates.tac.teams.microsoft.com
 uswe.sbcmainipp.sdg.teams.microsoft.com
@@ -134387,6 +134429,7 @@ westus.us.tip1.admin.api.flow.microsoft.com
 westus.us.tip1.flow.microsoft.com
 westus.vnet.powerplatform.microsoft.com
 westus2-ametest.dgs.speech.microsoft.com
+westus2-eml-ppe-networkread.corp.microsoft.com
 westus2-losidetest.dpp.speech.microsoft.com
 westus2-losidetest.sr.speech.microsoft.com
 westus2-poc.cascadeapi-appgateway.microsoft.com
@@ -134565,6 +134608,8 @@ weu-007.preprod.insights.microsoft.com
 weu-007.prod.insights.microsoft.com
 weu-009.prod.insights.microsoft.com
 weu-010.prod.insights.microsoft.com
+weu-012-ip.prod.insights.microsoft.com
+weu-012.prod.insights.microsoft.com
 weu.appmanagement.microsoft.com
 weu.assist.microsoft.com
 weu.channelinclusion.microsoft.com
@@ -135514,6 +135559,8 @@ wus3-004.prod.insights.microsoft.com
 wus3-005.prod.insights.microsoft.com
 wus3-006-ip.prod.insights.microsoft.com
 wus3-006.prod.insights.microsoft.com
+wus3-007-ip.prod.insights.microsoft.com
+wus3-007.prod.insights.microsoft.com
 wus3-1n.dev.insights.microsoft.com
 wus3-2n.dev.insights.microsoft.com
 wus3-3n.dev.insights.microsoft.com
@@ -136208,6 +136255,7 @@ xboxtoolsuat.parttest.extranettest.microsoft.com
 xbwc.partners.extranet.microsoft.com
 xbwc.redmond.corp.microsoft.com
 xbx-nytec-rdgw.redmond.corp.microsoft.com
+xcardapi.exp.microsoft.com
 xcbk-xbox-ppe.mp.microsoft.com
 xcbk-xbox.mp.microsoft.com
 xcme-staging.corp.microsoft.com

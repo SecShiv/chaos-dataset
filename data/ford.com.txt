@@ -5,11 +5,15 @@
 *.app.cdcpd01i.cf.app.cn-int.ford.com
 *.app.cdcpp01.cf.app.cn-int.ford.com
 *.app.cdcsb01.cf.app.cn-int.ford.com
+*.apps.central.pd511.caas.gcp.ford.com
+*.apps.central.pd511.caas.gcp.ford.com.caas.gcp.ford.com
 *.apps.central.pp511.caas.gcp.ford.com
 *.apps.central.pp511.caas.gcp.ford.com.caas.gcp.ford.com
 *.apps.central.sb504.caas.gcp.ford.com
 *.apps.central.sb505.caas.gcp.ford.com
 *.apps.central.sb505.caas.gcp.ford.com.caas.gcp.ford.com
+*.apps.east.pd511.caas.gcp.ford.com
+*.apps.east.pd511.caas.gcp.ford.com.caas.gcp.ford.com
 *.apps.east.pp511.caas.gcp.ford.com
 *.apps.east.pp511.caas.gcp.ford.com.caas.gcp.ford.com
 *.apps.east.sb504.caas.gcp.ford.com
@@ -103,6 +107,7 @@
 *.apps.pd303.caas.gcp.ford.com
 *.apps.pd36.caas.sanand.ford.com
 *.apps.pd50.caas.sh8.ford.com
+*.apps.pd511.caas.gcp.ford.com
 *.apps.pd60.caas.ks1.ford.com
 *.apps.pp00.edc.caas.ford.com
 *.apps.pp01.azinsouth01.caas.ford.com
@@ -17593,6 +17598,7 @@ mqclient-q-wasadm01-gcamp.seo-gcamp-qa.pd01.edc.caas.ford.com
 mqclient-q-wasadm01-wwwqa.proveedores.ford.com
 mqclient-qa1-mqm-ivis1.ford.com
 mqclient-qa3-mqm-ivis3.ford.com
+mqclient-wasadm01-wwwprod.bsaq.ford.com
 mqtt-pp01.plantone.ford.com
 mqtt.dev.emqx.eada.ford.com
 mqtt.ext-mqtt.ford.com
@@ -38474,6 +38480,7 @@ wwwdev-fedewb.app.gcp.ford.com
 wwwdev-ffs.app.ford.com
 wwwdev-ffsupload.app.ford.com
 wwwdev-finapp.ford.com
+wwwdev-finappus.ford.com
 wwwdev-fmcouk.brandeulb.ford.com
 wwwdev-fms.app.ford.com
 wwwdev-fom3040.app.gcp.ford.com

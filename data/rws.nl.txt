@@ -2,6 +2,7 @@
 *.am2-test-cnap-test.k8s.cnap.rws.nl
 *.apps.ai-01.os-t.rws.nl
 *.apps.global-hub.os-t.rws.nl
+*.apps.gp-virt01.os-t.rws.nl
 *.apps.hcp01.os-t.rws.nl
 *.apps.hcp03.os-t.rws.nl
 *.apps.hcp04.os-t.rws.nl
@@ -117,8 +118,10 @@ acc-vpn.rws.nl
 acc-vpn.gslb-vacc.rws.nl
 acc-webportaal.rws.nl
 acc-werkplek.rws.nl
+acc-wkp.rws.nl
 acc-wvp.rws.nl
 acc.alarmmodule.intranet.rws.nl
+acc.digitaltwin.rws.nl
 acc.digitaltwin.infra-17.azure.grid.rws.nl
 acc.fam.rws.nl
 acc.helloworld1.rws.nl
@@ -315,6 +318,7 @@ cps.pki.rws.nl
 crisiswerkplek.rws.nl
 ctd.rws.nl
 custompages.acc.web8.intranet.rws.nl
+cv-dynac.rws.nl
 data.rws.nl
 data-acc.rws.nl
 dataservice.acceptatie.liwo.intranet.rws.nl
@@ -328,6 +332,7 @@ dev-rancher.at.rws.nl
 dev-suma.edge.rws.nl
 dev.at.rws.nl
 dialin.rws.nl
+digitaltwin.rws.nl
 digitaltwin-dev.rws.nl
 digitaltwin.infra-17.azure.grid.rws.nl
 dikeovertopping-api.rws.nl
@@ -349,6 +354,7 @@ druid.acceptatie.vm-05.azure.grid.rws.nl
 druid.test.vm-05.azure.grid.rws.nl
 druid.vm-05.azure.grid.rws.nl
 duurtest-werkstation.vm-02.azure.grid.rws.nl
+dynac.rws.nl
 e.topshuis.rws.nl
 eal-acc.rijkspas.rws.nl
 eal.rijkspas.rws.nl
@@ -469,6 +475,7 @@ ipam.grid.rws.nl
 irose.vm-02.azure.grid.rws.nl
 isms.intranet.rws.nl
 ivs.intranet.rws.nl
+janitor.acceptatie.vm-05.azure.grid.rws.nl
 janitor.vm-05.azure.grid.rws.nl
 jenkins.cisvm.intranet.rws.nl
 jenkins.vm-02.azure.grid.rws.nl
@@ -539,6 +546,7 @@ liwo.rws.nl
 login.test-cf-acc.intranet.rws.nl
 login.test-cf-prod.intranet.rws.nl
 login.test-cf-tst.intranet.rws.nl
+lp-dynac.rws.nl
 lws2013-int.rws.nl
 lyncdiscover.rws.nl
 lyncdiscoverinternal.rws.nl
@@ -992,6 +1000,7 @@ sps.intranet.rws.nl
 srv705.charm.rws.nl
 ssbi.viya.intranet.rws.nl
 sspmas.rws.nl
+st-dynac.rws.nl
 staging.acc.static.intranet.rws.nl
 staging.acc.static.werkenbij.rws.nl
 staging.acc.static.werkenbij.intranet.rws.nl
@@ -1057,6 +1066,7 @@ test-werkplek.rws.nl
 test.amice.intranet.rws.nl
 test.bezoekerscentrum.rws.nl
 test.connectie.esb.rws.nl
+test.digitaltwin.rws.nl
 test.digitaltwin.infra-17.azure.grid.rws.nl
 test.edge.rws.nl
 test.esb.rws.nl
@@ -1230,8 +1240,10 @@ www.acc-ovdsupport.rws.nl
 www.acc-p8.intranet.rws.nl
 www.acc-port-enc.rws.nl
 www.acc-scheepvaartexperience.rws.nl
+www.acc-wkp.rws.nl
 www.acc-wvp.rws.nl
 www.acc.alarmmodule.intranet.rws.nl
+www.acc.digitaltwin.rws.nl
 www.acc.fam.rws.nl
 www.acc.helloworld1.rws.nl
 www.acc.helloworld2.rws.nl
@@ -1290,15 +1302,18 @@ www.client.vaarmelder.k8s.fis.cnap-am2.intranet.rws.nl
 www.cmgrws.rws.nl
 www.crisiswerkplek.rws.nl
 www.custompages.prd.web8.intranet.rws.nl
+www.cv-dynac.rws.nl
 www.dataservice.acceptatie.liwo.intranet.rws.nl
 www.dataservice.test.liwo.intranet.rws.nl
 www.deformatieviewer.rws.nl
 www.demo-geoservices.rws.nl
 www.demo-geoservices.intranet.rws.nl
+www.digitaltwin.rws.nl
 www.digitaltwin-dev.rws.nl
 www.disk.rws.nl
 www.disk.acceptatie.rws.nl
 www.docgen2.intranet.rws.nl
+www.dynac.rws.nl
 www.esb.rws.nl
 www.esb.intranet.rws.nl
 www.evas.rws.nl
@@ -1334,6 +1349,7 @@ www.live.static.rws.nl
 www.live.web8.rws.nl
 www.live.werkenbij.tridion.api.rws.nl
 www.liwo.rws.nl
+www.lp-dynac.rws.nl
 www.mars.rws.nl
 www.matroos.rws.nl
 www.meridian.rws.nl
@@ -1390,6 +1406,7 @@ www.sluisplanning.rws.nl
 www.spin.rws.nl
 www.spin2.rws.nl
 www.ssbi.viya.intranet.rws.nl
+www.st-dynac.rws.nl
 www.staging.acc.static.werkenbij.rws.nl
 www.staging.acc.tridion.api.rws.nl
 www.staging.acc.werkenbij.tridion.api.rws.nl
@@ -1407,6 +1424,7 @@ www.storefront.ad.rws.nl
 www.taranis.intranet.rws.nl
 www.test-aquo-kit.rws.nl
 www.test.bezoekerscentrum.rws.nl
+www.test.digitaltwin.rws.nl
 www.test.esb.rws.nl
 www.test.helloworld1.rws.nl
 www.test.helloworld2.rws.nl
@@ -1466,3 +1484,4 @@ www.wisboa.rws.nl
 www.xwd.rws.nl
 www.zwerfafval.rws.nl
 xwd.rws.nl
+zwerfafval.rws.nl

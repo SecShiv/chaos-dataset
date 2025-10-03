@@ -367,6 +367,7 @@
 *.cg0310aut-l5svq.aut.saas.nokia.com
 *.cg0312wrk-b-6nnmr.aut.saas.nokia.com
 *.cg101aut-ztjnw.aut.saas.nokia.com
+*.cg101wkl-a-4dpss.aut.saas.nokia.com
 *.cg101wkl-a-wclp5.aut.saas.nokia.com
 *.cg911aut-g2xlp.aut.saas.nokia.com
 *.cg912wkl-b-bg8b5.aut.saas.nokia.com
@@ -384,9 +385,11 @@
 *.clustereks-25.csfp.int.dev.software.nokia.com
 *.cmdbeks-1-22.csfp.int.dev.software.nokia.com
 *.cmdbtest.csfp.int.dev.software.nokia.com
+*.cnfs-ui0915wkld-5p45s.aut.saas.nokia.com
 *.cnfs-ui0915wkld-ml9z8.aut.saas.nokia.com
 *.cnfs-ui0915wkld-wj8rl.aut.saas.nokia.com
 *.cnfs-ui0915wkld-zmrnb.aut.saas.nokia.com
+*.cnfs-ui1003aw-95xnk.aut.saas.nokia.com
 *.commuter.ext.net.nokia.com
 *.console.fnps.nokia.com
 *.console.wifi.nokia.com
@@ -2876,6 +2879,7 @@
 *.mj0909w-dnqtb.aut.saas.nokia.com
 *.mj0912wkldb-7lkfr.aut.saas.nokia.com
 *.mj0916w-zf66f.aut.saas.nokia.com
+*.mj0925wkld-p27zs.aut.saas.nokia.com
 *.mj0925wkld-pg9cq.aut.saas.nokia.com
 *.mj0925wkld-rn5n4.aut.saas.nokia.com
 *.mj0925wkld-w6xzz.aut.saas.nokia.com
@@ -3280,8 +3284,10 @@
 *.ui0912a-kk6ff.aut.saas.nokia.com
 *.ui0912a-wjjb6.aut.saas.nokia.com
 *.ui0912aw-28m9m.aut.saas.nokia.com
+*.ui0915wkld-5p45s.aut.saas.nokia.com
 *.ui0915wkld-ml9z8.aut.saas.nokia.com
 *.ui0915wkld-zmrnb.aut.saas.nokia.com
+*.ui1003a-pfs84.aut.saas.nokia.com
 *.uiv-aws-csfp-fp5pp1-6.uiv.labs.cns.nokia.com
 *.uiv-aws-csfp-mp6-6.uiv.labs.cns.nokia.com
 *.uiv-aws-csfp-mp6-7.uiv.labs.cns.nokia.com
@@ -3337,6 +3343,7 @@
 *.vb0915r-p8qr6.aut.saas.nokia.com
 *.vb0916r-sks7b.aut.saas.nokia.com
 *.vb0930r-db5nz.aut.saas.nokia.com
+*.vb1002r-48pss.aut.saas.nokia.com
 *.vb1004nb-292nb.aut.saas.nokia.com
 *.vikas-eks-test.csfp.int.dev.software.nokia.com
 *.vikas-test.csfp.int.dev.software.nokia.com
@@ -16797,6 +16804,8 @@ mimir-stg.tool.s.nokia.com
 mimir-test.tool.s.nokia.com
 mimir.tool.s.nokia.com
 mindspace.nokia.com
+minio.chasm1.chorusccf.paas.ext.net.nokia.com
+minio.chasm2.chorusccf.paas.ext.net.nokia.com
 minio.chdev1.chdev1.chorusccf.paas.ext.net.nokia.com
 minio.chdev1.chorusccf.paas.ext.net.nokia.com
 minio.chdev2.chorusccf2.paas.ext.net.nokia.com
@@ -16807,6 +16816,8 @@ minio.chsvt1.chsvt1.chorusccf.paas.ext.net.nokia.com
 minio.chsvt2.chorusccf.paas.ext.net.nokia.com
 minio.dev2.homewifi.nokia.com
 minio.im55936312.us100.dev.software.nokia.com
+minioapi.chasm1.chorusccf.paas.ext.net.nokia.com
+minioapi.chasm2.chorusccf.paas.ext.net.nokia.com
 minioapi.chdev1.chorusccf.paas.ext.net.nokia.com
 minioapi.chdev2.chorusccf2.paas.ext.net.nokia.com
 minioapi.chdit.chorusccf.paas.ext.net.nokia.com
@@ -18522,6 +18533,8 @@ nefdemo-api-north.eu.software.nokia.com
 nefdemo-gui-north.eu.software.nokia.com
 nefdemo-north.eu.software.nokia.com
 negligee.cto.nokia.com
+neo-browser.chasm1.chorusccf.paas.ext.net.nokia.com
+neo-browser.chasm2.chorusccf.paas.ext.net.nokia.com
 neo-browser.chdev1.chorusccf.paas.ext.net.nokia.com
 neo-browser.chdev2.chorusccf2.paas.ext.net.nokia.com
 neo-browser.chdit.chorusccf.paas.ext.net.nokia.com
@@ -22663,6 +22676,7 @@ sar95-10-88-185-86-203.fbx.proxqcl001.ext.nokia.com
 sarct001.ext.nokia.com
 sarct002.ext.nokia.com
 sarge.nokia.com
+sas-registry.us.dac.nokia.com
 sas.sectest.iot.nokia.com
 sas2s01nok.online.nokia.com
 sasemoob03.ext.nokia.com

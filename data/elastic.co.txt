@@ -1,6 +1,8 @@
 .elastic.co
 *.elastic.co
+*.auto-ops.ap-southeast-1.aws.cloud.elastic.co
 *.auto-ops.cloud.elastic.co
+*.auto-ops.eu-west-1.aws.cloud.elastic.co
 *.auto-ops.us-east-1.aws.cloud.elastic.co
 100-226.sa-demo-ece.prod.sa.elastic.co
 127-103.sa-demo-ece.staging.sa.elastic.co
@@ -44,7 +46,9 @@ artifacts.security.elastic.co
 assurance.elastic.co
 auth.elastic.co
 auth-sandbox.elastic.co
+auto-ops.ap-southeast-1.aws.cloud.elastic.co
 auto-ops.cloud.elastic.co
+auto-ops.eu-west-1.aws.cloud.elastic.co
 auto-ops.us-east-1.aws.cloud.elastic.co
 aws-eu-central-1-logging-staging-cloud.elastic.co
 aws-eu-central-1-metering-monitor-staging-cloud.elastic.co
@@ -671,3 +675,7 @@ www.logstash-ci.elastic.co
 www.plumbers-ci.elastic.co
 www.protections-ci.elastic.co
 www.sbc.elastic.co
+www.swiftype-ci.elastic.co
+www.videos.elastic.co
+xe-1-0-0-0.sa-demo-ece.prod.sa.elastic.co
+zdsupport.elastic.co

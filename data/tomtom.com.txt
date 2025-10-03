@@ -679,6 +679,7 @@
 49796.discos.orbis.tomtom.com
 49811.discos.orbis.tomtom.com
 49829.discos.orbis.tomtom.com
+49856.discos.orbis.tomtom.com
 5.discos.orbis.tomtom.com
 50392.discos.orbis.tomtom.com
 50761.discos.orbis.tomtom.com
@@ -947,6 +948,7 @@
 95017.discos.orbis.tomtom.com
 95057.discos.orbis.tomtom.com
 95495.discos.orbis.tomtom.com
+95763.discos.orbis.tomtom.com
 95764.discos.orbis.tomtom.com
 95830.discos.orbis.tomtom.com
 95896.discos.orbis.tomtom.com
@@ -3168,6 +3170,7 @@ backend.pr-100.aqua.poi-dev.orbis.tomtom.com
 backend.pr-103.aqua.poi-dev.orbis.tomtom.com
 backend.pr-104.aqua.poi-dev.orbis.tomtom.com
 backend.pr-106.aqua.poi-dev.orbis.tomtom.com
+backend.pr-107.aqua.poi-dev.orbis.tomtom.com
 backend.pr-27.aqua.poi-dev.orbis.tomtom.com
 backend.pr-35.aqua.poi-dev.orbis.tomtom.com
 backend.pr-36.aqua.poi-dev.orbis.tomtom.com
@@ -4982,6 +4985,7 @@ language-notation-guesser.pr-177.dev.ens.tomtom.com
 language-notation-guesser.pr-251.dev.ens.tomtom.com
 language-notation-guesser.pr-255.dev.ens.tomtom.com
 language-notation-guesser.pr-256.dev.ens.tomtom.com
+language-notation-guesser.pr-260.dev.ens.tomtom.com
 language-notation-guesser.pr-87.prod.ens.tomtom.com
 language-notation-guesser.pr-97.prod.ens.tomtom.com
 language-notation-guesser.pr-98.prod.ens.tomtom.com
@@ -5094,11 +5098,13 @@ mailrelay01.tomtom.com
 mailrelay02.tomtom.com
 mailtest.tomtom.com
 mailtest-be.tomtom.com
+main.dev.api.ja.tomtom.com
 main.dog.eu.dev.api.rm.tomtom.com
 main.eu.api.rm.tomtom.com
 main.eu.dev.api.rm.tomtom.com
 main.kamil.eu.dev.api.rm.tomtom.com
 main.spoon.eu.api.rm.tomtom.com
+main.tdev.dev.api.ja.tomtom.com
 main.ttomsd-glb.pu-maps.aws-eu-west-1.cmr.tomtom.com
 maintenancedeu-2089.cpp-dev-poi.tomtom.com
 management-tls-dev-westeurope.nonprod-ams.tomtom.com
@@ -6492,6 +6498,7 @@ name-cleanser.pr-177.dev.ens.tomtom.com
 name-cleanser.pr-254.dev.ens.tomtom.com
 name-cleanser.pr-255.dev.ens.tomtom.com
 name-cleanser.pr-257.dev.ens.tomtom.com
+name-cleanser.pr-260.dev.ens.tomtom.com
 name-conflation-tool.ens.tomtom.com
 name-conflation-tool.names.dev.maps-amf.tomtom.com
 namelibrary.tomtom.com
@@ -6838,6 +6845,7 @@ orbis-management-console-devtest2.olc-palanok-dev.fnr.tomtom.com
 orbis-management-console-devtest3.olc-palanok-dev.fnr.tomtom.com
 orbis-management-console-devtest4.olc-palanok-dev.fnr.tomtom.com
 orbis-management-console-devtest5.olc-palanok-dev.fnr.tomtom.com
+orbis-management-console-devtest6.olc-palanok-dev.fnr.tomtom.com
 orbis-management-console.olc-palanok-dev.fnr.tomtom.com
 orbis-management-console.olc-palanok-intg.fnr.tomtom.com
 orbis-management-console.vertex.tomtom.com
@@ -6919,6 +6927,7 @@ places-agent.pr-37.aqua.poi-dev.orbis.tomtom.com
 places-agent.pr-38.aqua.poi-dev.orbis.tomtom.com
 places-agent.pr-42.aqua.poi-dev.orbis.tomtom.com
 places-agent.pr-44.aqua.poi-dev.orbis.tomtom.com
+places-agent.pr-45.aqua.poi-dev.orbis.tomtom.com
 places.test.tomtom.com
 plan.tomtom.com
 platform.ifttt.services.tomtom.com
@@ -9408,6 +9417,7 @@ state-reader-32450.10698.discos.orbis.tomtom.com
 state-reader-32450.17869.discos.orbis.tomtom.com
 state-reader-32450.32450.discos.orbis.tomtom.com
 state-reader-32478.20864.discos.orbis.tomtom.com
+state-reader-32478.6.discos.orbis.tomtom.com
 state-reader-32478.7.discos.orbis.tomtom.com
 state-reader-32478.95057.discos.orbis.tomtom.com
 state-reader-32537.32537.discos.orbis.tomtom.com
@@ -9679,6 +9689,7 @@ state-reader-49796.49796.discos.orbis.tomtom.com
 state-reader-49811.49811.discos.orbis.tomtom.com
 state-reader-49829.29351.discos.orbis.tomtom.com
 state-reader-49829.49829.discos.orbis.tomtom.com
+state-reader-49856.49856.discos.orbis.tomtom.com
 state-reader-50392.50392.discos.orbis.tomtom.com
 state-reader-50761.27572.discos.orbis.tomtom.com
 state-reader-50761.29351.discos.orbis.tomtom.com
@@ -10409,6 +10420,8 @@ state-reader-95495.10102.discos.orbis.tomtom.com
 state-reader-95495.13436.discos.orbis.tomtom.com
 state-reader-95495.37962.discos.orbis.tomtom.com
 state-reader-95495.95495.discos.orbis.tomtom.com
+state-reader-95763.10321.discos.orbis.tomtom.com
+state-reader-95763.95763.discos.orbis.tomtom.com
 state-reader-95764.95764.discos.orbis.tomtom.com
 state-reader-95830.6.discos.orbis.tomtom.com
 state-reader-95830.7.discos.orbis.tomtom.com
@@ -10887,6 +10900,7 @@ tachograph.business.tomtom.com
 tachograph6.telematics.tomtom.com
 target.dev.navassist.tomtom.com
 target2.dev.navassist.tomtom.com
+tdev.dev.api.ja.tomtom.com
 tdp-11846.dev.hosteddelivery.tomtom.com
 teamcity-staging.driverapps.tomtom.com
 teamcity.driverapps.tomtom.com
@@ -11413,6 +11427,7 @@ weu-cet-dev-portal-00.cx.tomtom.com
 weu-cet-prd-portal-00.cx.tomtom.com
 weu-cet-stg-portal-00.cx.tomtom.com
 wfs-10102-crosslink.goldenapples.dev.maps-amf.tomtom.com
+wfs-11361-osm-lanes-norm.goldenapples.prod.maps-amf.tomtom.com
 wfs-11442-osmnav.goldenapples.prod.maps-amf.tomtom.com
 wfs-11529-roadmarkings.goldenapples.dev.maps-amf.tomtom.com
 wfs-11880-gradient.goldenapples.prod.maps-amf.tomtom.com
