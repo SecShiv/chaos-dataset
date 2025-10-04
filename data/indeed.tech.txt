@@ -10203,11 +10203,14 @@ trino-gateway-stage.aws.indeed.tech
 trino-interactive.aws.indeed.tech
 trino-performancetests.aws.indeed.tech
 trino-sandbox.awscmhinfra3.k8s.indeed.tech
+trino-stage-us-east-2b.aws.indeed.tech
 trino-stage.aws.indeed.tech
 trino-stage2.aws.indeed.tech
 trino.gateway.stage.indeed.tech
 trino.interactive.indeed.tech
 trino.stage.indeed.tech
+trino.stage-us-east-2b.indeed.tech
+trino.stage-us-east-2c.indeed.tech
 trino.stage2.indeed.tech
 trust.indeed.tech
 tst.wombat.indeed.tech
@@ -10779,6 +10782,7 @@ vortex-mdp-online-syncer-ldap.awscmh6.k8s.indeed.tech
 vortex-mdp-online-syncer-ldap.awscmhqa5.k8s.indeed.tech
 vortex-mdp-online-syncer-saml.awscmh6.k8s.indeed.tech
 vortex-mdp-online-syncer-saml.awscmhqa5.k8s.indeed.tech
+vortex-palkia.awscmh7.k8s.indeed.tech
 vortex-rbozzolo-saml.awscmhqa5.k8s.indeed.tech
 vortex-tns-bots.awscmhqa5.k8s.indeed.tech
 vortex-vkryvyziuk.awscmhqa5.k8s.indeed.tech
@@ -11127,4 +11131,3 @@ zeebe.osqa.k8s.indeed.tech
 zentral.cpe.indeed.tech
 zentral.staging.cpe.indeed.tech
 zhiyuan-test-lemma-webapp.awscmhqa3.k8s.indeed.tech
-ztna.indeed.tech

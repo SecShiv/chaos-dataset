@@ -291,6 +291,7 @@
 *.content-poc1-dev.np.digital.business.comcast.com
 *.content.ecom.digital.business.comcast.com
 *.content.ecom.np.digital.business.comcast.com
+*.core-api.np.api-business.comcast.com
 *.core-gateway.api-business.comcast.com
 *.core-gateway.np.api-business.comcast.com
 *.core.api-business.comcast.com
@@ -3908,6 +3909,7 @@
 *.xm.comcast.com
 *.xme2e.comcast.com
 *.xmml.comcast.com
+*.xmn.comcast.com
 *.xumo-iddlprd.comcast.com
 *.zeus.pulse.comcast.com
 00166c837b8f.cable.comcast.com
@@ -6538,6 +6540,9 @@ adv-sm15-01p.gslb2.comcast.com
 adv-sm16-01p.gslb2.comcast.com
 adv-xsp03-443s.gslb4.comcast.com
 advaca-wc-01p.cable.comcast.com
+advannex-as-1p.cable.comcast.com
+advannex-as-2p.cable.comcast.com
+advannex-as-3p.cable.comcast.com
 advapi.comcast.com
 advapp-nb-a1p.cable.comcast.com
 advapp-nb-a2p.cable.comcast.com
@@ -8864,6 +8869,7 @@ browser-config.dev.developer.comcast.com
 browser-config.pa.us-east-1.svc.thor.comcast.com
 browser-config.pa.us-west-2.svc.thor.comcast.com
 browser-config.pb.us-west-2.svc.thor.comcast.com
+browser-config.prod-b.us-west-2.svc.thor.comcast.com
 browser-config.prod-multiregion.us-east-1.janus.comcast.com
 browser-config.prod.us-east-1.janus.comcast.com
 browser-config.svc-dev.thor.comcast.com
@@ -9193,6 +9199,7 @@ bsdresdb-wc-a1p.cable.comcast.com
 bsdsapm-wc-a2p.cable.comcast.com
 bsdsapm-wc-a3p.cable.comcast.com
 bsdsfci-wc-5p.cable.comcast.com
+bsdshop-perf-as-01s.slb.comcast.com
 bsdsql-po-a5p.cable.comcast.com
 bsdsvop-po-1p.cable.comcast.com
 bsdunix-po-a1p.cable.comcast.com
@@ -11115,6 +11122,7 @@ calivtelams05.cable.comcast.com
 calivtelcm01.cable.comcast.com
 calivtelcm02.cable.comcast.com
 calivtelcm03.cable.comcast.com
+callback.xmn.comcast.com
 callrecord.comcast.com
 calnet-fac.mes.comcast.com
 camapp-as-01p.cable.comcast.com
@@ -20710,6 +20718,7 @@ documents-api-g.fxbuyflow.business.comcast.com
 documents-api-ue1.fxbuyflow.business.comcast.com
 documents-api-uw2.fxbuyflow.business.comcast.com
 documentupload-as-1p.slb.comcast.com
+docusignlistener.comcast.com
 docweb-as-1p.cable.comcast.com
 docweb-as-2p.cable.comcast.com
 doe.comcast.com
@@ -38726,6 +38735,7 @@ mca-api-ho-1t.slb.comcast.com
 mca-api-ho-2p.slb.comcast.com
 mca-api-ho-2s.slb.comcast.com
 mca-api-ho-2t.slb.comcast.com
+mca-iiq-ui-ho-1t.slb.comcast.com
 mca-iqs-as-1p.slb.comcast.com
 mca-iqs-ho-1p.slb.comcast.com
 mca-vds-1d.gslb4.comcast.com
@@ -38798,10 +38808,12 @@ mcacops-wc-a2d.cable.comcast.com
 mcacops-wc-a3d.cable.comcast.com
 mcacops-wc-a4d.cable.comcast.com
 mcacops-wc-a5d.cable.comcast.com
+mcaiiqui-ppd.mca.comcast.com
 mcain-ho-c-1.jawn.sec.comcast.com
 mcain-ho-c-2.jawn.sec.comcast.com
 mcain-ho-c-3.jawn.sec.comcast.com
 mcaiqs-1p.gslb2.comcast.com
+mcaiqs-1p.gslb4.comcast.com
 mcaiqs-1p.mca.comcast.com
 mcaiqs-2p.mca.comcast.com
 mcaiqs-as-a0p.cable.comcast.com
@@ -38812,10 +38824,14 @@ mcaiqs-ho-1d.mca.comcast.com
 mcaiqs-ho-b0p.cable.comcast.com
 mcaiqs-ho-b1p.cable.comcast.com
 mcaiqs-ho-b2p.cable.comcast.com
+mcaiqs-ng.mca.comcast.com
 mcaiqs-prod.mca.comcast.com
 mcaiqs.mca.comcast.com
 mcaiwb-as-a0p.cable.comcast.com
 mcaiwb-ho-b0p.cable.comcast.com
+mcapam-as-a0p.cable.comcast.com
+mcapam-ho-0d.mca.comcast.com
+mcapam-ho-0q.mca.comcast.com
 mcapam-ho-0s.mca.comcast.com
 mcapam-ho-b0p.cable.comcast.com
 mcapp-as-yp.g.cable.comcast.com
@@ -54401,6 +54417,7 @@ refapp.thor-xre-dev.us-east-1.janus.comcast.com
 refapp2.janus-tsf-test6-ipv4.janus.comcast.com
 referafriend.comcast.com
 reference.sel.comcast.com
+regional.comcast.com
 register-wg-bi-ch2-1p.slb.comcast.com
 register-wg-bi-ch2-1s.slb.comcast.com
 register-wg-bi-po-1p.slb.comcast.com
@@ -57760,6 +57777,7 @@ ssli-tidwell-01m.cable.comcast.com
 ssli-tidwell-01p.cable.comcast.com
 ssli-vinings-01m.cable.comcast.com
 ssli-wallingford-01m.cable.comcast.com
+ssltest.odin.comcast.com
 sslvpn-rbi.cb-es.comcast.com
 sslvpn.gslb2.comcast.com
 sso-login-dev.cable.comcast.com
@@ -70003,6 +70021,7 @@ xmmlpweb-ch2-2s.cable.comcast.com
 xmmlpweb-ch2-prod.slb.comcast.com
 xmmlpweb-prod.gslb2.comcast.com
 xmmlpweb-stg.gslb2.comcast.com
+xmn.comcast.com
 xmoiportal.comcast.com
 xmpp.comcast.com
 xmsccd-as-1p.slb.comcast.com
@@ -70547,3 +70566,5 @@ zstsvc-wc-1q.slb.comcast.com
 zstsvc-wc-1s.slb.comcast.com
 zwestapi.cable.comcast.com
 zz-aaron.comcast.com
+zz-jim.slb.comcast.com
+zzz3.sb3http.gumby.comcast.com

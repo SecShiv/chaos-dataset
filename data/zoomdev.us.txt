@@ -445,6 +445,7 @@ artifacts-edge-cn.zoomdev.us
 asr-adaptor-devcolo.zoomdev.us
 asr-adaptor-globaldev.zoomdev.us
 asr-adaptor-sandbox.zoomdev.us
+asr-offline-v2-zmdev-aws-us-east-1.ai.zoomdev.us
 asr-offline-v2-zmdev-main-va1.ai.zoomdev.us
 asradaptor-dev-aws-us-east-1.ai.zoomdev.us
 asradaptor-dev-aws-va1.ai.zoomdev.us
@@ -984,6 +985,7 @@ cube-calc.cloud.colo-test.zoomdev.us
 cube-clickhouse.zoomdev.us
 cube-clickhouse-1.zoomdev.us
 cube-clickhouse-2.zoomdev.us
+cube-config-colo.zoomdev.us
 cube-config-int.zoomdev.us
 cube-config-main.zoomdev.us
 cube-duty.corp.zoomdev.us
@@ -1209,6 +1211,8 @@ dev-xmpp-va1-i.zoomdev.us
 dev-xmpp-va1-internal-i.zoomdev.us
 dev-zcb.zoomdev.us
 dev-zcp-meta-va1.zoomdev.us
+dev-zcxpoci-alert.zoomdev.us
+dev-zcxpoci-prom.zoomdev.us
 dev-ze-branding.zoomdev.us
 dev-ze-ingress-api.zoomdev.us
 dev-ze-presence.zoomdev.us
@@ -1835,6 +1839,7 @@ devephub.zoomdev.us
 devepkeybroker.zoomdev.us
 devepmigration.zoomdev.us
 devepmigration-internal.zoomdev.us
+devepmigration-oh1.zoomdev.us
 devepmigration-va1.zoomdev.us
 devepmp.zoomdev.us
 devepmp-apps.zoomdev.us
@@ -3327,6 +3332,7 @@ mainprofile-card.im.cloud.zoomdev.us
 mainprofilecard.zoomdev.us
 mainprofilecard-internal.zoomdev.us
 mainprofilecard-va1.zoomdev.us
+mainrag-permission-test.cloud.zoomdev.us
 mainrag-permission-webserver.cloud.zoomdev.us
 mainrtcweb.cloud.zoomdev.us
 mainstephen-zcp-test004.cloud.zoomdev.us
@@ -3516,6 +3522,8 @@ mock-zcp.zoomdev.us
 models-mlp.zoomdev.us
 mojcrfemamxgbtayqyfr.testing-vault.zoomdev.us
 mon.zoomdev.us
+monitoring-dev-zcxpoci-alert.zoomdev.us
+monitoring-dev-zcxpoci-prom.zoomdev.us
 monitoring.keydev.monitoring.keyserver.zoomdev.us
 monitoring.keymon-dev.zoomdev.us
 monitoring.keymon-mmou.zoomdev.us

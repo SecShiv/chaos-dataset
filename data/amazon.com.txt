@@ -373,6 +373,7 @@
 *.hiring.amazon.com
 *.hub.mdc.amazon.com
 *.iam-gamma.us-east-1.vpce.amazon.com
+*.iambuilder-dev.aws.amazon.com
 *.il-central-1-failover.console-gamma.aws-dev.amazon.com
 *.il-central-1-failover.console.aws-dev.amazon.com
 *.il-central-1.aws-signin-testing.amazon.com
@@ -17409,6 +17410,7 @@ ap-east-1.tardigrade-gamma.aws.amazon.com
 ap-east-1.tardigrade-onebox.aws.amazon.com
 ap-east-1.tardigrade.aws.amazon.com
 ap-east-2.console.aws.amazon.com
+ap-east-2.lightsail-preprod.aws.amazon.com
 ap-east-2.lightsail.aws.amazon.com
 ap-email.amazon.com
 ap-eu.primary.amazon.com
@@ -18376,6 +18378,7 @@ apums-fe-preprod-swagger-tcp-pdx.pdx.proxy.amazon.com
 apums-fe-prod-swagger-tcp-pdx.pdx.proxy.amazon.com
 apums-na-preprod-swagger-tcp-iad.iad.proxy.amazon.com
 apums-na-prod-swagger-tcp-iad.iad.proxy.amazon.com
+apvden.cupid-na.idprism-auth.amazon.com
 apx.amazon.com
 apx-in.amazon.com
 apx-in.integ.amazon.com
@@ -20264,6 +20267,7 @@ aws-console-platform-proxy-preprod.aka.yul.amazon.com
 aws-console-platform-proxy-preprod.aka.yyc.amazon.com
 aws-console-platform-proxy-preprod.aka.zaz.amazon.com
 aws-console-platform-proxy-preprod.aka.zhy.amazon.com
+aws-console-platform-proxy-preprod.osu.amazon.com
 aws-console-platform-proxy-staging.osu.amazon.com
 aws-console-platform-proxy-staging.pdt.amazon.com
 aws-console-proxy-dev-jlb.dub.amazon.com
@@ -20327,6 +20331,7 @@ aws-console-proxy-preprod-jlb.yul.amazon.com
 aws-console-proxy-preprod-jlb.yyc.amazon.com
 aws-console-proxy-preprod-jlb.zaz.amazon.com
 aws-console-proxy-preprod.aka.bjs.amazon.com
+aws-console-proxy-preprod.aka.osu.amazon.com
 aws-console-proxy-preprod.aka.zhy.amazon.com
 aws-console-proxy-preprod.akl.amazon.com
 aws-console-proxy-preprod.bah.amazon.com
@@ -20342,6 +20347,7 @@ aws-console-proxy-preprod.kul.amazon.com
 aws-console-proxy-preprod.mdw.amazon.com
 aws-console-proxy-preprod.mel.amazon.com
 aws-console-proxy-preprod.mxp.amazon.com
+aws-console-proxy-preprod.osu.amazon.com
 aws-console-proxy-preprod.ruh.amazon.com
 aws-console-proxy-preprod.tlv.amazon.com
 aws-console-proxy-preprod.yul.amazon.com
@@ -25768,6 +25774,7 @@ cpjobui-fe.amazon.com
 cpjobui-gamma.amazon.com
 cpjobui-gamma-jlb-l-iad.iad.proxy.amazon.com
 cpjobui-na.amazon.com
+cplunk.regportal.midway-auth-integ.aka.amazon.com
 cpp-ai-automl.aka.amazon.com
 cpp-metadata.integ.amazon.com
 cpp-mltraining-portal.aka.amazon.com
@@ -35909,6 +35916,7 @@ iam-tools.integ.amazon.com
 iamadmin.us-gov-west-1.amazon.com
 iamazon.corp.amazon.com
 iambic-alpha.corp.amazon.com
+iambuilder-dev.aws.amazon.com
 iams-perf-service-1.iad.amazon.com
 iap-rvss-prod.amazon.com
 iaprsp-eu-gamma-dub.dub.proxy.amazon.com
@@ -40681,6 +40689,7 @@ ldapv2-test-write.iad.amazon.com
 ldapv2-test.bjs.amazon.com
 ldapv2-test.corp.amazon.com
 ldapv2-test.iad.amazon.com
+ldapv2-test.osu.amazon.com
 ldapv2-vip-alias-a4test.iad.corp.amazon.com
 ldapv2-vip-alias-beta.pdx.corp.amazon.com
 ldapv2-vip-alias-test.pdx.corp.amazon.com
@@ -42809,6 +42818,7 @@ micrei.aka.corp.amazon.com
 micro-jlb-iad.iad.proxy.amazon.com
 micro.aka.amazon.com
 micro.integ.amazon.com
+micro1.cupid-na.idprism-auth.amazon.com
 microbial.aka.corp.amazon.com
 microfiche-api-gamma.corp.amazon.com
 microfiche-api.corp.amazon.com
@@ -46493,6 +46503,9 @@ packagetrackinginternaltools-gamma-na-iad.iad.proxy.amazon.com
 packagetrackinginternaltools-prod-eu-dub.dub.proxy.amazon.com
 packagetrackinginternaltools-prod-fe-pdx.pdx.proxy.amazon.com
 packagetrackinginternaltools-prod-na-iad.iad.proxy.amazon.com
+packapp-sptc-gamma-eu.aka.amazon.com
+packapp-sptc-gamma-eu.aka.corp.amazon.com
+packapp-sptc-prod-jp.aka.corp.amazon.com
 packdash-beta.corp.amazon.com
 packdash.corp.amazon.com
 paclog-beta.corp.amazon.com
@@ -56097,6 +56110,7 @@ substrate-pdx80-zhengyli.corp.amazon.com
 substrate-pdx80.corp.amazon.com
 success-profiles.corp.amazon.com
 sudhisen-1.beta.mcp.music.amazon.com
+sudhisen-2.beta.mcp.music.amazon.com
 sudhisen.beta.mcp.music.amazon.com
 suds-beta-jlb.corp.amazon.com
 sugarinc.signin.aws.amazon.com
@@ -61145,7 +61159,3 @@ zshops.amazon.com
 ztf-beta.corp.amazon.com
 ztf.corp.amazon.com
 zubaidu-dev.corp.amazon.com
-zuul-config-beta.corp.amazon.com
-zuul-config-gamma.corp.amazon.com
-zuul.corp.amazon.com
-zyzhang.aka.corp.amazon.com

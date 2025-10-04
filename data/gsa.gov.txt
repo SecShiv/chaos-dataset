@@ -93,6 +93,7 @@
 *.prod.itdb.mcaas.fcs.gsa.gov
 *.prod.ocms.mcaas.fcs.gsa.gov
 *.prod.ogpvp.mcaas.fcs.gsa.gov
+*.prod.pc.mcaas.fcs.gsa.gov
 *.prod.pipe.mcaas.fcs.gsa.gov
 *.prod.sss.mcaas.fcs.gsa.gov
 *.prod.tem.mcaas.fcs.gsa.gov
@@ -372,6 +373,7 @@ api.acre.gsa.gov
 api.prod.cnxs.vpcaas.fcs.gsa.gov
 api.prod.gsa.mcaas.fcs.gsa.gov
 api.tacre.gsa.gov
+api.test.cnxs.vpcaas.fcs.gsa.gov
 api.vms.fleet-prod.fcs.gsa.gov
 apiss.mcaas.fcs.gsa.gov
 app.gsasolutions.gsa.gov
@@ -1254,6 +1256,7 @@ feddesk.gss.gsa.gov
 fedmz.gsa.gov
 fedpay.gsa.gov
 fedpay.gss.gsa.gov
+fedpayvendor.gsa.gov
 feds.fss.gsa.gov
 feds2.fss.gsa.gov
 fedsim.gsa.gov
@@ -68860,6 +68863,7 @@ www.amp.fss.gsa.gov
 www.ampb.fas.gsa.gov
 www.apex.gsa.gov
 www.api.prod.cnxs.vpcaas.fcs.gsa.gov
+www.api.test.cnxs.vpcaas.fcs.gsa.gov
 www.app.gsasolutions.gsa.gov
 www.apps.fas.gsa.gov
 www.apps.ocfo.gsa.gov
@@ -69418,3 +69422,4 @@ zipkin-collector.mgmt-ppm.fcs.gsa.gov
 zipkin-collector.test-ppm.fcs.gsa.gov
 zipkin-ui.dev-ppm.fcs.gsa.gov
 zipkin-ui.mgmt-ppm.fcs.gsa.gov
+zipkin-ui.test-ppm.fcs.gsa.gov

@@ -144,6 +144,7 @@
 *.notifications.platform.dash.cloudflare.com
 *.ns.cloudflare.com
 *.oai-gateway.cloudflare.com
+*.observability.cloudflare.com
 *.observability-staging.cloudflare.com
 *.ohttp-issuer.cloudflare.com
 *.onboarding-guide-staging.dash.staging.cloudflare.com
@@ -8614,6 +8615,7 @@ demo-pat.research.cloudflare.com
 demo-pp-attester.research.cloudflare.com
 demo.href.cloudflare.com
 demo.pat-issuer.cloudflare.com
+demo.realtime.cloudflare.com
 demo.staging.realtime.cloudflare.com
 demos.cloudflare.com
 denver.ns.cloudflare.com
@@ -18560,3 +18562,4 @@ zod.ns.cloudflare.com
 zoe.ns.cloudflare.com
 ztx-bff-staging.teams.cloudflare.com
 ztx-bff.teams.cloudflare.com
+ztx-webhooks.one.dash.cloudflare.com

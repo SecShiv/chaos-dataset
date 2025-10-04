@@ -791,6 +791,7 @@ dsat.corp.mongodb.com
 dsplatform.prod.corp.mongodb.com
 dsplatform.staging.corp.mongodb.com
 dst.devops.test.corp.mongodb.com
+dt-webhook-server.devprod-platform.prod.corp.mongodb.com
 dt-webhook-server.devprod-platform.staging.corp.mongodb.com
 dtest.test.corp.mongodb.com
 dtrack.devprod-platform.staging.corp.mongodb.com
@@ -1225,6 +1226,7 @@ login-validator.test.corp.mongodb.com
 login.corp.mongodb.com
 login.staging.corp.mongodb.com
 login.test.corp.mongodb.com
+logout.test.corp.mongodb.com
 m01-graylog.infosec.mongodb.com
 m01-graylogging.infosec.mongodb.com
 m01-splunkdev.infosec.mongodb.com
@@ -1240,8 +1242,10 @@ mana.corp.mongodb.com
 map-toolkit.corp.mongodb.com
 marian.mongodb.com
 markethub-with-chat-staging.app-mod-rnd.staging.corp.mongodb.com
+marketplace-hub-sbom-generator.app-mod-rnd.staging.corp.mongodb.com
 marketplace-hub.app-mod-rnd.staging.corp.mongodb.com
 mars-dev-feature-5916-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-6828-ai-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-6852-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7121-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7170-test-dev.dataplatform-dev.staging.corp.mongodb.com
@@ -1253,6 +1257,7 @@ mars-dev-feature-api-link-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-api-mesh-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-dp-ui-core-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-dplat-7558-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-fix-warning-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-kube-api-retries-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-track-manual-jobs-dev.dataplatform-dev.staging.corp.mongodb.com
@@ -1314,6 +1319,7 @@ my-app.devprod-platform.staging.corp.mongodb.com
 my-app.education.staging.corp.mongodb.com
 my-app.infosec.staging.corp.mongodb.com
 my-app.sa-demo.staging.corp.mongodb.com
+my-app.ts-amer.staging.corp.mongodb.com
 my-test-app.infosec.staging.corp.mongodb.com
 my-zendesk-tickets-backend.css.staging.corp.mongodb.com
 my-zendesk-tickets.css.prod.corp.mongodb.com
@@ -1564,6 +1570,7 @@ sams-saas.corpsec.staging.corp.mongodb.com
 sams.corp.mongodb.com
 sbom-repository-private.devprod-infra.prod.corp.mongodb.com
 sbom-repository-private.devprod-infra.staging.corp.mongodb.com
+sbom-repository.devprod-infra.prod.corp.mongodb.com
 sbom-repository.devprod-infra.staging.corp.mongodb.com
 scarecrowd-cloud.corp.mongodb.com
 scarecrowd.corp.mongodb.com
@@ -1667,6 +1674,7 @@ stitch-qa.mongodb.com
 stitch-staging.mongodb.com
 streaming-api.support.mongodb.com
 streaming-api.support.staging.corp.mongodb.com
+stride-gpt.cloud-security.prod.corp.mongodb.com
 stride-gpt.cloud-security.staging.corp.mongodb.com
 student.devrel.prod.corp.mongodb.com
 students.mongodb.com
@@ -1720,6 +1728,7 @@ tdt.rsc.prod.corp.mongodb.com
 tdt.rsc.staging.corp.mongodb.com
 teleport-test-1.corp.mongodb.com
 tempo-dev.corp.mongodb.com
+temporal-uat.private-ai.staging.corp.mongodb.com
 temporal.devprod-platform.staging.corp.mongodb.com
 temporal.private-ai.prod.corp.mongodb.com
 temporal.ts-tools.prod.corp.mongodb.com

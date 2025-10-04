@@ -1570,8 +1570,10 @@ digital-health-solutions.cvs.com
 digital-subscription.cvs.com
 digital-subscription-dev.cvs.com
 digital-subscription-dr.cvs.com
+digital-subscription-dr.automation.cvs.com
 digital-subscription-prod.cvs.com
 digital-subscription-pt.cvs.com
+digital-subscription.automation.cvs.com
 digitalapm-eum.cvs.com
 digitalapm-prodeum.cvs.com
 digitalapm-syn.cvs.com
@@ -5060,6 +5062,7 @@ procurementhubdev1.cvs.com
 procurementhubqa1.cvs.com
 prod-account.cvs.com
 prod-account-automation.cvs.com
+prod-account-automation1.cvs.com
 prod-blue-west.digital-virtualcare.cvs.com
 prod-blue.digital-healthservices.cvs.com
 prod-east-blue.digital-healthservices.cvs.com
@@ -6295,6 +6298,10 @@ rocm-i90-service.rocm-wprd.corp.cvs.com
 rocm-immunization-dispositiondb-service.rocm-edev.corp.cvs.com
 rocm-immunization-dispositiondb-service.rocm-eqa.corp.cvs.com
 rocm-immunization-dispositiondb-service.rocm-euat.corp.cvs.com
+rocm-imz-gap-service.rocm-edev.corp.cvs.com
+rocm-imz-gap-service.rocm-ept.corp.cvs.com
+rocm-imz-gap-service.rocm-eqa.corp.cvs.com
+rocm-imz-gap-service.rocm-euat.corp.cvs.com
 rocm-inbound-events-generic-dbservice.rocm-edev.corp.cvs.com
 rocm-inbound-events-generic-dbservice.rocm-eprd.corp.cvs.com
 rocm-inbound-events-generic-dbservice.rocm-ept.corp.cvs.com

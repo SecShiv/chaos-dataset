@@ -76332,6 +76332,8 @@ asyncmq-gateway-web-allow-go-va1.zoom.us
 asyncmq-gateway-web-allow-oh1.zoom.us
 asyncmq-gateway-web-allow-va1.zoom.us
 asyncmq-gateway-web-eu02.zoom.us
+asyncmq-gateway-web-go.zoom.us
+asyncmq-gateway-web-go-oh1.zoom.us
 asyncmq-gateway-web-oh1.zoom.us
 asyncmq-gateway-web-va1.zoom.us
 asyncmq-go.zoom.us
@@ -77062,6 +77064,7 @@ aw1-ai-saeast1.zoom.us
 aw1-ai-saeast1-i.zoom.us
 aw1-ai-saeast1-internal.zoom.us
 aw1-ai-saeast1-internal-i.zoom.us
+aw1-ai-search.cloud.zoom.us
 aw1-ai-sjc1.zoom.us
 aw1-ai-sjc1-i.zoom.us
 aw1-ai-sjc1-internal.zoom.us
@@ -78953,6 +78956,7 @@ dcsngxsy.cloud.zoom.us
 dcsznginx-go-aws-oh-1.cloud.zoom.us
 dcsznginx-go-colo-iad-1.iad.zoom.us
 dcsznginx-go-colo-sjc-1.sjc.zoom.us
+dcsznginx-go-colo-sjc.sjc.zoom.us
 dcsznginx-prod-aws-ct.cloud.zoom.us
 dcsznginx-prod-aws-ff.cloud.zoom.us
 dcsznginx-prod-aws-mb.cloud.zoom.us
@@ -79176,6 +79180,7 @@ dg01mqttws-device-va2.zoom.us
 dg01mqttws-hash.zoom.us
 dg01mws.zoom.us
 dg01nws.zoom.us
+dg01nws-billing-op.zoom.us
 dg01nws-platform.zoom.us
 dg01nws-va1.zoom.us
 dg01nwsd-d.zoom.us
@@ -80461,6 +80466,7 @@ eu01zccpyaccess02.ams.zoom.us
 eu01zccpyaccess02.fra.zoom.us
 eu01zccpybackup01.ams.zoom.us
 eu01zccpybackup01.fra.zoom.us
+eu01zccropensips01.ams.zoom.us
 eu01zccsbc01.ams.zoom.us
 eu01zccsbc100.zoom.us
 eu01zccsip01.ams.zoom.us
@@ -84335,6 +84341,7 @@ hqasr-worker-english-streaming-0-prod-colo-fra1.cloud.zoom.us
 hqasr-worker-english-streaming-0-prod-colo-nrt1.cloud.zoom.us
 hqasr-worker-english-streaming-0-prod-colo-sin1.cloud.zoom.us
 hqasr-worker-english-streaming-1-prod-colo-nrt1.cloud.zoom.us
+hqasr-worker-english-streaming-1-prod-colo-sin1.cloud.zoom.us
 hqasr-worker-english-streaming-3-prod-colo-fra1.cloud.zoom.us
 hqasr-worker-english-streaming-7-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-streaming-8-prod-colo-sjc2.cloud.zoom.us
@@ -87353,6 +87360,7 @@ quickreply-ap-northeast-1.cloud.zoom.us
 quickreply-ap-southeast-2.cloud.zoom.us
 quickreply-ca-central-1.cloud.zoom.us
 quickreply-dg01-aws-us-east-2.cloud.zoom.us
+quickreply-eu-central-1.cloud.zoom.us
 quickreply-go-aws-us-east-1.cloud.zoom.us
 quickreply-go-aws-us-east-2.ai.cloud.zoom.us
 quickreply-go-colo-iad-1.cloud.zoom.us
@@ -87362,6 +87370,7 @@ quickreply-go.cloud.zoom.us
 quickreply-prod-aws-ap-northeast-1.ai.cloud.zoom.us
 quickreply-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 quickreply-prod-aws-ca-central-1.ai.cloud.zoom.us
+quickreply-prod-aws-eu-central-1.ai.cloud.zoom.us
 quickreply-prod-aws-sa-east-1.ai.cloud.zoom.us
 quickreply-prod-aws-us-east-1.ai.cloud.zoom.us
 quickreply-prod-aws-us-east-2.ai.cloud.zoom.us
@@ -88482,6 +88491,7 @@ sg01op.zoom.us
 sg01op2.zoom.us
 sg01opanalyzer.zoom.us
 sg01opva2.zoom.us
+sg01partner-billing.zoom.us
 sg01pbx-va1-ucs-nginx1.zoom.us
 sg01pbx-va1-ucs-nginx2.zoom.us
 sg01pmcapi.zoom.us
@@ -88701,6 +88711,7 @@ smartchatsummary-us-east-1.cloud.zoom.us
 smartchatsummary-us-east-2.cloud.zoom.us
 smartchatsummary-zmo-prod-oci-aws-me-jeddah-1.ai.cloud.zoom.us
 smartprompt-ap-south-1.cloud.zoom.us
+smartprompt-ap-southeast-1.cloud.zoom.us
 smartprompt-ap-southeast-2.cloud.zoom.us
 smartprompt-dg01-aws-us-east-1.cloud.zoom.us
 smartprompt-dg01-aws-us-east-2.cloud.zoom.us
@@ -88710,6 +88721,7 @@ smartprompt-go-colo-iad-1.cloud.zoom.us
 smartprompt-go-colo-sjc-1.cloud.zoom.us
 smartprompt-go.cloud.zoom.us
 smartprompt-prod-aws-ap-south-1.ai.cloud.zoom.us
+smartprompt-prod-aws-ap-southeast-1.ai.cloud.zoom.us
 smartprompt-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 smartprompt-prod-aws-sa-east-1.ai.cloud.zoom.us
 smartprompt-prod-aws-us-east-1.ai.cloud.zoom.us
@@ -89950,6 +89962,7 @@ us01-realtime-uswest2-i.zoom.us
 us01-realtime-uswest2-internal.zoom.us
 us01-realtime-uswest2-internal-i.zoom.us
 us01-report.zoom.us
+us01-report-oh1.zoom.us
 us01-report-va1.zoom.us
 us01-va1-cci-nginx1.zoom.us
 us01-va1-cci-nginx2.zoom.us
@@ -94547,14 +94560,17 @@ us01zccms01.syd.zoom.us
 us01zccms01.ty.zoom.us
 us01zccms201-blue.am.zoom.us
 us01zccms201-blue.fr.zoom.us
+us01zccms201-blue.fra.zoom.us
 us01zccms201-blue.iad.zoom.us
 us01zccms201-blue.sjc.zoom.us
 us01zccms201-green.am.zoom.us
 us01zccms201-green.fr.zoom.us
+us01zccms201-green.fra.zoom.us
 us01zccms201-green.iad.zoom.us
 us01zccms201-green.sjc.zoom.us
 us01zccms201.am.zoom.us
 us01zccms201.fr.zoom.us
+us01zccms201.fra.zoom.us
 us01zccms201.iad.zoom.us
 us01zccms201.sjc.zoom.us
 us01zccms301-blue.iad.zoom.us
@@ -94624,10 +94640,14 @@ us01zccproxy02.mb.zoom.us
 us01zccproxy02.nrt.zoom.us
 us01zccproxy02.sin.zoom.us
 us01zccproxy02.sjc.zoom.us
+us01zccproxy02.syd.zoom.us
 us01zccproxy201.am.zoom.us
 us01zccproxy201.fr.zoom.us
+us01zccproxy201.fra.zoom.us
 us01zccproxy201.iad.zoom.us
 us01zccproxy201.sjc.zoom.us
+us01zccproxy202.am.zoom.us
+us01zccproxy202.fra.zoom.us
 us01zccproxy202.iad.zoom.us
 us01zccproxy202.sjc.zoom.us
 us01zccproxy301.iad.zoom.us
@@ -94638,6 +94658,10 @@ us01zccproxy401.iad.zoom.us
 us01zccproxy401.sjc.zoom.us
 us01zccproxy402.iad.zoom.us
 us01zccproxy402.sjc.zoom.us
+us01zccropensips01.sin.zoom.us
+us01zccropensips01.sjc.zoom.us
+us01zccropensips01.syd.zoom.us
+us01zccropensips401.sjc.zoom.us
 us01zccsbc01.am.zoom.us
 us01zccsbc01.dv.zoom.us
 us01zccsbc01.fr.zoom.us
@@ -94781,6 +94805,7 @@ us01zccwss01.syd.zoom.us
 us01zccwss01.ty.zoom.us
 us01zccwss201.am.zoom.us
 us01zccwss201.fr.zoom.us
+us01zccwss201.fra.zoom.us
 us01zccwss201.iad.zoom.us
 us01zccwss201.sjc.zoom.us
 us01zccwss401.iad.zoom.us
@@ -95959,6 +95984,11 @@ us08ccinginx04.kix.zoom.us
 us08ccinginx04.nrt.zoom.us
 us08ccinginx04.sin.zoom.us
 us08ccinginx04.sjc.zoom.us
+us08ccistreamproxy.zoom.us
+us08ccistreamproxy-a.zoom.us
+us08ccistreamproxy-c.zoom.us
+us08ccistreamproxy-va.zoom.us
+us08ccistreamproxy-va2.zoom.us
 us08ccivoice-eu8.zoom.us
 us08ccivoice-jp8.zoom.us
 us08ccivoice-sg8.zoom.us
@@ -95970,7 +96000,18 @@ us08ccivoice01.kix.zoom.us
 us08ccivoice01.nrt.zoom.us
 us08ccivoice01.sin.zoom.us
 us08ccivoice01.sjc.zoom.us
+us08connectorswfm.zoom.us
+us08connectorswfm-a.zoom.us
+us08connectorswfm-c.zoom.us
+us08connectorswfm-va.zoom.us
+us08connectorswfm-va2.zoom.us
+us08data-ingestionwfm.zoom.us
+us08data-ingestionwfm-a.zoom.us
+us08data-ingestionwfm-c.zoom.us
+us08data-ingestionwfm-va.zoom.us
+us08data-ingestionwfm-va2.zoom.us
 us08file-cf.zoom.us
+us08grpcccistreamproxy.zoom.us
 us08logsystem.zoom.us
 us08ocicommand.zoom.us
 us08softphonezva.zoom.us
@@ -96607,6 +96648,7 @@ zam-example-app-p-prod-aw1-hkg1-common.zoom.us
 zam-example-app-p-prod-aw1-iad1-pbx.zoom.us
 zam-example-app-p-prod-aw1-iad3-common.zoom.us
 zam-example-app-p-prod-aw1-kix1-common.zoom.us
+zam-example-app-p-prod-aw1-ksa1-common.zoom.us
 zam-example-app-p-prod-aw1-mejeddah1-ai.zoom.us
 zam-example-app-p-prod-aw1-meriyadh1-ai.zoom.us
 zam-example-app-p-prod-aw1-mxqueretaro1-ai.zoom.us
@@ -96660,6 +96702,7 @@ zam-example-app-p-prod-gooci-va1-main.zoom.us
 zam-example-app-p-prod-in01-va1-nws.zoom.us
 zam-example-app-p-prod-in01-va1-tsse.zoom.us
 zam-example-app-p-prod-in01-va1-velero.zoom.us
+zam-example-app-p-prod-in01-va1-web.zoom.us
 zam-example-app-p-prod-in01-va1-webok.zoom.us
 zam-example-app-p-prod-in01-va2-web.zoom.us
 zam-example-app-p-prod-in01-va2-webok.zoom.us
@@ -96963,6 +97006,7 @@ zcc-rtts-mediator-kites-us-east-2.cloud.zoom.us
 zcc-rtts-mediator-kites-us08-va1.cloud.zoom.us
 zcc-rtts-mediator-kites-us08-va2.cloud.zoom.us
 zcp-dbmanager.zoom.us
+zcp-eng-admin.zoom.us
 zcp-eng-oh1.corp.zoom.us
 zcp-eng-server.zoom.us
 zcp-eng.corp.zoom.us
@@ -111702,3 +111746,4 @@ zwebmail.asynccommgo.zoom.us
 zworkspace.asynccomm.zoom.us
 zworkspace.asynccommau.zoom.us
 zworkspace.asynccommeu.zoom.us
+zworkspace.asynccommgo.zoom.us

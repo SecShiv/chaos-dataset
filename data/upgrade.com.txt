@@ -37,6 +37,7 @@
 *.batch.usw2.prod.upgrade.com
 *.batch.usw2.stage.upgrade.com
 *.cdepreprod.access.upgrade.com
+*.cdeprod-citadel.use1.cdeprod.upgrade.com
 *.cdeprod.access.upgrade.com
 *.ci.access.upgrade.com
 *.ci.access.use1.upgrade.com
@@ -107,6 +108,7 @@
 *.ui-public.kube.usw2.stage.upgrade.com
 *.ui-public.main.usw2.ondemand.upgrade.com
 *.use1.access.upgrade.com
+*.use1.cdeprod.upgrade.com
 *.use1.corp.access.upgrade.com
 *.use1.o11ydev.upgrade.com
 *.use1.ondemand.access.upgrade.com
