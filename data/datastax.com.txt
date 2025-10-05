@@ -42,7 +42,9 @@
 *.gcp-europe-west3.streaming.datastax.com
 *.gcp-europe-west4.dev.streaming.datastax.com
 *.gcp-useast1.dev.streaming.datastax.com
+*.gcp-useast1.staging.streaming.datastax.com
 *.gcp-useast4.dev.streaming.datastax.com
+*.gcp-useast4.staging.streaming.datastax.com
 *.kd-prod-azure-eastus.streaming.datastax.com
 *.klarna-prod-aws-ap-southeast-2.streaming.datastax.com
 *.klarna-prod-aws-eu-west-1.streaming.datastax.com

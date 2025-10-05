@@ -1822,6 +1822,7 @@
 *.joycepaul.myworkspace.microsoft.com
 *.jpn.daas.microsoft.com
 *.kaptaanbastion.microsoft.com
+*.kaptaanbastionmsft.microsoft.com
 *.kd-pke.east.dogfood.keys.ml.teams.microsoft.com
 *.kd-pke.eur.preview.keys.ml.teams.microsoft.com
 *.kd-pke.ipdns.dogfood.keys.ml.teams.microsoft.com
@@ -2118,6 +2119,7 @@
 *.myapps-ppe.microsoft.com
 *.myevent.microsoft.com
 *.myevent-kv.microsoft.com
+*.myeventafd.microsoft.com
 *.mygroups.microsoft.com
 *.mygroups-ppe.microsoft.com
 *.mygroups-tip.microsoft.com
@@ -2606,6 +2608,7 @@
 *.pubsuitepartners4.selfhost.corp.microsoft.com
 *.pubsuitepartnersfo.selfhost.corp.microsoft.com
 *.pullman.azurestack.corp.microsoft.com
+*.purchase-int.mp.microsoft.com
 *.purchase.dgp.microsoft.com
 *.purchase.giftingrecords-int.mp.microsoft.com
 *.purchase.giftingrecords.mp.microsoft.com
@@ -5483,6 +5486,7 @@
 *.z04.onelake.fabric-df.microsoft.com
 *.z04.sql.cosmos.fabric.microsoft.com
 *.z04.sql.cosmos.fabric-df.microsoft.com
+*.z04.table.fabric.microsoft.com
 *.z04.table.fabric-df.microsoft.com
 *.z04.userdatafunctions.fabric-df.microsoft.com
 *.z04.w.api.fabric.microsoft.com
@@ -9211,6 +9215,7 @@
 *.z54.onelake.fabric-df.microsoft.com
 *.z54.sql.cosmos.fabric.microsoft.com
 *.z54.sql.cosmos.fabric-df.microsoft.com
+*.z54.table.fabric.microsoft.com
 *.z54.table.fabric-df.microsoft.com
 *.z54.userdatafunctions.fabric-df.microsoft.com
 *.z54.w.api.fabric.microsoft.com
@@ -9673,6 +9678,7 @@
 *.z5e.onelake.fabric-df.microsoft.com
 *.z5e.sql.cosmos.fabric.microsoft.com
 *.z5e.sql.cosmos.fabric-df.microsoft.com
+*.z5e.table.fabric.microsoft.com
 *.z5e.table.fabric-df.microsoft.com
 *.z5e.userdatafunctions.fabric-df.microsoft.com
 *.z5e.w.api.fabric.microsoft.com
@@ -14628,6 +14634,7 @@
 *.zc9.onelake.fabric-df.microsoft.com
 *.zc9.sql.cosmos.fabric.microsoft.com
 *.zc9.sql.cosmos.fabric-df.microsoft.com
+*.zc9.table.fabric.microsoft.com
 *.zc9.table.fabric-df.microsoft.com
 *.zc9.userdatafunctions.fabric-df.microsoft.com
 *.zc9.w.api.fabric.microsoft.com
@@ -28591,8 +28598,10 @@ ae.aus.wb.int.whiteboard.microsoft.com
 ae.aus.wb.whiteboard.microsoft.com
 ae.cp.wd.microsoft.com
 ae.fp.wd.microsoft.com
+aea.re-ext-prd.microsoft.com
 aea2a56b-43e4-46a3-ad07-75f553e14eb5.microsoft.com
 aec0a-1.x.cp.wd.microsoft.com
+aec0a.re-ext-prd.microsoft.com
 aedsdf.microsoft.com
 aef-sandbox.geneva.keyvault.events.data.microsoft.com
 aef.geneva.keyvault.events.data.microsoft.com
@@ -28611,6 +28620,7 @@ aemauthdev.microsoft.com
 aemauthppe.microsoft.com
 aemauthprod.microsoft.com
 aen0a.partnerapis.fp.wd.microsoft.com
+aen0a.re-ext-prd.microsoft.com
 aeo.marketplaceapi-ppe.microsoft.com
 aeos.microsoft.com
 aep.microsoft.com
@@ -28923,6 +28933,8 @@ aibijapu1.lab.myworkspace.microsoft.com
 aibijapu1.myworkspace.microsoft.com
 aiblog.microsoft.com
 aiblogs.microsoft.com
+aica-dev.microsoft.com
+aica-uat.microsoft.com
 aidemos.microsoft.com
 aidfsvcwus2.cmcatalogsvc.manage-dogfood.microsoft.com
 aidps.msn-int.glbdns2.microsoft.com
@@ -29847,6 +29859,7 @@ api.appservice.northwest.azs-longhaul-03-int.selfhost.corp.microsoft.com
 api.appservice.northwest.azs-longhaul-03.selfhost.corp.microsoft.com
 api.appservice.northwest.azs-longhaul-04.selfhost.corp.microsoft.com
 api.appservice.northwest.azs-longhaul-05.selfhost.corp.microsoft.com
+api.appservice.northwest.azs-longhaul-13.selfhost.corp.microsoft.com
 api.appservice.northwest.azs-rp-01.selfhost.corp.microsoft.com
 api.appservice.northwest.azs-rp-02.selfhost.corp.microsoft.com
 api.appservice.northwest.azs-rp-03.selfhost.corp.microsoft.com
@@ -74138,6 +74151,8 @@ brs-002.prod.insights.microsoft.com
 brs-003.prod.insights.microsoft.com
 brs-004.prod.insights.microsoft.com
 brs-005.prod.insights.microsoft.com
+brs-006-ip.prod.insights.microsoft.com
+brs-006.prod.insights.microsoft.com
 brs.brazil.tip0.rpadminssl.flow.microsoft.com
 brs.brazil.tip0.rpssl.flow.microsoft.com
 brs.partnerapis.fp.wd.microsoft.com
@@ -75662,6 +75677,7 @@ cdspermissionsship.microsoft.com
 cdw-com.partner.fttoolingapi.microsoft.com
 cdx.transform.microsoft.com
 cdxrdp.microsoft.com
+ce-sm-psdm-compassonenonprod.microsoft.com
 ce-sm-psdm-cpq-ppe.microsoft.com
 ce-sm-psdm-q2o-ppe.microsoft.com
 ce.partners.extranet.microsoft.com
@@ -76111,6 +76127,7 @@ channelbuilderbeta.partners.extranet.microsoft.com
 channelcatalogservice.microsoft.com
 channelcatalogserviceuat.microsoft.com
 channelincentives.microsoft.com
+channelincentives-api.microsoft.com
 channelincentivesbeta.microsoft.com
 channelincentivesbeta-api.microsoft.com
 channelincentivesbeta.partners.extranet.microsoft.com
@@ -78504,8 +78521,10 @@ compass.local.api.projectdenali.microsoft.com
 compass.remoteassistance.support.services.microsoft.com
 compass.remoteassistancedev.support.services.microsoft.com
 compassone.microsoft.com
+compassv2-bing.corp.microsoft.com
 compassv2-revo.corp.microsoft.com
 compassv2.corp.microsoft.com
+compassv2bcp-bing.corp.microsoft.com
 compassv2bcp-revo.corp.microsoft.com
 compassv2bcp.corp.microsoft.com
 compassv2int-1-bing.corp.microsoft.com
@@ -79279,6 +79298,7 @@ cpcsaamssa1intprf01.infra.windows365.microsoft.com
 cpcsaamssa1intst01.infra.windows365.microsoft.com
 cpcsaamssa1ppesh01.infra.windows365.microsoft.com
 cpcsaamssa1ppesh01s.infra.windows365.microsoft.com
+cpcsaamssa1prodeuap1b.infra.windows365.microsoft.com
 cpcsaamssa1prodprap01.infra.windows365.microsoft.com
 cpcsaamssa1prodprap1s.infra.windows365.microsoft.com
 cpcsaamssa1prodprau01.infra.windows365.microsoft.com
@@ -81857,6 +81877,7 @@ ddilegacyweblab.corp.microsoft.com
 ddimodernweb-poc.corp.microsoft.com
 ddimodernweb.corp.microsoft.com
 ddimodernweblab.corp.microsoft.com
+dditservice22.redmond.corp.microsoft.com
 dditsql.redmond.corp.microsoft.com
 dditsql2.redmond.corp.microsoft.com
 dditsql3.redmond.corp.microsoft.com
@@ -82736,6 +82757,7 @@ devicelistenerprod.eudb.microsoft.com
 devicelistenersh.microsoft.com
 devicemanagement.microsoft.com
 devicemanagement.dcg-df.microsoft.com
+devicemanagement.ppena01.ppe.cmdagent.infra.windows365.microsoft.com
 devicemanagement.shna01.sh.cmdagent.infra.windows365.microsoft.com
 devicemanagement.tedev01.test.cmdagent.infra.windows365.microsoft.com
 devicemanagementcheckinaadsp.api.dm-selfhost.microsoft.com
@@ -84708,6 +84730,7 @@ easylife.research.microsoft.com
 easyproxy.microsoft.com
 easyproxydemo.microsoft.com
 easyserver.microsoft.com
+easyserverweb.microsoft.com
 easyservice.microsoft.com
 easystart.microsoft.com
 easystartppe.microsoft.com
@@ -86685,6 +86708,8 @@ eus2-008.prod.insights.microsoft.com
 eus2-009.preprod.insights.microsoft.com
 eus2-010-ip.preprod.insights.microsoft.com
 eus2-010.preprod.insights.microsoft.com
+eus2-011-ip.prod.insights.microsoft.com
+eus2-011.prod.insights.microsoft.com
 eus2-lookupclient-aircapi.bigcatalog.microsoft.com
 eus2-tst.audit.geneva.keyvault.prss.microsoft.com
 eus2.appmanagement.microsoft.com
@@ -87026,6 +87051,7 @@ explorems.glbdns2.microsoft.com
 exploremslt.partners.extranet.microsoft.com
 exploremspreprod.microsoft.com
 explorer.mvs.microsoft.com
+exploresurface.microsoft.com
 expmgmt-int.mp.dse.microsoft.com
 expmgmt.mp.dse.microsoft.com
 expprocwebjobs.sit.mscert.microsoft.com
@@ -106272,6 +106298,7 @@ musmtvsvcf5b01.network.microsoft.com
 musmtvsvcf5b02.network.microsoft.com
 musmtvsvcf5b7b.network.microsoft.com
 musmtvsvcfh201.network.microsoft.com
+musmtvsvcfh202.network.microsoft.com
 musmtvsvcp527b.network.microsoft.com
 musred025an2c1.network.microsoft.com
 musred025an2c2.network.microsoft.com
@@ -106526,6 +106553,7 @@ musred088an7dl.network.microsoft.com
 musred088anrc1.network.microsoft.com
 musred088anrc2.network.microsoft.com
 musred088f5b01.network.microsoft.com
+musred088f5b02.network.microsoft.com
 musred088f5b03.network.microsoft.com
 musred088f5b06.network.microsoft.com
 musred088f5b07.network.microsoft.com
@@ -106939,12 +106967,14 @@ musredrr1f5b11.network.microsoft.com
 musredrr1f5b12.network.microsoft.com
 musredrr1f5b14.network.microsoft.com
 musredrr1f5b7b.network.microsoft.com
+musredrr1f5br1.network.microsoft.com
 musredrr1f5br2.network.microsoft.com
 musredrr1f5br3.network.microsoft.com
 musredrr1f5br4.network.microsoft.com
 musredrr1fh201.network.microsoft.com
 musredrr1fh202.network.microsoft.com
 musredrr1fh203.network.microsoft.com
+musredrr1fh204.network.microsoft.com
 musredrr1p523a.network.microsoft.com
 musredrr1p54s1.network.microsoft.com
 musredrr1p54s2.network.microsoft.com
@@ -107439,6 +107469,7 @@ myenvision.microsoft.com
 myevent.microsoft.com
 myevent-kv.microsoft.com
 myevent-loc.microsoft.com
+myeventafd.microsoft.com
 myeventcicd.microsoft.com
 mygroups.microsoft.com
 mygroups-ppe.microsoft.com
@@ -108236,6 +108267,8 @@ ncus-001.prod.insights.microsoft.com
 ncus-002.prod.insights.microsoft.com
 ncus-003.prod.insights.microsoft.com
 ncus-005.prod.insights.microsoft.com
+ncus-008-ip.prod.insights.microsoft.com
+ncus-008.prod.insights.microsoft.com
 ncus.assets.mcapiassets-aircapi.commerce.microsoft.com
 ncus.dev.cloudtest.microsoft.com
 ncus.journal.mcapiprojects-aircapi.commerce.microsoft.com
@@ -108419,6 +108452,8 @@ neu-007.prod.insights.microsoft.com
 neu-009.preprod.insights.microsoft.com
 neu-009.prod.insights.microsoft.com
 neu-010.prod.insights.microsoft.com
+neu-012-ip.prod.insights.microsoft.com
+neu-012.prod.insights.microsoft.com
 neu-az-scanx.scanx.esrp.microsoft.com
 neu-esrp-proxy.europe.corp.microsoft.com
 neu-int.dsaz.geneva.keyvault.prss.microsoft.com
@@ -109062,6 +109097,7 @@ nova.msdial.glbdns2.microsoft.com
 novaapi.keyvault.failureanalysis.microsoft.com
 novacmsherlock.corp.microsoft.com
 novacmsherlock.redmond.corp.microsoft.com
+novajump1.redmond.corp.microsoft.com
 novappe.microsoft.com
 noventiq-com.partner.fttoolingapi.microsoft.com
 now.blu.cb3.glbdns.microsoft.com
@@ -113350,6 +113386,7 @@ ppe.cloudcollectionplaylist.microsoft.com
 ppe.cloudcollectionplaylist-origin.microsoft.com
 ppe.cloudtest.microsoft.com
 ppe.clponline.netservices.microsoft.com
+ppe.cmdagent.infra.windows365.microsoft.com
 ppe.coach.microsoft.com
 ppe.code.msdn.microsoft.com
 ppe.codeasdata.cloudmine.microsoft.com
@@ -114237,6 +114274,7 @@ preview.community.sustainability.microsoft.com
 preview.data.tvdownload.microsoft.com
 preview.devicepartner.microsoft.com
 preview.devicepartnerppe.microsoft.com
+preview.dragoncopilotcommunity.microsoft.com
 preview.eagreements.microsoft.com
 preview.education.microsoft.com
 preview.epg.tvdownload.microsoft.com
@@ -118550,6 +118588,7 @@ registration.dcg-df.microsoft.com
 registration.print-ppe.microsoft.com
 registration.sellerdashboard.microsoft.com
 registration.service.microsoft.com
+registration.shna01.sh.cmdagent.infra.windows365.microsoft.com
 registration.tedev01.test.cmdagent.infra.windows365.microsoft.com
 registrationperfsvc.partners.extranet.microsoft.com
 registrationperfsvc.parttest.extranettest.microsoft.com
@@ -121528,6 +121567,8 @@ scus-001.prod.insights.microsoft.com
 scus-002.prod.insights.microsoft.com
 scus-003.prod.insights.microsoft.com
 scus-005.prod.insights.microsoft.com
+scus-007-ip.prod.insights.microsoft.com
+scus-007.prod.insights.microsoft.com
 scus-az-scanx.scanx.esrp.microsoft.com
 scus-detailsindexer-int.bigcatalog.microsoft.com
 scus-frontdoor-displaycatalog-int.bigcatalog.microsoft.com
@@ -125628,6 +125669,7 @@ sso.appservice.northwest.azs-longhaul-03-int.selfhost.corp.microsoft.com
 sso.appservice.northwest.azs-longhaul-03.selfhost.corp.microsoft.com
 sso.appservice.northwest.azs-longhaul-04.selfhost.corp.microsoft.com
 sso.appservice.northwest.azs-longhaul-05.selfhost.corp.microsoft.com
+sso.appservice.northwest.azs-longhaul-13.selfhost.corp.microsoft.com
 sso.appservice.northwest.azs-rp-01.selfhost.corp.microsoft.com
 sso.appservice.northwest.azs-rp-02.selfhost.corp.microsoft.com
 sso.appservice.northwest.azs-rp-03.selfhost.corp.microsoft.com
@@ -126984,6 +127026,7 @@ sys1.redmond.corp.microsoft.com
 sys1q.redmond.corp.microsoft.com
 sys2.redmond.corp.microsoft.com
 sys3.redmond.corp.microsoft.com
+sysapi.pclm.microsoft.com
 sysapi.pclmnp.microsoft.com
 sysdev.microsoft.com
 sysdev-int.microsoft.com
@@ -133943,6 +133986,7 @@ wb01.nz.xbox.partners.retail.microsoft.com
 wb02.nz.partners.retail.microsoft.com
 wb02.nz.xbox.partners.retail.microsoft.com
 wb1.lync.mds.microsoft.com
+wbd-oaid-n01.redmond.corp.microsoft.com
 wbp-adoprx-001.redmond.corp.microsoft.com
 wbp-adoprx-002.redmond.corp.microsoft.com
 wbp-adoprx-003.redmond.corp.microsoft.com
@@ -133950,6 +133994,8 @@ wbp-adoprx-004.redmond.corp.microsoft.com
 wbp-adoprx-005.redmond.corp.microsoft.com
 wbp-adoprx-red.redmond.corp.microsoft.com
 wbp-bbutil-001.redmond.corp.microsoft.com
+wbp-oaid-n01.redmond.corp.microsoft.com
+wbp-oaid-n02.redmond.corp.microsoft.com
 wbp-offsym-n05.redmond.corp.microsoft.com
 wbp-offsym-n06.redmond.corp.microsoft.com
 wbt-adodrp-001.redmond.corp.microsoft.com
@@ -134373,6 +134419,7 @@ westeurope.onelake.fabric.microsoft.com
 westeurope.orchestration.speech.microsoft.com
 westeurope.ppeint.cts.speech.microsoft.com
 westeurope.prod.api.securitycopilot.microsoft.com
+westeurope.prod.gatekeeper.microsoft.com
 westeurope.prod.powerquery.microsoft.com
 westeurope.rdgw.iris.dart.microsoft.com
 westeurope.rp.playwright.microsoft.com

@@ -456,6 +456,7 @@
 *.cl1-default-lb.epm-iass-ant-tmcstg.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-ant-vcmsstg.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-ant-vtsstg.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-iass-ant-vtsstg.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-adpt.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-aop.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-anthos-auto.eu.gcp.cloudapp.epam.com
@@ -635,6 +636,7 @@
 *.cl2-default-lb.epm-hive-anthos1.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-hrms-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-iass-ant-paasmon.eu.gcp.cloudapp.epam.com
+*.cl2-default-lb.epm-iass-ant-prjstg.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-iass-anthos-aop.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-iass-anthos-itwp.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-iass-anthos-paas.eu.gcp.cloudapp.epam.com
@@ -4316,6 +4318,7 @@ guide.settlement.epam.com
 guide.settlement-d.lab.epam.com
 guide.settlement.lab.epam.com
 gw.spb.epam.com
+gw4.heroes-dev.epm-ppa.projects.epam.com
 gzpb-int.projects.epam.com
 hackathon.epam.com
 handbook.epam.com
@@ -4454,6 +4457,7 @@ imap.epam.com
 imf-eid.projects.epam.com
 imglib-dev.sap-supp.projects.epam.com
 imglib-stage.sap-supp.projects.epam.com
+impact.epam.com
 impact-dev.epm-ppa.projects.epam.com
 impact-stg.epm-ppa.projects.epam.com
 imr-api.lab.epam.com
@@ -4787,6 +4791,7 @@ llm-research-app-genaihub-dev.llm.lab.epam.com
 llm-research-app-genaihub-feature.llm.lab.epam.com
 llm-research-app-genaihub-prod.llm.lab.epam.com
 llm-research-app-genaihub-uat.llm.lab.epam.com
+llm-research-app-maintenance-plug-dev.llm.lab.epam.com
 llm-research-app-marsdemo-dev.llm.lab.epam.com
 llm-research-app-projectsearch-dev.llm.lab.epam.com
 llm-research-app-projectsearch-prod.llm.lab.epam.com
@@ -5318,6 +5323,7 @@ oldint-xconnect.hca.azure.epmc-stc.projects.epam.com
 oldschool.demo.lab.epam.com
 oleg.epm-dce.projects.epam.com
 omolchanov-jamstack.canvas.jaj-can.projects.epam.com
+onb-dev-deps.future.lab.epam.com
 onboarder.epam.com
 onboarder-test.epm-auto.projects.epam.com
 onboarding.epam.com
@@ -6389,6 +6395,7 @@ scheduler.epam.com
 scheduler.filestorage.epam.com
 scheduler.pipeline.epam.com
 scheduler.qa.pipeline.epam.com
+scheduler.stage.pipeline.epam.com
 screening.epam.com
 sd.dev.epmp-aos.projects.epam.com
 sda-dev-deps.future.lab.epam.com
@@ -6618,6 +6625,8 @@ stage.tkm-fbb.projects.epam.com
 stage.ui.presales.epam.com
 stage.wlt-edoc.projects.epam.com
 stagerdp.epm-iass.projects.epam.com
+staging-ai-copilot.epmc-apic.projects.epam.com
+staging-api-ai-copilot.epmc-apic.projects.epam.com
 staging-app-slkr.apps.cluster12.eu.aws.cloudapp.epam.com
 staging-elearn-university.epm-mooc.projects.epam.com
 staging-elearn.epm-mooc.projects.epam.com
@@ -7506,6 +7515,8 @@ www.sipspb.epam.com
 www.smartlocker.epam.com
 www.snap.portal.sod-crm.projects.epam.com
 www.snow.epm-sam.projects.epam.com
+www.solutionhub.epam.com
+www.solutionhubs.epam.com
 www.solutionshub.epam.com
 www.sonar.epam.com
 www.sonarhyd.epam.com

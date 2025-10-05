@@ -32,6 +32,7 @@ ab.aws.indriverapp.com
 alerter.fr1.baremetal.indriverapp.com
 alerter.prod.euce1.indriverapp.com
 as-gw.cis.euce1.aws.indriverapp.com
+as-gw.mena.meso1.aws.indriverapp.com
 asb.euce1.indriverapp.com
 ath.euce1.indriverapp.com
 baf-cf.mena.meso1.aws.indriverapp.com
@@ -459,18 +460,25 @@ mobile-release.euce1.indriverapp.com
 mono-decom-cf.euce1.indriverapp.com
 msg-gw.euce1.indriverapp.com
 msg.euce1.indriverapp.com
+ncc-cf.latam-br.saea1.aws.indriverapp.com
 ncc-cf.latam-mx.saea1.aws.indriverapp.com
 ncc-cf.latam-mx.usea1.aws.indriverapp.com
+ncc-cf.sea.apse3.aws.indriverapp.com
+ncc.latam-br.saea1.aws.indriverapp.com
 ncc.latam-mx.saea1.aws.indriverapp.com
 ncc.latam-mx.usea1.aws.indriverapp.com
+ncc.sea.apse3.aws.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 nginx-s3-gateway.fr1.baremetal.indriverapp.com
+nha-gw.euce1.indriverapp.com
 nha.euce1.indriverapp.com
+nl-cf.latam-br.saea1.aws.indriverapp.com
 nl-cf.latam-co.saea1.aws.indriverapp.com
 nl-cf.latam-mx.saea1.aws.indriverapp.com
 nl-cf.latam-mx.usea1.aws.indriverapp.com
 nl-cf.latam-pe.saea1.aws.indriverapp.com
 nl-cf.sa.apso1.aws.indriverapp.com
+nl.latam-br.saea1.aws.indriverapp.com
 nl.latam-co.saea1.aws.indriverapp.com
 nl.latam-mx.saea1.aws.indriverapp.com
 nl.latam-mx.usea1.aws.indriverapp.com
@@ -720,6 +728,7 @@ sn-api.mena.meso1.aws.indriverapp.com
 sn-api.sa-in.apso1.aws.indriverapp.com
 sn-api.sa.apso1.aws.indriverapp.com
 sn-api.sea.apse3.aws.indriverapp.com
+snc-gw.euce1.indriverapp.com
 spares.indriverapp.com
 sr-debezium-secondary.sea.apse3.aws.indriverapp.com
 ssn-cf.africa.afso1.aws.indriverapp.com
@@ -918,5 +927,3 @@ ws-cf.usa.usea2.aws.indriverapp.com
 ws.latam.saea1.aws.indriverapp.com
 ws.mena.meso1.aws.indriverapp.com
 ws.usa.usea2.aws.indriverapp.com
-wui-cf.euce1.indriverapp.com
-wui.euce1.indriverapp.com

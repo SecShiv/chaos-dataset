@@ -28,6 +28,7 @@
 *.k8s.infra-test.cnap-am4.intranet.rws.nl
 *.k8s.lmwnext-ota.cnap-am4.intranet.rws.nl
 *.k8s.lmwnext-p1.cnap-am2.intranet.rws.nl
+*.k8s.odsvo-ota.cnap-am2.intranet.rws.nl
 *.k8s.odsvo.cnap-am4.intranet.rws.nl
 *.k8s.otg.cnap-am4.intranet.rws.nl
 *.k8s.radar.cnap-am4.intranet.rws.nl
@@ -59,6 +60,7 @@
 *.k8s.svm-naarden.cnap-am4.intranet.rws.nl
 *.k8s.svm-oss.cnap-am4.intranet.rws.nl
 *.k8s.svm-rdl.cnap-am2.intranet.rws.nl
+*.k8s.svm-rdl.cnap-am4.intranet.rws.nl
 *.k8s.svm-rotterdam.cnap-am2.intranet.rws.nl
 *.k8s.svm-steenbergen.cnap-am2.intranet.rws.nl
 *.k8s.svm-tilburg.cnap-am2.intranet.rws.nl
@@ -1052,6 +1054,7 @@ taz-cronus-s-rabbitmq.infra-24.azure.grid.rws.nl
 taz-grafana.infra-24.azure.grid.rws.nl
 taz-k8s-dashboard.infra-24.azure.grid.rws.nl
 taz-minio-api.infra-24.azure.grid.rws.nl
+taz-minio.infra-24.azure.grid.rws.nl
 techniekacademie.rws.nl
 tempeov.rws.nl
 tenant1.minio.dev.at.rws.nl

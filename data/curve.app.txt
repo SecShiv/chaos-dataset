@@ -245,6 +245,7 @@ query.monitoring.vision.curve.app
 rabbitmq.prod.curve.app
 reports.platform.curve.app
 retool.production.curve.app
+retool.production.celestial.curve.app
 retool.production.galactus.curve.app
 retool.production.quasar.curve.app
 retool.production.vision.curve.app
@@ -293,3 +294,7 @@ web.curve.app
 www.curve.app
 www.dev.curve.app
 www.discover.curve.app
+www.kiss.curve.app
+www.stag.curve.app
+zap.platform.loki.curve.app
+zap.platform.mysterio.curve.app

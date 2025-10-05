@@ -75970,6 +75970,7 @@ alertmanager-tsse-va1.ts.cloud.zoom.us
 alertmanager.monitoring.keyserver-au-01.zoom.us
 alertmanager.monitoring.keyserver-beta.zoom.us
 alertmanager.monitoring.keyserver-ca-01.zoom.us
+alertmanager.monitoring.keyserver-df-01.zoom.us
 alertmanager.monitoring.keyserver-eu-01.zoom.us
 alertmanager.monitoring.keyserver-go.zoom.us
 alertmanager.monitoring.keyserver-go-01.zoom.us
@@ -76306,6 +76307,7 @@ asynccommgo.zoom.us
 asyncfileconsole.zoom.us
 asyncim.zoom.us
 asyncmq.zoom.us
+asyncmq-connect-go-va1.zoom.us
 asyncmq-connect-oh1.zoom.us
 asyncmq-connect-va1.zoom.us
 asyncmq-eu02.zoom.us
@@ -78950,10 +78952,12 @@ dcsngxct.cloud.zoom.us
 dcsngxff.cloud.zoom.us
 dcsngxhkg.hkg.zoom.us
 dcsngxmb.cloud.zoom.us
+dcsngxsg.cloud.zoom.us
 dcsngxsjc.sjc.zoom.us
 dcsngxsp.cloud.zoom.us
 dcsngxsy.cloud.zoom.us
 dcsznginx-go-aws-oh-1.cloud.zoom.us
+dcsznginx-go-aws-va1.cloud.zoom.us
 dcsznginx-go-colo-iad-1.iad.zoom.us
 dcsznginx-go-colo-sjc-1.sjc.zoom.us
 dcsznginx-go-colo-sjc.sjc.zoom.us
@@ -78964,6 +78968,7 @@ dcsznginx-prod-aws-sp.cloud.zoom.us
 dcsznginx-prod-colo-hkg.hkg.zoom.us
 dcsznginx-prod-colo-jed.ksa.zoom.us
 dcsznginx-prod-colo-mel.mel.zoom.us
+dcsznginx-prod-colo-sin.sin.zoom.us
 dcsznginx-prod-colo-sjc.sjc.zoom.us
 dcsznginxjed.jed.zoom.us
 dcvc.zoom.us
@@ -81829,6 +81834,7 @@ gogrpcccistreamproxy-va.zoom.us
 gogrpcccistreamproxy-va2.zoom.us
 gohome-destination.zoom.us
 gohome-destination.cloud.zoom.us
+gohuddles-va1.zoom.us
 gohwaccess01.dv.zoom.us
 gohwaccess01.dxb.zoom.us
 gohwaccess01.iad.zoom.us
@@ -84346,6 +84352,7 @@ hqasr-worker-english-streaming-3-prod-colo-fra1.cloud.zoom.us
 hqasr-worker-english-streaming-7-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-streaming-8-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-streaming-9-prod-colo-iad2.cloud.zoom.us
+hqasr-worker-japanese-streaming-1-prod-colo-nrt1.cloud.zoom.us
 hqasr-worker-japanese-streaming-2-prod-colo-nrt1.cloud.zoom.us
 hqasr-worker-spanish-streaming-0-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-spanish-streaming-0-prod-colo-sjc2.cloud.zoom.us
@@ -87203,6 +87210,7 @@ prometheus-tsse-va1.ts.cloud.zoom.us
 prometheus.monitoring.keyserver-au-01.zoom.us
 prometheus.monitoring.keyserver-beta.zoom.us
 prometheus.monitoring.keyserver-ca-01.zoom.us
+prometheus.monitoring.keyserver-df-01.zoom.us
 prometheus.monitoring.keyserver-eu-01.zoom.us
 prometheus.monitoring.keyserver-go.zoom.us
 prometheus.monitoring.keyserver-go-01.zoom.us
@@ -88796,6 +88804,7 @@ smartscheduling-ap-south-1.cloud.zoom.us
 smartscheduling-ap-southeast-1.cloud.zoom.us
 smartscheduling-ap-southeast-2.cloud.zoom.us
 smartscheduling-ca-central-1.cloud.zoom.us
+smartscheduling-go-aws-us-east-1.cloud.zoom.us
 smartscheduling-go-aws-us-east-2.ai.cloud.zoom.us
 smartscheduling-go.cloud.zoom.us
 smartscheduling-prod-aws-ap-south-1.ai.cloud.zoom.us
@@ -95576,8 +95585,11 @@ us06-web-va1-i.zoom.us
 us06-web-va1-internal.zoom.us
 us06-web-va1-internal-i.zoom.us
 us06-webok.zoom.us
+us06-webok-i.zoom.us
 us06-webok-oh1.zoom.us
+us06-webok-oh1-i.zoom.us
 us06-webok-oh1-internal.zoom.us
+us06-webok-oh1-internal-i.zoom.us
 us06-webok-va1.zoom.us
 us06-webok-va1-internal.zoom.us
 us06-webok-va2.zoom.us
@@ -97011,6 +97023,7 @@ zcp-eng-oh1.corp.zoom.us
 zcp-eng-server.zoom.us
 zcp-eng.corp.zoom.us
 zcp-infra-ca01-dbexecutor.zoom.us
+zcp-infra-dg01-dbexecutor.zoom.us
 zcp-infra-eu01-dbexecutor.zoom.us
 zcp-infra-global-dbexecutor.zoom.us
 zcp-infra-go-oh-dbexecutor.zoom.us
@@ -111743,7 +111756,3 @@ zwebmail.asynccomm.zoom.us
 zwebmail.asynccommau.zoom.us
 zwebmail.asynccommeu.zoom.us
 zwebmail.asynccommgo.zoom.us
-zworkspace.asynccomm.zoom.us
-zworkspace.asynccommau.zoom.us
-zworkspace.asynccommeu.zoom.us
-zworkspace.asynccommgo.zoom.us

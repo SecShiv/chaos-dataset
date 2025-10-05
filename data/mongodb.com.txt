@@ -330,6 +330,7 @@ adaptive.corp.mongodb.com
 adaptiveinsights.corp.mongodb.com
 admin-internal.corp.mongodb.com
 admin-staging.corp.mongodb.com
+admin.corp.mongodb.com
 ae-dbt.analytics.staging.corp.mongodb.com
 ai-api-cnc.ts-tools.prod.corp.mongodb.com
 ai-api-cnc.ts-tools.staging.corp.mongodb.com
@@ -356,6 +357,9 @@ alertmanager.devprod-infra.prod.corp.mongodb.com
 alexandria.ts-amer.prod.corp.mongodb.com
 alexandria.ts-amer.staging.corp.mongodb.com
 allhands.corp.mongodb.com
+amer-tap-backend.ts-amer.staging.corp.mongodb.com
+amer-tap-frontend.ts-amer.staging.corp.mongodb.com
+amert-tap.ts-amer.staging.corp.mongodb.com
 amphora.corp.mongodb.com
 amundsen-acme.devops.test.corp.mongodb.com
 analytics-deet3190.deet.staging.corp.mongodb.com
@@ -561,6 +565,7 @@ canary.gateway.staging.corp.mongodb.com
 canine-dev.corp.mongodb.com
 canine.corp.mongodb.com
 captainhook.corp.mongodb.com
+case-precedent-search-web.ts-tools.prod.corp.mongodb.com
 cdnvalidator.devops.prod.corp.mongodb.com
 cdnvalidator.devops.staging.corp.mongodb.com
 cdnvalidator.devops.test.corp.mongodb.com
@@ -970,6 +975,7 @@ fleetdm.corp.mongodb.com
 fleetdm.prod.corp.mongodb.com
 flex-manager-api.ps.staging.corp.mongodb.com
 flex-manager.ps.staging.corp.mongodb.com
+foliage-web-services.cloud-build.prod.corp.mongodb.com
 foliage-web-services.cloud-build.staging.corp.mongodb.com
 foo.test.corp.mongodb.com
 ftdc-converter-dev.corp.mongodb.com
@@ -1152,6 +1158,7 @@ inventory-optimization.industrysolutions.staging.corp.mongodb.com
 investors.mongodb.com
 ip-ranges.devprod-infra.prod.corp.mongodb.com
 istreporting.industrysolutions.prod.corp.mongodb.com
+istreporting.industrysolutions.staging.corp.mongodb.com
 it.mongodb.com
 it-oncall.corp.mongodb.com
 it.corp.mongodb.com
@@ -1214,6 +1221,7 @@ legacy.support.mongodb.com
 link-ui.data-governance.prod.corp.mongodb.com
 link-ui.data-governance.staging.corp.mongodb.com
 link.corp.mongodb.com
+link.data-governance.prod.corp.mongodb.com
 link.data-governance.staging.corp.mongodb.com
 litellm.infosec.staging.corp.mongodb.com
 live.mongodb.com
@@ -1324,6 +1332,7 @@ my-test-app.infosec.staging.corp.mongodb.com
 my-zendesk-tickets-backend.css.staging.corp.mongodb.com
 my-zendesk-tickets.css.prod.corp.mongodb.com
 my-zendesk-tickets.css.staging.corp.mongodb.com
+myapp.industrysolutions.prod.corp.mongodb.com
 myapp.industrysolutions.staging.corp.mongodb.com
 mycelium-cms.prod.corp.mongodb.com
 mycelium-dev-preview.website.staging.corp.mongodb.com
@@ -1353,6 +1362,7 @@ notifications.corp.mongodb.com
 nyteam1.sa-demo.staging.corp.mongodb.com
 observability-agents-dev.mongodb.com
 observability-agents-qa.mongodb.com
+observability-agents-staging.mongodb.com
 officeips.corp.mongodb.com
 officeit.prod.corp.mongodb.com
 officeit.staging.corp.mongodb.com
@@ -1702,6 +1712,7 @@ syseng-jirahook.mongodb.com
 syseng.prod.corp.mongodb.com
 syseng.staging.corp.mongodb.com
 t-to-i.devops.test.corp.mongodb.com
+t2.server-triage.prod.corp.mongodb.com
 t2.server-triage.staging.corp.mongodb.com
 tableau-staging.corp.mongodb.com
 tableau-tabpy.corp.mongodb.com
@@ -2102,3 +2113,4 @@ yuzhou2.devops.test.corp.mongodb.com
 zap-dev.salesops.staging.corp.mongodb.com
 zd-approvals.corp.mongodb.com
 zen-approvals.corp.mongodb.com
+zendesk-feedback.mongodb.com

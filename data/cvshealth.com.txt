@@ -4286,6 +4286,7 @@ internal-argocd-non-prod.cap.dev.cvshealth.com
 internal-argocd-non-prod.caplab-dev-gcp-use4-control-001.cvshealth.com
 internal-argocd-non-prod.caplab-dev-gcp-use4-general-001.cvshealth.com
 internal-argocd-non-prod.caplab-dev-gcp-use4-general-002.cvshealth.com
+internal-argocd-non-prod.caplab-dev-gcp-use4-origin.cvshealth.com
 internal-argocd-non-prod.caplab-dev-gcp-usw2-general-001.cvshealth.com
 internal-argocd-non-prod.caplab-dev-gcp-usw2-general-002.cvshealth.com
 internal-argocd-non-prod.caplab-dev-gcp-usw2-general-003.cvshealth.com
@@ -4841,6 +4842,7 @@ internal-grafana-non-prod.cap-dfp-dev.cvshealth.com
 internal-grafana-non-prod.caplab-dev-gcp-use4-control-001.cvshealth.com
 internal-grafana-non-prod.caplab-dev-gcp-use4-general-001.cvshealth.com
 internal-grafana-non-prod.caplab-dev-gcp-use4-general-002.cvshealth.com
+internal-grafana-non-prod.caplab-dev-gcp-use4-origin.cvshealth.com
 internal-grafana-non-prod.caplab-dev-gcp-usw2-general-001.cvshealth.com
 internal-grafana-non-prod.caplab-dev-gcp-usw2-general-002.cvshealth.com
 internal-grafana-non-prod.caplab-dev-gcp-usw2-general-003.cvshealth.com
@@ -5189,6 +5191,7 @@ internal-kiali-non-prod.cap-dfp-dev.cvshealth.com
 internal-kiali-non-prod.caplab-dev-gcp-use4-control-001.cvshealth.com
 internal-kiali-non-prod.caplab-dev-gcp-use4-general-001.cvshealth.com
 internal-kiali-non-prod.caplab-dev-gcp-use4-general-002.cvshealth.com
+internal-kiali-non-prod.caplab-dev-gcp-use4-origin.cvshealth.com
 internal-kiali-non-prod.caplab-dev-gcp-usw2-general-001.cvshealth.com
 internal-kiali-non-prod.caplab-dev-gcp-usw2-general-002.cvshealth.com
 internal-kiali-non-prod.caplab-dev-gcp-usw2-general-003.cvshealth.com
@@ -5538,6 +5541,7 @@ internal-non-prod.cap-dfp-dev.cvshealth.com
 internal-non-prod.caplab-dev-gcp-use4-control-001.cvshealth.com
 internal-non-prod.caplab-dev-gcp-use4-general-001.cvshealth.com
 internal-non-prod.caplab-dev-gcp-use4-general-002.cvshealth.com
+internal-non-prod.caplab-dev-gcp-use4-origin.cvshealth.com
 internal-non-prod.caplab-dev-gcp-usw2-general-001.cvshealth.com
 internal-non-prod.caplab-dev-gcp-usw2-general-002.cvshealth.com
 internal-non-prod.caplab-dev-gcp-usw2-general-003.cvshealth.com
@@ -5878,6 +5882,7 @@ internal-prometheus-kubemetrics.cap-prod-gcp-use4-origin.cvshealth.com
 internal-prometheus-kubemetrics.caplab-dev-gcp-use4-control-001.cvshealth.com
 internal-prometheus-kubemetrics.caplab-dev-gcp-use4-general-001.cvshealth.com
 internal-prometheus-kubemetrics.caplab-dev-gcp-use4-general-002.cvshealth.com
+internal-prometheus-kubemetrics.caplab-dev-gcp-use4-origin.cvshealth.com
 internal-prometheus-kubemetrics.caplab-dev-gcp-usw2-general-001.cvshealth.com
 internal-prometheus-kubemetrics.caplab-dev-gcp-usw2-general-002.cvshealth.com
 internal-prometheus-kubemetrics.caplab-dev-gcp-usw2-general-003.cvshealth.com
@@ -6364,6 +6369,7 @@ internal-tracing-non-prod.cap-dfp-dev.cvshealth.com
 internal-tracing-non-prod.caplab-dev-gcp-use4-control-001.cvshealth.com
 internal-tracing-non-prod.caplab-dev-gcp-use4-general-001.cvshealth.com
 internal-tracing-non-prod.caplab-dev-gcp-use4-general-002.cvshealth.com
+internal-tracing-non-prod.caplab-dev-gcp-use4-origin.cvshealth.com
 internal-tracing-non-prod.caplab-dev-gcp-usw2-general-001.cvshealth.com
 internal-tracing-non-prod.caplab-dev-gcp-usw2-general-002.cvshealth.com
 internal-tracing-non-prod.caplab-dev-gcp-usw2-general-003.cvshealth.com
@@ -7558,6 +7564,7 @@ opencost-api.cap-dev-gcp-useast4-control-001.cvshealth.com
 opencost-api.cap-dev-gcp-useast4-general-002.cvshealth.com
 opencost-api.cap-dev-gcp-usw2-general-001.cvshealth.com
 opencost-api.caplab-dev-gcp-use4-general-001.cvshealth.com
+opencost-api.caplab-dev-gcp-use4-origin.cvshealth.com
 opencost-api.caplab-dev-gcp-usw2-general-003.cvshealth.com
 opencost-api.caplab-prod-gcp-use4-ctl-001.cvshealth.com
 opencost-api.caplab-prod-gcp-use4-general-001.cvshealth.com
@@ -7573,6 +7580,7 @@ opencost-ui.cap-dev-gcp-useast4-general-002.cvshealth.com
 opencost-ui.cap-dev-gcp-usw2-general-001.cvshealth.com
 opencost-ui.caplab-dev-gcp-use4-general-001.cvshealth.com
 opencost-ui.caplab-dev-gcp-use4-general-002.cvshealth.com
+opencost-ui.caplab-dev-gcp-use4-origin.cvshealth.com
 opencost-ui.caplab-dev-gcp-usw2-general-003.cvshealth.com
 opencost-ui.caplab-prod-gcp-use4-ctl-001.cvshealth.com
 opencost-ui.caplab-prod-gcp-use4-general-001.cvshealth.com
