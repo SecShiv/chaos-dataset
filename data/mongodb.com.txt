@@ -328,6 +328,7 @@ acme-test-1.test.corp.mongodb.com
 acme.test.corp.mongodb.com
 adaptive.corp.mongodb.com
 adaptiveinsights.corp.mongodb.com
+admin-dev.corp.mongodb.com
 admin-internal.corp.mongodb.com
 admin-staging.corp.mongodb.com
 admin.corp.mongodb.com
@@ -338,6 +339,7 @@ ai-api.ts-tools.prod.corp.mongodb.com
 ai-api.ts-tools.staging.corp.mongodb.com
 ai-assistant.docs.staging.corp.mongodb.com
 ai-gateway-bot-playground.corps.staging.corp.mongodb.com
+ai-infra-service.corps.staging.corp.mongodb.com
 ai-mdb-query-generator.corps.staging.corp.mongodb.com
 ai-proxy.corps.staging.corp.mongodb.com
 ai-rag-evaluation-service.corps.staging.corp.mongodb.com
@@ -359,6 +361,7 @@ alexandria.ts-amer.staging.corp.mongodb.com
 allhands.corp.mongodb.com
 amer-tap-backend.ts-amer.staging.corp.mongodb.com
 amer-tap-frontend.ts-amer.staging.corp.mongodb.com
+amer-tap.ts-amer.staging.corp.mongodb.com
 amert-tap.ts-amer.staging.corp.mongodb.com
 amphora.corp.mongodb.com
 amundsen-acme.devops.test.corp.mongodb.com
@@ -695,6 +698,7 @@ customer-portal-backend.ts-tools.staging.corp.mongodb.com
 customer-portal-cms.ts-tools.staging.corp.mongodb.com
 customer-portal-frontend.ts-tools.staging.corp.mongodb.com
 customer-portal-main.ts-tools.staging.corp.mongodb.com
+customer-portal-pre-prod.ts-tools.prod.corp.mongodb.com
 customer-portal-uat-task-15088.ts-tools.staging.corp.mongodb.com
 customer-portal.ts-tools.prod.corp.mongodb.com
 customer-portal.ts-tools.staging.corp.mongodb.com
@@ -799,6 +803,7 @@ dst.devops.test.corp.mongodb.com
 dt-webhook-server.devprod-platform.prod.corp.mongodb.com
 dt-webhook-server.devprod-platform.staging.corp.mongodb.com
 dtest.test.corp.mongodb.com
+dtrack-devprod.staging.corp.mongodb.com
 dtrack.devprod-platform.staging.corp.mongodb.com
 dumbserver-web-app.devops.test.corp.mongodb.com
 dumbserver.devops.prod.corp.mongodb.com
@@ -1068,6 +1073,7 @@ help-infosec.mongodb.com
 help-it.mongodb.com
 help-sales.mongodb.com
 help-techops.mongodb.com
+hmm.sa.staging.corp.mongodb.com
 holly-api.aix.staging.corp.mongodb.com
 holly.aix.prod.corp.mongodb.com
 holly.aix.staging.corp.mongodb.com
@@ -1261,6 +1267,7 @@ mars-dev-feature-7171-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7201-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7204-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7220-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-7245-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-api-link-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-api-mesh-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
@@ -2110,7 +2117,3 @@ yuzhou-web-app.devops.test.corp.mongodb.com
 yuzhou-web-app.test.corp.mongodb.com
 yuzhou.devops.test.corp.mongodb.com
 yuzhou2.devops.test.corp.mongodb.com
-zap-dev.salesops.staging.corp.mongodb.com
-zd-approvals.corp.mongodb.com
-zen-approvals.corp.mongodb.com
-zendesk-feedback.mongodb.com

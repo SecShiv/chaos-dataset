@@ -373,6 +373,7 @@
 *.cicd.mdtu-ddm.projects.epam.com
 *.cicd2.mdtu-ddm.projects.epam.com
 *.cit.wmpr.test.wm.lab.epam.com
+*.cl1-default-lb-1.epm-paas-anthos-b.eu.gcp.epm-paas.projects.epam.com
 *.cl1-default-lb.atv-jpd-anthos.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-adpt-anthos-perf.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-adpt-anthos.eu.gcp.cloudapp.epam.com
@@ -561,6 +562,7 @@
 *.cl1-default-lb.epm-rdci-anthos-dev.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rdci-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rdfc-anthos.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-rdpw-ant.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rdpw-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rdua-anthos-ts.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-rdua-anthos.eu.gcp.cloudapp.epam.com
@@ -4813,6 +4815,7 @@ llm-research-experiment357-dev.llm.lab.epam.com
 llm-research-experiment357-prod.llm.lab.epam.com
 llm-research-infoportal-article-editor-dev.llm.lab.epam.com
 llm-research-notifications-dev.llm.lab.epam.com
+llm-research-paralegal-example.llm.lab.epam.com
 llm-research-unoserver-node-dev.llm.lab.epam.com
 llm-research-word-service-dev.llm.lab.epam.com
 llm-research-word-service-prod.llm.lab.epam.com
@@ -5055,6 +5058,7 @@ media.bondar2.mas.services.wstc-wcst.projects.epam.com
 media.bondar2.mas.wstc-wcst.projects.epam.com
 media.dev2.mas.services.wstc-wcst.projects.epam.com
 media.dev2.mas.wstc-wcst.projects.epam.com
+media.heroes-dev.epm-ppa.projects.epam.com
 media.info.epam.com
 media.main.aqa2.mas.wstc-wcst.projects.epam.com
 media.main.dev2.mas.wstc-wcst.projects.epam.com
@@ -7594,6 +7598,3 @@ ztna-microfrontend.stage.epam.com
 ztna-session-api.stage.epam.com
 ztna-staging.epm-iga.projects.epam.com
 ztna.app.epam.com
-ztna.app.stage.epam.com
-ztna.stage.epam.com
-ztnacheck.stage.epam.com

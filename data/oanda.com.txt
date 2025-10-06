@@ -799,6 +799,7 @@ platforms-candles.k8s-uat-usc1.u.gcp.oanda.com
 platforms-candles.oanda-uat-fx-dmz-cluster-1.gcp.oanda.com
 platforms-grafana-data-feed.k8s-stg-usc1.s.gcp.oanda.com
 platforms-mosaic.oanda-uat-fx-dmz-cluster-1.gcp.oanda.com
+platforms-open-api-mcp-server.k8s-stg-usc1.s.gcp.oanda.com
 platforms-open-api-mcp-server.k8s-uat-usc1.u.gcp.oanda.com
 platforms-platform-pwa.k8s-prod-use4.p.gcp.oanda.com
 platforms-platform-pwa.k8s-stg-usc1.s.gcp.oanda.com
@@ -1011,6 +1012,7 @@ quotesserver-dark.oanda-uat-fx-dmz-cluster-1.gcp.oanda.com
 quotesserver.oanda-live-fx-dmz-cluster-1.gcp.oanda.com
 quotesserver.oanda-stglive-fx-dmz-cluster-1.gcp.oanda.com
 quotesserver.oanda-uat-fx-dmz-cluster-1.gcp.oanda.com
+rabbitmq.k8s-uat-usc1.u.gcp.oanda.com
 rates.oanda.com
 rates-aggregator-fxds.k8s-prod-use4.p.gcp.oanda.com
 rates-aggregator-fxds.k8s-stg-usc1.s.gcp.oanda.com

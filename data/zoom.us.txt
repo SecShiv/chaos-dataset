@@ -75835,6 +75835,7 @@ aicgateway-dg01-aws-us-east-2.cloud.zoom.us
 aicgateway-go-aws-us-east-1.ai.cloud.zoom.us
 aicgateway-go-aws-us-east-2.ai.cloud.zoom.us
 aicgateway-go-colo-iad-1.cloud.zoom.us
+aicgateway-go-colo-sjc-1.cloud.zoom.us
 aicgateway-prod-aws-ap-northeast-1.ai.cloud.zoom.us
 aicgateway-prod-aws-ap-south-1.ai.cloud.zoom.us
 aicgateway-prod-aws-ap-southeast-1.ai.cloud.zoom.us
@@ -77933,6 +77934,7 @@ ca01va2sipproxy.zoom.us
 ca01va2sipproxy01.zoom.us
 ca01va2sipproxy02.zoom.us
 ca01va2uiproxy.zoom.us
+ca01va2webok.zoom.us
 ca01va2zdm-prov.zoom.us
 ca01vaapplications.zoom.us
 ca01wbnapi.zoom.us
@@ -78484,8 +78486,10 @@ chatcomposetreatment-omniai-aws-us-east-1.ai.cloud.zoom.us
 chatcomposetreatment1-go-aws-us-east-2.ai.cloud.zoom.us
 chatcomposetreatment1-go.cloud.zoom.us
 chatcomposetreatment2-go-aws-us-east-2.ai.cloud.zoom.us
+chatcomposetreatment2-go-colo-sjc-1.cloud.zoom.us
 chatcomposetreatment2-go.cloud.zoom.us
 chatcomposetreatment3-go-aws-us-east-2.ai.cloud.zoom.us
+chatcomposetreatment3-go-colo-sjc-1.cloud.zoom.us
 chatcomposetreatment3-go.cloud.zoom.us
 chatgateway-ap-southeast-2.cloud.zoom.us
 chatgateway-ca-central-1.cloud.zoom.us
@@ -79111,6 +79115,7 @@ dg01billing-hub.zoom.us
 dg01bmt.zoom.us
 dg01bmt-va.zoom.us
 dg01bmt-va2.zoom.us
+dg01bot.zoom.us
 dg01caic.zoom.us
 dg01calendarapi.zoom.us
 dg01command.zoom.us
@@ -79421,6 +79426,8 @@ dg01zdmapi-poly.zoom.us
 dg01zdmapi-va1.zoom.us
 dg01zdmapi-va2.zoom.us
 dg01zdmdevice.zoom.us
+dg01zoom-aic-in-slack-app.zoom.us
+dg01zoom-aic-in-slack-app-va1.zoom.us
 dg01zoomclips.zoom.us
 dg01zpns.zoom.us
 dg01zpns1.zoom.us
@@ -82053,6 +82060,9 @@ goocipbx-va2-ucs-nginx3.zoom.us
 goociroutingengine.zoom.us
 goociroutingengine-va.zoom.us
 goociroutingengine-va2.zoom.us
+goocisoftphonezva.zoom.us
+goocisoftphonezva-va.zoom.us
+goocisoftphonezva-va2.zoom.us
 goociwfm.zoom.us
 goociwfm-a.zoom.us
 goociwfm-c.zoom.us
@@ -82698,6 +82708,7 @@ govdicdv.dv.zoom.us
 govdicsjc.sjc.zoom.us
 governikus.zoom.us
 govideos.zoom.us
+govirtual-backgrounds-oh1.zoom.us
 gowbnapi.zoom.us
 goweb-archzccp-java-test.zoom.us
 gowebguard-console.zoom.us
@@ -84330,6 +84341,8 @@ hqasr-worker-english-19-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-19-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-2-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-2-prod-colo-sjc2.cloud.zoom.us
+hqasr-worker-english-20-prod-colo-sjc2.cloud.zoom.us
+hqasr-worker-english-21-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-3-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-3-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-4-prod-colo-iad2.cloud.zoom.us
@@ -85447,6 +85460,7 @@ liveops.zoom.us
 livewellcolorado.zoom.us
 livly.zoom.us
 livongo.zoom.us
+lkpzcpengta.zoom.us
 llm-gateway-dg01-aws-us-east-2.cloud.zoom.us
 llm-gateway-go-colo-iad-1.cloud.zoom.us
 llm-gateway-go-colo-sjc-1.cloud.zoom.us
@@ -87348,11 +87362,14 @@ queensu-ca.zoom.us
 querytreatment-omniai-aws-us-east-1.ai.cloud.zoom.us
 querytreatment1-dg01-aws-us-east-2.cloud.zoom.us
 querytreatment1-go-aws-us-east-2.ai.cloud.zoom.us
+querytreatment1-go-colo-iad-1.cloud.zoom.us
+querytreatment1-go-colo-sjc-1.cloud.zoom.us
 querytreatment1-go.cloud.zoom.us
 querytreatment1-omniai-aws-us-east-1.ai.cloud.zoom.us
 querytreatment1-us-east-2-dogfood.cloud.zoom.us
 querytreatment2-dg01-aws-us-east-2.cloud.zoom.us
 querytreatment2-go-aws-us-east-2.ai.cloud.zoom.us
+querytreatment2-go-colo-iad-1.cloud.zoom.us
 querytreatment2-go.cloud.zoom.us
 querytreatment2-us-east-2-dogfood.cloud.zoom.us
 querytreatment3-dg01-aws-us-east-2.cloud.zoom.us
@@ -111620,6 +111637,7 @@ zt-en-ms-id-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-en-ms-id-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-en-pl-0-go-aws-us-east-1.ai.cloud.zoom.us
 zt-en-pl-0-prod-aws-us-east-1.ai.cloud.zoom.us
+zt-en-pl-0-prod-aws-us-east-2.ai.cloud.zoom.us
 zt-en-pt-ptpt-0-go-aws-us-east-1.ai.cloud.zoom.us
 zt-en-pt-ptpt-0-prod-aws-us-east-1.ai.cloud.zoom.us
 zt-en-pt-ptpt-0-prod-aws-us-east-2.ai.cloud.zoom.us
@@ -111735,6 +111753,8 @@ zva-go-aws-us-east-1.cloud.zoom.us
 zva-go-aws-us-east-2.ai.cloud.zoom.us
 zva-gpu-go-oci-me-us-east-1.ai.cloud.zoom.us
 zva-gpu-go-oci-me-us-east-2.ai.cloud.zoom.us
+zva-gpu-prod-aws-us-east-1.ai.cloud.zoom.us
+zva-gpu-prod-aws-us-east-2.ai.cloud.zoom.us
 zva-gpu0-go-aws-us-east-1.ai.cloud.zoom.us
 zva-gpu0-go-aws-us-east-2.ai.cloud.zoom.us
 zva-gpu0-go-oci-me-us-east-1.ai.cloud.zoom.us
@@ -111756,3 +111776,7 @@ zwebmail.asynccomm.zoom.us
 zwebmail.asynccommau.zoom.us
 zwebmail.asynccommeu.zoom.us
 zwebmail.asynccommgo.zoom.us
+zworkspace.asynccomm.zoom.us
+zworkspace.asynccommau.zoom.us
+zworkspace.asynccommeu.zoom.us
+zworkspace.asynccommgo.zoom.us

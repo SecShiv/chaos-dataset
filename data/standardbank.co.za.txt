@@ -1,6 +1,8 @@
 .standardbank.co.za
 *.standardbank.co.za
 *.aedo.standardbank.co.za
+*.api-core-schemes-dev.standardbank.co.za
+*.api-payment-schemes-dev.standardbank.co.za
 *.api.letters.standardbank.co.za
 *.appgw.standardbank.co.za
 *.appstore.standardbank.co.za
@@ -45,6 +47,7 @@
 *.ohc.standardbank.co.za
 *.payments.standardbank.co.za
 *.prod.businessonboarding.standardbank.co.za
+*.pwa-schemes-dev.standardbank.co.za
 *.reach.standardbank.co.za
 *.sandbox.cib.appstore.standardbank.co.za
 *.sbgdev.standardbank.co.za
@@ -119,8 +122,10 @@ api.standardbank.co.za
 api-actiontracker.standardbank.co.za
 api-backup-tesserae.standardbank.co.za
 api-controlfirst.standardbank.co.za
+api-core-schemes-dev.standardbank.co.za
 api-gateway.standardbank.co.za
 api-gatewaynp.standardbank.co.za
+api-payment-schemes-dev.standardbank.co.za
 api-pre-prod-tesserae.standardbank.co.za
 api-riskassurance.standardbank.co.za
 api-riskmarketplace.standardbank.co.za
@@ -881,6 +886,8 @@ merchantsolutions.standardbank.co.za
 mfaportal.standardbank.co.za
 mft.standardbank.co.za
 mftdev.standardbank.co.za
+minio-afsouth1-bmcitom-nprd.standardbank.co.za
+minio-api-afsouth1-bmcitom-nprd.standardbank.co.za
 minio-api.afsouth1-bmcitom-nonprod.standardbank.co.za
 minio-api.itsm-nprd-lb.standardbank.co.za
 minio.afsouth1-bmcitom-nonprod.standardbank.co.za
@@ -1093,6 +1100,7 @@ psapaps2v.standardbank.co.za
 psapkcbo.standardbank.co.za
 psiberhr.standardbank.co.za
 psocloud.standardbank.co.za
+pwa-schemes-dev.standardbank.co.za
 pxmonitoring.standardbank.co.za
 pxmonitoringtest.standardbank.co.za
 qa-chat-reach.standardbank.co.za
@@ -1249,10 +1257,12 @@ sbib.striata.standardbank.co.za
 sbibonline.standardbank.co.za
 sbinsure.standardbank.co.za
 sbinsureagent.standardbank.co.za
+sbsa-bhom-bmcitom-nprd.standardbank.co.za
 sbsa-bmcitom-nonprod.standardbank.co.za
 sbsa-disc-bmcitom-nonprod.standardbank.co.za
 sbsa-itsm-nprd.standardbank.co.za
 sbsa-optimize-bmcitom-nonprod.standardbank.co.za
+sbsa-optimize-bmcitom-nprd.standardbank.co.za
 sbsaacstest1.standardbank.co.za
 sbsaservice.standardbank.co.za
 sbvafinternet.standardbank.co.za

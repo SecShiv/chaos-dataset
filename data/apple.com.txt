@@ -10055,6 +10055,8 @@ adcweb1.apple.com
 adcweb2.apple.com
 adcweb3.apple.com
 adcweb4.apple.com
+addr-correct-anz.corp.apple.com
+addr-denali-pbz-prod.awapse1.spbz.apple.com
 address.apple.com
 addressbook.apple.com
 addresslookup.corp.apple.com
@@ -10144,6 +10146,8 @@ afmd-prod.awusw2.sbz.apple.com
 afmd-prod.awusw2.spbz.apple.com
 afmd-server.apple.com
 afmd-server-prod.awusw2.sbz.apple.com
+afmd-server-stage.apple.com
+afmd-server-stage.awusw2.spbz.apple.com
 afmd-stage.apple.com
 afmd-stage.awusw2.sbz.apple.com
 afmd-stage.awusw2.spbz.apple.com
@@ -12933,6 +12937,10 @@ border-collie-uat-mdn.corp.apple.com
 border-collie-uat-rno.apple.com
 border-collie-uat-rno.corp.apple.com
 bordercollie-uat-mdn-1.apple.com
+boss-pbz.awapse1.spbz.apple.com
+boss-pbz.awusw2.spbz.apple.com
+boss-prod.corp.apple.com
+boss-prod.g.apple.com
 bot.music.apple.com
 box-events.apple.com
 box-events-stage.apple.com
@@ -13468,6 +13476,11 @@ ccsp.apple.com
 ccspws1.apple.com
 ccspws2.apple.com
 ccsuat.apple.com
+cctech-gdkp-aos-pbz-mdn.apple.com
+cctech-gdkp-aos-pbz-mdn.spbz.apple.com
+cctech-gdkp-aos-pbz-prz.apple.com
+cctech-gdkp-aos-pbz-prz.spbz.apple.com
+cctech-gdkp-aos.corp.apple.com
 cctech-gwsp-amr.corp.apple.com
 cctech-gwsp-mdn.corp.apple.com
 cctech-gwsp-pbz-mdn.apple.com
@@ -13787,6 +13800,8 @@ cisco-7000.wwdc.apple.com
 cisco3550.camel.apple.com
 citadelfactory-stage.awapne1.sbz.apple.com
 citadelfactory-stage.opsswe.ops.apple.com
+citadelfactory.awapne1.sbz.apple.com
+citadelfactory.opsswe.ops.apple.com
 ckdashboardws.icloud.apple.com
 cl-dev.apple.com
 cl1.apple.com
@@ -17429,6 +17444,7 @@ ftcore.apple.com
 ftcore-rno.apple.com
 ftcore-stage.apple.com
 ftcore-stage-rno.apple.com
+ftcore.prz.sbz.apple.com
 ftp.apple.com
 ftp-proxy.apple.com
 ftp-uat.euro.apple.com
@@ -17475,6 +17491,7 @@ gamecenter.dashboard.iso.apple.com
 gamecenter.isoproxy.apple.com
 gamecenter.qa.splunk.iso.apple.com
 gamecenter.splunk.iso.apple.com
+games.apple.com
 gamma.ns.apple.com
 garageband.apple.com
 garageband-events.apple.com
@@ -21455,6 +21472,9 @@ hostpalace6.apple.com
 hotdeals.apple.com
 hotjobs.apple.com
 hound.apple.com
+hoursofops-pbz.rno.spbz.apple.com
+hoursofops.corp.apple.com
+hoursofops.rad.retail.apple.com
 hps-mdn.apple.com
 hps-nwk.apple.com
 hps-rno.apple.com
@@ -23283,6 +23303,7 @@ ivr94-4-82-229-16-mdn.apple.com
 iwork-events.apple.com
 iworktrialbuy.apple.com
 ixc.mskix.apple.com
+ixnservices-adfacade-prod.corp.apple.com
 ixtapa.apple.com
 ixtapa-gss.apple.com
 ixtapa-gss.igb.apple.com
@@ -27114,6 +27135,8 @@ myapp.itunes.apple.com
 myappleidut.apple.com
 mybusiness.apple.com
 mycommute.apple.com
+myconsent-uat.alcns.sbz.apple.com
+myconsent-uat.care.apple.com
 mycontacts.apple.com
 mycontacts.rno.apple.com
 mycroft.apple.com
@@ -27695,6 +27718,7 @@ nfap.apple.com
 nfap-aap-ext2.apple.com
 nfap-app-ext1.apple.com
 nfap-bs.corp.apple.com
+nfap-bs.pes.ist.apple.com
 nfap-mdn.apple.com
 nfap-nwk.apple.com
 nfap-sf-ext.apple.com
@@ -27702,6 +27726,7 @@ nfap-sf-mdn.apple.com
 nfap-sf-nwk.apple.com
 nfap-sf-rno.apple.com
 nfap-sf.corp.apple.com
+nfap-sf.pes.ist.apple.com
 nfaprod-primary.bs.g.apple.com
 nfaprod-primary.sf.g.apple.com
 nfaproduction-bs-mdn.mdn.spbz.apple.com
@@ -30005,11 +30030,13 @@ paymentoutboundgateway-icloud4.itunes.apple.com
 paymentpartners.apple.com
 paymentrelayservice.apple.com
 payments.apple.com
+payments-aps-notify-qa2.apay.apple.com
 payments-partner.apple.com
 payments-partner-db-notifications-prod.apple.com
 payments-partner-db-notifications-qa2.apple.com
 payments-partner-dev.apple.com
 payments-partner-notify-qa2.apay.apple.com
+payments-partner-notify-uat.apple.com
 payments-partner-qa.apple.com
 payments-partner-uat.apple.com
 payments-partner.itunes.apple.com
@@ -31724,6 +31751,7 @@ pvstockholm-cm-ireporter.apple.com
 pvstockholm.cm.ireporter.apple.com
 pvsupgsa.apple.com
 pvt-ftcore-stage.ist.apple.com
+pvt-ftcore.ist.apple.com
 pws.asia.apple.com
 pws2i.apple.com
 px1.apple.com
@@ -32344,6 +32372,10 @@ raytesteg.apple.com
 raytestmdn.apple.com
 rcc-freeform-sandbox.corp.apple.com
 rcc-mdm.apple.com
+rcc-tools-training.awapse1.spbz.apple.com
+rcc-tools-training.awusw2.spbz.apple.com
+rcc-tools-training.g.apple.com
+rcc-tools-training.rad.retail.apple.com
 rcdc.apple.com
 rcdc-new.apple.com
 rcdc-temp.apple.com
@@ -33676,6 +33708,7 @@ roadshow.apple.com
 roam.apple.com
 roambt.apple.com
 roamt.apple.com
+roc.corp.apple.com
 rocketshipradio.comitunes.apple.com
 rockf.comitunes.apple.com
 rodwm.apple.com
@@ -33686,6 +33719,9 @@ roomlookup.apple.com
 ropes.apple.com
 ropes-carry.apple.com
 ropes-test.apple.com
+roso-pbz.rno.spbz.apple.com
+roso.corp.apple.com
+roso.rad.retail.apple.com
 router.roadshow.apple.com
 rover.apple.com
 rover-archive-uat-mdn.corp.apple.com
@@ -37366,6 +37402,7 @@ tango-shield-stage.apple.com
 tango-us.apple.com
 tap-ext.apple.com
 tarkus.apple.com
+taskengine.security.apple.com
 tasks-service.apple.com
 tasks-service-mdn.apple.com
 tasks-service-rno.apple.com
@@ -37752,6 +37789,11 @@ tl-activity.itunes.apple.com
 tl-services.itunes.apple.com
 tl.itunes.apple.com
 tmall-affiliates.apple.com
+tmall-logging.apple.com
+tmall-logging-prod.awapse1.spbz.apple.com
+tmall-logging-prod.awusw2.spbz.apple.com
+tmall-logging.corp.apple.com
+tmall-logging.g.apple.com
 tmpro-support.corp.apple.com
 tms-at.apple.com
 tnj-aiml-tag-tnj.apple.com
@@ -41590,3 +41632,5 @@ zmc-usw-d-s1.ccvoice.apple.com
 zmc-usw-d-s2.ccvoice.apple.com
 zod.apple.com
 zod001.apple.com
+zomro134.apple.com
+zone.siri.apple.com

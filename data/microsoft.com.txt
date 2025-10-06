@@ -5390,6 +5390,8 @@
 *.z02.msit-dfs.fabric.microsoft.com
 *.z02.msit-onelake.fabric.microsoft.com
 *.z02.msit-sql.cosmos.fabric.microsoft.com
+*.z02.msitgraphql.fabric.microsoft.com
+*.z02.msituserdatafunctions.fabric.microsoft.com
 *.z02.onelake.fabric.microsoft.com
 *.z02.onelake.fabric-df.microsoft.com
 *.z02.sql.cosmos.fabric.microsoft.com
@@ -5400,6 +5402,7 @@
 *.z02.w.api.fabric-df.microsoft.com
 *.z02.w.dailyapi.fabric.microsoft.com
 *.z02.w.dxtapi.fabric.microsoft.com
+*.z02.w.msitapi.fabric.microsoft.com
 *.z03.blob.fabric.microsoft.com
 *.z03.blob.fabric-df.microsoft.com
 *.z03.c.fabric.microsoft.com
@@ -5435,6 +5438,7 @@
 *.z03.msit-onelake.fabric.microsoft.com
 *.z03.msit-sql.cosmos.fabric.microsoft.com
 *.z03.msitgraphql.fabric.microsoft.com
+*.z03.msituserdatafunctions.fabric.microsoft.com
 *.z03.onelake.fabric.microsoft.com
 *.z03.onelake.fabric-df.microsoft.com
 *.z03.sql.cosmos.fabric.microsoft.com
@@ -5623,6 +5627,7 @@
 *.z07.msit-onelake.fabric.microsoft.com
 *.z07.msit-sql.cosmos.fabric.microsoft.com
 *.z07.msitgraphql.fabric.microsoft.com
+*.z07.msituserdatafunctions.fabric.microsoft.com
 *.z07.onelake.fabric.microsoft.com
 *.z07.onelake.fabric-df.microsoft.com
 *.z07.sql.cosmos.fabric.microsoft.com
@@ -5763,6 +5768,7 @@
 *.z0a.msit-onelake.fabric.microsoft.com
 *.z0a.msit-sql.cosmos.fabric.microsoft.com
 *.z0a.msitgraphql.fabric.microsoft.com
+*.z0a.msituserdatafunctions.fabric.microsoft.com
 *.z0a.onelake.fabric.microsoft.com
 *.z0a.onelake.fabric-df.microsoft.com
 *.z0a.sql.cosmos.fabric.microsoft.com
@@ -5808,6 +5814,7 @@
 *.z0b.msit-onelake.fabric.microsoft.com
 *.z0b.msit-sql.cosmos.fabric.microsoft.com
 *.z0b.msitgraphql.fabric.microsoft.com
+*.z0b.msituserdatafunctions.fabric.microsoft.com
 *.z0b.onelake.fabric.microsoft.com
 *.z0b.onelake.fabric-df.microsoft.com
 *.z0b.sql.cosmos.fabric.microsoft.com
@@ -5854,6 +5861,7 @@
 *.z0c.msit-onelake.fabric.microsoft.com
 *.z0c.msit-sql.cosmos.fabric.microsoft.com
 *.z0c.msitgraphql.fabric.microsoft.com
+*.z0c.msituserdatafunctions.fabric.microsoft.com
 *.z0c.onelake.fabric.microsoft.com
 *.z0c.onelake.fabric-df.microsoft.com
 *.z0c.sql.cosmos.fabric.microsoft.com
@@ -6136,6 +6144,7 @@
 *.z12.msit-onelake.fabric.microsoft.com
 *.z12.msit-sql.cosmos.fabric.microsoft.com
 *.z12.msitgraphql.fabric.microsoft.com
+*.z12.msituserdatafunctions.fabric.microsoft.com
 *.z12.onelake.fabric.microsoft.com
 *.z12.onelake.fabric-df.microsoft.com
 *.z12.sql.cosmos.fabric.microsoft.com
@@ -6181,6 +6190,7 @@
 *.z13.msit-onelake.fabric.microsoft.com
 *.z13.msit-sql.cosmos.fabric.microsoft.com
 *.z13.msitgraphql.fabric.microsoft.com
+*.z13.msituserdatafunctions.fabric.microsoft.com
 *.z13.onelake.fabric.microsoft.com
 *.z13.onelake.fabric-df.microsoft.com
 *.z13.sql.cosmos.fabric.microsoft.com
@@ -6228,6 +6238,7 @@
 *.z14.msit-onelake.fabric.microsoft.com
 *.z14.msit-sql.cosmos.fabric.microsoft.com
 *.z14.msitgraphql.fabric.microsoft.com
+*.z14.msituserdatafunctions.fabric.microsoft.com
 *.z14.onelake.fabric.microsoft.com
 *.z14.onelake.fabric-df.microsoft.com
 *.z14.sql.cosmos.fabric.microsoft.com
@@ -6415,6 +6426,7 @@
 *.z18.msit-onelake.fabric.microsoft.com
 *.z18.msit-sql.cosmos.fabric.microsoft.com
 *.z18.msitgraphql.fabric.microsoft.com
+*.z18.msituserdatafunctions.fabric.microsoft.com
 *.z18.onelake.fabric.microsoft.com
 *.z18.onelake.fabric-df.microsoft.com
 *.z18.sql.cosmos.fabric.microsoft.com
@@ -6551,6 +6563,7 @@
 *.z1b.msit-onelake.fabric.microsoft.com
 *.z1b.msit-sql.cosmos.fabric.microsoft.com
 *.z1b.msitgraphql.fabric.microsoft.com
+*.z1b.msituserdatafunctions.fabric.microsoft.com
 *.z1b.onelake.fabric.microsoft.com
 *.z1b.onelake.fabric-df.microsoft.com
 *.z1b.sql.cosmos.fabric.microsoft.com
@@ -6644,6 +6657,7 @@
 *.z1d.msit-onelake.fabric.microsoft.com
 *.z1d.msit-sql.cosmos.fabric.microsoft.com
 *.z1d.msitgraphql.fabric.microsoft.com
+*.z1d.msituserdatafunctions.fabric.microsoft.com
 *.z1d.onelake.fabric.microsoft.com
 *.z1d.onelake.fabric-df.microsoft.com
 *.z1d.sql.cosmos.fabric.microsoft.com
@@ -6736,6 +6750,7 @@
 *.z1f.msit-onelake.fabric.microsoft.com
 *.z1f.msit-sql.cosmos.fabric.microsoft.com
 *.z1f.msitgraphql.fabric.microsoft.com
+*.z1f.msituserdatafunctions.fabric.microsoft.com
 *.z1f.onelake.fabric.microsoft.com
 *.z1f.onelake.fabric-df.microsoft.com
 *.z1f.sql.cosmos.fabric.microsoft.com
@@ -6833,6 +6848,7 @@
 *.z21.msit-onelake.fabric.microsoft.com
 *.z21.msit-sql.cosmos.fabric.microsoft.com
 *.z21.msitgraphql.fabric.microsoft.com
+*.z21.msituserdatafunctions.fabric.microsoft.com
 *.z21.onelake.fabric.microsoft.com
 *.z21.onelake.fabric-df.microsoft.com
 *.z21.sql.cosmos.fabric.microsoft.com
@@ -8415,6 +8431,7 @@
 *.z43.msit-onelake.fabric.microsoft.com
 *.z43.msit-sql.cosmos.fabric.microsoft.com
 *.z43.msitgraphql.fabric.microsoft.com
+*.z43.msituserdatafunctions.fabric.microsoft.com
 *.z43.onelake.fabric.microsoft.com
 *.z43.onelake.fabric-df.microsoft.com
 *.z43.sql.cosmos.fabric.microsoft.com
@@ -8603,6 +8620,7 @@
 *.z47.msit-onelake.fabric.microsoft.com
 *.z47.msit-sql.cosmos.fabric.microsoft.com
 *.z47.msitgraphql.fabric.microsoft.com
+*.z47.msituserdatafunctions.fabric.microsoft.com
 *.z47.onelake.fabric.microsoft.com
 *.z47.onelake.fabric-df.microsoft.com
 *.z47.sql.cosmos.fabric.microsoft.com
@@ -8789,6 +8807,7 @@
 *.z4b.msit-onelake.fabric.microsoft.com
 *.z4b.msit-sql.cosmos.fabric.microsoft.com
 *.z4b.msitgraphql.fabric.microsoft.com
+*.z4b.msituserdatafunctions.fabric.microsoft.com
 *.z4b.onelake.fabric.microsoft.com
 *.z4b.onelake.fabric-df.microsoft.com
 *.z4b.sql.cosmos.fabric.microsoft.com
@@ -8835,6 +8854,8 @@
 *.z4c.msit-dfs.fabric.microsoft.com
 *.z4c.msit-onelake.fabric.microsoft.com
 *.z4c.msit-sql.cosmos.fabric.microsoft.com
+*.z4c.msitgraphql.fabric.microsoft.com
+*.z4c.msituserdatafunctions.fabric.microsoft.com
 *.z4c.onelake.fabric.microsoft.com
 *.z4c.onelake.fabric-df.microsoft.com
 *.z4c.sql.cosmos.fabric.microsoft.com
@@ -8845,6 +8866,7 @@
 *.z4c.w.api.fabric-df.microsoft.com
 *.z4c.w.dailyapi.fabric.microsoft.com
 *.z4c.w.dxtapi.fabric.microsoft.com
+*.z4c.w.msitapi.fabric.microsoft.com
 *.z4d.blob.fabric.microsoft.com
 *.z4d.blob.fabric-df.microsoft.com
 *.z4d.c.fabric.microsoft.com
@@ -8972,6 +8994,7 @@
 *.z4f.msit-onelake.fabric.microsoft.com
 *.z4f.msit-sql.cosmos.fabric.microsoft.com
 *.z4f.msitgraphql.fabric.microsoft.com
+*.z4f.msituserdatafunctions.fabric.microsoft.com
 *.z4f.onelake.fabric.microsoft.com
 *.z4f.onelake.fabric-df.microsoft.com
 *.z4f.sql.cosmos.fabric.microsoft.com
@@ -9023,6 +9046,7 @@
 *.z50.msit-onelake.fabric.microsoft.com
 *.z50.msit-sql.cosmos.fabric.microsoft.com
 *.z50.msitgraphql.fabric.microsoft.com
+*.z50.msituserdatafunctions.fabric.microsoft.com
 *.z50.onelake.fabric.microsoft.com
 *.z50.onelake.fabric-df.microsoft.com
 *.z50.sql.cosmos.fabric.microsoft.com
@@ -9769,6 +9793,7 @@
 *.z60.msit-onelake.fabric.microsoft.com
 *.z60.msit-sql.cosmos.fabric.microsoft.com
 *.z60.msitgraphql.fabric.microsoft.com
+*.z60.msituserdatafunctions.fabric.microsoft.com
 *.z60.onelake.fabric.microsoft.com
 *.z60.onelake.fabric-df.microsoft.com
 *.z60.sql.cosmos.fabric.microsoft.com
@@ -9815,6 +9840,7 @@
 *.z61.msit-onelake.fabric.microsoft.com
 *.z61.msit-sql.cosmos.fabric.microsoft.com
 *.z61.msitgraphql.fabric.microsoft.com
+*.z61.msituserdatafunctions.fabric.microsoft.com
 *.z61.onelake.fabric.microsoft.com
 *.z61.onelake.fabric-df.microsoft.com
 *.z61.sql.cosmos.fabric.microsoft.com
@@ -9860,6 +9886,7 @@
 *.z62.msit-onelake.fabric.microsoft.com
 *.z62.msit-sql.cosmos.fabric.microsoft.com
 *.z62.msitgraphql.fabric.microsoft.com
+*.z62.msituserdatafunctions.fabric.microsoft.com
 *.z62.onelake.fabric.microsoft.com
 *.z62.onelake.fabric-df.microsoft.com
 *.z62.sql.cosmos.fabric.microsoft.com
@@ -9952,6 +9979,7 @@
 *.z64.msit-dfs.fabric.microsoft.com
 *.z64.msit-onelake.fabric.microsoft.com
 *.z64.msitgraphql.fabric.microsoft.com
+*.z64.msituserdatafunctions.fabric.microsoft.com
 *.z64.onelake.fabric.microsoft.com
 *.z64.onelake.fabric-df.microsoft.com
 *.z64.sql.cosmos.fabric.microsoft.com
@@ -11253,6 +11281,7 @@
 *.z80.msit-onelake.fabric.microsoft.com
 *.z80.msit-sql.cosmos.fabric.microsoft.com
 *.z80.msitgraphql.fabric.microsoft.com
+*.z80.msituserdatafunctions.fabric.microsoft.com
 *.z80.onelake.fabric.microsoft.com
 *.z80.onelake.fabric-df.microsoft.com
 *.z80.sql.cosmos.fabric.microsoft.com
@@ -11298,6 +11327,8 @@
 *.z81.msit-datawarehouse.fabric.microsoft.com
 *.z81.msit-dfs.fabric.microsoft.com
 *.z81.msit-onelake.fabric.microsoft.com
+*.z81.msitgraphql.fabric.microsoft.com
+*.z81.msituserdatafunctions.fabric.microsoft.com
 *.z81.onelake.fabric.microsoft.com
 *.z81.onelake.fabric-df.microsoft.com
 *.z81.sql.cosmos.fabric.microsoft.com
@@ -11308,6 +11339,7 @@
 *.z81.w.api.fabric-df.microsoft.com
 *.z81.w.dailyapi.fabric.microsoft.com
 *.z81.w.dxtapi.fabric.microsoft.com
+*.z81.w.msitapi.fabric.microsoft.com
 *.z82.blob.fabric.microsoft.com
 *.z82.blob.fabric-df.microsoft.com
 *.z82.c.fabric.microsoft.com
@@ -11390,6 +11422,7 @@
 *.z83.msit-onelake.fabric.microsoft.com
 *.z83.msit-sql.cosmos.fabric.microsoft.com
 *.z83.msitgraphql.fabric.microsoft.com
+*.z83.msituserdatafunctions.fabric.microsoft.com
 *.z83.onelake.fabric.microsoft.com
 *.z83.onelake.fabric-df.microsoft.com
 *.z83.sql.cosmos.fabric.microsoft.com
@@ -11479,6 +11512,7 @@
 *.z85.msit-onelake.fabric.microsoft.com
 *.z85.msit-sql.cosmos.fabric.microsoft.com
 *.z85.msitgraphql.fabric.microsoft.com
+*.z85.msituserdatafunctions.fabric.microsoft.com
 *.z85.onelake.fabric.microsoft.com
 *.z85.onelake.fabric-df.microsoft.com
 *.z85.sql.cosmos.fabric.microsoft.com
@@ -11614,6 +11648,8 @@
 *.z88.msit-dfs.fabric.microsoft.com
 *.z88.msit-onelake.fabric.microsoft.com
 *.z88.msit-sql.cosmos.fabric.microsoft.com
+*.z88.msitgraphql.fabric.microsoft.com
+*.z88.msituserdatafunctions.fabric.microsoft.com
 *.z88.onelake.fabric.microsoft.com
 *.z88.onelake.fabric-df.microsoft.com
 *.z88.sql.cosmos.fabric.microsoft.com
@@ -11625,6 +11661,7 @@
 *.z88.w.api.fabric-df.microsoft.com
 *.z88.w.dailyapi.fabric.microsoft.com
 *.z88.w.dxtapi.fabric.microsoft.com
+*.z88.w.msitapi.fabric.microsoft.com
 *.z89.blob.fabric.microsoft.com
 *.z89.blob.fabric-df.microsoft.com
 *.z89.c.fabric.microsoft.com
@@ -11706,6 +11743,7 @@
 *.z8a.msit-onelake.fabric.microsoft.com
 *.z8a.msit-sql.cosmos.fabric.microsoft.com
 *.z8a.msitgraphql.fabric.microsoft.com
+*.z8a.msituserdatafunctions.fabric.microsoft.com
 *.z8a.onelake.fabric.microsoft.com
 *.z8a.onelake.fabric-df.microsoft.com
 *.z8a.sql.cosmos.fabric.microsoft.com
@@ -11752,6 +11790,7 @@
 *.z8b.msit-onelake.fabric.microsoft.com
 *.z8b.msit-sql.cosmos.fabric.microsoft.com
 *.z8b.msitgraphql.fabric.microsoft.com
+*.z8b.msituserdatafunctions.fabric.microsoft.com
 *.z8b.onelake.fabric.microsoft.com
 *.z8b.onelake.fabric-df.microsoft.com
 *.z8b.sql.cosmos.fabric.microsoft.com
@@ -12267,6 +12306,8 @@
 *.z96.msit-dfs.fabric.microsoft.com
 *.z96.msit-onelake.fabric.microsoft.com
 *.z96.msit-sql.cosmos.fabric.microsoft.com
+*.z96.msitgraphql.fabric.microsoft.com
+*.z96.msituserdatafunctions.fabric.microsoft.com
 *.z96.onelake.fabric.microsoft.com
 *.z96.onelake.fabric-df.microsoft.com
 *.z96.sql.cosmos.fabric.microsoft.com
@@ -12278,6 +12319,7 @@
 *.z96.w.api.fabric-df.microsoft.com
 *.z96.w.dailyapi.fabric.microsoft.com
 *.z96.w.dxtapi.fabric.microsoft.com
+*.z96.w.msitapi.fabric.microsoft.com
 *.z97.blob.fabric.microsoft.com
 *.z97.blob.fabric-df.microsoft.com
 *.z97.c.fabric.microsoft.com
@@ -12313,6 +12355,7 @@
 *.z97.msit-onelake.fabric.microsoft.com
 *.z97.msit-sql.cosmos.fabric.microsoft.com
 *.z97.msitgraphql.fabric.microsoft.com
+*.z97.msituserdatafunctions.fabric.microsoft.com
 *.z97.onelake.fabric.microsoft.com
 *.z97.onelake.fabric-df.microsoft.com
 *.z97.sql.cosmos.fabric.microsoft.com
@@ -12823,6 +12866,7 @@
 *.za2.msit-onelake.fabric.microsoft.com
 *.za2.msit-sql.cosmos.fabric.microsoft.com
 *.za2.msitgraphql.fabric.microsoft.com
+*.za2.msituserdatafunctions.fabric.microsoft.com
 *.za2.onelake.fabric.microsoft.com
 *.za2.onelake.fabric-df.microsoft.com
 *.za2.sql.cosmos.fabric.microsoft.com
@@ -13011,6 +13055,7 @@
 *.za6.msit-onelake.fabric.microsoft.com
 *.za6.msit-sql.cosmos.fabric.microsoft.com
 *.za6.msitgraphql.fabric.microsoft.com
+*.za6.msituserdatafunctions.fabric.microsoft.com
 *.za6.onelake.fabric.microsoft.com
 *.za6.onelake.fabric-df.microsoft.com
 *.za6.sql.cosmos.fabric.microsoft.com
@@ -13104,6 +13149,7 @@
 *.za8.msit-dfs.fabric.microsoft.com
 *.za8.msit-onelake.fabric.microsoft.com
 *.za8.msitgraphql.fabric.microsoft.com
+*.za8.msituserdatafunctions.fabric.microsoft.com
 *.za8.onelake.fabric.microsoft.com
 *.za8.onelake.fabric-df.microsoft.com
 *.za8.sql.cosmos.fabric.microsoft.com
@@ -13150,6 +13196,7 @@
 *.za9.msit-onelake.fabric.microsoft.com
 *.za9.msit-sql.cosmos.fabric.microsoft.com
 *.za9.msitgraphql.fabric.microsoft.com
+*.za9.msituserdatafunctions.fabric.microsoft.com
 *.za9.onelake.fabric.microsoft.com
 *.za9.onelake.fabric-df.microsoft.com
 *.za9.sql.cosmos.fabric.microsoft.com
@@ -14215,6 +14262,7 @@
 *.zc0.msit-onelake.fabric.microsoft.com
 *.zc0.msit-sql.cosmos.fabric.microsoft.com
 *.zc0.msitgraphql.fabric.microsoft.com
+*.zc0.msituserdatafunctions.fabric.microsoft.com
 *.zc0.onelake.fabric.microsoft.com
 *.zc0.onelake.fabric-df.microsoft.com
 *.zc0.sql.cosmos.fabric.microsoft.com
@@ -14309,6 +14357,7 @@
 *.zc2.msit-onelake.fabric.microsoft.com
 *.zc2.msit-sql.cosmos.fabric.microsoft.com
 *.zc2.msitgraphql.fabric.microsoft.com
+*.zc2.msituserdatafunctions.fabric.microsoft.com
 *.zc2.onelake.fabric.microsoft.com
 *.zc2.onelake.fabric-df.microsoft.com
 *.zc2.sql.cosmos.fabric.microsoft.com
@@ -14630,6 +14679,7 @@
 *.zc9.msit-onelake.fabric.microsoft.com
 *.zc9.msit-sql.cosmos.fabric.microsoft.com
 *.zc9.msitgraphql.fabric.microsoft.com
+*.zc9.msituserdatafunctions.fabric.microsoft.com
 *.zc9.onelake.fabric.microsoft.com
 *.zc9.onelake.fabric-df.microsoft.com
 *.zc9.sql.cosmos.fabric.microsoft.com
@@ -14724,6 +14774,7 @@
 *.zcb.msit-onelake.fabric.microsoft.com
 *.zcb.msit-sql.cosmos.fabric.microsoft.com
 *.zcb.msitgraphql.fabric.microsoft.com
+*.zcb.msituserdatafunctions.fabric.microsoft.com
 *.zcb.onelake.fabric.microsoft.com
 *.zcb.onelake.fabric-df.microsoft.com
 *.zcb.sql.cosmos.fabric.microsoft.com
@@ -14770,6 +14821,7 @@
 *.zcc.msit-onelake.fabric.microsoft.com
 *.zcc.msit-sql.cosmos.fabric.microsoft.com
 *.zcc.msitgraphql.fabric.microsoft.com
+*.zcc.msituserdatafunctions.fabric.microsoft.com
 *.zcc.onelake.fabric.microsoft.com
 *.zcc.onelake.fabric-df.microsoft.com
 *.zcc.sql.cosmos.fabric.microsoft.com
@@ -14953,6 +15005,7 @@
 *.zd0.msit-onelake.fabric.microsoft.com
 *.zd0.msit-sql.cosmos.fabric.microsoft.com
 *.zd0.msitgraphql.fabric.microsoft.com
+*.zd0.msituserdatafunctions.fabric.microsoft.com
 *.zd0.onelake.fabric.microsoft.com
 *.zd0.onelake.fabric-df.microsoft.com
 *.zd0.sql.cosmos.fabric.microsoft.com
@@ -14999,6 +15052,8 @@
 *.zd1.msit-dfs.fabric.microsoft.com
 *.zd1.msit-onelake.fabric.microsoft.com
 *.zd1.msit-sql.cosmos.fabric.microsoft.com
+*.zd1.msitgraphql.fabric.microsoft.com
+*.zd1.msituserdatafunctions.fabric.microsoft.com
 *.zd1.onelake.fabric.microsoft.com
 *.zd1.onelake.fabric-df.microsoft.com
 *.zd1.sql.cosmos.fabric.microsoft.com
@@ -15010,6 +15065,7 @@
 *.zd1.w.api.fabric-df.microsoft.com
 *.zd1.w.dailyapi.fabric.microsoft.com
 *.zd1.w.dxtapi.fabric.microsoft.com
+*.zd1.w.msitapi.fabric.microsoft.com
 *.zd2.blob.fabric.microsoft.com
 *.zd2.blob.fabric-df.microsoft.com
 *.zd2.c.fabric.microsoft.com
@@ -15045,6 +15101,7 @@
 *.zd2.msit-onelake.fabric.microsoft.com
 *.zd2.msit-sql.cosmos.fabric.microsoft.com
 *.zd2.msitgraphql.fabric.microsoft.com
+*.zd2.msituserdatafunctions.fabric.microsoft.com
 *.zd2.onelake.fabric.microsoft.com
 *.zd2.onelake.fabric-df.microsoft.com
 *.zd2.sql.cosmos.fabric.microsoft.com
@@ -15091,6 +15148,7 @@
 *.zd3.msit-onelake.fabric.microsoft.com
 *.zd3.msit-sql.cosmos.fabric.microsoft.com
 *.zd3.msitgraphql.fabric.microsoft.com
+*.zd3.msituserdatafunctions.fabric.microsoft.com
 *.zd3.onelake.fabric.microsoft.com
 *.zd3.onelake.fabric-df.microsoft.com
 *.zd3.sql.cosmos.fabric.microsoft.com
@@ -15747,6 +15805,7 @@
 *.ze1.msit-onelake.fabric.microsoft.com
 *.ze1.msit-sql.cosmos.fabric.microsoft.com
 *.ze1.msitgraphql.fabric.microsoft.com
+*.ze1.msituserdatafunctions.fabric.microsoft.com
 *.ze1.onelake.fabric.microsoft.com
 *.ze1.onelake.fabric-df.microsoft.com
 *.ze1.sql.cosmos.fabric.microsoft.com
@@ -15794,6 +15853,7 @@
 *.ze2.msit-onelake.fabric.microsoft.com
 *.ze2.msit-sql.cosmos.fabric.microsoft.com
 *.ze2.msitgraphql.fabric.microsoft.com
+*.ze2.msituserdatafunctions.fabric.microsoft.com
 *.ze2.onelake.fabric.microsoft.com
 *.ze2.onelake.fabric-df.microsoft.com
 *.ze2.sql.cosmos.fabric.microsoft.com
@@ -15839,6 +15899,7 @@
 *.ze3.msit-onelake.fabric.microsoft.com
 *.ze3.msit-sql.cosmos.fabric.microsoft.com
 *.ze3.msitgraphql.fabric.microsoft.com
+*.ze3.msituserdatafunctions.fabric.microsoft.com
 *.ze3.onelake.fabric.microsoft.com
 *.ze3.onelake.fabric-df.microsoft.com
 *.ze3.sql.cosmos.fabric.microsoft.com
@@ -16022,6 +16083,8 @@
 *.ze7.msit-datawarehouse.fabric.microsoft.com
 *.ze7.msit-dfs.fabric.microsoft.com
 *.ze7.msit-onelake.fabric.microsoft.com
+*.ze7.msitgraphql.fabric.microsoft.com
+*.ze7.msituserdatafunctions.fabric.microsoft.com
 *.ze7.onelake.fabric.microsoft.com
 *.ze7.onelake.fabric-df.microsoft.com
 *.ze7.sql.cosmos.fabric.microsoft.com
@@ -16033,6 +16096,7 @@
 *.ze7.w.api.fabric-df.microsoft.com
 *.ze7.w.dailyapi.fabric.microsoft.com
 *.ze7.w.dxtapi.fabric.microsoft.com
+*.ze7.w.msitapi.fabric.microsoft.com
 *.ze8.blob.fabric.microsoft.com
 *.ze8.blob.fabric-df.microsoft.com
 *.ze8.c.fabric.microsoft.com
@@ -30495,6 +30559,7 @@ api.xpert.microsoft.com
 api.xpertppe.microsoft.com
 api.xpertpreview.microsoft.com
 api.xspm.microsoft.com
+api2.events.microsoft.com
 apiclientauth.msrc.microsoft.com
 apidev.royalties.microsoft.com
 apidev.terminology.microsoft.com
@@ -43912,13 +43977,17 @@ auto-mexcenap-pbi-kv-httpszonefb.zfb.w.api.fabric.microsoft.com
 auto-mexcenap-pbi-kv-httpszonefe.zfe.w.api.fabric.microsoft.com
 auto-mexcenap-pbi-kv-httpszoneff.zff.w.api.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone00.z00.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone02.z02.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone03.z03.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone07.z07.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone08.z08.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone0a.z0a.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone0b.z0b.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone0c.z0c.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone0e.z0e.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone0f.z0f.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone10.z10.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone12.z12.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone13.z13.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone14.z14.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone15.z15.w.msitapi.fabric.microsoft.com
@@ -43926,8 +43995,10 @@ auto-msitwcus-pbi-kv-httpszone16.z16.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone17.z17.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone18.z18.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone1a.z1a.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone1b.z1b.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone1d.z1d.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone1e.z1e.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone1f.z1f.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone20.z20.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone21.z21.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone23.z23.w.msitapi.fabric.microsoft.com
@@ -43961,9 +44032,11 @@ auto-msitwcus-pbi-kv-httpszone47.z47.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone48.z48.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone4a.z4a.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone4b.z4b.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone4c.z4c.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone4d.z4d.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone4e.z4e.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone4f.z4f.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone50.z50.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone51.z51.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone52.z52.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone53.z53.w.msitapi.fabric.microsoft.com
@@ -43976,6 +44049,8 @@ auto-msitwcus-pbi-kv-httpszone5c.z5c.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone5e.z5e.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone5f.z5f.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone60.z60.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone61.z61.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone62.z62.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone63.z63.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone64.z64.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone65.z65.w.msitapi.fabric.microsoft.com
@@ -43995,9 +44070,12 @@ auto-msitwcus-pbi-kv-httpszone7d.z7d.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone7e.z7e.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone7f.z7f.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone80.z80.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone81.z81.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone83.z83.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone85.z85.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone86.z86.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone87.z87.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone88.z88.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone89.z89.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone8a.z8a.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone8b.z8b.w.msitapi.fabric.microsoft.com
@@ -44009,6 +44087,7 @@ auto-msitwcus-pbi-kv-httpszone91.z91.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone93.z93.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone94.z94.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone95.z95.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone96.z96.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone97.z97.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone98.z98.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone99.z99.w.msitapi.fabric.microsoft.com
@@ -44023,6 +44102,7 @@ auto-msitwcus-pbi-kv-httpszonea4.za4.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonea5.za5.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonea6.za6.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonea8.za8.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszonea9.za9.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszoneaa.zaa.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszoneab.zab.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonead.zad.w.msitapi.fabric.microsoft.com
@@ -44046,10 +44126,12 @@ auto-msitwcus-pbi-kv-httpszonec3.zc3.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonec7.zc7.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonec9.zc9.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszoneca.zca.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszonecb.zcb.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonecc.zcc.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonecd.zcd.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonece.zce.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszoned0.zd0.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszoned1.zd1.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszoned2.zd2.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszoned3.zd3.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszoned4.zd4.w.msitapi.fabric.microsoft.com
@@ -44065,9 +44147,11 @@ auto-msitwcus-pbi-kv-httpszonede.zde.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonedf.zdf.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonee0.ze0.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonee1.ze1.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszonee2.ze2.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonee3.ze3.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonee4.ze4.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonee6.ze6.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszonee7.ze7.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonee8.ze8.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonee9.ze9.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszoneeb.zeb.w.msitapi.fabric.microsoft.com
@@ -71653,6 +71737,7 @@ bagie-sv-vm001.redmond.corp.microsoft.com
 bala.myworkspace.microsoft.com
 balakr.myworkspace.microsoft.com
 balancemanagement.cp.microsoft.com
+balancemanagementfd.cp.microsoft.com
 bali.microsoft.com
 bami.microsoft.com
 bamiaircapi.microsoft.com
@@ -75735,6 +75820,7 @@ cem-prod-co3.services.microsoft.com
 cem.services.microsoft.com
 cemex.team.partners.extranet.microsoft.com
 census-console-illumio-prod.corp.microsoft.com
+census-grpc-console-illumio-prod.corp.microsoft.com
 centergyrem2.partners.extranet.microsoft.com
 centergyrem3.partners.extranet.microsoft.com
 centergyrem4.partners.extranet.microsoft.com
@@ -93203,6 +93289,8 @@ indigo.prism.microsoft.com
 indirect-operatorconnect.microsoft.com
 indiv.playready.microsoft.com
 indivtest.playready.microsoft.com
+indonesia.prod.powerquery.microsoft.com
+indonesiacentral.prod.powerquery.microsoft.com
 indpegasusapp.aadcerts.microsoft.com
 indscalegroupapp.aadcerts.microsoft.com
 industryai.microsoft.com
@@ -93525,6 +93613,7 @@ ingest-trd-k317jfft3h0mge68zd.z3.dev.kusto.fabric.microsoft.com
 ingest-trd-k4tpxdz2c0dhe6kkm1.z2.dev.kusto.fabric.microsoft.com
 ingest-trd-k5bvqbmanbvfwvymjh.z9.dev.kusto.fabric.microsoft.com
 ingest-trd-k6s4fjx31s80d11a1s.z3.kusto.fabric.microsoft.com
+ingest-trd-k72qdnryet15x8bqfq.z2.kusto.fabric.microsoft.com
 ingest-trd-k8bwdmzmyq0fku0ktf.z2.kusto.fabric.microsoft.com
 ingest-trd-k8y904bx6s086dax8f.z4.dev.kusto.fabric.microsoft.com
 ingest-trd-kb3bxxyt3128wj6ftc.z4.kusto.fabric.microsoft.com
@@ -107391,6 +107480,8 @@ mx.lefir.microsoft.com
 mx.ppe.datatransfer.microsoft.com
 mx1.mapbuilder.microsoft.com
 mx2.mapbuilder.microsoft.com
+mxc.followerkustoapi.pipe.prod.microsoft.com
+mxc.internalkustoapi.pipe.prod.microsoft.com
 mxpampapp.redmond.corp.microsoft.com
 mxpampapp01.redmond.corp.microsoft.com
 mxpampapp02.redmond.corp.microsoft.com
@@ -108314,9 +108405,11 @@ ne.cp.wd.microsoft.com
 ne.fp.wd.microsoft.com
 ne.onlinebackup.microsoft.com
 ne.promopolicy.mp.microsoft.com
+neat-api.global01eastus2.microsoft.com
 neat-api.pmehlsdlz01.microsoft.com
 neat-dev-api.eastus2.microsoft.com
 neat-dev.eastus2.microsoft.com
+neat.global01eastus2.microsoft.com
 neat.pmehlsdlz01.microsoft.com
 nebbvt-wfe01.ntdev.corp.microsoft.com
 nebcheckout.corp.microsoft.com
@@ -108642,6 +108735,7 @@ niassistest2.smltenant.microsoft.com
 nightly.api.projectdenali.microsoft.com
 niglyn.dev.collab.mixedreality.microsoft.com
 nile.microsoft.com
+nimbus-illumio-prod.corp.microsoft.com
 nimbus-illumio.corp.microsoft.com
 nimitchahal.myworkspace.microsoft.com
 nimitzrdg.swe.glbdns2.microsoft.com
@@ -118585,6 +118679,7 @@ registration-stage.cp.microsoft.com
 registration.dcg.microsoft.com
 registration.dcg-beta.microsoft.com
 registration.dcg-df.microsoft.com
+registration.ppena01.ppe.cmdagent.infra.windows365.microsoft.com
 registration.print-ppe.microsoft.com
 registration.sellerdashboard.microsoft.com
 registration.service.microsoft.com
@@ -121494,6 +121589,7 @@ scops-int.supplychain.microsoft.com
 scops-lab.supplychain.microsoft.com
 scops-sit-eus.aks-supplychain.microsoft.com
 scops-tst.supplychain.microsoft.com
+scops-uat-eus.aks-supplychain.microsoft.com
 scops.supplychain.microsoft.com
 scoring-dev.mp.microsoft.com
 scoringservice.partners.extranet.microsoft.com
@@ -130208,6 +130304,7 @@ trd-2tupes0kqptah45dxb.z2.dev.kusto.fabric.microsoft.com
 trd-2u2r3vbe6nc1jupaxh.z6.dev.kusto.fabric.microsoft.com
 trd-3067nqjz3fenzcx5b2.z0.dev.kusto.fabric.microsoft.com
 trd-307bd6f2ufq6vta1cc.z1.dev.kusto.fabric.microsoft.com
+trd-333zr8zye6qt35xrj8.z7.kusto.fabric.microsoft.com
 trd-383y6saddr7hcxbwqg.z9.kusto.fabric.microsoft.com
 trd-38bcy1419r7fjad2hn.z1.dev.kusto.fabric.microsoft.com
 trd-3aa9213kp4bxfpr0e1.z2.dev.kusto.fabric.microsoft.com
@@ -130450,11 +130547,13 @@ trd-jp4u333xcwypt2yq85.z1.dev.kusto.fabric.microsoft.com
 trd-jrvunbj3cz8u6cnamm.z5.dev.kusto.fabric.microsoft.com
 trd-js12gmzrxy3f1wt3bn.z2.dev.kusto.fabric.microsoft.com
 trd-judky7eaa86r542ztc.z2.dev.kusto.fabric.microsoft.com
+trd-jxecucm1a5fwsa8q3w.z9.kusto.fabric.microsoft.com
 trd-k1pv1tfsq9mtwss4b1.z6.dev.kusto.fabric.microsoft.com
 trd-k317jfft3h0mge68zd.z3.dev.kusto.fabric.microsoft.com
 trd-k4q6wq9qes5vc9k42y.z4.dev.kusto.fabric.microsoft.com
 trd-k4tpxdz2c0dhe6kkm1.z2.dev.kusto.fabric.microsoft.com
 trd-k6s4fjx31s80d11a1s.z3.kusto.fabric.microsoft.com
+trd-k72qdnryet15x8bqfq.z2.kusto.fabric.microsoft.com
 trd-k8bwdmzmyq0fku0ktf.z2.kusto.fabric.microsoft.com
 trd-kpc4aake41hygm9s0z.z1.dev.kusto.fabric.microsoft.com
 trd-ks5vjxfdz9b1udnx7p.z4.dev.kusto.fabric.microsoft.com
@@ -131292,6 +131391,7 @@ ui.cosellpublishstorage.cdn.microsoft.com
 ui.cosellpublishstoragecdn.microsoft.com
 ui.cpmbadge.sit.mscert.microsoft.com
 ui.dev.esi.microsoft.com
+ui.dev.lpe.microsoft.com
 ui.examregistration.sit.mscert.microsoft.com
 ui.int.esi.microsoft.com
 ui.int.membersite.microsoft.com
@@ -136705,5 +136805,3 @@ zurichfairfax.directorytocosmos.microsoft.com
 zurichgallatin.directorytocosmos.microsoft.com
 zurichppe.directorytocosmos.microsoft.com
 zurichprod.directorytocosmos.microsoft.com
-zusred011m1091.service.microsoft.com
-zzzzz.ustcms.microsoft.com
