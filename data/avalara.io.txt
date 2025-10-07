@@ -54,6 +54,7 @@
 *.dataplatformdbt.docs.avalara.io
 *.datawatch-reporting.opus.avalara.io
 *.dcv.sharedservices.dev.avalara.io
+*.delta.prd.us-east1.gcp.avalara.io
 *.delta.prd.us-west-2.aws.avalara.io
 *.demo.connector.studio.avalara.io
 *.dev-cloud.inposia.avalara.io
@@ -2026,3 +2027,5 @@ xbc-api.midgard.stg.avalara.io
 zincron-sbx.midgard.avalara.io
 zincron.midgard.avalara.io
 zincron.midgard.qa.avalara.io
+zincron.midgard.stg.avalara.io
+zuora-basic.dev.avalara.io

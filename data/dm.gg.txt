@@ -35,6 +35,7 @@ design.cms.dm.gg
 developers.cms.dm.gg
 devops-demo-ap-south-1.k8s.dm.gg
 devops-demo-eu-west-1.k8s.dm.gg
+devops-demo-staging-eu-west-1.k8s.dm.gg
 devops-demo-us-east-2-cdn.k8s.dm.gg
 devops-demo-us-west-2-cdn.k8s.dm.gg
 dist.mal.dm.gg
@@ -64,6 +65,7 @@ geoip-cache-prod-sg1.k8s.dm.gg
 geoip-cache-prod-sv4.k8s.dm.gg
 geoip-cache-prod-us-east-2.k8s.dm.gg
 geoip-cache-prod-us-west-2.k8s.dm.gg
+geoip-cache-staging-eu-west-1.k8s.dm.gg
 grafana-openio.dm.gg
 graphql-lrp.kube.dm.gg
 harbor.dm.gg
@@ -99,6 +101,7 @@ leo-metadata-api-grpc-ix7.k8s.dm.gg
 leo-metadata-api-grpc-prod-aws-ap-south-1.k8s.dm.gg
 leo-metadata-api-grpc-prod-aws-us-east-2.k8s.dm.gg
 leo-metadata-api-grpc-prod-aws-us-west-2.k8s.dm.gg
+leo-pacing-api-grpc-2-prod-aws-ap-south-1.k8s.dm.gg
 leo-pacing-api-grpc-prod-aws-ap-south-1.k8s.dm.gg
 leo-pacing-api-grpc-prod-aws-us-east-2.k8s.dm.gg
 leo-pacing-api-grpc-prod-aws-us-west-2.k8s.dm.gg
@@ -168,6 +171,7 @@ src.dm.gg
 stg.dm.gg
 ui.pki.dm.gg
 upload-01.k8s.dm.gg
+user-report-staging.k8s.dm.gg
 v401.dist.mal.dm.gg
 vault.dm.gg
 vault-partner.dm.gg

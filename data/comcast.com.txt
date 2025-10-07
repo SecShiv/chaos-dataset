@@ -85,6 +85,7 @@
 *.auth.np.digital.business.comcast.com
 *.authhooks.api-business.comcast.com
 *.authhooks.np.api-business.comcast.com
+*.authz.comcast.com
 *.autobahn.comcast.com
 *.aws-dev.idbroker-api.comcast.com
 *.aws-dev.thenexus.comcast.com
@@ -212,6 +213,7 @@
 *.cart.ecom.digital.business.comcast.com
 *.case.comcast.com
 *.cassandra.nds.snp.comcast.com
+*.cbcampaign.comcast.com
 *.cbm-buy-content-dev.np.digital.business.comcast.com
 *.cbm-buy-content-pqa.np.digital.business.comcast.com
 *.cbm-buy-content-prod.digital.business.comcast.com
@@ -706,6 +708,7 @@
 *.notifications-uimfe-stg.np.digital.business.comcast.com
 *.np.bcc.campaign.comcast.com
 *.np.campaign.comcast.com
+*.np.cbcampaign.comcast.com
 *.np.crm.martech.comcast.com
 *.np.customerstatements.comcast.com
 *.np.digital.business.comcast.com
@@ -11449,6 +11452,7 @@ cbbiexdiv-as-2p.cable.comcast.com
 cbbimrt-ch2-d1p.cable.comcast.com
 cbbirs-ch2-d1p.cable.comcast.com
 cbc-wc-2p.cable.comcast.com
+cbcampaign.comcast.com
 cbcommunity.comcast.com
 cbcommunity2.comcast.com
 cbd-test.cable.comcast.com
@@ -11788,9 +11792,11 @@ cces-01p.gslb4.comcast.com
 cces-01q.gslb4.comcast.com
 cces-01s.gslb4.comcast.com
 cces-as-1d.slb.comcast.com
+cces-as-1p.slb.comcast.com
 cces-as-1q.slb.comcast.com
 cces-as-1s.slb.comcast.com
 cces-ho-1d.slb.comcast.com
+cces-ho-1p.slb.comcast.com
 cces-ho-1q.slb.comcast.com
 cces-ho-1s.slb.comcast.com
 cces-po-01d.slb.comcast.com
@@ -20694,6 +20700,7 @@ dms-wc-a3pw.cable.comcast.com
 dms.cable.comcast.com
 dmsportal.comcast.com
 dmweb-as-1p.cable.comcast.com
+dmz-console.odin.comcast.com
 dnawvm-po-01p.cable.comcast.com
 dncs-10.21.20.2.cable.comcast.com
 dnor-prod.gslb4.comcast.com
@@ -20701,6 +20708,7 @@ dns.comcast.com
 docas11001.as.xcloud.comcast.com
 docasn10001.as.xcloud-dev.comcast.com
 docdb.aws-qa.thenexus.comcast.com
+docker-ino-tools01m.scl.svic.comcast.com
 docs-dev.pravah.comcast.com
 docs-dx.comcast.com
 docs-zmcken282.pravah.comcast.com
@@ -29111,6 +29119,7 @@ gymwaivertst.cable.comcast.com
 h2ctest.comcast.com
 hackathon.comcast.com
 hackathoninabox.comcast.com
+haia.gslb4.comcast.com
 halo.cable.comcast.com
 halo1-2.cable.comcast.com
 halo4.cable.comcast.com
@@ -34056,6 +34065,9 @@ ininxfavigilon.cable.comcast.com
 inkoxfavigilon.cable.comcast.com
 inn-nv-01.labs.xmobile.comcast.com
 inncreative.comcast.com
+inncreativedev1.comcast.com
+inncreativedev2.comcast.com
+inncreativeqa.comcast.com
 inncreativestage.comcast.com
 innersource.comcast.com
 innovation.business.comcast.com
@@ -39070,6 +39082,7 @@ memdb-po-1s.cable.comcast.com
 memdb-wc-1p.cable.comcast.com
 memdp-as-a1.cable.comcast.com
 memdp-as-a2.cable.comcast.com
+memdp-ga-2p-ilo.cable.comcast.com
 memweb-po-1p.cable.comcast.com
 memweb-po-1s.cable.comcast.com
 memweb-wc-1p.cable.comcast.com
@@ -41279,6 +41292,7 @@ ngpxcmp2-ch2-1p.cable.comcast.com
 ngpxcmp3-ch2-1p.cable.comcast.com
 ngpxcomp1-as-3p-con.cable.comcast.com
 ngpxcomp2-as-1p.cable.comcast.com
+ngpxcomp2-ho-1d.cable.comcast.com
 ngpxcomp3-as-1d.cable.comcast.com
 ngpxcomp3-as-1p.cable.comcast.com
 ngpxcomp3-ho-1d.cable.comcast.com
@@ -61144,6 +61158,7 @@ ttxch2-ocmap03.cable.comcast.com
 ttxch2-ocmdb01.cable.comcast.com
 ttxch2-weblm01.cable.comcast.com
 ttxch2-weblm02.cable.comcast.com
+ttxcvault-as-1p.cable.comcast.com
 ttxho-aads01.cable.comcast.com
 ttxho-aes08-pr.cable.comcast.com
 ttxho-aes09-pr.cable.comcast.com
@@ -70566,3 +70581,6 @@ zstsvc-wc-1p.slb.comcast.com
 zstsvc-wc-1q.slb.comcast.com
 zstsvc-wc-1s.slb.comcast.com
 zwestapi.cable.comcast.com
+zz-aaron.comcast.com
+zz-jim.slb.comcast.com
+zzz3.sb3http.gumby.comcast.com

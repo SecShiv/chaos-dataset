@@ -77352,14 +77352,23 @@ box.zoom.us
 bpbcpa.zoom.us
 bpmcpa.zoom.us
 br01-infra.zoom.us
+br01-infra-i.zoom.us
 br01-infra-oh1.zoom.us
+br01-infra-oh1-i.zoom.us
 br01-infra-va1.zoom.us
+br01-infra-va1-i.zoom.us
 br01-infra-va2.zoom.us
+br01-infra-va2-i.zoom.us
 br01-web.zoom.us
+br01-web-i.zoom.us
 br01-web-oh1.zoom.us
+br01-web-oh1-i.zoom.us
 br01-web-va1.zoom.us
+br01-web-va1-i.zoom.us
 br01-web-va1-internal.zoom.us
+br01-web-va1-internal-i.zoom.us
 br01-web-va2.zoom.us
+br01-web-va2-i.zoom.us
 br01-xmpp.zoom.us
 br01-xmpp-i.zoom.us
 br01-xmpp-va1.zoom.us
@@ -77469,6 +77478,7 @@ ca01-nws-prometheus.zoom.us
 ca01-openapi-graphql.zoom.us
 ca01-report.zoom.us
 ca01-report-va1.zoom.us
+ca01-report-va2.zoom.us
 ca01-s2-xmpprpc.zoom.us
 ca01-va1-ts.cloud.zoom.us
 ca01-va2-nws-prometheus.zoom.us
@@ -78484,6 +78494,7 @@ charemisd.zoom.us
 charterforcompassion.zoom.us
 chatcomposetreatment-omniai-aws-us-east-1.ai.cloud.zoom.us
 chatcomposetreatment1-go-aws-us-east-2.ai.cloud.zoom.us
+chatcomposetreatment1-go-colo-iad-1.cloud.zoom.us
 chatcomposetreatment1-go.cloud.zoom.us
 chatcomposetreatment2-go-aws-us-east-2.ai.cloud.zoom.us
 chatcomposetreatment2-go-colo-sjc-1.cloud.zoom.us
@@ -79278,6 +79289,7 @@ dg01pmcapi.zoom.us
 dg01profilecard.zoom.us
 dg01profilecard-internal.zoom.us
 dg01profilecard-oh1.zoom.us
+dg01profilecard-va1.zoom.us
 dg01prov01.sjc.zoom.us
 dg01prov110.zoom.us
 dg01pyaccess01.iad.zoom.us
@@ -81571,6 +81583,7 @@ go-report-va1.zoom.us
 go-s.zoom.us
 go-s-va1.zoom.us
 go-s2-xmpprpc.zoom.us
+go-search-ai.zoom.us
 go-sjc-s3.zoom.us
 go-tsse.zoom.us
 go-tsse-va1.zoom.us
@@ -82012,6 +82025,8 @@ goociaizva.zoom.us
 goociaizva-va.zoom.us
 goociaizva-va2.zoom.us
 goociapizva.zoom.us
+goociapizva-a.zoom.us
+goociapizva-c.zoom.us
 goociapizva-va.zoom.us
 goociapizva-va2.zoom.us
 goocicci.zoom.us
@@ -82052,6 +82067,9 @@ goocicontactservice-va-internal.zoom.us
 goocicontactservice-va2.zoom.us
 goocicontactservice-va2-internal.zoom.us
 goocilogsystem.zoom.us
+goocinotificationswfm.zoom.us
+goocinotificationswfm-va.zoom.us
+goocinotificationswfm-va2.zoom.us
 goocipbx-va-ucs-nginx1.zoom.us
 goocipbx-va-ucs-nginx2.zoom.us
 goocipbx-va2-ucs-nginx1.zoom.us
@@ -84342,6 +84360,7 @@ hqasr-worker-english-19-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-2-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-2-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-20-prod-colo-sjc2.cloud.zoom.us
+hqasr-worker-english-21-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-21-prod-colo-sjc2.cloud.zoom.us
 hqasr-worker-english-3-prod-colo-iad2.cloud.zoom.us
 hqasr-worker-english-3-prod-colo-sjc2.cloud.zoom.us
@@ -88441,6 +88460,7 @@ sg-openapi-va1.zoom.us
 sg.telemetry.zoom.us
 sg01-billingnws.zoom.us
 sg01-default-xmpprpc.zoom.us
+sg01-infra.zoom.us
 sg01-infra-i.zoom.us
 sg01-infra-oh1.zoom.us
 sg01-infra-oh1-internal.zoom.us
@@ -88717,6 +88737,7 @@ smart-chat-summary-sa-east-1.cloud.zoom.us
 smart-chat-summary-us-east-1.cloud.zoom.us
 smart-chat-summary-us-east-2-dogfood.cloud.zoom.us
 smart-chat-summary-us-east-2.cloud.zoom.us
+smart-cube.zoom.us
 smartbear.zoom.us
 smartchatsummary-dg01-aws-us-east-2.cloud.zoom.us
 smartchatsummary-go-aws-us-east-1.cloud.zoom.us
@@ -89788,10 +89809,12 @@ uncsph.zoom.us
 uncw.zoom.us
 und.zoom.us
 undefined-ap-southeast-1.cloud.zoom.us
+undefined-ca-central-1.cloud.zoom.us
 undefined-dg01-aws-us-east-2.cloud.zoom.us
 undefined-go-aws-us-east-2.ai.cloud.zoom.us
 undefined-go.cloud.zoom.us
 undefined-prod-aws-ap-southeast-1.ai.cloud.zoom.us
+undefined-prod-aws-ca-central-1.ai.cloud.zoom.us
 undefined-us-east-2-dogfood.cloud.zoom.us
 undrr.zoom.us
 unesco-org.zoom.us

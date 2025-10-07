@@ -679,6 +679,9 @@ api-cert-ox.wellsfargo.com
 api-cert-sv.wellsfargo.com
 api-certification.wellsfargo.com
 api-certification.glb.wellsfargo.com
+api-device.wellsfargo.com
+api-device-certification.wellsfargo.com
+api-device-sandbox.wellsfargo.com
 api-enterprise.wellsfargo.com
 api-enterprise-certification.wellsfargo.com
 api-enterprise-sandbox.wellsfargo.com
@@ -3234,6 +3237,7 @@ dealerreports-uat.wellsfargo.com
 dealerreports.g.wellsfargo.com
 dealerreports2.wellsfargo.com
 dealerreports2.g.wellsfargo.com
+dealers.evetest.sec.wellsfargo.com
 dealerwholesale.wellsfargo.com
 dealerwholesale-bcp.wellsfargo.com
 dealerwholesale-gld.wellsfargo.com
@@ -3340,6 +3344,7 @@ dev01-apply.evetest.wellsfargo.com
 dev01-appointments.evetest.wellsfargo.com
 dev01-billpay.evetest.wellsfargo.com
 dev01-connect.secure.evetest.wellsfargo.com
+dev01-dealers.evetest.sec.wellsfargo.com
 dev01-directpay.evetest.wellsfargo.com
 dev01-icomplete.evetest.wellsfargo.com
 dev01-idp.evetest.wellsfargo.com
@@ -4676,6 +4681,7 @@ fea01-trust.evetest.wellsfargo.com
 fea01-web.secure.evetest.wellsfargo.com
 fea01-www.evetest.wellsfargo.com
 fea01-xapi.secure.evetest.wellsfargo.com
+fea01.dealers.evetest.sec.wellsfargo.com
 fea02-apply.evetest.wellsfargo.com
 fea02-appointments.evetest.wellsfargo.com
 fea02-billpay.evetest.wellsfargo.com
@@ -9560,6 +9566,7 @@ rel01-static.evetest.wellsfargo.com
 rel01-web.secure.evetest.wellsfargo.com
 rel01-www.evetest.wellsfargo.com
 rel01-xapi.secure.evetest.wellsfargo.com
+rel01.dealers.evetest.sec.wellsfargo.com
 rel02-apply.evetest.wellsfargo.com
 rel02-appointments.evetest.wellsfargo.com
 rel02-billpay.evetest.wellsfargo.com

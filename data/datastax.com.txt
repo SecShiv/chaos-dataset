@@ -39,6 +39,7 @@
 *.db.astra-test.datastax.com
 *.dos.astra-dev.datastax.com
 *.ds-dev-aws-ue2.dev.streaming.datastax.com
+*.ds-staging-aws-ue2.staging.streaming.datastax.com
 *.gcp-europe-west3.streaming.datastax.com
 *.gcp-europe-west4.dev.streaming.datastax.com
 *.gcp-useast1.dev.streaming.datastax.com
@@ -1830,5 +1831,3 @@ www-stage.datastax.com
 www.get.datastax.com
 xinjinjiangyulechang.security.datastax.com
 zalenium-internal.ingress.us-east-1.prod.tools.paas.datastax.com
-zalenium.cloud-tools.datastax.com
-zalenium.ingress.us-east-1.prod.tools.paas.datastax.com

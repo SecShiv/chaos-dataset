@@ -20230,6 +20230,7 @@ aws-console-platform-proxy-dev.aka.pdx.amazon.com
 aws-console-platform-proxy-integ.aka.arn.amazon.com
 aws-console-platform-proxy-integ.aka.bjs.amazon.com
 aws-console-platform-proxy-integ.aka.bom.amazon.com
+aws-console-platform-proxy-integ.aka.cgk.amazon.com
 aws-console-platform-proxy-integ.aka.cpt.amazon.com
 aws-console-platform-proxy-integ.aka.dub.amazon.com
 aws-console-platform-proxy-integ.aka.iad.amazon.com
@@ -20237,6 +20238,7 @@ aws-console-platform-proxy-integ.aka.kix.amazon.com
 aws-console-platform-proxy-integ.aka.kul.amazon.com
 aws-console-platform-proxy-integ.aka.lhr.amazon.com
 aws-console-platform-proxy-integ.aka.mdw.amazon.com
+aws-console-platform-proxy-integ.aka.mxp.amazon.com
 aws-console-platform-proxy-integ.aka.ruh.amazon.com
 aws-console-platform-proxy-integ.aka.scl.amazon.com
 aws-console-platform-proxy-integ.aka.sfo.amazon.com
@@ -20252,6 +20254,7 @@ aws-console-platform-proxy-preprod.aka.bah.amazon.com
 aws-console-platform-proxy-preprod.aka.bjs.amazon.com
 aws-console-platform-proxy-preprod.aka.bkk.amazon.com
 aws-console-platform-proxy-preprod.aka.bom.amazon.com
+aws-console-platform-proxy-preprod.aka.cdg.amazon.com
 aws-console-platform-proxy-preprod.aka.cgk.amazon.com
 aws-console-platform-proxy-preprod.aka.dxb.amazon.com
 aws-console-platform-proxy-preprod.aka.fra.amazon.com
@@ -20276,12 +20279,14 @@ aws-console-proxy-dev.dub.amazon.com
 aws-console-proxy-dev.pdx.amazon.com
 aws-console-proxy-integ-jlb.arn.amazon.com
 aws-console-proxy-integ-jlb.bom.amazon.com
+aws-console-proxy-integ-jlb.cgk.amazon.com
 aws-console-proxy-integ-jlb.cpt.amazon.com
 aws-console-proxy-integ-jlb.dub.amazon.com
 aws-console-proxy-integ-jlb.kix.amazon.com
 aws-console-proxy-integ-jlb.kul.amazon.com
 aws-console-proxy-integ-jlb.lhr.amazon.com
 aws-console-proxy-integ-jlb.mdw.amazon.com
+aws-console-proxy-integ-jlb.mxp.amazon.com
 aws-console-proxy-integ-jlb.ruh.amazon.com
 aws-console-proxy-integ-jlb.scl.amazon.com
 aws-console-proxy-integ-jlb.sfo.amazon.com
@@ -20295,12 +20300,14 @@ aws-console-proxy-integ.aka.bjs.amazon.com
 aws-console-proxy-integ.arn.amazon.com
 aws-console-proxy-integ.bjs.amazon.com
 aws-console-proxy-integ.bom.amazon.com
+aws-console-proxy-integ.cgk.amazon.com
 aws-console-proxy-integ.cpt.amazon.com
 aws-console-proxy-integ.dub.amazon.com
 aws-console-proxy-integ.kix.amazon.com
 aws-console-proxy-integ.kul.amazon.com
 aws-console-proxy-integ.lhr.amazon.com
 aws-console-proxy-integ.mdw.amazon.com
+aws-console-proxy-integ.mxp.amazon.com
 aws-console-proxy-integ.ruh.amazon.com
 aws-console-proxy-integ.scl.amazon.com
 aws-console-proxy-integ.sfo.amazon.com
@@ -20316,6 +20323,7 @@ aws-console-proxy-preprod-jlb.akl.amazon.com
 aws-console-proxy-preprod-jlb.bah.amazon.com
 aws-console-proxy-preprod-jlb.bkk.amazon.com
 aws-console-proxy-preprod-jlb.bom.amazon.com
+aws-console-proxy-preprod-jlb.cdg.amazon.com
 aws-console-proxy-preprod-jlb.cgk.amazon.com
 aws-console-proxy-preprod-jlb.dxb.amazon.com
 aws-console-proxy-preprod-jlb.fra.amazon.com
@@ -20338,6 +20346,7 @@ aws-console-proxy-preprod.bah.amazon.com
 aws-console-proxy-preprod.bjs.amazon.com
 aws-console-proxy-preprod.bkk.amazon.com
 aws-console-proxy-preprod.bom.amazon.com
+aws-console-proxy-preprod.cdg.amazon.com
 aws-console-proxy-preprod.cgk.amazon.com
 aws-console-proxy-preprod.dxb.amazon.com
 aws-console-proxy-preprod.fra.amazon.com
@@ -21216,6 +21225,7 @@ awsyacht-aka-corp.aea.amazon.com
 awsyacht-gamma.aka.corp.amazon.com
 awsyacht.aka.corp.amazon.com
 awsyacht.integ.amazon.com
+awui-dub.alpha.integ.amazon.com
 awx.anpa.corp.amazon.com
 ax-dtb-mobile-cf.amazon-adsystem.amazon.com
 axiom-beta-corp.aea.amazon.com
@@ -23358,6 +23368,7 @@ ca-migration.dev-business.amazon.com
 ca-migration.stage-business.amazon.com
 ca-opf-phase.amazon.com
 ca-refurb-ui.aka.amazon.com
+ca-west-1.acm-certificates.amazon.com
 ca-west-1.aws-signin-testing.amazon.com
 ca-west-1.awsc-integ.aws.amazon.com
 ca-west-1.beta.acm-certificates.amazon.com
@@ -39129,6 +39140,7 @@ journal-beta-test-0-prodfabric.journal.iad.amazon.com
 journal-beta-test-2-prodfabric.journal.iad.amazon.com
 journal-gamma-test-0-prodfabric.journal.iad.amazon.com
 journal-prod-common-0-prodfabric.journal.bkk.amazon.com
+journal-prod-common-0-prodfabric.journal.cgk.amazon.com
 journal-prod-common-0-prodfabric.journal.cpt.amazon.com
 journal-prod-common-0-prodfabric.journal.dub.amazon.com
 journal-prod-common-0-prodfabric.journal.hkg.amazon.com
@@ -39151,6 +39163,7 @@ journal-prod-common-0-prodfabric.journal.yyc.amazon.com
 journal-prod-common-0-prodfabric.journal.zaz.amazon.com
 journal-prod-common-1-prodfabric.journal.bah.amazon.com
 journal-prod-common-1-prodfabric.journal.cdg.amazon.com
+journal-prod-common-1-prodfabric.journal.cgk.amazon.com
 journal-prod-common-1-prodfabric.journal.cmh.amazon.com
 journal-prod-common-1-prodfabric.journal.cpt.amazon.com
 journal-prod-common-1-prodfabric.journal.dub.amazon.com
@@ -40598,6 +40611,7 @@ ldappxy-prod-no-ppv2.bah.amazon.com
 ldappxy-prod-no-ppv2.bjs.amazon.com
 ldappxy-prod-no-ppv2.bom.amazon.com
 ldappxy-prod-no-ppv2.cdg.amazon.com
+ldappxy-prod-no-ppv2.cgk.amazon.com
 ldappxy-prod-no-ppv2.cmh.amazon.com
 ldappxy-prod-no-ppv2.cpt.amazon.com
 ldappxy-prod-no-ppv2.dub.amazon.com
@@ -40639,6 +40653,7 @@ ldappxy-prod.bah.amazon.com
 ldappxy-prod.bjs.amazon.com
 ldappxy-prod.bom.amazon.com
 ldappxy-prod.cdg.amazon.com
+ldappxy-prod.cgk.amazon.com
 ldappxy-prod.cmh.amazon.com
 ldappxy-prod.corp.amazon.com
 ldappxy-prod.cpt.amazon.com
@@ -51157,6 +51172,7 @@ s3bakerstreet-gamma-pdt.aka.amazon.com
 s3bakerstreet-gamma-pdx.aka.amazon.com
 s3bakerstreet-prod-arn.aka.amazon.com
 s3bakerstreet-prod-bah.aka.amazon.com
+s3bakerstreet-prod-bkk.aka.amazon.com
 s3bakerstreet-prod-bom.aka.amazon.com
 s3bakerstreet-prod-cdg.aka.amazon.com
 s3bakerstreet-prod-cgk.aka.amazon.com
@@ -51273,6 +51289,7 @@ s3storagequal-mechanic-gamma.corp.amazon.com
 s3storagequal-mechanic.aka.corp.amazon.com
 s3tables.us-west-2.olrostob.people.aws.dev.amazon.com
 s3tables.us-west-2.olrostob.people.aws.dev.amazon.com.amazon.com
+s3tables.us-west-2.ywtang.people.amazon.com
 s4t-eu.aka.amazon.com
 s4t-fe.aka.amazon.com
 s4t-integ-eu.aka.amazon.com
@@ -52476,6 +52493,7 @@ sellereligibility-na-jlb-l-iad.iad.proxy.amazon.com
 sellereligibility-na-jlb.integ.amazon.com
 sellereligibility-na.integ.amazon.com
 sellerflex.amazon.com
+sellerflex-in.alpha.integ.amazon.com
 sellernotifications.amazon.com
 sellerservices.amazon.com
 sellersville-toolbox-beta-ca.integ.amazon.com
@@ -53386,6 +53404,7 @@ smarthome-kibana-gamma.corp.amazon.com
 smarthome-kibana-prod.corp.amazon.com
 smarthr-gamma.integ.amazon.com
 smarthub.amazon.com
+smarthub-in.alpha.integ.amazon.com
 smartiq-workflows-eu.aka.amazon.com
 smartiq-workflows-jp.aka.amazon.com
 smartiq-workflows-na.aka.amazon.com

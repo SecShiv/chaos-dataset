@@ -31,6 +31,7 @@
 *.acceptance.sps.ec.europa.eu
 *.acceptance.tech.ec.europa.eu
 *.acceptance.trade.ec.europa.eu
+*.acceptance.trust.tech.ec.europa.eu
 *.access.eurohpc-ju.europa.eu
 *.accessible-eu-centre.ec.europa.eu
 *.acer.europa.eu
@@ -223,6 +224,7 @@
 *.development.europa.eu
 *.development.ec.europa.eu
 *.development.tech.ec.europa.eu
+*.development.trust.tech.ec.europa.eu
 *.devops.acceptance.tech.ec.europa.eu
 *.devops.drug-precursors.ec.europa.eu
 *.devops.tech.ec.europa.eu
@@ -321,6 +323,7 @@
 *.esurveillance.ec.europa.eu
 *.etf.europa.eu
 *.ets-reporting.ec.europa.eu
+*.eu-1.iaas.open-science-cloud.ec.europa.eu
 *.eu-cap-network.ec.europa.eu
 *.eu-captcha.europa.eu
 *.eu-careers.europa.eu
@@ -1217,6 +1220,7 @@ acceptance.sps.ec.europa.eu
 acceptance.tech.ec.europa.eu
 acceptance.ted.europa.eu
 acceptance.trade.ec.europa.eu
+acceptance.trust.tech.ec.europa.eu
 acceptance.work-plans-reports.dcf.ec.europa.eu
 access-request.acc.upp.op.europa.eu
 access-request.acc2.upp.op.europa.eu
@@ -1701,6 +1705,7 @@ auth.iampp.in.ep.europa.eu
 auth.icoco.tech.ec.europa.eu
 auth.in.ep.europa.eu
 auth.integration.euipo.europa.eu
+auth.lab.devsecops.ecdp.tech.ec.europa.eu
 auth.neon.elastic.europarl.europa.eu
 auth.ppe.cordis.europa.eu
 auth.reportnet.europa.eu
@@ -1864,11 +1869,13 @@ aws-dns001.euipo.europa.eu
 aws-dns01.euipo.europa.eu
 aws-iris-dev.cem.tech.ec.europa.eu
 aws-iris.cem.tech.ec.europa.eu
+aws.a-api.ecb.europa.eu
 awx-test.154.nms.tech.ec.europa.eu
 awx.154.nms.tech.ec.europa.eu
 awx.nms.caas-tool.webcloud.ec.europa.eu
 awx.nms.dke.tech.ec.europa.eu
 awx.nms.sdlc.webcloud.ec.europa.eu
+azure.a-api.ecb.europa.eu
 b-1c23104798a77022818cfaa243ce4a58.iso6523-actorid-upis.edelivery.tech.ec.europa.eu
 b2b-api.test.upp.op.europa.eu
 b2becdt.cdt.europa.eu
@@ -3443,6 +3450,7 @@ development.eurostat.ec.europa.eu
 development.icoco.tech.ec.europa.eu
 development.ld4rail.fpfis.tech.ec.europa.eu
 development.tech.ec.europa.eu
+development.trust.tech.ec.europa.eu
 devfoss.frontex.europa.eu
 devops.acceptance.tech.ec.europa.eu
 devops.acer.europa.eu
@@ -7062,6 +7070,7 @@ mdm-dev.esm.europa.eu
 mdm-enroll.srb.europa.eu
 mdm-sentry-01.echa.europa.eu
 mdm-sentry-02.echa.europa.eu
+mdm-test.commissign.pki.ec.europa.eu
 mdm.curia.europa.eu
 mdm.dev.eba.europa.eu
 mdm.eba.europa.eu
@@ -7802,6 +7811,7 @@ online-forms.e-justice.europa.eu
 online-help-dev.iate.europa.eu
 online-help.iate.europa.eu
 online.mail.ec.europa.eu
+onprem.a-api.ecb.europa.eu
 onthego.europa.eu
 onthego.ec.europa.eu
 oob-bx.tech.ec.europa.eu
@@ -8621,6 +8631,7 @@ registry.cis.consilium.europa.eu
 registry.devsecops.ecdp.tech.ec.europa.eu
 registry.eca.europa.eu
 registry.ema.europa.eu
+registry.eu-2.paas.open-science-cloud.ec.europa.eu
 registry.sdlc.aws.cloud.tech.ec.europa.eu
 registry.sdlc.webcloud.ec.europa.eu
 registry.test-idp.webcloud.ec.europa.eu
@@ -10495,6 +10506,7 @@ test3.cordis.europa.eu
 test3.dke.tech.ec.europa.eu
 test3.myremotecloud.tech.ec.europa.eu
 test4.cordis.europa.eu
+test4.dke.tech.ec.europa.eu
 test4.myremotecloud.tech.ec.europa.eu
 test7-eguides.osha.europa.eu
 testacme1810demo.nms.tech.ec.europa.eu

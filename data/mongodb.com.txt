@@ -488,6 +488,7 @@ atlas-data-lake.staging.corp.mongodb.com
 atlas-gateway.cloud.mongodb.com
 atlas-gateway.cloud-qa.mongodb.com
 atlas-gateway.cloud-stage.mongodb.com
+atlas-logs.warpstream.cloud-stage.mongodb.com
 atlas-metrics.cloud-stage.mongodb.com
 atlas-pricing-tool-public.corps.staging.corp.mongodb.com
 atlas-pricing.corp.mongodb.com
@@ -640,6 +641,7 @@ cluster-connection.cloud-dev.mongodb.com
 cluster-connection.cloud-qa.mongodb.com
 cluster-connection.cloud-stage.mongodb.com
 cms.corp.mongodb.com
+cns.dataplatform.staging.corp.mongodb.com
 coach-gtm-bot.corps.prod.corp.mongodb.com
 coach-gtm-bot.corps.staging.corp.mongodb.com
 coach-gtm-server.corps.prod.corp.mongodb.com
@@ -1268,6 +1270,7 @@ mars-dev-feature-7201-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7204-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7220-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-7245-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-7246-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-api-link-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-api-mesh-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
@@ -1308,6 +1311,7 @@ mongo-cc.corp.mongodb.com
 mongo-doxygen.product-perf.staging.corp.mongodb.com
 mongodb-qa.cloud-atlas-search.staging.corp.mongodb.com
 mongodbcom-aws-marketplace.website.staging.corp.mongodb.com
+mongodbcom-cdn.staging.corp.mongodb.com
 mongodbcom-cdn.website.staging.corp.mongodb.com
 mongodbcom-mesh-poc-cdn.website.staging.corp.mongodb.com
 mongodbcom-mesh-poc.website.staging.corp.mongodb.com
@@ -1426,6 +1430,7 @@ pod2.gateway.test.corp.mongodb.com
 pod3.gateway.test.corp.mongodb.com
 podcast.mongodb.com
 podcasts.mongodb.com
+press.education.prod.corp.mongodb.com
 presto-authn-gateway-mesh.dataplatform.staging.corp.mongodb.com
 presto-authn-mesh.dataplatform.staging.corp.mongodb.com
 presto-etl.corp.mongodb.com
@@ -2117,3 +2122,7 @@ yuzhou-web-app.devops.test.corp.mongodb.com
 yuzhou-web-app.test.corp.mongodb.com
 yuzhou.devops.test.corp.mongodb.com
 yuzhou2.devops.test.corp.mongodb.com
+zap-dev.salesops.staging.corp.mongodb.com
+zd-approvals.corp.mongodb.com
+zen-approvals.corp.mongodb.com
+zendesk-feedback.mongodb.com

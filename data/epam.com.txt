@@ -12,6 +12,7 @@
 *.ai-proxy.lab.epam.com
 *.ainf-mob1.epam.com
 *.alejandro.amdd-azd.projects.epam.com
+*.amdd-azd.projects.epam.com
 *.anywhere-referral.epam.com
 *.api.solutionshub.epam.com
 *.app.epam.com
@@ -575,6 +576,7 @@
 *.cl1-default-lb.epm-skls-anthos-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-skls-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-slkr-anthos.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-soc-anthos-proood.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-soc-anthos-proood.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-sop-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-ssbp-anthos.eu.gcp.cloudapp.epam.com
@@ -660,6 +662,7 @@
 *.cl2-default-lb.epm-prj-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-prl-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-rcgn-anthos.eu.gcp.cloudapp.epam.com
+*.cl2-default-lb.epm-rcmt-anthos-dev.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-rdua-anthos-tspr.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-ref-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-rexp-anthos.eu.gcp.cloudapp.epam.com
@@ -819,6 +822,7 @@
 *.infra.radar.epam.com
 *.integration-k8s.epm-iga.projects.epam.com
 *.integration.epm-iga.projects.epam.com
+*.internal-ai.amdd-azd.projects.epam.com
 *.internal.aws.epm-plx.projects.epam.com
 *.interview.epam.com
 *.invite.epam.com
@@ -1162,6 +1166,7 @@ am.epam.com
 amazonmq.qa.radar.epam.com
 amazonmq2.dev.radar.epam.com
 amb.infra.epm-gcp.projects.epam.com
+amdd-azd.projects.epam.com
 ami.epam.com
 amportal.lab.epam.com
 amqp-dev1.cloud.epam.com
@@ -3400,6 +3405,7 @@ elasticsearch-v6-388.aws.radar.stage.epam.com
 elasticsearch-v6-389.aws.radar.stage.epam.com
 elasticsearch-v6-390.aws.radar.stage.epam.com
 elasticsearch-v6-392.aws.radar.stage.epam.com
+elasticsearch-v6-393.aws.radar.stage.epam.com
 elasticsearch-v6-412.aws.radar.epam.com
 elasticsearch-v6-413.aws.radar.epam.com
 elasticsearch-v6-414.aws.radar.epam.com
@@ -3448,6 +3454,7 @@ elasticsearch-v6-484.aws.radar.epam.com
 elasticsearch-v6-486.aws.radar.epam.com
 elasticsearch-v6-487.aws.radar.epam.com
 elasticsearch-v6-524.aws.radar.epam.com
+elasticsearch-v6-527.aws.radar.epam.com
 elasticsearch.eks-prod.radar.epam.com
 elasticsearch.etl-latest.aws.radar.epam.com
 elasticsearch.etl-latest.aws.radar.stage.epam.com
@@ -4562,6 +4569,7 @@ integration.staffing.epam.com
 integration.time.epam.com
 integration.vts.epam.com
 intercompany.app.epam.com
+internal-ai.amdd-azd.projects.epam.com
 internal-api-vacation.epam.com
 internal.anywhere.epam.com
 internal.aws.epm-plx.projects.epam.com
@@ -4767,6 +4775,7 @@ lilith-rewards.epm-tmc.projects.epam.com
 linkedin-rsc-notification-receiver.epm-trm.projects.epam.com
 links.ami.epam.com
 links.connect.epam.com
+litellm-preview.gke-sandbox-cl2.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
 live.okr-msteams.epm-dmtm.projects.epam.com
 live.tv.epam.com
 llama3-1-8b-api.llm.lab.epam.com
@@ -4800,6 +4809,7 @@ llm-research-app-projectsearch-prod.llm.lab.epam.com
 llm-research-app-resume-dev.llm.lab.epam.com
 llm-research-app-router-dev.llm.lab.epam.com
 llm-research-app-router-prod.llm.lab.epam.com
+llm-research-app-salesbuddy-dev.llm.lab.epam.com
 llm-research-app-salesbuddy-prod.llm.lab.epam.com
 llm-research-app-telescope-prod.llm.lab.epam.com
 llm-research-compliance-dev.llm.lab.epam.com
@@ -7598,3 +7608,6 @@ ztna-microfrontend.stage.epam.com
 ztna-session-api.stage.epam.com
 ztna-staging.epm-iga.projects.epam.com
 ztna.app.epam.com
+ztna.app.stage.epam.com
+ztna.stage.epam.com
+ztnacheck.stage.epam.com

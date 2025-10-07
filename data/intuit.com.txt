@@ -987,6 +987,7 @@
 *.martech-braze.a.intuit.com
 *.martech-eloqua-fmd.a.intuit.com
 *.martech-fmd-eloqua.a.intuit.com
+*.mas-prod.a.intuit.com
 *.mc-dapl-app.a.intuit.com
 *.mc-dapl-monolith-parser.a.intuit.com
 *.mc-engage-ppd.a.intuit.com
@@ -12093,6 +12094,7 @@ certcentral-dummy-prodtest11.corp.intuit.com
 certcentral-dummy-prodtest14.corp.intuit.com
 certcentral-dummy-prodtest4.corp.intuit.com
 certcentral-dummy-prodtest6.corp.intuit.com
+certcreation-test-local.intuit.com
 certe-pre-production-o91xqb.dd.idps.a.intuit.com
 certf-pre-production-gi7hbp.dd.idps.a.intuit.com
 certificate-log-test-1.mike.idps.a.intuit.com
@@ -46443,6 +46445,7 @@ mas-prd-ready.us-west-2.prd-sbg-pmts-merchantaccount.a.intuit.com
 mas-prd.prd-sbg-pmts-merchantaccount.a.intuit.com
 mas-prf-active.us-west-2.ppd-sbg-pmts-merchantaccount.a.intuit.com
 mas-prf.ppd-sbg-pmts-merchantaccount.a.intuit.com
+mas-prod.a.intuit.com
 mas-qal-active.us-west-2.ppd-sbg-pmts-merchantaccount.a.intuit.com
 mas-qal.ppd-sbg-pmts-merchantaccount.a.intuit.com
 mas-stg-active.us-west-2.prd-sbg-pmts-merchantaccount.a.intuit.com
@@ -61385,6 +61388,9 @@ qb-warehousing-prodmgmt.desktopprdusw2.iks2.a.intuit.com
 qb.a.intuit.com
 qb.ie.intuit.com
 qb.insights.intuit.com
+qb.insightslp.intuit.com
+qb.notice.intuit.com
+qb.noticelp.intuit.com
 qb.qydc.intuit.com
 qb.sbfinance.intuit.com
 qb.sbfinance.csperf.intuit.com
@@ -93208,3 +93214,5 @@ zoom-demote-script-iks-infrabase.t4iprdusw2.iks2.a.intuit.com
 zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
+zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
+zycada.quickbooks.intuit.com
