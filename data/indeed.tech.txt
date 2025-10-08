@@ -25,6 +25,7 @@
 *.awscmhinfra2.k8s.indeed.tech
 *.awscmhinfra3.k8s.indeed.tech
 *.awscmhinfra4.k8s.indeed.tech
+*.awscmhinfra5.k8s.indeed.tech
 *.awscmhqa2.k8s.indeed.tech
 *.awscmhqa3.assessments.indeed.tech
 *.awscmhqa3.k8s.indeed.tech
@@ -263,6 +264,7 @@
 7974eea6550315db0d0c670186bb43da.agnes-amds-serving.science.jobseeker.awscmh6.k8s.indeed.tech
 7974eea6550315db0d0c670186bb43da.agnes-amds-serving.science.jobseeker.awscmhqa5.k8s.indeed.tech
 7bc19395cc69a5cb3793a1bb99bd0666.loom-inference.awscmhqa5.k8s.indeed.tech
+8057b8941963a6f93f50815ac6178ed4.loom-inference.awscmhqa5.k8s.indeed.tech
 81aa984a50d0f934a7d0a62c01aab317.agnes-amds-serving.science.enterprise.awscmh2.k8s.indeed.tech
 81aa984a50d0f934a7d0a62c01aab317.agnes-amds-serving.science.enterprise.awscmh6.k8s.indeed.tech
 81aa984a50d0f934a7d0a62c01aab317.agnes-amds-serving.science.enterprise.awscmhqa2.k8s.indeed.tech
@@ -387,6 +389,7 @@ active.cmhprod2.prod.vault.indeed.tech
 active.cmhprod3.prod.vault.indeed.tech
 active.cmhqa2.qa.vault.indeed.tech
 active.cmhqa3.qa.vault.indeed.tech
+active.eu-central-1.prod.vault.indeed.tech
 active.eu-west-1.inf.vault.indeed.tech
 active.eu-west-1.prod.vault.indeed.tech
 active.us-east-2.dev.vault.indeed.tech
@@ -773,6 +776,7 @@ api.cmhqa3.qa.consul.indeed.tech
 api.dev.wombat.indeed.tech
 api.dubprod1.prod.consul.indeed.tech
 api.dubprod1.qa.consul.indeed.tech
+api.eu-central-1.prod.consul.indeed.tech
 api.eu-west-1.prod.consul.indeed.tech
 api.ia-web.awscmh.k8s.indeed.tech
 api.ia-web.awscmhqa.k8s.indeed.tech
@@ -873,6 +877,7 @@ arc.awscmhdev5.k8s.indeed.tech
 arc.awscmhinfra.k8s.indeed.tech
 arc.awscmhinfra2.k8s.indeed.tech
 arc.awscmhinfra3.k8s.indeed.tech
+arc.awscmhinfra5.k8s.indeed.tech
 arc.awscmhqa2.k8s.indeed.tech
 arc.awscmhqa3.k8s.indeed.tech
 arc.awscmhqa4.k8s.indeed.tech
@@ -1043,6 +1048,7 @@ argo-workflows.awscmhdev5.k8s.indeed.tech
 argo-workflows.awscmhinfra2.k8s.indeed.tech
 argo-workflows.awscmhinfra3.k8s.indeed.tech
 argo-workflows.awscmhinfra4.k8s.indeed.tech
+argo-workflows.awscmhinfra5.k8s.indeed.tech
 argo-workflows.awscmhqa2.k8s.indeed.tech
 argo-workflows.awscmhqa3.k8s.indeed.tech
 argo-workflows.awscmhqa4.k8s.indeed.tech
@@ -1910,6 +1916,7 @@ consul.cmhqa2.qa.consul.indeed.tech
 consul.cmhqa3.qa.consul.indeed.tech
 consul.dubprod1.prod.consul.indeed.tech
 consul.dubprod1.qa.consul.indeed.tech
+consul.eu-central-1.prod.consul.indeed.tech
 consul.eu-west-1.inf.consul.indeed.tech
 consul.eu-west-1.prod.consul.indeed.tech
 consul.ospureadmin.k8s.indeed.tech
@@ -2130,6 +2137,7 @@ curity-runtime-public.awscmh6.k8s.indeed.tech
 curity-runtime-public.awscmh7.k8s.indeed.tech
 curity-runtime-public.awscmhinfra3.k8s.indeed.tech
 curity-runtime-public.awscmhinfra4.k8s.indeed.tech
+curity-runtime-public.awscmhinfra5.k8s.indeed.tech
 curity-runtime-public.awsdca2.k8s.indeed.tech
 curity-runtime-public.awsdub2.k8s.indeed.tech
 curity-runtime-public.awsfra1.k8s.indeed.tech
@@ -2434,6 +2442,7 @@ docker-registry.awscmhinfra.k8s.indeed.tech
 docker-registry.awscmhinfra2.k8s.indeed.tech
 docker-registry.awscmhinfra3.k8s.indeed.tech
 docker-registry.awscmhinfra4.k8s.indeed.tech
+docker-registry.awscmhinfra5.k8s.indeed.tech
 docker-registry.awscmhqa2.k8s.indeed.tech
 docker-registry.awscmhqa3.k8s.indeed.tech
 docker-registry.awscmhqa4.k8s.indeed.tech
@@ -3213,6 +3222,7 @@ f0aba78f94b69c11172c88a3408b5811.loom-inference.awspdx2.k8s.indeed.tech
 f0aba78f94b69c11172c88a3408b5811.loom-inference.awsyul2.k8s.indeed.tech
 f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awscmh5.k8s.indeed.tech
 f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awscmh7.k8s.indeed.tech
+f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awscmhqa4.k8s.indeed.tech
 f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awspdx2.k8s.indeed.tech
 f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awsyul2.k8s.indeed.tech
 f48cfefec62f5ffe3882acbdb868095a.loom-inference.awscmhqa4.k8s.indeed.tech
@@ -3931,6 +3941,7 @@ hubble.awscmhdev4.k8s.indeed.tech
 hubble.awscmhdev5.k8s.indeed.tech
 hubble.awscmhinfra3.k8s.indeed.tech
 hubble.awscmhinfra4.k8s.indeed.tech
+hubble.awscmhinfra5.k8s.indeed.tech
 hubble.awscmhqa4.k8s.indeed.tech
 hubble.awscmhqa5.k8s.indeed.tech
 hubble.awscmhstage2.k8s.indeed.tech
@@ -7406,6 +7417,7 @@ pod-proxy.awscmhdev4.k8s.indeed.tech
 pod-proxy.awscmhdev5.k8s.indeed.tech
 pod-proxy.awscmhinfra2.k8s.indeed.tech
 pod-proxy.awscmhinfra3.k8s.indeed.tech
+pod-proxy.awscmhinfra5.k8s.indeed.tech
 pod-proxy.awscmhqa2.k8s.indeed.tech
 pod-proxy.awscmhqa3.k8s.indeed.tech
 pod-proxy.awscmhqa4.k8s.indeed.tech
@@ -10319,6 +10331,7 @@ vault.cmhprod2.prod.vault.indeed.tech
 vault.cmhprod3.prod.vault.indeed.tech
 vault.cmhqa2.qa.vault.indeed.tech
 vault.cmhqa3.qa.vault.indeed.tech
+vault.eu-central-1.prod.vault.indeed.tech
 vault.eu-west-1.inf.vault.indeed.tech
 vault.eu-west-1.prod.vault.indeed.tech
 vault.jbopp-aws.k8s.indeed.tech
@@ -10485,6 +10498,7 @@ verify-nginx-spark.awscmh4.k8s.indeed.tech
 verify-nginx-spark.awscmh5.k8s.indeed.tech
 verify-nginx-spark.awscmhdev3.k8s.indeed.tech
 verify-nginx-spark.awscmhinfra3.k8s.indeed.tech
+verify-nginx-spark.awscmhinfra5.k8s.indeed.tech
 verify-nginx-spark.awscmhqa4.k8s.indeed.tech
 verify-nginx-spark.awscmhqa5.k8s.indeed.tech
 verify-nginx-spark.awscmhstage2.k8s.indeed.tech
@@ -10771,6 +10785,9 @@ violet.qa.k8s.indeed.tech
 violet.tyates.dev.indeed.tech
 visibility-draw-plugin.cmh.k8s.indeed.tech
 vispana.awscmhqa3.k8s.indeed.tech
+vortex-ai-platform-memory.awscmh6.k8s.indeed.tech
+vortex-ai-platform-memory.awscmhqa5.k8s.indeed.tech
+vortex-aperture-js-data.awscmh6.k8s.indeed.tech
 vortex-czhang.awscmhqa5.k8s.indeed.tech
 vortex-example-cf-http-log-flink-service.awscmhqa5.k8s.indeed.tech
 vortex-integ-test-qa.awscmhqa5.k8s.indeed.tech
@@ -10787,9 +10804,11 @@ vortex-mdp-online-syncer-saml.awscmh6.k8s.indeed.tech
 vortex-mdp-online-syncer-saml.awscmhqa5.k8s.indeed.tech
 vortex-palkia.awscmh7.k8s.indeed.tech
 vortex-rbozzolo-saml.awscmhqa5.k8s.indeed.tech
+vortex-tns-bots.awscmh5.k8s.indeed.tech
 vortex-tns-bots.awscmhqa5.k8s.indeed.tech
 vortex-vkryvyziuk.awscmhqa5.k8s.indeed.tech
 vortex-xiang.awscmhqa5.k8s.indeed.tech
+vortex-zhxu.awscmhqa5.k8s.indeed.tech
 vrec-activity-management-service.aus.k8s.indeed.tech
 vrec-activity-management-service.cmhprod1.k8s.indeed.tech
 vrec-activity-management-service.cmhprod2.k8s.indeed.tech
@@ -11133,3 +11152,5 @@ zapinfo.sandbox.awscmhqa.k8s.indeed.tech
 zeebe.osqa.k8s.indeed.tech
 zentral.cpe.indeed.tech
 zentral.staging.cpe.indeed.tech
+zhiyuan-test-lemma-webapp.awscmhqa3.k8s.indeed.tech
+ztna.indeed.tech

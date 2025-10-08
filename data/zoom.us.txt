@@ -76277,6 +76277,8 @@ asr-adaptor-eks-us-east-1.cloud.zoom.us
 asr-adaptor-eu-central-1.cloud.zoom.us
 asr-adaptor-go-colo-iad-1.cloud.zoom.us
 asr-adaptor-go.cloud.zoom.us
+asr-adaptor-uk01-va1.cloud.zoom.us
+asr-adaptor-uk01-va2.cloud.zoom.us
 asr-adaptor-us-east-2.cloud.zoom.us
 asr-adaptor-us04-us-east-1.cloud.zoom.us
 asradaptor-dg01-aws-us-east-2.cloud.zoom.us
@@ -78895,12 +78897,14 @@ cube.zoom.us
 cube-clickhouse.zoom.us
 cube-config.zoom.us
 cube-config-new.zoom.us
+cube-config-uk01.zoom.us
 cube-eu02.zoom.us
 cube-gov.zoom.us
 cube-influxa-east2.zoom.us
 cube-main.zoom.us
 cube-nws-us.zoom.us
 cube-perf.zoom.us
+cube-perfdebug.zoom.us
 cube-perfout.zoom.us
 cube-private-us.zoom.us
 cube-schedule.zoom.us
@@ -79122,6 +79126,7 @@ dg01as.zoom.us
 dg01asynccomm.zoom.us
 dg01asyncim.zoom.us
 dg01avengers-billing.zoom.us
+dg01badges-va1.zoom.us
 dg01billing-hub.zoom.us
 dg01bmt.zoom.us
 dg01bmt-va.zoom.us
@@ -79159,6 +79164,8 @@ dg01file-ia.zoom.us
 dg01file-paa.zoom.us
 dg01file-quic.zoom.us
 dg01file-vod.zoom.us
+dg01filepicker.zoom.us
+dg01filepicker-va1.zoom.us
 dg01frontline.zoom.us
 dg01grafanazp.zoom.us
 dg01hwaccess01.iad.zoom.us
@@ -81839,6 +81846,7 @@ gofile-paa.zoom.us
 gofile-quic.zoom.us
 gofileapi.zoom.us
 gofilepicker.zoom.us
+gofilepicker-va1.zoom.us
 gofrontline.zoom.us
 gografanacci.zoom.us
 gografanapbxva1.zoom.us
@@ -81848,6 +81856,7 @@ gografanawfm.zoom.us
 gografanazcc.zoom.us
 gografanazp.zoom.us
 gografanazva.zoom.us
+gogroup-photo-oh1.zoom.us
 gogroup-photo-va1.zoom.us
 gogrpcccistreamproxy.zoom.us
 gogrpcccistreamproxy-va.zoom.us
@@ -82059,6 +82068,11 @@ goociccivoice-us8.zoom.us
 goociccivoice01.iad.zoom.us
 goociccivoice01.sjc.zoom.us
 goocicommand.zoom.us
+goociconnectorswfm.zoom.us
+goociconnectorswfm-a.zoom.us
+goociconnectorswfm-c.zoom.us
+goociconnectorswfm-va.zoom.us
+goociconnectorswfm-va2.zoom.us
 goocicontactservice.zoom.us
 goocicontactservice-a.zoom.us
 goocicontactservice-c.zoom.us
@@ -82092,6 +82106,11 @@ goociwfmop-va2.zoom.us
 goociwfmopapi.zoom.us
 goociwfmopapi-va.zoom.us
 goociwfmopapi-va2.zoom.us
+goocizva.zoom.us
+goocizva-a.zoom.us
+goocizva-c.zoom.us
+goocizva-va.zoom.us
+goocizva-va2.zoom.us
 goocizvastatic.zoom.us
 goocs.zoom.us
 goocs-va.zoom.us
@@ -82727,6 +82746,7 @@ govdicsjc.sjc.zoom.us
 governikus.zoom.us
 govideos.zoom.us
 govirtual-backgrounds-oh1.zoom.us
+govirtual-backgrounds-va1.zoom.us
 gowbnapi.zoom.us
 goweb-archzccp-java-test.zoom.us
 gowebguard-console.zoom.us
@@ -85489,6 +85509,7 @@ llm-gateway-prod-aws-ap-southeast-1.ai.cloud.zoom.us
 llm-gateway-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 llm-gateway-prod-aws-ca-central-1.ai.cloud.zoom.us
 llm-gateway-prod-aws-eu-central-1.ai.cloud.zoom.us
+llm-gateway-prod-aws-eu-west-2.ai.cloud.zoom.us
 llm-gateway-prod-aws-sa-east-1.ai.cloud.zoom.us
 llm-gateway-prod-colo-iad-1.cloud.zoom.us
 llm-gateway-prod-colo-sjc-1.cloud.zoom.us
@@ -85962,6 +85983,7 @@ milterin-ac731.asynccommsg.zoom.us
 milterin-ac733.asynccommsg.zoom.us
 milterin-ac741.asynccommeu02.zoom.us
 milterin-ac742.asynccommeu02.zoom.us
+milterin-ac752.asynccommuk.zoom.us
 milterin-ac901.asynccommsa.zoom.us
 milterin-ac902.asynccommsa.zoom.us
 milterin-achub074.asynccommgo.zoom.us
@@ -85983,6 +86005,7 @@ milterin.asynccommeu.zoom.us
 milterin.asynccommgo.zoom.us
 milterin.asynccommgooci.zoom.us
 milterin.asynccommsa.zoom.us
+milterin.asynccommuk.zoom.us
 milterout-ac041.asynccomm.zoom.us
 milterout-ac041.asynccommgo.zoom.us
 milterout-ac042.asynccommgo.zoom.us
@@ -86020,6 +86043,7 @@ milterout-ac731.asynccommsg.zoom.us
 milterout-ac733.asynccommsg.zoom.us
 milterout-ac741.asynccommeu02.zoom.us
 milterout-ac742.asynccommeu02.zoom.us
+milterout-ac752.asynccommuk.zoom.us
 milterout-ac901.asynccommsa.zoom.us
 milterout-ac902.asynccommsa.zoom.us
 milterout-achub074.asynccommgo.zoom.us
@@ -86041,6 +86065,7 @@ milterout.asynccommeu.zoom.us
 milterout.asynccommgo.zoom.us
 milterout.asynccommgooci.zoom.us
 milterout.asynccommsa.zoom.us
+milterout.asynccommuk.zoom.us
 mindbodyonline.zoom.us
 mines.zoom.us
 minio-console.sc.zoom.us
@@ -86335,6 +86360,7 @@ mtain-ac731.asynccommsg.zoom.us
 mtain-ac733.asynccommsg.zoom.us
 mtain-ac741.asynccommeu02.zoom.us
 mtain-ac742.asynccommeu02.zoom.us
+mtain-ac752.asynccommuk.zoom.us
 mtain-ac901.asynccommsa.zoom.us
 mtain-ac902.asynccommsa.zoom.us
 mtain-achub074.asynccommgo.zoom.us
@@ -86357,6 +86383,7 @@ mtain.asynccommeu.zoom.us
 mtain.asynccommgo.zoom.us
 mtain.asynccommgooci.zoom.us
 mtain.asynccommsa.zoom.us
+mtain.asynccommuk.zoom.us
 mtaout-ac041.asynccomm.zoom.us
 mtaout-ac041.asynccommgo.zoom.us
 mtaout-ac042.asynccommgo.zoom.us
@@ -86381,6 +86408,7 @@ mtaout-ac503.asynccommau.zoom.us
 mtaout-ac701.asynccommeu.zoom.us
 mtaout-ac702.asynccommeu.zoom.us
 mtaout-ac703.asynccommeu.zoom.us
+mtaout-ac752.asynccommuk.zoom.us
 mtaout-ac901.asynccommsa.zoom.us
 mtaout-ac902.asynccommsa.zoom.us
 mtaout-ac981.asynccomm08oci.zoom.us
@@ -86405,6 +86433,7 @@ mtaout.asynccommeu.zoom.us
 mtaout.asynccommgo.zoom.us
 mtaout.asynccommgooci.zoom.us
 mtaout.asynccommsa.zoom.us
+mtaout.asynccommuk.zoom.us
 mtholyoke.zoom.us
 muextension.zoom.us
 multiplica.zoom.us
@@ -88942,6 +88971,7 @@ smtprelay-ac731.asynccommsg.zoom.us
 smtprelay-ac733.asynccommsg.zoom.us
 smtprelay-ac741.asynccommeu02.zoom.us
 smtprelay-ac742.asynccommeu02.zoom.us
+smtprelay-ac752.asynccommuk.zoom.us
 smtprelay-ac901.asynccommsa.zoom.us
 smtprelay-ac902.asynccommsa.zoom.us
 smtprelay-achub074.asynccommgo.zoom.us
@@ -88962,6 +88992,7 @@ smtprelay.asynccomm04.zoom.us
 smtprelay.asynccommeu.zoom.us
 smtprelay.asynccommgooci.zoom.us
 smtprelay.asynccommsa.zoom.us
+smtprelay.asynccommuk.zoom.us
 smtpserver-ac041.asynccommgo.zoom.us
 smtpserver-ac042.asynccommgo.zoom.us
 smtpserver-ac043.asynccommgo.zoom.us
@@ -88990,6 +89021,7 @@ smtpserver-ac731.asynccommsg.zoom.us
 smtpserver-ac733.asynccommsg.zoom.us
 smtpserver-ac741.asynccommeu02.zoom.us
 smtpserver-ac742.asynccommeu02.zoom.us
+smtpserver-ac752.asynccommuk.zoom.us
 smtpserver-achub074.asynccommgo.zoom.us
 smtpserver-achub171.asynccomm.zoom.us
 smtpserver-achub571.asynccommau.zoom.us
@@ -89004,6 +89036,7 @@ smtpserver-acspam581.asynccommau.zoom.us
 smtpserver-acspam781.asynccommeu.zoom.us
 smtpserver.asynccomm.zoom.us
 smtpserver.asynccomm04.zoom.us
+smtpserver.asynccommuk.zoom.us
 smu.zoom.us
 snaps.zoom.us
 sndev.zoom.us
@@ -89668,6 +89701,7 @@ uidaho.zoom.us
 uiowa.zoom.us
 uiproxy.zoom.us
 uiw.zoom.us
+uk01-default-xmpprpc.zoom.us
 uk01-main.zoom.us
 uk01-main-i.zoom.us
 uk01-main-va1.zoom.us
@@ -89683,6 +89717,7 @@ uk01-nws-mongodb-va-hidden-01.zoom.us
 uk01-nws-mongodb-va2-01.zoom.us
 uk01-nws-mongodb-va2-02.zoom.us
 uk01-nws-mongodb-va2-03.zoom.us
+uk01-s2-xmpprpc.zoom.us
 uk01-webok.zoom.us
 uk01-webok-va1.zoom.us
 uk01-webok-va1-internal.zoom.us
@@ -89693,17 +89728,30 @@ uk01-zcxp-apisix-va.zoom.us
 uk01-zcxp-apisix-va-i.zoom.us
 uk01-zcxp-apisix-va2.zoom.us
 uk01-zcxp-apisix-va2-i.zoom.us
+uk01ai-enginewfm.zoom.us
+uk01ai-enginewfm-va.zoom.us
 uk01apm-api.zoom.us
+uk01backendwfm.zoom.us
+uk01backendwfm-va.zoom.us
 uk01billing-hub.zoom.us
 uk01bmt.zoom.us
 uk01bot.zoom.us
 uk01calendarapi.zoom.us
+uk01campaign.zoom.us
+uk01campaign-a.zoom.us
+uk01campaign-c.zoom.us
+uk01campaign-va.zoom.us
+uk01campaign-va2.zoom.us
 uk01cciop.zoom.us
 uk01cciop-va.zoom.us
 uk01cciop-va2.zoom.us
 uk01command.zoom.us
 uk01commonconsumer.zoom.us
 uk01commonconsumer-va1.zoom.us
+uk01connectorswfm.zoom.us
+uk01connectorswfm-a.zoom.us
+uk01connectorswfm-c.zoom.us
+uk01connectorswfm-va.zoom.us
 uk01contactservice.zoom.us
 uk01contactservice-a.zoom.us
 uk01contactservice-c.zoom.us
@@ -89722,8 +89770,12 @@ uk01mqttws-device-oh1.zoom.us
 uk01mqttws-device-va1.zoom.us
 uk01mqttws-device-va2.zoom.us
 uk01mqttws-va1.zoom.us
+uk01notificationswfm.zoom.us
+uk01notificationswfm-va.zoom.us
 uk01nws.zoom.us
 uk01nws-billing-op.zoom.us
+uk01op.zoom.us
+uk01opva2.zoom.us
 uk01partner-billing.zoom.us
 uk01pbx.zoom.us
 uk01pbx-va-ucs-nginx1.zoom.us
@@ -89742,6 +89794,13 @@ uk01va2command.zoom.us
 uk01va2nws-auth.zoom.us
 uk01va2uiproxy.zoom.us
 uk01va2zdm-prov.zoom.us
+uk01wfm.zoom.us
+uk01wfm-a.zoom.us
+uk01wfm-c.zoom.us
+uk01wfm-va.zoom.us
+uk01wfmop.zoom.us
+uk01wfmop-va.zoom.us
+uk01wfmop-va2.zoom.us
 uk01wsgateway-va1.zoom.us
 uk01wsgateway-va2.zoom.us
 uk01xmppapi.zoom.us
@@ -96908,6 +96967,7 @@ zam-example-app-prod-us07-va1-nws.zoom.us
 zam-example-app-prod-us07-va1-webok.zoom.us
 zam-example-app-prod-us07-va2-nws.zoom.us
 zam-example-app-prod-us07-va2-webok.zoom.us
+zam-example-app-prod-us08oci-va1-main.zoom.us
 zanestate.zoom.us
 zapns.zoom.us
 zapns-nginx-proxy.zoom.us
@@ -102626,6 +102686,12 @@ zoomlhr170-114-60-210mmr.lhr.zoom.us
 zoomlhr170-114-60-211mmr.lhr.zoom.us
 zoomlhr170-114-60-212mmr.lhr.zoom.us
 zoomlhr170-114-60-21mmr.lhr.zoom.us
+zoomlhr170-114-60-220tunnel.lhr.zoom.us
+zoomlhr170-114-60-221tunnel.lhr.zoom.us
+zoomlhr170-114-60-226zsszc.lhr.zoom.us
+zoomlhr170-114-60-227zsszc.lhr.zoom.us
+zoomlhr170-114-60-228zssgw.lhr.zoom.us
+zoomlhr170-114-60-229zssgw.lhr.zoom.us
 zoomlhr170-114-60-2mmr.lhr.zoom.us
 zoommb10mgt.zoom.us
 zoommb11et.zoom.us
@@ -111801,5 +111867,3 @@ zwebmail.asynccommeu.zoom.us
 zwebmail.asynccommgo.zoom.us
 zworkspace.asynccomm.zoom.us
 zworkspace.asynccommau.zoom.us
-zworkspace.asynccommeu.zoom.us
-zworkspace.asynccommgo.zoom.us

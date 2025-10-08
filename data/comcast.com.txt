@@ -594,6 +594,7 @@
 *.ihat-dev.comcast.com
 *.ihat-stage.comcast.com
 *.ihat-staging.comcast.com
+*.infra-dev.titanxdr.comcast.com
 *.int-dxsre.comcast.com
 *.int.api-business.comcast.com
 *.int.dxhdw.comcast.com
@@ -5749,6 +5750,7 @@ access-auth-ch2-a2p.slb.comcast.com
 access-auth-eu-central-1.merlin.comcast.com
 access-auth-eu-central-1.r53-eu.merlin.comcast.com
 access-auth-eu.merlin.comcast.com
+access-auth-eu.r53-eu.merlin.comcast.com
 access-auth-merlin-bo-dev-us-east-1.r53dev.merlin.comcast.com
 access-auth-merlin-bo-prod-us-east-1.r53.merlin.comcast.com
 access-auth-us.merlin.comcast.com
@@ -20709,6 +20711,9 @@ docas11001.as.xcloud.comcast.com
 docasn10001.as.xcloud-dev.comcast.com
 docdb.aws-qa.thenexus.comcast.com
 docker-ino-tools01m.scl.svic.comcast.com
+docker-ino-tools02m.scl.svic.comcast.com
+docker-ino-tools03m.scl.svic.comcast.com
+docker-ino-tools23m.scl.svic.comcast.com
 docs-dev.pravah.comcast.com
 docs-dx.comcast.com
 docs-zmcken282.pravah.comcast.com
@@ -21044,6 +21049,7 @@ dxlucidintdb.gslb4.comcast.com
 dxopsdashboard.comcast.com
 dxp-cloud-ivr-apigee-preprod.comcast.com
 dxp-cloud-ivr-apigee-qa.comcast.com
+dxp-dev.adv.comcast.com
 dxp-qa.adv.comcast.com
 dxplatform.comcast.com
 dxportaljenk.comcast.com
@@ -29855,6 +29861,7 @@ idea-spdb-ag.cable.comcast.com
 identity-auth-eu-central-1.merlin.comcast.com
 identity-auth-eu-central-1.r53-eu.merlin.comcast.com
 identity-auth-eu.merlin.comcast.com
+identity-auth-eu.r53-eu.merlin.comcast.com
 identity-auth-merlin-bo-dev-us-east-1.r53dev.merlin.comcast.com
 identity-auth-merlin-bo-prod-us-east-1.r53.merlin.comcast.com
 identity-auth-us.merlin.comcast.com
@@ -35006,6 +35013,7 @@ jbm-scl-yocto-build-035m.scl.svic.comcast.com
 jbm-scl-yocto-build-036m.scl.svic.comcast.com
 jbm-scl-yocto-build-038m.scl.svic.comcast.com
 jbm-scl-yocto-build-039m.scl.svic.comcast.com
+jbm-scl-yocto-build-041m.scl.svic.comcast.com
 jbm-scl-yocto-build-047m.scl.svic.comcast.com
 jbm-scl-yocto-build-050m.scl.svic.comcast.com
 jbm-scl-yocto-build-060m.scl.svic.comcast.com
@@ -39918,6 +39926,7 @@ mpsprod-ch2-a1p.slb.comcast.com
 mpxfacade-auth-eu-central-1.merlin.comcast.com
 mpxfacade-auth-eu-central-1.r53-eu.merlin.comcast.com
 mpxfacade-auth-eu.merlin.comcast.com
+mpxfacade-auth-eu.r53-eu.merlin.comcast.com
 mpxfacade-auth-merlin-bo-dev-us-east-1.r53dev.merlin.comcast.com
 mpxfacade-auth-merlin-bo-prod-us-east-1.r53.merlin.comcast.com
 mpxfacade-auth-us.merlin.comcast.com
@@ -41288,6 +41297,7 @@ ngpoptim-ho-1p.cable.comcast.com
 ngpoptim-ho-2d.cable.comcast.com
 ngpoptim-ho-2p.cable.comcast.com
 ngpsql-as-1d-con.cable.comcast.com
+ngpxcmp2-ch2-1p-con.cable.comcast.com
 ngpxcmp2-ch2-1p.cable.comcast.com
 ngpxcmp3-ch2-1p.cable.comcast.com
 ngpxcomp1-as-3p-con.cable.comcast.com
@@ -55050,6 +55060,7 @@ ruby.business.comcast.com
 rubylite-qa.business.comcast.com
 rubylite.business.comcast.com
 rubyliteqa.business.comcast.com
+rulebuilder.comcast.com
 rulecacheservice.cable.comcast.com
 rules.comcast.com
 rules.efklb.csv.comcast.com
@@ -58031,6 +58042,7 @@ staging.pneumatic-tube.comcast.com
 staging.reddit.comcast.com
 staging.refapp.comcast.com
 staging.selfscan.comcast.com
+staging.serina.comcast.com
 staging.slothsleuth.comcast.com
 staging.snp.comcast.com
 staging.spherelab.comcast.com
@@ -59932,6 +59944,7 @@ test5.comcast.com
 test5.kubenext-lab.kubernetes.comcast.com
 test6.comcast.com
 test7.comcast.com
+test78sungaurd.comcast.com
 test8.comcast.com
 test8demo.cf.comcast.com
 test9.comcast.com
@@ -60066,6 +60079,7 @@ testingcvp4.comcast.com
 testingcvp5.comcast.com
 testingdemo06.comcast.com
 testinglocust.comcast.com
+testingnow.comcast.com
 testingportal.comcast.com
 testingtodaybizops1.comcast.com
 testingvacttest.comcast.com
@@ -60139,6 +60153,7 @@ testwfdt-as.cable.comcast.com
 testwfdt-ch2.cable.comcast.com
 testwfdt.cable.comcast.com
 testwildcard.comcast.com
+testwireless.comcast.com
 testwos.cable.comcast.com
 testxcm.comcast.com
 testxocdialerservice.cable.comcast.com
@@ -61882,6 +61897,7 @@ uipathinsights-dev.cable.comcast.com
 uipathinsights-prod.cable.comcast.com
 uipathinsights-uat.cable.comcast.com
 uipbot-as-1dev.cable.comcast.com
+uipinsights-prod.cable.comcast.com
 uivr-das-stg-a.cable.comcast.com
 uivr-das-stg-b.cable.comcast.com
 uivr-das-stg.cable.comcast.com

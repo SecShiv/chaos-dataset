@@ -71,6 +71,9 @@ api-nonprod.fourthline.partner.eu.cloud.westernunion.com
 api-nonprod.marqeta.partner.us.cloud.westernunion.com
 api-nonprod.marqeta.partner.us.nv.cloud.westernunion.com
 api-nonprod.marqeta.partner.us.oh.cloud.westernunion.com
+api-nonprod.ngkiosk.retail.us.westernunion.com
+api-nonprod.ngkiosk.retail.us.nv.westernunion.com
+api-nonprod.ngkiosk.retail.us.oh.westernunion.com
 api-nonprod.pay.wuib.eu.westernunion.com
 api-nonprod.pgw.wupartner.us.westernunion.com
 api-nonprod.phb.paymentshub.nv.us.westernunion.com
@@ -680,6 +683,7 @@ ipaas-nonprod.services.cloudhub.us.westernunion.com
 ipaas-nonprod.us.westernunion.com
 ipaas.services.cloudhub.us.westernunion.com
 ipaas.us.westernunion.com
+ipaasclient-dev.us.westernunion.com
 ipaasclient-nonprod.security.apps.use1.westernunion.com
 ipaasclient-nonprod.us.westernunion.com
 ipaasclient-nonprod.wechat.apps.us.westernunion.com
@@ -1196,6 +1200,7 @@ rmo.westernunion.com
 rmo-nonprod.westernunion.com
 rmtsrakutenbankcojp.fi.westernunion.com
 rosassets.westernunion.com
+rosassets-nonprod.us.westernunion.com
 s1004dcm.westernunion.com
 s10a9715.westernunion.com
 san-f1.westernunion.com
@@ -1404,6 +1409,7 @@ webapi-nonprod.pos.retail.us.westernunion.com
 webapi-nonprod.rmo.retail.nv.us.westernunion.com
 webapi-nonprod.rmo.retail.oh.us.westernunion.com
 webapi-nonprod.rmo.retail.us.westernunion.com
+webapi-nonprod.trax.retail.eu.westernunion.com
 webapi-nonprod.unp.ecdn.us.westernunion.com
 webapi-nonprod.unp.retail.us.westernunion.com
 webapi-nonprod.unp.retail.us.nv.westernunion.com
@@ -1456,12 +1462,14 @@ webapi.test.pos.retail.us.westernunion.com
 webapi.test.pos.retail.us.nv.westernunion.com
 webapi.test.pos.retail.us.oh.westernunion.com
 webapi.unp.ecdn.us.westernunion.com
+webapi.unp.retail.us.westernunion.com
 webapi.us.westernunion.com
 webapi.wupos.retail.nv.us.westernunion.com
 webapi.wupos.retail.oh.us.westernunion.com
 webapi.wupos.retail.us.westernunion.com
 webapi.wupos.retailtest.us.westernunion.com
 webapiuat.ecdn.westernunion.com
+webapp-nonprod.symex.retail.eu.westernunion.com
 webapp-nonprod.trax.retail.eu.westernunion.com
 webservices-test.globalpay.westernunion.com
 webservices.globalpay.westernunion.com
@@ -1821,7 +1829,3 @@ www2c-static.westernunion.com
 www2p-static.westernunion.com
 www3.westernunion.com
 www4.westernunion.com
-wwwcorpcu.fi.westernunion.com
-wwwfx4business.fi.westernunion.com
-wwwonlineforexpaymentscouk.fi.westernunion.com
-xetradebusiness.fi.westernunion.com

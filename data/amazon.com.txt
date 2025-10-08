@@ -29,6 +29,7 @@
 *.ap-east-1.console.aws.amazon.com
 *.ap-east-1.console.aws-dev.amazon.com
 *.ap-east-1.gamma.console-api.aws.amazon.com
+*.ap-east-2.aws-signin-testing.amazon.com
 *.ap-east-2.awsc-dev.aws.amazon.com
 *.ap-east-2.awsc-integ.aws.amazon.com
 *.ap-east-2.awsc-preprod.aws.amazon.com
@@ -147,6 +148,7 @@
 *.ap-southeast-5.gamma.console-api.aws.amazon.com
 *.ap-southeast-7-failover.console-gamma.aws-dev.amazon.com
 *.ap-southeast-7-failover.console.aws-dev.amazon.com
+*.ap-southeast-7.aws-signin-testing.amazon.com
 *.ap-southeast-7.awsc-dev.aws.amazon.com
 *.ap-southeast-7.awsc-integ.aws.amazon.com
 *.ap-southeast-7.awsc-preprod.aws.amazon.com
@@ -17409,6 +17411,7 @@ ap-east-1.signin.aws.amazon.com
 ap-east-1.tardigrade-gamma.aws.amazon.com
 ap-east-1.tardigrade-onebox.aws.amazon.com
 ap-east-1.tardigrade.aws.amazon.com
+ap-east-2.aws-signin-testing.amazon.com
 ap-east-2.console.aws.amazon.com
 ap-east-2.lightsail-preprod.aws.amazon.com
 ap-east-2.lightsail.aws.amazon.com
@@ -17658,6 +17661,7 @@ ap-southeast-5.tardigrade-gamma.aws.amazon.com
 ap-southeast-5.tardigrade-onebox.aws.amazon.com
 ap-southeast-5.tardigrade.aws.amazon.com
 ap-southeast-7.acm-certificates.amazon.com
+ap-southeast-7.aws-signin-testing.amazon.com
 ap-southeast-7.beta.acm-certificates.amazon.com
 ap-southeast-7.console.aws.amazon.com
 ap-southeast-7.lightsail.aws.amazon.com
@@ -17828,6 +17832,7 @@ api-dashboard-pdx-gamma.ec2.amazon.com
 api-dashboard-pdx-prod.ec2.amazon.com
 api-dashboard-pdx.ec2.amazon.com
 api-dashboard-qro.ec2.amazon.com
+api-dashboard-ruh.ec2.amazon.com
 api-dashboard-sfo-prod.ec2.amazon.com
 api-dashboard-sfo.ec2.amazon.com
 api-dashboard-sin-prod.ec2.amazon.com
@@ -18330,6 +18335,7 @@ appstream2.euc-sso-integ.us-west-2.aws.amazon.com
 appstream2.euc-sso.ap-northeast-2.aws.amazon.com
 appstream2.euc-sso.ap-southeast-2.aws.amazon.com
 appstream2.euc-sso.eu-central-1.aws.amazon.com
+appstream2.euc-sso.eu-south-1.aws.amazon.com
 appstream2.euc-sso.eu-west-1.aws.amazon.com
 appstream2.euc-sso.eu-west-2.aws.amazon.com
 appstream2.euc-sso.eu-west-3.aws.amazon.com
@@ -28292,6 +28298,7 @@ dts-web-eu.aka.amazon.com
 dts-web-master-na.aka.amazon.com
 dts-web-na.aka.amazon.com
 dts.integ.amazon.com
+dualstack.us-gov-west-1.health-experience.health.amazon.com
 dualstack.wallpaper-585232228.us-east-1.elb.amazon.com
 dub-a-orca.amazon.com
 dub-aa-orca.amazon.com
@@ -34844,6 +34851,8 @@ h2.eu-central-1-onebox.quicksight.aws.amazon.com
 h2.eu-central-1.quicksight.aws.amazon.com
 h2.eu-north-1-onebox.quicksight.aws.amazon.com
 h2.eu-north-1.quicksight.aws.amazon.com
+h2.eu-south-1-onebox.quicksight.aws.amazon.com
+h2.eu-south-1.quicksight.aws.amazon.com
 h2.eu-west-1-onebox.quicksight.aws.amazon.com
 h2.eu-west-1.quicksight.aws.amazon.com
 h2.eu-west-2-onebox.quicksight.aws.amazon.com
@@ -35549,6 +35558,7 @@ https-sedi-jp-pw.amazon.com
 https-sedi-na.amazon.com
 https-sedi-na-pw.amazon.com
 https-sedi-qa.amazon.com
+https.v6.web.diagnostic.networking.amazon.com
 https://us-east-1.console.aws.amazon.com
 httpshelloworld.023000673545.us-east-1.amazon.com
 httpwww55633comliuhecaibaihexinshuiluntan.zkettps-sedi-eu-pw.amazon.com
@@ -39151,6 +39161,7 @@ journal-prod-common-0-prodfabric.journal.kix.amazon.com
 journal-prod-common-0-prodfabric.journal.lhr.amazon.com
 journal-prod-common-0-prodfabric.journal.mdw.amazon.com
 journal-prod-common-0-prodfabric.journal.mel.amazon.com
+journal-prod-common-0-prodfabric.journal.mxp.amazon.com
 journal-prod-common-0-prodfabric.journal.pdx.amazon.com
 journal-prod-common-0-prodfabric.journal.qro.amazon.com
 journal-prod-common-0-prodfabric.journal.ruh.amazon.com
@@ -41423,6 +41434,7 @@ lore-corp.aea.amazon.com
 lore-gamma-corp.aea.amazon.com
 lore-gamma.corp.amazon.com
 lore.corp.amazon.com
+lorespiz.eu-west-1.alpha.server.console.cloudwatch.amazon.com
 losing-distribution-test1.amazon.com
 loss-prevention.amazon.com
 loss-prevention-jlb-l-iad.iad.proxy.amazon.com
@@ -57225,6 +57237,7 @@ testoverride-ui-gamma.corp.amazon.com
 testprod.compass.amazon.com
 testqsembed.corp.amazon.com
 testrail.legal.amazon.com
+tests.act-shell-ui-playwright.na.gamma.app.act.legal.amazon.com
 testtest.minstest.acm-certificates.amazon.com
 testv1.amazon.com
 testv1.integ.amazon.com
@@ -58933,6 +58946,7 @@ us-gov-west-1.acm-certificates.amazon.com
 us-gov-west-1.beta.acm-certificates.amazon.com
 us-gov-west-1.certificate.amazon.com
 us-gov-west-1.certificates.amazon.com
+us-gov-west-1.health-experience.health.amazon.com
 us-gov-west-1c.lily-sbc.us-gov-west-1.amazon.com
 us-integ-allocations-dashboard-jlb.corp.amazon.com
 us-northeast-1.acm-certificates.amazon.com

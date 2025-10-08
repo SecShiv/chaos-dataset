@@ -56,6 +56,7 @@
 *.useast4.app.xdr.trellix.com
 *.useast4.appcom.xdr.trellix.com
 *.vm.lab.training.trellix.com
+*.vpn.trellix.com
 *.xconsole.trellix.com
 *.xdrsre.dev.xdr.trellix.com
 10-52-1-10.nx-ndr-trellix-wise.trellix.com
@@ -208,6 +209,7 @@ content.manage.trellix.com
 content.myaccounts-pendo.trellix.com
 content.pendo.trellix.com
 core01-fw.lab.training.trellix.com
+corp.vpn.trellix.com
 course-resources.a.lab.training.trellix.com
 course-resources.staging.a.lab.training.trellix.com
 crmavert.trellix.com
@@ -241,6 +243,9 @@ dashboard.vpn.staging.mdr.trellix.com
 data.myaccounts-pendo.trellix.com
 data.pendo.trellix.com
 databus.gtiservice.trellix.com
+de-pav-corp.vpn.trellix.com
+de-pav-local.vpn.trellix.com
+de-pav-support.vpn.trellix.com
 de-pav-vpn1.trellix.com
 demo.xconsole.trellix.com
 denvpn1.trellix.com
@@ -284,6 +289,8 @@ edge01-fw.lab.training.trellix.com
 edrpreprod.trellix.com
 edu-test-eu.etp.trellix.com
 email.trellix.com
+eng-blr.vpn.trellix.com
+eng-us.vpn.trellix.com
 ens.repm.gti.trellix.com
 ensfirewall.repm.gti.trellix.com
 epo.trellix.com
@@ -408,9 +415,13 @@ ihub.xdrprd-euc1.xdr.trellix.com
 ihub.xdrprd-use1.xdr.trellix.com
 ihub.xdrprd-usw2.xdr.trellix.com
 ihub.xdrqa.qa.xdr.trellix.com
+in-ban-corp.vpn.trellix.com
+in-ban-local.vpn.trellix.com
+in-ban-support.vpn.trellix.com
 in-ban-vpn1.trellix.com
 in-hyd-sbc-1.trellix.com
 in-hyd-sbc-2.trellix.com
+infra.prod.urlcat.trellix.com
 ingress.xdr-ondemand-28.od.dev.xdr.trellix.com
 ingress.xdrdev.dev.xdr.trellix.com
 ingress.xdrint.qa.xdr.trellix.com
@@ -535,6 +546,7 @@ origin-trellix-uat.trellix.com
 origin-www.trellix.com
 packages.xconsole.trellix.com
 pages.trellix.com
+partner.vpn.trellix.com
 partnerbusinesscenter.beta.manage.trellix.com
 partnerbusinesscenter.manage.trellix.com
 partnernews.trellix.com
@@ -695,6 +707,7 @@ stg-login.trellix.com
 stg.partnersso.trellix.com
 stg.thrivesso.trellix.com
 support.trellix.com
+support.vpn.trellix.com
 supportability.databus.gtiservice.trellix.com
 supportgw-edraps.soc.trellix.com
 supportgw-edreuc.soc.trellix.com
@@ -802,10 +815,15 @@ ui.vnext.xdrpreeks.trellix.com
 ui.xdr.trellix.com
 ui.xdrint.trellix.com
 ui.xdrpreeks.trellix.com
+us-ash-corp.vpn.trellix.com
+us-ash-local.vpn.trellix.com
+us-ash-support.vpn.trellix.com
 us-aws-iseguest1.trellix.com
+us-dnv-corp.vpn.trellix.com
 us-dnv-iseguest1.trellix.com
 us-dnv-iseguest2.trellix.com
 us-dnv-local.vpn.trellix.com
+us-dnv-support.vpn.trellix.com
 us-dnv-vpn1.trellix.com
 us-lvs-iseguest1.trellix.com
 us-lvs-iseguest2.trellix.com
@@ -976,6 +994,7 @@ www.hoot-qa.trellix.com
 www.iam.cloud.trellix.com
 www.in-hyd-sbc-1.trellix.com
 www.in-hyd-sbc-2.trellix.com
+www.infra.prod.urlcat.trellix.com
 www.insights.trellix.com
 www.internal.insights.trellix.com
 www.internal.staging.insights.trellix.com
@@ -1113,4 +1132,3 @@ xdrpreeks.trellix.com
 xdrqa.qa.xdr.trellix.com
 xdrsre.dev.xdr.trellix.com
 xdrstg.staging.xdr.trellix.com
-xpandctf.trellix.com

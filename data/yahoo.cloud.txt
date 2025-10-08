@@ -314,6 +314,7 @@ cluster.autoblog-aws-prod.aws.yahoo.cloud
 cluster.notificationsystems-mbp-prod.aws.yahoo.cloud
 cluster.notificationsystems-rivendell-aws-dev.aws.yahoo.cloud
 cms-gcp-nonprod.gcp.yahoo.cloud
+compliance-server.msd-compliance.aws.yahoo.cloud
 configure8-app.pcp-cmdb-configure8-test.aws.yahoo.cloud
 d559b009-fcb2-43c8-80c8-a47fb3499c4f.instanceid.athenz.ostk.yahoo.cloud
 d5e5445a-165f-4076-9cc7-0dfdc43e9c9c.instanceid.athenz.ostk.yahoo.cloud
@@ -559,7 +560,10 @@ prd.pe-dba-aws-finance.aws.yahoo.cloud
 prd.pe-dba-aws-sports.aws.yahoo.cloud
 presto-dev-test.grid-aws-dev.aws.yahoo.cloud
 preview.vespa.yahoo.cloud
+prod-zts-us-east5.sys-auth.gcp.yahoo.cloud
+prod-zts-us-west1.sys-auth.gcp.yahoo.cloud
 prod.azurite-maltego.gcp.yahoo.cloud
+prod.msd-compliance.aws.yahoo.cloud
 profile-tee.aolp-ds-dev.aws.yahoo.cloud
 qrs.vespa.sports-prod1-use1.omega.aws.yahoo.cloud
 qrs.vespa.sports-prod1-usw2.omega.aws.yahoo.cloud
@@ -622,6 +626,7 @@ statcloud-api-stage.sports-nonprod1-use1.omega.aws.yahoo.cloud
 statcloud-api.sports-prod1-use1.omega.aws.yahoo.cloud
 stg-use1-simon-simonweb.svc.use1.grid-aws-staging.aws.yahoo.cloud
 streamer-v3.finance.aws.yahoo.cloud
+supernova-for-you-dev.news-ml-dev-gcp-use4.gcp.yahoo.cloud
 supernova-for-you-prod.news-ml-prod-gcp-usw1.gcp.yahoo.cloud
 supernova-recirc-prod.news-ml-prod-gcp-use4.gcp.yahoo.cloud
 supernova-regional.news-ml-dev-gcp-use4.gcp.yahoo.cloud

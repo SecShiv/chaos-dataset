@@ -770,6 +770,7 @@
 *.epamcom-prestaging.dev-pub.epm-web.projects.epam.com
 *.epm-aidp-dev.projects.epam.com
 *.epm-aidp.projects.epam.com
+*.epm-alfa-ant-prl.eu.gcp.cloudapp.epam.com
 *.epm-apa.projects.epam.com
 *.epm-bot.projects.epam.com
 *.epm-chbe.projects.epam.com
@@ -3692,6 +3693,7 @@ ethicsline.lab.epam.com
 ethstats.adi-coin.projects.epam.com
 etl-latest.dev.radar.epam.com
 eu-direct.peoplecentral.epam.com
+eu-direct.peoplecentral.peoplecentral.epam.com
 eu-payroll.ocr.epam.com
 eu.artifactory.epam.com
 eu.gcp.time.epam.com
@@ -4482,6 +4484,7 @@ in.epam-com.staging.epm-iass.projects.epam.com
 in.epamcom-prestaging.dev-pub.epm-web.projects.epam.com
 in.glb-stg-people.epm-dce.projects.epam.com
 in.peoplecentral.epam.com
+in.peoplecentral.peoplecentral.epam.com
 in.stg-people.epm-dce.projects.epam.com
 in.time.epam.com
 indigo-eln.test.lifescience.opensource.epam.com
@@ -5428,6 +5431,7 @@ people-stag.epm-hrms.projects.epam.com
 people.int.epm-hrms.projects.epam.com
 people.lab.epam.com
 peoplecentral.epam.com
+peoplecentral.peoplecentral.epam.com
 peoplesurvey.dev.epm-surv.projects.epam.com
 peoplesurvey.qa.epm-surv.projects.epam.com
 perf-alfa.epm-dce.projects.epam.com
@@ -5890,15 +5894,19 @@ preprod.se-tic.projects.epam.com
 preprod.sobank.fhpc.projects.epam.com
 presales.epam.com
 presales-data-normalization-dev.llm.lab.epam.com
+presales-data-normalization-exp-1.llm.lab.epam.com
 presales-data-normalization-uat.llm.lab.epam.com
 presales-mailbot-dev.llm.lab.epam.com
+presales-mailbot-exp-1.llm.lab.epam.com
 presales-mailbot-prod.llm.lab.epam.com
 presales-mailbot-uat.llm.lab.epam.com
 presales-orchestrator-dev.llm.lab.epam.com
+presales-orchestrator-exp-1.llm.lab.epam.com
 presales-orchestrator-prod.llm.lab.epam.com
 presales-orchestrator-uat.llm.lab.epam.com
 presales-sharepoint-adapter-dev.llm.lab.epam.com
 presales-summarization-dev.llm.lab.epam.com
+presales-summarization-exp-1.llm.lab.epam.com
 presales-summarization-prod.llm.lab.epam.com
 presales-summarization-uat.llm.lab.epam.com
 presales-test.stage.epam.com
@@ -6484,6 +6492,7 @@ slbn-idpe.projects.epam.com
 slkr-development.projects.epam.com
 smart-jira.atv.atv-jpd-anthos.us.gcp.cloudapp.epam.com
 smartlocker.epam.com
+smoldocling-256m-api.llm.lab.epam.com
 smtp.epam.com
 snap.portal.sod-crm.projects.epam.com
 snf-oncology-pipeline.opensource.epam.com
@@ -6649,6 +6658,7 @@ staging-finance.delivery.epam.com
 staging-hep-elearn.epm-mooc.projects.epam.com
 staging-msdp-elearn.epm-mooc.projects.epam.com
 staging-palm.epm-mooc.projects.epam.com
+staging-palm.epm-mooc.projects.epam.com.epam.com
 staging-rai.lab.epam.com
 staging-smartlocker.lab.epam.com
 staging-upskill-elearn-uz.epm-mooc.projects.epam.com
@@ -6743,6 +6753,7 @@ studio.hep.elearn.epam.com
 studio.hep.elearn.epm-mooc.projects.epam.com
 studio.hep.staging-elearn.epm-mooc.projects.epam.com
 studio.hep.staging-palm.epm-mooc.projects.epam.com
+studio.idda.staging-palm.epm-mooc.projects.epam.com
 studio.mentora.al01-impl.projects.epam.com
 studio.msdp.alpha.epm-mooc.projects.epam.com
 studio.msdp.elearn.epam.com

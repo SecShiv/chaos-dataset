@@ -660,6 +660,7 @@
 *.filing-preprod.a.intuit.com
 *.filingarchive-preprod.a.intuit.com
 *.finance.intuit.com
+*.fintech.a.intuit.com
 *.flight-simulator-ppd.a.intuit.com
 *.flight-simulator-svc-prd.a.intuit.com
 *.fmea-cape.a.intuit.com
@@ -28564,6 +28565,7 @@ finplan-taxplan-stg-tax-insights-service.pcgprdusw2.iks2.a.intuit.com
 fintech-airis-svc-devsuccess.paymentprdusw2.iks2.a.intuit.com
 fintech-api-payments.paymentprduse2.iks2.a.intuit.com
 fintech-api-payments.paymentprdusw2.iks2.a.intuit.com
+fintech-hub-backend-finrisk.paymentprdpciusw2.iks2.a.intuit.com
 fintech-icc-prd-platform-superset.paymentprdusw2.iks2.a.intuit.com
 fintech-icc-prd-platform-template-builder.paymentprdusw2.iks2.a.intuit.com
 firm-e2e-lvdc.accountant.intuit.com
@@ -47547,6 +47549,7 @@ money-e2e-paaf-stable.paymentppdusw2.iks2.a.intuit.com
 money-e2e-paaf.paymentppdusw2.iks2.a.intuit.com
 money-e2e-payments-csr.paymentppduse2.iks2.a.intuit.com
 money-e2e-payments-csr.paymentppdusw2.iks2.a.intuit.com
+money-finrisk-prd-fintech-hub-backend.paymentprdpciusw2.iks2.a.intuit.com
 money-graph-api-money.paymentprdusw2.iks2.a.intuit.com
 money-ledger-prd-collectionsvcrecorder.payment-sgmnt-prod-pci-usw2.iks.a.intuit.com
 money-ledger-prd-dispute-mm-engine.paymentprdusw2.iks2.a.intuit.com
@@ -57096,6 +57099,7 @@ preprod-ctgmonitors.intuit.com
 preprod-ctlg.a.intuit.com
 preprod-ea.a.intuit.com
 preprod-east2.iks.a.intuit.com
+preprod-eks-proxy.labeling.a.intuit.com
 preprod-elb-us-west-2.public.supportsite.a.intuit.com
 preprod-epmm.a.intuit.com
 preprod-esub.a.intuit.com

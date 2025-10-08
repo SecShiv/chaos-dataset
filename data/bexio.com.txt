@@ -186,6 +186,7 @@ admin.env-vladan.bexio-dev.gcp.bexio.com
 admin.ertest.bexio-dev.gcp.bexio.com
 admin.fe-team.bru.dev.bexio.com
 admin.fe-team2.bexio-dev.gcp.bexio.com
+admin.fetchlogic.bru.dev.bexio.com
 admin.fiduciary.bru.dev.bexio.com
 admin.fiduciary2.bru.dev.bexio.com
 admin.fischi.bru.dev.bexio.com
@@ -586,6 +587,7 @@ api.env-vladan.bexio-dev.gcp.bexio.com
 api.ertest.bexio-dev.gcp.bexio.com
 api.fe-team.bru.dev.bexio.com
 api.fe-team2.bexio-dev.gcp.bexio.com
+api.fetchlogic.bru.dev.bexio.com
 api.fiduciary.bru.dev.bexio.com
 api.fiduciary2.bru.dev.bexio.com
 api.fischi.bru.dev.bexio.com
@@ -979,6 +981,7 @@ assets.env-vladan.bexio-dev.gcp.bexio.com
 assets.ertest.bexio-dev.gcp.bexio.com
 assets.fe-team.bru.dev.bexio.com
 assets.fe-team2.bexio-dev.gcp.bexio.com
+assets.fetchlogic.bru.dev.bexio.com
 assets.fiduciary.bru.dev.bexio.com
 assets.fiduciary2.bru.dev.bexio.com
 assets.fischi.bru.dev.bexio.com
@@ -1313,6 +1316,7 @@ auth.dominick.bru.dev.bexio.com
 auth.dusan.bru.dev.bexio.com
 auth.dusan4.bru.dev.bexio.com
 auth.fe-team.bru.dev.bexio.com
+auth.fetchlogic.bru.dev.bexio.com
 auth.fiduciary.bru.dev.bexio.com
 auth.fiduciary2.bru.dev.bexio.com
 auth.fischi2.bru.dev.bexio.com
@@ -1588,6 +1592,7 @@ banking.env-vladan.bexio-dev.gcp.bexio.com
 banking.ertest.bexio-dev.gcp.bexio.com
 banking.fe-team.bru.dev.bexio.com
 banking.fe-team2.bexio-dev.gcp.bexio.com
+banking.fetchlogic.bru.dev.bexio.com
 banking.fiduciary.bru.dev.bexio.com
 banking.fiduciary2.bru.dev.bexio.com
 banking.fischi.bru.dev.bexio.com
@@ -1976,6 +1981,7 @@ billing.env-vladan.bexio-dev.gcp.bexio.com
 billing.ertest.bexio-dev.gcp.bexio.com
 billing.fe-team.bru.dev.bexio.com
 billing.fe-team2.bexio-dev.gcp.bexio.com
+billing.fetchlogic.bru.dev.bexio.com
 billing.fiduciary.bru.dev.bexio.com
 billing.fiduciary2.bru.dev.bexio.com
 billing.fischi.bru.dev.bexio.com
@@ -2355,6 +2361,7 @@ cockpit.env-sales.bexio-dev.gcp.bexio.com
 cockpit.env-vladan.bexio-dev.gcp.bexio.com
 cockpit.ertest.bexio-dev.gcp.bexio.com
 cockpit.fe-team.bru.dev.bexio.com
+cockpit.fetchlogic.bru.dev.bexio.com
 cockpit.fiduciary.bru.dev.bexio.com
 cockpit.fiduciary2.bru.dev.bexio.com
 cockpit.fischi.bru.dev.bexio.com
@@ -2712,6 +2719,7 @@ db-admin.env-vladan.bexio-dev.gcp.bexio.com
 db-admin.ertest.bexio-dev.gcp.bexio.com
 db-admin.fe-team.bru.dev.bexio.com
 db-admin.fe-team2.bexio-dev.gcp.bexio.com
+db-admin.fetchlogic.bru.dev.bexio.com
 db-admin.fiduciary.bru.dev.bexio.com
 db-admin.fiduciary2.bru.dev.bexio.com
 db-admin.fischi.bru.dev.bexio.com
@@ -3129,6 +3137,7 @@ developer.env-vladan.bexio-dev.gcp.bexio.com
 developer.ertest.bexio-dev.gcp.bexio.com
 developer.fe-team.bru.dev.bexio.com
 developer.fe-team2.bexio-dev.gcp.bexio.com
+developer.fetchlogic.bru.dev.bexio.com
 developer.fiduciary.bru.dev.bexio.com
 developer.fiduciary2.bru.dev.bexio.com
 developer.fischi.bru.dev.bexio.com
@@ -3738,6 +3747,7 @@ documentdesigner.env-vladan.bexio-dev.gcp.bexio.com
 documentdesigner.ertest.bexio-dev.gcp.bexio.com
 documentdesigner.fe-team.bru.dev.bexio.com
 documentdesigner.fe-team2.bexio-dev.gcp.bexio.com
+documentdesigner.fetchlogic.bru.dev.bexio.com
 documentdesigner.fiduciary.bru.dev.bexio.com
 documentdesigner.fiduciary2.bru.dev.bexio.com
 documentdesigner.fischi.bru.dev.bexio.com
@@ -4153,6 +4163,7 @@ idp.env-vladan.bexio-dev.gcp.bexio.com
 idp.ertest.bexio-dev.gcp.bexio.com
 idp.fe-team.bru.dev.bexio.com
 idp.fe-team2.bexio-dev.gcp.bexio.com
+idp.fetchlogic.bru.dev.bexio.com
 idp.fiduciary.bru.dev.bexio.com
 idp.fiduciary2.bru.dev.bexio.com
 idp.fischi.bru.dev.bexio.com
@@ -4497,6 +4508,7 @@ indagia.env-matheus.bru.dev.bexio.com
 indagia.env-nikola.bru.dev.bexio.com
 indagia.env-test.bru.dev.bexio.com
 indagia.fe-team.bru.dev.bexio.com
+indagia.fetchlogic.bru.dev.bexio.com
 indagia.fiduciary.bru.dev.bexio.com
 indagia.fiduciary2.bru.dev.bexio.com
 indagia.fischi.bru.dev.bexio.com
@@ -4815,6 +4827,7 @@ lead.env-vladan.bexio-dev.gcp.bexio.com
 lead.ertest.bexio-dev.gcp.bexio.com
 lead.fe-team.bru.dev.bexio.com
 lead.fe-team2.bexio-dev.gcp.bexio.com
+lead.fetchlogic.bru.dev.bexio.com
 lead.fiduciary.bru.dev.bexio.com
 lead.fiduciary2.bru.dev.bexio.com
 lead.fischi.bru.dev.bexio.com
@@ -5196,6 +5209,7 @@ logout.env-vladan.bexio-dev.gcp.bexio.com
 logout.ertest.bexio-dev.gcp.bexio.com
 logout.fe-team.bru.dev.bexio.com
 logout.fe-team2.bexio-dev.gcp.bexio.com
+logout.fetchlogic.bru.dev.bexio.com
 logout.fiduciary.bru.dev.bexio.com
 logout.fiduciary2.bru.dev.bexio.com
 logout.fischi.bru.dev.bexio.com
@@ -5573,6 +5587,7 @@ mail.env-vladan.bexio-dev.gcp.bexio.com
 mail.ertest.bexio-dev.gcp.bexio.com
 mail.fe-team.bru.dev.bexio.com
 mail.fe-team2.bexio-dev.gcp.bexio.com
+mail.fetchlogic.bru.dev.bexio.com
 mail.fiduciary.bru.dev.bexio.com
 mail.fiduciary2.bru.dev.bexio.com
 mail.fischi2.bru.dev.bexio.com
@@ -5976,6 +5991,7 @@ my.env-vladan.bexio-dev.gcp.bexio.com
 my.ertest.bexio-dev.gcp.bexio.com
 my.fe-team.bru.dev.bexio.com
 my.fe-team2.bexio-dev.gcp.bexio.com
+my.fetchlogic.bru.dev.bexio.com
 my.fiduciary.bru.dev.bexio.com
 my.fiduciary2.bru.dev.bexio.com
 my.fischi.bru.dev.bexio.com
@@ -6362,6 +6378,7 @@ network.env-vladan.bexio-dev.gcp.bexio.com
 network.ertest.bexio-dev.gcp.bexio.com
 network.fe-team.bru.dev.bexio.com
 network.fe-team2.bexio-dev.gcp.bexio.com
+network.fetchlogic.bru.dev.bexio.com
 network.fiduciary.bru.dev.bexio.com
 network.fiduciary2.bru.dev.bexio.com
 network.fischi.bru.dev.bexio.com
@@ -6751,6 +6768,7 @@ office.env-vladan.bexio-dev.gcp.bexio.com
 office.ertest.bexio-dev.gcp.bexio.com
 office.fe-team.bru.dev.bexio.com
 office.fe-team2.bexio-dev.gcp.bexio.com
+office.fetchlogic.bru.dev.bexio.com
 office.fiduciary.bru.dev.bexio.com
 office.fiduciary2.bru.dev.bexio.com
 office.fischi.bru.dev.bexio.com
@@ -7155,6 +7173,7 @@ portal.env-vladan.bexio-dev.gcp.bexio.com
 portal.ertest.bexio-dev.gcp.bexio.com
 portal.fe-team.bru.dev.bexio.com
 portal.fe-team2.bexio-dev.gcp.bexio.com
+portal.fetchlogic.bru.dev.bexio.com
 portal.fiduciary.bru.dev.bexio.com
 portal.fiduciary2.bru.dev.bexio.com
 portal.fischi.bru.dev.bexio.com
@@ -7549,6 +7568,7 @@ static.env-matheus.bru.dev.bexio.com
 static.env-nikola.bru.dev.bexio.com
 static.env-test.bru.dev.bexio.com
 static.fe-team.bru.dev.bexio.com
+static.fetchlogic.bru.dev.bexio.com
 static.fiduciary.bru.dev.bexio.com
 static.fiduciary2.bru.dev.bexio.com
 static.fischi.bru.dev.bexio.com
@@ -7761,6 +7781,7 @@ www.dev-18730.bru.dev.bexio.com
 www.dev-19596.bru.dev.bexio.com
 www.dev18531.bru.dev.bexio.com
 www.djm.bru.dev.bexio.com
+www.fetchlogic.bru.dev.bexio.com
 www.fiduciary.bru.dev.bexio.com
 www.gambiarra.bru.dev.bexio.com
 www.gcp.bexio.com
