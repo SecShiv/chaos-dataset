@@ -48,6 +48,7 @@ acceptance-node.chain.link
 adapter.chain.link
 aggregator-beta.chain.link
 api.ccip.chain.link
+api.cre.chain.link
 api.dataengine.chain.link
 api.testnet-dataengine.chain.link
 apitesting.dataengine.chain.link
@@ -142,6 +143,7 @@ node.rinkeby.chain.link
 node.ropsten.chain.link
 node.staging.chain.link
 on.chain.link
+org-resolver.cre.chain.link
 oti.chain.link
 pages.chain.link
 payment-router-mainnet.st6.production.enterprise.chain.link
@@ -165,6 +167,7 @@ ropsten-node.chain.link
 ropsten.eth.chain.link
 ropsten.explorer.chain.link
 roqstar.at.roqstten-node.chain.link
+rpcs.chain.link
 security.chain.link
 shib.sandbox.enterprise.chain.link
 smartcon.chain.link
@@ -175,6 +178,7 @@ staging-node.chain.link
 staging.ropsten.chain.link
 staging.telemetry.chain.link
 staking.chain.link
+storage-node.cre.chain.link
 streamsdnsonly.dataengine.chain.link
 supply.chain.link
 support.chain.link
@@ -193,7 +197,3 @@ ws.dataengine.chain.link
 ws.testnet-dataengine.chain.link
 wstesting.dataengine.chain.link
 www.chain.link
-www.careers.chain.link
-xpn-test.chain.link
-zh.chain.link
-zh.docs.chain.link

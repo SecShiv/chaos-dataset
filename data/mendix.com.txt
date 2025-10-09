@@ -18,6 +18,7 @@
 *.buildserver-nonprod-4-eu-central-1.mendix.com
 *.buildserver-prod-1-eu-west-1.mendix.com
 *.buildserver-prod-2-eu-central-1.mendix.com
+*.cloudai.dev.mendix.com
 *.databroker.rnd.mendix.com
 *.datahub.api.mendix.com
 *.datahub.dev.api.mendix.com
@@ -240,6 +241,7 @@ cloud.dev.mendix.com
 cloud.home.mendix.com
 cloud.home.dev.mendix.com
 cloud.test.mendix.com
+cloudai.dev.mendix.com
 coffee-loki.bdt.rnd.mendix.com
 coffee-prometheus.bdt.rnd.mendix.com
 community.mendix.com
@@ -566,6 +568,7 @@ preview.gp-platform-demo.deploy.rnd.mendix.com
 preview.gp-temp-cluster.deploy.rnd.mendix.com
 preview.oregon.deploy.rnd.mendix.com
 preview.test.api.mendix.com
+prism.cloudai.mendix.com
 private-cloud.accp.api.mendix.com
 private-cloud.api.mendix.com
 private-cloud.dev.api.mendix.com
@@ -794,7 +797,3 @@ www.sbctest.mendix.com
 www.sslvpn.mendix.com
 www.tls-check.mendix.com
 www.video.mendix.com
-www.videoshare.mendix.com
-www.wifi.mendix.com
-xcelerator.docs.mendix.com
-yevgen.mxassist.rnd.mendix.com

@@ -16,6 +16,7 @@
 *.apps.euw-8.palantirfoundry.com
 *.apps.mec-1.palantirfoundry.com
 *.apps.usw-1-dev.palantirfoundry.com
+*.apps.usw-16.palantirfoundry.com
 *.apps.usw-17.palantirfoundry.com
 *.apps.usw-19.palantirfoundry.com
 *.apps.usw-2-dev.palantirfoundry.com
@@ -140,6 +141,7 @@
 *.jdpower.palantirfoundry.com
 *.kiewit.palantirfoundry.com
 *.kitmanlabs.palantirfoundry.com
+*.ksia.palantirfoundry.com
 *.ksoe.palantirfoundry.com
 *.kt.palantirfoundry.com
 *.kuronekoyamato.palantirfoundry.com
@@ -452,6 +454,7 @@ apps.euw-12.palantirfoundry.com
 apps.euw-8.palantirfoundry.com
 apps.mec-1.palantirfoundry.com
 apps.usw-1-dev.palantirfoundry.com
+apps.usw-16.palantirfoundry.com
 apps.usw-17.palantirfoundry.com
 apps.usw-19.palantirfoundry.com
 apps.usw-2-dev.palantirfoundry.com
@@ -1000,6 +1003,9 @@ conehealth.palantirfoundry.com
 connectivity.palantirfoundry.com
 consilium-sandbox.palantirfoundry.com
 constructionpartners.palantirfoundry.com
+consumer-a.palantirfoundry.com
+consumer-b.palantirfoundry.com
+consumer-c.palantirfoundry.com
 containers-alim.palantirfoundry.com
 containers-andesite.palantirfoundry.com
 containers-arenal.palantirfoundry.com
@@ -1024,6 +1030,7 @@ containers-kivu.palantirfoundry.com
 containers-kluane.palantirfoundry.com
 containers-marimba.palantirfoundry.com
 containers-mauler.palantirfoundry.com
+containers-mixite.palantirfoundry.com
 containers-pedestal.palantirfoundry.com
 containers-perlite.palantirfoundry.com
 containers-piano.palantirfoundry.com
@@ -1203,6 +1210,7 @@ demand-forecasting.palantirfoundry.com
 demeter.palantirfoundry.com
 den-bootcamp1.palantirfoundry.com
 denasus.palantirfoundry.com
+dent.palantirfoundry.com
 denver-lab.palantirfoundry.com
 deprem.palantirfoundry.com
 descriptive-watershed.palantirfoundry.com
@@ -1303,6 +1311,7 @@ dsum-demo.palantirfoundry.com
 dtc.palantirfoundry.com
 dtn.palantirfoundry.com
 dtn-development.palantirfoundry.com
+dtn-internal.palantirfoundry.com
 dtn-production.palantirfoundry.com
 dtn-staging.palantirfoundry.com
 dtn-training.palantirfoundry.com
@@ -1855,6 +1864,7 @@ jawbreaker.palantirfoundry.com
 jcich.palantirfoundry.com
 jdamisch-ares.palantirfoundry.com
 jdpower.palantirfoundry.com
+jdpower-training.palantirfoundry.com
 jetsam.palantirfoundry.com
 jewel.palantirfoundry.com
 jhuapl.palantirfoundry.com
@@ -1949,6 +1959,7 @@ kpmg-demo.palantirfoundry.com
 kpmg-sandbox.palantirfoundry.com
 kraushamdani.palantirfoundry.com
 ks-rwd.palantirfoundry.com
+ksia.palantirfoundry.com
 ksoe.palantirfoundry.com
 kstamedien.palantirfoundry.com
 kt.palantirfoundry.com
@@ -2158,6 +2169,8 @@ mintchip.palantirfoundry.com
 minty.palantirfoundry.com
 mitsubishicorp.palantirfoundry.com
 mitten.palantirfoundry.com
+mixite-compute.palantirfoundry.com
+mixite-container-registry.palantirfoundry.com
 mlindustries.palantirfoundry.com
 mm.palantirfoundry.com
 mnbtcmp.palantirfoundry.com
@@ -2263,6 +2276,7 @@ niolo-containers.palantirfoundry.com
 nissan.palantirfoundry.com
 nissansandbox.palantirfoundry.com
 nix.palantirfoundry.com
+njr.palantirfoundry.com
 nmbootcamp.palantirfoundry.com
 nnfoundata-sandbox.palantirfoundry.com
 no-bootcamp.palantirfoundry.com
@@ -2460,6 +2474,7 @@ peregrine.palantirfoundry.com
 perigord.palantirfoundry.com
 perlite.palantirfoundry.com
 perlite-compute.palantirfoundry.com
+perlite-container-registry.palantirfoundry.com
 perlite-containers.palantirfoundry.com
 petunia.palantirfoundry.com
 petunia-compute.palantirfoundry.com
@@ -2507,6 +2522,7 @@ plascred.palantirfoundry.com
 playful-railroad.palantirfoundry.com
 plein.palantirfoundry.com
 plenitude.palantirfoundry.com
+plexuscorp.palantirfoundry.com
 plume.palantirfoundry.com
 plume-compute.palantirfoundry.com
 plume-container-registry.palantirfoundry.com
@@ -2703,6 +2719,7 @@ robin.palantirfoundry.com
 robusta.palantirfoundry.com
 rochegroup.palantirfoundry.com
 rocheusa.palantirfoundry.com
+rocklineindustries.palantirfoundry.com
 rockwellautomation.palantirfoundry.com
 roivant.palantirfoundry.com
 rolandberger-us.palantirfoundry.com
@@ -2824,6 +2841,7 @@ shift4.palantirfoundry.com
 shiinternational.palantirfoundry.com
 shipley.palantirfoundry.com
 shoparc.palantirfoundry.com
+shuguang.palantirfoundry.com
 si.palantirfoundry.com
 sia.palantirfoundry.com
 sibyl.palantirfoundry.com
@@ -2871,6 +2889,7 @@ smartinego.palantirfoundry.com
 smartup-sandbox.palantirfoundry.com
 smashville.palantirfoundry.com
 smenergy.palantirfoundry.com
+smith-nephew.palantirfoundry.com
 snc.palantirfoundry.com
 snl.palantirfoundry.com
 snowball.palantirfoundry.com
@@ -3018,6 +3037,7 @@ tarant.palantirfoundry.com
 tart.palantirfoundry.com
 tascsense.palantirfoundry.com
 tatami.palantirfoundry.com
+tc.palantirfoundry.com
 tcenergy.palantirfoundry.com
 tch.palantirfoundry.com
 tcs-sandbox.palantirfoundry.com
@@ -3172,6 +3192,7 @@ ucla.palantirfoundry.com
 uclahealth.palantirfoundry.com
 ufpi.palantirfoundry.com
 ufpindustries.palantirfoundry.com
+uhs-deprecated.palantirfoundry.com
 ukretail.palantirfoundry.com
 umbra.palantirfoundry.com
 unit8.palantirfoundry.com

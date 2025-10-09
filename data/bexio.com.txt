@@ -43,6 +43,7 @@
 *.sabin-fid.bru.dev.bexio.com
 *.sales.bru.dev.bexio.com
 *.sparrow.bru.dev.bexio.com
+*.teamfe.bru.dev.bexio.com
 *.tls-2.zrh.dev.bexio.com
 *.toni-kong.bru.dev.bexio.com
 *.toni-nfs.bru.dev.bexio.com
@@ -349,6 +350,7 @@ admin.second-level-1.bexio-dev.gcp.bexio.com
 admin.second-level-2.bexio-dev.gcp.bexio.com
 admin.second-level-3.bexio-dev.gcp.bexio.com
 admin.sedw.bru.dev.bexio.com
+admin.sidevault.bru.dev.bexio.com
 admin.sre-10527.bexio-dev.gcp.bexio.com
 admin.sre-11178.bexio-dev.gcp.bexio.com
 admin.sre-5167.bexio-dev.gcp.bexio.com
@@ -755,6 +757,7 @@ api.second-level-1.bexio-dev.gcp.bexio.com
 api.second-level-2.bexio-dev.gcp.bexio.com
 api.second-level-3.bexio-dev.gcp.bexio.com
 api.sedw.bru.dev.bexio.com
+api.sidevault.bru.dev.bexio.com
 api.sre-10527.bexio-dev.gcp.bexio.com
 api.sre-11178.bexio-dev.gcp.bexio.com
 api.sre-5167.bexio-dev.gcp.bexio.com
@@ -1152,6 +1155,7 @@ assets.second-level-1.bexio-dev.gcp.bexio.com
 assets.second-level-2.bexio-dev.gcp.bexio.com
 assets.second-level-3.bexio-dev.gcp.bexio.com
 assets.sedw.bru.dev.bexio.com
+assets.sidevault.bru.dev.bexio.com
 assets.sre-10527.bexio-dev.gcp.bexio.com
 assets.sre-11178.bexio-dev.gcp.bexio.com
 assets.sre-5167.bexio-dev.gcp.bexio.com
@@ -1406,6 +1410,7 @@ auth.scala.bru.dev.bexio.com
 auth.schaufi.bru.dev.bexio.com
 auth.second-level-1.bexio-dev.gcp.bexio.com
 auth.sedw.bru.dev.bexio.com
+auth.sidevault.bru.dev.bexio.com
 auth.sre-troubleshoot.bru.dev.bexio.com
 auth.sre11704.bru.dev.bexio.com
 auth.sre12483.bru.dev.bexio.com
@@ -1755,6 +1760,7 @@ banking.second-level-1.bexio-dev.gcp.bexio.com
 banking.second-level-2.bexio-dev.gcp.bexio.com
 banking.second-level-3.bexio-dev.gcp.bexio.com
 banking.sedw.bru.dev.bexio.com
+banking.sidevault.bru.dev.bexio.com
 banking.sre-10527.bexio-dev.gcp.bexio.com
 banking.sre-11178.bexio-dev.gcp.bexio.com
 banking.sre-5167.bexio-dev.gcp.bexio.com
@@ -2147,6 +2153,7 @@ billing.second-level-1.bexio-dev.gcp.bexio.com
 billing.second-level-2.bexio-dev.gcp.bexio.com
 billing.second-level-3.bexio-dev.gcp.bexio.com
 billing.sedw.bru.dev.bexio.com
+billing.sidevault.bru.dev.bexio.com
 billing.sre-10527.bexio-dev.gcp.bexio.com
 billing.sre-11178.bexio-dev.gcp.bexio.com
 billing.sre-5167.bexio-dev.gcp.bexio.com
@@ -2511,6 +2518,7 @@ cockpit.second-level-1.bexio-dev.gcp.bexio.com
 cockpit.second-level-2.bexio-dev.gcp.bexio.com
 cockpit.second-level-3.bexio-dev.gcp.bexio.com
 cockpit.sedw.bru.dev.bexio.com
+cockpit.sidevault.bru.dev.bexio.com
 cockpit.sre-10527.bexio-dev.gcp.bexio.com
 cockpit.sre-11178.bexio-dev.gcp.bexio.com
 cockpit.sre-accounting.bexio-dev.gcp.bexio.com
@@ -2883,6 +2891,7 @@ db-admin.second-level-1.bexio-dev.gcp.bexio.com
 db-admin.second-level-2.bexio-dev.gcp.bexio.com
 db-admin.second-level-3.bexio-dev.gcp.bexio.com
 db-admin.sedw.bru.dev.bexio.com
+db-admin.sidevault.bru.dev.bexio.com
 db-admin.sre-10527.bexio-dev.gcp.bexio.com
 db-admin.sre-11178.bexio-dev.gcp.bexio.com
 db-admin.sre-5167.bexio-dev.gcp.bexio.com
@@ -3298,6 +3307,7 @@ developer.second-level-1.bexio-dev.gcp.bexio.com
 developer.second-level-2.bexio-dev.gcp.bexio.com
 developer.second-level-3.bexio-dev.gcp.bexio.com
 developer.sedw.bru.dev.bexio.com
+developer.sidevault.bru.dev.bexio.com
 developer.sre-10527.bexio-dev.gcp.bexio.com
 developer.sre-11178.bexio-dev.gcp.bexio.com
 developer.sre-5167.bexio-dev.gcp.bexio.com
@@ -3910,6 +3920,7 @@ documentdesigner.second-level-1.bexio-dev.gcp.bexio.com
 documentdesigner.second-level-2.bexio-dev.gcp.bexio.com
 documentdesigner.second-level-3.bexio-dev.gcp.bexio.com
 documentdesigner.sedw.bru.dev.bexio.com
+documentdesigner.sidevault.bru.dev.bexio.com
 documentdesigner.sre-10527.bexio-dev.gcp.bexio.com
 documentdesigner.sre-11178.bexio-dev.gcp.bexio.com
 documentdesigner.sre-5167.bexio-dev.gcp.bexio.com
@@ -4330,6 +4341,7 @@ idp.second-level-1.bexio-dev.gcp.bexio.com
 idp.second-level-2.bexio-dev.gcp.bexio.com
 idp.second-level-3.bexio-dev.gcp.bexio.com
 idp.sedw.bru.dev.bexio.com
+idp.sidevault.bru.dev.bexio.com
 idp.sre-10527.bexio-dev.gcp.bexio.com
 idp.sre-11178.bexio-dev.gcp.bexio.com
 idp.sre-5167.bexio-dev.gcp.bexio.com
@@ -4624,6 +4636,7 @@ indagia.scala.bru.dev.bexio.com
 indagia.schaufi.bru.dev.bexio.com
 indagia.second-level-1.bexio-dev.gcp.bexio.com
 indagia.sedw.bru.dev.bexio.com
+indagia.sidevault.bru.dev.bexio.com
 indagia.sre-11178.bexio-dev.gcp.bexio.com
 indagia.sre-dev.bexio-dev.gcp.bexio.com
 indagia.sre-troubleshoot.bru.dev.bexio.com
@@ -4990,6 +5003,7 @@ lead.second-level-1.bexio-dev.gcp.bexio.com
 lead.second-level-2.bexio-dev.gcp.bexio.com
 lead.second-level-3.bexio-dev.gcp.bexio.com
 lead.sedw.bru.dev.bexio.com
+lead.sidevault.bru.dev.bexio.com
 lead.sre-10527.bexio-dev.gcp.bexio.com
 lead.sre-11178.bexio-dev.gcp.bexio.com
 lead.sre-5167.bexio-dev.gcp.bexio.com
@@ -5374,6 +5388,7 @@ logout.second-level-1.bexio-dev.gcp.bexio.com
 logout.second-level-2.bexio-dev.gcp.bexio.com
 logout.second-level-3.bexio-dev.gcp.bexio.com
 logout.sedw.bru.dev.bexio.com
+logout.sidevault.bru.dev.bexio.com
 logout.sre-10527.bexio-dev.gcp.bexio.com
 logout.sre-11178.bexio-dev.gcp.bexio.com
 logout.sre-5167.bexio-dev.gcp.bexio.com
@@ -5753,6 +5768,7 @@ mail.second-level-1.bexio-dev.gcp.bexio.com
 mail.second-level-2.bexio-dev.gcp.bexio.com
 mail.second-level-3.bexio-dev.gcp.bexio.com
 mail.sedw.bru.dev.bexio.com
+mail.sidevault.bru.dev.bexio.com
 mail.sre-10527.bexio-dev.gcp.bexio.com
 mail.sre-11178.bexio-dev.gcp.bexio.com
 mail.sre-5167.bexio-dev.gcp.bexio.com
@@ -6157,6 +6173,7 @@ my.second-level-1.bexio-dev.gcp.bexio.com
 my.second-level-2.bexio-dev.gcp.bexio.com
 my.second-level-3.bexio-dev.gcp.bexio.com
 my.sedw.bru.dev.bexio.com
+my.sidevault.bru.dev.bexio.com
 my.sre-10527.bexio-dev.gcp.bexio.com
 my.sre-11178.bexio-dev.gcp.bexio.com
 my.sre-5167.bexio-dev.gcp.bexio.com
@@ -6542,6 +6559,7 @@ network.second-level-1.bexio-dev.gcp.bexio.com
 network.second-level-2.bexio-dev.gcp.bexio.com
 network.second-level-3.bexio-dev.gcp.bexio.com
 network.sedw.bru.dev.bexio.com
+network.sidevault.bru.dev.bexio.com
 network.sre-10527.bexio-dev.gcp.bexio.com
 network.sre-11178.bexio-dev.gcp.bexio.com
 network.sre-5167.bexio-dev.gcp.bexio.com
@@ -6940,6 +6958,7 @@ office.second-level-1.bexio-dev.gcp.bexio.com
 office.second-level-2.bexio-dev.gcp.bexio.com
 office.second-level-3.bexio-dev.gcp.bexio.com
 office.sedw.bru.dev.bexio.com
+office.sidevault.bru.dev.bexio.com
 office.sre-10527.bexio-dev.gcp.bexio.com
 office.sre-11178.bexio-dev.gcp.bexio.com
 office.sre-5167.bexio-dev.gcp.bexio.com
@@ -7338,6 +7357,7 @@ portal.second-level-1.bexio-dev.gcp.bexio.com
 portal.second-level-2.bexio-dev.gcp.bexio.com
 portal.second-level-3.bexio-dev.gcp.bexio.com
 portal.sedw.bru.dev.bexio.com
+portal.sidevault.bru.dev.bexio.com
 portal.sre-10527.bexio-dev.gcp.bexio.com
 portal.sre-11178.bexio-dev.gcp.bexio.com
 portal.sre-5167.bexio-dev.gcp.bexio.com
@@ -7668,6 +7688,7 @@ static.scala-test.bru.dev.bexio.com
 static.scala.bru.dev.bexio.com
 static.schaufi.bru.dev.bexio.com
 static.sedw.bru.dev.bexio.com
+static.sidevault.bru.dev.bexio.com
 static.sre-troubleshoot.bru.dev.bexio.com
 static.sre11704.bru.dev.bexio.com
 static.sre12483.bru.dev.bexio.com
@@ -7806,6 +7827,7 @@ www.sabinp.bru.dev.bexio.com
 www.sales-5.bru.dev.bexio.com
 www.sales-6.bru.dev.bexio.com
 www.scala.bru.dev.bexio.com
+www.sidevault.bru.dev.bexio.com
 www.sre12483.bru.dev.bexio.com
 www.staging.bexio.com
 www.subscription-team-dev.bru.dev.bexio.com

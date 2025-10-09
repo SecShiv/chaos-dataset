@@ -174,6 +174,7 @@
 *.appstream2.ap-southeast-2.aws.amazon.com
 *.appstream2.ca-central-1.aws.amazon.com
 *.appstream2.eu-central-1.aws.amazon.com
+*.appstream2.eu-south-1.aws.amazon.com
 *.appstream2.eu-south-2.aws.amazon.com
 *.appstream2.eu-west-1.aws.amazon.com
 *.appstream2.eu-west-2.aws.amazon.com
@@ -15504,6 +15505,7 @@ aero-standard-testing-17.amazon.com
 aero-standard-testing-19.amazon.com
 aero-standard-testing-20.amazon.com
 aero-standard-testing-201.amazon.com
+aero-standard-testing-202.amazon.com
 aero-standard-testing-203.amazon.com
 aero-standard-testing-204.amazon.com
 aero-standard-testing-205.amazon.com
@@ -18007,6 +18009,7 @@ api.cell1.beta.us-east-1.opsconsole.rds.amazon.com
 api.cell1.gamma.ap-northeast-1.opsconsole.rds.amazon.com
 api.cell1.gamma.ap-northeast-2.opsconsole.rds.amazon.com
 api.cell1.gamma.ap-northeast-3.opsconsole.rds.amazon.com
+api.cell1.gamma.ap-southeast-1.opsconsole.rds.amazon.com
 api.cell1.gamma.ca-central-1.opsconsole.rds.amazon.com
 api.cn-north-1.quicksight.aws.amazon.com
 api.cn-northwest-1.quicksight.aws.amazon.com
@@ -18322,6 +18325,7 @@ appstream2.ap-southeast-2.aws.amazon.com
 appstream2.ca-central-1.aws.amazon.com
 appstream2.eu-central-1.aws.amazon.com
 appstream2.eu-central-1.cname-proxy.amazon.com
+appstream2.eu-south-1.aws.amazon.com
 appstream2.eu-south-2.aws.amazon.com
 appstream2.eu-west-1.aws.amazon.com
 appstream2.eu-west-2.aws.amazon.com
@@ -18478,6 +18482,7 @@ ar-tron-hmiservice-na-iad.iad.proxy.amazon.com
 ar-tron-hmiservice-na-jlb-iad.iad.proxy.amazon.com
 ar-tron-hmiservice-onebox-iad.iad.proxy.amazon.com
 ar.beta.amazon.com
+ar.cupid-na.idprism-auth.amazon.com
 ara.amazon.com
 ara-eu.amazon.com
 ara-fe.amazon.com
@@ -20248,6 +20253,7 @@ aws-console-platform-proxy-integ.aka.mxp.amazon.com
 aws-console-platform-proxy-integ.aka.ruh.amazon.com
 aws-console-platform-proxy-integ.aka.scl.amazon.com
 aws-console-platform-proxy-integ.aka.sfo.amazon.com
+aws-console-platform-proxy-integ.aka.sin.amazon.com
 aws-console-platform-proxy-integ.aka.syd.amazon.com
 aws-console-platform-proxy-integ.aka.tpe.amazon.com
 aws-console-platform-proxy-integ.aka.yul.amazon.com
@@ -20271,6 +20277,7 @@ aws-console-platform-proxy-preprod.aka.mdw.amazon.com
 aws-console-platform-proxy-preprod.aka.mel.amazon.com
 aws-console-platform-proxy-preprod.aka.mxp.amazon.com
 aws-console-platform-proxy-preprod.aka.ruh.amazon.com
+aws-console-platform-proxy-preprod.aka.sin.amazon.com
 aws-console-platform-proxy-preprod.aka.tlv.amazon.com
 aws-console-platform-proxy-preprod.aka.yul.amazon.com
 aws-console-platform-proxy-preprod.aka.yyc.amazon.com
@@ -20296,6 +20303,7 @@ aws-console-proxy-integ-jlb.mxp.amazon.com
 aws-console-proxy-integ-jlb.ruh.amazon.com
 aws-console-proxy-integ-jlb.scl.amazon.com
 aws-console-proxy-integ-jlb.sfo.amazon.com
+aws-console-proxy-integ-jlb.sin.amazon.com
 aws-console-proxy-integ-jlb.syd.amazon.com
 aws-console-proxy-integ-jlb.tpe.amazon.com
 aws-console-proxy-integ-jlb.yul.amazon.com
@@ -20317,6 +20325,7 @@ aws-console-proxy-integ.mxp.amazon.com
 aws-console-proxy-integ.ruh.amazon.com
 aws-console-proxy-integ.scl.amazon.com
 aws-console-proxy-integ.sfo.amazon.com
+aws-console-proxy-integ.sin.amazon.com
 aws-console-proxy-integ.syd.amazon.com
 aws-console-proxy-integ.tpe.amazon.com
 aws-console-proxy-integ.yul.amazon.com
@@ -20340,6 +20349,7 @@ aws-console-proxy-preprod-jlb.mdw.amazon.com
 aws-console-proxy-preprod-jlb.mel.amazon.com
 aws-console-proxy-preprod-jlb.mxp.amazon.com
 aws-console-proxy-preprod-jlb.ruh.amazon.com
+aws-console-proxy-preprod-jlb.sin.amazon.com
 aws-console-proxy-preprod-jlb.tlv.amazon.com
 aws-console-proxy-preprod-jlb.yul.amazon.com
 aws-console-proxy-preprod-jlb.yyc.amazon.com
@@ -20364,6 +20374,7 @@ aws-console-proxy-preprod.mel.amazon.com
 aws-console-proxy-preprod.mxp.amazon.com
 aws-console-proxy-preprod.osu.amazon.com
 aws-console-proxy-preprod.ruh.amazon.com
+aws-console-proxy-preprod.sin.amazon.com
 aws-console-proxy-preprod.tlv.amazon.com
 aws-console-proxy-preprod.yul.amazon.com
 aws-console-proxy-preprod.yyc.amazon.com
@@ -39192,6 +39203,7 @@ journal-prod-common-1-prodfabric.journal.qro.amazon.com
 journal-prod-common-1-prodfabric.journal.ruh.amazon.com
 journal-prod-common-1-prodfabric.journal.scl.amazon.com
 journal-prod-common-1-prodfabric.journal.sfo.amazon.com
+journal-prod-common-1-prodfabric.journal.sin.amazon.com
 journal-prod-common-1-prodfabric.journal.syd.amazon.com
 journal-prod-common-1-prodfabric.journal.tlv.amazon.com
 journal-prod-common-1-prodfabric.journal.yyc.amazon.com
@@ -39613,6 +39625,7 @@ kedion-na.amazon.com
 keenrah1.us-east-1.sso.operatornet.aws.amazon.com
 kelbonite-na.amazon.com
 kelio-amzl-test.corp.amazon.com
+kelio-amzl.corp.amazon.com
 kelio-morocco-test.corp.amazon.com
 kelio-morocco.corp.amazon.com
 kelio-test.corp.amazon.com
@@ -40274,6 +40287,7 @@ lbcapacitator.tlv.amazon.com
 lbcapacitator.zaz.amazon.com
 lbcapacitator.zrh.amazon.com
 lbdashboard.amazon.com
+lbdashboard-akl.aka.amazon.com
 lbdashboard-arn.aka.amazon.com
 lbdashboard-bah.aka.amazon.com
 lbdashboard-bjs.amazon.com
@@ -46248,6 +46262,7 @@ origin-pbcentral-us.amazon.com
 origin-pharmacy.amazon.com
 origin-physicalstoretech.amazon.com
 origin-pitangui.amazon.com
+origin-podiumedgeservice-eu-south-2-preprod.amazon.com
 origin-prime-dock.amazon.com
 origin-read.amazon.com
 origin-relay.amazon.com
@@ -48178,6 +48193,7 @@ podium-engagement-na.amazon.com
 podium-engagement-preprod-na.amazon.com
 podiumedgeservice.amazon.com
 podiumedgeservice-eu.amazon.com
+podiumedgeservice-eu-south-2-preprod.amazon.com
 podiumedgeservice-preprod.amazon.com
 podiumedgeservice-zaz.amazon.com
 podiumedgeservice-zaz-test.amazon.com
@@ -49368,6 +49384,7 @@ rampconsole-jlb-iad.iad.proxy.amazon.com
 rampconsole-jlb.corp.amazon.com
 rampconsole.corp.amazon.com
 rampidentity-bff-alpha.integ.amazon.com
+rampidentity-bff-beta.integ.amazon.com
 ramptaxinfobff-alpha.integ.amazon.com
 ramptemplatebff-alpha.integ.amazon.com
 rampuicommonsservice-alpha.integ.amazon.com
@@ -50899,6 +50916,7 @@ ryachen-simba.aka.amazon.com
 ryandelexpress.corp.amazon.com
 ryanruan-ap-east-1.beta.signer.console-api.aws-dev.amazon.com
 ryanruan-us-east-1.beta.signer.console-api.aws-dev.amazon.com
+ryanruan-us-west-2.beta.api-proxy.aws-dev.amazon.com
 ryanruan-us-west-2.beta.signer.console-api.aws-dev.amazon.com
 ryanyhu-1.beta.mcp.music.amazon.com
 ryanyhu.beta.mcp.music.amazon.com
@@ -51514,6 +51532,8 @@ salsa-preview-console.us-west-2.aws.amazon.com
 saltks-ui-beta.corp.amazon.com
 saltks.corp.amazon.com
 saltlakeci-console.ap-northeast-1.aws.amazon.com
+salvamj-testcsr.amazon.com
+salvamjcsr.amazon.com
 sam-d-loadb-1rxbj94delm37-d33c067ab4e39f89.elb.us-west-2.amazon.com
 sam-photon.aka.amazon.com
 sam-trb-nadev.aka.amazon.com
@@ -57880,6 +57900,8 @@ transportation-taxonomy-pdx.aka.amazon.com
 transportation-taxonomy-pek-beta.aka.amazon.com
 transportation-taxonomy-pek-gamma.aka.amazon.com
 transportation-taxonomy-pek.aka.amazon.com
+transportation-taxonomy-zaz-gamma.aka.amazon.com
+transportation-taxonomy-zaz.aka.amazon.com
 transportationportal.amazon.com
 transshipment.amazon.com
 transshipment-eu.amazon.com

@@ -2250,9 +2250,12 @@ datadrop-service.aus.k8s.indeed.tech
 datadrop-service.cmhprod1.k8s.indeed.tech
 datadrop-service.cmhprod2.k8s.indeed.tech
 datadrop-service.cmhprod3.k8s.indeed.tech
+dataplat-genai-core.data.indeed.tech
+dataplat-genai-core.data.awscmh5.k8s.indeed.tech
 dataplat-genai-core.data.qa.indeed.tech
 dataplat-genai-core.data.qa.awscmhqa4.k8s.indeed.tech
 dataplat-genai-core.data.qa.us-east-2.indeed.tech
+dataplat-genai-core.data.us-east-2.indeed.tech
 datastream-validation-jetstream.aus.k8s.indeed.tech
 datastream-validation-jetstream.awscmhstage.k8s.indeed.tech
 datastream-validation-jetstream.cmhprod1.k8s.indeed.tech
@@ -10214,6 +10217,7 @@ translation.cmhqa3.k8s.indeed.tech
 translation.qa.k8s.indeed.tech
 trino-dev.aws.indeed.tech
 trino-gateway-stage.aws.indeed.tech
+trino-interactive-us-east-2c.aws.indeed.tech
 trino-interactive.aws.indeed.tech
 trino-performancetests.aws.indeed.tech
 trino-sandbox.awscmhinfra3.k8s.indeed.tech
@@ -10222,6 +10226,8 @@ trino-stage.aws.indeed.tech
 trino-stage2.aws.indeed.tech
 trino.gateway.stage.indeed.tech
 trino.interactive.indeed.tech
+trino.interactive-us-east-2b.indeed.tech
+trino.interactive-us-east-2c.indeed.tech
 trino.stage.indeed.tech
 trino.stage-us-east-2b.indeed.tech
 trino.stage-us-east-2c.indeed.tech
@@ -10678,6 +10684,7 @@ vespa-content5-tss.awsdub2.k8s.indeed.tech
 vespa-content5-tss.awsfra1.k8s.indeed.tech
 vespa-content5-tss.awsnrt3.k8s.indeed.tech
 vespa-content5-tss.awspdx2.k8s.indeed.tech
+vespa-content5-tss.awssyd2.k8s.indeed.tech
 vespa-content5-tss.awsyul2.k8s.indeed.tech
 vespa-feed-elp.awscmh5.k8s.indeed.tech
 vespa-feed-elp.awscmhqa4.k8s.indeed.tech
@@ -10795,6 +10802,8 @@ vortex-kfu.awscmhqa4.k8s.indeed.tech
 vortex-mdp-feature-builder-experimental.awscmh6.k8s.indeed.tech
 vortex-mdp-mvc.awscmh5.k8s.indeed.tech
 vortex-mdp-mvc.awscmhqa4.k8s.indeed.tech
+vortex-mdp-offline-syncer.awscmh6.k8s.indeed.tech
+vortex-mdp-offline-syncer.awscmhqa5.k8s.indeed.tech
 vortex-mdp-online-integration-syncer-ldap.awscmhqa4.k8s.indeed.tech
 vortex-mdp-online-integration-syncer-saml.awscmhqa4.k8s.indeed.tech
 vortex-mdp-online-integration-syncer.awscmhqa4.k8s.indeed.tech

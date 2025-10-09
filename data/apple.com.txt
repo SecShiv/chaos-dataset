@@ -10474,6 +10474,7 @@ ap-tempo-api-prod.bswe.apple.com
 ap-tempo-api-stg.bswe.apple.com
 apadmin.corp.apple.com
 apappleid-stage-rno.apple.com
+apay-cdp-saf-services.apple.com
 apay-cdp-saf-services-cert.apay.apple.com
 apay-cdp-saf-services.apay.apple.com
 apay-cdp-services.apple.com
@@ -11461,7 +11462,15 @@ appleconnect.corp.apple.com
 appleconnectc.apple.com
 applecore.apple.com
 applecore-api.apple.com
+applecrm.apple.com
+applecrm-pbz-msc.apple.com
+applecrm-pbz-msc.spbz.apple.com
+applecrm-pbz-rno.apple.com
+applecrm-pbz-rno.spbz.apple.com
+applecrm-pbz.corp.apple.com
 applecrm-prod.apple.com
+applecrm-stage.corp.apple.com
+applecrm.corp.apple.com
 applecustchatit.apple.com
 applecustchatuat.apple.com
 appledirectory.apple.com
@@ -13340,6 +13349,8 @@ carry-hawk-aeuw1a.smoot.apple.com
 carry-hawk-aeuw1b.smoot.apple.com
 carry-hawk-ausw2a.smoot.apple.com
 carry-hawk-ausw2b.smoot.apple.com
+carry-hawk-ci-ausw2a.smoot.apple.com
+carry-hawk-ci.smoot.apple.com
 carry-hawk.smoot.apple.com
 carry-hk02.siri.apple.com
 carry-hk12.siri.apple.com
@@ -17040,6 +17051,9 @@ feeds.itunes.apple.com
 feeds.music.apple.com
 feeds.tv.apple.com
 festival.itunes.apple.com
+fetch-gateway-ext-pbz-green.apple.com
+fetch-gateway-ext-pbz-green.awuse1.spbz.apple.com
+fetch-gateway-ext-pbz-green.awusw2.spbz.apple.com
 ffloresca4.apple.com
 fides-carry-rd04.siri.apple.com
 fides-carry.siri.apple.com
@@ -19962,6 +19976,7 @@ gsp57-ssl-e1283.ls.apple.com
 gsp57-ssl-e1300.ls.apple.com
 gsp57-ssl-e1301.ls.apple.com
 gsp57-ssl-e1326.ls.apple.com
+gsp57-ssl-e1344-gs01.ls.apple.com
 gsp57-ssl-e1344.ls.apple.com
 gsp57-ssl-e1356.ls.apple.com
 gsp57-ssl-e1357.ls.apple.com
@@ -24149,6 +24164,7 @@ linear-b-rlprod.tv.apple.com
 linear-b-syn.itunes.apple.com
 linear-b-syn.tv.apple.com
 linear-fa-b-har-preprod.tv.apple.com
+linear-fa-b-har-prod-b.tv.apple.com
 linear-fa-b-har.tv.apple.com
 linear-fa-b-har2.tv.apple.com
 linear-fa-b-har3.tv.apple.com
@@ -24158,6 +24174,7 @@ linear-fa-b-har6.tv.apple.com
 linear-fa-b-imt.tv.apple.com
 linear-fa-b-rlprod.tv.apple.com
 linear-fa-p-har-preprod.tv.apple.com
+linear-fa-p-har-prod-b.tv.apple.com
 linear-fa-p-har.tv.apple.com
 linear-fa-p-har2.tv.apple.com
 linear-fa-p-har3.tv.apple.com
@@ -24723,6 +24740,7 @@ ma-wwdrkit-prod.apple.com
 ma-xcard-k-it2-mdn.apple.com
 ma-zephyr-public-prod.apple.com
 ma.ltz.trace.ops.apple.com
+ma.mkd.trace.ops.apple.com
 ma0103c-dhcp105.apple.com
 ma1-aaemail-dr-lapp01.apple.com
 ma1-aaemail-dr-lapp02.apple.com
@@ -25884,6 +25902,7 @@ mfg58.apple.com
 mfg6.apple.com
 mfg60.apple.com
 mfg62.apple.com
+mfg62.insight.apple.com
 mfg63.apple.com
 mfg63.insight.apple.com
 mfg64.apple.com
@@ -26746,6 +26765,7 @@ msbadger20107.apple.com
 msc-aatcportal.apple.com
 msc-api-caracal-prod-dc-msa.apple.com
 msc-api-caracal-stage-dc-msa.apple.com
+msc-applecrm.corp.apple.com
 msc-assistedsales-prod-mesa.apple.com
 msc-atlc-prod.apple.com
 msc-b2bedi-a.apple.com
@@ -26967,8 +26987,10 @@ mwp1-usw2.ls.apple.com
 mwp1.ls.apple.com
 mwp11-2-ms11.ls.apple.com
 mwp11-2-st14.ls.apple.com
+mwp11-kr.ls.apple.com
 mwp11-ms11-rf3.ls.apple.com
 mwp11-pv50.ls.apple.com
+mwp11-sl61.ls.apple.com
 mwp11-ssl.ls.apple.com
 mwp11-st14-rf3.ls.apple.com
 mwp11-sy02-rf3.ls.apple.com
@@ -31002,6 +31024,7 @@ prod-use1-pod01-peerpayment.apay.apple.com
 prod-use1-pod01-smp-device.apay.apple.com
 prod-use1-pod01-trustprovider.apay.apple.com
 prod-use1-pod01-tsm.apay.apple.com
+prod-use1-pod08-apay-device-ccs.apay.apple.com
 prod-use1-pod08-apple-pay-gateway.apay.apple.com
 prod-use1-pod08-broker.apay.apple.com
 prod-use1-pod08-creditservices.apay.apple.com
@@ -31056,6 +31079,7 @@ prod-use1-pod12-apay-device-ccs.apay.apple.com
 prod-use1-pod12-apple-pay-gateway.apay.apple.com
 prod-use1-pod12-broker.apay.apple.com
 prod-use1-pod12-creditservices.apay.apple.com
+prod-use1-pod12-merchantservices.apay.apple.com
 prod-use1-pod12-navigator.apay.apple.com
 prod-use1-pod12-partnerservice.apay.apple.com
 prod-use1-pod12-paymentservice.apay.apple.com
@@ -31075,6 +31099,7 @@ prod-usw2-pod01-peerpayment.apay.apple.com
 prod-usw2-pod01-smp-device.apay.apple.com
 prod-usw2-pod01-trustprovider.apay.apple.com
 prod-usw2-pod01-tsm.apay.apple.com
+prod-usw2-pod08-apay-device-ccs.apay.apple.com
 prod-usw2-pod08-apple-pay-gateway.apay.apple.com
 prod-usw2-pod08-broker.apay.apple.com
 prod-usw2-pod08-creditservices.apay.apple.com
@@ -31132,6 +31157,7 @@ prod-usw2-pod12-navigator.apay.apple.com
 prod-usw2-pod12-partnerservice.apay.apple.com
 prod-usw2-pod12-paymentservice.apay.apple.com
 prod-usw2-pod12-peerpayment.apay.apple.com
+prod-usw2-pod12-serviceprovider.apay.apple.com
 prod-usw2-pod12-smp-device.apay.apple.com
 prod-usw2-pod12-trustprovider.apay.apple.com
 prod-usw2-pod12-tsm.apay.apple.com
@@ -31266,6 +31292,7 @@ psi.dashboard.iso.apple.com
 pst-mulesoft.apple.com
 pst-mulesoft-dev2.apple.com
 pst-mulesoft-test.apple.com
+pst.corp.apple.com
 ptlis2-swupd.euro.apple.com
 pttest.apple.com
 pubapi.iad.apple.com
@@ -33402,6 +33429,7 @@ rn1-noodle-prod.apple.com
 rn1-ogcportal-ext-prod.apple.com
 rn1-privftpt-lapp02.rno.apple.com
 rn1-stg-aquila.apple.com
+rn2-applecrm.rno.apple.com
 rn2-aquarium-rno.apple.com
 rn2-aquila.apple.com
 rn2-assistedsales-prod-rno.apple.com

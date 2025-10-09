@@ -649,6 +649,7 @@
 *.merlin.comcast.com
 *.merlin-eks-dev-b.r53dev.merlin.comcast.com
 *.mes.comcast.com
+*.mesa.comcast.com
 *.metricsapi.ebi.comcast.com
 *.mf.comcast.com
 *.mno.comcast.com
@@ -8629,6 +8630,7 @@ bhingest-wc-01p.cable.comcast.com
 bhs.cmc.cable.comcast.com
 bigfixdb-po-a1s.cable.comcast.com
 bigiq.gslb2.comcast.com
+bill-testing-application.dev.np.salesx.comcast.com
 billingaccountcredits.comcast.com
 billingaccountcredits-dr.comcast.com
 billingaccountcredits-qa.comcast.com
@@ -16136,6 +16138,7 @@ configman-preprod-tb.gslb2.comcast.com
 configservertestservice.comcast.com
 configservice-1p.gslb2.comcast.com
 confluence.csv.comcast.com
+confluencemetrics-backend.comcast.com
 confweb-as-01p.cable.comcast.com
 confweb-ho-01p.cable.comcast.com
 conn-preprod-tb.gslb2.comcast.com
@@ -21144,6 +21147,7 @@ e5439680a8f5b.bcdv-ve.central.comcast.com
 e5439680a9acd.bcdv-ve.central.comcast.com
 e5439680a9fab.bcdv-ve.central.comcast.com
 eac.comcast.com
+eac-assets.comcast.com
 eac-preprod.comcast.com
 eac.api.developer-portal.comcast.com
 eadjustment.comcast.com
@@ -42367,10 +42371,12 @@ oad-p.gslb2.comcast.com
 oam-s.gslb4.comcast.com
 oam-stg.cable.comcast.com
 oap.cable.comcast.com
+oas.comcast.com
 oasdev.comcast.com
 oasdr.comcast.com
 oasis.comcast.com
 oasis.cable.comcast.com
+oasprod.comcast.com
 obd-pdc-rc.cable.comcast.com
 obd-pdc.cable.comcast.com
 obi-ch2-1p.slb.comcast.com
@@ -52444,6 +52450,8 @@ psimpson4.cable.comcast.com
 psimpson5.cable.comcast.com
 psimpson6.cable.comcast.com
 psirt.comcast.com
+psirt-qa.serina.comcast.com
+psirt-test.serina.comcast.com
 pskb-ccp-ame-prd-vip.cable.comcast.com
 pskb-ccp-amw-prd-vip.cable.comcast.com
 pskb-ccp-as-prd-vip.cable.comcast.com
@@ -53157,6 +53165,7 @@ qa02.snp.comcast.com
 qa2.np.existingcustomer.business.comcast.com
 qa2.np.fxbuyflow.business.comcast.com
 qa2.np.salesx.business.comcast.com
+qa2.serina.comcast.com
 qa3-f5.comcast.com
 qa4-rlsync01.cable.comcast.com
 qa4-rlsync02.cable.comcast.com
@@ -53520,6 +53529,7 @@ quickquote-g.fxbuyflow.business.comcast.com
 quickquote-ue1.fxbuyflow.business.comcast.com
 quickquote-uw2.fxbuyflow.business.comcast.com
 r-activecore.comcast.com
+r-pca.stg.5goss.comcast.com
 r.activecore.comcast.com
 r360-uat-b-snapshot.cable.comcast.com
 r360-uat-b.cable.comcast.com
@@ -60080,6 +60090,7 @@ testingcvp5.comcast.com
 testingdemo06.comcast.com
 testinglocust.comcast.com
 testingnow.comcast.com
+testingplanner.comcast.com
 testingportal.comcast.com
 testingtodaybizops1.comcast.com
 testingvacttest.comcast.com
@@ -67285,6 +67296,10 @@ wvdcch-ho-2-con.cable.comcast.com
 wvdcch-ho-3-con.cable.comcast.com
 wvdcch-ho-4-con.cable.comcast.com
 wvdcch-ho-vip.cable.comcast.com
+wvdcch-po-2-con.cable.comcast.com
+wvdcch-po-3-con.cable.comcast.com
+wvdcch-po-vip.cable.comcast.com
+wvdch-po-1-con.cable.comcast.com
 wvdcstr-ho-0.cable.comcast.com
 wvdcstr-ho-01-vip.cable.comcast.com
 wvdcstr-ho-1.cable.comcast.com
@@ -70597,6 +70612,3 @@ zstsvc-wc-1p.slb.comcast.com
 zstsvc-wc-1q.slb.comcast.com
 zstsvc-wc-1s.slb.comcast.com
 zwestapi.cable.comcast.com
-zz-aaron.comcast.com
-zz-jim.slb.comcast.com
-zzz3.sb3http.gumby.comcast.com
