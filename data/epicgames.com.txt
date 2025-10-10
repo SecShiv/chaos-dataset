@@ -306,6 +306,9 @@
 *.store-dev.on.epicgames.com
 *.store.on.epicgames.com
 *.substrate.on.epicgames.com
+*.svc.gamedev.fngw.ol.epicgames.com
+*.svc.live.fngw.ol.epicgames.com
+*.svc.prod.fngw.ol.epicgames.com
 *.team-dev-portal.bebe.dev.use1a.on.epicgames.com
 *.team-epicenter.bbbd.dev.use1a.on.epicgames.com
 *.team-player-exp.dcef.dev.use1a.on.epicgames.com
@@ -1072,6 +1075,7 @@ artpipeline-jenkins.artpipeline-dev.it.epicgames.com
 artportal.epicgames.com
 asiavpn.epicgames.com
 aurochs-ci.dcaf.dev.use1a.on.epicgames.com
+aurochs-dev-steevsachs.dcaf.dev.use1a.on.epicgames.com
 aurochs-dev-timvandijk.dcaf.dev.use1a.on.epicgames.com
 aurochs-gamedev.dcaf.dev.use1a.on.epicgames.com
 aurochs-prod.eeef.live.use1a.on.epicgames.com
@@ -4364,6 +4368,7 @@ party-service-prod-shard-3.ccec.live.use1a.on.epicgames.com
 party-service-prod.ak.epicgames.com
 party-service-prod.ol.epicgames.com
 party-service-prod.social.live.on.epicgames.com
+pass.stage.afdb.dev.use1a.on.epicgames.com
 payment-website-pci.faeb.live.use1a.on.epicgames.com
 payment-website-pci.ol.epicgames.com
 payment-website-prod.ol.epicgames.com
@@ -4433,6 +4438,7 @@ presence-public-service-stage.social.dev.on.epicgames.com
 priceengine-public-service-ecomprod01.ol.epicgames.com
 priceengine-public-service-prod-m.ol.epicgames.com
 priceengine-public-service-prod.ak.epicgames.com
+private-media.fab-public.ci.cceb.dev.use1a.on.epicgames.com
 prm-dialogue-public-api-prod.ak.epicgames.com
 prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com
 prod-config-querier.infosec.on.epicgames.com
@@ -4752,7 +4758,10 @@ sumoassist.ceee.dev.use1a.on.epicgames.com
 sumoassist.deee.live.use1a.on.epicgames.com
 sumoassist.on.epicgames.com
 sv10-speed-test.coreinfra.it.epicgames.com
+svc.gamedev.fngw.ol.epicgames.com
+svc.live.fngw.ol.epicgames.com
 svc.livefn.global.fngw.ol.epicgames.com
+svc.prod.fngw.ol.epicgames.com
 svcnat2.epicgames.com
 swe-metrics.it-entapps-dev.epicgames.com
 sword-service-prod.ol.epicgames.com
@@ -5091,3 +5100,6 @@ zephyr.prod.adad.live.use1a.on.epicgames.com
 zephyr.stage.adda.dev.use1a.on.epicgames.com
 zero-to-one-epic-app-lb.fbed.dev.use1a.on.epicgames.com
 zero-to-one-uap.fbed.dev.use1a.on.epicgames.com
+zero-to-one.fbed.dev.use1a.on.epicgames.com
+zone.gs.epicgames.com
+zreaper-service-prod.adad.live.use1a.on.epicgames.com
