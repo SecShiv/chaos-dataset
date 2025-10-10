@@ -41,6 +41,7 @@ a.add-featurestore-web.gateway.tti-cancun.tomtomgroup.com
 a.auth-config-change.gateway.tti-cancun.tomtomgroup.com
 a.cancun-4849-cancun-pro.gateway.tti-cancun.tomtomgroup.com
 a.cancun-4931-apis-by-te.gateway.tti-cancun.tomtomgroup.com
+a.cancun-4996-voice-endp.gateway.tti-cancun.tomtomgroup.com
 a.conference-policy-traf.gateway.tti-cancun.tomtomgroup.com
 a.dev.gateway.tti-cancun.tomtomgroup.com
 a.gateway.tti-cancun.tomtomgroup.com
@@ -560,6 +561,7 @@ b.add-featurestore-web.gateway.tti-cancun.tomtomgroup.com
 b.auth-config-change.gateway.tti-cancun.tomtomgroup.com
 b.cancun-4849-cancun-pro.gateway.tti-cancun.tomtomgroup.com
 b.cancun-4931-apis-by-te.gateway.tti-cancun.tomtomgroup.com
+b.cancun-4996-voice-endp.gateway.tti-cancun.tomtomgroup.com
 b.conference-policy-traf.gateway.tti-cancun.tomtomgroup.com
 b.dev.gateway.tti-cancun.tomtomgroup.com
 b.gateway.tti-cancun.tomtomgroup.com
@@ -750,6 +752,7 @@ c.add-featurestore-web.gateway.tti-cancun.tomtomgroup.com
 c.auth-config-change.gateway.tti-cancun.tomtomgroup.com
 c.cancun-4849-cancun-pro.gateway.tti-cancun.tomtomgroup.com
 c.cancun-4931-apis-by-te.gateway.tti-cancun.tomtomgroup.com
+c.cancun-4996-voice-endp.gateway.tti-cancun.tomtomgroup.com
 c.conference-policy-traf.gateway.tti-cancun.tomtomgroup.com
 c.dev.gateway.tti-cancun.tomtomgroup.com
 c.gateway.tti-cancun.tomtomgroup.com
@@ -1749,8 +1752,10 @@ cancun-4979-ai-traffic-control.dev.tti-cancun.tomtomgroup.com
 cancun-4982-add-dark-theme-col.dev.tti-cancun.tomtomgroup.com
 cancun-4984-change-all-colors.dev.tti-cancun.tomtomgroup.com
 cancun-4988-chat-for-taia.dev.tti-cancun.tomtomgroup.com
+cancun-4990-ai-chat-style.dev.tti-cancun.tomtomgroup.com
 cancun-4990-map-widgets.dev.tti-cancun.tomtomgroup.com
 cancun-4994-rm-output.dev.tti-cancun.tomtomgroup.com
+cancun-4996-voice-endp.gateway.tti-cancun.tomtomgroup.com
 cancun-999-dependabot-package.dev.tti-cancun.tomtomgroup.com
 cancun-9999-add-more-underdeve.dev.tti-cancun.tomtomgroup.com
 cancun-9999-dseg-bhm-link-to-l.dev.tti-cancun.tomtomgroup.com
@@ -2171,6 +2176,7 @@ d.add-featurestore-web.gateway.tti-cancun.tomtomgroup.com
 d.auth-config-change.gateway.tti-cancun.tomtomgroup.com
 d.cancun-4849-cancun-pro.gateway.tti-cancun.tomtomgroup.com
 d.cancun-4931-apis-by-te.gateway.tti-cancun.tomtomgroup.com
+d.cancun-4996-voice-endp.gateway.tti-cancun.tomtomgroup.com
 d.conference-policy-traf.gateway.tti-cancun.tomtomgroup.com
 d.dev.gateway.tti-cancun.tomtomgroup.com
 d.gateway.tti-cancun.tomtomgroup.com
@@ -2924,6 +2930,7 @@ fix-zindex-for-resize-handles.dev.tti-cancun.tomtomgroup.com
 fixcustomline.dev.tti-cancun.tomtomgroup.com
 fixuserabortedrequesterrors.dev.tti-cancun.tomtomgroup.com
 fixwayattribute.dev.tti-cancun.tomtomgroup.com
+flat-events.dev.tti-cancun.tomtomgroup.com
 floating-windows-on-restoring.dev.tti-cancun.tomtomgroup.com
 flyte-dev.allspark.tomtomgroup.com
 flyte.allspark.tomtomgroup.com
@@ -2948,6 +2955,7 @@ fn0b82-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn0b82-westeurope-prom.ngs-dev.tomtomgroup.com
 fn12b8-koreacentral-alert.ngs-dev.tomtomgroup.com
 fn12b8-koreacentral-grafana.ngs-dev.tomtomgroup.com
+fn12b8-westeurope-alert.ngs-dev.tomtomgroup.com
 fn12b8-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn12b8-westeurope-prom.ngs-dev.tomtomgroup.com
 fn1413-koreacentral-alert.ngs-dev.tomtomgroup.com
@@ -3133,6 +3141,8 @@ fnc4ed-westeurope.ngs-dev.tomtomgroup.com
 fnc69f-westeurope-alert.ngs-dev.tomtomgroup.com
 fnc69f-westeurope-grafana.ngs-dev.tomtomgroup.com
 fnc69f-westeurope-prom.ngs-dev.tomtomgroup.com
+fnc9f6-koreacentral-prom.ngs-dev.tomtomgroup.com
+fnc9f6-koreacentral.ngs-dev.tomtomgroup.com
 fncbe7-koreacentral-alert.ngs-dev.tomtomgroup.com
 fncbe7-koreacentral-grafana.ngs-dev.tomtomgroup.com
 fncbe7-koreacentral-prom.ngs-dev.tomtomgroup.com
@@ -4335,6 +4345,7 @@ luxon-update.dev.tti-cancun.tomtomgroup.com
 m-broken-ui-panel-outside-usa.dev.tti-cancun.tomtomgroup.com
 m-cppsp-dev2.t.t.aws-eu-west-1.cmr.tomtomgroup.com
 m-geoservers-urls.gateway.tti-cancun.tomtomgroup.com
+macos-arc-github-webhook.macos.gha-prod.tomtomgroup.com
 macos-runners-dashboard.macos.gha-prod.tomtomgroup.com
 magnus-alertmanager.sre-dev.tomtomgroup.com
 magnus-grafana.sre-dev.tomtomgroup.com
@@ -4987,6 +4998,7 @@ pancakes.dev.ssu.tomtomgroup.com
 pancakes.sec.ad.tomtomgroup.com
 pancakes.ssu.tomtomgroup.com
 pano-web-gl-fix.dev.tti-cancun.tomtomgroup.com
+panoptes.prod.adas.tomtomgroup.com
 panorama.tomtomgroup.com
 panorama-eu-west-1.tomtomgroup.com
 panorama-viewer-https.dev.tti-cancun.tomtomgroup.com
@@ -5312,6 +5324,7 @@ quasar-4553.dev.tti-cancun.tomtomgroup.com
 quasar-4554.dev.tti-cancun.tomtomgroup.com
 quasar-4556.dev.tti-cancun.tomtomgroup.com
 quasar-4557.dev.tti-cancun.tomtomgroup.com
+quasar-4571.dev.tti-cancun.tomtomgroup.com
 quepid.tomtomgroup.com
 quickbuild.tomtomgroup.com
 quickbuild-dev.tomtomgroup.com
@@ -6978,5 +6991,3 @@ yktst4-westeurope-alert.ngs-dev.tomtomgroup.com
 yktst4-westeurope-grafana.ngs-dev.tomtomgroup.com
 yktst4-westeurope-prom.ngs-dev.tomtomgroup.com
 yktst4-westeurope.ngs-dev.tomtomgroup.com
-yum.tomtomgroup.com
-zipsip.tomtomgroup.com

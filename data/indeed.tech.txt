@@ -1311,6 +1311,12 @@ bcsadapt.cmhprod2.k8s.indeed.tech
 bcsadapt.cmhprod3.k8s.indeed.tech
 bcsadapt.cmhstage.k8s.indeed.tech
 be4142538e789842dbbb86c9c07b8190.loom-inference.awscmh5.k8s.indeed.tech
+beacon.data.indeed.tech
+beacon.data.awscmh5.k8s.indeed.tech
+beacon.data.qa.indeed.tech
+beacon.data.qa.awscmhqa4.k8s.indeed.tech
+beacon.data.qa.us-east-2.indeed.tech
+beacon.data.us-east-2.indeed.tech
 beaker-cmhprod.cmhprod1.k8s.indeed.tech
 beaker-staging-cmhprod1.cmhprod1.k8s.indeed.tech
 beaker-staging.aus.k8s.indeed.tech
@@ -3386,6 +3392,7 @@ flex-matching-api-uk.qa.indeed.tech
 flex-matching-api-us.indeed.tech
 flex-matching-api-us.qa.indeed.tech
 flex-matching-api.qa.indeed.tech
+flex-ml-model-kit--aru-model.indeed.tech
 flex-ml-model-kit--candidate-scoring-model-evaluator.indeed.tech
 flex-ml-model-kit--candidate-scoring-model-evaluator-qa.indeed.tech
 flex-ml-model-kit--flex-agent-evaluation.indeed.tech
@@ -6138,6 +6145,13 @@ metadata.butterfly.qa.indeed.tech
 metastore.qa.indeed.tech
 metis.indeed.tech
 metis.qa.indeed.tech
+metric-library-service.indeed.tech
+metric-library-service.awscmh4.k8s.indeed.tech
+metric-library-service.awscmh5.k8s.indeed.tech
+metric-library-service.qa.indeed.tech
+metric-library-service.qa.awscmh4.k8s.indeed.tech
+metric-library-service.qa.us-east-2.indeed.tech
+metric-library-service.us-east-2.indeed.tech
 metrics-reporter.aus.k8s.indeed.tech
 metrics-reporter.cmh.k8s.indeed.tech
 metrics-reporter.cmhprod1.k8s.indeed.tech

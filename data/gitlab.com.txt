@@ -428,6 +428,7 @@ go.link.pkghashbytes.gitlab.com
 gprd.gitlab.com
 grafana.amp.cells.gitlab.com
 grafana.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
+grafana.us-east1.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
 groove.gitlab.com
 gslink.gitlab.com
 gstg.gitlab.com
@@ -435,6 +436,7 @@ handbook.gitlab.com
 host.gitlab.com
 hub.gitlab.com
 incoming.gitlab.com
+infra-roadmap.gitlab.com
 internal.gitlab.com
 ir.gitlab.com
 jitsu-configurator.product-analytics.prototype.gitlab.com
@@ -444,6 +446,7 @@ kas.gitlab.com
 kas.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
 kas.pre.gitlab.com
 kas.staging.gitlab.com
+kas.us-east1.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
 kas1.pre.gitlab.com
 lb-teleport.gprd.gitlab.com
 lb-teleport.gstg.gitlab.com
@@ -470,6 +473,8 @@ next.staging.gitlab.com
 o1.ptr3386.mx.gitlab.com
 observe.gitlab.com
 observe.staging.gitlab.com
+opensearch.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
+opensearch.us-east1.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
 packages.gitlab.com
 packages.staging.gitlab.com
 page.gitlab.com
@@ -504,6 +509,7 @@ registry.gke.staging.gitlab.com
 registry.pre.gitlab.com
 registry.staging.gitlab.com
 registry.staging-ref.gitlab.com
+registry.us-east1.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
 rewards.gitlab.com
 rocketchat.gitlab.com
 runners-cache-1.gitlab.com
@@ -545,6 +551,7 @@ triage-ops.gitlab.com
 triage-serverless.gitlab.com
 trust.gitlab.com
 university.gitlab.com
+us-east1.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
 usagestats.gitlab.com
 usagestats.staging.gitlab.com
 version.gitlab.com

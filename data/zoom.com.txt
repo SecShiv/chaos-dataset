@@ -33,10 +33,12 @@ alpha-nifi.sbx.sml.corp.zoom.com
 alpha-nifi.sml.corp.zoom.com
 alpha-test-inner.sbx.sml.corp.zoom.com
 alpha-test.sbx.sml.corp.zoom.com
+anomalydetection.bizapps.corp.zoom.com
 ap-northeast-1.api.cfp.ops.corp.zoom.com
 ap-south-1.api.cfp.ops.corp.zoom.com
 ap-south-2.api.cfp.ops.corp.zoom.com
 ap-southeast-1.api.cfp.ops.corp.zoom.com
+api.anomalydetection.bizapps.corp.zoom.com
 api.apps.tvm.corp.zoom.com
 api.nonprod-01.rebooter.ops.corp.zoom.com
 argus-zfg2search.sbx.sml.corp.zoom.com
@@ -182,6 +184,8 @@ beta-test-inner.sbx.sml.corp.zoom.com
 beta-test.sbx.sml.corp.zoom.com
 bigeye-agent.zoomdt.corp.zoom.com
 blackhole.vault.ops.corp.zoom.com
+blue.global.csms.ops.corp.zoom.com
+blue.go.csms.ops.corp.zoom.com
 brand.zoom.com
 bridge01-itinfra.zoom.com
 caldav.zoom.com
@@ -215,10 +219,14 @@ cloudverification.corp.zoom.com
 colo-argocd.ops.corp.zoom.com
 community.zoom.com
 community-staging.gss.corp.zoom.com
+console.global.csms.ops.corp.zoom.com
+console.go.csms.ops.corp.zoom.com
 corp.zoom.com
+csms.ops.corp.zoom.com
 cube-config-eu02.zoom.com
 cube-config-sa01.zoom.com
 cube-config-uk01.zoom.com
+cube-config-uk01.corp.zoom.com
 cube-config-us01.zoom.com
 cube-site-us01.zoom.com
 data-api.zoomdt.corp.zoom.com
@@ -311,7 +319,9 @@ gitaly05.git.dev.corp.zoom.com
 global-zcp-eng-private-mongod-vm-1.corp.zoom.com
 global-zcp-eng-private-mongod-vm-2.corp.zoom.com
 global-zcp-eng-private-mongod-vm-3.corp.zoom.com
+global.csms.ops.corp.zoom.com
 go-red.zev.ops.corp.zoom.com
+go.csms.ops.corp.zoom.com
 go.zev.ops.corp.zoom.com
 gocci2.ops.corp.zoom.com
 gocpw1.ops.corp.zoom.com
@@ -328,6 +338,8 @@ gozp1.ops.corp.zoom.com
 gozva1.ops.corp.zoom.com
 gozva2.ops.corp.zoom.com
 grafana.go.zp.corp.zoom.com
+green.global.csms.ops.corp.zoom.com
+green.go.csms.ops.corp.zoom.com
 green.prod.gtw.pki.corp.zoom.com
 green.stg.gtw.pki.corp.zoom.com
 gwatch-agent.asde.corp.zoom.com
@@ -481,6 +493,8 @@ portal.apps.tvm.corp.zoom.com
 preview.zoom.com
 prism.zoom.com
 prism.cloud.zoom.com
+process.global.csms.ops.corp.zoom.com
+process.go.csms.ops.corp.zoom.com
 prod-01-eks.vault.ops.corp.zoom.com
 prod-01-internal.vault.ops.corp.zoom.com
 prod-01.vault.ops.corp.zoom.com
@@ -523,6 +537,8 @@ promdv.ops.corp.zoom.com
 promsjc.ops.corp.zoom.com
 realtime.docs.git.ops.sc.corp.zoom.com
 rebooter.ops.corp.zoom.com
+red.global.csms.ops.corp.zoom.com
+red.go.csms.ops.corp.zoom.com
 rootcause.zoom.com
 rtmscubee2e.corp.zoom.com
 rumion-01-internal.vault.ops.corp.zoom.com

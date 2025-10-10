@@ -47,6 +47,7 @@
 *.k8s.spin-a.cnap-am4.intranet.rws.nl
 *.k8s.spin-p.cnap-am2.intranet.rws.nl
 *.k8s.spin-p.cnap-am4.intranet.rws.nl
+*.k8s.spin.cnap-am2.intranet.rws.nl
 *.k8s.sugarcrm.cnap-am2.intranet.rws.nl
 *.k8s.svm-admin.cnap-am4.intranet.rws.nl
 *.k8s.svm-alkmaar.cnap-am4.intranet.rws.nl
@@ -84,6 +85,7 @@
 *.k8s.wm-test.cnap-am2.intranet.rws.nl
 *.k8s.wm-tooling.cnap-am4.intranet.rws.nl
 *.k8s2.cnap-test.cnap-am2.intranet.rws.nl
+*.ngx.spin.cnap-am2.intranet.rws.nl
 *.ngx.wm-tab.cnap-am4.intranet.rws.nl
 *.ngx.wm-test.cnap-am2.intranet.rws.nl
 *.pages-dev.dev.at.rws.nl
@@ -211,6 +213,7 @@ activemq.mtm2-redesign.test.vm-04.azure.grid.rws.nl
 ad.rws.nl
 adigid.fam.rws.nl
 admin.rws.nl
+admin-maestro.svm.rws.nl
 admin.sps-acceptatie.intranet.rws.nl
 admin.sps-test.intranet.rws.nl
 admin.sps.intranet.rws.nl
@@ -244,6 +247,7 @@ asign.fam.rws.nl
 asign.openam.rws.nl
 at.rws.nl
 atkubeje.dev.at.rws.nl
+auth-maestro.svm.rws.nl
 auth.grid.rws.nl
 auth.vm-02.azure.grid.rws.nl
 autodiscover.rws.nl
@@ -563,6 +567,7 @@ lyncpool02.rws.nl
 lyncweb-ext.rws.nl
 mail.rws.nl
 maps.rws.nl
+maps-maestro.svm.rws.nl
 mars.rws.nl
 mars2.ptp.acc-inloggen.rws.nl
 mars2.ptp.inloggen.rws.nl
@@ -876,6 +881,14 @@ prd.static.intranet.rws.nl
 preprod.beterbediend.rws.nl
 preprod.iam.rws.nl
 primavera.intranet.rws.nl
+prod-a-admin-maestro.svm.rws.nl
+prod-a-auth-maestro.svm.rws.nl
+prod-a-maps-maestro.svm.rws.nl
+prod-a-viewer-maestro.svm.rws.nl
+prod-b-admin-maestro.svm.rws.nl
+prod-b-auth-maestro.svm.rws.nl
+prod-b-maps-maestro.svm.rws.nl
+prod-b-viewer-maestro.svm.rws.nl
 productie.bbuem.rws.nl
 proef-p8.intranet.rws.nl
 professional.acceptatie.liwo.intranet.rws.nl
@@ -1178,6 +1191,7 @@ vault.at.rws.nl
 vault.dev.at.rws.nl
 vegetatiemonitor.rws.nl
 vergunningen.rws.nl
+viewer-maestro.svm.rws.nl
 vitaal.matroos.rws.nl
 viya.rws.nl
 vm-esb.rws.nl

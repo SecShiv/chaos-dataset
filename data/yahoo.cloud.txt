@@ -569,6 +569,7 @@ prod.msd-compliance.aws.yahoo.cloud
 profile-tee.aolp-ds-dev.aws.yahoo.cloud
 qrs.vespa.sports-prod1-use1.omega.aws.yahoo.cloud
 qrs.vespa.sports-prod1-usw2.omega.aws.yahoo.cloud
+region-api.classifier.identity-gcp-p-compute.gcp.yahoo.cloud
 region-perf.api.oauth.identity-gcp-s-compute.gcp.yahoo.cloud
 region-stage.api.oauth.identity-gcp-s-compute.gcp.yahoo.cloud
 region-trunk.api.oauth.identity-gcp-s-compute.gcp.yahoo.cloud
@@ -620,6 +621,7 @@ sports-prod1-apse1.omega.aws.yahoo.cloud
 sports-prod1-euw1.omega.aws.yahoo.cloud
 sports-prod1-use1.omega.aws.yahoo.cloud
 sports-prod1-usw2.omega.aws.yahoo.cloud
+stage-zts-us-central1.athenz-stage.gcp.yahoo.cloud
 stage.api.classifier.identity-gcp-s-compute.gcp.yahoo.cloud
 stage.compliance-server.msd-compliance.aws.yahoo.cloud
 stage.fe.gdpr.aws.yahoo.cloud
@@ -632,6 +634,7 @@ stg-use1-simon-simonweb.svc.use1.grid-aws-staging.aws.yahoo.cloud
 streamer-v3.finance.aws.yahoo.cloud
 supernova-for-you-dev.news-ml-dev-gcp-use4.gcp.yahoo.cloud
 supernova-for-you-prod.news-ml-prod-gcp-usw1.gcp.yahoo.cloud
+supernova-for-you-stage.news-ml-stage-gcp-use4.gcp.yahoo.cloud
 supernova-recirc-prod.news-ml-prod-gcp-use4.gcp.yahoo.cloud
 supernova-regional.news-ml-dev-gcp-use4.gcp.yahoo.cloud
 supernova-user-dev.news-ml-dev-gcp-use4.gcp.yahoo.cloud
@@ -718,3 +721,4 @@ yamplus-notification.dsp-plus-api-prod.aws.yahoo.cloud
 yc.media-data-gcp-metastore-prd.gcp.yahoo.cloud
 yc.media-data-gcp-metastore-stg.gcp.yahoo.cloud
 ycpi.gcp.yahoo.cloud
+ycpi.ostk.yahoo.cloud

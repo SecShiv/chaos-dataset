@@ -799,6 +799,7 @@
 *.dev.jpmc-corptech.adobecqms.net
 *.dev.jpmc-dam.adobecqms.net
 *.dev.jpmc-docmgmt.adobecqms.net
+*.dev.jpmc-eu.adobecqms.net
 *.dev.jpmc-gs.adobecqms.net
 *.dev.jpmcbankna.adobecqms.net
 *.dev.jti.adobecqms.net
@@ -2586,6 +2587,7 @@
 *.prod.jpmc-corptech.adobecqms.net
 *.prod.jpmc-dam.adobecqms.net
 *.prod.jpmc-docmgmt.adobecqms.net
+*.prod.jpmc-eu.adobecqms.net
 *.prod.jpmc-gs.adobecqms.net
 *.prod.jpmcbankna.adobecqms.net
 *.prod.jrvts.adobecqms.net
@@ -3285,6 +3287,7 @@
 *.qa.jpmc-corptech.adobecqms.net
 *.qa.jpmc-dam.adobecqms.net
 *.qa.jpmc-docmgmt.adobecqms.net
+*.qa.jpmc-eu.adobecqms.net
 *.qa.jpmc-gs.adobecqms.net
 *.qa.jpmcbankna.adobecqms.net
 *.qa.jti.adobecqms.net
@@ -4329,6 +4332,7 @@
 *.stage.jpmc-corptech.adobecqms.net
 *.stage.jpmc-dam.adobecqms.net
 *.stage.jpmc-docmgmt.adobecqms.net
+*.stage.jpmc-eu.adobecqms.net
 *.stage.jpmc-gs.adobecqms.net
 *.stage.jpmcbankna.adobecqms.net
 *.stage.jrvts.adobecqms.net
@@ -17651,3 +17655,6 @@ zdf.adobecqms.net
 zeiss.adobecqms.net
 zeiss-prod65.adobecqms.net
 zeiss-stage65.adobecqms.net
+zeppelin.adobecqms.net
+zeppelin-prod-65.adobecqms.net
+zeppelin-test64.adobecqms.net

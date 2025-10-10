@@ -327,6 +327,7 @@
 *.apps.whatever3.mdtu-ddm.projects.epam.com
 *.apps.xxx-upd-198-1910.mdtu-ddm.projects.epam.com
 *.apps.yb-backup.mdtu-ddm.projects.epam.com
+*.apps.yb-copper.mdtu-ddm.projects.epam.com
 *.apps.yb-dev.mdtu-ddm.projects.epam.com
 *.apps.yb-env.mdtu-ddm.projects.epam.com
 *.apps.yb-gitops.mdtu-ddm.projects.epam.com
@@ -957,6 +958,7 @@
 *.videoportal.epam.com
 *.videoportalqa.epam.com
 *.vkdial.lab.epam.com
+*.vmai.epm-mlsr.projects.epam.com
 *.vmdrdev.epam.com
 *.wlt-edoc.projects.epam.com
 *.wmpr-edp-cicd.wmpr.test.wm.lab.epam.com
@@ -1827,6 +1829,7 @@ api.whatever2.mdtu-ddm.projects.epam.com
 api.whatever3.mdtu-ddm.projects.epam.com
 api.xxx-upd-198-1910.mdtu-ddm.projects.epam.com
 api.yb-backup.mdtu-ddm.projects.epam.com
+api.yb-copper.mdtu-ddm.projects.epam.com
 api.yb-dev.mdtu-ddm.projects.epam.com
 api.yb-env.mdtu-ddm.projects.epam.com
 api.yb-gitops.mdtu-ddm.projects.epam.com
@@ -2192,6 +2195,7 @@ backstage.dev.supernova.telescope.epam.com
 backups.cloud.epam.com
 badger.qa.supernova.telescope.epam.com
 barrelbot.ai-x-a-accelerate.lab.epam.com
+bazaar.epam.com
 bcp-dev.epm-ppa.projects.epam.com
 bcp.epm-ppa.projects.epam.com
 bcp.excerpa.els-rjed.projects.epam.com
@@ -4312,6 +4316,7 @@ grafana.qa.supernova.telescope.epam.com
 grafana8.epm-ppa.projects.epam.com
 grain.lab.epam.com
 granite-8b-api.llm.lab.epam.com
+granite-docling-api.llm.lab.epam.com
 graph.epam.com
 graph-collector-api.connect.epm-plx.projects.epam.com
 graph-collector-api.qa-01.connect.epm-plx.projects.epam.com
@@ -6208,6 +6213,7 @@ qa1.epm-prj.projects.epam.com
 qa16ext.epm-crm.projects.epam.com
 qa2-feedback.epm-rvm.projects.epam.com
 qa2.cloud.epam.com
+qa2.epm-talk.projects.epam.com
 qa2.info.epam.com
 qa2.time.epam.com
 qa3-feedback.epm-rvm.projects.epam.com
@@ -6443,6 +6449,7 @@ secret.epam.com
 secret-santa-lviv.lab.epam.com
 security.wmpr.test.wm.lab.epam.com
 selenium-feedback.epm-rvm.projects.epam.com
+selenium.epm-talk.projects.epam.com
 self-service.app.epam.com
 semantic-search.aida-demo.lab.epam.com
 sentry.sche-conv.projects.epam.com
@@ -7209,6 +7216,7 @@ vivien.future.lab.epam.com
 vivien0.future.lab.epam.com
 vkdial.lab.epam.com
 vladik-learn.epm-tmc.projects.epam.com
+vmai.epm-mlsr.projects.epam.com
 vmdrdev.epam.com
 vmmssp.epam.com
 vmtest.mdtu-ddm.projects.epam.com

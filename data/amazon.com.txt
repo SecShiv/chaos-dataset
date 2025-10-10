@@ -562,6 +562,7 @@
 *.us-east-1-failover.arnsolis.console-alpha.aws-dev.amazon.com
 *.us-east-1-failover.console-gamma.aws-dev.amazon.com
 *.us-east-1-failover.console.aws-dev.amazon.com
+*.us-east-1-failover.eitel.console-alpha.aws-dev.amazon.com
 *.us-east-1-failover.eokpoech.console-alpha.aws-dev.amazon.com
 *.us-east-1-failover.intern.console-alpha.aws-dev.amazon.com
 *.us-east-1-failover.kaanbk.console-alpha.aws-dev.amazon.com
@@ -576,6 +577,7 @@
 *.us-east-1-failover.xinhuli.console-alpha.aws-dev.amazon.com
 *.us-east-1-failover.ybadaya.console-alpha.aws-dev.amazon.com
 *.us-east-1-primary.amanxaws.console-alpha.aws-dev.amazon.com
+*.us-east-1-primary.eitel.console-alpha.aws-dev.amazon.com
 *.us-east-1-primary.johnytm.console-alpha.aws-dev.amazon.com
 *.us-east-1-primary.kaanbk.console-alpha.aws-dev.amazon.com
 *.us-east-1-primary.larslew.console-alpha.aws-dev.amazon.com
@@ -15482,6 +15484,7 @@ aero-standard-niktesting203.amazon.com
 aero-standard-niktesting205.amazon.com
 aero-standard-niktesting207.amazon.com
 aero-standard-niktesting211.amazon.com
+aero-standard-test-1001.amazon.com
 aero-standard-test-101.amazon.com
 aero-standard-test-103.amazon.com
 aero-standard-test-105.amazon.com
@@ -15489,6 +15492,7 @@ aero-standard-test-107.amazon.com
 aero-standard-test-201.amazon.com
 aero-standard-testing.amazon.com
 aero-standard-testing-10.amazon.com
+aero-standard-testing-1001.amazon.com
 aero-standard-testing-1002.amazon.com
 aero-standard-testing-101.amazon.com
 aero-standard-testing-102.amazon.com
@@ -15523,6 +15527,7 @@ aero-standard-vt32.amazon.com
 aero-std-test-103.amazon.com
 aero-std-test-105.amazon.com
 aero-std-test-p0-1001.amazon.com
+aero-std-testing-1001.amazon.com
 aero-std-testing-107.amazon.com
 aero-std-testing-201.amazon.com
 aero-test-prod-p0-201.amazon.com
@@ -18067,9 +18072,11 @@ api.optimus-preprod.aka.amazon.com
 api.podcasters.amazon.com
 api.portal-beta-china.data-deletion.privacy.amazon.com
 api.preprod.signage.amazon.com
+api.prod.aws-ars.oa.mdw.amazon.com
 api.prod.aws-ars.oa.pdt.amazon.com
 api.prod.eu-west-1.panel.amazon.com
 api.prod.us-east-1.panel.amazon.com
+api.prodpreview.aws-ars.oa.mdw.amazon.com
 api.prodpreview.aws-ars.oa.pdt.amazon.com
 api.relay.amazon.com
 api.replica.compass.amazon.com
@@ -20070,6 +20077,7 @@ aws-ars-propagator-pod0-tier1.oa.iad.amazon.com
 aws-ars-snowfort-alpha.corp.amazon.com
 aws-ars-snowfort-beta.corp.amazon.com
 aws-ars.oa.bah.amazon.com
+aws-ars.oa.mdw.amazon.com
 aws-ars.oa.pdt.amazon.com
 aws-ars.oa.tlv.amazon.com
 aws-ars.oa.tlv60.tlv.amazon.com
@@ -26812,6 +26820,7 @@ ddb-mechanic-zeta-us-east-2.aka.corp.amazon.com
 ddb-mechanic-zeta-us-west-2.aka.corp.amazon.com
 ddb-mechanic.corp.amazon.com
 ddb-opsintel-sonarqube.corp.amazon.com
+ddb.api.prod.aws-ars.oa.mdw.amazon.com
 ddb.api.prod.aws-ars.oa.pdt.amazon.com
 ddb.ca-central-1.amazon.com
 ddb.us-west-1.amazon.com
@@ -30369,6 +30378,7 @@ ec2-zuul-publisher-zaz62.zaz.amazon.com
 ec2-zuul-publisher-zrh60.zrh.amazon.com
 ec2-zuul-publisher-zrh61.zrh.amazon.com
 ec2-zuul-publisher-zrh62.zrh.amazon.com
+ec2.api.prod.aws-ars.oa.mdw.amazon.com
 ec2.api.prod.aws-ars.oa.pdt.amazon.com
 ec2bi-reporteditor.amazon.com
 ec2bi-rs-password.amazon.com
@@ -33191,6 +33201,7 @@ fps-reporter-console-gamma-sec-iad.iad.proxy.amazon.com
 fps-sdbx-de.amazon.com
 fps-sdbx-uk.amazon.com
 fps-ui-beta.integ.amazon.com
+fps.api.prod.aws-ars.oa.mdw.amazon.com
 fps.api.prod.aws-ars.oa.pdt.amazon.com
 fpy-alpha.corp.amazon.com
 fpy-pilot.corp.amazon.com
@@ -39065,6 +39076,7 @@ jialt-mico.aka.amazon.com
 jiayxie-1103-v7.amazon.com
 jiayxie-1107-v11.amazon.com
 jiayxie-test-0313-24-v2.thf.amazon.com
+jiayxie-test-0508-25-v2.amazon.com
 jiayxie-test-0707-24-v1.thf.amazon.com
 jiayxie-test-0709-24-v3.amazon.com
 jiayxie-test-0709-24-v7.amazon.com
@@ -40650,6 +40662,7 @@ ldappxy-prod-no-ppv2.iad.corp.amazon.com
 ldappxy-prod-no-ppv2.icn.amazon.com
 ldappxy-prod-no-ppv2.kix.amazon.com
 ldappxy-prod-no-ppv2.lhr.amazon.com
+ldappxy-prod-no-ppv2.mdw.amazon.com
 ldappxy-prod-no-ppv2.mxp.amazon.com
 ldappxy-prod-no-ppv2.nrt.amazon.com
 ldappxy-prod-no-ppv2.nrt.corp.amazon.com
@@ -40667,6 +40680,7 @@ ldappxy-prod-prodlink.bjs.amazon.com
 ldappxy-prod-prodlink.cmh.amazon.com
 ldappxy-prod-prodlink.dub.amazon.com
 ldappxy-prod-prodlink.iad.amazon.com
+ldappxy-prod-prodlink.mdw.amazon.com
 ldappxy-prod-prodlink.nrt.amazon.com
 ldappxy-prod-prodlink.osu.amazon.com
 ldappxy-prod-prodlink.pdt.amazon.com
@@ -43732,6 +43746,7 @@ msa-dub.aka.amazon.com
 msa-pdx.aka.amazon.com
 msa.aka.amazon.com
 msa.integ.amazon.com
+mscis-v3-nl-agency-prod.amazon.com
 mscisv3prod.amazon.com
 msd-fs.corp.amazon.com
 msft.amazon.com
@@ -44867,6 +44882,7 @@ nitchow-pdt-testing2.amazon.com
 nitchow-script-test1.amazon.com
 nitchow-script-test1.amazon.com.amazon.com
 nitchow-testing-autorenew-audit.amazon.com
+nitchow-testing-renew.amazon.com
 nitro-build-grafana.corp.amazon.com
 nix4.amazon.com
 nix4-2.amazon.com
@@ -45965,6 +45981,7 @@ one.amazon.com
 oneboard-beta.corp.amazon.com
 onebox-asap-iad.iad.proxy.amazon.com
 onebox-authoring-marketplace.iad.amazon.com
+onebox.api.prod.aws-ars.oa.mdw.amazon.com
 onebox.api.prod.aws-ars.oa.pdt.amazon.com
 onebox.aws-dogfish.us-east-1.amazon.com
 onebox.dub.merlon.amazon.com
@@ -50363,6 +50380,7 @@ ridr-na-gamma-iad.iad.proxy.amazon.com
 ridr-na-gamma-sbox-iad.iad.proxy.amazon.com
 ridr-na-prod-iad.iad.proxy.amazon.com
 rightcrowd-emea-betav2.corp.amazon.com
+rightcrowdemea-stmp.corp.amazon.com
 ring-asia-ops-opex-bi.corp.amazon.com
 ring-demand-planning-shipping-type.corp.amazon.com
 ring-kibana-gamma.corp.amazon.com
@@ -51190,6 +51208,7 @@ s3-us-gov-west-1-cramps.pdt.amazon.com
 s3-us-west-1-finder.amazon.com
 s3-us-west-2-cramps.amazon.com
 s3-us-west-2-finder.amazon.com
+s3.api.prod.aws-ars.oa.mdw.amazon.com
 s3.api.prod.aws-ars.oa.pdt.amazon.com
 s3.awsc-dev.aws.amazon.com
 s3.awsc-integ.aws.amazon.com
@@ -52053,6 +52072,7 @@ sdb-aa-sfo.sfo.proxy.amazon.com
 sdb-aa-sin.sin.proxy.amazon.com
 sdb-aa-syd.syd.proxy.amazon.com
 sdb-perf2-ssloffload.iad.amazon.com
+sdb.api.prod.aws-ars.oa.mdw.amazon.com
 sdb.api.prod.aws-ars.oa.pdt.amazon.com
 sdc-cgk60-backend.cgk.amazon.com
 sdc-cgk61-backend.cgk.amazon.com
@@ -55106,6 +55126,7 @@ sns-stub-catalyst-migrator-access.kul.amazon.com
 sns-stub-catalyst-migrator-access.thf.amazon.com
 sns-stub-catalyst-migrator-access.tlv.amazon.com
 sns-stub-catalyst-migrator-access.tpe.amazon.com
+sns.api.prod.aws-ars.oa.mdw.amazon.com
 sns.api.prod.aws-ars.oa.pdt.amazon.com
 snscx-tools.aka.amazon.com
 soap.amazon.com
@@ -55643,6 +55664,7 @@ sqs-stub-catalyst-migrator-access.mdw.amazon.com
 sqs-stub-catalyst-migrator-access.tlv.amazon.com
 sqs-stub-catalyst-migrator-access.tpe.amazon.com
 sqs-stub-catalyst-migrator-access.yyc.amazon.com
+sqs.api.prod.aws-ars.oa.mdw.amazon.com
 sqs.api.prod.aws-ars.oa.pdt.amazon.com
 square-off-fe-gamma-jlb-pdx.pdx.proxy.amazon.com
 square-off-fe-pdx.pdx.proxy.amazon.com
@@ -58975,6 +58997,7 @@ us-northeast-1.acm-certificates.amazon.com
 us-northeast-1.aws-signin-testing.amazon.com
 us-northeast-1.beta.acm-certificates.amazon.com
 us-northeast-1.console.aws.amazon.com
+us-northeast-1.lightsail-preprod.aws.amazon.com
 us-northeast-1.lightsail.aws.amazon.com
 us-pre-prod-aw.amazon.com
 us-pre-prod-prepclassification-ui.amazon.com
@@ -60516,6 +60539,7 @@ workspaces.euc-sso.ap-southeast-1.aws.amazon.com
 workspaces.euc-sso.ap-southeast-2.aws.amazon.com
 workspaces.euc-sso.ca-central-1.aws.amazon.com
 workspaces.euc-sso.eu-central-1.aws.amazon.com
+workspaces.euc-sso.eu-south-2.aws.amazon.com
 workspaces.euc-sso.eu-west-1.aws.amazon.com
 workspaces.euc-sso.eu-west-2.aws.amazon.com
 workspaces.euc-sso.eu-west-3.aws.amazon.com

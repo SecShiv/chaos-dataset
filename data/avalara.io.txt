@@ -125,6 +125,7 @@
 *.gamma.qa.us-west-2.aws.avalara.io
 *.gamma.sbx.us-east1.gcp.avalara.io
 *.gamma.sbx.us-west-2.aws.avalara.io
+*.gamma.stg.us-east1.gcp.avalara.io
 *.gamma.stg.us-west-2.aws.avalara.io
 *.grafana.web.avalara.io
 *.grsportalpoc.avalara.io
@@ -352,6 +353,9 @@
 *.zeta.qa.eu-central-1.aws.avalara.io
 *.zeta.sbx.eu-central-1.aws.avalara.io
 *.zeta.stg.eu-central-1.aws.avalara.io
+2260466.avalara.sca.ceplogger.dev.avalara.io
+2260466.avalara.scatest.ceplogger.dev.avalara.io
+2360061.sca.qasuitetax.ceplogger.dev.avalara.io
 7a34ea5d-96a6-43b6-a4c2-67cf0353e8a5.platform.qa.avalara.io
 a15.tcs.ci.avalara.io
 aa.api.dev.avalara.io
@@ -1681,6 +1685,7 @@ restv1-tcs.ci.avalara.io
 restv1.ci.avalara.io
 restv1.development.avalara.io
 restv1.qa.avalara.io
+returns-api.eu.foundation.raas.dev.avalara.io
 returns-devqa.raas.dev.avalara.io
 returns.ci.avalara.io
 returns.pt.avalara.io
@@ -1896,6 +1901,7 @@ tps.avalara.io
 tps.dev.avalara.io
 tps.sbx.avalara.io
 tps.sbx.us-east-1.avalara.io
+tps.stg.avalara.io
 trainingportal.web.avalara.io
 transferpricing.local.avalara.io
 transferpricing.qa.avalara.io
@@ -1914,6 +1920,7 @@ trls.us-east-1.avalara.io
 trls.us-west-2.avalara.io
 trustfile-proxy.studio.avalara.io
 tss.stg.us-west-2.avalara.io
+tstdrv2260466.avalara.sca.ceplogger.dev.avalara.io
 ttr.dev.impendulo.avalara.io
 turtle.web.avalara.io
 typesense.midgard.avalara.io
@@ -2030,4 +2037,3 @@ xbc-api.midgard.stg.avalara.io
 zincron-sbx.midgard.avalara.io
 zincron.midgard.avalara.io
 zincron.midgard.qa.avalara.io
-zincron.midgard.stg.avalara.io

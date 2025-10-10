@@ -241,6 +241,8 @@ infrastructure-engineering.governance.team.kong-goid-revocation-01.staging.gopay
 infrastructure-engineering.governance.team.kong-goid-revocation-02.gopayapi.com
 infrastructure-engineering.governance.team.kong-goid-revocation-02.sandbox.gopayapi.com
 infrastructure-engineering.governance.team.kong-goid-revocation-02.staging.gopayapi.com
+infrastructure-engineering.governance.team.linking.gopayapi.com
+infrastructure-engineering.governance.team.linking.stg.gopayapi.com
 infrastructure-engineering.governance.team.mandiri-proxy-staging.gopayapi.com
 infrastructure-engineering.governance.team.merchant-adapter-gateway1.gopayapi.com
 infrastructure-engineering.governance.team.merchant-adapter-gateway1.staging.gopayapi.com
@@ -330,6 +332,8 @@ kong-goid-revocation-02.sandbox.gopayapi.com
 kong-goid-revocation-02.staging.gopayapi.com
 kyc-ai-agent.gopayapi.com
 label-service.gopayapi.com
+linking.gopayapi.com
+linking.stg.gopayapi.com
 load-changes-public.gopayapi.com
 load-testing.integration.gopayapi.com
 mandiri-proxy-staging.gopayapi.com
@@ -583,5 +587,3 @@ whatsapp.gopayapi.com
 withdrawal.gopayapi.com
 withdrawal-pgw.gopayapi.com
 www.internal.gopayapi.com
-www.internal-stg.gopayapi.com
-www.stg.whatsapp.gopayapi.com
