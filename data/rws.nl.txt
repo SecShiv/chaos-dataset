@@ -6,6 +6,7 @@
 *.apps.hcp01.os-t.rws.nl
 *.apps.hcp03.os-t.rws.nl
 *.apps.hcp04.os-t.rws.nl
+*.apps.hcp08.os-t.rws.nl
 *.apps.hub01.os-t.rws.nl
 *.apps.luuk01.os-t.rws.nl
 *.at.rws.nl
@@ -334,6 +335,8 @@ dataservice.test.liwo.intranet.rws.nl
 ddapi.rws.nl
 ddapi-preprod.rws.nl
 deformatieviewer.rws.nl
+demo-backend-civvv-fcd.fcd.test.vm-04.azure.grid.rws.nl
+demo-frontend.fcd.test.vm-04.azure.grid.rws.nl
 demo-geoservices.rws.nl
 demo-geoservices.intranet.rws.nl
 dev-rancher.at.rws.nl
@@ -518,6 +521,7 @@ kennismaken.rws.nl
 keycloak-acc-admin.vm-02.azure.grid.rws.nl
 keycloak-acc.vm-02.azure.grid.rws.nl
 keycloak-admin.acceptatie.vm-05.azure.grid.rws.nl
+keycloak-admin.vm-02.azure.grid.rws.nl
 keycloak-admin.vm-05.azure.grid.rws.nl
 keycloak-test.vm-02.azure.grid.rws.nl
 keycloak-test2-admin.vm-02.azure.grid.rws.nl
@@ -1007,6 +1011,7 @@ sign.openam.rws.nl
 sip.rws.nl
 sip-lmw.rws.nl
 sip-lmw.ad.rws.nl
+sklearn-iris-kserve-test.taz-kserve.infra-24.azure.grid.rws.nl
 sluisplanning.rws.nl
 smtp.rws.nl
 sonar.cisvm.intranet.rws.nl

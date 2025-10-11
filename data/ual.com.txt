@@ -214,6 +214,7 @@ api.prd.aqc.aws.ual.com
 api.prd.awscloud.ual.com
 api.prd.cug.aws.ual.com
 api.prd.dur.aws.ual.com
+api.prd.epo.aws.ual.com
 api.preprod.aqc.aws.ual.com
 api.preprod.awscloud.ual.com
 api.qa.aqc.aws.ual.com
@@ -256,6 +257,7 @@ apps.pcf.ual.com
 apps.pcfctp.poc.ual.com
 appsync-green.collab.qa.ebi.aws.ual.com
 appsync.collab.qa.ebi.aws.ual.com
+appsync.prd.epo.aws.ual.com
 ard.ual.com
 arthur-auth.dev.bos.aws.ual.com
 arthur-auth.stg.bos.aws.ual.com
@@ -1817,6 +1819,8 @@ srp.global.ual.com
 srpstage.ual.com
 srpstage.global.ual.com
 ssd.ual.com
+ssrportal.ual.com
+ssrportal-appsync.ual.com
 sss.ual.com
 stage.cas.ual.com
 stage.ccweb.ual.com
@@ -2079,6 +2083,7 @@ uatreports.ual.com
 uattax.ual.com
 uauatsuppliers.ual.com
 ubp-qa.ual.com
+ubp.qa.efh.aws.ual.com
 ucaims-iegamerica-dc-prod.ual.com
 ucaims-iegamerica-dc-test.ual.com
 ucbadm.ual.com

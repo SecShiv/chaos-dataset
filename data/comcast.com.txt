@@ -293,6 +293,7 @@
 *.content-poc1-dev.np.digital.business.comcast.com
 *.content.ecom.digital.business.comcast.com
 *.content.ecom.np.digital.business.comcast.com
+*.convergence-secure.np.digital.business.comcast.com
 *.core-api.np.api-business.comcast.com
 *.core-gateway.api-business.comcast.com
 *.core-gateway.np.api-business.comcast.com
@@ -2670,6 +2671,7 @@
 *.uc-sgw.comcast.com
 *.uci.comcast.com
 *.umt.pulse.comcast.com
+*.us-west-2.app.staging.hap.comcast.com
 *.user-management-content-dev.np.digital.business.comcast.com
 *.user-management-content-int.np.digital.business.comcast.com
 *.user-management-content-pqa.np.digital.business.comcast.com
@@ -8712,6 +8714,7 @@ blocklist.securitydashboard.cable.comcast.com
 blog.comcast.com
 blog.g.comcast.com
 blog.pabs.comcast.com
+blue.us-west-2.app.staging.hap.comcast.com
 blue_old.cable.comcast.com
 bluedot.cable.comcast.com
 bluedottest.cable.comcast.com
@@ -29021,6 +29024,7 @@ grdcb-as-01p.cable.comcast.com
 grdcb-as-01v.cable.comcast.com
 grdcb-as-02p.cable.comcast.com
 grdcb-as-03p.cable.comcast.com
+green.us-west-2.app.staging.hap.comcast.com
 greenhorn.vod.comcast.com
 greenstatic.business.comcast.com
 gridwebservice-eu-lbr.merlin.comcast.com
@@ -52550,6 +52554,7 @@ pulse-k8s-ing-ho-cs.gslb4.comcast.com
 pulse-k8s-ing-wc-bp.gslb4.comcast.com
 pulse-oem.gslb2.comcast.com
 pulse.cable.comcast.com
+pulse.designsystem.comcast.com
 puma.gslb2.comcast.com
 pumori-test-vip.cable.comcast.com
 pviwebctrl003.cable.comcast.com
@@ -56735,6 +56740,7 @@ skybell.sv.comcast.com
 skydemo.cf.comcast.com
 skydemo1.cf.comcast.com
 skynet3.cable.comcast.com
+skysports.designsystem.comcast.com
 sl.cable.comcast.com
 slack-ccp-service.comcast.com
 slackdbb-wc-1p.cable.comcast.com
@@ -62060,6 +62066,7 @@ us-west-2-04.mesh.connected.comcast.com
 us-west-2-05.mesh-dev.connected.comcast.com
 us-west-2-05.mesh-stage.connected.comcast.com
 us-west-2-05.mesh.connected.comcast.com
+us-west-2.app.staging.hap.comcast.com
 us-west-2.ds-explore.pulse.comcast.com
 us-west-2.ha-search.splunk.comcast.com
 us-west-2.mesh-dev.connected.comcast.com
@@ -70645,3 +70652,7 @@ zstsvc-stg.comcast.com
 zstsvc-wc-1p.slb.comcast.com
 zstsvc-wc-1q.slb.comcast.com
 zstsvc-wc-1s.slb.comcast.com
+zwestapi.cable.comcast.com
+zz-aaron.comcast.com
+zz-jim.slb.comcast.com
+zzz3.sb3http.gumby.comcast.com

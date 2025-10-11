@@ -763,6 +763,7 @@
 *.fidelius.finra.org
 *.fidelius.dev.finra.org
 *.fidelius.qa.finra.org
+*.fifc.qa.finra.org
 *.files.brokercheck.finra.org
 *.files.brokercheck.dev.finra.org
 *.filex.finra.org
@@ -3681,6 +3682,7 @@ ffour.qa.finra.org
 fidelius.finra.org
 fidelius.dev.finra.org
 fidelius.qa.finra.org
+fifc.qa.finra.org
 files.brokercheck.finra.org
 files.brokercheck.dev.finra.org
 files.brokercheck.qa.finra.org
@@ -6490,5 +6492,3 @@ xfer-aep-qc.finra.org
 yum.awstools.finra.org
 yum.ct.aws.finra.org
 zen.dev.finra.org
-zen.qa.finra.org
-zr53.api.gateway-qaint.qa.finra.org

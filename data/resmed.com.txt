@@ -29,6 +29,7 @@
 _dmarc.resmed.com
 account.resmed.com
 account-dev.resmed.com
+account-sit.resmed.com
 account-test.resmed.com
 account-uat.resmed.com
 accountroc-dev.resmed.com
@@ -87,7 +88,10 @@ apac-prd.fsg.machineservices.resmed.com
 apac-qa.fsg.machineservices.resmed.com
 apac-stg.fsg.machineservices.resmed.com
 api.resmed.com
+api-dev.ai.resmed.com
 api-iir.resmed.com
+api-sit.ai.resmed.com
+api-uat.ai.resmed.com
 api.ai.resmed.com
 api.amrprod.multiviewfacerecon.resmed.com
 api.dev.trust.resmed.com
@@ -135,6 +139,7 @@ autodiscover.resmed.com
 avgweb.resmed.com
 b2baccounts.resmed.com
 b2baccounts-dev.resmed.com
+b2baccounts-sit.resmed.com
 b2baccounts-test.resmed.com
 b2baccounts-uat.resmed.com
 b2baccountsroc.resmed.com
@@ -220,12 +225,15 @@ dev-internal-apim.resmed.com
 dev-internal-data.resmed.com
 dev-learninghub.resmed.com
 dev-mask-sizing-engine.resmed.com
+dev-master.resmed.com
+dev-me.resmed.com
 dev-media.resmed.com
 dev-mfs-machineservices.resmed.com
 dev-nocache-origin.resmed.com
 dev-onlinestore.resmed.com
 dev-portal-suite.devx.resmed.com
 dev-www-origin.resmed.com
+dev.ai.resmed.com
 dev.ccoe.resmed.com
 dev.devx.resmed.com
 dev.trust.resmed.com
@@ -390,6 +398,7 @@ multibrowser.resmed.com
 mx.resmed.com
 myaccess-dev.resmed.com
 myaccount.resmed.com
+myaccount-dev-dit-amr-assets.resmed.com
 myair.resmed.com
 myair2.resmed.com
 myairpulse.resmed.com
@@ -535,6 +544,7 @@ selfiescreener-dev.resmed.com
 service.resmed.com
 service-account-dev.resmed.com
 service-account-test.resmed.com
+service-account-uat.resmed.com
 sfauthdev.resmed.com
 sftp.resmed.com
 shop.resmed.com
@@ -543,12 +553,18 @@ shop-uat.resmed.com
 signature.resmed.com
 signin.resmed.com
 signin-assets.resmed.com
+signin-dev-dit-amr-assets.resmed.com
+signin-dev-fit-amr-assets.resmed.com
+signin-e2e-perf-amr-assets.resmed.com
 signin-e2e-stg-amr.resmed.com
+signin-e2e-stg-amr-assets.resmed.com
 signin-sbx.resmed.com
+signin-sbx-amr-assets.resmed.com
 sip.resmed.com
 sisense.resmed.com
 sisensedev.resmed.com
 sisensetest.resmed.com
+sit.ai.resmed.com
 sleep-login.resmed.com
 sleepinstitute.resmed.com
 sleeppersona.resmed.com
@@ -631,6 +647,7 @@ uat-mon-apac.resmed.com
 uat-mon-eu.resmed.com
 uat-onlinestore.resmed.com
 uat-transfer.resmed.com
+uat.ai.resmed.com
 uat01-airview.resmed.com
 uat2-onlinestore.resmed.com
 uat2-onlinestore.resmed.com.resmed.com
@@ -785,4 +802,3 @@ xms-backend.resmed.com
 xms-dev.resmed.com
 xms-devbackend.resmed.com
 xms-uat.resmed.com
-xms-uatbackend.resmed.com

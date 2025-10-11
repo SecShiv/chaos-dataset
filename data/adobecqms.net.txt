@@ -341,6 +341,7 @@
 *.build.sssd.adobecqms.net
 *.build.statefarm-int.adobecqms.net
 *.build.stryker.adobecqms.net
+*.build.sydneyuni.adobecqms.net
 *.build.t-mobile.adobecqms.net
 *.build.t-mobile-tmus.adobecqms.net
 *.build.tatamotors.adobecqms.net
@@ -675,6 +676,7 @@
 *.dev.elcorteingles.adobecqms.net
 *.dev.emblemhealth.adobecqms.net
 *.dev.enbridge.adobecqms.net
+*.dev.epiroc.adobecqms.net
 *.dev.equitable.adobecqms.net
 *.dev.esteelauder.adobecqms.net
 *.dev.etihad.adobecqms.net
@@ -1010,6 +1012,7 @@
 *.dev.stryker.adobecqms.net
 *.dev.sunlifeassurance.adobecqms.net
 *.dev.swinburne.adobecqms.net
+*.dev.sydneyuni.adobecqms.net
 *.dev.sydneywater.adobecqms.net
 *.dev.synopsys.adobecqms.net
 *.dev.t-mobile.adobecqms.net
@@ -1266,6 +1269,7 @@
 *.dev65.dcu.adobecqms.net
 *.dev65.deltadental.adobecqms.net
 *.dev65.edb.adobecqms.net
+*.dev65.epiroc.adobecqms.net
 *.dev65.galec.adobecqms.net
 *.dev65.grainger.adobecqms.net
 *.dev65.groupelucienbarriere.adobecqms.net
@@ -1372,6 +1376,7 @@
 *.eduhub.adobecqms.net
 *.emblemhealth.adobecqms.net
 *.env2.amzbus.adobecqms.net
+*.epiroc.adobecqms.net
 *.ergonenergy.adobecqms.net
 *.esteelauder.adobecqms.net
 *.etihad.adobecqms.net
@@ -1859,6 +1864,7 @@
 *.perf.spglobal.adobecqms.net
 *.perf.sssd.adobecqms.net
 *.perf.statefarm-int.adobecqms.net
+*.perf.sydneyuni.adobecqms.net
 *.perf.t-mobile.adobecqms.net
 *.perf.t-mobile-tmus.adobecqms.net
 *.perf.tatamotors.adobecqms.net
@@ -2181,6 +2187,7 @@
 *.preprod.sssd.adobecqms.net
 *.preprod.statefarm-int.adobecqms.net
 *.preprod.stmicro.adobecqms.net
+*.preprod.sydneyuni.adobecqms.net
 *.preprod.t-mobile.adobecqms.net
 *.preprod.t-mobile-tmus.adobecqms.net
 *.preprod.tatamotors.adobecqms.net
@@ -2454,6 +2461,7 @@
 *.prod.elcorteingles.adobecqms.net
 *.prod.emblemhealth.adobecqms.net
 *.prod.enbridge.adobecqms.net
+*.prod.epiroc.adobecqms.net
 *.prod.equitable.adobecqms.net
 *.prod.ergonenergy.adobecqms.net
 *.prod.esteelauder.adobecqms.net
@@ -2820,6 +2828,7 @@
 *.prod.stryker.adobecqms.net
 *.prod.sunlifeassurance.adobecqms.net
 *.prod.swinburne.adobecqms.net
+*.prod.sydneyuni.adobecqms.net
 *.prod.sydneywater.adobecqms.net
 *.prod.synopsys.adobecqms.net
 *.prod.t-mobile.adobecqms.net
@@ -2961,6 +2970,7 @@
 *.prod65.dcu.adobecqms.net
 *.prod65.deltadental.adobecqms.net
 *.prod65.edb.adobecqms.net
+*.prod65.epiroc.adobecqms.net
 *.prod65.ergonenergy.adobecqms.net
 *.prod65.galec.adobecqms.net
 *.prod65.gnb.adobecqms.net
@@ -3187,6 +3197,7 @@
 *.qa.elcorteingles.adobecqms.net
 *.qa.emblemhealth.adobecqms.net
 *.qa.enbridge.adobecqms.net
+*.qa.epiroc.adobecqms.net
 *.qa.equitable.adobecqms.net
 *.qa.esteelauder.adobecqms.net
 *.qa.etihad.adobecqms.net
@@ -3458,6 +3469,7 @@
 *.qa.stmicro.adobecqms.net
 *.qa.stryker.adobecqms.net
 *.qa.sunlifeassurance.adobecqms.net
+*.qa.sydneyuni.adobecqms.net
 *.qa.sydneywater.adobecqms.net
 *.qa.synopsys.adobecqms.net
 *.qa.t-mobile.adobecqms.net
@@ -3607,6 +3619,7 @@
 *.qa65.aveva-esec.adobecqms.net
 *.qa65.bbva.adobecqms.net
 *.qa65.dcu.adobecqms.net
+*.qa65.epiroc.adobecqms.net
 *.qa65.galec.adobecqms.net
 *.qa65.grainger.adobecqms.net
 *.qa65.groupelucienbarriere.adobecqms.net
@@ -3918,6 +3931,7 @@
 *.sit.spglobal.adobecqms.net
 *.sit.sssd.adobecqms.net
 *.sit.statefarm-int.adobecqms.net
+*.sit.sydneyuni.adobecqms.net
 *.sit.t-mobile.adobecqms.net
 *.sit.t-mobile-tmus.adobecqms.net
 *.sit.tatamotors.adobecqms.net
@@ -4198,6 +4212,7 @@
 *.stage.elcorteingles.adobecqms.net
 *.stage.emblemhealth.adobecqms.net
 *.stage.enbridge.adobecqms.net
+*.stage.epiroc.adobecqms.net
 *.stage.equitable.adobecqms.net
 *.stage.ergonenergy.adobecqms.net
 *.stage.esteelauder.adobecqms.net
@@ -4552,6 +4567,7 @@
 *.stage.stryker.adobecqms.net
 *.stage.sunlifeassurance.adobecqms.net
 *.stage.swinburne.adobecqms.net
+*.stage.sydneyuni.adobecqms.net
 *.stage.sydneywater.adobecqms.net
 *.stage.synopsys.adobecqms.net
 *.stage.t-mobile.adobecqms.net
@@ -4697,6 +4713,7 @@
 *.stage65.dcu.adobecqms.net
 *.stage65.deltadental.adobecqms.net
 *.stage65.edb.adobecqms.net
+*.stage65.epiroc.adobecqms.net
 *.stage65.ergonenergy.adobecqms.net
 *.stage65.galec.adobecqms.net
 *.stage65.gnb.adobecqms.net
@@ -4973,6 +4990,7 @@
 *.test.elcorteingles.adobecqms.net
 *.test.emblemhealth.adobecqms.net
 *.test.enbridge.adobecqms.net
+*.test.epiroc.adobecqms.net
 *.test.equitable.adobecqms.net
 *.test.esteelauder.adobecqms.net
 *.test.etihad.adobecqms.net
@@ -5242,6 +5260,7 @@
 *.test.stryker.adobecqms.net
 *.test.sunlifeassurance.adobecqms.net
 *.test.swinburne.adobecqms.net
+*.test.sydneyuni.adobecqms.net
 *.test.sydneywater.adobecqms.net
 *.test.synopsys.adobecqms.net
 *.test.t-mobile.adobecqms.net
@@ -5352,6 +5371,7 @@
 *.test65.cibc.adobecqms.net
 *.test65.commsec.adobecqms.net
 *.test65.edb.adobecqms.net
+*.test65.epiroc.adobecqms.net
 *.test65.galec.adobecqms.net
 *.test65.grainger.adobecqms.net
 *.test65.groupelucienbarriere.adobecqms.net
@@ -5400,6 +5420,7 @@
 *.tractor-sc-stage.adobecqms.net
 *.train.clubhkt.adobecqms.net
 *.train.roche-eu-65.adobecqms.net
+*.train.sydneyuni.adobecqms.net
 *.training.lilly.adobecqms.net
 *.training1.sandbox-sgad1.adobecqms.net
 *.training2.sandbox-sgad1.adobecqms.net
