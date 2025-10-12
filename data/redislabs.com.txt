@@ -1,9 +1,11 @@
 .redislabs.com
 *.redislabs.com
+*.ai.cc.sa.redislabs.com
 *.analyzerqa.cs.redislabs.com
 *.andreytest1.azure.cloud.redislabs.com
 *.andreytest11.us-central-1.gce.cloud.redislabs.com
 *.andreytest12.us-central-1.gce.cloud.redislabs.com
+*.api.cc.sa.redislabs.com
 *.api.redisinsight.redislabs.com
 *.api.yvlpcf4.pcf.qa.redislabs.com
 *.apps.avasseur-pcf.demo.redislabs.com
@@ -236,6 +238,7 @@
 *.c98.us-east-1-4.ec2.cloud.redislabs.com
 *.c99.us-east-1-4.ec2.cloud.redislabs.com
 *.capi.k8s-dev-uirefresh.sm-qa.qa.redislabs.com
+*.cc.sa.redislabs.com
 *.cls-dev22-westeu-mz.azure.cloud.redislabs.com
 *.cls-dev23-westeu-mz.azure.cloud.redislabs.com
 *.cls-prod17-northeu-mz.azure.cloud.redislabs.com
@@ -258,6 +261,7 @@
 *.cls-prod40-centralus-mz.azure.cloud.redislabs.com
 *.cls-prod41-eastus2-mz.azure.cloud.redislabs.com
 *.cls-prod42-eastus2-mz.azure.cloud.redislabs.com
+*.cluster.cc.sa.redislabs.com
 *.crce165.us-east-1-mz.ec2.cloud.redislabs.com
 *.crce169.eu-west-3-1.ec2.cloud.redislabs.com
 *.crce174.ca-central-1-1.ec2.cloud.redislabs.com
@@ -273,10 +277,13 @@
 *.crce206.ap-south-1-1.ec2.cloud.redislabs.com
 *.crce207.sa-east-1-2.ec2.cloud.redislabs.com
 *.crce217.ap-south-1-1.ec2.cloud.redislabs.com
+*.crce218.eu-central-1-1.ec2.cloud.redislabs.com
 *.crce220.us-east-1-4.ec2.cloud.redislabs.com
 *.crce222.me-south-1-1.ec2.cloud.redislabs.com
 *.cs.redislabs.com
 *.cto.redislabs.com
+*.db.cc.sa.redislabs.com
+*.demo.cc.sa.redislabs.com
 *.dev.redislabs.com
 *.eranctest6.azure.cloud.redislabs.com
 *.erantest.us-central-1.gce.cloud.redislabs.com
@@ -507,6 +514,7 @@
 *.internal.crce206.ap-south-1-1.ec2.cloud.redislabs.com
 *.internal.crce207.sa-east-1-2.ec2.cloud.redislabs.com
 *.internal.crce217.ap-south-1-1.ec2.cloud.redislabs.com
+*.internal.crce218.eu-central-1-1.ec2.cloud.redislabs.com
 *.internal.crce220.us-east-1-4.ec2.cloud.redislabs.com
 *.internal.crce222.me-south-1-1.ec2.cloud.redislabs.com
 *.internal.eranctest6.azure.cloud.redislabs.com
@@ -522,9 +530,11 @@
 *.k8s-openshift3-7af0.openshift-qa.redislabs.com
 *.login.sys.avasseur-pcf.demo.redislabs.com
 *.login.yvlpcf4.pcf.qa.redislabs.com
+*.o11y.cc.sa.redislabs.com
 *.ops-portal-staging.qa.redislabs.com
 *.primary.cs.redislabs.com
 *.qa.redislabs.com
+*.redis.cc.sa.redislabs.com
 *.redisinsight.redislabs.com
 *.redislabs-training.redislabs.com
 *.reports.dev.redislabs.com
@@ -1206,6 +1216,7 @@ crce202.eu-west-3-1.ec2.cloud.redislabs.com
 crce206.ap-south-1-1.ec2.cloud.redislabs.com
 crce207.sa-east-1-2.ec2.cloud.redislabs.com
 crce217.ap-south-1-1.ec2.cloud.redislabs.com
+crce218.eu-central-1-1.ec2.cloud.redislabs.com
 crce220.us-east-1-4.ec2.cloud.redislabs.com
 crce222.me-south-1-1.ec2.cloud.redislabs.com
 cs.redislabs.com
@@ -2618,3 +2629,7 @@ www.grafana.cs.redislabs.com
 www.keybase.redislabs-training.redislabs.com
 www.test00929c45.qa.redislabs.com
 yanivh.cs.redislabs.com
+yanivh2.cs.redislabs.com
+yanivh5.cs.redislabs.com
+yonicluster.cs.redislabs.com
+yuval-openshift3-east.openshift-qa.redislabs.com

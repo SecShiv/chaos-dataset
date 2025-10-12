@@ -21,6 +21,7 @@
 *.aws.atlas-gateway.cloud.mongodb.com
 *.aws.atlas-gateway.cloud-qa.mongodb.com
 *.aws.atlas-gateway.cloud-stage.mongodb.com
+*.aws.atlas-metrics.cloud.mongodb.com
 *.aws.atlas-metrics.cloud-dev.mongodb.com
 *.aws.atlas-metrics.cloud-internal.mongodb.com
 *.aws.atlas-metrics.cloud-qa.mongodb.com
@@ -46,6 +47,7 @@
 *.aws.ws.services.cloud-dev.mongodb.com
 *.aws.ws.services.cloud-qa.mongodb.com
 *.aws.ws.services.cloud-stage.mongodb.com
+*.azure.atlas-metrics.cloud.mongodb.com
 *.azure.atlas-metrics.cloud-dev.mongodb.com
 *.azure.atlas-metrics.cloud-internal.mongodb.com
 *.azure.atlas-metrics.cloud-qa.mongodb.com
@@ -169,6 +171,7 @@
 *.flex-latam.prod.corp.mongodb.com
 *.flex-latam.staging.corp.mongodb.com
 *.gateway.test.corp.mongodb.com
+*.gcp.atlas-metrics.cloud.mongodb.com
 *.gcp.atlas-metrics.cloud-dev.mongodb.com
 *.gcp.atlas-metrics.cloud-internal.mongodb.com
 *.gcp.atlas-metrics.cloud-qa.mongodb.com
@@ -498,6 +501,7 @@ atlas-gateway.cloud.mongodb.com
 atlas-gateway.cloud-qa.mongodb.com
 atlas-gateway.cloud-stage.mongodb.com
 atlas-logs.warpstream.cloud-stage.mongodb.com
+atlas-metrics.cloud.mongodb.com
 atlas-metrics.cloud-dev.mongodb.com
 atlas-metrics.cloud-internal.mongodb.com
 atlas-metrics.cloud-qa.mongodb.com
@@ -528,6 +532,7 @@ azure.api-dev.mongodb.com
 azure.realm.mongodb.com
 b2k-server.docs.staging.corp.mongodb.com
 backend.test.corp.mongodb.com
+backstage-andrewd.backstage.staging.corp.mongodb.com
 backstage-kyle-burgess.backstage.staging.corp.mongodb.com
 backstage-prod.backstage.staging.corp.mongodb.com
 backstage-william.backstage.staging.corp.mongodb.com
@@ -2000,6 +2005,7 @@ wildcard.mongodb.com
 workflow-scanner.infosec.prod.corp.mongodb.com
 workflow-scanner.infosec.staging.corp.mongodb.com
 workload-health.corp.mongodb.com
+workshops.deet.prod.corp.mongodb.com
 workshops.deet.staging.corp.mongodb.com
 workshopsv1.deet.staging.corp.mongodb.com
 world.mongodb.com
@@ -2152,3 +2158,7 @@ yuzhou-web-app.test.corp.mongodb.com
 yuzhou.devops.test.corp.mongodb.com
 yuzhou2.devops.test.corp.mongodb.com
 zap-dev.salesops.staging.corp.mongodb.com
+zap.corps.prod.corp.mongodb.com
+zd-approvals.corp.mongodb.com
+zen-approvals.corp.mongodb.com
+zendesk-feedback.mongodb.com

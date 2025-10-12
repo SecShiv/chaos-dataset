@@ -60,6 +60,7 @@ customer.gopayapi.com
 customer-cf-kong.staging.gopayapi.com
 customer-cf.staging.gopayapi.com
 customer-iads.gopayapi.com
+customer-iads-cdn.staging.gopayapi.com
 customer-iads-test.staging.gopayapi.com
 customer-iads.staging.gopayapi.com
 customer-tagihan.gopayapi.com
@@ -184,6 +185,7 @@ infrastructure-engineering.governance.team.bank-scheduler-service-staging.gopaya
 infrastructure-engineering.governance.team.customer.gopayapi.com
 infrastructure-engineering.governance.team.customer-cf-kong.staging.gopayapi.com
 infrastructure-engineering.governance.team.customer-iads.gopayapi.com
+infrastructure-engineering.governance.team.customer-iads-cdn.staging.gopayapi.com
 infrastructure-engineering.governance.team.customer-iads-test.staging.gopayapi.com
 infrastructure-engineering.governance.team.customer-iads.staging.gopayapi.com
 infrastructure-engineering.governance.team.customer-tagihan.gopayapi.com
@@ -279,6 +281,7 @@ infrastructure-engineering.governance.team.risk-gateway.gopayapi.com
 infrastructure-engineering.governance.team.risk-gateway.staging.gopayapi.com
 infrastructure-engineering.governance.team.sahabat-ai-iads.gopayapi.com
 infrastructure-engineering.governance.team.sandbox-gws-app.gopayapi.com
+infrastructure-engineering.governance.team.status.global.gateway.gopayapi.com
 infrastructure-engineering.governance.team.status.global.staging.gateway.gopayapi.com
 infrastructure-engineering.governance.team.stg.gopayapi.com
 infrastructure-engineering.governance.team.stg-am.gopayapi.com
@@ -472,6 +475,7 @@ snap-merchants.staging.gopayapi.com
 snap-sandbox.gopayapi.com
 stage-eks-public-cluster.gopayapi.com
 staging.gopayapi.com
+status.global.gateway.gopayapi.com
 status.global.staging.gateway.gopayapi.com
 stg.gopayapi.com
 stg-am.gopayapi.com
