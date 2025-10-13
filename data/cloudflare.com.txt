@@ -442,10 +442,12 @@ api-documentation-site.developers.cloudflare.com
 api-origin.cloudflare.com
 api-silos.staging.realtime.cloudflare.com
 api-staging.notifications.cloudflare.com
+api-staging.notifications.fed.cloudflare.com
 api.integrations.cloudflare.com
 api.labs.cloudflare.com
 api.labs-staging.cloudflare.com
 api.notifications.cloudflare.com
+api.notifications.fed.cloudflare.com
 api.one.dash.staging.cloudflare.com
 api.privacy-auditability.cloudflare.com
 api.radar.cloudflare.com
@@ -536,6 +538,7 @@ autofix-staging.mcp.cloudflare.com
 autorag.ai.cloudflare.com
 autumn.ns.cloudflare.com
 ave.ns.cloudflare.com
+aws-flow-logs.cloudflare.com
 aws-flow-logs-federal.cloudflare.com
 ay.ns.cloudflare.com
 aydincunt.ns.cloudflare.com
@@ -563,6 +566,7 @@ bgrgcf.tw.cdn.cloudflare.com
 bilemezsinki.cloudflare.com
 bill.ns.cloudflare.com
 billing.support.cloudflare.com
+bindings.mcp.cloudflare.com
 bingo.ns.cloudflare.com
 bio.ns.cloudflare.com
 bjorn.ns.cloudflare.com
@@ -9554,6 +9558,9 @@ mconn-telemetry-staging.magic-wan-connector.cloudflare.com
 mcp.cloudflare.com
 meadow.ns.cloudflare.com
 media-deals.jumia.com.cdn.cloudflare.com
+media-hub-devel.realtime.cloudflare.com
+media-hub-preprod.realtime.cloudflare.com
+media-hub-production.realtime.cloudflare.com
 media-hub.staging.realtime.cloudflare.com
 media.labs.cloudflare.com
 media.labs-staging.cloudflare.com
@@ -9761,6 +9768,7 @@ norman.cloudflare.com
 norman.ns.cloudflare.com
 notifications.cloudflare.com
 notifications.dash.staging.cloudflare.com
+notifications.fed.cloudflare.com
 notifications.platform.dash.cloudflare.com
 notify.cloudflare.com
 nova.ns.cloudflare.com
@@ -10058,6 +10066,8 @@ objects.research.cloudflare.com
 oblivious-gateway.privacy-gateway.cloudflare.com
 observability.cloudflare.com
 observability-staging.cloudflare.com
+observability-staging.mcp.cloudflare.com
+observability.mcp.cloudflare.com
 ocsp.cloudflare.com
 odin.ns.cloudflare.com
 ody.ns.cloudflare.com
@@ -10403,6 +10413,7 @@ smtp.cloudflare.com
 sneh.ns.cloudflare.com
 sni185369.cloudflare.com
 soa.ns.cloudflare.com
+socket-edge-devel.realtime.cloudflare.com
 socket-preprod.realtime.cloudflare.com
 socket.realtime.cloudflare.com
 sofia.ns.cloudflare.com

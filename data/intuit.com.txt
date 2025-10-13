@@ -16539,6 +16539,7 @@ connection-identity.identitycrprdusw2.iks2.a.intuit.com
 connection-manageme-7196321.ipifdpprodpciusw2.iks2.a.intuit.com
 connection-management-svc-idx.fdpprdpciuse2.iks2.a.intuit.com
 connection-management-svc-idx.ipifdp2produsw2.iks2.a.intuit.com
+connection-test-intra-cluster-prd-eventbus-to-clickhouse.techpiprdusw2.iks2.a.intuit.com
 connectionmgmt-pre-production-jo5jbh.pd.idps.a.intuit.com
 connectionroute-identity.iip-core-prod-use2.iks.a.intuit.com
 connectionroute-identity.iip-core-prod-usw2.iks.a.intuit.com
@@ -20010,6 +20011,7 @@ dev-devx-prd-druid.msaas-usw2-prd.iks.a.intuit.com
 dev-devx-prd-ecosystem-api-accounting.idgprdusw2.iks2.a.intuit.com
 dev-devx-prd-edp-cron-jobs.idgprdusw2.iks2.a.intuit.com
 dev-devx-prd-error-resolver.idg-sgmnt-prod-usw2.iks.a.intuit.com
+dev-devx-prd-eventbus-to-clickhouse.techpiprdusw2.iks2.a.intuit.com
 dev-devx-prd-external-developer.idg-sgmnt-prod-usw2.iks.a.intuit.com
 dev-devx-prd-federated-metrics-querier.techpiprdusw2.iks2.a.intuit.com
 dev-devx-prd-getafix.ipmsaasprodusw2.iks2.a.intuit.com
@@ -26188,6 +26190,7 @@ eventbus-env.intuit.com
 eventbus-numaflow-po-5804001.devpmsaasprdusw2.iks2.a.intuit.com
 eventbus-pre-production-fc34uh.pd.idps.a.intuit.com
 eventbus-qa.intuit.com
+eventbus-to-clickhouse--6448494.techpiprdusw2.iks2.a.intuit.com
 eventbus-ue2.intuit.com
 eventbus-ue2-e2e.intuit.com
 eventbus-ue2-e2e.a.intuit.com
@@ -42572,6 +42575,7 @@ intlgntsys-recommender-cgprd-zoltar-service-root.data-sgmnt-prod-use2.iks.a.intu
 intlgntsys-recommender-cgprd-zoltar-service-root.data-sgmnt-prod.iks.a.intuit.com
 intlgntsys-recommender-e2e-zoltar-service.data-sgmnt-ppd.a.intuit.com
 intlgntsys-recommender-e2e-zoltar-service.data-sgmnt-ppd.iks.a.intuit.com
+intlgntsys-recommender-prd-recommender-engine.growthprdusw2.iks2.a.intuit.com
 intlgntsys-recommender-prd-zoltar-service-1.data-sgmnt-prod.iks.a.intuit.com
 intlgntsys-recommender-prd-zoltar-service-root.data-sgmnt-prod-use2.iks.a.intuit.com
 intlgntsys-recommender-prd-zoltar-service-root.data-sgmnt-prod.iks.a.intuit.com
@@ -64447,6 +64451,7 @@ recognize.intuit.com
 recommendation-indirecttax.salestax-prod-usw2.iks.a.intuit.com
 recommendation-indirecttax.sbgcompprduse2.iks2.a.intuit.com
 recommendation-indirecttax.sbgcompprdusw2.iks2.a.intuit.com
+recommender-engine-mtgpzn.growthprdusw2.iks2.a.intuit.com
 recon-api.sbg-ledger.a.intuit.com
 recon.kaos.a.intuit.com
 reconciltool-workforce.t4i-prod-west2.iks.a.intuit.com
@@ -93340,3 +93345,5 @@ zoom-demote-script-iks-infrabase.t4iprdusw2.iks2.a.intuit.com
 zoom-webhook-sandbox.t4iprdusw2.iks2.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-east2.iks.a.intuit.com
 zootest1-deleteme-sandbox.paas-prod-west2.a.intuit.com
+zp-txn-importer-fdp.sbgqboprodusw2.iks2.a.intuit.com
+zycada.quickbooks.intuit.com

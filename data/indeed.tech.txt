@@ -1006,6 +1006,7 @@ argo-cd-ip-appset.indeed.tech
 argo-cd-ip-backup.indeed.tech
 argo-cd-jujube.indeed.tech
 argo-cd-jujube-appset.indeed.tech
+argo-cd-kiwi-appset.indeed.tech
 argo-cd-marvin-gitops.indeed.tech
 argo-cd-marvin-gitops-appset.indeed.tech
 argo-cd-task-service-awscmh7-1.indeed.tech
@@ -3230,6 +3231,7 @@ f0aba78f94b69c11172c88a3408b5811.loom-inference.awscmhqa5.k8s.indeed.tech
 f0aba78f94b69c11172c88a3408b5811.loom-inference.awspdx2.k8s.indeed.tech
 f0aba78f94b69c11172c88a3408b5811.loom-inference.awsyul2.k8s.indeed.tech
 f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awscmh5.k8s.indeed.tech
+f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awscmh6.k8s.indeed.tech
 f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awscmh7.k8s.indeed.tech
 f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awscmhqa4.k8s.indeed.tech
 f32ed19d86fe62827a70cde78b2d4fa7.loom-inference.awspdx2.k8s.indeed.tech
@@ -9176,6 +9178,7 @@ smart-apply-bff-grafana.awscmhqa3.k8s.indeed.tech
 smart-apply-bff-grafana.awscmhqa4.k8s.indeed.tech
 smart-apply-bff-grafana.awsdub.k8s.indeed.tech
 smart-apply-bff-grafana.awsdub2.k8s.indeed.tech
+smart-apply-bff-grafana.awsfra1.k8s.indeed.tech
 smart-apply-bff-grafana.awsnrt2.k8s.indeed.tech
 smart-apply-bff-grafana.awsnrt3.k8s.indeed.tech
 smart-apply-bff-grafana.awspdx.k8s.indeed.tech
@@ -10556,6 +10559,7 @@ vespa-admin-gen.awsbom1.k8s.indeed.tech
 vespa-admin-gen.awscmh5.k8s.indeed.tech
 vespa-admin-gen.awscmhqa4.k8s.indeed.tech
 vespa-admin-gen.awsdub2.k8s.indeed.tech
+vespa-admin-gen.awsfra1.k8s.indeed.tech
 vespa-admin-gen.awsnrt3.k8s.indeed.tech
 vespa-admin-gen.awspdx2.k8s.indeed.tech
 vespa-admin-gen.awssyd2.k8s.indeed.tech
@@ -10590,6 +10594,7 @@ vespa-config-gen-p.awsbom1.k8s.indeed.tech
 vespa-config-gen-p.awscmh5.k8s.indeed.tech
 vespa-config-gen-p.awscmhqa4.k8s.indeed.tech
 vespa-config-gen-p.awsdub2.k8s.indeed.tech
+vespa-config-gen-p.awsfra1.k8s.indeed.tech
 vespa-config-gen-p.awsnrt3.k8s.indeed.tech
 vespa-config-gen-p.awspdx2.k8s.indeed.tech
 vespa-config-gen-p.awssyd2.k8s.indeed.tech
@@ -10691,12 +10696,14 @@ vespa-content3-tss.awscmh5.k8s.indeed.tech
 vespa-content3-tss.awscmh7.k8s.indeed.tech
 vespa-content3-tss.awsdub2.k8s.indeed.tech
 vespa-content3-tss.awsfra1.k8s.indeed.tech
+vespa-content3-tss.awsnrt3.k8s.indeed.tech
 vespa-content3-tss.awspdx2.k8s.indeed.tech
 vespa-content3-tss.awssyd2.k8s.indeed.tech
 vespa-content3-tss.awsyul2.k8s.indeed.tech
 vespa-content4-tss.awscmh7.k8s.indeed.tech
 vespa-content4-tss.awsdub2.k8s.indeed.tech
 vespa-content4-tss.awsfra1.k8s.indeed.tech
+vespa-content4-tss.awspdx2.k8s.indeed.tech
 vespa-content4-tss.awssyd2.k8s.indeed.tech
 vespa-content4-tss.awsyul2.k8s.indeed.tech
 vespa-content5-tss.awscmh5.k8s.indeed.tech

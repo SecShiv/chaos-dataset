@@ -811,6 +811,7 @@
 *.cluster.ingestionapi.dps.mp.microsoft.com
 *.cluster.ingestiondeveloperapi-int.dse.mp.microsoft.com
 *.cluster.ingestiondeveloperapi.dse.mp.microsoft.com
+*.cluster.isaac-aircapi-ppe.mp.microsoft.com
 *.cluster.isaac.mp.microsoft.com
 *.cluster.links-int.dps.mp.microsoft.com
 *.cluster.links-ppe.dps.mp.microsoft.com
@@ -4988,6 +4989,7 @@
 *.testmymfa-ppe.auth.microsoft.com
 *.testsite.microsoft.com
 *.tezzcache.microsoft.com
+*.tha.gcc.teams.microsoft.com
 *.tha.teams.microsoft.com
 *.throttling-ssl.groups-throttling-prod.data.microsoft.com
 *.ti.microsoft.com
@@ -5049,6 +5051,7 @@
 *.uaecentral.cts.speech.microsoft.com
 *.uaenorth.cts.speech.microsoft.com
 *.uat.esi.microsoft.com
+*.uat.learningdownloadcenter.microsoft.com
 *.uat.mscert.microsoft.com
 *.ucm.ads.microsoft.com
 *.ucm.bingads.microsoft.com
@@ -5571,6 +5574,7 @@
 *.z05.sql.cosmos.fabric-df.microsoft.com
 *.z05.table.fabric.microsoft.com
 *.z05.table.fabric-df.microsoft.com
+*.z05.userdatafunctions.fabric.microsoft.com
 *.z05.userdatafunctions.fabric-df.microsoft.com
 *.z05.w.api.fabric.microsoft.com
 *.z05.w.api.fabric-df.microsoft.com
@@ -5619,6 +5623,7 @@
 *.z06.sql.cosmos.fabric-df.microsoft.com
 *.z06.table.fabric.microsoft.com
 *.z06.table.fabric-df.microsoft.com
+*.z06.userdatafunctions.fabric.microsoft.com
 *.z06.userdatafunctions.fabric-df.microsoft.com
 *.z06.w.api.fabric.microsoft.com
 *.z06.w.api.fabric-df.microsoft.com
@@ -5667,6 +5672,7 @@
 *.z07.sql.cosmos.fabric-df.microsoft.com
 *.z07.table.fabric.microsoft.com
 *.z07.table.fabric-df.microsoft.com
+*.z07.userdatafunctions.fabric.microsoft.com
 *.z07.userdatafunctions.fabric-df.microsoft.com
 *.z07.w.api.fabric.microsoft.com
 *.z07.w.api.fabric-df.microsoft.com
@@ -5856,6 +5862,7 @@
 *.z0b.sql.cosmos.fabric.microsoft.com
 *.z0b.sql.cosmos.fabric-df.microsoft.com
 *.z0b.table.fabric.microsoft.com
+*.z0b.table.fabric-df.microsoft.com
 *.z0b.userdatafunctions.fabric.microsoft.com
 *.z0b.userdatafunctions.fabric-df.microsoft.com
 *.z0b.w.api.fabric.microsoft.com
@@ -5905,6 +5912,7 @@
 *.z0c.sql.cosmos.fabric-df.microsoft.com
 *.z0c.table.fabric.microsoft.com
 *.z0c.table.fabric-df.microsoft.com
+*.z0c.userdatafunctions.fabric.microsoft.com
 *.z0c.userdatafunctions.fabric-df.microsoft.com
 *.z0c.w.api.fabric.microsoft.com
 *.z0c.w.api.fabric-df.microsoft.com
@@ -5951,6 +5959,7 @@
 *.z0d.sql.cosmos.fabric.microsoft.com
 *.z0d.sql.cosmos.fabric-df.microsoft.com
 *.z0d.table.fabric-df.microsoft.com
+*.z0d.userdatafunctions.fabric.microsoft.com
 *.z0d.userdatafunctions.fabric-df.microsoft.com
 *.z0d.w.api.fabric.microsoft.com
 *.z0d.w.api.fabric-df.microsoft.com
@@ -6048,6 +6057,7 @@
 *.z0f.sql.cosmos.fabric-df.microsoft.com
 *.z0f.table.fabric.microsoft.com
 *.z0f.table.fabric-df.microsoft.com
+*.z0f.userdatafunctions.fabric.microsoft.com
 *.z0f.userdatafunctions.fabric-df.microsoft.com
 *.z0f.w.api.fabric.microsoft.com
 *.z0f.w.api.fabric-df.microsoft.com
@@ -6099,6 +6109,8 @@
 *.z10.sql.cosmos.fabric.microsoft.com
 *.z10.sql.cosmos.fabric-df.microsoft.com
 *.z10.table.fabric.microsoft.com
+*.z10.table.fabric-df.microsoft.com
+*.z10.userdatafunctions.fabric.microsoft.com
 *.z10.userdatafunctions.fabric-df.microsoft.com
 *.z10.w.api.fabric.microsoft.com
 *.z10.w.api.fabric-df.microsoft.com
@@ -6191,6 +6203,7 @@
 *.z12.sql.cosmos.fabric.microsoft.com
 *.z12.sql.cosmos.fabric-df.microsoft.com
 *.z12.table.fabric.microsoft.com
+*.z12.table.fabric-df.microsoft.com
 *.z12.userdatafunctions.fabric.microsoft.com
 *.z12.userdatafunctions.fabric-df.microsoft.com
 *.z12.w.api.fabric.microsoft.com
@@ -6287,6 +6300,7 @@
 *.z14.sql.cosmos.fabric.microsoft.com
 *.z14.sql.cosmos.fabric-df.microsoft.com
 *.z14.table.fabric.microsoft.com
+*.z14.table.fabric-df.microsoft.com
 *.z14.userdatafunctions.fabric.microsoft.com
 *.z14.userdatafunctions.fabric-df.microsoft.com
 *.z14.w.api.fabric.microsoft.com
@@ -6577,6 +6591,8 @@
 *.z1a.sql.cosmos.fabric.microsoft.com
 *.z1a.sql.cosmos.fabric-df.microsoft.com
 *.z1a.table.fabric.microsoft.com
+*.z1a.table.fabric-df.microsoft.com
+*.z1a.userdatafunctions.fabric.microsoft.com
 *.z1a.userdatafunctions.fabric-df.microsoft.com
 *.z1a.w.api.fabric.microsoft.com
 *.z1a.w.api.fabric-df.microsoft.com
@@ -6720,6 +6736,7 @@
 *.z1d.sql.cosmos.fabric.microsoft.com
 *.z1d.sql.cosmos.fabric-df.microsoft.com
 *.z1d.table.fabric.microsoft.com
+*.z1d.table.fabric-df.microsoft.com
 *.z1d.userdatafunctions.fabric.microsoft.com
 *.z1d.userdatafunctions.fabric-df.microsoft.com
 *.z1d.w.api.fabric.microsoft.com
@@ -6817,6 +6834,7 @@
 *.z1f.sql.cosmos.fabric-df.microsoft.com
 *.z1f.table.fabric.microsoft.com
 *.z1f.table.fabric-df.microsoft.com
+*.z1f.userdatafunctions.fabric.microsoft.com
 *.z1f.userdatafunctions.fabric-df.microsoft.com
 *.z1f.w.api.fabric.microsoft.com
 *.z1f.w.api.fabric-df.microsoft.com
@@ -6965,6 +6983,7 @@
 *.z22.sql.cosmos.fabric-df.microsoft.com
 *.z22.table.fabric.microsoft.com
 *.z22.table.fabric-df.microsoft.com
+*.z22.userdatafunctions.fabric.microsoft.com
 *.z22.userdatafunctions.fabric-df.microsoft.com
 *.z22.w.api.fabric.microsoft.com
 *.z22.w.api.fabric-df.microsoft.com
@@ -7255,6 +7274,7 @@
 *.z28.sql.cosmos.fabric-df.microsoft.com
 *.z28.table.fabric.microsoft.com
 *.z28.table.fabric-df.microsoft.com
+*.z28.userdatafunctions.fabric.microsoft.com
 *.z28.userdatafunctions.fabric-df.microsoft.com
 *.z28.w.api.fabric.microsoft.com
 *.z28.w.api.fabric-df.microsoft.com
@@ -7643,6 +7663,7 @@
 *.z30.sql.cosmos.fabric.microsoft.com
 *.z30.sql.cosmos.fabric-df.microsoft.com
 *.z30.table.fabric.microsoft.com
+*.z30.table.fabric-df.microsoft.com
 *.z30.userdatafunctions.fabric.microsoft.com
 *.z30.userdatafunctions.fabric-df.microsoft.com
 *.z30.w.api.fabric.microsoft.com
@@ -7691,6 +7712,7 @@
 *.z31.sql.cosmos.fabric.microsoft.com
 *.z31.sql.cosmos.fabric-df.microsoft.com
 *.z31.table.fabric.microsoft.com
+*.z31.table.fabric-df.microsoft.com
 *.z31.userdatafunctions.fabric.microsoft.com
 *.z31.userdatafunctions.fabric-df.microsoft.com
 *.z31.w.api.fabric.microsoft.com
@@ -7833,6 +7855,7 @@
 *.z34.sql.cosmos.fabric.microsoft.com
 *.z34.sql.cosmos.fabric-df.microsoft.com
 *.z34.table.fabric.microsoft.com
+*.z34.table.fabric-df.microsoft.com
 *.z34.userdatafunctions.fabric-df.microsoft.com
 *.z34.w.api.fabric.microsoft.com
 *.z34.w.api.fabric-df.microsoft.com
@@ -7881,6 +7904,7 @@
 *.z35.sql.cosmos.fabric-df.microsoft.com
 *.z35.table.fabric.microsoft.com
 *.z35.table.fabric-df.microsoft.com
+*.z35.userdatafunctions.fabric.microsoft.com
 *.z35.userdatafunctions.fabric-df.microsoft.com
 *.z35.w.api.fabric.microsoft.com
 *.z35.w.api.fabric-df.microsoft.com
@@ -7978,6 +8002,7 @@
 *.z37.sql.cosmos.fabric-df.microsoft.com
 *.z37.table.fabric.microsoft.com
 *.z37.table.fabric-df.microsoft.com
+*.z37.userdatafunctions.fabric.microsoft.com
 *.z37.userdatafunctions.fabric-df.microsoft.com
 *.z37.w.api.fabric.microsoft.com
 *.z37.w.api.fabric-df.microsoft.com
@@ -8219,6 +8244,7 @@
 *.z3c.sql.cosmos.fabric-df.microsoft.com
 *.z3c.table.fabric.microsoft.com
 *.z3c.table.fabric-df.microsoft.com
+*.z3c.userdatafunctions.fabric.microsoft.com
 *.z3c.userdatafunctions.fabric-df.microsoft.com
 *.z3c.w.api.fabric.microsoft.com
 *.z3c.w.api.fabric-df.microsoft.com
@@ -8259,6 +8285,8 @@
 *.z3d.msit-dfs.fabric.microsoft.com
 *.z3d.msit-onelake.fabric.microsoft.com
 *.z3d.msit-sql.cosmos.fabric.microsoft.com
+*.z3d.msitgraphql.fabric.microsoft.com
+*.z3d.msituserdatafunctions.fabric.microsoft.com
 *.z3d.onelake.fabric.microsoft.com
 *.z3d.onelake.fabric-df.microsoft.com
 *.z3d.sql.cosmos.fabric.microsoft.com
@@ -8271,6 +8299,7 @@
 *.z3d.w.api.fabric-df.microsoft.com
 *.z3d.w.dailyapi.fabric.microsoft.com
 *.z3d.w.dxtapi.fabric.microsoft.com
+*.z3d.w.msitapi.fabric.microsoft.com
 *.z3e.blob.fabric.microsoft.com
 *.z3e.blob.fabric-df.microsoft.com
 *.z3e.c.fabric.microsoft.com
@@ -8313,6 +8342,7 @@
 *.z3e.sql.cosmos.fabric-df.microsoft.com
 *.z3e.table.fabric.microsoft.com
 *.z3e.table.fabric-df.microsoft.com
+*.z3e.userdatafunctions.fabric.microsoft.com
 *.z3e.userdatafunctions.fabric-df.microsoft.com
 *.z3e.w.api.fabric.microsoft.com
 *.z3e.w.api.fabric-df.microsoft.com
@@ -8507,6 +8537,7 @@
 *.z42.sql.cosmos.fabric.microsoft.com
 *.z42.sql.cosmos.fabric-df.microsoft.com
 *.z42.table.fabric.microsoft.com
+*.z42.table.fabric-df.microsoft.com
 *.z42.userdatafunctions.fabric.microsoft.com
 *.z42.userdatafunctions.fabric-df.microsoft.com
 *.z42.w.api.fabric.microsoft.com
@@ -8654,6 +8685,7 @@
 *.z45.sql.cosmos.fabric-df.microsoft.com
 *.z45.table.fabric.microsoft.com
 *.z45.table.fabric-df.microsoft.com
+*.z45.userdatafunctions.fabric.microsoft.com
 *.z45.userdatafunctions.fabric-df.microsoft.com
 *.z45.w.api.fabric.microsoft.com
 *.z45.w.api.fabric-df.microsoft.com
@@ -8751,6 +8783,7 @@
 *.z47.sql.cosmos.fabric-df.microsoft.com
 *.z47.table.fabric.microsoft.com
 *.z47.table.fabric-df.microsoft.com
+*.z47.userdatafunctions.fabric.microsoft.com
 *.z47.userdatafunctions.fabric-df.microsoft.com
 *.z47.w.api.fabric.microsoft.com
 *.z47.w.api.fabric-df.microsoft.com
@@ -8991,6 +9024,7 @@
 *.z4c.sql.cosmos.fabric.microsoft.com
 *.z4c.sql.cosmos.fabric-df.microsoft.com
 *.z4c.table.fabric.microsoft.com
+*.z4c.table.fabric-df.microsoft.com
 *.z4c.userdatafunctions.fabric.microsoft.com
 *.z4c.userdatafunctions.fabric-df.microsoft.com
 *.z4c.w.api.fabric.microsoft.com
@@ -9135,6 +9169,7 @@
 *.z4f.sql.cosmos.fabric-df.microsoft.com
 *.z4f.table.fabric.microsoft.com
 *.z4f.table.fabric-df.microsoft.com
+*.z4f.userdatafunctions.fabric.microsoft.com
 *.z4f.userdatafunctions.fabric-df.microsoft.com
 *.z4f.w.api.fabric.microsoft.com
 *.z4f.w.api.fabric-df.microsoft.com
@@ -9187,6 +9222,7 @@
 *.z50.sql.cosmos.fabric-df.microsoft.com
 *.z50.table.fabric.microsoft.com
 *.z50.table.fabric-df.microsoft.com
+*.z50.userdatafunctions.fabric.microsoft.com
 *.z50.userdatafunctions.fabric-df.microsoft.com
 *.z50.w.api.fabric.microsoft.com
 *.z50.w.api.fabric-df.microsoft.com
@@ -9332,6 +9368,7 @@
 *.z53.sql.cosmos.fabric-df.microsoft.com
 *.z53.table.fabric.microsoft.com
 *.z53.table.fabric-df.microsoft.com
+*.z53.userdatafunctions.fabric.microsoft.com
 *.z53.userdatafunctions.fabric-df.microsoft.com
 *.z53.w.api.fabric.microsoft.com
 *.z53.w.api.fabric-df.microsoft.com
@@ -9380,6 +9417,7 @@
 *.z54.sql.cosmos.fabric-df.microsoft.com
 *.z54.table.fabric.microsoft.com
 *.z54.table.fabric-df.microsoft.com
+*.z54.userdatafunctions.fabric.microsoft.com
 *.z54.userdatafunctions.fabric-df.microsoft.com
 *.z54.w.api.fabric.microsoft.com
 *.z54.w.api.fabric-df.microsoft.com
@@ -9427,6 +9465,7 @@
 *.z55.sql.cosmos.fabric-df.microsoft.com
 *.z55.table.fabric.microsoft.com
 *.z55.table.fabric-df.microsoft.com
+*.z55.userdatafunctions.fabric.microsoft.com
 *.z55.userdatafunctions.fabric-df.microsoft.com
 *.z55.w.api.fabric.microsoft.com
 *.z55.w.api.fabric-df.microsoft.com
@@ -9572,6 +9611,7 @@
 *.z58.sql.cosmos.fabric.microsoft.com
 *.z58.sql.cosmos.fabric-df.microsoft.com
 *.z58.table.fabric-df.microsoft.com
+*.z58.userdatafunctions.fabric.microsoft.com
 *.z58.userdatafunctions.fabric-df.microsoft.com
 *.z58.w.api.fabric.microsoft.com
 *.z58.w.api.fabric-df.microsoft.com
@@ -9667,6 +9707,8 @@
 *.z5a.sql.cosmos.fabric.microsoft.com
 *.z5a.sql.cosmos.fabric-df.microsoft.com
 *.z5a.table.fabric.microsoft.com
+*.z5a.table.fabric-df.microsoft.com
+*.z5a.userdatafunctions.fabric.microsoft.com
 *.z5a.userdatafunctions.fabric-df.microsoft.com
 *.z5a.w.api.fabric.microsoft.com
 *.z5a.w.api.fabric-df.microsoft.com
@@ -9858,6 +9900,7 @@
 *.z5e.sql.cosmos.fabric-df.microsoft.com
 *.z5e.table.fabric.microsoft.com
 *.z5e.table.fabric-df.microsoft.com
+*.z5e.userdatafunctions.fabric.microsoft.com
 *.z5e.userdatafunctions.fabric-df.microsoft.com
 *.z5e.w.api.fabric.microsoft.com
 *.z5e.w.api.fabric-df.microsoft.com
@@ -9902,6 +9945,7 @@
 *.z5f.onelake.fabric-df.microsoft.com
 *.z5f.sql.cosmos.fabric.microsoft.com
 *.z5f.sql.cosmos.fabric-df.microsoft.com
+*.z5f.table.fabric-df.microsoft.com
 *.z5f.userdatafunctions.fabric.microsoft.com
 *.z5f.userdatafunctions.fabric-df.microsoft.com
 *.z5f.w.api.fabric.microsoft.com
@@ -9955,6 +9999,7 @@
 *.z60.sql.cosmos.fabric-df.microsoft.com
 *.z60.table.fabric.microsoft.com
 *.z60.table.fabric-df.microsoft.com
+*.z60.userdatafunctions.fabric.microsoft.com
 *.z60.userdatafunctions.fabric-df.microsoft.com
 *.z60.w.api.fabric.microsoft.com
 *.z60.w.api.fabric-df.microsoft.com
@@ -10001,6 +10046,7 @@
 *.z61.sql.cosmos.fabric.microsoft.com
 *.z61.sql.cosmos.fabric-df.microsoft.com
 *.z61.table.fabric.microsoft.com
+*.z61.table.fabric-df.microsoft.com
 *.z61.userdatafunctions.fabric.microsoft.com
 *.z61.userdatafunctions.fabric-df.microsoft.com
 *.z61.w.api.fabric.microsoft.com
@@ -10048,6 +10094,7 @@
 *.z62.sql.cosmos.fabric.microsoft.com
 *.z62.sql.cosmos.fabric-df.microsoft.com
 *.z62.table.fabric.microsoft.com
+*.z62.table.fabric-df.microsoft.com
 *.z62.userdatafunctions.fabric.microsoft.com
 *.z62.userdatafunctions.fabric-df.microsoft.com
 *.z62.w.api.fabric.microsoft.com
@@ -10287,6 +10334,7 @@
 *.z67.sql.cosmos.fabric-df.microsoft.com
 *.z67.table.fabric.microsoft.com
 *.z67.table.fabric-df.microsoft.com
+*.z67.userdatafunctions.fabric.microsoft.com
 *.z67.userdatafunctions.fabric-df.microsoft.com
 *.z67.w.api.fabric.microsoft.com
 *.z67.w.api.fabric-df.microsoft.com
@@ -10332,6 +10380,7 @@
 *.z68.sql.cosmos.fabric.microsoft.com
 *.z68.sql.cosmos.fabric-df.microsoft.com
 *.z68.table.fabric.microsoft.com
+*.z68.table.fabric-df.microsoft.com
 *.z68.userdatafunctions.fabric.microsoft.com
 *.z68.userdatafunctions.fabric-df.microsoft.com
 *.z68.w.api.fabric.microsoft.com
@@ -10429,6 +10478,7 @@
 *.z6a.sql.cosmos.fabric-df.microsoft.com
 *.z6a.table.fabric.microsoft.com
 *.z6a.table.fabric-df.microsoft.com
+*.z6a.userdatafunctions.fabric.microsoft.com
 *.z6a.userdatafunctions.fabric-df.microsoft.com
 *.z6a.w.api.fabric.microsoft.com
 *.z6a.w.api.fabric-df.microsoft.com
@@ -10723,6 +10773,7 @@
 *.z70.sql.cosmos.fabric-df.microsoft.com
 *.z70.table.fabric.microsoft.com
 *.z70.table.fabric-df.microsoft.com
+*.z70.userdatafunctions.fabric.microsoft.com
 *.z70.userdatafunctions.fabric-df.microsoft.com
 *.z70.w.api.fabric.microsoft.com
 *.z70.w.api.fabric-df.microsoft.com
@@ -10771,6 +10822,7 @@
 *.z71.sql.cosmos.fabric-df.microsoft.com
 *.z71.table.fabric.microsoft.com
 *.z71.table.fabric-df.microsoft.com
+*.z71.userdatafunctions.fabric.microsoft.com
 *.z71.userdatafunctions.fabric-df.microsoft.com
 *.z71.w.api.fabric.microsoft.com
 *.z71.w.api.fabric-df.microsoft.com
@@ -10912,6 +10964,7 @@
 *.z74.sql.cosmos.fabric-df.microsoft.com
 *.z74.table.fabric.microsoft.com
 *.z74.table.fabric-df.microsoft.com
+*.z74.userdatafunctions.fabric.microsoft.com
 *.z74.userdatafunctions.fabric-df.microsoft.com
 *.z74.w.api.fabric.microsoft.com
 *.z74.w.api.fabric-df.microsoft.com
@@ -11101,6 +11154,7 @@
 *.z78.sql.cosmos.fabric.microsoft.com
 *.z78.sql.cosmos.fabric-df.microsoft.com
 *.z78.table.fabric-df.microsoft.com
+*.z78.userdatafunctions.fabric.microsoft.com
 *.z78.userdatafunctions.fabric-df.microsoft.com
 *.z78.w.api.fabric.microsoft.com
 *.z78.w.api.fabric-df.microsoft.com
@@ -11290,6 +11344,7 @@
 *.z7c.onelake.fabric-df.microsoft.com
 *.z7c.sql.cosmos.fabric.microsoft.com
 *.z7c.sql.cosmos.fabric-df.microsoft.com
+*.z7c.table.fabric-df.microsoft.com
 *.z7c.userdatafunctions.fabric.microsoft.com
 *.z7c.userdatafunctions.fabric-df.microsoft.com
 *.z7c.w.api.fabric.microsoft.com
@@ -11387,6 +11442,7 @@
 *.z7e.sql.cosmos.fabric-df.microsoft.com
 *.z7e.table.fabric.microsoft.com
 *.z7e.table.fabric-df.microsoft.com
+*.z7e.userdatafunctions.fabric.microsoft.com
 *.z7e.userdatafunctions.fabric-df.microsoft.com
 *.z7e.w.api.fabric.microsoft.com
 *.z7e.w.api.fabric-df.microsoft.com
@@ -11488,6 +11544,7 @@
 *.z80.sql.cosmos.fabric-df.microsoft.com
 *.z80.table.fabric.microsoft.com
 *.z80.table.fabric-df.microsoft.com
+*.z80.userdatafunctions.fabric.microsoft.com
 *.z80.userdatafunctions.fabric-df.microsoft.com
 *.z80.w.api.fabric.microsoft.com
 *.z80.w.api.fabric-df.microsoft.com
@@ -11631,6 +11688,8 @@
 *.z83.sql.cosmos.fabric.microsoft.com
 *.z83.sql.cosmos.fabric-df.microsoft.com
 *.z83.table.fabric.microsoft.com
+*.z83.table.fabric-df.microsoft.com
+*.z83.userdatafunctions.fabric.microsoft.com
 *.z83.userdatafunctions.fabric-df.microsoft.com
 *.z83.w.api.fabric.microsoft.com
 *.z83.w.api.fabric-df.microsoft.com
@@ -11725,6 +11784,7 @@
 *.z85.sql.cosmos.fabric.microsoft.com
 *.z85.sql.cosmos.fabric-df.microsoft.com
 *.z85.table.fabric.microsoft.com
+*.z85.table.fabric-df.microsoft.com
 *.z85.userdatafunctions.fabric.microsoft.com
 *.z85.userdatafunctions.fabric-df.microsoft.com
 *.z85.w.api.fabric.microsoft.com
@@ -11772,6 +11832,7 @@
 *.z86.sql.cosmos.fabric.microsoft.com
 *.z86.sql.cosmos.fabric-df.microsoft.com
 *.z86.table.fabric.microsoft.com
+*.z86.table.fabric-df.microsoft.com
 *.z86.userdatafunctions.fabric.microsoft.com
 *.z86.userdatafunctions.fabric-df.microsoft.com
 *.z86.w.api.fabric.microsoft.com
@@ -11820,6 +11881,8 @@
 *.z87.sql.cosmos.fabric.microsoft.com
 *.z87.sql.cosmos.fabric-df.microsoft.com
 *.z87.table.fabric.microsoft.com
+*.z87.table.fabric-df.microsoft.com
+*.z87.userdatafunctions.fabric.microsoft.com
 *.z87.userdatafunctions.fabric-df.microsoft.com
 *.z87.w.api.fabric.microsoft.com
 *.z87.w.api.fabric-df.microsoft.com
@@ -11915,6 +11978,7 @@
 *.z89.sql.cosmos.fabric.microsoft.com
 *.z89.sql.cosmos.fabric-df.microsoft.com
 *.z89.table.fabric.microsoft.com
+*.z89.table.fabric-df.microsoft.com
 *.z89.userdatafunctions.fabric-df.microsoft.com
 *.z89.w.api.fabric.microsoft.com
 *.z89.w.api.fabric-df.microsoft.com
@@ -11962,6 +12026,7 @@
 *.z8a.sql.cosmos.fabric.microsoft.com
 *.z8a.sql.cosmos.fabric-df.microsoft.com
 *.z8a.table.fabric.microsoft.com
+*.z8a.table.fabric-df.microsoft.com
 *.z8a.userdatafunctions.fabric.microsoft.com
 *.z8a.userdatafunctions.fabric-df.microsoft.com
 *.z8a.w.api.fabric.microsoft.com
@@ -12059,6 +12124,7 @@
 *.z8c.sql.cosmos.fabric.microsoft.com
 *.z8c.sql.cosmos.fabric-df.microsoft.com
 *.z8c.table.fabric.microsoft.com
+*.z8c.table.fabric-df.microsoft.com
 *.z8c.userdatafunctions.fabric.microsoft.com
 *.z8c.userdatafunctions.fabric-df.microsoft.com
 *.z8c.w.api.fabric.microsoft.com
@@ -12642,6 +12708,7 @@
 *.z98.sql.cosmos.fabric-df.microsoft.com
 *.z98.table.fabric.microsoft.com
 *.z98.table.fabric-df.microsoft.com
+*.z98.userdatafunctions.fabric.microsoft.com
 *.z98.userdatafunctions.fabric-df.microsoft.com
 *.z98.w.api.fabric.microsoft.com
 *.z98.w.api.fabric-df.microsoft.com
@@ -12738,6 +12805,7 @@
 *.z9a.sql.cosmos.fabric.microsoft.com
 *.z9a.sql.cosmos.fabric-df.microsoft.com
 *.z9a.table.fabric.microsoft.com
+*.z9a.table.fabric-df.microsoft.com
 *.z9a.userdatafunctions.fabric.microsoft.com
 *.z9a.userdatafunctions.fabric-df.microsoft.com
 *.z9a.w.api.fabric.microsoft.com
@@ -12786,6 +12854,8 @@
 *.z9b.sql.cosmos.fabric.microsoft.com
 *.z9b.sql.cosmos.fabric-df.microsoft.com
 *.z9b.table.fabric.microsoft.com
+*.z9b.table.fabric-df.microsoft.com
+*.z9b.userdatafunctions.fabric.microsoft.com
 *.z9b.userdatafunctions.fabric-df.microsoft.com
 *.z9b.w.api.fabric.microsoft.com
 *.z9b.w.api.fabric-df.microsoft.com
@@ -12882,6 +12952,7 @@
 *.z9d.sql.cosmos.fabric-df.microsoft.com
 *.z9d.table.fabric.microsoft.com
 *.z9d.table.fabric-df.microsoft.com
+*.z9d.userdatafunctions.fabric.microsoft.com
 *.z9d.userdatafunctions.fabric-df.microsoft.com
 *.z9d.w.api.fabric.microsoft.com
 *.z9d.w.api.fabric-df.microsoft.com
@@ -12978,6 +13049,7 @@
 *.z9f.sql.cosmos.fabric.microsoft.com
 *.z9f.sql.cosmos.fabric-df.microsoft.com
 *.z9f.table.fabric.microsoft.com
+*.z9f.table.fabric-df.microsoft.com
 *.z9f.userdatafunctions.fabric.microsoft.com
 *.z9f.userdatafunctions.fabric-df.microsoft.com
 *.z9f.w.api.fabric.microsoft.com
@@ -13222,6 +13294,7 @@
 *.za4.sql.cosmos.fabric-df.microsoft.com
 *.za4.table.fabric.microsoft.com
 *.za4.table.fabric-df.microsoft.com
+*.za4.userdatafunctions.fabric.microsoft.com
 *.za4.userdatafunctions.fabric-df.microsoft.com
 *.za4.w.api.fabric.microsoft.com
 *.za4.w.api.fabric-df.microsoft.com
@@ -13368,6 +13441,7 @@
 *.za7.sql.cosmos.fabric-df.microsoft.com
 *.za7.table.fabric.microsoft.com
 *.za7.table.fabric-df.microsoft.com
+*.za7.userdatafunctions.fabric.microsoft.com
 *.za7.userdatafunctions.fabric-df.microsoft.com
 *.za7.w.api.fabric.microsoft.com
 *.za7.w.api.fabric-df.microsoft.com
@@ -13414,6 +13488,7 @@
 *.za8.sql.cosmos.fabric.microsoft.com
 *.za8.sql.cosmos.fabric-df.microsoft.com
 *.za8.table.fabric.microsoft.com
+*.za8.userdatafunctions.fabric.microsoft.com
 *.za8.userdatafunctions.fabric-df.microsoft.com
 *.za8.w.api.fabric.microsoft.com
 *.za8.w.api.fabric-df.microsoft.com
@@ -13461,6 +13536,7 @@
 *.za9.sql.cosmos.fabric.microsoft.com
 *.za9.sql.cosmos.fabric-df.microsoft.com
 *.za9.table.fabric.microsoft.com
+*.za9.table.fabric-df.microsoft.com
 *.za9.userdatafunctions.fabric.microsoft.com
 *.za9.userdatafunctions.fabric-df.microsoft.com
 *.za9.w.api.fabric.microsoft.com
@@ -13652,6 +13728,7 @@
 *.zad.sql.cosmos.fabric-df.microsoft.com
 *.zad.table.fabric.microsoft.com
 *.zad.table.fabric-df.microsoft.com
+*.zad.userdatafunctions.fabric.microsoft.com
 *.zad.userdatafunctions.fabric-df.microsoft.com
 *.zad.w.api.fabric.microsoft.com
 *.zad.w.api.fabric-df.microsoft.com
@@ -13796,6 +13873,7 @@
 *.zb0.sql.cosmos.fabric-df.microsoft.com
 *.zb0.table.fabric.microsoft.com
 *.zb0.table.fabric-df.microsoft.com
+*.zb0.userdatafunctions.fabric.microsoft.com
 *.zb0.userdatafunctions.fabric-df.microsoft.com
 *.zb0.w.api.fabric.microsoft.com
 *.zb0.w.api.fabric-df.microsoft.com
@@ -13844,6 +13922,7 @@
 *.zb1.sql.cosmos.fabric-df.microsoft.com
 *.zb1.table.fabric.microsoft.com
 *.zb1.table.fabric-df.microsoft.com
+*.zb1.userdatafunctions.fabric.microsoft.com
 *.zb1.userdatafunctions.fabric-df.microsoft.com
 *.zb1.w.api.fabric.microsoft.com
 *.zb1.w.api.fabric-df.microsoft.com
@@ -13939,6 +14018,7 @@
 *.zb3.sql.cosmos.fabric-df.microsoft.com
 *.zb3.table.fabric.microsoft.com
 *.zb3.table.fabric-df.microsoft.com
+*.zb3.userdatafunctions.fabric.microsoft.com
 *.zb3.userdatafunctions.fabric-df.microsoft.com
 *.zb3.w.api.fabric.microsoft.com
 *.zb3.w.api.fabric-df.microsoft.com
@@ -13985,6 +14065,7 @@
 *.zb4.sql.cosmos.fabric-df.microsoft.com
 *.zb4.table.fabric.microsoft.com
 *.zb4.table.fabric-df.microsoft.com
+*.zb4.userdatafunctions.fabric.microsoft.com
 *.zb4.userdatafunctions.fabric-df.microsoft.com
 *.zb4.w.api.fabric.microsoft.com
 *.zb4.w.api.fabric-df.microsoft.com
@@ -14032,6 +14113,7 @@
 *.zb5.sql.cosmos.fabric.microsoft.com
 *.zb5.sql.cosmos.fabric-df.microsoft.com
 *.zb5.table.fabric.microsoft.com
+*.zb5.table.fabric-df.microsoft.com
 *.zb5.userdatafunctions.fabric.microsoft.com
 *.zb5.userdatafunctions.fabric-df.microsoft.com
 *.zb5.w.api.fabric.microsoft.com
@@ -14079,6 +14161,8 @@
 *.zb6.sql.cosmos.fabric.microsoft.com
 *.zb6.sql.cosmos.fabric-df.microsoft.com
 *.zb6.table.fabric.microsoft.com
+*.zb6.table.fabric-df.microsoft.com
+*.zb6.userdatafunctions.fabric.microsoft.com
 *.zb6.userdatafunctions.fabric-df.microsoft.com
 *.zb6.w.api.fabric.microsoft.com
 *.zb6.w.api.fabric-df.microsoft.com
@@ -14322,6 +14406,7 @@
 *.zbb.sql.cosmos.fabric-df.microsoft.com
 *.zbb.table.fabric.microsoft.com
 *.zbb.table.fabric-df.microsoft.com
+*.zbb.userdatafunctions.fabric.microsoft.com
 *.zbb.userdatafunctions.fabric-df.microsoft.com
 *.zbb.w.api.fabric.microsoft.com
 *.zbb.w.api.fabric-df.microsoft.com
@@ -14418,6 +14503,7 @@
 *.zbd.sql.cosmos.fabric-df.microsoft.com
 *.zbd.table.fabric.microsoft.com
 *.zbd.table.fabric-df.microsoft.com
+*.zbd.userdatafunctions.fabric.microsoft.com
 *.zbd.userdatafunctions.fabric-df.microsoft.com
 *.zbd.w.api.fabric.microsoft.com
 *.zbd.w.api.fabric-df.microsoft.com
@@ -14466,6 +14552,7 @@
 *.zbe.sql.cosmos.fabric-df.microsoft.com
 *.zbe.table.fabric.microsoft.com
 *.zbe.table.fabric-df.microsoft.com
+*.zbe.userdatafunctions.fabric.microsoft.com
 *.zbe.userdatafunctions.fabric-df.microsoft.com
 *.zbe.w.api.fabric.microsoft.com
 *.zbe.w.api.fabric-df.microsoft.com
@@ -14563,6 +14650,7 @@
 *.zc0.sql.cosmos.fabric-df.microsoft.com
 *.zc0.table.fabric.microsoft.com
 *.zc0.table.fabric-df.microsoft.com
+*.zc0.userdatafunctions.fabric.microsoft.com
 *.zc0.userdatafunctions.fabric-df.microsoft.com
 *.zc0.w.api.fabric.microsoft.com
 *.zc0.w.api.fabric-df.microsoft.com
@@ -14611,6 +14699,7 @@
 *.zc1.sql.cosmos.fabric-df.microsoft.com
 *.zc1.table.fabric.microsoft.com
 *.zc1.table.fabric-df.microsoft.com
+*.zc1.userdatafunctions.fabric.microsoft.com
 *.zc1.userdatafunctions.fabric-df.microsoft.com
 *.zc1.w.api.fabric.microsoft.com
 *.zc1.w.api.fabric-df.microsoft.com
@@ -14701,6 +14790,7 @@
 *.zc3.msit-onelake.fabric.microsoft.com
 *.zc3.msit-sql.cosmos.fabric.microsoft.com
 *.zc3.msitgraphql.fabric.microsoft.com
+*.zc3.msituserdatafunctions.fabric.microsoft.com
 *.zc3.onelake.fabric.microsoft.com
 *.zc3.onelake.fabric-df.microsoft.com
 *.zc3.sql.cosmos.fabric.microsoft.com
@@ -14804,6 +14894,7 @@
 *.zc5.sql.cosmos.fabric-df.microsoft.com
 *.zc5.table.fabric.microsoft.com
 *.zc5.table.fabric-df.microsoft.com
+*.zc5.userdatafunctions.fabric.microsoft.com
 *.zc5.userdatafunctions.fabric-df.microsoft.com
 *.zc5.w.api.fabric.microsoft.com
 *.zc5.w.api.fabric-df.microsoft.com
@@ -14900,6 +14991,7 @@
 *.zc7.sql.cosmos.fabric-df.microsoft.com
 *.zc7.table.fabric.microsoft.com
 *.zc7.table.fabric-df.microsoft.com
+*.zc7.userdatafunctions.fabric.microsoft.com
 *.zc7.userdatafunctions.fabric-df.microsoft.com
 *.zc7.w.api.fabric.microsoft.com
 *.zc7.w.api.fabric-df.microsoft.com
@@ -14946,6 +15038,7 @@
 *.zc8.sql.cosmos.fabric-df.microsoft.com
 *.zc8.table.fabric.microsoft.com
 *.zc8.table.fabric-df.microsoft.com
+*.zc8.userdatafunctions.fabric.microsoft.com
 *.zc8.userdatafunctions.fabric-df.microsoft.com
 *.zc8.w.api.fabric.microsoft.com
 *.zc8.w.api.fabric-df.microsoft.com
@@ -15042,6 +15135,7 @@
 *.zca.sql.cosmos.fabric-df.microsoft.com
 *.zca.table.fabric.microsoft.com
 *.zca.table.fabric-df.microsoft.com
+*.zca.userdatafunctions.fabric.microsoft.com
 *.zca.userdatafunctions.fabric-df.microsoft.com
 *.zca.w.api.fabric.microsoft.com
 *.zca.w.api.fabric-df.microsoft.com
@@ -15089,6 +15183,7 @@
 *.zcb.sql.cosmos.fabric.microsoft.com
 *.zcb.sql.cosmos.fabric-df.microsoft.com
 *.zcb.table.fabric.microsoft.com
+*.zcb.table.fabric-df.microsoft.com
 *.zcb.userdatafunctions.fabric.microsoft.com
 *.zcb.userdatafunctions.fabric-df.microsoft.com
 *.zcb.w.api.fabric.microsoft.com
@@ -15137,6 +15232,7 @@
 *.zcc.sql.cosmos.fabric.microsoft.com
 *.zcc.sql.cosmos.fabric-df.microsoft.com
 *.zcc.table.fabric.microsoft.com
+*.zcc.table.fabric-df.microsoft.com
 *.zcc.userdatafunctions.fabric-df.microsoft.com
 *.zcc.w.api.fabric.microsoft.com
 *.zcc.w.api.fabric-df.microsoft.com
@@ -15184,6 +15280,7 @@
 *.zcd.sql.cosmos.fabric.microsoft.com
 *.zcd.sql.cosmos.fabric-df.microsoft.com
 *.zcd.table.fabric.microsoft.com
+*.zcd.table.fabric-df.microsoft.com
 *.zcd.userdatafunctions.fabric.microsoft.com
 *.zcd.userdatafunctions.fabric-df.microsoft.com
 *.zcd.w.api.fabric.microsoft.com
@@ -15231,6 +15328,7 @@
 *.zce.sql.cosmos.fabric.microsoft.com
 *.zce.sql.cosmos.fabric-df.microsoft.com
 *.zce.table.fabric.microsoft.com
+*.zce.table.fabric-df.microsoft.com
 *.zce.userdatafunctions.fabric-df.microsoft.com
 *.zce.w.api.fabric.microsoft.com
 *.zce.w.api.fabric-df.microsoft.com
@@ -15521,6 +15619,7 @@
 *.zd4.sql.cosmos.fabric-df.microsoft.com
 *.zd4.table.fabric.microsoft.com
 *.zd4.table.fabric-df.microsoft.com
+*.zd4.userdatafunctions.fabric.microsoft.com
 *.zd4.userdatafunctions.fabric-df.microsoft.com
 *.zd4.w.api.fabric.microsoft.com
 *.zd4.w.api.fabric-df.microsoft.com
@@ -15569,6 +15668,7 @@
 *.zd5.sql.cosmos.fabric-df.microsoft.com
 *.zd5.table.fabric.microsoft.com
 *.zd5.table.fabric-df.microsoft.com
+*.zd5.userdatafunctions.fabric.microsoft.com
 *.zd5.userdatafunctions.fabric-df.microsoft.com
 *.zd5.w.api.fabric.microsoft.com
 *.zd5.w.api.fabric-df.microsoft.com
@@ -15858,6 +15958,7 @@
 *.zdb.sql.cosmos.fabric.microsoft.com
 *.zdb.sql.cosmos.fabric-df.microsoft.com
 *.zdb.table.fabric.microsoft.com
+*.zdb.table.fabric-df.microsoft.com
 *.zdb.userdatafunctions.fabric.microsoft.com
 *.zdb.userdatafunctions.fabric-df.microsoft.com
 *.zdb.w.api.fabric.microsoft.com
@@ -16052,6 +16153,7 @@
 *.zdf.sql.cosmos.fabric.microsoft.com
 *.zdf.sql.cosmos.fabric-df.microsoft.com
 *.zdf.table.fabric.microsoft.com
+*.zdf.table.fabric-df.microsoft.com
 *.zdf.userdatafunctions.fabric.microsoft.com
 *.zdf.userdatafunctions.fabric-df.microsoft.com
 *.zdf.w.api.fabric.microsoft.com
@@ -16197,6 +16299,7 @@
 *.ze2.onelake.fabric-df.microsoft.com
 *.ze2.sql.cosmos.fabric.microsoft.com
 *.ze2.sql.cosmos.fabric-df.microsoft.com
+*.ze2.table.fabric-df.microsoft.com
 *.ze2.userdatafunctions.fabric.microsoft.com
 *.ze2.userdatafunctions.fabric-df.microsoft.com
 *.ze2.w.api.fabric.microsoft.com
@@ -16294,6 +16397,8 @@
 *.ze4.sql.cosmos.fabric.microsoft.com
 *.ze4.sql.cosmos.fabric-df.microsoft.com
 *.ze4.table.fabric.microsoft.com
+*.ze4.table.fabric-df.microsoft.com
+*.ze4.userdatafunctions.fabric.microsoft.com
 *.ze4.userdatafunctions.fabric-df.microsoft.com
 *.ze4.w.api.fabric.microsoft.com
 *.ze4.w.api.fabric-df.microsoft.com
@@ -16484,6 +16589,7 @@
 *.ze8.sql.cosmos.fabric-df.microsoft.com
 *.ze8.table.fabric.microsoft.com
 *.ze8.table.fabric-df.microsoft.com
+*.ze8.userdatafunctions.fabric.microsoft.com
 *.ze8.userdatafunctions.fabric-df.microsoft.com
 *.ze8.w.api.fabric.microsoft.com
 *.ze8.w.api.fabric-df.microsoft.com
@@ -16581,6 +16687,7 @@
 *.zea.sql.cosmos.fabric-df.microsoft.com
 *.zea.table.fabric.microsoft.com
 *.zea.table.fabric-df.microsoft.com
+*.zea.userdatafunctions.fabric.microsoft.com
 *.zea.userdatafunctions.fabric-df.microsoft.com
 *.zea.w.api.fabric.microsoft.com
 *.zea.w.api.fabric-df.microsoft.com
@@ -16628,6 +16735,7 @@
 *.zeb.sql.cosmos.fabric.microsoft.com
 *.zeb.sql.cosmos.fabric-df.microsoft.com
 *.zeb.table.fabric.microsoft.com
+*.zeb.table.fabric-df.microsoft.com
 *.zeb.userdatafunctions.fabric.microsoft.com
 *.zeb.userdatafunctions.fabric-df.microsoft.com
 *.zeb.w.api.fabric.microsoft.com
@@ -16677,6 +16785,7 @@
 *.zec.sql.cosmos.fabric-df.microsoft.com
 *.zec.table.fabric.microsoft.com
 *.zec.table.fabric-df.microsoft.com
+*.zec.userdatafunctions.fabric.microsoft.com
 *.zec.userdatafunctions.fabric-df.microsoft.com
 *.zec.w.api.fabric.microsoft.com
 *.zec.w.api.fabric-df.microsoft.com
@@ -16766,6 +16875,7 @@
 *.zee.msit-onelake.fabric.microsoft.com
 *.zee.msit-sql.cosmos.fabric.microsoft.com
 *.zee.msitgraphql.fabric.microsoft.com
+*.zee.msituserdatafunctions.fabric.microsoft.com
 *.zee.onelake.fabric.microsoft.com
 *.zee.onelake.fabric-df.microsoft.com
 *.zee.sql.cosmos.fabric.microsoft.com
@@ -16965,6 +17075,7 @@
 *.zf2.sql.cosmos.fabric-df.microsoft.com
 *.zf2.table.fabric.microsoft.com
 *.zf2.table.fabric-df.microsoft.com
+*.zf2.userdatafunctions.fabric.microsoft.com
 *.zf2.userdatafunctions.fabric-df.microsoft.com
 *.zf2.w.api.fabric.microsoft.com
 *.zf2.w.api.fabric-df.microsoft.com
@@ -17157,6 +17268,7 @@
 *.zf6.sql.cosmos.fabric-df.microsoft.com
 *.zf6.table.fabric.microsoft.com
 *.zf6.table.fabric-df.microsoft.com
+*.zf6.userdatafunctions.fabric.microsoft.com
 *.zf6.userdatafunctions.fabric-df.microsoft.com
 *.zf6.w.api.fabric.microsoft.com
 *.zf6.w.api.fabric-df.microsoft.com
@@ -17205,6 +17317,7 @@
 *.zf7.sql.cosmos.fabric-df.microsoft.com
 *.zf7.table.fabric.microsoft.com
 *.zf7.table.fabric-df.microsoft.com
+*.zf7.userdatafunctions.fabric.microsoft.com
 *.zf7.userdatafunctions.fabric-df.microsoft.com
 *.zf7.w.api.fabric.microsoft.com
 *.zf7.w.api.fabric-df.microsoft.com
@@ -17253,6 +17366,7 @@
 *.zf8.sql.cosmos.fabric-df.microsoft.com
 *.zf8.table.fabric.microsoft.com
 *.zf8.table.fabric-df.microsoft.com
+*.zf8.userdatafunctions.fabric.microsoft.com
 *.zf8.userdatafunctions.fabric-df.microsoft.com
 *.zf8.w.api.fabric.microsoft.com
 *.zf8.w.api.fabric-df.microsoft.com
@@ -17447,6 +17561,7 @@
 *.zfc.sql.cosmos.fabric-df.microsoft.com
 *.zfc.table.fabric.microsoft.com
 *.zfc.table.fabric-df.microsoft.com
+*.zfc.userdatafunctions.fabric.microsoft.com
 *.zfc.userdatafunctions.fabric-df.microsoft.com
 *.zfc.w.api.fabric.microsoft.com
 *.zfc.w.api.fabric-df.microsoft.com
@@ -17544,6 +17659,7 @@
 *.zfe.sql.cosmos.fabric-df.microsoft.com
 *.zfe.table.fabric.microsoft.com
 *.zfe.table.fabric-df.microsoft.com
+*.zfe.userdatafunctions.fabric.microsoft.com
 *.zfe.userdatafunctions.fabric-df.microsoft.com
 *.zfe.w.api.fabric.microsoft.com
 *.zfe.w.api.fabric-df.microsoft.com
@@ -18137,6 +18253,7 @@
 001-ause.apac.prd.ivr.cos.mediapaas.infra.teams.microsoft.com
 001-az.cos.audience.gcc.teams.microsoft.com
 001-cace.noam.prod.cos.audience.teams.microsoft.com
+001-cace.noam.test.cos.audience.teams.microsoft.com
 001-euno.emea.dog.cos.audience.teams.microsoft.com
 001-euno.emea.prd.api.cos.mediapaas.infra.teams.microsoft.com
 001-euno.emea.prd.api.mediapaas.infra.teams.microsoft.com
@@ -18376,6 +18493,7 @@
 003-uswe.noam.prod.cos.audience.teams.microsoft.com
 003-uswe.noam.test.api.cos.mediapaas.infra.teams.microsoft.com
 004-auea.apac.prd.api.mediapaas.infra.teams.microsoft.com
+004-auea.apac.prd.ivr.cos.mediapaas.infra.teams.microsoft.com
 004-auea.apac.prod.cos.audience.teams.microsoft.com
 004-ause.apac.prd.api.cos.mediapaas.infra.teams.microsoft.com
 004-az.cos.audience.gcc.teams.microsoft.com
@@ -29132,6 +29250,7 @@ afd-test.preprod-eventreadiness.cxp.services.microsoft.com
 afd-upgrade-001.appgw-central.nepeters.supplychain.microsoft.com
 afd-upgrade-001.appgw-eaast.nepeters.supplychain.microsoft.com
 afd-upgrade-central-003.nepeters.supplychain.microsoft.com
+afd.aihardware.carina.stca.microsoft.com
 afd.api.esi.microsoft.com
 afd.esi.microsoft.com
 afd.medeina-dev.defender.microsoft.com
@@ -30887,6 +31006,7 @@ api.supplychainiot.microsoft.com
 api.supplychainiot-ppe.microsoft.com
 api.support.microsoft.com
 api.support-aries.microsoft.com
+api.surface.partner.microsoft.com
 api.sw02.dm.microsoft.com
 api.swedencentral.internal.mwai.microsoft.com
 api.taskanalysis.microsoft.com
@@ -31896,6 +32016,7 @@ askideas-torus-ppe.microsoft.com
 askma.microsoft.com
 askrbp.microsoft.com
 asksci.microsoft.com
+askwindowscoco.microsoft.com
 asm-svc.partners.extranet.microsoft.com
 asnonprodcoordinators.ntdev.corp.microsoft.com
 asnonprodreleaseservers.ntdev.corp.microsoft.com
@@ -33968,23 +34089,120 @@ auto-aussebp-pbi-kv-httpszonef9.zf9.w.api.fabric.microsoft.com
 auto-aussebp-pbi-kv-httpszonefb.zfb.w.api.fabric.microsoft.com
 auto-aussebp-pbi-kv-httpszonefd.zfd.w.api.fabric.microsoft.com
 auto-aussebp-pbi-kv-httpszonefe.zfe.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone01.z01.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone04.z04.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone06.z06.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone07.z07.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone08.z08.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone0d.z0d.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone0e.z0e.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone0f.z0f.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone10.z10.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone13.z13.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone14.z14.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone17.z17.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone20.z20.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone22.z22.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone24.z24.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone27.z27.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone28.z28.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone2a.z2a.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone2b.z2b.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone2d.z2d.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone2e.z2e.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone2f.z2f.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone37.z37.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone38.z38.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone3a.z3a.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone3b.z3b.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone3c.z3c.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone3d.z3d.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone3e.z3e.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone41.z41.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone44.z44.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone45.z45.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone46.z46.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone47.z47.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone4b.z4b.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone4c.z4c.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone4f.z4f.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone50.z50.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone52.z52.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone53.z53.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone55.z55.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone56.z56.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone57.z57.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone58.z58.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone5a.z5a.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone5c.z5c.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone5e.z5e.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone60.z60.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone63.z63.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone67.z67.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone68.z68.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone71.z71.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone73.z73.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone74.z74.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone79.z79.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone7b.z7b.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone7c.z7c.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone7e.z7e.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone80.z80.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone81.z81.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone82.z82.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone85.z85.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone8a.z8a.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone8e.z8e.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszone90.z90.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone96.z96.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone9b.z9b.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone9d.z9d.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszone9e.z9e.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszonea1.za1.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonea4.za4.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszonea5.za5.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneab.zab.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonead.zad.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneb0.zb0.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneb1.zb1.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneb3.zb3.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneb7.zb7.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneb8.zb8.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneba.zba.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonebb.zbb.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonebc.zbc.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonebd.zbd.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonebf.zbf.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonec0.zc0.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonec1.zc1.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonec5.zc5.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonec6.zc6.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonec7.zc7.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonec8.zc8.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneca.zca.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonecd.zcd.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszoned0.zd0.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoned3.zd3.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneda.zda.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonedb.zdb.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonedd.zdd.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonedf.zdf.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszonee1.ze1.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonee4.ze4.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszonee5.ze5.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonee8.ze8.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneea.zea.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneeb.zeb.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszoneed.zed.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszoneee.zee.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonef2.zf2.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonef3.zf3.w.api.fabric.microsoft.com
 auto-auteasap-pbi-kv-httpszonef4.zf4.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonef8.zf8.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonefa.zfa.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonefb.zfb.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonefc.zfc.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonefe.zfe.w.api.fabric.microsoft.com
 auto-bcdrfma1-pbi-kv-httpszone00.z00.w.api.fabric-df.microsoft.com
 auto-bcdrfma1-pbi-kv-httpszone01.z01.w.api.fabric-df.microsoft.com
 auto-bcdrfma1-pbi-kv-httpszone02.z02.w.api.fabric-df.microsoft.com
@@ -36089,30 +36307,116 @@ auto-caneasbu-pbi-kv-httpszonef7.zf7.w.api.fabric.microsoft.com
 auto-caneasbu-pbi-kv-httpszonefa.zfa.w.api.fabric.microsoft.com
 auto-caneasbu-pbi-kv-httpszonefb.zfb.w.api.fabric.microsoft.com
 auto-caneasbu-pbi-kv-httpszoneff.zff.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone00.z00.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone01.z01.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone05.z05.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone07.z07.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone0a.z0a.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone0b.z0b.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone0c.z0c.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone10.z10.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone12.z12.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone13.z13.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone14.z14.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone1a.z1a.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone1b.z1b.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone1f.z1f.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone23.z23.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone28.z28.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone2a.z2a.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone2c.z2c.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone2f.z2f.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone30.z30.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone35.z35.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone36.z36.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone37.z37.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone3a.z3a.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone3d.z3d.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone3e.z3e.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone40.z40.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone42.z42.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone43.z43.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone46.z46.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone47.z47.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone4c.z4c.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone50.z50.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone51.z51.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone52.z52.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone54.z54.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone55.z55.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone57.z57.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone5f.z5f.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone61.z61.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone62.z62.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone63.z63.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone64.z64.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone6a.z6a.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone6f.z6f.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone70.z70.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone73.z73.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone76.z76.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone78.z78.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone79.z79.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone7b.z7b.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone7c.z7c.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone82.z82.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone83.z83.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone84.z84.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone85.z85.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone87.z87.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone8a.z8a.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone8f.z8f.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone90.z90.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone91.z91.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone98.z98.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone99.z99.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone9a.z9a.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszone9d.z9d.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone9e.z9e.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszone9f.z9f.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszonea0.za0.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszonea2.za2.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonea3.za3.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonea5.za5.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonea7.za7.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonea8.za8.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszoneab.zab.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonead.zad.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoneb4.zb4.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoneb5.zb5.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoneb6.zb6.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoneb8.zb8.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszoneba.zba.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonebe.zbe.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszonebf.zbf.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonec0.zc0.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonec2.zc2.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonec5.zc5.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonec7.zc7.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonec8.zc8.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonecb.zcb.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoned0.zd0.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoned5.zd5.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoned6.zd6.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoned7.zd7.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszoned8.zd8.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonedd.zdd.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszonedf.zdf.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonee0.ze0.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonee1.ze1.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszonee2.ze2.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonee5.ze5.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonee6.ze6.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonee8.ze8.w.api.fabric.microsoft.com
 auto-chicenap-pbi-kv-httpszoneeb.zeb.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoneec.zec.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszoneed.zed.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonef3.zf3.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonef5.zf5.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonef6.zf6.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonef7.zf7.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonef8.zf8.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonefe.zfe.w.api.fabric.microsoft.com
 auto-cusap-pbi-kv-httpszone00.z00.w.api.fabric.microsoft.com
 auto-cusap-pbi-kv-httpszone02.z02.w.api.fabric.microsoft.com
 auto-cusap-pbi-kv-httpszone04.z04.w.api.fabric.microsoft.com
@@ -44604,6 +44908,7 @@ auto-msitwcus-pbi-kv-httpszone39.z39.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone3a.z3a.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone3b.z3b.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone3c.z3c.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszone3d.z3d.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone3e.z3e.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone40.z40.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszone41.z41.w.msitapi.fabric.microsoft.com
@@ -76812,6 +77117,7 @@ cgbrea002rcp01.corp.microsoft.com
 cgbrea002rcp02.corp.microsoft.com
 cgbslon22a7550.network.microsoft.com
 cgbslon22a7551.network.microsoft.com
+cgbslor34an1m2.network.microsoft.com
 cgbwdnl24a7550.network.microsoft.com
 cgbwdnl24a7551.network.microsoft.com
 cgbwgcn21a4401.network.microsoft.com
@@ -77332,6 +77638,7 @@ cinambm20m1002.network.microsoft.com
 cinambm20m1081.network.microsoft.com
 cinambm20m1082.network.microsoft.com
 cinban7vaan1aa.network.microsoft.com
+cinban7vaan1m1.network.microsoft.com
 cinban7vaan5aa.network.microsoft.com
 cinban7vaan5ab.network.microsoft.com
 cinban7vaan7k1.network.microsoft.com
@@ -77567,6 +77874,7 @@ cjptok163m1083.network.microsoft.com
 cjptok163m1084.network.microsoft.com
 cjptok2chan1aa.network.microsoft.com
 cjptok2chan5aa.network.microsoft.com
+cjptok2chan5ab.network.microsoft.com
 cjptok2chf5b71.network.microsoft.com
 cjptok2chf5b72.network.microsoft.com
 cjs-prdhlb01a.mfg.selfhost.corp.microsoft.com
@@ -81116,6 +81424,7 @@ cuschy644m1091.network.microsoft.com
 cuschy644p523a.network.microsoft.com
 cuschy644p523b.network.microsoft.com
 cuschy644p52a1.network.microsoft.com
+cuschy644ppv0a.network.microsoft.com
 cuschy644rcp01.corp.microsoft.com
 cuschy644rcp02.corp.microsoft.com
 cuschy644rcp03.corp.microsoft.com
@@ -82061,6 +82370,7 @@ damultiplexorintcert.manage.microsoft.com
 damultiplexorppecert.manage.microsoft.com
 damultiplexorprodcert.manage.microsoft.com
 dana-platform.be.prod.dana.microsoft.com
+dana-platform.be.test.dana.microsoft.com
 dana.platform.microsoft.com
 dannuity.corp.microsoft.com
 daofficeintcert.manage.microsoft.com
@@ -85856,6 +86166,7 @@ edgediagnostic.globalsecureaccess.entra.microsoft.com
 edgeedrop.microsoft.com
 edgejwt-prd.internal.mda.microsoft.com
 edgejwtcert-prd.internal.mda.microsoft.com
+edgemobilenotificationservice.microsoft.com
 edgemobileservices.microsoft.com
 edgeoffer.microsoft.com
 edgepool01.ashhu.myworkspace.microsoft.com
@@ -95449,6 +95760,7 @@ inventoryadjapi.inv.mp.microsoft.com
 inventoryopexapi.inv-int.mp.microsoft.com
 inventoryopexapi.inv.mp.microsoft.com
 inventoryservices.preprod.fdagw.profileskills.microsoft.com
+inventoryserviceseus2.prod.fdagw.profileskills.microsoft.com
 inventoryserviceswus3.preprod.fdagw.profileskills.microsoft.com
 inventoryserviceswus3.prod.fdagw.profileskills.microsoft.com
 inventvalves.cot.mp.microsoft.com
@@ -95482,6 +95794,7 @@ invoice.partners.extranet.microsoft.com
 invoice.services.dev.microsoft.com
 invoice.services.prd.microsoft.com
 invoice.services.tst.microsoft.com
+invoice.services.tst.internal.microsoft.com
 invoiceautomationaccount.corp.microsoft.com
 invoicedocument.cp.microsoft.com
 invoicegrouping-clientauth.cp.microsoft.com
@@ -95640,6 +95953,7 @@ irving.msftvpn-alt.ras.microsoft.com
 irving.msftvpn.ras.microsoft.com
 is-isdepot.sourcedepot.corp.microsoft.com
 is-isdepot.sys-ntgroup.ntdev.microsoft.com
+isaac-aircapi-ppe.mp.microsoft.com
 isaac.mp.microsoft.com
 isecore-dev.microsoft.com
 iseintegration.corp.microsoft.com
@@ -98038,6 +98352,7 @@ lumiahelptipscdnqa.microsoft.com
 lumiahelptipsmscdn.microsoft.com
 lumiahelptipsmscdnqa.microsoft.com
 lumiazilla.microsoft.com
+lusalvtecan5l1.network.microsoft.com
 lusatlnstan501.network.microsoft.com
 lusatlnstp342a.network.microsoft.com
 lusboi401an101.network.microsoft.com
@@ -98045,6 +98360,8 @@ lusboi401an501.network.microsoft.com
 luschl2apan101.network.microsoft.com
 luschy644cnm02.corp.microsoft.com
 lushilbeaan501.network.microsoft.com
+lushilbeaan502.network.microsoft.com
+lushillvdan5l1.network.microsoft.com
 lushouhouan101.network.microsoft.com
 lushouhouan500.network.microsoft.com
 lushouhoup851a.network.microsoft.com
@@ -98065,6 +98382,7 @@ lusmtvsvcanrl2.network.microsoft.com
 lusmtvsvcr7201.network.microsoft.com
 lusmtvsvcr7202.network.microsoft.com
 lusmtvsvcrmm01.network.microsoft.com
+luspit910an502.network.microsoft.com
 lusred017an101.network.microsoft.com
 lusred018a7502.network.microsoft.com
 lusred018an101.network.microsoft.com
@@ -98154,6 +98472,7 @@ lusred027an501.network.microsoft.com
 lusred027an502.network.microsoft.com
 lusred034an501.network.microsoft.com
 lusred035an104.network.microsoft.com
+lusred035an105.network.microsoft.com
 lusred035an2l1.network.microsoft.com
 lusred035an2l2.network.microsoft.com
 lusred035an503.network.microsoft.com
@@ -98383,6 +98702,7 @@ lusred037anr18.network.microsoft.com
 lusred037anr19.network.microsoft.com
 lusred037f5b01.network.microsoft.com
 lusred037f5b02.network.microsoft.com
+lusred041an5l1.network.microsoft.com
 lusred041an5l2.network.microsoft.com
 lusred043an101.network.microsoft.com
 lusred043an102.network.microsoft.com
@@ -98432,6 +98752,7 @@ lusred084an101.network.microsoft.com
 lusred084an102.network.microsoft.com
 lusred084an103.network.microsoft.com
 lusred084an106.network.microsoft.com
+lusred084an110.network.microsoft.com
 lusred084an111.network.microsoft.com
 lusred084an112.network.microsoft.com
 lusred084an113.network.microsoft.com
@@ -98655,6 +98976,7 @@ lusred116an118.network.microsoft.com
 lusred116an119.network.microsoft.com
 lusred116an120.network.microsoft.com
 lusred116an121.network.microsoft.com
+lusred116an122.network.microsoft.com
 lusred116an123.network.microsoft.com
 lusred116an124.network.microsoft.com
 lusred116an125.network.microsoft.com
@@ -98707,6 +99029,7 @@ lusred116an175.network.microsoft.com
 lusred116an176.network.microsoft.com
 lusred116an177.network.microsoft.com
 lusred116an180.network.microsoft.com
+lusred116an181.network.microsoft.com
 lusred116an185.network.microsoft.com
 lusred116an191.network.microsoft.com
 lusred116an192.network.microsoft.com
@@ -98722,6 +99045,7 @@ lusred116an19b.network.microsoft.com
 lusred116an19c.network.microsoft.com
 lusred116an19d.network.microsoft.com
 lusred116an19e.network.microsoft.com
+lusred116an19k.network.microsoft.com
 lusred116an19l.network.microsoft.com
 lusred116an19m.network.microsoft.com
 lusred116an19n.network.microsoft.com
@@ -98766,6 +99090,7 @@ lusred116an1b6.network.microsoft.com
 lusred116an1b7.network.microsoft.com
 lusred116an1b8.network.microsoft.com
 lusred116an1b9.network.microsoft.com
+lusred116an205.network.microsoft.com
 lusred116an206.network.microsoft.com
 lusred116an207.network.microsoft.com
 lusred116an208.network.microsoft.com
@@ -98983,6 +99308,7 @@ lusred177an501.network.microsoft.com
 lusred177an502.network.microsoft.com
 lusred98aan101.network.microsoft.com
 lusredmpcan101.network.microsoft.com
+lusredrr1a7501.network.microsoft.com
 lusredrr1a7801.network.microsoft.com
 lusredrr1a7802.network.microsoft.com
 lusredrr1an101.network.microsoft.com
@@ -99065,6 +99391,7 @@ lusredrr1an12y.network.microsoft.com
 lusredrr1an13a.network.microsoft.com
 lusredrr1an13h.network.microsoft.com
 lusredrr1an13k.network.microsoft.com
+lusredrr1an13l.network.microsoft.com
 lusredrr1an13m.network.microsoft.com
 lusredrr1an13n.network.microsoft.com
 lusredrr1an13o.network.microsoft.com
@@ -99095,6 +99422,7 @@ lusredrr1an14s.network.microsoft.com
 lusredrr1an14t.network.microsoft.com
 lusredrr1an14x.network.microsoft.com
 lusredrr1an14z.network.microsoft.com
+lusredrr1an155.network.microsoft.com
 lusredrr1an157.network.microsoft.com
 lusredrr1an158.network.microsoft.com
 lusredrr1an159.network.microsoft.com
@@ -99130,6 +99458,7 @@ lusredrr1an165.network.microsoft.com
 lusredrr1an166.network.microsoft.com
 lusredrr1an167.network.microsoft.com
 lusredrr1an168.network.microsoft.com
+lusredrr1an16q.network.microsoft.com
 lusredrr1an16t.network.microsoft.com
 lusredrr1an16v.network.microsoft.com
 lusredrr1an171.network.microsoft.com
@@ -99189,12 +99518,14 @@ lusredrr1an19r.network.microsoft.com
 lusredrr1an19s.network.microsoft.com
 lusredrr1an19t.network.microsoft.com
 lusredrr1an19w.network.microsoft.com
+lusredrr1an19y.network.microsoft.com
 lusredrr1an1a1.network.microsoft.com
 lusredrr1an1a3.network.microsoft.com
 lusredrr1an1a4.network.microsoft.com
 lusredrr1an1a6.network.microsoft.com
 lusredrr1an1a7.network.microsoft.com
 lusredrr1an1aa.network.microsoft.com
+lusredrr1an1ab.network.microsoft.com
 lusredrr1an1ad.network.microsoft.com
 lusredrr1an1ae.network.microsoft.com
 lusredrr1an1af.network.microsoft.com
@@ -99428,6 +99759,7 @@ lusredrr1an504.network.microsoft.com
 lusredrr1an506.network.microsoft.com
 lusredrr1an508.network.microsoft.com
 lusredrr1an509.network.microsoft.com
+lusredrr1an511.network.microsoft.com
 lusredrr1anr01.network.microsoft.com
 lusredrr1anr09.network.microsoft.com
 lusredrr1anr0a.network.microsoft.com
@@ -99439,6 +99771,7 @@ lusredrr1anr0f.network.microsoft.com
 lusredrr1anr0j.network.microsoft.com
 lusredrr1anr0m.network.microsoft.com
 lusredrr1anr0o.network.microsoft.com
+lusredrr1anr0q.network.microsoft.com
 lusredrr1anr0s.network.microsoft.com
 lusredrr1anr0v.network.microsoft.com
 lusredrr1anr0w.network.microsoft.com
@@ -99554,6 +99887,7 @@ lusredrr1anr57.network.microsoft.com
 lusredrr1anr58.network.microsoft.com
 lusredrr1anr59.network.microsoft.com
 lusredrr1anr5b.network.microsoft.com
+lusredrr1anr5c.network.microsoft.com
 lusredrr1anr5d.network.microsoft.com
 lusredrr1anr5f.network.microsoft.com
 lusredrr1anr5g.network.microsoft.com
@@ -99626,6 +99960,7 @@ lusredrr1anr7q.network.microsoft.com
 lusredrr1anr7r.network.microsoft.com
 lusredrr1anr7s.network.microsoft.com
 lusredrr1anr7y.network.microsoft.com
+lusredrr1anr7z.network.microsoft.com
 lusredrr1anr80.network.microsoft.com
 lusredrr1anr81.network.microsoft.com
 lusredrr1anr82.network.microsoft.com
@@ -100162,6 +100497,7 @@ lustuktk5an19k.network.microsoft.com
 lustuktk5an19l.network.microsoft.com
 lustuktk5an19m.network.microsoft.com
 lustuktk5an19n.network.microsoft.com
+lustuktk5an19o.network.microsoft.com
 lustuktk5an19p.network.microsoft.com
 lustuktk5an19q.network.microsoft.com
 lustuktk5an19r.network.microsoft.com
@@ -100201,6 +100537,7 @@ lustuktk5an1aw.network.microsoft.com
 lustuktk5an1ax.network.microsoft.com
 lustuktk5an1ay.network.microsoft.com
 lustuktk5an1az.network.microsoft.com
+lustuktk5an1b3.network.microsoft.com
 lustuktk5an1ba.network.microsoft.com
 lustuktk5an1bb.network.microsoft.com
 lustuktk5an1bc.network.microsoft.com
@@ -100212,6 +100549,7 @@ lustuktk5an1bh.network.microsoft.com
 lustuktk5an1bi.network.microsoft.com
 lustuktk5an1bj.network.microsoft.com
 lustuktk5an1bk.network.microsoft.com
+lustuktk5an1bl.network.microsoft.com
 lustuktk5an1bm.network.microsoft.com
 lustuktk5an1bn.network.microsoft.com
 lustuktk5an1bo.network.microsoft.com
@@ -100728,6 +101066,7 @@ m365.familydataaccess.analysis.mlxdataes.microsoft.com
 m365.familydataaccess.mlxdataes.microsoft.com
 m365.k8s.geneva.keyvault.wd.microsoft.com
 m365abac.microsoft.com
+m365accelerator.microsoft.com
 m365billing.microsoft.com
 m365btests.microsoft.com
 m365compete.cosmos.microsoft.com
@@ -104913,6 +105252,7 @@ mgbrea001an7ah.network.microsoft.com
 mgbrea001an7aj.network.microsoft.com
 mgbrea001an7ao.network.microsoft.com
 mgbrea001an7av.network.microsoft.com
+mgbrea001an7aw.network.microsoft.com
 mgbrea001an7ay.network.microsoft.com
 mgbrea001an7bb.network.microsoft.com
 mgbrea001an7bd.network.microsoft.com
@@ -105532,6 +105872,7 @@ moderndrs.cp.microsoft.com
 moderndrsdigitalsignature-int.cp.microsoft.com
 moderndrstip.cp.microsoft.com
 modernservicehub.preprod.fdagw.profileskills.microsoft.com
+modernservicehubeus2.prod.fdagw.profileskills.microsoft.com
 moderntaxclient.cp.microsoft.com
 moderntaxreportadminservice.cp.microsoft.com
 modernworkannounce.event.microsoft.com
@@ -107732,12 +108073,14 @@ musredrr1an1ia.network.microsoft.com
 musredrr1an1id.network.microsoft.com
 musredrr1an1im.network.microsoft.com
 musredrr1an1in.network.microsoft.com
+musredrr1an1iq.network.microsoft.com
 musredrr1an1is.network.microsoft.com
 musredrr1an1it.network.microsoft.com
 musredrr1an1iu.network.microsoft.com
 musredrr1an1iw.network.microsoft.com
 musredrr1an1jb.network.microsoft.com
 musredrr1an1jc.network.microsoft.com
+musredrr1an1jg.network.microsoft.com
 musredrr1an1jh.network.microsoft.com
 musredrr1an1jj.network.microsoft.com
 musredrr1an1jl.network.microsoft.com
@@ -107910,6 +108253,7 @@ musredrr1an2ul.network.microsoft.com
 musredrr1an2um.network.microsoft.com
 musredrr1an2ur.network.microsoft.com
 musredrr1an2uu.network.microsoft.com
+musredrr1an2vj.network.microsoft.com
 musredrr1an2vk.network.microsoft.com
 musredrr1an2vp.network.microsoft.com
 musredrr1an2vq.network.microsoft.com
@@ -108230,6 +108574,8 @@ mustuktk5an1gz.network.microsoft.com
 mustuktk5an1ha.network.microsoft.com
 mustuktk5an1hc.network.microsoft.com
 mustuktk5an1hd.network.microsoft.com
+mustuktk5an1hf.network.microsoft.com
+mustuktk5an1hh.network.microsoft.com
 mustuktk5an1hi.network.microsoft.com
 mustuktk5an1hk.network.microsoft.com
 mustuktk5an1hl.network.microsoft.com
@@ -108268,6 +108614,7 @@ mustuktk5an1jg.network.microsoft.com
 mustuktk5an1jn.network.microsoft.com
 mustuktk5an1jp.network.microsoft.com
 mustuktk5an1jr.network.microsoft.com
+mustuktk5an1js.network.microsoft.com
 mustuktk5an1jt.network.microsoft.com
 mustuktk5an1ju.network.microsoft.com
 mustuktk5an1jw.network.microsoft.com
@@ -109759,6 +110106,7 @@ nisoobsin.corp.microsoft.com
 nitro.ideas.microsoft.com
 nitromaterialize.ideas.microsoft.com
 nitroppe.ideas.microsoft.com
+nitrotest.ideascorp.microsoft.com
 nix4.microsoft.com
 nl-bedepot.sourcedepot.corp.microsoft.com
 nl-bedepot.sys-ntgroup.ntdev.microsoft.com
@@ -112623,6 +112971,7 @@ pcmanager-en.microsoft.com
 pcmanager-website-preview.microsoft.com
 pcmanager.ai.microsoft.com
 pcmanager.api.microsoft.com
+pcmanager.api.eu.microsoft.com
 pcmanager.api.mc.microsoft.com
 pcpricing-clientauth.microsoft.com
 pcs-clientcert.dce.mp.microsoft.com
@@ -113006,12 +113355,14 @@ pkgcdn-pkg-g-bn-ppe.infra.windows365.microsoft.com
 pkgcdn-pkg-g-mwh-int-bak.infra.windows365.microsoft.com
 pkgcdn-pkg-g-mwh-int.infra.windows365.microsoft.com
 pkgcdn-pkg-g-usw3-tst-bak.infra.windows365.microsoft.com
+pkgsql01a-n.ntdev.corp.microsoft.com
 pkgsql01a.ntdev.corp.microsoft.com
 pkgsql01a.segroup.winse.corp.microsoft.com
 pkgsql01b.ntdev.corp.microsoft.com
 pkgsql01b.segroup.winse.corp.microsoft.com
 pkgsql01c.ntdev.corp.microsoft.com
 pkgsql01c.segroup.winse.corp.microsoft.com
+pkgsqlppe01a-n.ntdev.corp.microsoft.com
 pkgsqlppe01a.ntdev.corp.microsoft.com
 pkgsqlppe01a.segroup.winse.corp.microsoft.com
 pkgsqlppe01b.ntdev.corp.microsoft.com
@@ -114471,6 +114822,7 @@ ppe.api.cseowvd.microsoft.com
 ppe.api.esrp.microsoft.com
 ppe.api.mswvd.microsoft.com
 ppe.api.securitycopilot.microsoft.com
+ppe.api.surface.partner.microsoft.com
 ppe.apim.coreidentity.microsoft.com
 ppe.appcenter.watson.microsoft.com
 ppe.appsuggestions.teams.microsoft.com
@@ -114497,6 +114849,7 @@ ppe.cds.securitycopilot.microsoft.com
 ppe.centralus.api.medeina-ppe.defender.microsoft.com
 ppe.cfar.microsoft.com
 ppe.changeguard.fcm.azure.microsoft.com
+ppe.cirah.microsoft.com
 ppe.class.microsoft.com
 ppe.classroom.microsoft.com
 ppe.cloudcollection.microsoft.com
@@ -127006,6 +127359,7 @@ stager.dev.muv6.microsoft.com
 stager.df.muv6.microsoft.com
 stager.prod.muv6.microsoft.com
 stager.prod.twsv2.microsoft.com
+staging-afd.teamsprod.dataclassification.microsoft.com
 staging-dcatbackend-int.mp.microsoft.com
 staging-dcatbackend-int.staging.bigcatalog-int.commerce.microsoft.com
 staging-dcatbackend-ppe.mp.microsoft.com
@@ -130611,6 +130965,7 @@ tip2.vnet.powerplatform.microsoft.com
 tip3.flow.microsoft.com
 tippnrtdlpservice-dogfood.teams.microsoft.com
 tippnrtdlpservice-int.teams.microsoft.com
+tippnrtdlpservice-tdf.teams.internal.microsoft.com
 tippnrtdlpservice-test.teams.microsoft.com
 tippnrtdlpservice.gcc.teams.microsoft.com
 tippreceiversvc-dogfood.teams.microsoft.com
@@ -130758,6 +131113,7 @@ tk5af.a4opacketcore.microsoft.com
 tk5aogosmweb01.partners.extranet.microsoft.com
 tk5apollolocweb.partners.extranet.microsoft.com
 tk5bimsviis301.partners.extranet.microsoft.com
+tk5blob.a4opacketcore.microsoft.com
 tk5bpsweb01.partners.extranet.microsoft.com
 tk5centrem01.partners.extranet.microsoft.com
 tk5centrem02.partners.extranet.microsoft.com
@@ -130812,6 +131168,7 @@ tk5locqgweb.partners.extranet.microsoft.com
 tk5lyncpool1hlbext.partners.extranet.microsoft.com
 tk5mail.a4opacketcore.microsoft.com
 tk5mbamweb01.redmond.corp.microsoft.com
+tk5mirror.a4opacketcore.microsoft.com
 tk5mpswebtev02.partners.extranet.microsoft.com
 tk5msfcmdmz01.redmond.corp.microsoft.com
 tk5msfcmintps01.redmond.corp.microsoft.com
@@ -132118,6 +132475,7 @@ tusredrwean201.network.microsoft.com
 tusredrwean202.network.microsoft.com
 tusredrwean203.network.microsoft.com
 tusredrwean2s1.network.microsoft.com
+tusredrwean2s7.network.microsoft.com
 tusredrwean2x1.network.microsoft.com
 tusredrweanr01.network.microsoft.com
 tusredrweanr02.network.microsoft.com

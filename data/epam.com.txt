@@ -6256,8 +6256,11 @@ r2.access.dev-k8s.epm-iga.projects.epam.com
 r2.access.integration.epm-iga.projects.epam.com
 r2.access.qa.epm-iga.projects.epam.com
 r2.info.epam.com
+r2.learn.epam.com
+r2.qa-learn.epm-tmc.projects.epam.com
 r2.qa2.info.epam.com
 r2.stage.infoportal-aws.epm-iass.projects.epam.com
+r2.stg-learn.epm-tmc.projects.epam.com
 r2.vladik-learn.epm-tmc.projects.epam.com
 rabbitmq.dev.radar.epam.com
 rabbitmq.llm.lab.epam.com
@@ -6381,6 +6384,7 @@ rts-dev-szeged.epam.com
 ru-web-dev.aemcloud.epam.com
 ru-web-stage.aemcloud.epam.com
 rufus.epam.staging-smartlocker.lab.epam.com
+rules-self-service.app.epam.com
 russianpost.projects.epam.com
 rustam.debug.okr-msteams.epm-dmtm.projects.epam.com
 s3.baremetal-m24.gcp.gnrg-osdu.projects.epam.com
@@ -6781,6 +6785,7 @@ studio.msdp.staging-palm.epm-mooc.projects.epam.com
 studio.staging-elearn.epm-mooc.projects.epam.com
 studio.staging-palm.epm-mooc.projects.epam.com
 studio.university.alpha.epm-mooc.projects.epam.com
+studio.university.epm-mooc.projects.epam.com
 studio.university.staging-elearn.epm-mooc.projects.epam.com
 studio.university.staging-palm.epm-mooc.projects.epam.com
 studio.upskill.elearn.epam.com
@@ -7103,6 +7108,7 @@ university-vera-learn.epm-tmc.projects.epam.com
 university-victoria-learn.epm-tmc.projects.epam.com
 university-vladik-learn.epm-tmc.projects.epam.com
 university.alpha.epm-mooc.projects.epam.com
+university.epm-mooc.projects.epam.com
 university.lab.epam.com
 university.staging-elearn.epm-mooc.projects.epam.com
 university.staging-palm.epm-mooc.projects.epam.com
@@ -7639,3 +7645,5 @@ ztna-session-api.stage.epam.com
 ztna-staging.epm-iga.projects.epam.com
 ztna.app.epam.com
 ztna.app.stage.epam.com
+ztna.stage.epam.com
+ztnacheck.stage.epam.com

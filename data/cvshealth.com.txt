@@ -1831,6 +1831,7 @@ cns-rke-pt.cvshealth.com
 cns-rke-sit1.cvshealth.com
 cns-rke-sit2.cvshealth.com
 cns-rke-sit3.cvshealth.com
+cns-rke2-prod.cvshealth.com
 cns-sit1.cvshealth.com
 cns-sit2.cvshealth.com
 cns-sit3.cvshealth.com
@@ -8201,6 +8202,7 @@ prodrirxctechx.cvshealth.com
 prodservices-pcw-convo-ai-nemo-east.cvshealth.com
 prodservices-pcw-ivr-spl-nemo-west.cvshealth.com
 prodservices-pcw-retail-ai-gke-west.cvshealth.com
+prodservices-west-rke2.corp.cvshealth.com
 prodservices-west.corp.cvshealth.com
 product-dev.cvshealth.com
 product-stg.cvshealth.com
@@ -9077,6 +9079,7 @@ rxc-api-int-qa6.cvshealth.com
 rxc-api-int-use4-prod.cvshealth.com
 rxc-api-int-use4-pt.cvshealth.com
 rxc-api-int-usw2-prod.cvshealth.com
+rxc-api-int-usw2-prod-rke2.cvshealth.com
 rxc-api-int-usw2-pt.cvshealth.com
 rxconnect-test-dev.cvshealth.com
 rxconnect-wine.cvshealth.com
@@ -9981,6 +9984,8 @@ sprx-gcp-sit1.cvshealth.com
 sprx-gcp-sit2.cvshealth.com
 sprx-gcp-sit3.cvshealth.com
 sprx-gwy-int-prod.cvshealth.com
+sprx-gwy-int-prod-rke2.cvshealth.com
+sprx-gwy-int-prod-rke2.gslb.cvshealth.com
 sprx-gwy-int-prod.gslb.cvshealth.com
 sprx-gwy-int-sit2.cvshealth.com
 sprx-high-cte.cvshealth.com

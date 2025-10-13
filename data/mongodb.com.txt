@@ -559,6 +559,7 @@ bitwarden.infosec.mongodb.com
 bizsys.prod.corp.mongodb.com
 bizsys.staging.corp.mongodb.com
 blog.mongodb.com
+blog-qa2.website.staging.corp.mongodb.com
 blog.mms.mongodb.com
 blogs.mongodb.com
 boston-hack.sa-demo.staging.corp.mongodb.com
@@ -587,6 +588,7 @@ canine-dev.corp.mongodb.com
 canine.corp.mongodb.com
 capacity.officeit.prod.corp.mongodb.com
 captainhook.corp.mongodb.com
+careers-qa2.website.staging.corp.mongodb.com
 case-precedent-search-web.ts-tools.prod.corp.mongodb.com
 cdnvalidator.devops.prod.corp.mongodb.com
 cdnvalidator.devops.staging.corp.mongodb.com
@@ -1309,6 +1311,7 @@ mars-dev-feature-dplat-7558-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-fix-warning-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-kube-api-retries-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-track-manual-jobs-dev.dataplatform-dev.staging.corp.mongodb.com
+mars.dataplatform.prod.corp.mongodb.com
 mars.dataplatform.staging.corp.mongodb.com
 mars.prod.corp.mongodb.com
 mars.staging.corp.mongodb.com
@@ -1347,6 +1350,7 @@ mongodbcom-mesh-poc-cdn.website.staging.corp.mongodb.com
 mongodbcom-mesh-poc.website.staging.corp.mongodb.com
 mongodbcom-poc-cdn.website.staging.corp.mongodb.com
 mongodbcom-poc.website.staging.corp.mongodb.com
+mongodbcom-qa4.website.staging.corp.mongodb.com
 mongodbcom-uat.website.staging.corp.mongodb.com
 mongodbcorp-qa.mongodb.com
 mongodbcorp-staging.mongodb.com
@@ -1389,7 +1393,10 @@ mycelium-qa18.website.staging.corp.mongodb.com
 mycelium-qa2.website.staging.corp.mongodb.com
 mycelium-qa3.website.staging.corp.mongodb.com
 mycelium-qa6.website.staging.corp.mongodb.com
+mycelium-qa8.website.staging.corp.mongodb.com
 mycelium-qa9.website.staging.corp.mongodb.com
+mycelium-staging-preview.website.staging.corp.mongodb.com
+mycelium-staging.website.staging.corp.mongodb.com
 myflaskapp.sa-demo.staging.corp.mongodb.com
 n.mongodb.com
 news.mongodb.com
@@ -1620,6 +1627,7 @@ saas-buster-application.infosec.staging.corp.mongodb.com
 salesforce.corp.mongodb.com
 salesloft.mongodb.com
 sams-mesh.corpsec.staging.corp.mongodb.com
+sams-qa.corpsec.staging.corp.mongodb.com
 sams-saas.corpsec.staging.corp.mongodb.com
 sams.corp.mongodb.com
 sbom-repository-private.devprod-infra.prod.corp.mongodb.com
@@ -1823,6 +1831,7 @@ traefik-to-istio-example.devops.test.corp.mongodb.com
 training.mongodb.com
 training-staging.mongodb.com
 translation.corps.staging.corp.mongodb.com
+treebeard.backstage.staging.corp.mongodb.com
 tribyl.corp.mongodb.com
 trino-dw-scraper.ts-tools.prod.corp.mongodb.com
 trino-dw-scraper.ts-tools.staging.corp.mongodb.com
@@ -2160,5 +2169,3 @@ yuzhou2.devops.test.corp.mongodb.com
 zap-dev.salesops.staging.corp.mongodb.com
 zap.corps.prod.corp.mongodb.com
 zd-approvals.corp.mongodb.com
-zen-approvals.corp.mongodb.com
-zendesk-feedback.mongodb.com
