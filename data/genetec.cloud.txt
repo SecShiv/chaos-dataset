@@ -9,12 +9,14 @@
 *.ar.genetec.cloud
 *.audit.edge.genetec.cloud
 *.authorization.edge.genetec.cloud
+*.centralca.sip.sipelia.genetec.cloud
 *.centralca.video.genetec.cloud
 *.clientportal.edge.genetec.cloud
 *.datainsights.genetec.cloud
 *.device.genetec.cloud
 *.deviceidentity.edge.genetec.cloud
 *.devicejobs.edge.genetec.cloud
+*.eastau.sip.sipelia.genetec.cloud
 *.eastau.video.genetec.cloud
 *.eastus2.hrz.tds-temp.genetec.cloud
 *.eastus2.internal.sip.sipelia.genetec.cloud
@@ -70,6 +72,7 @@
 *.westeu.video.genetec.cloud
 abs.va.genetec.cloud
 adminportal.prod.edge.genetec.cloud
+ae.ml.genetec.cloud
 aks-audit-2022-10-31-eastus-eastus.audit.genetec.cloud
 aks-sr-2023-06-08-prod-eastus.serviceregistry.genetec.cloud
 aks-sr-2023-10-24-prod-eastus.serviceregistry.genetec.cloud
@@ -144,6 +147,7 @@ centralca.users.edge.genetec.cloud
 centralca.video.genetec.cloud
 clientportal.prod.edge.genetec.cloud
 cnc.ia.genetec.cloud
+cnc.ml.genetec.cloud
 device-factory-tmp.edge.genetec.cloud
 device-factory.edge.genetec.cloud
 deviceidentity.prod.edge.genetec.cloud
@@ -169,6 +173,7 @@ eastau.prod.scservices.genetec.cloud
 eastau.registration.edge.genetec.cloud
 eastau.reporting.edge.genetec.cloud
 eastau.securitycenter.genetec.cloud
+eastau.sipelia.genetec.cloud
 eastau.synergis.genetec.cloud
 eastau.systems.edge.genetec.cloud
 eastau.systemusers.edge.genetec.cloud
@@ -228,6 +233,7 @@ eau.prod.tests.app-platform.genetec.cloud
 edge.genetec.cloud
 eu.securitycentersaas.genetec.cloud
 eus2.ia.genetec.cloud
+eus2.ml.genetec.cloud
 eus2.prod.app-platform.genetec.cloud
 eus2.prod.scservices.genetec.cloud
 eus2.prod.sipelia.temp.devx.genetec.cloud
@@ -324,6 +330,7 @@ users.prod.edge.genetec.cloud
 usgovarizona.produsgov.tealogic.devx.genetec.cloud
 usgovvirginia.produsgov.tealogic.devx.genetec.cloud
 video.genetec.cloud
+we.ml.genetec.cloud
 westeu.adminportal.edge.genetec.cloud
 westeu.api.device.genetec.cloud
 westeu.api.edge.genetec.cloud

@@ -1482,6 +1482,7 @@
 *.eventhub.redmond.ext-n25r1010.masd.stbtest.microsoft.com
 *.eventhub.redmond.ext-n25r1302.masd.stbtest.microsoft.com
 *.eventhub.redmond.ext-n25r1307.masd.stbtest.microsoft.com
+*.eventhub.redmond.ext-n25r2203.masd.stbtest.microsoft.com
 *.eventhub.redmond.ext-n31r1205.masd.stbtest.microsoft.com
 *.eventhub.redmond.ext-n42r0704.masd.stbtest.microsoft.com
 *.eventhub.seatac.azurestack.corp.microsoft.com
@@ -5428,6 +5429,7 @@
 *.z02.sql.cosmos.fabric.microsoft.com
 *.z02.sql.cosmos.fabric-df.microsoft.com
 *.z02.table.fabric.microsoft.com
+*.z02.table.fabric-df.microsoft.com
 *.z02.userdatafunctions.fabric.microsoft.com
 *.z02.userdatafunctions.fabric-df.microsoft.com
 *.z02.w.api.fabric.microsoft.com
@@ -5815,6 +5817,7 @@
 *.z0a.sql.cosmos.fabric.microsoft.com
 *.z0a.sql.cosmos.fabric-df.microsoft.com
 *.z0a.table.fabric.microsoft.com
+*.z0a.table.fabric-df.microsoft.com
 *.z0a.userdatafunctions.fabric.microsoft.com
 *.z0a.userdatafunctions.fabric-df.microsoft.com
 *.z0a.w.api.fabric.microsoft.com
@@ -8048,6 +8051,7 @@
 *.z38.onelake.fabric-df.microsoft.com
 *.z38.sql.cosmos.fabric.microsoft.com
 *.z38.sql.cosmos.fabric-df.microsoft.com
+*.z38.table.fabric-df.microsoft.com
 *.z38.userdatafunctions.fabric.microsoft.com
 *.z38.userdatafunctions.fabric-df.microsoft.com
 *.z38.w.api.fabric.microsoft.com
@@ -11010,6 +11014,7 @@
 *.z75.sql.cosmos.fabric.microsoft.com
 *.z75.sql.cosmos.fabric-df.microsoft.com
 *.z75.table.fabric.microsoft.com
+*.z75.table.fabric-df.microsoft.com
 *.z75.userdatafunctions.fabric.microsoft.com
 *.z75.userdatafunctions.fabric-df.microsoft.com
 *.z75.w.api.fabric.microsoft.com
@@ -13488,6 +13493,7 @@
 *.za8.sql.cosmos.fabric.microsoft.com
 *.za8.sql.cosmos.fabric-df.microsoft.com
 *.za8.table.fabric.microsoft.com
+*.za8.table.fabric-df.microsoft.com
 *.za8.userdatafunctions.fabric.microsoft.com
 *.za8.userdatafunctions.fabric-df.microsoft.com
 *.za8.w.api.fabric.microsoft.com
@@ -14796,6 +14802,7 @@
 *.zc3.sql.cosmos.fabric.microsoft.com
 *.zc3.sql.cosmos.fabric-df.microsoft.com
 *.zc3.table.fabric.microsoft.com
+*.zc3.table.fabric-df.microsoft.com
 *.zc3.userdatafunctions.fabric.microsoft.com
 *.zc3.userdatafunctions.fabric-df.microsoft.com
 *.zc3.w.api.fabric.microsoft.com
@@ -16008,6 +16015,7 @@
 *.zdc.sql.cosmos.fabric-df.microsoft.com
 *.zdc.table.fabric.microsoft.com
 *.zdc.table.fabric-df.microsoft.com
+*.zdc.userdatafunctions.fabric.microsoft.com
 *.zdc.userdatafunctions.fabric-df.microsoft.com
 *.zdc.w.api.fabric.microsoft.com
 *.zdc.w.api.fabric-df.microsoft.com
@@ -17123,6 +17131,7 @@
 *.zf3.sql.cosmos.fabric.microsoft.com
 *.zf3.sql.cosmos.fabric-df.microsoft.com
 *.zf3.table.fabric.microsoft.com
+*.zf3.table.fabric-df.microsoft.com
 *.zf3.userdatafunctions.fabric.microsoft.com
 *.zf3.userdatafunctions.fabric-df.microsoft.com
 *.zf3.w.api.fabric.microsoft.com
@@ -17262,6 +17271,7 @@
 *.zf6.msit-onelake.fabric.microsoft.com
 *.zf6.msit-sql.cosmos.fabric.microsoft.com
 *.zf6.msitgraphql.fabric.microsoft.com
+*.zf6.msituserdatafunctions.fabric.microsoft.com
 *.zf6.onelake.fabric.microsoft.com
 *.zf6.onelake.fabric-df.microsoft.com
 *.zf6.sql.cosmos.fabric.microsoft.com
@@ -18297,6 +18307,7 @@
 001-swce.emea.prd.api.mediapaas.infra.teams.microsoft.com
 001-swce.emea.prd.ivr.cos.mediapaas.infra.teams.microsoft.com
 001-swce.emea.prod.cos.audience.teams.microsoft.com
+001-tx.cos.audience.gcc.teams.microsoft.com
 001-usce.noam.dog.cos.audience.teams.microsoft.com
 001-usce.noam.prd.api.cos.mediapaas.infra.teams.microsoft.com
 001-usce.noam.prd.ivr.cos.mediapaas.infra.teams.microsoft.com
@@ -29316,6 +29327,7 @@ agccmmsprdweb1.redmond.corp.microsoft.com
 agccmmsprdweb2.redmond.corp.microsoft.com
 agccmmsprod.redmond.corp.microsoft.com
 agccmmspsqleus.redmond.corp.microsoft.com
+agccmmspsqleus1.redmond.corp.microsoft.com
 agccmmspwebeus.redmond.corp.microsoft.com
 agccmmssql.redmond.corp.microsoft.com
 agccmmststsql.redmond.corp.microsoft.com
@@ -29511,6 +29523,7 @@ aibijapu1.lab.myworkspace.microsoft.com
 aibijapu1.myworkspace.microsoft.com
 aiblog.microsoft.com
 aiblogs.microsoft.com
+aibusinesssolutionspartners.microsoft.com
 aica-dev.microsoft.com
 aica-uat.microsoft.com
 aidemos.microsoft.com
@@ -45075,6 +45088,7 @@ auto-msitwcus-pbi-kv-httpszonef2.zf2.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonef3.zf3.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonef4.zf4.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonef5.zf5.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszonef6.zf6.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonef7.zf7.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonef8.zf8.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonef9.zf9.w.msitapi.fabric.microsoft.com
@@ -72783,6 +72797,7 @@ batchwork.smltenant.microsoft.com
 batmon.glbdns2.microsoft.com
 battkey-uat.microsoft.com
 battstudio.microsoft.com
+battstudio-on-prem.microsoft.com
 battstudio-on-prem-uat.microsoft.com
 battstudio-stag.microsoft.com
 battstudio-staging.microsoft.com
@@ -72855,6 +72870,8 @@ bcp.internal.adcenter.microsoft.com
 bcp.maf.adcenter.microsoft.com
 bcp.server.flighting.cp.microsoft.com
 bcpintgeneva.corp.microsoft.com
+bcpservice-uat.benefits.microsoft.com
+bcpservice.benefits.microsoft.com
 bcpuat2.parttest.extranettest.microsoft.com
 bcrm.microsoft.com
 bcserversvc-int.blr.microsoft.com
@@ -75724,6 +75741,8 @@ cachewriter.teams.microsoft.com
 cachingserviceprod.microsoft.com
 cacomino.myworkspace.microsoft.com
 cad.businessassist.microsoft.com
+caeabdh24m0802.network.microsoft.com
+caeabdh24m0852.network.microsoft.com
 caeabdlevm1001.network.microsoft.com
 caeabdlevm1002.network.microsoft.com
 caeabdlevm1081.network.microsoft.com
@@ -76471,6 +76490,7 @@ ccnbeihonm1083.network.microsoft.com
 ccnbeihonm1084.network.microsoft.com
 ccnbeihonrcp01.corp.microsoft.com
 ccnbeihonrcp02.corp.microsoft.com
+ccnbeizhoan1m1.network.microsoft.com
 ccnchn177m1001.network.microsoft.com
 ccnchn177m1002.network.microsoft.com
 ccnchn177m1081.network.microsoft.com
@@ -77117,6 +77137,7 @@ cgbrea002rcp01.corp.microsoft.com
 cgbrea002rcp02.corp.microsoft.com
 cgbslon22a7550.network.microsoft.com
 cgbslon22a7551.network.microsoft.com
+cgbslor34an1m1.network.microsoft.com
 cgbslor34an1m2.network.microsoft.com
 cgbwdnl24a7550.network.microsoft.com
 cgbwdnl24a7551.network.microsoft.com
@@ -77474,6 +77495,7 @@ ciedubgraan157.network.microsoft.com
 ciedubgraan160.network.microsoft.com
 ciedubgraan161.network.microsoft.com
 ciedubgraan162.network.microsoft.com
+ciedubgraan163.network.microsoft.com
 ciedubgraan164.network.microsoft.com
 ciedubgraan166.network.microsoft.com
 ciedubgraan167.network.microsoft.com
@@ -77488,6 +77510,7 @@ ciedubgraan2cn.network.microsoft.com
 ciedubgraan2co.network.microsoft.com
 ciedubgraan2cq.network.microsoft.com
 ciedubgraan2cr.network.microsoft.com
+ciedubgraan2cs.network.microsoft.com
 ciedubgraan2ct.network.microsoft.com
 ciedubgraan502.network.microsoft.com
 ciedubgraan5aa.network.microsoft.com
@@ -77714,6 +77737,7 @@ cinhydhy3a4401.network.microsoft.com
 cinhydhy3a7550.network.microsoft.com
 cinhydhy3an1aa.network.microsoft.com
 cinhydhy3an1ab.network.microsoft.com
+cinhydhy3an1m1.network.microsoft.com
 cinhydhy3an5s1.network.microsoft.com
 cinhydhy3an5s2.network.microsoft.com
 cinhydhy3an7k1.network.microsoft.com
@@ -81268,6 +81292,7 @@ cuschy644an185.network.microsoft.com
 cuschy644an186.network.microsoft.com
 cuschy644an188.network.microsoft.com
 cuschy644an189.network.microsoft.com
+cuschy644an195.network.microsoft.com
 cuschy644an2ca.network.microsoft.com
 cuschy644an2cb.network.microsoft.com
 cuschy644an2cc.network.microsoft.com
@@ -81424,6 +81449,7 @@ cuschy644m1091.network.microsoft.com
 cuschy644p523a.network.microsoft.com
 cuschy644p523b.network.microsoft.com
 cuschy644p52a1.network.microsoft.com
+cuschy644ppv01.network.microsoft.com
 cuschy644ppv0a.network.microsoft.com
 cuschy644rcp01.corp.microsoft.com
 cuschy644rcp02.corp.microsoft.com
@@ -81507,6 +81533,7 @@ cuspor141m1401.network.microsoft.com
 cusqui001an101.network.microsoft.com
 cusqui001an103.network.microsoft.com
 cusqui001an104.network.microsoft.com
+cusqui001an105.network.microsoft.com
 cusqui001an134.network.microsoft.com
 cusqui001an135.network.microsoft.com
 cusqui001an136.network.microsoft.com
@@ -81514,10 +81541,12 @@ cusqui001an137.network.microsoft.com
 cusqui001an138.network.microsoft.com
 cusqui001an139.network.microsoft.com
 cusqui001an140.network.microsoft.com
+cusqui001an143.network.microsoft.com
 cusqui001an145.network.microsoft.com
 cusqui001an146.network.microsoft.com
 cusqui001an147.network.microsoft.com
 cusqui001an148.network.microsoft.com
+cusqui001an150.network.microsoft.com
 cusqui001an153.network.microsoft.com
 cusqui001an154.network.microsoft.com
 cusqui001an157.network.microsoft.com
@@ -83487,6 +83516,7 @@ dev.communityleader.microsoft.com
 dev.container-registry.mdaas.microsoft.com
 dev.content.api.ads-int.microsoft.com
 dev.conversation.speech-test.microsoft.com
+dev.convertrfunc.tsi.microsoft.com
 dev.copilotforfinance.microsoft.com
 dev.coreidentity.microsoft.com
 dev.cosmos.aadmtq.microsoft.com
@@ -83611,6 +83641,7 @@ dev.neo4j.geneva.keyvault.wd.csp.microsoft.com
 dev.neo4j.standalone.wd.csp.microsoft.com
 dev.neo4j.wd.csp.microsoft.com
 dev.noe.api.medeina-dev.defender.microsoft.com
+dev.nonprofits.tsi.microsoft.com
 dev.norwayeast.api.medeina-dev.defender.microsoft.com
 dev.norwaywest.api.medeina-dev.defender.microsoft.com
 dev.notebookproxy.learn.microsoft.com
@@ -86486,6 +86517,7 @@ ela.ui.uat.esi.microsoft.com
 elasticsearch.cms.microsoft.com
 elasticsearchdev.cms.microsoft.com
 elasticsearchprod.cms.microsoft.com
+elasticserach.internal.int.rnr.microsoft.com
 elay.teams.microsoft.com
 electron.research.microsoft.com
 electronicsigningweb.licensing.microsoft.com
@@ -86903,6 +86935,7 @@ enrollment.partnersbeta.microsoft.com
 enrollment.pi.dps.microsoft.com
 enrollment.sconline-int.microsoft.com
 enrollmentaccounts.cp.microsoft.com
+enrollments-int-cdn2.microsoft.com
 enrollments-int-fd.microsoft.com
 enrollments-int.clients.azure.microsoft.com
 enrollments.clients.azure.microsoft.com
@@ -88019,6 +88052,7 @@ eventhub.redmond.ext-n25r1302.masd.stbtest.microsoft.com
 eventhub.redmond.ext-n25r1303.masd.stbtest.microsoft.com
 eventhub.redmond.ext-n25r1307.masd.stbtest.microsoft.com
 eventhub.redmond.ext-n25r1308.masd.stbtest.microsoft.com
+eventhub.redmond.ext-n25r2203.masd.stbtest.microsoft.com
 eventhub.redmond.ext-n25r2209.masd.stbtest.microsoft.com
 eventhub.redmond.ext-n31r1205.masd.stbtest.microsoft.com
 eventhub.redmond.ext-n42r0701.masd.stbtest.microsoft.com
@@ -89765,6 +89799,7 @@ fh-in-prod-eus2.foundershub-ppe.startups.microsoft.com
 fh-in-prod-eus2.foundershub.startups.microsoft.com
 fh-in-prod-wcus.foundershub.startups.microsoft.com
 fh-in-prod-wus.foundershub.startups.microsoft.com
+fh-ingress-canary.foundershub-ppecny.startups.microsoft.com
 fh-ingress-demo-eus2.foundershub-demo.startups.microsoft.com
 fh-ingress-demo-eus2.foundershub.startups.microsoft.com
 fh-ingress-dev-eus2.foundershub.startups.microsoft.com
@@ -89772,6 +89807,7 @@ fh-ingress-dev.foundershub.startups.microsoft.com
 fh-ingress-ppe-eus2.foundershub.startups.microsoft.com
 fh-ingress-ppe-wcus.foundershub-ppe.startups.microsoft.com
 fh-ingress-ppe-wcus.foundershub.startups.microsoft.com
+fh-ingress-ppe-wus2.foundershub-ppe.startups.microsoft.com
 fh-ingress-ppe-wus2.foundershub.startups.microsoft.com
 fh-ingress-prod-eus2.foundershub.startups.microsoft.com
 fi-fidepot.sourcedepot.corp.microsoft.com
@@ -97977,6 +98013,7 @@ lmtools.bingads-marketplace.microsoft.com
 lnldftloran1a4.network.microsoft.com
 lnldftloran1a6.network.microsoft.com
 lnldftloran1a8.network.microsoft.com
+lnldftloran1b2.network.microsoft.com
 lnldftloran1b3.network.microsoft.com
 lnldftloran501.network.microsoft.com
 lnldftlorp32f1.network.microsoft.com
@@ -98378,6 +98415,7 @@ lusmtv104an502.network.microsoft.com
 lusmtvsvcan501.network.microsoft.com
 lusmtvsvcan502.network.microsoft.com
 lusmtvsvcan5l1.network.microsoft.com
+lusmtvsvcanrl1.network.microsoft.com
 lusmtvsvcanrl2.network.microsoft.com
 lusmtvsvcr7201.network.microsoft.com
 lusmtvsvcr7202.network.microsoft.com
@@ -98470,9 +98508,11 @@ lusred025an5l3.network.microsoft.com
 lusred027an101.network.microsoft.com
 lusred027an501.network.microsoft.com
 lusred027an502.network.microsoft.com
+lusred034an101.network.microsoft.com
 lusred034an501.network.microsoft.com
 lusred035an104.network.microsoft.com
 lusred035an105.network.microsoft.com
+lusred035an106.network.microsoft.com
 lusred035an2l1.network.microsoft.com
 lusred035an2l2.network.microsoft.com
 lusred035an503.network.microsoft.com
@@ -98616,6 +98656,7 @@ lusred037an201.network.microsoft.com
 lusred037an202.network.microsoft.com
 lusred037an207.network.microsoft.com
 lusred037an211.network.microsoft.com
+lusred037an21o.network.microsoft.com
 lusred037an21q.network.microsoft.com
 lusred037an21r.network.microsoft.com
 lusred037an21y.network.microsoft.com
@@ -98752,11 +98793,14 @@ lusred084an101.network.microsoft.com
 lusred084an102.network.microsoft.com
 lusred084an103.network.microsoft.com
 lusred084an106.network.microsoft.com
+lusred084an109.network.microsoft.com
 lusred084an110.network.microsoft.com
 lusred084an111.network.microsoft.com
 lusred084an112.network.microsoft.com
 lusred084an113.network.microsoft.com
+lusred084an2l2.network.microsoft.com
 lusred084an501.network.microsoft.com
+lusred085an103.network.microsoft.com
 lusred085an104.network.microsoft.com
 lusred085an106.network.microsoft.com
 lusred085an107.network.microsoft.com
@@ -98786,6 +98830,7 @@ lusred087an10f.network.microsoft.com
 lusred087an1a0.network.microsoft.com
 lusred087an1a2.network.microsoft.com
 lusred087an1a3.network.microsoft.com
+lusred087an1a5.network.microsoft.com
 lusred087an1a6.network.microsoft.com
 lusred087an1a7.network.microsoft.com
 lusred087an1a8.network.microsoft.com
@@ -98808,6 +98853,8 @@ lusred087an1c5.network.microsoft.com
 lusred087an1c6.network.microsoft.com
 lusred087an1c7.network.microsoft.com
 lusred087an1c9.network.microsoft.com
+lusred087an1d3.network.microsoft.com
+lusred087an1d6.network.microsoft.com
 lusred087an1d9.network.microsoft.com
 lusred087an1e0.network.microsoft.com
 lusred087an1e1.network.microsoft.com
@@ -99022,6 +99069,7 @@ lusred116an164.network.microsoft.com
 lusred116an165.network.microsoft.com
 lusred116an166.network.microsoft.com
 lusred116an168.network.microsoft.com
+lusred116an169.network.microsoft.com
 lusred116an170.network.microsoft.com
 lusred116an171.network.microsoft.com
 lusred116an172.network.microsoft.com
@@ -99045,6 +99093,9 @@ lusred116an19b.network.microsoft.com
 lusred116an19c.network.microsoft.com
 lusred116an19d.network.microsoft.com
 lusred116an19e.network.microsoft.com
+lusred116an19h.network.microsoft.com
+lusred116an19i.network.microsoft.com
+lusred116an19j.network.microsoft.com
 lusred116an19k.network.microsoft.com
 lusred116an19l.network.microsoft.com
 lusred116an19m.network.microsoft.com
@@ -99070,9 +99121,11 @@ lusred116an1a5.network.microsoft.com
 lusred116an1a7.network.microsoft.com
 lusred116an1a9.network.microsoft.com
 lusred116an1aa.network.microsoft.com
+lusred116an1ab.network.microsoft.com
 lusred116an1ac.network.microsoft.com
 lusred116an1ag.network.microsoft.com
 lusred116an1al.network.microsoft.com
+lusred116an1am.network.microsoft.com
 lusred116an1an.network.microsoft.com
 lusred116an1ao.network.microsoft.com
 lusred116an1aq.network.microsoft.com
@@ -99090,6 +99143,9 @@ lusred116an1b6.network.microsoft.com
 lusred116an1b7.network.microsoft.com
 lusred116an1b8.network.microsoft.com
 lusred116an1b9.network.microsoft.com
+lusred116an1ba.network.microsoft.com
+lusred116an201.network.microsoft.com
+lusred116an202.network.microsoft.com
 lusred116an205.network.microsoft.com
 lusred116an206.network.microsoft.com
 lusred116an207.network.microsoft.com
@@ -99275,6 +99331,7 @@ lusred119an19k.network.microsoft.com
 lusred119an19l.network.microsoft.com
 lusred119an19m.network.microsoft.com
 lusred119an203.network.microsoft.com
+lusred119an204.network.microsoft.com
 lusred119an500.network.microsoft.com
 lusred119an501.network.microsoft.com
 lusred119an502.network.microsoft.com
@@ -99309,6 +99366,7 @@ lusred177an502.network.microsoft.com
 lusred98aan101.network.microsoft.com
 lusredmpcan101.network.microsoft.com
 lusredrr1a7501.network.microsoft.com
+lusredrr1a7502.network.microsoft.com
 lusredrr1a7801.network.microsoft.com
 lusredrr1a7802.network.microsoft.com
 lusredrr1an101.network.microsoft.com
@@ -99324,6 +99382,7 @@ lusredrr1an10a.network.microsoft.com
 lusredrr1an10b.network.microsoft.com
 lusredrr1an10c.network.microsoft.com
 lusredrr1an10e.network.microsoft.com
+lusredrr1an10f.network.microsoft.com
 lusredrr1an10g.network.microsoft.com
 lusredrr1an10i.network.microsoft.com
 lusredrr1an10j.network.microsoft.com
@@ -99379,17 +99438,24 @@ lusredrr1an12g.network.microsoft.com
 lusredrr1an12h.network.microsoft.com
 lusredrr1an12i.network.microsoft.com
 lusredrr1an12j.network.microsoft.com
+lusredrr1an12k.network.microsoft.com
 lusredrr1an12l.network.microsoft.com
 lusredrr1an12m.network.microsoft.com
+lusredrr1an12n.network.microsoft.com
 lusredrr1an12o.network.microsoft.com
 lusredrr1an12p.network.microsoft.com
 lusredrr1an12q.network.microsoft.com
 lusredrr1an12r.network.microsoft.com
+lusredrr1an12s.network.microsoft.com
 lusredrr1an12u.network.microsoft.com
 lusredrr1an12w.network.microsoft.com
 lusredrr1an12y.network.microsoft.com
+lusredrr1an12z.network.microsoft.com
 lusredrr1an13a.network.microsoft.com
+lusredrr1an13c.network.microsoft.com
+lusredrr1an13d.network.microsoft.com
 lusredrr1an13h.network.microsoft.com
+lusredrr1an13j.network.microsoft.com
 lusredrr1an13k.network.microsoft.com
 lusredrr1an13l.network.microsoft.com
 lusredrr1an13m.network.microsoft.com
@@ -99415,6 +99481,7 @@ lusredrr1an14b.network.microsoft.com
 lusredrr1an14c.network.microsoft.com
 lusredrr1an14d.network.microsoft.com
 lusredrr1an14f.network.microsoft.com
+lusredrr1an14i.network.microsoft.com
 lusredrr1an14j.network.microsoft.com
 lusredrr1an14m.network.microsoft.com
 lusredrr1an14o.network.microsoft.com
@@ -99423,6 +99490,7 @@ lusredrr1an14t.network.microsoft.com
 lusredrr1an14x.network.microsoft.com
 lusredrr1an14z.network.microsoft.com
 lusredrr1an155.network.microsoft.com
+lusredrr1an156.network.microsoft.com
 lusredrr1an157.network.microsoft.com
 lusredrr1an158.network.microsoft.com
 lusredrr1an159.network.microsoft.com
@@ -99464,8 +99532,10 @@ lusredrr1an16v.network.microsoft.com
 lusredrr1an171.network.microsoft.com
 lusredrr1an172.network.microsoft.com
 lusredrr1an174.network.microsoft.com
+lusredrr1an175.network.microsoft.com
 lusredrr1an176.network.microsoft.com
 lusredrr1an17b.network.microsoft.com
+lusredrr1an17d.network.microsoft.com
 lusredrr1an17g.network.microsoft.com
 lusredrr1an17h.network.microsoft.com
 lusredrr1an17i.network.microsoft.com
@@ -99480,6 +99550,7 @@ lusredrr1an17q.network.microsoft.com
 lusredrr1an17r.network.microsoft.com
 lusredrr1an180.network.microsoft.com
 lusredrr1an181.network.microsoft.com
+lusredrr1an184.network.microsoft.com
 lusredrr1an185.network.microsoft.com
 lusredrr1an186.network.microsoft.com
 lusredrr1an187.network.microsoft.com
@@ -99534,6 +99605,7 @@ lusredrr1an1ah.network.microsoft.com
 lusredrr1an1ai.network.microsoft.com
 lusredrr1an1ak.network.microsoft.com
 lusredrr1an1ao.network.microsoft.com
+lusredrr1an1ar.network.microsoft.com
 lusredrr1an1ar.rotortest.microsoft.com
 lusredrr1an1as.network.microsoft.com
 lusredrr1an1au.network.microsoft.com
@@ -99605,6 +99677,7 @@ lusredrr1an21y.network.microsoft.com
 lusredrr1an22b.network.microsoft.com
 lusredrr1an22c.network.microsoft.com
 lusredrr1an22d.network.microsoft.com
+lusredrr1an22f.network.microsoft.com
 lusredrr1an22k.network.microsoft.com
 lusredrr1an22l.network.microsoft.com
 lusredrr1an22n.network.microsoft.com
@@ -99680,11 +99753,13 @@ lusredrr1an25r.network.microsoft.com
 lusredrr1an25s.network.microsoft.com
 lusredrr1an25t.network.microsoft.com
 lusredrr1an25u.network.microsoft.com
+lusredrr1an25v.network.microsoft.com
 lusredrr1an25w.network.microsoft.com
 lusredrr1an260.network.microsoft.com
 lusredrr1an261.network.microsoft.com
 lusredrr1an262.network.microsoft.com
 lusredrr1an265.network.microsoft.com
+lusredrr1an266.network.microsoft.com
 lusredrr1an267.network.microsoft.com
 lusredrr1an268.network.microsoft.com
 lusredrr1an269.network.microsoft.com
@@ -99755,12 +99830,15 @@ lusredrr1an2a2.network.microsoft.com
 lusredrr1an2a3.network.microsoft.com
 lusredrr1an2a4.network.microsoft.com
 lusredrr1an501.network.microsoft.com
+lusredrr1an503.network.microsoft.com
 lusredrr1an504.network.microsoft.com
 lusredrr1an506.network.microsoft.com
 lusredrr1an508.network.microsoft.com
 lusredrr1an509.network.microsoft.com
 lusredrr1an511.network.microsoft.com
 lusredrr1anr01.network.microsoft.com
+lusredrr1anr02.network.microsoft.com
+lusredrr1anr07.network.microsoft.com
 lusredrr1anr09.network.microsoft.com
 lusredrr1anr0a.network.microsoft.com
 lusredrr1anr0b.network.microsoft.com
@@ -99882,6 +99960,7 @@ lusredrr1anr4u.network.microsoft.com
 lusredrr1anr4v.network.microsoft.com
 lusredrr1anr4x.network.microsoft.com
 lusredrr1anr4y.network.microsoft.com
+lusredrr1anr55.network.microsoft.com
 lusredrr1anr56.network.microsoft.com
 lusredrr1anr57.network.microsoft.com
 lusredrr1anr58.network.microsoft.com
@@ -99959,6 +100038,7 @@ lusredrr1anr7o.network.microsoft.com
 lusredrr1anr7q.network.microsoft.com
 lusredrr1anr7r.network.microsoft.com
 lusredrr1anr7s.network.microsoft.com
+lusredrr1anr7x.network.microsoft.com
 lusredrr1anr7y.network.microsoft.com
 lusredrr1anr7z.network.microsoft.com
 lusredrr1anr80.network.microsoft.com
@@ -100172,6 +100252,7 @@ lusredstbanr01.network.microsoft.com
 lusredstcan101.network.microsoft.com
 lusredstcan102.network.microsoft.com
 lusredstcan104.network.microsoft.com
+lusredstcan110.network.microsoft.com
 lusredstcan112.network.microsoft.com
 lusredstcan113.network.microsoft.com
 lusredstcan114.network.microsoft.com
@@ -100251,18 +100332,21 @@ lustuktk5an10f.network.microsoft.com
 lustuktk5an10g.network.microsoft.com
 lustuktk5an10h.network.microsoft.com
 lustuktk5an10i.network.microsoft.com
+lustuktk5an10j.network.microsoft.com
 lustuktk5an10k.network.microsoft.com
 lustuktk5an10m.network.microsoft.com
 lustuktk5an10n.network.microsoft.com
 lustuktk5an10o.network.microsoft.com
 lustuktk5an10p.network.microsoft.com
 lustuktk5an10q.network.microsoft.com
+lustuktk5an10s.network.microsoft.com
 lustuktk5an10t.network.microsoft.com
 lustuktk5an10v.network.microsoft.com
 lustuktk5an10w.network.microsoft.com
 lustuktk5an10x.network.microsoft.com
 lustuktk5an10y.network.microsoft.com
 lustuktk5an10z.network.microsoft.com
+lustuktk5an110.network.microsoft.com
 lustuktk5an111.network.microsoft.com
 lustuktk5an113.network.microsoft.com
 lustuktk5an114.network.microsoft.com
@@ -100319,6 +100403,7 @@ lustuktk5an12x.network.microsoft.com
 lustuktk5an12z.network.microsoft.com
 lustuktk5an130.network.microsoft.com
 lustuktk5an131.network.microsoft.com
+lustuktk5an132.network.microsoft.com
 lustuktk5an133.network.microsoft.com
 lustuktk5an134.network.microsoft.com
 lustuktk5an135.network.microsoft.com
@@ -100344,6 +100429,8 @@ lustuktk5an13w.network.microsoft.com
 lustuktk5an13x.network.microsoft.com
 lustuktk5an13y.network.microsoft.com
 lustuktk5an13z.network.microsoft.com
+lustuktk5an144.network.microsoft.com
+lustuktk5an146.network.microsoft.com
 lustuktk5an149.network.microsoft.com
 lustuktk5an14a.network.microsoft.com
 lustuktk5an14b.network.microsoft.com
@@ -100423,6 +100510,7 @@ lustuktk5an172.network.microsoft.com
 lustuktk5an173.network.microsoft.com
 lustuktk5an174.network.microsoft.com
 lustuktk5an175.network.microsoft.com
+lustuktk5an176.network.microsoft.com
 lustuktk5an177.network.microsoft.com
 lustuktk5an178.network.microsoft.com
 lustuktk5an17a.network.microsoft.com
@@ -100433,8 +100521,10 @@ lustuktk5an17f.network.microsoft.com
 lustuktk5an17g.network.microsoft.com
 lustuktk5an17h.network.microsoft.com
 lustuktk5an17j.network.microsoft.com
+lustuktk5an17k.network.microsoft.com
 lustuktk5an17l.network.microsoft.com
 lustuktk5an17o.network.microsoft.com
+lustuktk5an17p.network.microsoft.com
 lustuktk5an17q.network.microsoft.com
 lustuktk5an17r.network.microsoft.com
 lustuktk5an17s.network.microsoft.com
@@ -100511,6 +100601,7 @@ lustuktk5an1a0.network.microsoft.com
 lustuktk5an1a1.network.microsoft.com
 lustuktk5an1a2.network.microsoft.com
 lustuktk5an1a3.network.microsoft.com
+lustuktk5an1a4.network.microsoft.com
 lustuktk5an1a5.network.microsoft.com
 lustuktk5an1a6.network.microsoft.com
 lustuktk5an1a8.network.microsoft.com
@@ -100538,6 +100629,7 @@ lustuktk5an1ax.network.microsoft.com
 lustuktk5an1ay.network.microsoft.com
 lustuktk5an1az.network.microsoft.com
 lustuktk5an1b3.network.microsoft.com
+lustuktk5an1b4.network.microsoft.com
 lustuktk5an1ba.network.microsoft.com
 lustuktk5an1bb.network.microsoft.com
 lustuktk5an1bc.network.microsoft.com
@@ -100566,6 +100658,7 @@ lustuktk5an1c2.network.microsoft.com
 lustuktk5an1c3.network.microsoft.com
 lustuktk5an1c5.network.microsoft.com
 lustuktk5an1c6.network.microsoft.com
+lustuktk5an1c7.network.microsoft.com
 lustuktk5an1c8.network.microsoft.com
 lustuktk5an1ca.network.microsoft.com
 lustuktk5an1cb.network.microsoft.com
@@ -100611,6 +100704,7 @@ lustuktk5an1dw.network.microsoft.com
 lustuktk5an1dx.network.microsoft.com
 lustuktk5an1dy.network.microsoft.com
 lustuktk5an1e0.network.microsoft.com
+lustuktk5an1e1.network.microsoft.com
 lustuktk5an1e2.network.microsoft.com
 lustuktk5an1e3.network.microsoft.com
 lustuktk5an1e4.network.microsoft.com
@@ -104342,6 +104436,7 @@ matsportaltest.glbdns2.microsoft.com
 matsservice.glbdns2.microsoft.com
 mattperrymdip.reddog.microsoft.com
 maurotorres.team.partners.extranet.microsoft.com
+maveneligibility.benefits.microsoft.com
 maveneligibilityuat.benefits.microsoft.com
 mavideo.microsoft.com
 mawppe.microsoft.com
@@ -105254,6 +105349,7 @@ mgbrea001an7ao.network.microsoft.com
 mgbrea001an7av.network.microsoft.com
 mgbrea001an7aw.network.microsoft.com
 mgbrea001an7ay.network.microsoft.com
+mgbrea001an7az.network.microsoft.com
 mgbrea001an7bb.network.microsoft.com
 mgbrea001an7bd.network.microsoft.com
 mgbrea001an7be.network.microsoft.com
@@ -105987,6 +106083,7 @@ monitoringplatform-kv-ppe.teams.microsoft.com
 monitoringplatform-local.teams.microsoft.com
 monitoringplatform-ppe.teams.microsoft.com
 monitoringplatform.gcc.teams.microsoft.com
+monitoringplatform.infra.gcc.teams.microsoft.com
 monitoringplatform.teams.microsoft.com
 monitorreader.geneva.obsrvb.microsoft.com
 monmon-core.genevatelemetry.microsoft.com
@@ -106679,6 +106776,7 @@ msit.reader.avs.infra.teams.microsoft.com
 msit.rpa.microsoft.com
 msit.rtmpingest-instance.mcr.teams.microsoft.com
 msit.rtmpingest.mcr.teams.microsoft.com
+msit.shadowexp.microsoft.com
 msit.storage.recdist.infra.teams.microsoft.com
 msit.teamsinsight.myanalytics.microsoft.com
 msit.tenantuser.api.records.infra.teams.microsoft.com
@@ -108048,6 +108146,7 @@ musredrr1an174.network.microsoft.com
 musredrr1an177.network.microsoft.com
 musredrr1an179.network.microsoft.com
 musredrr1an183.network.microsoft.com
+musredrr1an185.network.microsoft.com
 musredrr1an190.network.microsoft.com
 musredrr1an191.network.microsoft.com
 musredrr1an194.network.microsoft.com
@@ -108057,6 +108156,7 @@ musredrr1an198.network.microsoft.com
 musredrr1an1aa.network.microsoft.com
 musredrr1an1ab.network.microsoft.com
 musredrr1an1ad.network.microsoft.com
+musredrr1an1ae.network.microsoft.com
 musredrr1an1af.network.microsoft.com
 musredrr1an1ca.network.microsoft.com
 musredrr1an1cb.network.microsoft.com
@@ -108080,6 +108180,7 @@ musredrr1an1iu.network.microsoft.com
 musredrr1an1iw.network.microsoft.com
 musredrr1an1jb.network.microsoft.com
 musredrr1an1jc.network.microsoft.com
+musredrr1an1jf.network.microsoft.com
 musredrr1an1jg.network.microsoft.com
 musredrr1an1jh.network.microsoft.com
 musredrr1an1jj.network.microsoft.com
@@ -108088,10 +108189,14 @@ musredrr1an1jn.network.microsoft.com
 musredrr1an1jo.network.microsoft.com
 musredrr1an1jr.network.microsoft.com
 musredrr1an1ju.network.microsoft.com
+musredrr1an1jv.network.microsoft.com
 musredrr1an1jx.network.microsoft.com
 musredrr1an1ka.network.microsoft.com
+musredrr1an1kh.network.microsoft.com
 musredrr1an1kj.network.microsoft.com
 musredrr1an1km.network.microsoft.com
+musredrr1an1kn.network.microsoft.com
+musredrr1an1ko.network.microsoft.com
 musredrr1an1kq.network.microsoft.com
 musredrr1an1kt.network.microsoft.com
 musredrr1an1ku.network.microsoft.com
@@ -108101,12 +108206,14 @@ musredrr1an1lc.network.microsoft.com
 musredrr1an1le.network.microsoft.com
 musredrr1an1li.network.microsoft.com
 musredrr1an1lm.network.microsoft.com
+musredrr1an1lo.network.microsoft.com
 musredrr1an1lu.network.microsoft.com
 musredrr1an1lv.network.microsoft.com
 musredrr1an1lw.network.microsoft.com
 musredrr1an1lx.network.microsoft.com
 musredrr1an1ly.network.microsoft.com
 musredrr1an1mb.network.microsoft.com
+musredrr1an1me.network.microsoft.com
 musredrr1an1mi.network.microsoft.com
 musredrr1an1mj.network.microsoft.com
 musredrr1an1mm.network.microsoft.com
@@ -108264,6 +108371,7 @@ musredrr1an2wn.network.microsoft.com
 musredrr1an2wo.network.microsoft.com
 musredrr1an2wp.network.microsoft.com
 musredrr1an2wr.network.microsoft.com
+musredrr1an2wx.network.microsoft.com
 musredrr1an2wz.network.microsoft.com
 musredrr1an2x2.network.microsoft.com
 musredrr1an2x5.network.microsoft.com
@@ -108441,6 +108549,7 @@ musredrwean1ak.network.microsoft.com
 musredrwean1al.network.microsoft.com
 musredrwean1am.network.microsoft.com
 musredrwean1an.network.microsoft.com
+musredrwean1ao.network.microsoft.com
 musredrwean1ap.network.microsoft.com
 musredrwean1ar.network.microsoft.com
 musredrwean1av.network.microsoft.com
@@ -108487,6 +108596,7 @@ musredrwean2an.network.microsoft.com
 musredrwean2ao.network.microsoft.com
 musredrwean2aq.network.microsoft.com
 musredrwean2b0.network.microsoft.com
+musredrwean2b2.network.microsoft.com
 musredrwean2b3.network.microsoft.com
 musredrwean2b4.network.microsoft.com
 musredrwean2b4.rotortest.microsoft.com
@@ -108572,8 +108682,10 @@ mustuktk5an1gx.network.microsoft.com
 mustuktk5an1gy.network.microsoft.com
 mustuktk5an1gz.network.microsoft.com
 mustuktk5an1ha.network.microsoft.com
+mustuktk5an1hb.network.microsoft.com
 mustuktk5an1hc.network.microsoft.com
 mustuktk5an1hd.network.microsoft.com
+mustuktk5an1he.network.microsoft.com
 mustuktk5an1hf.network.microsoft.com
 mustuktk5an1hh.network.microsoft.com
 mustuktk5an1hi.network.microsoft.com
@@ -108632,6 +108744,7 @@ mustuktk5an1ko.network.microsoft.com
 mustuktk5an1kp.network.microsoft.com
 mustuktk5an1kq.network.microsoft.com
 mustuktk5an1kr.network.microsoft.com
+mustuktk5an1ks.network.microsoft.com
 mustuktk5an1kv.network.microsoft.com
 mustuktk5an1kx.network.microsoft.com
 mustuktk5an1ky.network.microsoft.com
@@ -108701,6 +108814,7 @@ mustuktk5anrrk.network.microsoft.com
 mustuktk5anrrl.network.microsoft.com
 mustuktk5anrrm.network.microsoft.com
 mustuktk5anrrn.network.microsoft.com
+mustuktk5anrrp.network.microsoft.com
 mustuktk5anrrq.network.microsoft.com
 mustuktk5anrrr.network.microsoft.com
 mustuktk5anrrw.network.microsoft.com
@@ -112873,6 +112987,7 @@ paymentfulfillmentfd.cp.microsoft.com
 paymentinstrument.family.microsoft.com
 paymentinstrumentjournalservice.co1.cp.microsoft.com
 paymentinstrumentjournalservice.dm2.cp.microsoft.com
+paymentinstruments-feature.mp.microsoft.com
 paymentinstruments-int.mp.microsoft.com
 paymentinstruments.md.mp.microsoft.com
 paymentinstruments.mp.microsoft.com
@@ -115292,9 +115407,11 @@ pranshu-sspm.corp.microsoft.com
 prathisk.myworkspace.microsoft.com
 prd-aea-aec0a-201.mdi.securitycenter.microsoft.com
 prd-aea-aen0a-201.mdi.securitycenter.microsoft.com
+prd-appg-eu-neu-cs.as.mda.microsoft.com
 prd-appg-eu-neu-cs.as.mda.securitycenter.microsoft.com
 prd-appg-eu-neu-gs.as.mda.microsoft.com
 prd-appg-eu-neu-gs.as.mda.securitycenter.microsoft.com
+prd-appg-eu-weu-cs.as.mda.microsoft.com
 prd-appg-eu-weu-cs.as.mda.securitycenter.microsoft.com
 prd-appg-eu-weu-gs.as.mda.microsoft.com
 prd-appg-eu-weu-gs.as.mda.securitycenter.microsoft.com
@@ -115306,12 +115423,14 @@ prd-appg-uk-ukw-cs.as.mda.microsoft.com
 prd-appg-uk-ukw-cs.as.mda.securitycenter.microsoft.com
 prd-appg-uk-ukw-gs.as.mda.microsoft.com
 prd-appg-uk-ukw-gs.as.mda.securitycenter.microsoft.com
+prd-appg-us-cus-cs.as.mda.microsoft.com
 prd-appg-us-cus-cs.as.mda.securitycenter.microsoft.com
 prd-appg-us-cus-gs.as.mda.securitycenter.microsoft.com
 prd-appg-us-eus-cs.as.mda.microsoft.com
 prd-appg-us-eus-cs.as.mda.securitycenter.microsoft.com
 prd-appg-us-eus-gs.as.mda.microsoft.com
 prd-appg-us-eus-gs.as.mda.securitycenter.microsoft.com
+prd-appg-us-eus2-cs.as.mda.microsoft.com
 prd-appg-us-eus2-cs.as.mda.securitycenter.microsoft.com
 prd-appg-us-eus2-gs.as.mda.securitycenter.microsoft.com
 prd-appg-us-wcus-cs.as.mda.microsoft.com
@@ -122430,6 +122549,7 @@ sapprdgrc.redmond.corp.microsoft.com
 sapprdh4chdb1.redmond.corp.microsoft.com
 sapprdh4chdb2.redmond.corp.microsoft.com
 sapprdmail.redmond.corp.microsoft.com
+sapprdmail.saprise.microsoft.com
 sapprdotarc6.redmond.corp.microsoft.com
 sapprdotarc7.redmond.corp.microsoft.com
 sapprdotarc8.redmond.corp.microsoft.com
@@ -124325,6 +124445,7 @@ seval-dev3.microsoft.com
 seval-test.microsoft.com
 sevalscraper-geneva.microsoft.com
 seven.buddy.microsoft.com
+severanceadmintool-uat.microsoft.com
 sevillecloudgateway.microsoft.com
 sevillecloudgateway-stg.microsoft.com
 sevillegw.microsoft.com
@@ -128051,6 +128172,7 @@ substrate-gram-mgms-urp-eastus.prod.m365billing.microsoft.com
 substrate-gram-mgms-urp.msit.m365billing.microsoft.com
 substrate-gram-mgms-urp.prod.m365billing.microsoft.com
 substrate-msai-sevalscraper.microsoft.com
+substrate-msai-sevalscraper-test.microsoft.com
 substrate.cs.md.microsoft.com
 substrate.int.cs.md.microsoft.com
 substrate.int.sds.microsoft.com
@@ -129532,6 +129654,7 @@ tags-dev-teams.microsoft.com
 tags-dev.teams.microsoft.com
 tags-ppe.teams.microsoft.com
 tags.gcc.teams.microsoft.com
+tags.infra.gcc.teams.microsoft.com
 tags.teams.microsoft.com
 tagtst.microsoft.com
 tahoe4.redmond.corp.microsoft.com
@@ -132475,6 +132598,7 @@ tusredrwean201.network.microsoft.com
 tusredrwean202.network.microsoft.com
 tusredrwean203.network.microsoft.com
 tusredrwean2s1.network.microsoft.com
+tusredrwean2s5.network.microsoft.com
 tusredrwean2s7.network.microsoft.com
 tusredrwean2x1.network.microsoft.com
 tusredrweanr01.network.microsoft.com
@@ -135131,6 +135255,7 @@ vru.microsoft.com
 vru-nonprod.microsoft.com
 vru-nonprod.redmond.corp.microsoft.com
 vryiim.myworkspace.microsoft.com
+vsa.microsoft.com
 vsa-assistedsupport-staging.services.microsoft.com
 vsa-australiaeast-trs-prod.services.microsoft.com
 vsa-dev.services.microsoft.com

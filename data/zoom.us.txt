@@ -77528,6 +77528,7 @@ ca01calendarapi.zoom.us
 ca01command.zoom.us
 ca01commonconsumer.zoom.us
 ca01commonconsumer-va1.zoom.us
+ca01commonconsumer-va2.zoom.us
 ca01connectors.zoom.us
 ca01contactservice.zoom.us
 ca01contactservice-a.zoom.us
@@ -78513,6 +78514,7 @@ chatcomposetreatment2-go.cloud.zoom.us
 chatcomposetreatment3-go-aws-us-east-2.ai.cloud.zoom.us
 chatcomposetreatment3-go-colo-sjc-1.cloud.zoom.us
 chatcomposetreatment3-go.cloud.zoom.us
+chatgateway-ap-southeast-1.cloud.zoom.us
 chatgateway-ap-southeast-2.cloud.zoom.us
 chatgateway-ca-central-1.cloud.zoom.us
 chatgateway-dg01-aws-us-east-2.cloud.zoom.us
@@ -78523,6 +78525,7 @@ chatgateway-go-colo-iad-1.cloud.zoom.us
 chatgateway-go-colo-sjc-1.cloud.zoom.us
 chatgateway-go-go.cloud.zoom.us
 chatgateway-go.cloud.zoom.us
+chatgateway-prod-aws-ap-southeast-1.ai.cloud.zoom.us
 chatgateway-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 chatgateway-prod-aws-ca-central-1.ai.cloud.zoom.us
 chatgateway-prod-aws-eu-central-1.ai.cloud.zoom.us
@@ -79131,6 +79134,7 @@ dg01-web-va1-i.zoom.us
 dg01-web-va1-internal.zoom.us
 dg01-web-va1-internal-i.zoom.us
 dg01-webimcommon.zoom.us
+dg01-ze-ingress-api.zoom.us
 dg01-ze-zcp.zoom.us
 dg01-ze-zcp-va1.zoom.us
 dg01ai.zoom.us
@@ -81593,10 +81597,13 @@ go-feature-toggle.zoom.us
 go-iad-s3.zoom.us
 go-in-meeting-store.zoom.us
 go-infra.zoom.us
+go-infra-i.zoom.us
 go-infra-oh1.zoom.us
 go-infra-oh1-internal.zoom.us
 go-infra-va1.zoom.us
+go-infra-va1-i.zoom.us
 go-infra-va1-internal.zoom.us
+go-infra-va1-internal-i.zoom.us
 go-integration-op-api.zoom.us
 go-linkpreview.zoom.us
 go-linkpreview-oh1.zoom.us
@@ -81635,10 +81642,13 @@ go-va2-cci-nginx2.zoom.us
 go-va2-cci-nginx3.zoom.us
 go-va2-prometheus.zoom.us
 go-web.zoom.us
+go-web-i.zoom.us
 go-web-oh1.zoom.us
 go-web-oh1-internal.zoom.us
 go-web-va1.zoom.us
+go-web-va1-i.zoom.us
 go-web-va1-internal.zoom.us
+go-web-va1-internal-i.zoom.us
 go-webok.zoom.us
 go-webok-oh1.zoom.us
 go-webok-oh1-internal.zoom.us
@@ -82410,6 +82420,7 @@ gosbc180.zoom.us
 gosbca.sc.zoom.us
 gosbcb.sc.zoom.us
 gosbcsj01.zoom.us
+gosdk-oh1.zoom.us
 gosearch.zoom.us
 gosearchpilot.zoom.us
 gosequence.zoom.us
@@ -88672,6 +88683,7 @@ sg01va2command.zoom.us
 sg01vaapplications.zoom.us
 sg01wbnapi.zoom.us
 sg01websrvop.zoom.us
+sg01workflow.zoom.us
 sg01xaig.zoom.us
 sg01xaig-nlb.zoom.us
 sg01xmpp.zoom.us
@@ -88897,6 +88909,7 @@ smartprompt-prod-oci-me-riyadh-1.ai.cloud.zoom.us
 smartprompt-sa-east-1.cloud.zoom.us
 smartprompt-stocr-ap-northeast-1.cloud.zoom.us
 smartprompt-stocr-ap-southeast-2.cloud.zoom.us
+smartprompt-stocr-ca-central-1.cloud.zoom.us
 smartprompt-stocr-dg01-aws-us-east-2.cloud.zoom.us
 smartprompt-stocr-go-aws-go.ai.cloud.zoom.us
 smartprompt-stocr-go-aws-us-east-1.ai.cloud.zoom.us
@@ -88907,6 +88920,7 @@ smartprompt-stocr-go-colo-sjc-1.cloud.zoom.us
 smartprompt-stocr-go.cloud.zoom.us
 smartprompt-stocr-prod-aws-ap-northeast-1.ai.cloud.zoom.us
 smartprompt-stocr-prod-aws-ap-southeast-2.ai.cloud.zoom.us
+smartprompt-stocr-prod-aws-ca-central-1.ai.cloud.zoom.us
 smartprompt-stocr-prod-aws-sa-east-1.ai.cloud.zoom.us
 smartprompt-stocr-prod-aws-us-east-1.ai.cloud.zoom.us
 smartprompt-stocr-prod-aws-us-east-2.ai.cloud.zoom.us
@@ -89351,6 +89365,7 @@ streamingocr-go-colo-sjc-1.cloud.zoom.us
 streamingocr-prod-aws-ap-northeast-1.ai.cloud.zoom.us
 streamingocr-prod-aws-ap-southeast-1.ai.cloud.zoom.us
 streamingocr-prod-aws-ca-central-1.ai.cloud.zoom.us
+streamingocr-prod-aws-eu-central-1.ai.cloud.zoom.us
 streamingocr-prod-aws-sa-east-1.ai.cloud.zoom.us
 streamingocr-prod-aws-us-east-1.ai.cloud.zoom.us
 streamingocr-prod-aws-us-east-2.ai.cloud.zoom.us
@@ -89800,7 +89815,9 @@ uk01-default-xmpprpc.zoom.us
 uk01-main.zoom.us
 uk01-main-i.zoom.us
 uk01-main-va1.zoom.us
+uk01-main-va1-i.zoom.us
 uk01-main-va1-internal.zoom.us
+uk01-main-va1-internal-i.zoom.us
 uk01-main-va2.zoom.us
 uk01-main-va2-i.zoom.us
 uk01-main-va2-internal.zoom.us
@@ -89917,6 +89934,7 @@ uk01notificationswfm.zoom.us
 uk01notificationswfm-va.zoom.us
 uk01nws.zoom.us
 uk01nws-billing-op.zoom.us
+uk01nws-va1.zoom.us
 uk01ocs.zoom.us
 uk01op.zoom.us
 uk01oppbx.zoom.us
@@ -89989,6 +90007,9 @@ uk01prov201.lhr.zoom.us
 uk01rospbx.zoom.us
 uk01rospbx-va.zoom.us
 uk01rospbx-va2.zoom.us
+uk01routingengine.zoom.us
+uk01routingengine-va.zoom.us
+uk01routingengine-va2.zoom.us
 uk01sbc01.lhr.zoom.us
 uk01sbc100.zoom.us
 uk01sbc110.zoom.us
@@ -90022,6 +90043,9 @@ uk01swcc-va1.zoom.us
 uk01swcc-va2.zoom.us
 uk01tasks.zoom.us
 uk01tasks-internal.zoom.us
+uk01tts.zoom.us
+uk01tts-va.zoom.us
+uk01tts-va2.zoom.us
 uk01udms.zoom.us
 uk01uiproxy.zoom.us
 uk01va1calendarapi.zoom.us
@@ -90083,6 +90107,7 @@ uk01zdmapi-va1.zoom.us
 uk01zdmapi-va2.zoom.us
 uk01zdmdevice.zoom.us
 uk01zkm.zoom.us
+uk01zoomclips.zoom.us
 uk01zpalertmanager.zoom.us
 uk01zpprom.zoom.us
 uk01zpproxy01.lhr.zoom.us
@@ -90150,6 +90175,8 @@ undefined-go.cloud.zoom.us
 undefined-prod-aws-ap-south-1.ai.cloud.zoom.us
 undefined-prod-aws-ap-southeast-1.ai.cloud.zoom.us
 undefined-prod-aws-ca-central-1.ai.cloud.zoom.us
+undefined-prod-aws-sa-east-1.ai.cloud.zoom.us
+undefined-sa-east-1.cloud.zoom.us
 undefined-us-east-2-dogfood.cloud.zoom.us
 undrr.zoom.us
 unesco-org.zoom.us
@@ -91759,6 +91786,7 @@ us01peer723.zoom.us
 us01peoplehub.zoom.us
 us01peoplehub-internal.zoom.us
 us01peoplehub-oh1.zoom.us
+us01peoplehub-va1.zoom.us
 us01profilecard.zoom.us
 us01profilecard-internal.zoom.us
 us01profilecard-oh1.zoom.us
@@ -92241,6 +92269,7 @@ us01sbc720.zoom.us
 us01sbc721.zoom.us
 us01sbcam01.zoom.us
 us01sdk-oh1.zoom.us
+us01sdk-va1.zoom.us
 us01sgai3lb.zoom.us
 us01sip01.am.zoom.us
 us01sip01.ams.zoom.us
@@ -96425,8 +96454,11 @@ us08data-ingestionwfm-va2.zoom.us
 us08file-cf.zoom.us
 us08grpcccistreamproxy.zoom.us
 us08logsystem.zoom.us
+us08oci-main.zoom.us
 us08oci-main-i.zoom.us
+us08oci-main-va1.zoom.us
 us08oci-main-va1-i.zoom.us
+us08oci-main-va1-internal.zoom.us
 us08oci-main-va1-internal-i.zoom.us
 us08ocicommand.zoom.us
 us08pbx-va-ucs-nginx1.zoom.us
@@ -97450,6 +97482,7 @@ zcp-infra-go-va1-dbexecutor.zoom.us
 zcp-infra-neweng-dbexecutor.zoom.us
 zcp-infra-sa01-pbx-dbexecutor.zoom.us
 zcp-infra-uk01-dbexecutor.zoom.us
+zcp-infra-va1-dbexecutor.zoom.us
 zcp-new-eng.zoom.us
 zcp-server.zoom.us
 zcp-temporal.zoom.us
@@ -112192,3 +112225,6 @@ zwebmail.asynccommau.zoom.us
 zwebmail.asynccommeu.zoom.us
 zwebmail.asynccommgo.zoom.us
 zworkspace.asynccomm.zoom.us
+zworkspace.asynccommau.zoom.us
+zworkspace.asynccommeu.zoom.us
+zworkspace.asynccommgo.zoom.us

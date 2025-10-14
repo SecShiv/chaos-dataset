@@ -54,6 +54,7 @@
 *.ci-use-fixed-pipeli-record-harvester.dev.sdp.surf.nl
 *.cluster-dev-2-int.sdp.surf.nl
 *.cluster-dev-2.sdp.surf.nl
+*.cluster-dev-3-int.otc.sdp.surf.nl
 *.cluster-dev-3.otc.sdp.surf.nl
 *.cluster-dev-int.sdp.surf.nl
 *.cluster-dev.sdp.surf.nl
@@ -888,7 +889,9 @@ ci-renovate-cross-e-backstage.dev.sdp.surf.nl
 ci-renovate-eslint--admin.cxp.dev.sdp.surf.nl
 ci-renovate-express-backstage.dev.sdp.surf.nl
 ci-renovate-fastapi-monitoring.dev.sdp.surf.nl
+ci-renovate-faststr-monitoring.dev.sdp.surf.nl
 ci-renovate-localst-monitoring.dev.sdp.surf.nl
+ci-renovate-lock-fi-monitoring.dev.sdp.surf.nl
 ci-renovate-minio-7-monitoring.dev.sdp.surf.nl
 ci-renovate-mkdocs--monitoring.dev.sdp.surf.nl
 ci-renovate-mypy-1--monitoring.dev.sdp.surf.nl
@@ -920,6 +923,7 @@ client2.ams.scz.lab.surf.nl
 cloudbeaver.pilot1.sram.surf.nl
 cluster-dev-2-int.sdp.surf.nl
 cluster-dev-2.sdp.surf.nl
+cluster-dev-3-int.otc.sdp.surf.nl
 cluster-dev-3.otc.sdp.surf.nl
 cluster-dev-int.sdp.surf.nl
 cluster-dev.sdp.surf.nl
@@ -2929,6 +2933,7 @@ minio-console.dev-int.sdp.surf.nl
 minio-console.infra-int.sdp.surf.nl
 minio-console.playground-int.sdp.surf.nl
 minio-console.stage-int.sdp.surf.nl
+minio-console.staging-int.otc.sdp.surf.nl
 minio-console.test-int.sdp.surf.nl
 minio.cluster-dev-3-int.otc.sdp.surf.nl
 minio.cluster-dev-int.sdp.surf.nl
@@ -2937,6 +2942,7 @@ minio.infra-int.sdp.surf.nl
 minio.pilot1.sram.surf.nl
 minio.playground-int.sdp.surf.nl
 minio.stage-int.sdp.surf.nl
+minio.staging-int.otc.sdp.surf.nl
 minio.test-int.sdp.surf.nl
 mirror.ia.surf.nl
 mk.aaiedumk.oidf.lab.surf.nl
@@ -3291,6 +3297,7 @@ prometheus-client.cluster-dev.sdp.surf.nl
 prometheus-client.infra.sdp.surf.nl
 prometheus-client.playground.sdp.surf.nl
 prometheus-client.stage.sdp.surf.nl
+prometheus-client.staging.otc.sdp.surf.nl
 prometheus-client.test.sdp.surf.nl
 prometheus-ia-test.ia.surf.nl
 prometheus-isn.ia.surf.nl
@@ -5046,4 +5053,3 @@ zoekportaal.surf.nl
 zoekportaalback.surf.nl
 zoekportal.surf.nl
 zoekportalback.surf.nl
-zulip.sram.lab.surf.nl

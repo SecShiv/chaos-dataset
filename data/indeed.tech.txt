@@ -290,6 +290,7 @@
 8c2463edfafcefa066fe7945bde1b7ca.loom-inference.awscmh5.k8s.indeed.tech
 8c2463edfafcefa066fe7945bde1b7ca.loom-inference.awscmh6.k8s.indeed.tech
 8c2463edfafcefa066fe7945bde1b7ca.loom-inference.awscmhqa4.k8s.indeed.tech
+8c2463edfafcefa066fe7945bde1b7ca.loom-inference.awspdx2.k8s.indeed.tech
 8c2463edfafcefa066fe7945bde1b7ca.loom-inference.awsyul2.k8s.indeed.tech
 8e59de74808c50a2d0cb59e80071d28f.loom-inference.awscmhqa5.k8s.indeed.tech
 909a67ecfdec158b6f7827f3637d2728.loom-inference.awscmhqa4.k8s.indeed.tech
@@ -2121,6 +2122,9 @@ curity-runtime-mtls.qa.indeed.tech
 curity-runtime-public.indeed.tech
 curity-runtime-public-deprecated.indeed.tech
 curity-runtime-public-deprecated.qa.indeed.tech
+curity-runtime-public-qa.indeed.tech
+curity-runtime-public-qa.awscmh6.k8s.indeed.tech
+curity-runtime-public-qa.us-east-2.indeed.tech
 curity-runtime-public-v2.indeed.tech
 curity-runtime-public-v2.ap-northeast-1.indeed.tech
 curity-runtime-public-v2.ap-southeast-2.indeed.tech
@@ -5097,6 +5101,8 @@ kafdrop-shared.awscmh5.k8s.indeed.tech
 kafdrop-shared.awscmhqa.k8s.indeed.tech
 kafdrop-shared.awscmhqa2.k8s.indeed.tech
 kafdrop-shared.awscmhqa5.k8s.indeed.tech
+kafdrop-spender.awscmh5.k8s.indeed.tech
+kafdrop-spender.awscmhqa5.k8s.indeed.tech
 kafdrop-ubs.awscmh2.k8s.indeed.tech
 kafdrop-ubs.awscmh5.k8s.indeed.tech
 kafdrop-ubs.awscmhqa.k8s.indeed.tech
@@ -5986,6 +5992,8 @@ mce.cmhqa2.k8s.indeed.tech
 mce.qa.k8s.indeed.tech
 mclennon-dev.awsiaddata.k8s.indeed.tech
 mclennon-dev.mclennon.awsiaddata.k8s.indeed.tech
+mcp-portal.ztna.indeed.tech
+mcp.ztna.indeed.tech
 mcstats-presto-metric-value.aus.k8s.indeed.tech
 mcstats-presto-metric-value.awscmh3.k8s.indeed.tech
 mcstats-presto-metric-value.cmhprod1.k8s.indeed.tech

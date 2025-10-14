@@ -904,6 +904,7 @@ prometheus.sfb.oanda.com
 prometheus.web.oanda.com
 proptrader-help.oanda.com
 push-honor.k8s-dev-asne1.d.gcp.oanda.com
+push-honor.k8s-dev-euw3.d.gcp.oanda.com
 push-honor.k8s-dev-usc1.d.gcp.oanda.com
 push-honor.k8s-stg-asne1.s.gcp.oanda.com
 push-honor.k8s-uat-asne1.u.gcp.oanda.com
@@ -943,6 +944,7 @@ push.oanda-uat-fx-dmz-cluster-1.gcp.oanda.com
 push.oanda-uat-fx-dmz-cluster-2.gcp.oanda.com
 push.oanda-uat-web-cluster-1.gcp.oanda.com
 pushgateway-honorable.k8s-dev-asne1.d.gcp.oanda.com
+pushgateway-honorable.k8s-dev-euw3.d.gcp.oanda.com
 pushgateway-honorable.k8s-dev-usc1.d.gcp.oanda.com
 pushgateway-honorable.k8s-stg-asne1.s.gcp.oanda.com
 pushgateway-honorable.k8s-uat-asne1.u.gcp.oanda.com
@@ -1182,6 +1184,7 @@ sitegateway-admin-heavy-demo.k8s-prod-use4.p.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-stg-asne1.s.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway-admin-heavy-demo.k8s-stg-usc1.s.gcp.oanda.com
+sitegateway-admin-heavy.k8s-prod-asne1.p.gcp.oanda.com
 sitegateway-admin-heavy.k8s-prod-euw3.p.gcp.oanda.com
 sitegateway-admin-heavy.k8s-prod-use4.p.gcp.oanda.com
 sitegateway-admin-heavy.k8s-stg-asne1.s.gcp.oanda.com
@@ -1190,7 +1193,9 @@ sitegateway-admin-heavy.k8s-uat-asne1.u.gcp.oanda.com
 sitegateway-admin-heavy.k8s-uat-euw3.u.gcp.oanda.com
 sitegateway-admin-heavy.k8s-uat-usc1.u.gcp.oanda.com
 sitegateway-admin.k8s-dev-usc1.d.gcp.oanda.com
+sitegateway-admin.k8s-prod-asne1.p.gcp.oanda.com
 sitegateway-admin.k8s-prod-euw3.p.gcp.oanda.com
+sitegateway-admin.k8s-prod-use4.p.gcp.oanda.com
 sitegateway-admin.k8s-stg-asne1.s.gcp.oanda.com
 sitegateway-admin.k8s-stg-euw3.s.gcp.oanda.com
 sitegateway-admin.k8s-stg-usc1.s.gcp.oanda.com
