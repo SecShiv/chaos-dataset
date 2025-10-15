@@ -75845,6 +75845,7 @@ aicgateway-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 aicgateway-prod-aws-ca-central-1.ai.cloud.zoom.us
 aicgateway-prod-aws-eu-central-1.ai.cloud.zoom.us
 aicgateway-prod-aws-sa-east-1.ai.cloud.zoom.us
+aicgateway-prod-aws-uk01-central-1.ai.cloud.zoom.us
 aicgateway-prod-aws-us-east-1.ai.cloud.zoom.us
 aicgateway-prod-aws-us-east-2.ai.cloud.zoom.us
 aicgateway-prod-colo-iad-1.cloud.zoom.us
@@ -79713,6 +79714,7 @@ edge-zcp-meta-neweng.zoom.us
 edge-zcp-meta-neweng-oh1.zoom.us
 edge-zcp-meta-neweng-va1.zoom.us
 edge-zpzcx-i-uk01-main-va1-internal.zoom.us
+edge-zpzcx-i-uk01-main-va2-internal.zoom.us
 edge-zpzcx-uk01-main-va1-internal.zoom.us
 edge-zpzcx-uk01-main-va2-internal.zoom.us
 edgenuity.zoom.us
@@ -84853,6 +84855,7 @@ in01wsgateway.zoom.us
 in01wsgateway-va1.zoom.us
 in01xaig.zoom.us
 in01xaig-nlb.zoom.us
+in01xaig-va2.zoom.us
 in01xmpp.zoom.us
 in01xmpp1.zoom.us
 in01xmppapi.zoom.us
@@ -84951,6 +84954,10 @@ integrations.zoom.us
 integrations-oh1.zoom.us
 integrations-va1.zoom.us
 integrations.corp.zoom.us
+integrationuk01va2ngx1.zoom.us
+integrationuk01va2ngx2.zoom.us
+integrationuk01vangx1.zoom.us
+integrationuk01vangx2.zoom.us
 integrationus02va2ngx1.zoom.us
 integrationus02va2ngx2.zoom.us
 integrationus02vangx1.zoom.us
@@ -87491,6 +87498,7 @@ querytreatment2-go.cloud.zoom.us
 querytreatment2-us-east-2-dogfood.cloud.zoom.us
 querytreatment3-dg01-aws-us-east-2.cloud.zoom.us
 querytreatment3-go-aws-us-east-2.ai.cloud.zoom.us
+querytreatment3-go-colo-iad-1.cloud.zoom.us
 querytreatment3-go.cloud.zoom.us
 querytreatment3-us-east-2-dogfood.cloud.zoom.us
 questica.zoom.us
@@ -89812,6 +89820,7 @@ uiowa.zoom.us
 uiproxy.zoom.us
 uiw.zoom.us
 uk01-default-xmpprpc.zoom.us
+uk01-dgpipeline.zoom.us
 uk01-main.zoom.us
 uk01-main-i.zoom.us
 uk01-main-va1.zoom.us
@@ -89845,7 +89854,13 @@ uk01-zcxp-apisix-va2.zoom.us
 uk01-zcxp-apisix-va2-i.zoom.us
 uk01ai-enginewfm.zoom.us
 uk01ai-enginewfm-va.zoom.us
+uk01apizva.zoom.us
+uk01apizva-a.zoom.us
+uk01apizva-c.zoom.us
+uk01apizva-va.zoom.us
+uk01apizva-va2.zoom.us
 uk01apm-api.zoom.us
+uk01applications.zoom.us
 uk01backendwfm.zoom.us
 uk01backendwfm-va.zoom.us
 uk01billing-hub.zoom.us
@@ -89920,6 +89935,9 @@ uk01integrationzva-va.zoom.us
 uk01integrationzva-va2.zoom.us
 uk01keybroker.zoom.us
 uk01kiwi.zoom.us
+uk01kmzva.zoom.us
+uk01kmzva-va.zoom.us
+uk01kmzva-va2.zoom.us
 uk01logsystem.zoom.us
 uk01mdmdevice.zoom.us
 uk01migration.zoom.us
@@ -90043,18 +90061,22 @@ uk01swcc-va1.zoom.us
 uk01swcc-va2.zoom.us
 uk01tasks.zoom.us
 uk01tasks-internal.zoom.us
+uk01team.zoom.us
 uk01tts.zoom.us
 uk01tts-va.zoom.us
 uk01tts-va2.zoom.us
+uk01uaic-i.cloud.zoom.us
 uk01udms.zoom.us
 uk01uiproxy.zoom.us
 uk01va1calendarapi.zoom.us
 uk01va1nws-auth.zoom.us
+uk01va2applications.zoom.us
 uk01va2calendarapi.zoom.us
 uk01va2command.zoom.us
 uk01va2nws-auth.zoom.us
 uk01va2uiproxy.zoom.us
 uk01va2zdm-prov.zoom.us
+uk01vaapplications.zoom.us
 uk01wfm.zoom.us
 uk01wfm-a.zoom.us
 uk01wfm-c.zoom.us
@@ -90062,6 +90084,7 @@ uk01wfm-va.zoom.us
 uk01wfmop.zoom.us
 uk01wfmop-va.zoom.us
 uk01wfmop-va2.zoom.us
+uk01workflow.zoom.us
 uk01wrtc01.lhr.zoom.us
 uk01wrtc02.lhr.zoom.us
 uk01wsgateway-va1.zoom.us
@@ -90201,6 +90224,7 @@ unifiedaic-ap-southeast-1.cloud.zoom.us
 unifiedaic-ap-southeast-2.cloud.zoom.us
 unifiedaic-ca-central-1.cloud.zoom.us
 unifiedaic-eu-central-1.cloud.zoom.us
+unifiedaic-eu-west-2.cloud.zoom.us
 unifiedaic-go.cloud.zoom.us
 unifiedaic-sa-east-1.cloud.zoom.us
 unifiedaic-us-east-1-dogfood.cloud.zoom.us
@@ -96575,6 +96599,7 @@ va2-gows.zoom.us
 va2-ws.zoom.us
 va2applicationscontent.zoom.us
 va2bot.zoom.us
+va2ca01bot.zoom.us
 va2command.zoom.us
 va2eu01bot.zoom.us
 va2eventconsumer.zoom.us
@@ -96592,6 +96617,7 @@ va2uk01bot.zoom.us
 va2us04bot.zoom.us
 vaapplicationscontent.zoom.us
 vabot.zoom.us
+vaca01bot.zoom.us
 vaeu01bot.zoom.us
 vaeventconsumer.zoom.us
 vagobot.zoom.us
@@ -96637,6 +96663,7 @@ vfc.zoom.us
 vhc.zoom.us
 viastara.zoom.us
 vida.zoom.us
+video-inference-go-aws-us-east-2.ai.cloud.zoom.us
 videoconf-colibri.zoom.us
 videos.zoom.us
 view.b.zoom.us
@@ -96833,6 +96860,7 @@ wku.zoom.us
 wmcc.zoom.us
 wohaula.zoom.us
 workday.zoom.us
+worker-korean-0-prod-colo-nrt1.cloud.zoom.us
 workers-hub.zoom.us
 workflow.zoom.us
 workfront.zoom.us
@@ -97103,6 +97131,7 @@ zam-example-app-p-prod-aw1-fra1-common.zoom.us
 zam-example-app-p-prod-aw1-hkg1-common.zoom.us
 zam-example-app-p-prod-aw1-iad1-ai.zoom.us
 zam-example-app-p-prod-aw1-iad1-pbx.zoom.us
+zam-example-app-p-prod-aw1-iad2-asr.zoom.us
 zam-example-app-p-prod-aw1-iad3-common.zoom.us
 zam-example-app-p-prod-aw1-kix1-common.zoom.us
 zam-example-app-p-prod-aw1-ksa1-common.zoom.us
@@ -112227,4 +112256,3 @@ zwebmail.asynccommgo.zoom.us
 zworkspace.asynccomm.zoom.us
 zworkspace.asynccommau.zoom.us
 zworkspace.asynccommeu.zoom.us
-zworkspace.asynccommgo.zoom.us

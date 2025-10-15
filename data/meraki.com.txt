@@ -1,4 +1,5 @@
 *.meraki.com
+*.cloudflare-test.sandbox.meraki.com
 *.corp.meraki.com
 *.dashboard.meraki.com
 *.ldap.meraki.com
@@ -77,6 +78,7 @@ aph106.meraki.com
 api.meraki.com
 api-mp.meraki.com
 api.build-registry.usw.vision.meraki.com
+api.emc.workflows.meraki.com
 api.macflap.meraki.com
 api.macflap.sandbox.meraki.com
 api.mlabs.meraki.com
@@ -540,6 +542,7 @@ cloud-archive-upload.euc.vision.meraki.com
 cloud-archive-upload.use.vision.meraki.com
 cloudenrollment.meraki.com
 cloudenrollment.sandbox.meraki.com
+cloudflare-test.sandbox.meraki.com
 cnn101.meraki.com
 cnn102.meraki.com
 communities.meraki.com
@@ -4719,6 +4722,7 @@ n114.meraki.com
 n115.meraki.com
 n115-spare.meraki.com
 n115-spare.dashboard.meraki.com
+n115.dashboard.meraki.com
 n116.meraki.com
 n116-spare.meraki.com
 n117.meraki.com
@@ -4906,6 +4910,8 @@ n191-spare.dashboard.meraki.com
 n191.dashboard.meraki.com
 n192.meraki.com
 n192-spare.meraki.com
+n192-spare.dashboard.meraki.com
+n192.dashboard.meraki.com
 n193.meraki.com
 n194.meraki.com
 n194-spare.meraki.com
@@ -5010,6 +5016,7 @@ n234.meraki.com
 n234-spare.meraki.com
 n235.meraki.com
 n235-spare.meraki.com
+n235-spare.dashboard.meraki.com
 n235.dashboard.meraki.com
 n236.meraki.com
 n236-spare.meraki.com
@@ -5079,6 +5086,8 @@ n263.dashboard.meraki.com
 n264.meraki.com
 n265.meraki.com
 n266.meraki.com
+n266-spare.dashboard.meraki.com
+n266.dashboard.meraki.com
 n267.meraki.com
 n267-spare.dashboard.meraki.com
 n268.meraki.com
@@ -5321,6 +5330,8 @@ n384.meraki.com
 n385.meraki.com
 n385-spare.dashboard.meraki.com
 n386.meraki.com
+n386-spare.dashboard.meraki.com
+n386.dashboard.meraki.com
 n387.meraki.com
 n387-spare.dashboard.meraki.com
 n387.dashboard.meraki.com
@@ -5542,6 +5553,7 @@ n55.meraki.com
 n55-spare.meraki.com
 n550.dashboard.meraki.com
 n551-spare.dashboard.meraki.com
+n551.dashboard.meraki.com
 n552.dashboard.meraki.com
 n556-spare.dashboard.meraki.com
 n556.dashboard.meraki.com
@@ -5609,6 +5621,7 @@ n603-spare.dashboard.meraki.com
 n603.dashboard.meraki.com
 n604-spare.dashboard.meraki.com
 n604.dashboard.meraki.com
+n605-spare.dashboard.meraki.com
 n607-spare.dashboard.meraki.com
 n607.dashboard.meraki.com
 n609.meraki.com
@@ -5617,6 +5630,7 @@ n61.meraki.com
 n61-spare.meraki.com
 n610-spare.dashboard.meraki.com
 n610.dashboard.meraki.com
+n611-spare.dashboard.meraki.com
 n611.dashboard.meraki.com
 n614-spare.dashboard.meraki.com
 n614.dashboard.meraki.com
@@ -5677,6 +5691,7 @@ n656-spare.dashboard.meraki.com
 n658-spare.dashboard.meraki.com
 n658.dashboard.meraki.com
 n659-spare.dashboard.meraki.com
+n659.dashboard.meraki.com
 n66.meraki.com
 n66-spare.meraki.com
 n66-spare.dashboard.meraki.com
@@ -5757,6 +5772,7 @@ n719-spare.dashboard.meraki.com
 n719.dashboard.meraki.com
 n72.meraki.com
 n72-spare.meraki.com
+n72-spare.dashboard.meraki.com
 n72.dashboard.meraki.com
 n720-spare.dashboard.meraki.com
 n720.dashboard.meraki.com
@@ -5823,6 +5839,7 @@ n763-spare.dashboard.meraki.com
 n763.dashboard.meraki.com
 n764-spare.dashboard.meraki.com
 n764.dashboard.meraki.com
+n765.dashboard.meraki.com
 n768-spare.dashboard.meraki.com
 n768.dashboard.meraki.com
 n77.meraki.com

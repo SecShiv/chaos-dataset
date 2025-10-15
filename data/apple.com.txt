@@ -10227,6 +10227,8 @@ aiusw.apple.com
 aiusw-gss.apple.com
 aiv-ashburn-origin.mdn.sbz.apple.com
 aiv-mesa-origin.msc.sbz.apple.com
+aiv-qa-mesa-origin-b.msc.sbz.apple.com
+aiv-qa-mesa-origin-p.msc.sbz.apple.com
 aiv-xmo-3a.mdn.sbz.apple.com
 aiv-xmo-3b.mdn.sbz.apple.com
 akamai.info.apple.com
@@ -17359,6 +17361,7 @@ fodlabserver8.apple.com
 fodlabserver9.apple.com
 foehnapparatus.dlabserver12.apple.com
 foerderd248.apple.com
+foil.aiv.vpg.apple.com
 fondue.apple.com
 fondue-nc.apple.com
 fondue-nwk.apple.com
@@ -17661,10 +17664,14 @@ gbslo5-corpclient-vpn2.euro.apple.com
 gbslo5-dcvpnclient-vpn.euro.apple.com
 gbslo5-dcvpnclient-vpn1.euro.apple.com
 gc.apple.com
+gc-conversion.corp.apple.com
 gc-qa.splunk.iso.apple.com
 gc-sandbox.splunk.iso.apple.com
 gc.qa.splunk.iso.apple.com
 gc.splunk.iso.apple.com
+gcconversion-pbz-prod.apple.com
+gcconversion-pbz-prod.spbz.apple.com
+gcconversion-prod.corp.apple.com
 gcmybusiness.apple.com
 gcmystore.apple.com
 gcrm.apple.com
@@ -20029,6 +20036,7 @@ gsp57-ssl-e1632.ls.apple.com
 gsp57-ssl-e1633.ls.apple.com
 gsp57-ssl-e1654.ls.apple.com
 gsp57-ssl-e1656.ls.apple.com
+gsp57-ssl-e1823.ls.apple.com
 gsp57-ssl-e506.ls.apple.com
 gsp57-ssl-e507.ls.apple.com
 gsp57-ssl-e529-dlb.ls.apple.com
@@ -22619,6 +22627,7 @@ initnk11-b.gc.apple.com
 initst11-a-old.gc.apple.com
 initst11-b-old.gc.apple.com
 ink.apple.com
+ink.care.apple.com
 inktest.apple.com
 inmaa1-3pclient-vpn11.euro.apple.com
 inmaa1-bbisp-gw1.corp.apple.com
@@ -22683,6 +22692,7 @@ internaljobs-prz.apple.com
 internaljobs-usw2.apple.com
 internetloop.apple.com
 internetservices.apple.com
+interrobang.g.apple.com
 interweb.euro.apple.com
 intsmlfde.apple.com
 investor.apple.com
@@ -23823,7 +23833,11 @@ kfallsymca.orgwww.apple.com
 kicker.apple.com
 kickstart.apple.com
 kickstart-stage.apple.com
+kikids-auth-prod.corp.apple.com
 kikids-auth-uat.corp.apple.com
+kikids-auth-use1-prod.apple.com
+kikids-auth-use1-prod.spbz.apple.com
+kikids-auth-usw2.rno.spbz.apple.com
 kikids-prod.corp.apple.com
 kikids-uat-auth-use1.apple.com
 kikids-uat-auth-use1.spbz.apple.com
@@ -24078,6 +24092,7 @@ learnandearn2.apple.com
 learninginaction.apple.com
 learnm.apple.com
 leaseportal.apple.com
+leaseportal-uat.apple.com
 ledbelly.apple.com
 ledcore.apple.com
 leopardvpn.apple.com
@@ -24286,6 +24301,7 @@ linux-support-uata.apple.com
 linux-support-uatb.apple.com
 linux-supportuat.apple.com
 lion.ebc.apple.com
+lip-external-uat-stage.gpusw1.sbz.apple.com
 lip-external.gpusw1.sbz.apple.com
 list.seminars.apple.com
 lists.apple.com
@@ -24374,6 +24390,13 @@ locsubmit1.apple.com
 locsubmit2.apple.com
 locsubmit3.apple.com
 locsubmit4.apple.com
+logcentral-services-mdn.corp.apple.com
+logcentral-services-sh.mdn.apple.com
+logcentral-services-sh.mdn.spbz.apple.com
+logcentral-services-sh.prz.apple.com
+logcentral-services-sh.prz.spbz.apple.com
+logcentral-services.corp.apple.com
+logcentral-services.prz.apple.com
 logicpro.apple.com
 logicpro-edge.apple.com
 logicpro-events.apple.com
@@ -27110,6 +27133,7 @@ mwp19-use1.ls.apple.com
 mwp19-usw2.ls.apple.com
 mwp19.ls.apple.com
 mwp20.ls.apple.com
+mwp2s-kr.ls.apple.com
 mwp2s-ms11-rf3.ls.apple.com
 mwp2s-pv50.ls.apple.com
 mwp2s-sl61.ls.apple.com
@@ -32835,17 +32859,25 @@ remote-data-sources.apple.com
 remote-data-sources-origin.apple.com
 remoteadvisor.apple.com
 remoteadvisor-east1.apple.com
+remoteadvisor-east1.sbz.apple.com
 remoteadvisor-east2.apple.com
+remoteadvisor-east2.sbz.apple.com
 remoteadvisor-east3.apple.com
+remoteadvisor-east3.sbz.apple.com
 remoteadvisor-eu.apple.com
+remoteadvisor-eu.sbz.apple.com
 remoteadvisor-mdn.apple.com
 remoteadvisor-mdn.corp.apple.com
 remoteadvisor-old.apple.com
 remoteadvisor-prn.apple.com
 remoteadvisor-sin.apple.com
+remoteadvisor-sin.sbz.apple.com
 remoteadvisor-west1.apple.com
+remoteadvisor-west1.sbz.apple.com
 remoteadvisor-west2.apple.com
+remoteadvisor-west2.sbz.apple.com
 remoteadvisor-west3.apple.com
+remoteadvisor-west3.sbz.apple.com
 remoteadvisor1.apple.com
 remoteadvisor2.apple.com
 remoteadvisor2.euro.apple.com
@@ -34553,6 +34585,7 @@ sa.developer.apple.com
 sa01sa-p02.apple.com
 sa3-edge-bx-014.ts.apple.com
 sa3.asia.apple.com
+sabre.aiv.vpg.apple.com
 sacdhcp1-ib.corp.apple.com
 sacdhcp2-ib.corp.apple.com
 saci-asa-vpn.euro.apple.com
@@ -34635,6 +34668,7 @@ salesinventoryreporting-prod.apple.com
 salesinventoryreporting-stage.apple.com
 salesinventoryreporting-uat.apple.com
 saleskit.gpusc1.sbz.apple.com
+saleskit.pst.ist.apple.com
 salesradar.apple.com
 salesresources.apple.com
 salestraining.apple.com
@@ -41874,3 +41908,4 @@ zmc-usw-d-s2.ccvoice.apple.com
 zod.apple.com
 zod001.apple.com
 zomro134.apple.com
+zone.siri.apple.com

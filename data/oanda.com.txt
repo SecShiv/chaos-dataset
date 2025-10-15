@@ -12,6 +12,7 @@
 *.dev.oanda.com
 *.dev.gcp.oanda.com
 *.engi.oanda.com
+*.ftmo.oanda.com
 *.fxpractice.oanda.com
 *.fxserver01-ng.oanda.com
 *.fxserver02-ng.oanda.com
@@ -907,7 +908,9 @@ push-honor.k8s-dev-asne1.d.gcp.oanda.com
 push-honor.k8s-dev-euw3.d.gcp.oanda.com
 push-honor.k8s-dev-usc1.d.gcp.oanda.com
 push-honor.k8s-stg-asne1.s.gcp.oanda.com
+push-honor.k8s-stg-usc1.s.gcp.oanda.com
 push-honor.k8s-uat-asne1.u.gcp.oanda.com
+push-honor.k8s-uat-euw3.u.gcp.oanda.com
 push-honor.k8s-uat-usc1.u.gcp.oanda.com
 push.k8s-corp-usc1.c.gcp.oanda.com
 push.k8s-dev-asne1.d.gcp.oanda.com
@@ -947,7 +950,9 @@ pushgateway-honorable.k8s-dev-asne1.d.gcp.oanda.com
 pushgateway-honorable.k8s-dev-euw3.d.gcp.oanda.com
 pushgateway-honorable.k8s-dev-usc1.d.gcp.oanda.com
 pushgateway-honorable.k8s-stg-asne1.s.gcp.oanda.com
+pushgateway-honorable.k8s-stg-usc1.s.gcp.oanda.com
 pushgateway-honorable.k8s-uat-asne1.u.gcp.oanda.com
+pushgateway-honorable.k8s-uat-euw3.u.gcp.oanda.com
 pushgateway-honorable.k8s-uat-usc1.u.gcp.oanda.com
 pushgateway-internal.oanda-live-fx-dmz-cluster-1.gcp.oanda.com
 pushgateway-internal.oanda-live-web-cluster-1.gcp.oanda.com

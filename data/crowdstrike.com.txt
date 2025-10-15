@@ -1,6 +1,7 @@
 .crowdstrike.com
 *.crowdstrike.com
 *.crowdcard.crowdstrike.com
+*.dev.example.crowdstrike.com
 *.example.crowdstrike.com
 *.example2.crowdstrike.com
 *.falcon.crowdstrike.com
@@ -154,6 +155,7 @@ example.test3.crowdstrike.com
 example001.crowdstrike.com
 example03.crowdstrike.com
 example1.crowdstrike.com
+example121.dev.crowdstrike.com
 example2.crowdstrike.com
 example3.crowdstrike.com
 example4.crowdstrike.com
@@ -414,3 +416,5 @@ xdr-ingest.eu-1.crowdstrike.com
 xdr-ingest.us-1.crowdstrike.com
 xdr-ingest.us-2.crowdstrike.com
 yak.crowdstrike.com
+yakcontractors.crowdstrike.com
+yaktest.crowdstrike.com

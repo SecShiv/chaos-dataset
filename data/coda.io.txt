@@ -2,6 +2,7 @@
 *.adhoc.coda.io
 *.adhoc-tp.coda.io
 *.admin.adhoc.coda.io
+*.apple.coda.io
 *.auth.adhoc.coda.io
 *.calc.adhoc.coda.io
 *.cert-service.adhoc.coda.io
@@ -9,12 +10,18 @@
 *.dbtservice.adhoc.coda.io
 *.dev-infra.coda.io
 *.docservice.adhoc.coda.io
+*.embeddings-indexing.adhoc.coda.io
+*.embeddings-querying.adhoc.coda.io
 *.head.coda.io
 *.head-tp.coda.io
 *.infra.coda.io
 *.loggingservice.adhoc.coda.io
+*.pack-intent.adhoc.coda.io
 *.packs-auth.adhoc.coda.io
 *.prod-tp.coda.io
+*.query-corrector.adhoc.coda.io
+*.reranker-ft.adhoc.coda.io
+*.reranker.adhoc.coda.io
 *.staging.coda.io
 *.staging-tp.coda.io
 *.standalonefetcher.adhoc.coda.io
@@ -35,6 +42,7 @@ airflow-prod.coda.io
 airflow-prod.data.coda.io
 airflow-prod.ops.coda.io
 airflow-staging.data.coda.io
+apple.coda.io
 auth.coda.io
 auth.adhoc.coda.io
 auth.head.coda.io
@@ -65,6 +73,8 @@ docservice.staging.coda.io
 egress.coda.io
 email.coda.io
 email.gh-mail.coda.io
+embeddings-indexing.adhoc.coda.io
+embeddings-querying.adhoc.coda.io
 fetcher.coda.io
 fetcher.adhoc.coda.io
 fetcher.head.coda.io
@@ -118,6 +128,7 @@ origin.dev.coda.io
 origin.head.coda.io
 origin.staging.coda.io
 pack-binding.adhoc.coda.io
+pack-intent.adhoc.coda.io
 packs-auth.coda.io
 packs-auth.adhoc.coda.io
 packs-auth.dev.coda.io
@@ -147,11 +158,14 @@ parent.admin.adhoc.coda.io
 parent.packs-auth.adhoc.coda.io
 print.adhoc.coda.io
 prod-tp.coda.io
+query-corrector.adhoc.coda.io
 redirect.adhoc.coda.io
 redirect.auth.adhoc.coda.io
 redirect.calc.adhoc.coda.io
 redirect.docservice.adhoc.coda.io
 ref.adhoc.coda.io
+reranker-ft.adhoc.coda.io
+reranker.adhoc.coda.io
 sdm-gateway.coda.io
 sdm-gateway-us-east-1.head.coda.io
 sdm-gateway.adhoc.coda.io
@@ -185,3 +199,6 @@ wcdn.admin.adhoc.coda.io
 wcdn.calc.adhoc.coda.io
 wcdn.docservice.adhoc.coda.io
 wcdn.fetcher.adhoc.coda.io
+wisb2x5cno.coda.io
+www.coda.io
+www.blog.coda.io

@@ -510,6 +510,7 @@
 *.backend.tas02.sls-int.dcat.dsp.mp.microsoft.com
 *.backend.tas02.ums-dev.dcat.dsp.mp.microsoft.com
 *.backend.tas02.ums-int.dcat.dsp.mp.microsoft.com
+*.backend.test.dana.platform.microsoft.com
 *.backend.tip.or.delivery.mp.microsoft.com
 *.backend.ums-dev.dcat.dsp.mp.microsoft.com
 *.backend.ums-dev.update.microsoft.com
@@ -1386,6 +1387,7 @@
 *.emailin.npe.communication.microsoft.com
 *.emailin.ppe.communication.microsoft.com
 *.emailin.prod.communication.microsoft.com
+*.emailinbg.dev.communication.microsoft.com
 *.emailinbg.int.communication.microsoft.com
 *.emailinbg.npe.communication.microsoft.com
 *.emailinbg.ppe.communication.microsoft.com
@@ -1738,9 +1740,12 @@
 *.ids.api.iris.microsoft.com
 *.ignite.microsoft.com
 *.igserr.2060045345.myworkspace.microsoft.com
+*.ihub.microsoft.com
 *.ilc.daas.microsoft.com
 *.images-eds-origin.cpe.microsoft.com
 *.images-eds-origin.ppe.cpe.microsoft.com
+*.imap-tdf.fraud.microsoft.com
+*.imap.fraud.microsoft.com
 *.in.endpoint.security.microsoft.com
 *.ina.endpoint.security.microsoft.com
 *.incentivecompensation.microsoft.com
@@ -2198,6 +2203,7 @@
 *.noam.prd.audience.teams.microsoft.com
 *.noam.presence.teams.microsoft.com
 *.noam.tdf.dev.api.interfaces.records.teams.microsoft.com
+*.noam.test.ivr.cos.mediapaas.infra.teams.microsoft.com
 *.noamdf.presence.teams.microsoft.com
 *.nonprod.api.fp.wd.microsoft.com
 *.nonprod.builtinprotection.microsoft.com
@@ -4946,6 +4952,7 @@
 *.tb.events.data.microsoft.com
 *.tb.pipe.aria.microsoft.com
 *.tdf.dev.api.interfaces.records.teams.microsoft.com
+*.tdf.fass.fraud.microsoft.com
 *.teams.microsoft.com
 *.teams.westus.ppeint.cts.speech-test.microsoft.com
 *.teamsdata.microsoft.com
@@ -6579,6 +6586,7 @@
 *.z1a.dxt-sql.cosmos.fabric.microsoft.com
 *.z1a.dxt-table.fabric.microsoft.com
 *.z1a.dxtgraphql.fabric.microsoft.com
+*.z1a.dxtuserdatafunctions.fabric.microsoft.com
 *.z1a.graphql.fabric.microsoft.com
 *.z1a.graphql.fabric-df.microsoft.com
 *.z1a.msit-blob.fabric.microsoft.com
@@ -9936,6 +9944,7 @@
 *.z5f.dxt-sql.cosmos.fabric.microsoft.com
 *.z5f.dxt-table.fabric.microsoft.com
 *.z5f.dxtgraphql.fabric.microsoft.com
+*.z5f.dxtuserdatafunctions.fabric.microsoft.com
 *.z5f.graphql.fabric.microsoft.com
 *.z5f.graphql.fabric-df.microsoft.com
 *.z5f.msit-blob.fabric.microsoft.com
@@ -10904,6 +10913,7 @@
 *.z73.dxt-sql.cosmos.fabric.microsoft.com
 *.z73.dxt-table.fabric.microsoft.com
 *.z73.dxtgraphql.fabric.microsoft.com
+*.z73.dxtuserdatafunctions.fabric.microsoft.com
 *.z73.graphql.fabric.microsoft.com
 *.z73.graphql.fabric-df.microsoft.com
 *.z73.msit-blob.fabric.microsoft.com
@@ -14009,6 +14019,7 @@
 *.zb3.dxt-sql.cosmos.fabric.microsoft.com
 *.zb3.dxt-table.fabric.microsoft.com
 *.zb3.dxtgraphql.fabric.microsoft.com
+*.zb3.dxtuserdatafunctions.fabric.microsoft.com
 *.zb3.graphql.fabric.microsoft.com
 *.zb3.graphql.fabric-df.microsoft.com
 *.zb3.msit-blob.fabric.microsoft.com
@@ -18571,6 +18582,7 @@
 005-mxce.noam.prod.cos.audience.teams.microsoft.com
 005-swce.emea.prd.ivr.cos.mediapaas.infra.teams.microsoft.com
 005-swce.emea.prod.cos.audience.teams.microsoft.com
+005-tx.cos.audience.gcc.teams.microsoft.com
 005-usce.noam.prd.ivr.cos.mediapaas.infra.teams.microsoft.com
 005-usea.noam.prod.cos.audience.teams.microsoft.com
 005-usea2.noam.prod.cos.audience.teams.microsoft.com
@@ -19520,6 +19532,7 @@
 1dscollector.aadauth.int.azure.microsoft.com
 1eec5887-103c-48d0-a492-c2a9945d4845.microsoft.com
 1es.lgtm.microsoft.com
+1esbot.microsoft.com
 1eslivesecrets.microsoft.com
 1essre-lgtm-onecerttesting.lgtm.microsoft.com
 1f084883-4442-4743-97b9-36f6f3fefd67.microsoft.com
@@ -25474,6 +25487,7 @@ adf2cb9e-e833-4ed1-9c09-46f90992cab8.microsoft.com
 adfs.asdev.selfhost.corp.microsoft.com
 adfs.bellevue.azurestack.corp.microsoft.com
 adfs.bj.mtccn.microsoft.com
+adfs.c3e.microsoft.com
 adfs.catcrm-stg.microsoft.com
 adfs.cccrca.azurestack.corp.microsoft.com
 adfs.everett.azurestack.corp.microsoft.com
@@ -29343,6 +29357,7 @@ agent.microsoft.com
 agent-assist-dev.microsoft.com
 agent-pkg-tst-bak.test.windows365.microsoft.com
 agent-pkg-tst.test.windows365.microsoft.com
+agent-readiness-assessment.microsoft.com
 agent.aisvc.manage-int.microsoft.com
 agent.channelservicestest.microsoft.com
 agent.rooms.microsoft.com
@@ -30310,6 +30325,7 @@ api-internal-co1c.cp.microsoft.com
 api-internal-dm2c.cp.microsoft.com
 api-internal.privatelink.cloud-dev.defender.microsoft.com
 api-jpn.securitycenter.microsoft.com
+api-local.riskregister-dev.microsoft.com
 api-member.ita-mlxint.microsoft.com
 api-member.ita-mlxite3.microsoft.com
 api-member.ita.int.mlx.microsoft.com
@@ -30341,6 +30357,7 @@ api-mva.microsoft.com
 api-mvaint.microsoft.com
 api-mvaite3.microsoft.com
 api-mvaperf.microsoft.com
+api-ncoeint.dtmnebula.microsoft.com
 api-ncoeppe.dtmnebula.microsoft.com
 api-noam-dev.mec.infra.teams.microsoft.com
 api-noam-int.mec.infra.teams.microsoft.com
@@ -63349,12 +63366,14 @@ auto-wduseastb1-pbi-kv-httpszone05.z05.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone06.z06.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone07.z07.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone08.z08.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone09.z09.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone0a.z0a.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone0b.z0b.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone0c.z0c.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone0d.z0d.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone0e.z0e.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone0f.z0f.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone10.z10.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone12.z12.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone13.z13.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone14.z14.w.dailyapi.fabric.microsoft.com
@@ -63386,6 +63405,7 @@ auto-wduseastb1-pbi-kv-httpszone2f.z2f.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone30.z30.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone31.z31.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone32.z32.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone33.z33.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone35.z35.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone36.z36.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone37.z37.w.dailyapi.fabric.microsoft.com
@@ -63396,6 +63416,7 @@ auto-wduseastb1-pbi-kv-httpszone3b.z3b.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone3c.z3c.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone3d.z3d.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone3e.z3e.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone3f.z3f.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone40.z40.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone41.z41.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone43.z43.w.dailyapi.fabric.microsoft.com
@@ -63422,6 +63443,7 @@ auto-wduseastb1-pbi-kv-httpszone58.z58.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone59.z59.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone5a.z5a.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone5b.z5b.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone5c.z5c.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone5d.z5d.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone5e.z5e.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone5f.z5f.w.dailyapi.fabric.microsoft.com
@@ -63441,6 +63463,7 @@ auto-wduseastb1-pbi-kv-httpszone6d.z6d.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone6e.z6e.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone6f.z6f.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone70.z70.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone71.z71.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone72.z72.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone73.z73.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone74.z74.w.dailyapi.fabric.microsoft.com
@@ -63457,6 +63480,8 @@ auto-wduseastb1-pbi-kv-httpszone7e.z7e.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone7f.z7f.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone80.z80.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone81.z81.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone82.z82.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone83.z83.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone84.z84.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone85.z85.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone86.z86.w.dailyapi.fabric.microsoft.com
@@ -63469,6 +63494,7 @@ auto-wduseastb1-pbi-kv-httpszone8e.z8e.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone8f.z8f.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone90.z90.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone91.z91.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone92.z92.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone93.z93.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone94.z94.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone95.z95.w.dailyapi.fabric.microsoft.com
@@ -63481,13 +63507,16 @@ auto-wduseastb1-pbi-kv-httpszone9b.z9b.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone9c.z9c.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone9d.z9d.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszone9e.z9e.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszone9f.z9f.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonea0.za0.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszonea2.za2.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonea3.za3.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonea4.za4.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonea5.za5.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonea6.za6.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonea7.za7.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonea8.za8.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszonea9.za9.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszoneaa.zaa.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszoneab.zab.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszoneac.zac.w.dailyapi.fabric.microsoft.com
@@ -63502,6 +63531,7 @@ auto-wduseastb1-pbi-kv-httpszoneb6.zb6.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszoneb7.zb7.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszoneb8.zb8.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszoneb9.zb9.w.dailyapi.fabric.microsoft.com
+auto-wduseastb1-pbi-kv-httpszoneba.zba.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonebb.zbb.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonebc.zbc.w.dailyapi.fabric.microsoft.com
 auto-wduseastb1-pbi-kv-httpszonebd.zbd.w.dailyapi.fabric.microsoft.com
@@ -71827,6 +71857,7 @@ azsecpack.mdiot.microsoft.com
 azsecpack.mfg.selfhost.corp.microsoft.com
 azsecpack.mkg.microsoft.com
 azsecpack.p.dfp.microsoft.com
+azsecpack.redmond.corp.microsoft.com
 azsecpack.rewardsplatform.microsoft.com
 azsecpack.serviceshub.microsoft.com
 azsecpack.webxt.geneva.keyvault.merchants.microsoft.com
@@ -71920,6 +71951,8 @@ azureatp-oncalldatareadconnector.microsoft.com
 azureauditing.surface.aspx.cloudservices.microsoft.com
 azureava.microsoft.com
 azureava-ai.microsoft.com
+azureava-ais.microsoft.com
+azureava-aoai.microsoft.com
 azureava-api.microsoft.com
 azureava-bot.microsoft.com
 azureava-partnerapi.microsoft.com
@@ -72693,6 +72726,7 @@ backend.status-prod.eu-db.dcat.dsp.mp.microsoft.com
 backend.status-tip.dcat.dsp.mp.microsoft.com
 backend.sws.update.microsoft.com
 backend.sws1.update.microsoft.com
+backend.test.dana.platform.microsoft.com
 backend.tip.or.delivery.mp.microsoft.com
 backend.wus2.ww.cluster.whiteboard.microsoft.com
 backfilltool.coreauth.microsoft.com
@@ -73290,6 +73324,7 @@ betdev.corp.microsoft.com
 betdevapp.microsoft.com
 betuat.microsoft.com
 bf.smartscreen.microsoft.com
+bfrilm374p5201.network.microsoft.com
 bftnowperf.partners.extranet.microsoft.com
 bftnowperf.parttest.extranettest.microsoft.com
 bg-bgdepot.sourcedepot.corp.microsoft.com
@@ -75367,6 +75402,7 @@ busatlastp5201.network.microsoft.com
 busbur5wap5201.network.microsoft.com
 busdet1cap5201.network.microsoft.com
 busedi360p5201.network.microsoft.com
+bushou750p5201.network.microsoft.com
 business.microsoft.com
 business-bvt.ship.microsoft.com
 business-prod.ship.microsoft.com
@@ -75942,6 +75978,7 @@ canary.01.settings.teams.microsoft.com
 canary.02.settings.teams.microsoft.com
 canary.api.lockbox.microsoft.com
 canary.api.quantum.microsoft.com
+canary.benefits.commerce.microsoft.com
 canary.cloudmarketplace.microsoft.com
 canary.designer.microsoft.com
 canary.dsr.privacy.purview-service.microsoft.com
@@ -76411,6 +76448,7 @@ ccavan725a7510.network.microsoft.com
 ccavan725a7511.network.microsoft.com
 ccavan725an1m1.network.microsoft.com
 ccavan858a7511.network.microsoft.com
+ccavan858an1m1.network.microsoft.com
 ccc.microsoft.com
 ccckvm1.redmond.corp.microsoft.com
 ccckvm2.redmond.corp.microsoft.com
@@ -78027,6 +78065,7 @@ client-garrett.ratingsfe-dev.rnr.microsoft.com
 client-geneva.dmd.metaservices.microsoft.com
 client-inventory-int.mp.microsoft.com
 client-inventory.mp.microsoft.com
+client-ncoeint.dtmnebula.microsoft.com
 client-ncoeppe.dtmnebula.microsoft.com
 client-projects.cp.microsoft.com
 client-test.dtmnebula.microsoft.com
@@ -83437,6 +83476,7 @@ dev-spla.microsoft.com
 dev-staging.api.slohub.microsoft.com
 dev-syn-csp-adls.smartscreen.microsoft.com
 dev-t.serviceshub.microsoft.com
+dev-test-one.supplychain.microsoft.com
 dev-test.api.projectdenali.microsoft.com
 dev-trainingsupport.microsoft.com
 dev-trapi-portal.research.microsoft.com
@@ -86563,6 +86603,7 @@ emailin.int.communication.microsoft.com
 emailin.npe.communication.microsoft.com
 emailin.ppe.communication.microsoft.com
 emailin.prod.communication.microsoft.com
+emailinbg.dev.communication.microsoft.com
 emailinbg.int.communication.microsoft.com
 emailinbg.npe.communication.microsoft.com
 emailinbg.ppe.communication.microsoft.com
@@ -86589,6 +86630,7 @@ emails.infra.gcc.teams.microsoft.com
 emails.teams.microsoft.com
 emails.teams-nonprod.microsoft.com
 emailservice.microsoft.com
+emailservice.benefits.microsoft.com
 emailstatusmonitorjob-bvt-cus.microsoft.com
 emailstatusmonitorjob-uat-cus.microsoft.com
 embark.microsoft.com
@@ -86663,6 +86705,7 @@ emea.neu.eers.services.teams.microsoft.com
 emea.neu.prod.eers.services.teams.microsoft.com
 emea.ocps.manage.microsoft.com
 emea.ocps.manage-selfhost.microsoft.com
+emea.policyprocessor.teams.microsoft.com
 emea.presence.teams.microsoft.com
 emea.reader.avs.infra.teams.microsoft.com
 emea.retailservices-ppe.teams.microsoft.com
@@ -87739,6 +87782,7 @@ euno-ui-ag.cps.microsoft.com
 euno.directory.teams.microsoft.com
 euno.dm.sdg.teams.microsoft.com
 euno.dmedge.sdg.teams.microsoft.com
+euno.policyprocessor.teams.microsoft.com
 euno.prod.templates.tac.teams.microsoft.com
 euno.sbcmainipp.sdg.teams.microsoft.com
 euno.sbcmainmgmt.sdg.teams.microsoft.com
@@ -89604,6 +89648,7 @@ feedbackautomationv2.microsoft.com
 feedbackautomationv2-sdf.microsoft.com
 feedbackautomationv2-test.microsoft.com
 feedbackcollectionservice.microsoft.com
+feedbackcopilotpython-sdf.microsoft.com
 feedbackhubppe.geneva.microsoft.com
 feedbackhubppe.kevlar.microsoft.com
 feedbackhubprod.geneva.microsoft.com
@@ -94967,6 +95012,7 @@ ingest-trd-ztcbqvtsrcgp095kp3.z4.dev.kusto.fabric.microsoft.com
 ingest-trd-zw5bbd1r3hv9hevjk5.z7.dev.kusto.fabric.microsoft.com
 ingest.token.cp.microsoft.com
 ingestion.microsoft.com
+ingestion-contoso-saas-afdendpoint.dps.mp.microsoft.com
 ingestion-contoso-saas.dps.mp.microsoft.com
 ingestion-ids.dce.mp.microsoft.com
 ingestion.geneva.keyvault.prss.monitoring.microsoft.com
@@ -98826,6 +98872,7 @@ lusred087an108.network.microsoft.com
 lusred087an109.network.microsoft.com
 lusred087an10a.network.microsoft.com
 lusred087an10c.network.microsoft.com
+lusred087an10e.network.microsoft.com
 lusred087an10f.network.microsoft.com
 lusred087an1a0.network.microsoft.com
 lusred087an1a2.network.microsoft.com
@@ -99073,12 +99120,16 @@ lusred116an169.network.microsoft.com
 lusred116an170.network.microsoft.com
 lusred116an171.network.microsoft.com
 lusred116an172.network.microsoft.com
+lusred116an173.network.microsoft.com
 lusred116an175.network.microsoft.com
 lusred116an176.network.microsoft.com
 lusred116an177.network.microsoft.com
 lusred116an180.network.microsoft.com
 lusred116an181.network.microsoft.com
 lusred116an185.network.microsoft.com
+lusred116an186.network.microsoft.com
+lusred116an188.network.microsoft.com
+lusred116an189.network.microsoft.com
 lusred116an191.network.microsoft.com
 lusred116an192.network.microsoft.com
 lusred116an193.network.microsoft.com
@@ -99133,6 +99184,7 @@ lusred116an1ar.network.microsoft.com
 lusred116an1as.network.microsoft.com
 lusred116an1at.network.microsoft.com
 lusred116an1aw.network.microsoft.com
+lusred116an1ax.network.microsoft.com
 lusred116an1az.network.microsoft.com
 lusred116an1b1.network.microsoft.com
 lusred116an1b2.network.microsoft.com
@@ -99213,6 +99265,7 @@ lusred118an189.network.microsoft.com
 lusred118an18a.network.microsoft.com
 lusred118an190.network.microsoft.com
 lusred118an191.network.microsoft.com
+lusred118an192.network.microsoft.com
 lusred118an193.network.microsoft.com
 lusred118an194.network.microsoft.com
 lusred118an195.network.microsoft.com
@@ -99332,6 +99385,7 @@ lusred119an19l.network.microsoft.com
 lusred119an19m.network.microsoft.com
 lusred119an203.network.microsoft.com
 lusred119an204.network.microsoft.com
+lusred119an206.network.microsoft.com
 lusred119an500.network.microsoft.com
 lusred119an501.network.microsoft.com
 lusred119an502.network.microsoft.com
@@ -99480,6 +99534,7 @@ lusredrr1an14a.network.microsoft.com
 lusredrr1an14b.network.microsoft.com
 lusredrr1an14c.network.microsoft.com
 lusredrr1an14d.network.microsoft.com
+lusredrr1an14e.network.microsoft.com
 lusredrr1an14f.network.microsoft.com
 lusredrr1an14i.network.microsoft.com
 lusredrr1an14j.network.microsoft.com
@@ -99534,6 +99589,7 @@ lusredrr1an172.network.microsoft.com
 lusredrr1an174.network.microsoft.com
 lusredrr1an175.network.microsoft.com
 lusredrr1an176.network.microsoft.com
+lusredrr1an178.network.microsoft.com
 lusredrr1an17b.network.microsoft.com
 lusredrr1an17d.network.microsoft.com
 lusredrr1an17g.network.microsoft.com
@@ -104806,6 +104862,7 @@ mdemunwalanrs1.network.microsoft.com
 mdemunwalanrs2.network.microsoft.com
 mdemunwalf5bla.network.microsoft.com
 mdemunwalf5blb.network.microsoft.com
+mdemunwalp541a.network.microsoft.com
 mdemunwalp541b.network.microsoft.com
 mdepextmgmt.microsoft.com
 mdfiletest.redmond.corp.microsoft.com
@@ -110083,6 +110140,7 @@ newemployeeppe1.microsoft.com
 newestnbtest.smltenant.microsoft.com
 newhire.microsoft.com
 newkvprovider.ustcms.microsoft.com
+newmodulecreation-dev.microsoft.com
 newnbtestgroup.smltenant.microsoft.com
 newnbtestgroup1.smltenant.microsoft.com
 newnbtestgroup2.smltenant.microsoft.com
@@ -113494,6 +113552,7 @@ pkgsqlrw.ntdev.corp.microsoft.com
 pkgsqlrw.segroup.winse.corp.microsoft.com
 pkgsvcdev01.ntdev.corp.microsoft.com
 pkgsvcdev01.segroup.winse.corp.microsoft.com
+pkigateway.dcg-beta.microsoft.com
 pkita-batchuploader.audit.prss.microsoft.com
 pkitaaocgtm.gtm.corp.microsoft.com
 pkitaaocweb.redmond.corp.microsoft.com
@@ -114861,6 +114920,7 @@ ppe-azureava-ais.microsoft.com
 ppe-azureava-aisr.microsoft.com
 ppe-azureava-aoai.microsoft.com
 ppe-azureava-api.microsoft.com
+ppe-azureava-bgfuncs.microsoft.com
 ppe-azureava-bot.microsoft.com
 ppe-azureavamgmt-api.microsoft.com
 ppe-bn2b.rewardsplatform.microsoft.com
@@ -115434,6 +115494,7 @@ prd-appg-us-eus2-cs.as.mda.microsoft.com
 prd-appg-us-eus2-cs.as.mda.securitycenter.microsoft.com
 prd-appg-us-eus2-gs.as.mda.securitycenter.microsoft.com
 prd-appg-us-wcus-cs.as.mda.microsoft.com
+prd-appg-us-wcus-gs.as.mda.microsoft.com
 prd-appg-us-wcus0a-cs.as.mda.securitycenter.microsoft.com
 prd-appg-us-wcus0a-gs.as.mda.securitycenter.microsoft.com
 prd-appg-us-wus-cs.as.mda.microsoft.com
@@ -115442,6 +115503,7 @@ prd-appg-us-wus-gs.as.mda.microsoft.com
 prd-appg-us-wus-gs.as.mda.securitycenter.microsoft.com
 prd-appg-us-wus2-cs.as.mda.microsoft.com
 prd-appg-us-wus2-cs.as.mda.securitycenter.microsoft.com
+prd-appg-us-wus2-gs.as.mda.microsoft.com
 prd-appg-us-wus2-gs.as.mda.securitycenter.microsoft.com
 prd-as-201.mdi.securitycenter.microsoft.com
 prd-as-seas-201.mdi.securitycenter.microsoft.com
@@ -116681,6 +116743,7 @@ profileppe.microsoft.com
 profileprod.geneva.keyvault.prod.suppliermgmt.microsoft.com
 profiles.view.api.account.microsoft.com
 profileservice-dev.unified.microsoft.com
+profileservice-uat.benefits.microsoft.com
 profileservice.ori-dev.unified.microsoft.com
 profileservice.ori-prod.unified.microsoft.com
 profileservice.unified.microsoft.com
@@ -118774,6 +118837,7 @@ queuemanagement.channelservicesint.microsoft.com
 queuemanagement.channelservicesppe.microsoft.com
 qui001-01-wlan-aaa.corp.microsoft.com
 qui001-02-wlan-aaa.corp.microsoft.com
+quicklift.microsoft.com
 quicklift-canary.microsoft.com
 quicklift-ppe.microsoft.com
 quiclab.corp.microsoft.com
@@ -120157,6 +120221,7 @@ register.envision-sao-paulo.microsoft.com
 register.envision-sydney.microsoft.com
 register.envision-tokyo.microsoft.com
 register.envisioncsuite.microsoft.com
+register.event.microsoft.com
 register.ignite.microsoft.com
 register.ignite-the-tour.microsoft.com
 register.igniteinfo.microsoft.com
@@ -126457,6 +126522,7 @@ sn5n-ip.ng.msg.gcc.teams.microsoft.com
 sn5n-ip.pg.msg.infra.gcc.teams.microsoft.com
 snackbox.microsoft.com
 snap-rdg1.redmond.corp.microsoft.com
+snap-rdg2.redmond.corp.microsoft.com
 snaplab.redmond.corp.microsoft.com
 snapmeet.microsoft.com
 snark1.research.microsoft.com
@@ -128004,10 +128070,13 @@ storeuat.microsoft.com
 storeusage-backend.cp.microsoft.com
 storeusage.cp.microsoft.com
 storybook.goals-df.microsoft.com
+stovaadminsandbox.microsoft.com
 stovadeployesc.microsoft.com
+stovalocalizationsandbox.microsoft.com
 stovamerketo.microsoft.com
 stovamsevents.microsoft.com
 stovapdc.microsoft.com
+stovatoolssandbox.microsoft.com
 stow.cam.uk.eu.microsoft.com
 stp.microsoft.com
 stppsxuat.partners.extranet.microsoft.com
@@ -130168,6 +130237,7 @@ test.cia.acumen.microsoft.com
 test.client.cp.microsoft.com
 test.client.wosc.services.microsoft.com
 test.cmdagent.infra.windows365.microsoft.com
+test.coiworkflow.microsoft.com
 test.community.fabric.microsoft.com
 test.community.sustainability.microsoft.com
 test.compliancedrive.microsoft.com
@@ -132968,6 +133038,7 @@ ui.int.membersite.microsoft.com
 ui.lsads.microsoft.com
 ui.lsads-int.microsoft.com
 ui.mcpcred.sit.mscert.microsoft.com
+ui.netcore.tip.ads.microsoft.com
 ui.ppe.esi.microsoft.com
 ui.ppe.projectorono.microsoft.com
 ui.prod.esi.microsoft.com
@@ -133689,6 +133760,7 @@ uswe.flex.ivr.appgw.mediapaas.infra.teams.microsoft.com
 uswe.invite-df.fl.teams.microsoft.com
 uswe.noam.cip.ivr.appgw.mediapaas.infra.teams.microsoft.com
 uswe.noam.flex.ivr.appgw.mediapaas.infra.teams.microsoft.com
+uswe.noam.test.ivr.appgw.mediapaas.infra.teams.microsoft.com
 uswe.prod.templates.tac.teams.microsoft.com
 uswe.sbcmainipp.sdg.teams.microsoft.com
 uswe.sbcmainmgmt.sdg.teams.microsoft.com
@@ -137597,6 +137669,7 @@ www.businessconnection.microsoft.com
 www.cashback.microsoft.com
 www.catalog.update.microsoft.com
 www.cdgcritsectool.corp.microsoft.com
+www.cloudaccelerator.microsoft.com
 www.cloudwalker.microsoft.com
 www.code.msdn.microsoft.com
 www.commerce.microsoft.com
@@ -137629,6 +137702,7 @@ www.cy1test65.microsoft.com
 www.cy1test66.microsoft.com
 www.datacenteracademy.microsoft.com
 www.deschutes-int.microsoft.com
+www.dev.learningdownloadcenter.microsoft.com
 www.devblogs.microsoft.com
 www.developer.microsoft.com
 www.digitalpeace.microsoft.com
@@ -138354,6 +138428,7 @@ zbcmp.pfgold.dev.ustcms.microsoft.com
 zbcmstestcert.ustcms.microsoft.com
 zbservicekv1synctest.ustcms.microsoft.com
 zbtest.ustcms.microsoft.com
+zebrai-alchemy-poc.preprod.powerplatform.microsoft.com
 zebuhost015adm.northamerica.corp.microsoft.com
 zeus.buddy.microsoft.com
 zgbcam001c7501.cam.uk.eu.microsoft.com

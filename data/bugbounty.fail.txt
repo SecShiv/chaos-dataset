@@ -20,6 +20,7 @@ api-findings.retool.bugbounty.fail
 api-findings.staging.bugbounty.fail
 api-findings.test.bugbounty.fail
 api-hacker-01.feature.bugbounty.fail
+api-hacker-01.retool.bugbounty.fail
 api-hacker-01.staging.bugbounty.fail
 api-hacker-01.test.bugbounty.fail
 api-hacker-02.staging.bugbounty.fail
@@ -34,6 +35,7 @@ api-organizations.feature.bugbounty.fail
 api-organizations.retool.bugbounty.fail
 api-organizations.staging.bugbounty.fail
 api-organizations.test.bugbounty.fail
+api-shields-01.retool.bugbounty.fail
 api-shields-01.staging.bugbounty.fail
 api-shields.feature.bugbounty.fail
 app-01.feature.bugbounty.fail
@@ -52,5 +54,3 @@ cms-dev.bugbounty.fail
 cms-staging.bugbounty.fail
 cms.feature.bugbounty.fail
 cms.staging.bugbounty.fail
-cms.test.bugbounty.fail
-www.bugbounty.fail

@@ -551,6 +551,7 @@ benmachine3.cf.mongodb.com
 benmachine4.cf.mongodb.com
 benmachine5.cf.mongodb.com
 beta.support.mongodb.com
+bifrost.deet.prod.corp.mongodb.com
 bite.devprod-infra.prod.corp.mongodb.com
 bite.devprod-infra.staging.corp.mongodb.com
 bite.prod.corp.mongodb.com
@@ -811,6 +812,7 @@ docs.website.staging.corp.mongodb.com
 doculoan-uat.sa-demo.staging.corp.mongodb.com
 doculoan.sa-demo.staging.corp.mongodb.com
 documate.data-governance.prod.corp.mongodb.com
+documate.data-governance.staging.corp.mongodb.com
 document-intelligence-ui.industrysolutions.staging.corp.mongodb.com
 dojo.mongodb.com
 download.mongodb.com
@@ -1218,6 +1220,9 @@ kanopy-hello-world.corps.staging.corp.mongodb.com
 kanopy-tutorial-flask.corps.staging.corp.mongodb.com
 kanopy.corp.mongodb.com
 kb.corp.mongodb.com
+kbapi.cake.staging.corp.mongodb.com
+kbdash.cake.staging.corp.mongodb.com
+kbhub.cake.staging.corp.mongodb.com
 kbin2.devops.test.corp.mongodb.com
 keystone.corp.mongodb.com
 kiali.corp.mongodb.com
@@ -1254,6 +1259,7 @@ learners-admin.education.staging.corp.mongodb.com
 leasecalcs.corp.mongodb.com
 legacy.support.mongodb.com
 lg-chatbot-server.ux-foundations.staging.corp.mongodb.com
+lg-hello-server.ux-foundations.staging.corp.mongodb.com
 link-ui.data-governance.prod.corp.mongodb.com
 link-ui.data-governance.staging.corp.mongodb.com
 link.corp.mongodb.com
@@ -1308,9 +1314,11 @@ mars-dev-feature-api-mesh-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-deep-link-fix-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-dp-ui-core-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-dplat-6797-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-dplat-7002-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-dplat-7558-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-fix-warning-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-kube-api-retries-dev.dataplatform-dev.staging.corp.mongodb.com
+mars-dev-feature-merge-master-dev.dataplatform-dev.staging.corp.mongodb.com
 mars-dev-feature-track-manual-jobs-dev.dataplatform-dev.staging.corp.mongodb.com
 mars.dataplatform.prod.corp.mongodb.com
 mars.dataplatform.staging.corp.mongodb.com
@@ -1323,6 +1331,7 @@ mdb-rag.corps.staging.corp.mongodb.com
 mdl.corp.mongodb.com
 mentor-them.corps.prod.corp.mongodb.com
 mentor-them.corps.staging.corp.mongodb.com
+mf-assistant-kb-web-app.mf-assistant-kb.staging.corp.mongodb.com
 michael-test.aix.staging.corp.mongodb.com
 mide.mongodb.com
 mide-staging.corp.mongodb.com
@@ -1940,6 +1949,7 @@ vminsert-az2.cloud.mongodb.com
 vminsert-az2.cloud-staging.mongodb.com
 vuln-hunt.infosec.staging.corp.mongodb.com
 walltv.corp.mongodb.com
+web-app-example.mf-assistant-kb.staging.corp.mongodb.com
 web-app-example.sa.staging.corp.mongodb.com
 web-app.sa-demo.staging.corp.mongodb.com
 webassets.mongodb.com

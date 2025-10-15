@@ -63,6 +63,7 @@
 *.advapi.comcast.com
 *.aegis-iris-prod.comcast.com
 *.aegisiris.comcast.com
+*.ai-apps.datasyn.comcast.com
 *.alpha.tube.comcast.com
 *.anita.comcast.com
 *.api-apac.de.comcast.com
@@ -136,7 +137,9 @@
 *.bsd-service-status-center.digital.business.comcast.com
 *.bsd-service-status-center.np.digital.business.comcast.com
 *.bsd-static-global-assets-dev.np.digital.business.comcast.com
+*.bsd-static-global-assets-int.np.digital.business.comcast.com
 *.bsd-static-global-assets-prod-va.digital.business.comcast.com
+*.bsd-static-global-assets-qa.np.digital.business.comcast.com
 *.bsd-ui-docs-dev.np.digital.business.comcast.com
 *.bsd-ui-docs-int.np.digital.business.comcast.com
 *.bsd-ui-docs-pqa.np.digital.business.comcast.com
@@ -649,6 +652,7 @@
 *.mer.comcast.com
 *.merlin.comcast.com
 *.merlin-eks-dev-b.r53dev.merlin.comcast.com
+*.merlin-eks-dev-c.r53dev.merlin.comcast.com
 *.mes.comcast.com
 *.mesa.comcast.com
 *.metricsapi.ebi.comcast.com
@@ -836,7 +840,9 @@
 *.or.bsd-service-status-center.digital.business.comcast.com
 *.or.bsd-service-status-center.np.digital.business.comcast.com
 *.or.bsd-static-global-assets-dev.np.digital.business.comcast.com
+*.or.bsd-static-global-assets-int.np.digital.business.comcast.com
 *.or.bsd-static-global-assets-prod-va.digital.business.comcast.com
+*.or.bsd-static-global-assets-qa.np.digital.business.comcast.com
 *.or.bsd-ui-docs-dev.np.digital.business.comcast.com
 *.or.bsd-ui-docs-int.np.digital.business.comcast.com
 *.or.bsd-ui-docs-pqa.np.digital.business.comcast.com
@@ -2782,7 +2788,9 @@
 *.va.bsd-service-status-center.digital.business.comcast.com
 *.va.bsd-service-status-center.np.digital.business.comcast.com
 *.va.bsd-static-global-assets-dev.np.digital.business.comcast.com
+*.va.bsd-static-global-assets-int.np.digital.business.comcast.com
 *.va.bsd-static-global-assets-prod-va.digital.business.comcast.com
+*.va.bsd-static-global-assets-qa.np.digital.business.comcast.com
 *.va.bsd-ui-docs-dev.np.digital.business.comcast.com
 *.va.bsd-ui-docs-int.np.digital.business.comcast.com
 *.va.bsd-ui-docs-pqa.np.digital.business.comcast.com
@@ -7512,6 +7520,7 @@ app02.comcast.com
 app03.comcast.com
 app04.comcast.com
 app05.comcast.com
+app1.layer7-zero-trust-demo.janus.comcast.com
 app1.sentry.comcast.com
 app1.tube.comcast.com
 app2.tube.comcast.com
@@ -9126,7 +9135,9 @@ bsd-services-prv-prd-ho-01p.slb.comcast.com
 bsd-services-stg-ch2-01p.slb.comcast.com
 bsd-ss-nav.dev.api-business.comcast.com
 bsd-static-global-assets-dev.np.digital.business.comcast.com
+bsd-static-global-assets-int.np.digital.business.comcast.com
 bsd-static-global-assets-prod-va.digital.business.comcast.com
+bsd-static-global-assets-qa.np.digital.business.comcast.com
 bsd-subscribed-services-ui-dev.np.digital.business.comcast.com
 bsd-subscribed-services-ui-int.np.digital.business.comcast.com
 bsd-subscribed-services-ui-pqa.np.digital.business.comcast.com
@@ -18449,6 +18460,7 @@ ctsateme-cmc-19p.cable.comcast.com
 ctsateme-cmc-20p.cable.comcast.com
 ctsateme-cmc-21p.cable.comcast.com
 ctsateme-cmc-23p.cable.comcast.com
+ctsateme-cmc-24p.cable.comcast.com
 ctsateme-cmc-5p.cable.comcast.com
 ctsateme-cmc-6p.cable.comcast.com
 ctsateme-cmc-7p.cable.comcast.com
@@ -21062,8 +21074,11 @@ dxlineage.dev.comcast.com
 dxlineage.uat.comcast.com
 dxlucidintdb.gslb4.comcast.com
 dxopsdashboard.comcast.com
+dxp-cloud-ivr-apigee-dev.comcast.com
 dxp-cloud-ivr-apigee-preprod.comcast.com
 dxp-cloud-ivr-apigee-qa.comcast.com
+dxp-cloud-ivr-dfcx-dev.comcast.com
+dxp-cloud-ivr-dfcx-qa.comcast.com
 dxp-dev.adv.comcast.com
 dxp-qa.adv.comcast.com
 dxplatform.comcast.com
@@ -34205,6 +34220,7 @@ internal-sis-soap-api-prod-1244852993.cable.comcast.com
 internal-sis-soap-api-prod-508340513.cable.comcast.com
 internal-sis-soap-api-stag-1795095328.cable.comcast.com
 internal-sis-soap-api-stag-1909279948.cable.comcast.com
+internal-statereports.comcast.com
 internal.activecore.dev.np.digital.business.comcast.com
 internal.activecore.digital.business.comcast.com
 internal.activecore.int.np.digital.business.comcast.com
@@ -39789,6 +39805,7 @@ mln-fo-ap-southeast-2-prod-identity.merlin.comcast.com
 mln-fo-ap-southeast-2-prod-identity.r53-ap.merlin.comcast.com
 mln-fo-ap-southeast-2-prod-mpx.merlin.comcast.com
 mln-fo-ap-southeast-2-prod-mpx.r53-ap.merlin.comcast.com
+mln-fo-ap-southeast-2-prod-mpxfacade.r53-ap.merlin.comcast.com
 mln-fo-dev-ap-southeast-2-access.r53-ap-dev.merlin.comcast.com
 mln-fo-dev-ap-southeast-2-identity.r53-ap-dev.merlin.comcast.com
 mln-fo-dev-ap-southeast-2-mpx.r53-ap-dev.merlin.comcast.com
@@ -41344,6 +41361,7 @@ ngpxcmp2-ch2-1p-con.cable.comcast.com
 ngpxcmp2-ch2-1p.cable.comcast.com
 ngpxcmp3-ch2-1p.cable.comcast.com
 ngpxcomp1-as-3p-con.cable.comcast.com
+ngpxcomp2-as-1d.cable.comcast.com
 ngpxcomp2-as-1p.cable.comcast.com
 ngpxcomp2-ho-1d.cable.comcast.com
 ngpxcomp3-as-1d.cable.comcast.com
@@ -60157,6 +60175,7 @@ testmn-po-1s.cable.comcast.com
 testmsa.cable.comcast.com
 testmulti4.comcast.com
 testnaturaldisaster.cable.comcast.com
+testngtinterface.comcast.com
 testodin-central.cable.comcast.com
 testoffereligibilityservice.cable.comcast.com
 testomsflow.cable.comcast.com
@@ -60197,6 +60216,7 @@ testsynamedia.comcast.com
 testtechopsrewire.cable.comcast.com
 testtemp.comcast.com
 testtemp1.comcast.com
+testtemp3.comcast.com
 testtemp30.comcast.com
 testtier2suite.cable.comcast.com
 testtscivrdashboard-as-1t.slb.comcast.com
@@ -60883,6 +60903,7 @@ trimdb-nb-2p.cable.comcast.com
 trimdb-spl-grd.cable.comcast.com
 troe.cable.comcast.com
 trredshift-wc-p.cable.comcast.com
+truefoundry-cpl.datasyn.comcast.com
 trust.cable.comcast.com
 ts-batch-data.comcast.com
 ts3.comcast.com
@@ -62487,6 +62508,9 @@ va-herndon-worldgat-mdf-vlan6-hsrp.cable.comcast.com
 va-herndon-worldgat-r1.cable.comcast.com
 va-herndon-worldgat-r2.cable.comcast.com
 va-herndon-worldgat-vlan40-hsrp.cable.comcast.com
+va-openbao-staging-1-v4.staging.vault.comcast.com
+va-openbao-staging-3-v4.staging.vault.comcast.com
+va-openbao.staging.vault.comcast.com
 va-staging-vault-1-v8.staging.vault.comcast.com
 va-staging-vault-1-v9.staging.vault.comcast.com
 va-staging-vault-2-v9.staging.vault.comcast.com
@@ -64877,6 +64901,7 @@ voddb-po-3p-vip.cable.comcast.com
 voddb-po-4p-vip.cable.comcast.com
 voddb-po-p1cl.cable.comcast.com
 vodelem-d-ha.cable.comcast.com
+vodelem-e-ha.cable.comcast.com
 vodftp-po-1p.cable.comcast.com
 vodftp-po-2p.cable.comcast.com
 vodiis-po-a1p.cable.comcast.com
@@ -70025,6 +70050,8 @@ xio-gavin-0315.cable.comcast.com
 xio-gavin-1298.cable.comcast.com
 xio-ilnlk-0837.cable.comcast.com
 xio-vaash-1395.cable.comcast.com
+xisconginx-1p.gslb4.comcast.com
+xisconginx-1s.gslb4.comcast.com
 xm.comcast.com
 xm-cloud.optek.comcast.com
 xm-dev.optek.comcast.com
@@ -70315,6 +70342,7 @@ xsa-geolocation.as-b.comcast.com
 xsa-tileadapter.as-b.comcast.com
 xsi-triage-p.gslb4.comcast.com
 xsibve-wip-443p.gslb4.comcast.com
+xsm-vault.staging.sm.comcast.com
 xsp-callp-secu-xsi-b-01q.gslb4.comcast.com
 xsp-cdmr-as-1p.comcast.com
 xsp-cdmr-ch2-1p.comcast.com

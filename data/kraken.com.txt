@@ -127,6 +127,7 @@ custody-iapi.internal.uat.lobster.kraken.com
 custody-iapi.vip.uat.lobster.kraken.com
 custody.dc3a.prod.kraken.com
 custody.internal.uat.lobster.kraken.com
+custody.pp-1.prod.kraken.com
 custody.prod.kraken.com
 custody.uat.kraken.com
 custody.vip.uat.lobster.kraken.com
@@ -219,6 +220,7 @@ iapi.vip.uat.lobster.kraken.com
 id.kraken.com
 id.dc3a.prod.kraken.com
 id.internal.uat.lobster.kraken.com
+id.lobster.kraken.com
 id.pp-consumer-2.prod.kraken.com
 id.pp-consumer-3.prod.kraken.com
 id.vip.uat.lobster.kraken.com
@@ -571,6 +573,7 @@ support.internal.uat.lobster.kraken.com
 support.prod.kraken.com
 support.vip.uat.lobster.kraken.com
 surveys.kraken.com
+tmp-api.lobster.kraken.com
 tr-v10.kraken.com
 tr-v15.kraken.com
 tr15-preprod.kraken.com
@@ -647,11 +650,13 @@ ws-frontend.internal.uat.lobster.kraken.com
 ws-frontend.lobster.kraken.com
 ws-frontend.pro.demo.kraken.com
 ws-frontend.prod.kraken.com
+ws-frontend.uat.kraken.com
 ws-frontend.vip.uat.lobster.kraken.com
 ws-portfolio.kraken.com
 ws-portfolio.dc3a.prod.kraken.com
 ws-portfolio.internal.uat.lobster.kraken.com
 ws-portfolio.prod.kraken.com
+ws-portfolio.uat.kraken.com
 ws-portfolio.vip.uat.lobster.kraken.com
 ws-prime-md.kraken.com
 ws-prime-md-1.kraken.com
@@ -682,6 +687,7 @@ www.3vyknc3vzs-storage-75.kraken.com
 www.analytics.dev1.kraken.com
 www.analytics.prod1.kraken.com
 www.api.futures.kraken.com
+www.dc3a.uat.kraken.com
 www.dev.kraken.com
 www.eu.kraken.com
 www.fix-api.kraken.com

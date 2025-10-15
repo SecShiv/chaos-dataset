@@ -554,6 +554,7 @@ audit-log-proxy.integration-prod.tomtomgroup.com
 auth-config-change.gateway.tti-cancun.tomtomgroup.com
 auth-prev.dev.tti-cancun.tomtomgroup.com
 auth.adtooling.tomtomgroup.com
+autocomplete-ai-agent.dev.tti-cancun.tomtomgroup.com
 automation.tomtomgroup.com
 aws-ap-south-1.cmr.tomtomgroup.com
 aws-macos-prometheus.integration-prod.tomtomgroup.com
@@ -1759,16 +1760,19 @@ cancun-4982-add-dark-theme-col.dev.tti-cancun.tomtomgroup.com
 cancun-4984-change-all-colors.dev.tti-cancun.tomtomgroup.com
 cancun-4988-chat-for-taia.dev.tti-cancun.tomtomgroup.com
 cancun-4990-ai-chat-style.dev.tti-cancun.tomtomgroup.com
+cancun-4990-live-junction-tool.dev.tti-cancun.tomtomgroup.com
 cancun-4990-map-widgets.dev.tti-cancun.tomtomgroup.com
 cancun-4990-taia-ja.dev.tti-cancun.tomtomgroup.com
 cancun-4991-feedback.dev.tti-cancun.tomtomgroup.com
 cancun-4994-more-features.dev.tti-cancun.tomtomgroup.com
 cancun-4994-rm-output.dev.tti-cancun.tomtomgroup.com
+cancun-4994-table.dev.tti-cancun.tomtomgroup.com
 cancun-4996-voice-endp.gateway.tti-cancun.tomtomgroup.com
 cancun-4998-markdown.dev.tti-cancun.tomtomgroup.com
 cancun-4999-add-ag-ui.gateway.tti-cancun.tomtomgroup.com
 cancun-4999-add-taia-gateway-a.dev.tti-cancun.tomtomgroup.com
 cancun-4999-cookie.dev.tti-cancun.tomtomgroup.com
+cancun-5000-live-junction-deta.dev.tti-cancun.tomtomgroup.com
 cancun-999-dependabot-package.dev.tti-cancun.tomtomgroup.com
 cancun-9999-add-more-underdeve.dev.tti-cancun.tomtomgroup.com
 cancun-9999-dseg-bhm-link-to-l.dev.tti-cancun.tomtomgroup.com
@@ -2653,6 +2657,7 @@ doc-mgmt.cmr.tomtomgroup.com
 docker.tomtomgroup.com
 docker-env-var-not-available.dev.tti-cancun.tomtomgroup.com
 docs.adtooling.tomtomgroup.com
+docs.ods.tomtomgroup.com
 docs.orbis-binding.tomtomgroup.com
 docs.otel-service.tomtomgroup.com
 docs.sp-integration.tomtomgroup.com
@@ -2789,6 +2794,7 @@ edinburgh.tomtomgroup.com
 edp.tomtomgroup.com
 eit-devices.tomtomgroup.com
 elasticsearch-mhub.cppsp.zt.cba.azure-weu.cmr.tomtomgroup.com
+elasticsearch.integration-prod.tomtomgroup.com
 elearning.tomtomgroup.com
 elearning-dev.tomtomgroup.com
 elearning-external.tomtomgroup.com
@@ -3003,6 +3009,12 @@ fn2eae-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn2eae-westeurope-prom.ngs-dev.tomtomgroup.com
 fn30dd-westeurope-alert.ngs-dev.tomtomgroup.com
 fn30dd-westeurope-grafana.ngs-dev.tomtomgroup.com
+fn3395-koreacentral-alert.ngs-dev.tomtomgroup.com
+fn3395-koreacentral-grafana.ngs-dev.tomtomgroup.com
+fn3395-koreacentral-prom.ngs-dev.tomtomgroup.com
+fn3395-westeurope-alert.ngs-dev.tomtomgroup.com
+fn3395-westeurope-grafana.ngs-dev.tomtomgroup.com
+fn3395-westeurope-prom.ngs-dev.tomtomgroup.com
 fn4092-koreacentral-alert.ngs-dev.tomtomgroup.com
 fn4092-koreacentral-grafana.ngs-dev.tomtomgroup.com
 fn4092-koreacentral-prom.ngs-dev.tomtomgroup.com
@@ -3061,6 +3073,7 @@ fn84ab-westeurope.ngs-dev.tomtomgroup.com
 fn8956-westeurope-alert.ngs-dev.tomtomgroup.com
 fn8956-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn8956-westeurope-prom.ngs-dev.tomtomgroup.com
+fn90e9-koreacentral-alert.ngs-dev.tomtomgroup.com
 fn90e9-koreacentral-prom.ngs-dev.tomtomgroup.com
 fn90e9-koreacentral.ngs-dev.tomtomgroup.com
 fn90e9-westeurope-alert.ngs-dev.tomtomgroup.com
@@ -3088,6 +3101,7 @@ fn94b4-koreacentral.ngs-dev.tomtomgroup.com
 fn94b4-westeurope-alert.ngs-dev.tomtomgroup.com
 fn94b4-westeurope-grafana.ngs-dev.tomtomgroup.com
 fn94b4-westeurope-prom.ngs-dev.tomtomgroup.com
+fn975c-westeurope-alert.ngs-dev.tomtomgroup.com
 fn97a6-westeurope-alert.ngs-dev.tomtomgroup.com
 fn97a6-westeurope-prom.ngs-dev.tomtomgroup.com
 fn9808-koreacentral-alert.ngs-dev.tomtomgroup.com
@@ -3214,6 +3228,11 @@ fnfc1d-koreacentral-prom.ngs-dev.tomtomgroup.com
 fnfc1d-koreacentral.ngs-dev.tomtomgroup.com
 fnfc1d-westeurope-alert.ngs-dev.tomtomgroup.com
 fnfc1d-westeurope.ngs-dev.tomtomgroup.com
+fnfd93-koreacentral-alert.ngs-dev.tomtomgroup.com
+fnfd93-koreacentral-prom.ngs-dev.tomtomgroup.com
+fnfd93-koreacentral.ngs-dev.tomtomgroup.com
+fnfd93-westeurope-alert.ngs-dev.tomtomgroup.com
+fnfd93-westeurope-prom.ngs-dev.tomtomgroup.com
 fnfe58-westeurope-alert.ngs-dev.tomtomgroup.com
 fnfe58-westeurope-prom.ngs-dev.tomtomgroup.com
 fnr-issue-tracker-prox.gateway.tti-cancun.tomtomgroup.com
@@ -5940,6 +5959,7 @@ rollouts.poi-7980.bifrost-dev.tomtomgroup.com
 rollouts.prod.opc.tomtomgroup.com
 rollouts.sre.tomtomgroup.com
 rollouts.sre-dev.tomtomgroup.com
+rook-dashboard.zeus.gha-prod.tomtomgroup.com
 rooms4u.tomtomgroup.com
 route-bhm-errors.dev.tti-cancun.tomtomgroup.com
 route-context-menu-core.dev.tti-cancun.tomtomgroup.com
@@ -7032,3 +7052,5 @@ yktst4-westeurope-alert.ngs-dev.tomtomgroup.com
 yktst4-westeurope-grafana.ngs-dev.tomtomgroup.com
 yktst4-westeurope-prom.ngs-dev.tomtomgroup.com
 yktst4-westeurope.ngs-dev.tomtomgroup.com
+yum.tomtomgroup.com
+zipsip.tomtomgroup.com

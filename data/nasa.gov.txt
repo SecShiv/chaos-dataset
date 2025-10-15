@@ -3021,6 +3021,7 @@ aercam.jsc.nasa.gov
 aercam1.jsc.nasa.gov
 aercam2.jsc.nasa.gov
 aerial.ndc.nasa.gov
+aerie-actions.aerie.dev-shared.ssmo.appdat.jsc.nasa.gov
 aerie-commanding-perf.eurc-dev.eurc-dev.jpl.nasa.gov
 aerie-commanding-perf.eurc-dev.jpl.nasa.gov
 aerie-commanding.eurc-dev.jpl.nasa.gov
@@ -3075,6 +3076,7 @@ aerie-scheduler.ops.eurc.jpl.nasa.gov
 aerie-scheduler.ops.internal.eurc.jpl.nasa.gov
 aerie-scheduler.test.eurc.jpl.nasa.gov
 aerie-sequencing-perf.eurc-dev.jpl.nasa.gov
+aerie-sequencing.aerie.dev-shared.ssmo.appdat.jsc.nasa.gov
 aerie-sequencing.eurc-dev.jpl.nasa.gov
 aerie-sequencing.gdsit.eurc.jpl.nasa.gov
 aerie-sequencing.ops.eurc.jpl.nasa.gov
@@ -3403,6 +3405,8 @@ airflow.dev-staging.oce.appdat.jsc.nasa.gov
 airflow.dev.oce.appdat.jsc.nasa.gov
 airflow.ni30dc78-dev.edp.nasa.gov
 airflow.ni30dc78.edp.nasa.gov
+airflow.prod-clu-pr1.oce.appdat.jsc.nasa.gov
+airflow.prod.oce.appdat.jsc.nasa.gov
 airflow.sqrx8s0w-devinfra.dev.edp.nasa.gov
 airflow.sqrx8s0w-test.test.edp.nasa.gov
 airflow.test.oce.appdat.jsc.nasa.gov
@@ -21742,6 +21746,7 @@ em.msfc.nasa.gov
 em.staging.nasa.gov
 em.staging.msfc.nasa.gov
 emac-dev.gpc.gsfc.nasa.gov
+emac-dev.gsfc.nasa.gov
 emac-old.gsfc.nasa.gov
 emac.gsfc.nasa.gov
 emac.sci.gsfc.nasa.gov
@@ -56874,6 +56879,8 @@ monitoring.luna.nasa.gov
 monitoring.mmod.appdat.jsc.nasa.gov
 monitoring.nas.nasa.gov
 monitoring.operations.luna.nasa.gov
+monitoring.platform-aw-us.ehp.luna.nasa.gov
+monitoring.prod-aw-us.ehp.luna.nasa.gov
 monitoring.prod-global.fast.luna.nasa.gov
 monitoring.prod-platform.fast.luna.nasa.gov
 monitoring.prod-shared.edp.appdat.jsc.nasa.gov
@@ -83337,6 +83344,7 @@ subby.mdscc.nasa.gov
 submarine.ndc.nasa.gov
 submission.prosams.nasa.gov
 submissions.gsfc.nasa.gov
+submissionsapp-govprod.prosams.nasa.gov
 submissionsapp.prosams-govprod.prosams.nasa.gov
 suborbital.nasa.gov
 suborbital-dev.arc.nasa.gov

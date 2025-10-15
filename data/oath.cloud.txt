@@ -2958,6 +2958,7 @@
 *.cd93f312.g.vespa.oath.cloud
 *.cd93f312.z.vespa.oath.cloud
 *.cd94063c.z.vespa.oath.cloud
+*.cds-aws-prod.aws.oath.cloud
 *.ce1f4463.a.vespa.oath.cloud
 *.ce1f4463.g.vespa.oath.cloud
 *.ce1f4463.z.vespa.oath.cloud
@@ -3174,6 +3175,7 @@
 *.csp.gemini-native.aws-us-east-1b-r.vespa.oath.cloud
 *.csp.gemini-native.aws-us-west-2a-r.vespa.oath.cloud
 *.ctchou.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
+*.cting02.lumos.tw-media-wizardry.aws-use1-az1.dev.vespa.oath.cloud
 *.cting02.lumos.tw-media-wizardry.us-east-1.dev.vespa.oath.cloud
 *.cts-aero-dev.tgt-platform-cts-dev.bf2.ows.oath.cloud
 *.cts-aero-dev.tgt-platform-cts-dev.gq2.ows.oath.cloud
@@ -4682,6 +4684,7 @@
 *.f8df741c.a.cd.vespa.oath.cloud
 *.f8df741c.g.cd.vespa.oath.cloud
 *.f8df741c.z.cd.vespa.oath.cloud
+*.f8e37725.z.vespa.oath.cloud
 *.f905f8ee.a.vespa.oath.cloud
 *.f905f8ee.g.vespa.oath.cloud
 *.f905f8ee.z.vespa.oath.cloud
@@ -4894,6 +4897,8 @@
 *.fff45667.g.vespa.oath.cloud
 *.fff45667.z.vespa.oath.cloud
 *.finance-aws-devs.aws.oath.cloud
+*.finance-content-nonprod.aws.oath.cloud
+*.finance-content.aws.oath.cloud
 *.finance.ranking-index.mlplatform.aws-ap-southeast-1a.vespa.oath.cloud
 *.finance.ranking-index.mlplatform.aws-eu-west-1a.vespa.oath.cloud
 *.finance.ranking-index.mlplatform.aws-us-east-1a.vespa.oath.cloud
@@ -8483,6 +8488,10 @@ affiliate.intl-commerce.us-east-1.dev.vespa.oath.cloud
 affiliate.intl-commerce.us-east-1.test.vespa.oath.cloud
 affiliate.intl-commerce.us-east-3.staging.vespa.oath.cloud
 affiliate.sandbox.us-east-1.dev.vespa.oath.cloud
+agent-internal.sports-gains-np.aws.oath.cloud
+agent-internal.sports-gains-prod.aws.oath.cloud
+agent.sports-gains-np.aws.oath.cloud
+agent.sports-gains-prod.aws.oath.cloud
 agentportal.flurry-prod.aws.oath.cloud
 agentportal.us-east-1.flurry-dev.aws.oath.cloud
 agentportal.us-west-2.flurry-prod.aws.oath.cloud
@@ -12350,6 +12359,7 @@ csp.gemini-native.us-east-3.staging.vespa.oath.cloud
 ctarg-emr.tgt-platform-tgtawsdev.aws.oath.cloud
 ctarg-emr.tgt-platform-tgtawsprod.aws.oath.cloud
 ctchou.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
+cting02.lumos.tw-media-wizardry.aws-use1-az1.dev.vespa.oath.cloud
 cting02.lumos.tw-media-wizardry.us-east-1.dev.vespa.oath.cloud
 cting02.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 ctrl.spa.gemini-serving.us-east-3.perf.vespa.oath.cloud
@@ -12895,6 +12905,9 @@ dns-test.jvenstad.a.vespa.oath.cloud
 dns-test.jvenstad.aws-us-east-1a-r.vespa.oath.cloud
 doc-search.vespa.oath.cloud
 docapi-proxy.statcloud-stage.sports.us-west-1.fantasy-sports-np.aws.oath.cloud
+docapi-proxy.statcloud.sports.us-central-1.fantasy-sports-prod.aws.oath.cloud
+docapi-proxy.statcloud.sports.us-east-3.fantasy-sports-prod.aws.oath.cloud
+docapi-proxy.statcloud.sports.us-west-1.fantasy-sports-prod.aws.oath.cloud
 docker-search.rafan-vespa.global.vespa.oath.cloud
 docker-search.rafan-vespa.us-central-1.vespa.oath.cloud
 docker-search.rafan-vespa.us-east-1.test.vespa.oath.cloud
@@ -16575,6 +16588,9 @@ orangecrush.one-mobile-prod.aws.oath.cloud
 orec-qa.subscriptions-dispatcher-aws-dev.aws.oath.cloud
 orio.searchertest.oriotest.aws-us-east-1c.dev.public.vespa.oath.cloud
 os-qrs-proxy.statcloud-stage.sports.us-west-1.fantasy-sports-np.aws.oath.cloud
+os-qrs-proxy.statcloud.sports.us-central-1.fantasy-sports-prod.aws.oath.cloud
+os-qrs-proxy.statcloud.sports.us-east-3.fantasy-sports-prod.aws.oath.cloud
+os-qrs-proxy.statcloud.sports.us-west-1.fantasy-sports-prod.aws.oath.cloud
 oscarbrolin.album-recommendation.lawbible.aws-us-east-1c.dev.public.vespa.oath.cloud
 osoriano.stream-ranking.stream.us-east-1.dev.vespa.oath.cloud
 osoriano.stream-ranking.stream.us-east-3.perf.vespa.oath.cloud
@@ -17595,6 +17611,9 @@ qai.taxonomy-search.aolp-ds-dev.aws.oath.cloud
 qb9.paranoids-fire-prod-tools.aws.oath.cloud
 qdqcawcymh.pyvespa-integration.vespa-team.aws-us-east-1c.dev.public.vespa.oath.cloud
 qrs-proxy.statcloud-stage.sports.us-west-1.fantasy-sports-np.aws.oath.cloud
+qrs-proxy.statcloud.sports.us-central-1.fantasy-sports-prod.aws.oath.cloud
+qrs-proxy.statcloud.sports.us-east-3.fantasy-sports-prod.aws.oath.cloud
+qrs-proxy.statcloud.sports.us-west-1.fantasy-sports-prod.aws.oath.cloud
 querybuilder.flurry-stg.aws.oath.cloud
 querybuilder.us-west-2.flurry-stg.aws.oath.cloud
 question-generation.sports-gains-dev.aws.oath.cloud
@@ -20833,6 +20852,7 @@ video.gwang02.us-east-1.test.vespa.oath.cloud
 video.gwang02.us-east-3.staging.vespa.oath.cloud
 video.gwang02.us-west-1.vespa.oath.cloud
 video.sports-gains-dev.aws.oath.cloud
+video.sports-gains-np.aws.oath.cloud
 video.sports-gains-prod.aws.oath.cloud
 video.video-search.ap-northeast-1.vespa.oath.cloud
 video.video-search.ap-southeast-1.vespa.oath.cloud

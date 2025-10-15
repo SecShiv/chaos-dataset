@@ -40,7 +40,9 @@
 *.ci-renovate-ruff-0--record-harvester.dev.sdp.surf.nl
 *.ci-renovate-starlet-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-structl-record-harvester.dev.sdp.surf.nl
+*.ci-renovate-surf-in-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-types-b-record-harvester.dev.sdp.surf.nl
+*.ci-renovate-usebrun-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-uvicorn-record-harvester.dev.sdp.surf.nl
 *.ci-send-deletes-record-harvester.dev.sdp.surf.nl
 *.ci-simplify-certs-record-harvester.dev.sdp.surf.nl
@@ -874,6 +876,7 @@ ci-bundle-admin.cxp.dev.sdp.surf.nl
 ci-chore-flux-v2-cr-monitoring.dev.sdp.surf.nl
 ci-dev-admin.cxp.dev.sdp.surf.nl
 ci-docker-proxy-admin.cxp.dev.sdp.surf.nl
+ci-fix-harvester-ca-admin.cxp.dev.sdp.surf.nl
 ci-fix-key-usages-admin.cxp.dev.sdp.surf.nl
 ci-fixes-admin.cxp.dev.sdp.surf.nl
 ci-hiram-vanpaassen-admin.cxp.dev.sdp.surf.nl
@@ -3136,6 +3139,7 @@ ooapi-gateway-konga.owl.surf.nl
 ooapi-gateway.owl.surf.nl
 ooapi-validator-admin.owl.surf.nl
 ooapi-validator.owl.surf.nl
+openid-federation-admin-server.pilot1.sram.surf.nl
 openleermaterialen.surf.nl
 openonlineonderwijs.surf.nl
 openproject.exp.sram.lab.surf.nl
@@ -4931,6 +4935,7 @@ www.sram.surf.nl
 www.synergy.surf.nl
 www.test.dlo.surf.nl
 www.webinar.surf.nl
+www.werkenbij.surf.nl
 xalt.hpcv.surf.nl
 xatlas-staging.ia.surf.nl
 xatlas-staging1.ia.surf.nl
@@ -5053,3 +5058,4 @@ zoekportaal.surf.nl
 zoekportaalback.surf.nl
 zoekportal.surf.nl
 zoekportalback.surf.nl
+zulip.sram.lab.surf.nl

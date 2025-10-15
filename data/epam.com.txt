@@ -2784,6 +2784,7 @@ development-app-slkr.apps.cluster12.eu.aws.cloudapp.epam.com
 development.admin-portal.epam.epm-slkr.projects.epam.com
 development.cmp.epm-slkr.projects.epam.com
 development.core.epam.epm-slkr.projects.epam.com
+development.rufus.epam.epm-slkr.projects.epam.com
 development.sidekiq-core.epam.epm-slkr.projects.epam.com
 devmail.epam.com
 devops-metadef.epm-fss.projects.epam.com
@@ -4560,6 +4561,7 @@ int-ups-be3.sche-apc.projects.epam.com
 int-xconnect.hca.azure.epmc-stc.projects.epam.com
 int-xconnect.sfhc.azure.epmc-stc.projects.epam.com
 int.epm-prj.projects.epam.com
+int.kazrockets.lab.epam.com
 int.permissions.epam.com
 int.screening.epam.com
 int.spb.epam.com
@@ -5924,6 +5926,7 @@ presales-orchestrator-exp-1.llm.lab.epam.com
 presales-orchestrator-prod.llm.lab.epam.com
 presales-orchestrator-uat.llm.lab.epam.com
 presales-sharepoint-adapter-dev.llm.lab.epam.com
+presales-similarity-search-dev.llm.lab.epam.com
 presales-summarization-dev.llm.lab.epam.com
 presales-summarization-exp-1.llm.lab.epam.com
 presales-summarization-prod.llm.lab.epam.com
@@ -6245,6 +6248,7 @@ quanthub-uat.imf-eid.projects.epam.com
 quanthub-uatsdmx.imf-eid.projects.epam.com
 quarkus-dev.epm-iga.projects.epam.com
 quarkus.epm-iga.projects.epam.com
+query-onehub.epm-bot.projects.epam.com
 query.lab.epam.com
 questionnaires.epam.com
 questions.tkmi-repl.projects.epam.com
@@ -6607,6 +6611,7 @@ staffing-api.epam.com
 staffing-eu.stage.epam.com
 staffing-geo-lb1.stage.epam.com
 staffing-us.stage.epam.com
+staffing.epm-ldi.projects.epam.com
 staffing.stage.epam.com
 stag-api-cpe.pipeline.epm-for.projects.epam.com
 stag-api.pipeline.epm-for.projects.epam.com
@@ -7649,3 +7654,6 @@ ztna-microfrontend.stage.epam.com
 ztna-session-api.stage.epam.com
 ztna-staging.epm-iga.projects.epam.com
 ztna.app.epam.com
+ztna.app.stage.epam.com
+ztna.stage.epam.com
+ztnacheck.stage.epam.com

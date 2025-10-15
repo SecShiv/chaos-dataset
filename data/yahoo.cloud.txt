@@ -351,6 +351,8 @@ f360456f-feed-49f7-8353-f55bddb3e91a.instanceid.athenz.ostk.yahoo.cloud
 fde160d9-6b44-476d-9b2c-07b00103354f.instanceid.athenz.ostk.yahoo.cloud
 finance-apple-api-production.finance-k8s.media.yahoo.cloud
 finance-aws-devs.aws.yahoo.cloud
+finance-content-preference-api-production.finance-k8s.media.yahoo.cloud
+finance-content-preference-api-staging.finance-k8s-nonprod.media.yahoo.cloud
 finance-k8s.media.yahoo.cloud
 finance-n2-slack-staging.finance-k8s.media.yahoo.cloud
 finance-nonprod1-use1.omega.aws.yahoo.cloud
@@ -489,6 +491,8 @@ ingest-controller-stage.news-ml-stage-gcp-usw1.gcp.yahoo.cloud
 intl-media-k8s.media.yahoo.cloud
 jimap200022.mail.ne1.yahoo.cloud
 k8s-omega-gcp-nonprod.gcp.yahoo.cloud
+mad-prototype-api-production.finance-k8s.media.yahoo.cloud
+mad-prototype-api-staging.finance-k8s-nonprod.media.yahoo.cloud
 mc.identity-gcp-p-compute.gcp.yahoo.cloud
 mcp-service-predevelop.us-west1.home-skodityala16.gcp.yahoo.cloud
 mcp-workforce-proxy.us-west1.home-skodityala16.gcp.yahoo.cloud
@@ -614,6 +618,7 @@ sherpa-aerospike-tls.sherpa-gcp-prod.gcp.yahoo.cloud
 sherpa-gcloud-nonprod.gcp.yahoo.cloud
 sherpa-gcp-nonprod.gcp.yahoo.cloud
 sherpa-gcp-prod.gcp.yahoo.cloud
+sia-function.yamas-gcp-dev.gcp.yahoo.cloud
 sia-run.yamas-gcp-dev.gcp.yahoo.cloud
 sn-for-you-nl-stage.news-ml-stage-gcp-use4.gcp.yahoo.cloud
 sn-for-you.news-ml-stage-gcp-use4.gcp.yahoo.cloud

@@ -620,6 +620,9 @@ aggui.cmhprod1.k8s.indeed.tech
 aggui.cmhqa1.k8s.indeed.tech
 agnes-loom-agnes-load-test.locust.awscmh2.k8s.indeed.tech
 agnes-test-multiple-workers.agnes-amds-serving.science.jobseeker.awscmhqa5.k8s.indeed.tech
+aic-forwarder.awscmhdev3.k8s.indeed.tech
+aic-forwarder.awscmhdev4.k8s.indeed.tech
+aic-forwarder.awscmhdev5.k8s.indeed.tech
 aichat.awscmhqa2.k8s.indeed.tech
 airflow.indeed.tech
 airflow-dev-nginx.awsairflow.k8s.indeed.tech
@@ -3557,7 +3560,9 @@ gitlarc-argo.awscmh3.k8s.indeed.tech
 gitlarc-argo.awscmhqa3.k8s.indeed.tech
 gitlarc.aus.k8s.indeed.tech
 gitlarc.awscmh3.k8s.indeed.tech
+gitlarc.awscmh5.k8s.indeed.tech
 gitlarc.awscmhqa3.k8s.indeed.tech
+gitlarc.awscmhqa4.k8s.indeed.tech
 gitlarc.cmhprod3.k8s.indeed.tech
 gitlarc.cmhqa3.k8s.indeed.tech
 gitlarc.qa.k8s.indeed.tech
@@ -5145,6 +5150,8 @@ kibana-agg.prod.indeed.tech
 kibana-agg.qa.indeed.tech
 kibana-alderaan.prod.indeed.tech
 kibana-alderaan.qa.indeed.tech
+kibana-amplify.prod.indeed.tech
+kibana-amplify.qa.indeed.tech
 kibana-apiplatform.qa.indeed.tech
 kibana-architecture-diagram-generator-wsb.qa.indeed.tech
 kibana-architecture-diagram-generator.prod.indeed.tech
@@ -10466,6 +10473,7 @@ verify-nginx-private.awsnrt3.k8s.indeed.tech
 verify-nginx-private.awsnrtinfra.k8s.indeed.tech
 verify-nginx-private.awsnrtinfra2.k8s.indeed.tech
 verify-nginx-private.awsnrtqa.k8s.indeed.tech
+verify-nginx-private.awsnrtqa2.k8s.indeed.tech
 verify-nginx-private.awspdx.k8s.indeed.tech
 verify-nginx-private.awspdx2.k8s.indeed.tech
 verify-nginx-private.awssyd.k8s.indeed.tech
@@ -10484,6 +10492,7 @@ verify-nginx-public-v2.awscmhdev.k8s.indeed.tech
 verify-nginx-public-v2.awscmhdev2.k8s.indeed.tech
 verify-nginx-public-v2.awscmhdev3.k8s.indeed.tech
 verify-nginx-public-v2.awscmhdev4.k8s.indeed.tech
+verify-nginx-public-v2.awscmhdev5.k8s.indeed.tech
 verify-nginx-public-v2.awscmhinfra2.k8s.indeed.tech
 verify-nginx-public-v2.awscmhinfra3.k8s.indeed.tech
 verify-nginx-public-v2.awscmhinfra4.k8s.indeed.tech
@@ -10837,6 +10846,7 @@ vortex-example-cf-http-log-flink-service.awscmhqa5.k8s.indeed.tech
 vortex-integ-test-qa.awscmhqa5.k8s.indeed.tech
 vortex-kfu.awscmhqa4.k8s.indeed.tech
 vortex-mdp-feature-builder-experimental.awscmh6.k8s.indeed.tech
+vortex-mdp-feature-builder.awscmh6.k8s.indeed.tech
 vortex-mdp-mvc.awscmh5.k8s.indeed.tech
 vortex-mdp-mvc.awscmhqa4.k8s.indeed.tech
 vortex-mdp-offline-syncer.awscmh6.k8s.indeed.tech
@@ -10844,6 +10854,7 @@ vortex-mdp-offline-syncer.awscmhqa5.k8s.indeed.tech
 vortex-mdp-online-integration-syncer-ldap.awscmhqa4.k8s.indeed.tech
 vortex-mdp-online-integration-syncer-saml.awscmhqa4.k8s.indeed.tech
 vortex-mdp-online-integration-syncer.awscmhqa4.k8s.indeed.tech
+vortex-mdp-online-integration-syncer.awscmhqa5.k8s.indeed.tech
 vortex-mdp-online-syncer-ldap.awscmh6.k8s.indeed.tech
 vortex-mdp-online-syncer-ldap.awscmhqa5.k8s.indeed.tech
 vortex-mdp-online-syncer-saml.awscmh6.k8s.indeed.tech
@@ -11199,4 +11210,3 @@ zeebe.osqa.k8s.indeed.tech
 zentral.cpe.indeed.tech
 zentral.staging.cpe.indeed.tech
 zhiyuan-test-lemma-webapp.awscmhqa3.k8s.indeed.tech
-ztna.indeed.tech
