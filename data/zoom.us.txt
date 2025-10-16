@@ -76317,6 +76317,7 @@ asynccommgo.zoom.us
 asyncfileconsole.zoom.us
 asyncim.zoom.us
 asyncmq.zoom.us
+asyncmq-connect-go-oh1.zoom.us
 asyncmq-connect-go-va1.zoom.us
 asyncmq-connect-oh1.zoom.us
 asyncmq-connect-va1.zoom.us
@@ -79713,6 +79714,10 @@ edge-dsp-meta-main-va1.zoom.us
 edge-zcp-meta-neweng.zoom.us
 edge-zcp-meta-neweng-oh1.zoom.us
 edge-zcp-meta-neweng-va1.zoom.us
+edge-zpzcx-go-zcxp-va1-internal.zoom.us
+edge-zpzcx-go-zcxp-va2-internal.zoom.us
+edge-zpzcx-i-go-zcxp-va1-internal.zoom.us
+edge-zpzcx-i-go-zcxp-va2-internal.zoom.us
 edge-zpzcx-i-uk01-main-va1-internal.zoom.us
 edge-zpzcx-i-uk01-main-va2-internal.zoom.us
 edge-zpzcx-uk01-main-va1-internal.zoom.us
@@ -79788,6 +79793,7 @@ embeddingsearch-prod-aws-ap-southeast-1.ai.cloud.zoom.us
 embeddingsearch-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 embeddingsearch-prod-aws-ca-central-1.ai.cloud.zoom.us
 embeddingsearch-prod-aws-eu-central-1.ai.cloud.zoom.us
+embeddingsearch-prod-aws-eu-west-2.ai.cloud.zoom.us
 embeddingsearch-prod-aws-sa-east-1.ai.cloud.zoom.us
 embeddingsearch-prod-aws-us-east-1.ai.cloud.zoom.us
 embeddingsearch-prod-aws-us-east-2.ai.cloud.zoom.us
@@ -80671,6 +80677,7 @@ eu02-websrv-data-reconcile.zoom.us
 eu02-xmpp-eps.zoom.us
 eu02-ze-zcp.zoom.us
 eu02-ze-zcp-va1.zoom.us
+eu02aic.zoom.us
 eu02alertpbx.zoom.us
 eu02applications.zoom.us
 eu02ark.zoom.us
@@ -81672,6 +81679,12 @@ go-xmpp-oh1-internal.zoom.us
 go-xmpp-va1.zoom.us
 go-xmpp-va1-internal.zoom.us
 go-zcb.zoom.us
+go-zcxp-apisix.zoom.us
+go-zcxp-apisix-i.zoom.us
+go-zcxp-apisix-va.zoom.us
+go-zcxp-apisix-va-i.zoom.us
+go-zcxp-apisix-va2.zoom.us
+go-zcxp-apisix-va2-i.zoom.us
 go-ze-emr.zoom.us
 go-ze-ingress-api.zoom.us
 go-ze-zcp.zoom.us
@@ -88916,6 +88929,7 @@ smartprompt-prod-oci-aws-me-jeddah-1.ai.cloud.zoom.us
 smartprompt-prod-oci-me-riyadh-1.ai.cloud.zoom.us
 smartprompt-sa-east-1.cloud.zoom.us
 smartprompt-stocr-ap-northeast-1.cloud.zoom.us
+smartprompt-stocr-ap-south-1.cloud.zoom.us
 smartprompt-stocr-ap-southeast-2.cloud.zoom.us
 smartprompt-stocr-ca-central-1.cloud.zoom.us
 smartprompt-stocr-dg01-aws-us-east-2.cloud.zoom.us
@@ -88927,6 +88941,7 @@ smartprompt-stocr-go-colo-iad-1.cloud.zoom.us
 smartprompt-stocr-go-colo-sjc-1.cloud.zoom.us
 smartprompt-stocr-go.cloud.zoom.us
 smartprompt-stocr-prod-aws-ap-northeast-1.ai.cloud.zoom.us
+smartprompt-stocr-prod-aws-ap-south-1.ai.cloud.zoom.us
 smartprompt-stocr-prod-aws-ap-southeast-2.ai.cloud.zoom.us
 smartprompt-stocr-prod-aws-ca-central-1.ai.cloud.zoom.us
 smartprompt-stocr-prod-aws-sa-east-1.ai.cloud.zoom.us
@@ -89938,6 +89953,9 @@ uk01kiwi.zoom.us
 uk01kmzva.zoom.us
 uk01kmzva-va.zoom.us
 uk01kmzva-va2.zoom.us
+uk01lambdacci.zoom.us
+uk01lambdacci-va.zoom.us
+uk01lambdacci-va2.zoom.us
 uk01logsystem.zoom.us
 uk01mdmdevice.zoom.us
 uk01migration.zoom.us
@@ -89954,6 +89972,8 @@ uk01nws.zoom.us
 uk01nws-billing-op.zoom.us
 uk01nws-va1.zoom.us
 uk01ocs.zoom.us
+uk01ocs-va.zoom.us
+uk01ocs-va2.zoom.us
 uk01op.zoom.us
 uk01oppbx.zoom.us
 uk01opva2.zoom.us
@@ -89968,7 +89988,11 @@ uk01pbx-va-sub1.zoom.us
 uk01pbx-va-ucs-nginx1.zoom.us
 uk01pbx-va-ucs-nginx2.zoom.us
 uk01pbx-va-ucs-nginx3.zoom.us
+uk01pbx-va1-nginx1.zoom.us
+uk01pbx-va1-nginx2.zoom.us
 uk01pbx-va2.zoom.us
+uk01pbx-va2-nginx1.zoom.us
+uk01pbx-va2-nginx2.zoom.us
 uk01pbx-va2-sub1.zoom.us
 uk01pbx2n.zoom.us
 uk01pbxacp.zoom.us
@@ -90457,6 +90481,7 @@ us01apizva-c.zoom.us
 us01apizva-va.zoom.us
 us01apizva-va2.zoom.us
 us01apizva6-va2.zoom.us
+us01badges-va1.zoom.us
 us01bmt.zoom.us
 us01bmt-ore.zoom.us
 us01bmt-va.zoom.us
@@ -96598,6 +96623,7 @@ va1-us01-openapi-mas.zoom.us
 va2-gows.zoom.us
 va2-ws.zoom.us
 va2applicationscontent.zoom.us
+va2au01bot.zoom.us
 va2bot.zoom.us
 va2ca01bot.zoom.us
 va2command.zoom.us
@@ -96616,6 +96642,7 @@ va2single.zoom.us
 va2uk01bot.zoom.us
 va2us04bot.zoom.us
 vaapplicationscontent.zoom.us
+vaau01bot.zoom.us
 vabot.zoom.us
 vaca01bot.zoom.us
 vaeu01bot.zoom.us
@@ -112256,3 +112283,4 @@ zwebmail.asynccommgo.zoom.us
 zworkspace.asynccomm.zoom.us
 zworkspace.asynccommau.zoom.us
 zworkspace.asynccommeu.zoom.us
+zworkspace.asynccommgo.zoom.us

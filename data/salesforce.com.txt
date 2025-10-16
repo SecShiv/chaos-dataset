@@ -371,6 +371,7 @@
 *.develop.cue1.my.pc-rnd.salesforce.com
 *.develop.dev1.my.pc-rnd.salesforce.com
 *.develop.dev1a.my.pc-rnd.salesforce.com
+*.develop.exp4.my.pc-rnd.salesforce.com
 *.develop.falcondevtip.my.pc-rnd.salesforce.com
 *.develop.falconomt1.my.pc-rnd.salesforce.com
 *.develop.falconoordr1.my.pc-rnd.salesforce.com
@@ -664,6 +665,7 @@
 *.dub.001.aa09458b14c.code-builder-dev.platform.salesforce.com
 *.dub.001.aa299ebce5c.code-builder-dev.platform.salesforce.com
 *.dub.001.abf3730c467.code-builder-dev.platform.salesforce.com
+*.dub.001.ace995b4426.code-builder-dev.platform.salesforce.com
 *.dub.001.acf180f5d73.code-builder-dev.platform.salesforce.com
 *.dub.001.ae17950c96e.code-builder-dev.platform.salesforce.com
 *.dub.001.aeea8cd5fab.code-builder-dev.platform.salesforce.com
@@ -776,6 +778,8 @@
 *.dub.003.ap-qax.code-builder-stg.platform.salesforce.com
 *.dub.003.ap-stgx.code-builder.platform.salesforce.com
 *.dx.commercecloud.salesforce.com
+*.exp3.my.pc-rnd.salesforce.com
+*.exp4.my.pc-rnd.salesforce.com
 *.falcondevtip.my.pc-rnd.salesforce.com
 *.falconomt1.my.pc-rnd.salesforce.com
 *.falconoordr1.my.pc-rnd.salesforce.com
@@ -990,6 +994,7 @@
 *.fra.001.aa09458b14c.code-builder-dev.platform.salesforce.com
 *.fra.001.aa299ebce5c.code-builder-dev.platform.salesforce.com
 *.fra.001.acb638b4876.code-builder-dev.platform.salesforce.com
+*.fra.001.ace995b4426.code-builder-dev.platform.salesforce.com
 *.fra.001.acf180f5d73.code-builder-dev.platform.salesforce.com
 *.fra.001.aeea8cd5fab.code-builder-dev.platform.salesforce.com
 *.fra.001.af7176742ff.code-builder-dev.platform.salesforce.com
@@ -1107,6 +1112,7 @@
 *.free.dev1.my.pc-rnd.salesforce.com
 *.free.dev1a.my.pc-rnd.salesforce.com
 *.free.devc.my.pc-rnd.salesforce.com
+*.free.exp4.my.pc-rnd.salesforce.com
 *.free.falcondevtip.my.pc-rnd.salesforce.com
 *.free.falconomt1.my.pc-rnd.salesforce.com
 *.free.falconoordr1.my.pc-rnd.salesforce.com
@@ -1410,6 +1416,7 @@
 *.iad.001.aa09458b14c.code-builder-dev.platform.salesforce.com
 *.iad.001.aaa5ef3f4d7.code-builder-dev.platform.salesforce.com
 *.iad.001.abf3730c467.code-builder-dev.platform.salesforce.com
+*.iad.001.ace995b4426.code-builder-dev.platform.salesforce.com
 *.iad.001.ad9fa66054c.code-builder-dev.platform.salesforce.com
 *.iad.001.adekrjsi.code-builder-dev.platform.salesforce.com
 *.iad.001.aeea8cd5fab.code-builder-dev.platform.salesforce.com
@@ -1539,6 +1546,7 @@
 *.patch.dev1.my.pc-rnd.salesforce.com
 *.patch.dev1a.my.pc-rnd.salesforce.com
 *.patch.devc.my.pc-rnd.salesforce.com
+*.patch.exp3.my.pc-rnd.salesforce.com
 *.patch.falcondevtip.my.pc-rnd.salesforce.com
 *.patch.falconomt1.my.pc-rnd.salesforce.com
 *.patch.falconoordr1.my.pc-rnd.salesforce.com
@@ -2026,6 +2034,8 @@
 *.sandbox.deva.my.pc-rnd.salesforce.com
 *.sandbox.devc.my.pc-rnd.salesforce.com
 *.sandbox.eu01.dx.commercecloud.salesforce.com
+*.sandbox.exp3.my.pc-rnd.salesforce.com
+*.sandbox.exp4.my.pc-rnd.salesforce.com
 *.sandbox.falcondevtip.my.pc-rnd.salesforce.com
 *.sandbox.falconomt1.my.pc-rnd.salesforce.com
 *.sandbox.falconoordr1.my.pc-rnd.salesforce.com
@@ -2273,6 +2283,7 @@
 *.trailblaze.dev1.my.pc-rnd.salesforce.com
 *.trailblaze.dev1a.my.pc-rnd.salesforce.com
 *.trailblaze.devc.my.pc-rnd.salesforce.com
+*.trailblaze.exp3.my.pc-rnd.salesforce.com
 *.trailblaze.falcondevtip.my.pc-rnd.salesforce.com
 *.trailblaze.falconomt1.my.pc-rnd.salesforce.com
 *.trailblaze.falconoordr1.my.pc-rnd.salesforce.com
@@ -2585,6 +2596,7 @@
 *.yul.001.aa299ebce5c.code-builder-dev.platform.salesforce.com
 *.yul.001.abf3730c467.code-builder-dev.platform.salesforce.com
 *.yul.001.acb638b4876.code-builder-dev.platform.salesforce.com
+*.yul.001.ace995b4426.code-builder-dev.platform.salesforce.com
 *.yul.001.ad9fa66054c.code-builder-dev.platform.salesforce.com
 *.yul.001.aeea8cd5fab.code-builder-dev.platform.salesforce.com
 *.yul.001.af4e8734bca.code-builder-dev.platform.salesforce.com
@@ -20541,6 +20553,7 @@ cloudatlas.ephdm2.pc-rnd.salesforce.com
 cloudatlas.ephdm3.pc-rnd.salesforce.com
 cloudatlas.ephdm4.pc-rnd.salesforce.com
 cloudatlas.ephdm5.pc-rnd.salesforce.com
+cloudatlas.exp4.pc-rnd.salesforce.com
 cloudatlas.falcondevtip.pc-rnd.salesforce.com
 cloudatlas.falcongiadevtip1.pc-rnd.salesforce.com
 cloudatlas.falconomt1.pc-rnd.salesforce.com
@@ -57123,6 +57136,7 @@ login.ephdm2.pc-rnd.salesforce.com
 login.ephdm3.pc-rnd.salesforce.com
 login.ephdm4.pc-rnd.salesforce.com
 login.ephdm5.pc-rnd.salesforce.com
+login.exp3.pc-rnd.salesforce.com
 login.falcondevtip.pc-rnd.salesforce.com
 login.falcongiadevtip1.pc-rnd.salesforce.com
 login.falconomt1.pc-rnd.salesforce.com
@@ -61488,6 +61502,8 @@ sdb401.deva.sfdc-qjv2vl.pc-rnd.salesforce.com
 sdb403.devc.sfdc-qjv2vl.pc-rnd.salesforce.com
 sdb41.test1.pc-rnd.pc-aws.salesforce.com
 sdb42.test13.pc-rnd.pc-aws.salesforce.com
+sdb420.exp3.sfdc-ef14jr.pc-rnd.salesforce.com
+sdb421.exp4.sfdc-ef14jr.pc-rnd.salesforce.com
 sdb43.test14.pc-rnd.pc-aws.salesforce.com
 sdb44.test13.pc-rnd.pc-aws.salesforce.com
 sdb4s.giadev1.sfdc-l4ckx.pc-rnd.salesforce.com
@@ -62030,6 +62046,15 @@ sfdc-ckzqgc.test8.login.pc-rnd.salesforce.com
 sfdc-ckzqgc.test8.test.pc-rnd.salesforce.com
 sfdc-ckzqgc.test9.login.pc-rnd.salesforce.com
 sfdc-ckzqgc.test9.test.pc-rnd.salesforce.com
+sfdc-ef14jr.d.exp4.my.pc-rnd.salesforce.com
+sfdc-ef14jr.exp3.login.pc-rnd.salesforce.com
+sfdc-ef14jr.exp3.test.pc-rnd.salesforce.com
+sfdc-ef14jr.exp4.cloudatlas.pc-rnd.salesforce.com
+sfdc-ef14jr.f.exp4.my.pc-rnd.salesforce.com
+sfdc-ef14jr.p.exp3.my.pc-rnd.salesforce.com
+sfdc-ef14jr.s.exp3.my.pc-rnd.salesforce.com
+sfdc-ef14jr.s.exp4.my.pc-rnd.salesforce.com
+sfdc-ef14jr.t.exp3.my.pc-rnd.salesforce.com
 sfdc-ei37dk.bt.my.salesforce.com
 sfdc-ei37dk.cloudatlas.salesforce.com
 sfdc-ei37dk.demo.my.salesforce.com
@@ -64024,9 +64049,12 @@ sms-send-service-aws-prod11-saeast1-cdp2.salesforce.com
 sms-send-service-aws-prod13-euwest2-cdp1.salesforce.com
 sms-send-service-aws-prod13-euwest2-cdp2.salesforce.com
 sms-send-service-aws-prod15-eucentral2-cdp1.salesforce.com
+sms-send-service-aws-prod16-eunorth1-cdp1.salesforce.com
+sms-send-service-aws-prod16-eunorth1-cdp2.salesforce.com
 sms-send-service-aws-prod17-apsoutheast3-cdp1.salesforce.com
 sms-send-service-aws-prod21-useast2-cdp1.salesforce.com
 sms-send-service-aws-prod21-useast2-cdp2.salesforce.com
+sms-send-service-aws-prod22-apnortheast3-cdp1.salesforce.com
 sms-send-service-aws-prod3-eucentral1-cdp1.salesforce.com
 sms-send-service-aws-prod3-eucentral1-cdp2.salesforce.com
 sms-send-service-aws-prod4-apsoutheast2-cdp1.salesforce.com
@@ -68002,6 +68030,7 @@ test.ephdm2.pc-rnd.salesforce.com
 test.ephdm3.pc-rnd.salesforce.com
 test.ephdm4.pc-rnd.salesforce.com
 test.ephdm5.pc-rnd.salesforce.com
+test.exp3.pc-rnd.salesforce.com
 test.falcondevtip.pc-rnd.salesforce.com
 test.falcongiadevtip1.pc-rnd.salesforce.com
 test.falconomt1.pc-rnd.salesforce.com
@@ -69603,6 +69632,7 @@ webto.ephdm2.pc-rnd.salesforce.com
 webto.ephdm3.pc-rnd.salesforce.com
 webto.ephdm4.pc-rnd.salesforce.com
 webto.ephdm5.pc-rnd.salesforce.com
+webto.exp3.pc-rnd.salesforce.com
 webto.falcondevtip.pc-rnd.salesforce.com
 webto.falcongiadevtip1.pc-rnd.salesforce.com
 webto.falconomt1.pc-rnd.salesforce.com
@@ -71229,3 +71259,5 @@ zzzz-stg.cccnp0004.cnp-dev.commercecloud.salesforce.com
 zzzz-stg.cccnp0009.cnp-dev.commercecloud.salesforce.com
 zzzz-stg.cccnp0010.cnp-dev.commercecloud.salesforce.com
 zzzz-stg.cccnp0011.cnp-dev.commercecloud.salesforce.com
+zzzz-stg.cccnp1.cnp-test1.commercecloud.salesforce.com
+{service-instance}.monitoring.salesforce.com

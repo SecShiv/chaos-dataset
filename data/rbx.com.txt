@@ -55,6 +55,7 @@
 *.astro.prod-infra.dic.rbx.com
 *.bloxid.rbx.com
 *.bloxvisualizer.st3.rbx.com
+*.brand-tools.st1.rbx.com
 *.brands-video-uploader.st3.rbx.com
 *.cbar.bloxid.dev.rbx.com
 *.code-migration-app.st3.rbx.com
@@ -323,6 +324,8 @@ bloxvisualizer.st1.rbx.com
 bloxvisualizer.st3.rbx.com
 bpo-vpn.rbx.com
 brand-tools.rbx.com
+brand-tools.st1.rbx.com
+brand-tools.st3.rbx.com
 brand.github.rbx.com
 brands-video-uploader.st1.rbx.com
 c002.argocd.rbx.com
@@ -358,6 +361,8 @@ cdctl-stg.rbx.com
 cdctldev-internal-lb.rbx.com
 cdctlstg-internal-lb.rbx.com
 certs.rbx.com
+changestream-manager-dev.rbx.com
+changestream-manager-dev-grpc.rbx.com
 changestream-manager-stage.rbx.com
 cloud-registry-stage.rbx.com
 code-migration-app.st3.rbx.com
@@ -759,6 +764,7 @@ ranger.di.rbx.com
 rap.rbx.com
 rbx.github.rbx.com
 rcity.rbx.com
+redirector.rbx.com
 registry.astro-dev.di.rbx.com
 repoconfig.rbx.com
 repoconfig-stage.rbx.com
@@ -938,4 +944,3 @@ xray-iac-aws-stage-usw1.rbx.com
 xray-iac-aws-stage-usw1-1.rbx.com
 xray-prod1.rbx.com
 xray-stage.rbx.com
-xray-stage7.rbx.com

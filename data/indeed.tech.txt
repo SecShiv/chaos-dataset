@@ -182,6 +182,8 @@
 149dbfb31a7201f0a1e04413665e272d.loom-inference.awscmhqa4.k8s.indeed.tech
 15e74f89cd94e16c9b4afdf409f71cb2.agnes-amds-serving.science.jobseeker.awscmhqa2.k8s.indeed.tech
 15e74f89cd94e16c9b4afdf409f71cb2.agnes-amds-serving.science.jobseeker.awscmhqa5.k8s.indeed.tech
+173c5a120e009a5dd1b2fc50d0847f11.loom-inference.awscmh5.k8s.indeed.tech
+173c5a120e009a5dd1b2fc50d0847f11.loom-inference.awscmh6.k8s.indeed.tech
 1adb63edaa2a88791d6dc9f75f97b9ed.loom-inference.awscmhqa5.k8s.indeed.tech
 1b16e32277ab4d09167da9fe50ce6b93.loom-inference.awscmhqa5.k8s.indeed.tech
 1c805d37682666edb2145996a90c158c.agnes-amds-serving.eda.enterprise.awscmhqa5.k8s.indeed.tech
@@ -10458,6 +10460,7 @@ verify-nginx-private.awscmhdev4.k8s.indeed.tech
 verify-nginx-private.awscmhdev5.k8s.indeed.tech
 verify-nginx-private.awscmhinfra2.k8s.indeed.tech
 verify-nginx-private.awscmhinfra3.k8s.indeed.tech
+verify-nginx-private.awscmhinfra5.k8s.indeed.tech
 verify-nginx-private.awscmhqa2.k8s.indeed.tech
 verify-nginx-private.awscmhqa3.k8s.indeed.tech
 verify-nginx-private.awscmhqa4.k8s.indeed.tech
@@ -10543,8 +10546,11 @@ verify-nginx-spark.awscmh2.k8s.indeed.tech
 verify-nginx-spark.awscmh3.k8s.indeed.tech
 verify-nginx-spark.awscmh4.k8s.indeed.tech
 verify-nginx-spark.awscmh5.k8s.indeed.tech
+verify-nginx-spark.awscmh6.k8s.indeed.tech
+verify-nginx-spark.awscmh7.k8s.indeed.tech
 verify-nginx-spark.awscmhdev3.k8s.indeed.tech
 verify-nginx-spark.awscmhinfra3.k8s.indeed.tech
+verify-nginx-spark.awscmhinfra4.k8s.indeed.tech
 verify-nginx-spark.awscmhinfra5.k8s.indeed.tech
 verify-nginx-spark.awscmhqa4.k8s.indeed.tech
 verify-nginx-spark.awscmhqa5.k8s.indeed.tech
@@ -10847,12 +10853,14 @@ vortex-integ-test-qa.awscmhqa5.k8s.indeed.tech
 vortex-kfu.awscmhqa4.k8s.indeed.tech
 vortex-mdp-feature-builder-experimental.awscmh6.k8s.indeed.tech
 vortex-mdp-feature-builder.awscmh6.k8s.indeed.tech
+vortex-mdp-feature-builder.awscmhqa5.k8s.indeed.tech
 vortex-mdp-mvc.awscmh5.k8s.indeed.tech
 vortex-mdp-mvc.awscmhqa4.k8s.indeed.tech
 vortex-mdp-offline-syncer.awscmh6.k8s.indeed.tech
 vortex-mdp-offline-syncer.awscmhqa5.k8s.indeed.tech
 vortex-mdp-online-integration-syncer-ldap.awscmhqa4.k8s.indeed.tech
 vortex-mdp-online-integration-syncer-saml.awscmhqa4.k8s.indeed.tech
+vortex-mdp-online-integration-syncer.awscmh6.k8s.indeed.tech
 vortex-mdp-online-integration-syncer.awscmhqa4.k8s.indeed.tech
 vortex-mdp-online-integration-syncer.awscmhqa5.k8s.indeed.tech
 vortex-mdp-online-syncer-ldap.awscmh6.k8s.indeed.tech
@@ -11209,4 +11217,3 @@ zapinfo.sandbox.awscmhqa.k8s.indeed.tech
 zeebe.osqa.k8s.indeed.tech
 zentral.cpe.indeed.tech
 zentral.staging.cpe.indeed.tech
-zhiyuan-test-lemma-webapp.awscmhqa3.k8s.indeed.tech

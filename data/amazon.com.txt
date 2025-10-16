@@ -18,6 +18,7 @@
 *.alpha.app.aquil.devices.amazon.com
 *.alpha.assets.clinic.amazon.com
 *.alpha.assets.virtualcare.amazon.com
+*.aos-staging.eu-west-1.vpce.amazon.com
 *.ap-east-1-failover.console-gamma.aws-dev.amazon.com
 *.ap-east-1-failover.console.aws-dev.amazon.com
 *.ap-east-1.aws-signin-testing.amazon.com
@@ -413,6 +414,7 @@
 *.maeveruntime.miraliu.us-west-2.vpce.amazon.com
 *.maeveruntime.sucan.us-west-2.vpce.amazon.com
 *.magnolio-gamma-fips.us-gov-west-1.vpce.amazon.com
+*.mci9.prod.arsce.robotics.amazon.com
 *.me-central-1-failover.console-gamma.aws-dev.amazon.com
 *.me-central-1-failover.console.aws-dev.amazon.com
 *.me-central-1.aws-signin-testing.amazon.com
@@ -19088,6 +19090,7 @@ athena-opsconsole-ap-southeast-2.aka.corp.amazon.com
 athena-opsconsole-ap-southeast-3.aka.corp.amazon.com
 athena-opsconsole-ap-southeast-4.aka.corp.amazon.com
 athena-opsconsole-ap-southeast-5.aka.corp.amazon.com
+athena-opsconsole-ap-southeast-6.aka.corp.amazon.com
 athena-opsconsole-ap-southeast-7.aka.corp.amazon.com
 athena-opsconsole-beta-integ-us-east-1.aka.corp.amazon.com
 athena-opsconsole-beta-integ.us-east-1.aka.corp.amazon.com
@@ -19116,6 +19119,7 @@ athena-opsconsole-gamma-ap-southeast-2.aka.corp.amazon.com
 athena-opsconsole-gamma-ap-southeast-3.aka.corp.amazon.com
 athena-opsconsole-gamma-ap-southeast-4.aka.corp.amazon.com
 athena-opsconsole-gamma-ap-southeast-5.aka.corp.amazon.com
+athena-opsconsole-gamma-ap-southeast-6.aka.corp.amazon.com
 athena-opsconsole-gamma-ap-southeast-7.aka.corp.amazon.com
 athena-opsconsole-gamma-ca-central-1.aka.corp.amazon.com
 athena-opsconsole-gamma-ca-west-1.aka.corp.amazon.com
@@ -20264,6 +20268,7 @@ aws-console-platform-proxy-dev.aka.pdx.amazon.com
 aws-console-platform-proxy-integ.aka.arn.amazon.com
 aws-console-platform-proxy-integ.aka.bjs.amazon.com
 aws-console-platform-proxy-integ.aka.bom.amazon.com
+aws-console-platform-proxy-integ.aka.cdg.amazon.com
 aws-console-platform-proxy-integ.aka.cgk.amazon.com
 aws-console-platform-proxy-integ.aka.cpt.amazon.com
 aws-console-platform-proxy-integ.aka.dub.amazon.com
@@ -20316,6 +20321,7 @@ aws-console-proxy-dev.dub.amazon.com
 aws-console-proxy-dev.pdx.amazon.com
 aws-console-proxy-integ-jlb.arn.amazon.com
 aws-console-proxy-integ-jlb.bom.amazon.com
+aws-console-proxy-integ-jlb.cdg.amazon.com
 aws-console-proxy-integ-jlb.cgk.amazon.com
 aws-console-proxy-integ-jlb.cpt.amazon.com
 aws-console-proxy-integ-jlb.dub.amazon.com
@@ -20340,6 +20346,7 @@ aws-console-proxy-integ.aka.bjs.amazon.com
 aws-console-proxy-integ.arn.amazon.com
 aws-console-proxy-integ.bjs.amazon.com
 aws-console-proxy-integ.bom.amazon.com
+aws-console-proxy-integ.cdg.amazon.com
 aws-console-proxy-integ.cgk.amazon.com
 aws-console-proxy-integ.cpt.amazon.com
 aws-console-proxy-integ.dub.amazon.com
@@ -30528,6 +30535,7 @@ edx-service-tcp.aka.amazon.com
 edx-service.integ.amazon.com
 edx-tardigrade.corp.amazon.com
 edx.corp.amazon.com
+edxtest.corp.amazon.com
 ee-dashboard.aka.corp.amazon.com
 ee.corp.amazon.com
 eedashboard.integ.amazon.com
@@ -31069,6 +31077,7 @@ enroll.federate.amazon.com
 enrollments.alpha.api.care.corp.amazon.com
 entdesktop-gamma.corp.amazon.com
 entdesktop.corp.amazon.com
+enterprise-kuiper.integ.amazon.com
 enterprise.audible.com.cdn.amazon.com
 enterprisearya-enterprise-iad-iad.iad.proxy.amazon.com
 enterra-solutions.signin.aws.amazon.com
@@ -33889,6 +33898,7 @@ gamma-de.key.amazon.com
 gamma-eagle-unlinking.amazon.com
 gamma-ec2dqhealthportal.corp.amazon.com
 gamma-ec2dqwebtools.corp.amazon.com
+gamma-enterprise-kuiper.integ.amazon.com
 gamma-es.key.amazon.com
 gamma-eu-alexamobilediscoveryservice.aka.amazon.com
 gamma-eu-alexamobilefeedbackexperienceservice.aka.amazon.com
@@ -39215,6 +39225,7 @@ journal-beta-test-0-prodfabric.journal.iad.amazon.com
 journal-beta-test-2-prodfabric.journal.iad.amazon.com
 journal-gamma-test-0-prodfabric.journal.iad.amazon.com
 journal-prod-common-0-prodfabric.journal.bkk.amazon.com
+journal-prod-common-0-prodfabric.journal.cdg.amazon.com
 journal-prod-common-0-prodfabric.journal.cgk.amazon.com
 journal-prod-common-0-prodfabric.journal.cpt.amazon.com
 journal-prod-common-0-prodfabric.journal.dub.amazon.com
@@ -39267,12 +39278,14 @@ journal-prod-common-10-prodfabric.journal.iad.amazon.com
 journal-prod-common-11-prodfabric.journal.iad.amazon.com
 journal-prod-common-12-prodfabric.journal.iad.amazon.com
 journal-prod-common-13-prodfabric.journal.iad.amazon.com
+journal-prod-common-2-prodfabric.journal.cdg.amazon.com
 journal-prod-common-2-prodfabric.journal.cmh.amazon.com
 journal-prod-common-3-prodfabric.journal.dub.amazon.com
 journal-prod-common-3-prodfabric.journal.hyd.amazon.com
 journal-prod-common-3-prodfabric.journal.pdx.amazon.com
 journal-prod-common-4-prodfabric.journal.dub.amazon.com
 journal-prod-common-4-prodfabric.journal.pdx.amazon.com
+journal-prod-common-5-prodfabric.journal.cdg.amazon.com
 journal-prod-common-5-prodfabric.journal.dub.amazon.com
 journal-prod-common-5-prodfabric.journal.pdx.amazon.com
 journal-prod-common-6-prodfabric.journal.dub.amazon.com
@@ -40620,6 +40633,7 @@ ldap.bah.amazon.com
 ldap.bjs.amazon.com
 ldap.bkk.amazon.com
 ldap.bom.amazon.com
+ldap.bpm.amazon.com
 ldap.cdg.amazon.com
 ldap.cgk.amazon.com
 ldap.cmh.amazon.com
@@ -40741,6 +40755,7 @@ ldappxy-prod.arn.amazon.com
 ldappxy-prod.bah.amazon.com
 ldappxy-prod.bjs.amazon.com
 ldappxy-prod.bom.amazon.com
+ldappxy-prod.bpm.amazon.com
 ldappxy-prod.cdg.amazon.com
 ldappxy-prod.cgk.amazon.com
 ldappxy-prod.cmh.amazon.com
@@ -42442,6 +42457,8 @@ maxis-service-integ-tcp.pdx.amazon.com
 maxis-service-integ-zhy.aka.amazon.com
 maxis-service-prod-dub.amazon.com
 maxis-service-prod-dub.aea.amazon.com
+maxis-service-prod-dub.dub.proxy.amazon.com
+maxis-service-prod-dub.dub.x-region.amazon.com
 maxis-service-prod-iad.amazon.com
 maxis-service-prod-iad.aea.amazon.com
 maxis-service-prod-iad.iad.proxy.amazon.com
@@ -42451,15 +42468,18 @@ maxis-service-prod-pdx.aea.amazon.com
 maxis-service-prod-pdx.pdx.proxy.amazon.com
 maxis-service-prod-pdx.pdx.x-region.amazon.com
 maxis-service-prod-tcp.amazon.com
+maxis-service-prod-tcp-dub.dub.amazon.com
 maxis-service-prod-tcp-dub.dub.proxy.amazon.com
 maxis-service-prod-tcp-iad.iad.amazon.com
 maxis-service-prod-tcp-iad.iad.proxy.amazon.com
 maxis-service-prod-tcp-pdx.pdx.amazon.com
 maxis-service-prod-tcp-pdx.pdx.proxy.amazon.com
+maxis-service-prod-tcp.dub.amazon.com
 maxis-service-prod-tcp.iad.amazon.com
 maxis-service-prod-tcp.pdx.amazon.com
 maxis-service-real-integ-dub.dub.proxy.amazon.com
 maxis-service-real-integ-pdx.pdx.amazon.com
+maxis-service-real-prod-dub.dub.proxy.amazon.com
 maxis-service-real-prod-iad.iad.proxy.amazon.com
 maxis-service-real-prod-pdx.pdx.proxy.amazon.com
 maxwell-cn.amazon.com
@@ -46300,6 +46320,7 @@ origin-cscentral-fe.amazon.com
 origin-data-eu.amazon.com
 origin-data-fe.amazon.com
 origin-data-na.amazon.com
+origin-data-zaz.amazon.com
 origin-distribution.games.amazon.com
 origin-dl.amazon.com
 origin-dl-prod.pdx.amazon.com
@@ -50847,6 +50868,7 @@ rsc-portal-ui-jlb.integ.amazon.com
 rsc-portal-ui-pdx.pdx.proxy.amazon.com
 rsc-portal-ui.integ.amazon.com
 rshiny-aces-analytics.aka.amazon.com
+rsivku-xis.dev.creatorstudio.amazon.com
 rsm-console-content-eu.aka.amazon.com
 rsm-console-content-jp.aka.amazon.com
 rsm-console-content-na.aka.amazon.com

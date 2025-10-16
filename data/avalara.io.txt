@@ -21,12 +21,16 @@
 *.aws.avalara.io
 *.bentest.web.avalara.io
 *.brazil.raas.dev.avalara.io
+*.cai01.int.us-west-2.aws.avalara.io
+*.cai02.int.us-east-1.aws.avalara.io
 *.cap01.prd.us-west-2.aws.avalara.io
 *.cap02.prd.us-east-1.aws.avalara.io
 *.ce.content.dev.avalara.io
 *.ce.content.prd.avalara.io
 *.ce.content.qa.avalara.io
 *.ce.content.sbx.avalara.io
+*.cgi01.int.us-east1.gcp.avalara.io
+*.cgi02.int.us-west3.gcp.avalara.io
 *.cgp02.prd.us-west3.gcp.avalara.io
 *.cgpos.content.dev.avalara.io
 *.cgs02.sbx.us-west3.gcp.avalara.io
@@ -2040,3 +2044,5 @@ zincron-sbx.midgard.avalara.io
 zincron.midgard.avalara.io
 zincron.midgard.qa.avalara.io
 zincron.midgard.stg.avalara.io
+zuora-basic.dev.avalara.io
+zuora-iia.dev.avalara.io

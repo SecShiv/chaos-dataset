@@ -88,6 +88,7 @@
 *.drand.cloudflare.com
 *.editor.cloudflare.com
 *.editor-staging.cloudflare.com
+*.escalations.discord.cloudflare.com
 *.ethereum.cloudflare.com
 *.fonts.cloudflare.com
 *.fortran.demos.cloudflare.com
@@ -104,6 +105,7 @@
 *.goldilocks-ent.research.cloudflare.com
 *.goldilocks-free.research.cloudflare.com
 *.goldilocks-pro.research.cloudflare.com
+*.graphql.cloudflare.com
 *.h3.speed.cloudflare.com
 *.helper.prio.research.cloudflare.com
 *.href.cloudflare.com
@@ -206,6 +208,7 @@
 *.roughtime.cloudflare.com
 *.rpki.cloudflare.com
 *.run.ai.cloudflare.com
+*.sandbox.cloudflare.com
 *.sat-dev.pat-issuer.cloudflare.com
 *.sat.pat-issuer.cloudflare.com
 *.secondary.cloudflare.com
@@ -229,6 +232,7 @@
 *.staging.pages.cloudflare.com
 *.staging.realtime.cloudflare.com
 *.staging.sparrow.cloudflare.com
+*.staging.speed.cloudflare.com
 *.staging.support.cloudflare.com
 *.static-canary.dash.staging.cloudflare.com
 *.static.dash.cloudflare.com
@@ -8784,6 +8788,7 @@ erry.ns.cloudflare.com
 es.cloudflare.com
 es-es.www.cloudflare.com
 es-la.www.cloudflare.com
+escalations.discord.cloudflare.com
 essica.ns.cloudflare.com
 eth0.omsdp14002.1-223-207.cloudflare.com
 ethan.ns.cloudflare.com
@@ -10349,6 +10354,7 @@ saml-auto.labs.cloudflare.com
 saml-auto.labs-staging.cloudflare.com
 saml-sso-auto.labs.cloudflare.com
 saml-sso-auto.labs-staging.cloudflare.com
+sandbox.cloudflare.com
 sandbox.one.dash.cloudflare.com
 sandra.ns.cloudflare.com
 sandy.ns.cloudflare.com
@@ -18597,3 +18603,7 @@ ziggy.ns.cloudflare.com
 zita.ns.cloudflare.com
 zlnvl.tw.cdn.cloudflare.com
 zod.ns.cloudflare.com
+zoe.ns.cloudflare.com
+ztx-bff-staging.teams.cloudflare.com
+ztx-bff.teams.cloudflare.com
+ztx-webhooks.one.dash.cloudflare.com

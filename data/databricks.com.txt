@@ -110,6 +110,7 @@
 *.serving.dev.databricks.com
 *.serving.staging.cloud.databricks.com
 *.sl.eu-central-1.cloud.databricks.com
+*.sl.us-east-1.staging.cloud.databricks.com
 *.sl.us-west-2.cloud.databricks.com
 *.staging.cloud.databricks.com
 *.staging.gcp.databricks.com
@@ -1030,4 +1031,3 @@ zippy-regional.gcp-us-west1.shards.managed.prod.ns.databricks.com
 zippy-regional.gcp-us-west4.shards.managed.prod.ns.databricks.com
 zippy-regional.mumbai-prod.shards.managed.prod.ns.databricks.com
 zippy-regional.tokyo-prod.shards.managed.prod.ns.databricks.com
-zoom-notifications.dev.bse.corp.databricks.com
