@@ -265,6 +265,7 @@
 *.q.cloud.checkpoint.com
 *.q.portal.checkpoint.com
 *.s1c-proxy.ap.portal.checkpoint.com
+*.s1c-proxy.ca.portal.checkpoint.com
 *.s1c-proxy.dev-cloudinfra-gw.ap.portal.checkpoint.com
 *.s1c-proxy.in.portal.checkpoint.com
 *.s1c-proxy.portal.checkpoint.com
@@ -8197,6 +8198,8 @@ protect.checkpoint.com
 protected-shopperai.dev.i2.checkpoint.com
 protected-vf--aiguard-shopperai.dev.i2.checkpoint.com
 proxy-scan1.checkpoint.com
+proxy-service-stg-aue.datatube.checkpoint.com
+proxy-service-stg-aus.datatube.checkpoint.com
 psmaestrolab.checkpoint.com
 ptcs.checkpoint.com
 ptcs-stg.checkpoint.com
@@ -8386,6 +8389,8 @@ staging.us.checkpoint.com
 starbucks.us.checkpoint.com
 static.cloud.checkpoint.com
 status.checkpoint.com
+stg-aue.datatube.checkpoint.com
+stg-aus.datatube.checkpoint.com
 stg.i2.checkpoint.com
 store.checkpoint.com
 store-a1.us.checkpoint.com
@@ -8423,6 +8428,8 @@ suppportcontent.checkpoint.com
 sus-s.us.checkpoint.com
 svaas.test.portal.checkpoint.com
 svaas.uk.portal.checkpoint.com
+swagger-aue-stg.az.kube1.iaas.checkpoint.com
+swagger-weu-stg.az.kube1.iaas.checkpoint.com
 tatu.checkpoint.com
 tatu2.checkpoint.com
 tatu3.checkpoint.com
@@ -8704,3 +8711,5 @@ zerotouch.checkpoint.com
 zerotouch-demo.checkpoint.com
 zldc-il.checkpoint.com
 zonealarm.com.g01.checkpoint.com
+zoom.checkpoint.com
+zta-saseqa.checkpoint.com

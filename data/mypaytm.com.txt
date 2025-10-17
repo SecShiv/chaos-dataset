@@ -62,6 +62,7 @@
 *.internal.ap-south-1.staging.ppbl.risk.pai.mypaytm.com
 *.internal.ap-south-1.staging.push.gm.pai.mypaytm.com
 *.internal.ap-south-1.staging.widget.mypaytm.com
+*.internal.me-central-1.production.lending-uae.risk.pai.mypaytm.com
 *.internal.parser.cdst.cdp.mypaytm.com
 *.internal.ppsl.mypaytm.com
 *.internal.production.cdst.cdp.mypaytm.com
@@ -195,6 +196,7 @@ engage.pai.mypaytm.com
 engage.staging.pai.mypaytm.com
 express-middleware-prod.mypaytm.com
 express-middleware-stg.mypaytm.com
+face-dedup.mypaytm.com
 fileshare.mypaytm.com
 fp.mypaytm.com
 gate.spinnaker.mypaytm.com
@@ -252,6 +254,7 @@ internal.ap-south-1.staging.push.gm.pai.mypaytm.com
 internal.ap-south-1.staging.widget.mypaytm.com
 internal.ap-south-1.test.sre.risk.pai.mypaytm.com
 internal.ap-south-2.production-dr.ppbl.risk.pai.mypaytm.com
+internal.me-central-1.production.lending-uae.risk.pai.mypaytm.com
 internal.parser.cdst.cdp.mypaytm.com
 internal.production.cdst.cdp.mypaytm.com
 internal.production.dre.cdp.mypaytm.com
@@ -283,6 +286,7 @@ kubeflowtest.mypaytm.com
 leaderboard.mypaytm.com
 learning.mypaytm.com
 lending.mypaytm.com
+lending-uae.risk.pai.mypaytm.com
 loudbagel.mypaytm.com
 mayassar-prod.mypaytm.com
 merchant-engage.pai.mypaytm.com
@@ -405,6 +409,3 @@ wikistaging.mypaytm.com
 www.carnelian.mypaytm.com
 www.itam.mypaytm.com
 www.maquette-audit.mypaytm.com
-zap.ca.mypaytm.com
-zap.in.mypaytm.com
-zoho.mypaytm.com

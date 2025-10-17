@@ -665,6 +665,8 @@ anomalo-ingest.dev.twilio.com
 anomalo-ingest.stage-us1.twilio.com
 anomalo-ingest.us1.twilio.com
 aota-twl-prod-notif-out.twilio.com
+apawar-mtls-test-app.twilio.com
+apawar-mtls-test-app.data-platform.dev-us1.dev.kafka-v1.twilio.com
 apex.stage.twilio.com
 api.twilio.com
 api-alb-test.dev.twilio.com
@@ -1753,6 +1755,8 @@ jp1.twilio.com
 jp2.twilio.com
 jupyter.us1.twilio.com
 justcallv1.sip.us1.twilio.com
+jverdugo-test-app.twilio.com
+jverdugo-test-app.aws-classic.dev-us1.dev.kafka-v1.twilio.com
 kafka--api-test-client.dataplatform.dev-us1.dev.twilio.com
 kafka-mtls-test-app.twilio.com
 kafka-mtls-test-app.aws-classic.dev-us1.dev.kafka-v1.twilio.com
@@ -1956,6 +1960,8 @@ mqtt-sync.ie1.twilio.com
 mqtt-sync.stage-us1.twilio.com
 mqtt-sync.us1.twilio.com
 msg-mdp-spark-ui.us1.twilio.com
+mtls-akshay-test-app.twilio.com
+mtls-akshay-test-app.aws-classic.dev-us1.dev.kafka-v1.twilio.com
 mumbai.stage-au1.twilio.com
 mumbai.stage-ie1.twilio.com
 mumbai.stage-in1.twilio.com
@@ -2743,6 +2749,7 @@ status.twilio.com
 store.twilio.com
 storybook.prod.twilio.com
 studio.twilio.com
+studio-link-shortening.prod.twilio.com
 studio-slo-e2e-tester.twilio.com
 studio-slo-e2e-tester.outside.us1.prod.kafka-v1.twilio.com
 supernetwork.dev-us1.eak.twilio.com

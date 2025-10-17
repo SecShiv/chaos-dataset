@@ -274,6 +274,7 @@
 *.crce185.ap-seast-1-1.ec2.cloud.redislabs.com
 *.crce197.us-east-2-1.ec2.cloud.redislabs.com
 *.crce198.eu-central-1-3.ec2.cloud.redislabs.com
+*.crce199.us-west-2-2.ec2.cloud.redislabs.com
 *.crce202.eu-west-3-1.ec2.cloud.redislabs.com
 *.crce204.eu-west-2-3.ec2.cloud.redislabs.com
 *.crce206.ap-south-1-1.ec2.cloud.redislabs.com
@@ -294,6 +295,7 @@
 *.erantest14.us-east-1-3.ec2.cloud.redislabs.com
 *.erantest15.us-east-1-mz.ec2.cloud.redislabs.com
 *.erantest17.us-east-1-mz.ec2.cloud.redislabs.com
+*.erantest2.us-central-1.gce.cloud.redislabs.com
 *.fcrce171.ap-south-1-1.ec2.cloud.redislabs.com
 *.fcrce172.us-east-1-1.ec2.cloud.redislabs.com
 *.fcrce173.eu-west-1-1.ec2.cloud.redislabs.com
@@ -513,6 +515,7 @@
 *.internal.crce185.ap-seast-1-1.ec2.cloud.redislabs.com
 *.internal.crce197.us-east-2-1.ec2.cloud.redislabs.com
 *.internal.crce198.eu-central-1-3.ec2.cloud.redislabs.com
+*.internal.crce199.us-west-2-2.ec2.cloud.redislabs.com
 *.internal.crce202.eu-west-3-1.ec2.cloud.redislabs.com
 *.internal.crce204.eu-west-2-3.ec2.cloud.redislabs.com
 *.internal.crce206.ap-south-1-1.ec2.cloud.redislabs.com
@@ -528,6 +531,7 @@
 *.internal.erantest14.us-east-1-3.ec2.cloud.redislabs.com
 *.internal.erantest15.us-east-1-mz.ec2.cloud.redislabs.com
 *.internal.erantest17.us-east-1-mz.ec2.cloud.redislabs.com
+*.internal.erantest2.us-central-1.gce.cloud.redislabs.com
 *.internal.fcrce171.ap-south-1-1.ec2.cloud.redislabs.com
 *.internal.fcrce172.us-east-1-1.ec2.cloud.redislabs.com
 *.internal.fcrce173.eu-west-1-1.ec2.cloud.redislabs.com
@@ -1175,6 +1179,7 @@ cloud-cluster-exporter.qa.redislabs.com
 cloud-db-service-api.k8s-aa.sm-qa.qa.redislabs.com
 cloud-rdi-infra-manager.k8s-idm.sm-qa.qa.redislabs.com
 cloud-rdi-infra.k8s-dev-uirefresh.sm-qa.qa.redislabs.com
+cloud-rdi-infra.k8s-rcp.sm-qa.qa.redislabs.com
 cloud.ui.dev.redislabs.com
 cls-dev22-westeu-mz.azure.cloud.redislabs.com
 cls-dev23-westeu-mz.azure.cloud.redislabs.com
@@ -1218,6 +1223,7 @@ crce182.ap-south-1-1.ec2.cloud.redislabs.com
 crce185.ap-seast-1-1.ec2.cloud.redislabs.com
 crce197.us-east-2-1.ec2.cloud.redislabs.com
 crce198.eu-central-1-3.ec2.cloud.redislabs.com
+crce199.us-west-2-2.ec2.cloud.redislabs.com
 crce202.eu-west-3-1.ec2.cloud.redislabs.com
 crce204.eu-west-2-3.ec2.cloud.redislabs.com
 crce206.ap-south-1-1.ec2.cloud.redislabs.com
@@ -1263,6 +1269,7 @@ erantest13.us-east-1-3.ec2.cloud.redislabs.com
 erantest14.us-east-1-3.ec2.cloud.redislabs.com
 erantest15.us-east-1-mz.ec2.cloud.redislabs.com
 erantest17.us-east-1-mz.ec2.cloud.redislabs.com
+erantest2.us-central-1.gce.cloud.redislabs.com
 eu-cluster.openshift.qa.redislabs.com
 events.redislabs.com
 exazen.cs.redislabs.com
@@ -2636,3 +2643,7 @@ www.grafana.cs.redislabs.com
 www.keybase.redislabs-training.redislabs.com
 www.test00929c45.qa.redislabs.com
 yanivh.cs.redislabs.com
+yanivh2.cs.redislabs.com
+yanivh5.cs.redislabs.com
+yonicluster.cs.redislabs.com
+yuval-openshift3-east.openshift-qa.redislabs.com

@@ -10,6 +10,7 @@
 *.api.partner.identity-gcp-s-compute.gcp.yahoo.cloud
 *.api.rhapsody-infra-aws-dev.aws.yahoo.cloud
 *.api.umapi.identity-gcp-s-compute.gcp.yahoo.cloud
+*.asc.identity-gcp-p-compute.gcp.yahoo.cloud
 *.auctions-tw-desktop-k8s.media.yahoo.cloud
 *.centraltech-nonprod1-use1.omega.aws.yahoo.cloud
 *.centraltech-nonprod1-usea5.omega.gcp.yahoo.cloud
@@ -734,6 +735,3 @@ yc.media-data-gcp-metastore-prd.gcp.yahoo.cloud
 yc.media-data-gcp-metastore-stg.gcp.yahoo.cloud
 ycpi.gcp.yahoo.cloud
 ycpi.ostk.yahoo.cloud
-zts-us-east-1.identityb2b-aws-prod.aws.yahoo.cloud
-zts-us-west-2.identityb2b-aws-prod.aws.yahoo.cloud
-zts.identityb2b-aws-prod.aws.yahoo.cloud

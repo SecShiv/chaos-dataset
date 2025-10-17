@@ -346,6 +346,7 @@
 *.demo.perf3m.my.pc-rnd.salesforce.com
 *.demo.perf3o.my.pc-rnd.salesforce.com
 *.demo.perf4c.my.pc-rnd.salesforce.com
+*.demo.perf4e.my.pc-rnd.salesforce.com
 *.demo.stagecom.my.pc-rnd.salesforce.com
 *.demo.stagecomtip.my.pc-rnd.salesforce.com
 *.demo.test1.my.pc-rnd.salesforce.com
@@ -1163,6 +1164,8 @@
 *.free.perf3m.my.pc-rnd.salesforce.com
 *.free.perf3o.my.pc-rnd.salesforce.com
 *.free.perf3p.my.pc-rnd.salesforce.com
+*.free.perf4d.my.pc-rnd.salesforce.com
+*.free.perf4e.my.pc-rnd.salesforce.com
 *.free.stagecom.my.pc-rnd.salesforce.com
 *.free.stagecomtip.my.pc-rnd.salesforce.com
 *.free.test1.my.pc-rnd.salesforce.com
@@ -1594,6 +1597,7 @@
 *.patch.perf3n.my.pc-rnd.salesforce.com
 *.patch.perf3o.my.pc-rnd.salesforce.com
 *.patch.perf3p.my.pc-rnd.salesforce.com
+*.patch.perf4d.my.pc-rnd.salesforce.com
 *.patch.stagecom.my.pc-rnd.salesforce.com
 *.patch.test1.my.pc-rnd.salesforce.com
 *.patch.test10.my.pc-rnd.salesforce.com
@@ -2014,6 +2018,8 @@
 *.perf3o.my.pc-rnd.salesforce.com
 *.perf3p.my.pc-rnd.salesforce.com
 *.perf4c.my.pc-rnd.salesforce.com
+*.perf4d.my.pc-rnd.salesforce.com
+*.perf4e.my.pc-rnd.salesforce.com
 *.performance-001.api.commercecloud.salesforce.com
 *.quip.salesforce.com
 *.res102.dev1.pc-rnd.pc-aws.salesforce.com
@@ -2089,6 +2095,8 @@
 *.sandbox.perf3o.my.pc-rnd.salesforce.com
 *.sandbox.perf3p.my.pc-rnd.salesforce.com
 *.sandbox.perf4c.my.pc-rnd.salesforce.com
+*.sandbox.perf4d.my.pc-rnd.salesforce.com
+*.sandbox.perf4e.my.pc-rnd.salesforce.com
 *.sandbox.stagecom.my.pc-rnd.salesforce.com
 *.sandbox.stagecomtip.my.pc-rnd.salesforce.com
 *.sandbox.stg.dx.commercecloud.salesforce.com
@@ -2239,6 +2247,7 @@
 *.sfdctest.perf3o.my.pc-rnd.salesforce.com
 *.sfdctest.perf3p.my.pc-rnd.salesforce.com
 *.sfdctest.perf4b.my.pc-rnd.salesforce.com
+*.sfdctest.perf4e.my.pc-rnd.salesforce.com
 *.sfdctest.stagecom.my.pc-rnd.salesforce.com
 *.sfdctest.test1.my.pc-rnd.salesforce.com
 *.sfdctest.test11.my.pc-rnd.salesforce.com
@@ -2337,6 +2346,7 @@
 *.trailblaze.perf3p.my.pc-rnd.salesforce.com
 *.trailblaze.perf4b.my.pc-rnd.salesforce.com
 *.trailblaze.perf4c.my.pc-rnd.salesforce.com
+*.trailblaze.perf4d.my.pc-rnd.salesforce.com
 *.trailblaze.stagecom.my.pc-rnd.salesforce.com
 *.trailblaze.stagecomtip.my.pc-rnd.salesforce.com
 *.trailblaze.test1.my.pc-rnd.salesforce.com
@@ -20614,6 +20624,8 @@ cloudatlas.perf3n.pc-rnd.salesforce.com
 cloudatlas.perf3o.pc-rnd.salesforce.com
 cloudatlas.perf3p.pc-rnd.salesforce.com
 cloudatlas.perf4b.pc-rnd.salesforce.com
+cloudatlas.perf4d.pc-rnd.salesforce.com
+cloudatlas.perf4e.pc-rnd.salesforce.com
 cloudatlas.prod.pc-rnd.salesforce.com
 cloudatlas.sdev1.pc-rnd.salesforce.com
 cloudatlas.stagecom.pc-rnd.salesforce.com
@@ -57206,6 +57218,7 @@ login.perf3n.pc-rnd.salesforce.com
 login.perf3o.pc-rnd.salesforce.com
 login.perf3p.pc-rnd.salesforce.com
 login.perf4b.pc-rnd.salesforce.com
+login.perf4e.pc-rnd.salesforce.com
 login.preprod-a.bluetail.salesforce.com
 login.preprod-b.bluetail.salesforce.com
 login.preprod.bluetail.salesforce.com
@@ -61521,6 +61534,8 @@ sdb7.perf1q.pc-rnd.pc-aws.salesforce.com
 sdb7.test1.pc-rnd.pc-aws.salesforce.com
 sdb716.perf4c.sfdc-x579t5.pc-rnd.salesforce.com
 sdb716.test1.sfdc-x579t5.pc-rnd.salesforce.com
+sdb717.perf4d.sfdc-x579t5.pc-rnd.salesforce.com
+sdb718.perf4e.sfdc-x579t5.pc-rnd.salesforce.com
 sdb8.fit1.pc-rnd.pc-aws.salesforce.com
 sdb8.giadev1.sfdc-l4ckx.pc-rnd.salesforce.com
 sdb8.perf1r.pc-rnd.pc-aws.salesforce.com
@@ -62558,6 +62573,7 @@ sfdc-x579t5.e.perf3m.my.pc-rnd.salesforce.com
 sfdc-x579t5.e.perf3o.my.pc-rnd.salesforce.com
 sfdc-x579t5.e.perf3p.my.pc-rnd.salesforce.com
 sfdc-x579t5.e.perf4b.my.pc-rnd.salesforce.com
+sfdc-x579t5.e.perf4e.my.pc-rnd.salesforce.com
 sfdc-x579t5.e.stagecom.my.pc-rnd.salesforce.com
 sfdc-x579t5.e.test1.my.pc-rnd.salesforce.com
 sfdc-x579t5.ed.perf1.my.pc-rnd.salesforce.com
@@ -62638,6 +62654,8 @@ sfdc-x579t5.f.perf3k.my.pc-rnd.salesforce.com
 sfdc-x579t5.f.perf3m.my.pc-rnd.salesforce.com
 sfdc-x579t5.f.perf3o.my.pc-rnd.salesforce.com
 sfdc-x579t5.f.perf3p.my.pc-rnd.salesforce.com
+sfdc-x579t5.f.perf4d.my.pc-rnd.salesforce.com
+sfdc-x579t5.f.perf4e.my.pc-rnd.salesforce.com
 sfdc-x579t5.f.test1.my.pc-rnd.salesforce.com
 sfdc-x579t5.falconomt1.cloudatlas.pc-rnd.salesforce.com
 sfdc-x579t5.falconomt1.login.pc-rnd.salesforce.com
@@ -62703,6 +62721,7 @@ sfdc-x579t5.o.perf3k.my.pc-rnd.salesforce.com
 sfdc-x579t5.o.perf3m.my.pc-rnd.salesforce.com
 sfdc-x579t5.o.perf3o.my.pc-rnd.salesforce.com
 sfdc-x579t5.o.perf4c.my.pc-rnd.salesforce.com
+sfdc-x579t5.o.perf4e.my.pc-rnd.salesforce.com
 sfdc-x579t5.o.test1.my.pc-rnd.salesforce.com
 sfdc-x579t5.oordr1.cloudatlas.pc-rnd.salesforce.com
 sfdc-x579t5.oordr1.login.pc-rnd.salesforce.com
@@ -62762,6 +62781,7 @@ sfdc-x579t5.p.perf3l.my.pc-rnd.salesforce.com
 sfdc-x579t5.p.perf3n.my.pc-rnd.salesforce.com
 sfdc-x579t5.p.perf3o.my.pc-rnd.salesforce.com
 sfdc-x579t5.p.perf3p.my.pc-rnd.salesforce.com
+sfdc-x579t5.p.perf4d.my.pc-rnd.salesforce.com
 sfdc-x579t5.p.test1.my.pc-rnd.salesforce.com
 sfdc-x579t5.perf.cloudatlas.salesforce.com
 sfdc-x579t5.perf1.cloudatlas.pc-rnd.salesforce.com
@@ -62919,6 +62939,10 @@ sfdc-x579t5.perf3p.login.pc-rnd.salesforce.com
 sfdc-x579t5.perf4b.cloudatlas.pc-rnd.salesforce.com
 sfdc-x579t5.perf4b.login.pc-rnd.salesforce.com
 sfdc-x579t5.perf4b.test.pc-rnd.salesforce.com
+sfdc-x579t5.perf4d.cloudatlas.pc-rnd.salesforce.com
+sfdc-x579t5.perf4e.cloudatlas.pc-rnd.salesforce.com
+sfdc-x579t5.perf4e.login.pc-rnd.salesforce.com
+sfdc-x579t5.perf4e.test.pc-rnd.salesforce.com
 sfdc-x579t5.s.falconomt1.my.pc-rnd.salesforce.com
 sfdc-x579t5.s.oordr1.my.pc-rnd.salesforce.com
 sfdc-x579t5.s.perf1.my.pc-rnd.salesforce.com
@@ -62971,6 +62995,7 @@ sfdc-x579t5.s.perf3n.my.pc-rnd.salesforce.com
 sfdc-x579t5.s.perf3o.my.pc-rnd.salesforce.com
 sfdc-x579t5.s.perf3p.my.pc-rnd.salesforce.com
 sfdc-x579t5.s.perf4c.my.pc-rnd.salesforce.com
+sfdc-x579t5.s.perf4e.my.pc-rnd.salesforce.com
 sfdc-x579t5.s.test1.my.pc-rnd.salesforce.com
 sfdc-x579t5.sc.falconomt1.my.pc-rnd.salesforce.com
 sfdc-x579t5.sc.oordr1.my.pc-rnd.salesforce.com
@@ -63086,6 +63111,7 @@ sfdc-x579t5.t.perf3o.my.pc-rnd.salesforce.com
 sfdc-x579t5.t.perf3p.my.pc-rnd.salesforce.com
 sfdc-x579t5.t.perf4b.my.pc-rnd.salesforce.com
 sfdc-x579t5.t.perf4c.my.pc-rnd.salesforce.com
+sfdc-x579t5.t.perf4d.my.pc-rnd.salesforce.com
 sfdc-x579t5.t.test1.my.pc-rnd.salesforce.com
 sfdc-x579t5.test1.cloudatlas.pc-rnd.salesforce.com
 sfdc-x579t5.test1.login.pc-rnd.salesforce.com
@@ -68095,6 +68121,7 @@ test.perf3k.pc-rnd.salesforce.com
 test.perf3l.pc-rnd.salesforce.com
 test.perf3o.pc-rnd.salesforce.com
 test.perf4b.pc-rnd.salesforce.com
+test.perf4e.pc-rnd.salesforce.com
 test.prod.pc-rnd.salesforce.com
 test.sdev1.pc-rnd.salesforce.com
 test.stagecom.pc-rnd.salesforce.com
@@ -69697,6 +69724,7 @@ webto.perf3n.pc-rnd.salesforce.com
 webto.perf3o.pc-rnd.salesforce.com
 webto.perf3p.pc-rnd.salesforce.com
 webto.perf4b.pc-rnd.salesforce.com
+webto.perf4e.pc-rnd.salesforce.com
 webto.prod.pc-rnd.salesforce.com
 webto.sdev1.pc-rnd.salesforce.com
 webto.stagecom.pc-rnd.salesforce.com

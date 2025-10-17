@@ -196,6 +196,7 @@
 *.aks.sceplatform.microsoft.com
 *.aksinternal.cbci.microsoft.com
 *.allanestev3s.myworkspace.microsoft.com
+*.alpha.pie-edge.microsoft.com
 *.alpine.microsoft.com
 *.ameint.cts.speech.microsoft.com
 *.ameppe.mgmt.rs.amewd.microsoft.com
@@ -2006,6 +2007,7 @@
 *.messaging-server.cloudmessaging.edge.microsoft.com
 *.metadst.int.communication.microsoft.com
 *.metadst.prod.communication.microsoft.com
+*.metarp-int.mp.microsoft.com
 *.metarp.mp.microsoft.com
 *.mfavalidation-ppe.auth.microsoft.com
 *.mgmt.class-dev.microsoft.com
@@ -9136,6 +9138,7 @@
 *.z4e.msit-datawarehouse.fabric.microsoft.com
 *.z4e.msit-dfs.fabric.microsoft.com
 *.z4e.msit-onelake.fabric.microsoft.com
+*.z4e.msit-sql.cosmos.fabric.microsoft.com
 *.z4e.msitgraphql.fabric.microsoft.com
 *.z4e.msituserdatafunctions.fabric.microsoft.com
 *.z4e.onelake.fabric.microsoft.com
@@ -9814,6 +9817,7 @@
 *.z5c.dxt-sql.cosmos.fabric.microsoft.com
 *.z5c.dxt-table.fabric.microsoft.com
 *.z5c.dxtgraphql.fabric.microsoft.com
+*.z5c.dxtuserdatafunctions.fabric.microsoft.com
 *.z5c.graphql.fabric.microsoft.com
 *.z5c.graphql.fabric-df.microsoft.com
 *.z5c.msit-blob.fabric.microsoft.com
@@ -10214,6 +10218,7 @@
 *.z64.msit-datawarehouse.fabric.microsoft.com
 *.z64.msit-dfs.fabric.microsoft.com
 *.z64.msit-onelake.fabric.microsoft.com
+*.z64.msit-sql.cosmos.fabric.microsoft.com
 *.z64.msitgraphql.fabric.microsoft.com
 *.z64.msituserdatafunctions.fabric.microsoft.com
 *.z64.onelake.fabric.microsoft.com
@@ -29795,6 +29800,7 @@ almscsdevsf.support.microsoft.com
 aloha-experiment-clientcert-ppe.microsoft.com
 alpha.1espop.microsoft.com
 alpha.exchange.microsoft.com
+alpha.pie-edge.microsoft.com
 alpha.ppe.paymentshub.microsoft.com
 alpha.rave.microsoft.com
 alpha.sqm.microsoft.com
@@ -30141,6 +30147,7 @@ anaqua.partners.extranet.microsoft.com
 anaquappe.partners.extranet.microsoft.com
 anaquapreview.parttest.extranettest.microsoft.com
 anaquaprod.partners.extranet.microsoft.com
+anaquasftp.ipgreporting.microsoft.com
 anaquastg.partners.extranet.microsoft.com
 anaquastg.parttest.extranettest.microsoft.com
 anaquauat.parttest.extranettest.microsoft.com
@@ -31213,6 +31220,7 @@ apippe.gethelp.services.microsoft.com
 apippe.transformerppe.microsoft.com
 apis-admin.apac.titles.prod.mos.microsoft.com
 apis-admin.eur.titles.prod.mos.microsoft.com
+apis-admin.nam.canary.titles.gccm.mos.microsoft.com
 apis-admin.nam.canary.titles.msit.mos.microsoft.com
 apis-admin.nam.canary.titles.prod.mos.microsoft.com
 apis-admin.nam.canary.titles.sdf.mos.microsoft.com
@@ -31223,6 +31231,7 @@ apis-admin.nam.titles.sdf.mos.microsoft.com
 apis-admin.nam.titles.test.mos.microsoft.com
 apis-catalog.apac.titles.prod.mos.microsoft.com
 apis-catalog.eur.titles.prod.mos.microsoft.com
+apis-catalog.nam.canary.titles.gccm.mos.microsoft.com
 apis-catalog.nam.canary.titles.msit.mos.microsoft.com
 apis-catalog.nam.canary.titles.prod.mos.microsoft.com
 apis-catalog.nam.canary.titles.sdf.mos.microsoft.com
@@ -31241,6 +31250,7 @@ apis-controlplane.nam.titles.test.mos.microsoft.com
 apis-dev.cloudaccelerator.microsoft.com
 apis-manifest.apac.titles.prod.mos.microsoft.com
 apis-manifest.eur.titles.prod.mos.microsoft.com
+apis-manifest.nam.canary.titles.gccm.mos.microsoft.com
 apis-manifest.nam.canary.titles.msit.mos.microsoft.com
 apis-manifest.nam.canary.titles.prod.mos.microsoft.com
 apis-manifest.nam.canary.titles.sdf.mos.microsoft.com
@@ -45106,6 +45116,7 @@ auto-msitwcus-pbi-kv-httpszonec1.zc1.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonec2.zc2.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonec3.zc3.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonec5.zc5.w.msitapi.fabric.microsoft.com
+auto-msitwcus-pbi-kv-httpszonec6.zc6.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonec7.zc7.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszonec9.zc9.w.msitapi.fabric.microsoft.com
 auto-msitwcus-pbi-kv-httpszoneca.zca.w.msitapi.fabric.microsoft.com
@@ -78256,6 +78267,7 @@ clientauth.geneva.keyvault.icem.microsoft.com
 clientauth.geneva.keyvault.storedvalue.cp.microsoft.com
 clientauth.geneva.keyvault.storedvaluecore.cp.microsoft.com
 clientauth.mcapirecipients-aircapi.commerce.microsoft.com
+clientauth.msaccountenrollmentservicesapi.mooncake.microsoft.com
 clientauth.order.commerce.microsoft.com
 clientauth.paymodexternal.cp.microsoft.com
 clientauth.runner.invoicing.commerce.microsoft.com
@@ -83120,6 +83132,7 @@ dcsfrinv01.northamerica.corp.microsoft.com
 dcsint.cp.microsoft.com
 dcsni.substrateintelligencetest.microsoft.com
 dcsrdazersf1.corp.microsoft.com
+dcsui.cp.microsoft.com
 dctfe.maps.glbdns.microsoft.com
 dctfe.maps.glbdns2.microsoft.com
 dctfecn.maps.glbdns2.microsoft.com
@@ -83568,6 +83581,7 @@ dev.adminnotification.teams.microsoft.com
 dev.adminportal.myworkspace.microsoft.com
 dev.ae-frontend.speech-test.microsoft.com
 dev.aem.microsoft.com
+dev.agentassist.speech-test.microsoft.com
 dev.agreements.microsoft.com
 dev.api-dev.support.microsoft.com
 dev.api.admin.communityleader.microsoft.com
@@ -83590,6 +83604,7 @@ dev.api.universaldealassistance.microsoft.com
 dev.applicationinsights.microsoft.com
 dev.appsuggestions.teams.microsoft.com
 dev.artifacts.teams-nonprod.microsoft.com
+dev.assist.speech-test.microsoft.com
 dev.assistants.microsoft.com
 dev.automation-insights.ofun.office.microsoft.com
 dev.automation.sfbautomation.microsoft.com
@@ -85106,6 +85121,7 @@ dpcregistration.microsoft.com
 dpcregistrationmain.microsoft.com
 dpcregistrationppe.microsoft.com
 dpcregistrationship.microsoft.com
+dpcregistrationstaging.microsoft.com
 dpcstage.microsoft.com
 dpcuat.microsoft.com
 dpcuatpme.microsoft.com
@@ -86322,6 +86338,7 @@ edgewelcomecdn.microsoft.com
 edgfinancebi.redmond.corp.microsoft.com
 edggreenteam.corp.microsoft.com
 edgnamespacetest.microsoft.com
+edgnc.stream.event.microsoft.com
 edgsassetinventory-inxileentertainment.core.wdgae.microsoft.com
 edgsassetinventory.core.wdgae.microsoft.com
 edgsec-analytics-orchestrator.cdgisa.microsoft.com
@@ -89927,6 +89944,7 @@ fh-ingress-ppe-wcus.foundershub.startups.microsoft.com
 fh-ingress-ppe-wus2.foundershub-ppe.startups.microsoft.com
 fh-ingress-ppe-wus2.foundershub.startups.microsoft.com
 fh-ingress-prod-eus2.foundershub.startups.microsoft.com
+fh-ingress-scus.foundershub-ppecny.startups.microsoft.com
 fi-fidepot.sourcedepot.corp.microsoft.com
 fi-fidepot.sys-ntgroup.ntdev.microsoft.com
 fi.chan.db2.cb3.glbdns.microsoft.com
@@ -90805,6 +90823,7 @@ fusebot.m365.microsoft.com
 fusion.microsoft.com
 fusion-ppe.microsoft.com
 fusion-test.microsoft.com
+fusion.svc.cloud.dev.microsoft.com
 future.api.communityleader.microsoft.com
 future.communityleader.microsoft.com
 futurebillingasset.cp.microsoft.com
@@ -91679,6 +91698,7 @@ govaz-01.aps.infra.gcc.teams.microsoft.com
 govaz-02.aps.infra.gcc.teams.microsoft.com
 govdirect.microsoft.com
 governance.redmond.corp.microsoft.com
+governancehub.microsoft.com
 governmentleaderssummit.microsoft.com
 govscreening.microsoft.com
 govtx-01.aps.infra.gcc.teams.microsoft.com
@@ -92468,6 +92488,10 @@ hfukumoto01.myworkspace.microsoft.com
 hghaith.myworkspace.microsoft.com
 hi-indepot.sourcedepot.corp.microsoft.com
 hi-indepot.sys-ntgroup.ntdev.microsoft.com
+hierarchy-int.teams.microsoft.com
+hierarchy-msft.teams.microsoft.com
+hierarchy-test.teams.microsoft.com
+hierarchy.teams.microsoft.com
 highlanderagentsitpub.parttest.extranettest.microsoft.com
 highlanderapjagentsit.parttest.extranettest.microsoft.com
 highlanderapjpubsit.parttest.extranettest.microsoft.com
@@ -94883,6 +94907,7 @@ ingest-trd-mgbkued1eu3vdpthpp.z4.dev.kusto.fabric.microsoft.com
 ingest-trd-mj80pnxzb4t6hdspgr.z0.dev.kusto.fabric.microsoft.com
 ingest-trd-mjhjez15y7c82hgsq6.z1.dev.kusto.fabric.microsoft.com
 ingest-trd-mnmkjuy31utwazhrp4.z3.kusto.fabric.microsoft.com
+ingest-trd-mnuhr66rbbj8ywme6c.z2.kusto.fabric.microsoft.com
 ingest-trd-mshzdxa4fzvnstmefj.z1.kusto.fabric.microsoft.com
 ingest-trd-msq3byuftvssgnsm9b.z5.dev.kusto.fabric.microsoft.com
 ingest-trd-mw7g7yff25rmb0ue18.z8.kusto.fabric.microsoft.com
@@ -95012,6 +95037,7 @@ ingest-trd-vkxtu6hxz3k8vcmqk4.z9.kusto.fabric.microsoft.com
 ingest-trd-vm53tcb2k8d3s1zvt4.z9.dev.kusto.fabric.microsoft.com
 ingest-trd-vqmgrtc3zyymxf9y2h.z1.dev.kusto.fabric.microsoft.com
 ingest-trd-vrs0ehmvcf53dk9ybg.z5.dev.kusto.fabric.microsoft.com
+ingest-trd-vs7dkqr7v4xf41zccv.z5.kusto.fabric.microsoft.com
 ingest-trd-vxcqk7qxwrzfqpannr.z3.dev.kusto.fabric.microsoft.com
 ingest-trd-w3hsczjbqpegr9dpqe.z1.dev.kusto.fabric.microsoft.com
 ingest-trd-w40g3dvy5ph77698h4.z3.dev.kusto.fabric.microsoft.com
@@ -99587,6 +99613,7 @@ lusredrr1an12z.network.microsoft.com
 lusredrr1an13a.network.microsoft.com
 lusredrr1an13c.network.microsoft.com
 lusredrr1an13d.network.microsoft.com
+lusredrr1an13g.network.microsoft.com
 lusredrr1an13h.network.microsoft.com
 lusredrr1an13j.network.microsoft.com
 lusredrr1an13k.network.microsoft.com
@@ -99725,6 +99752,7 @@ lusredrr1an19s.network.microsoft.com
 lusredrr1an19t.network.microsoft.com
 lusredrr1an19w.network.microsoft.com
 lusredrr1an19y.network.microsoft.com
+lusredrr1an19z.network.microsoft.com
 lusredrr1an1a1.network.microsoft.com
 lusredrr1an1a3.network.microsoft.com
 lusredrr1an1a4.network.microsoft.com
@@ -99864,6 +99892,7 @@ lusredrr1an24v.network.microsoft.com
 lusredrr1an24w.network.microsoft.com
 lusredrr1an24y.network.microsoft.com
 lusredrr1an24z.network.microsoft.com
+lusredrr1an250.network.microsoft.com
 lusredrr1an251.network.microsoft.com
 lusredrr1an253.network.microsoft.com
 lusredrr1an254.network.microsoft.com
@@ -99944,6 +99973,7 @@ lusredrr1an299.network.microsoft.com
 lusredrr1an29a.network.microsoft.com
 lusredrr1an29g.network.microsoft.com
 lusredrr1an29h.network.microsoft.com
+lusredrr1an29i.network.microsoft.com
 lusredrr1an29j.network.microsoft.com
 lusredrr1an29k.network.microsoft.com
 lusredrr1an29l.network.microsoft.com
@@ -100483,6 +100513,7 @@ lustuktk5an10y.network.microsoft.com
 lustuktk5an10z.network.microsoft.com
 lustuktk5an110.network.microsoft.com
 lustuktk5an111.network.microsoft.com
+lustuktk5an112.network.microsoft.com
 lustuktk5an113.network.microsoft.com
 lustuktk5an114.network.microsoft.com
 lustuktk5an116.network.microsoft.com
@@ -104944,6 +104975,10 @@ mdemunwalf5bla.network.microsoft.com
 mdemunwalf5blb.network.microsoft.com
 mdemunwalp541a.network.microsoft.com
 mdemunwalp541b.network.microsoft.com
+mdepdevicemgmt.microsoft.com
+mdepdevicemgmt-ap.microsoft.com
+mdepdevicemgmt-eu.microsoft.com
+mdepdevicemgmt-us.microsoft.com
 mdepextmgmt.microsoft.com
 mdfiletest.redmond.corp.microsoft.com
 mdgdev.redmond.corp.microsoft.com
@@ -105373,6 +105408,7 @@ metadataservice-int.microsoft.com
 metadataservice-prod.microsoft.com
 metadst.int.communication.microsoft.com
 metadst.prod.communication.microsoft.com
+metarp-int.mp.microsoft.com
 metarp.mp.microsoft.com
 meteredsubscriptions.cp.microsoft.com
 meteredsubscriptionsjournal.cp.microsoft.com
@@ -106242,6 +106278,7 @@ mopr1dialtoneauth.esrp.microsoft.com
 mopr2dialtoneauth.esrp.microsoft.com
 mopr3dialtoneauth.esrp.microsoft.com
 moprdialtoneauth.microsoft.com
+mopv2.fasttrack.microsoft.com
 mos.microsoft.com
 moserdfca.msft.scm.microsoft.com
 moservices.microsoft.com
@@ -108514,6 +108551,7 @@ musredrr1an2x2.network.microsoft.com
 musredrr1an2x5.network.microsoft.com
 musredrr1an2x7.network.microsoft.com
 musredrr1an2x8.network.microsoft.com
+musredrr1an2xc.network.microsoft.com
 musredrr1an2xe.network.microsoft.com
 musredrr1an2z1.network.microsoft.com
 musredrr1an2z2.network.microsoft.com
@@ -111657,6 +111695,7 @@ offloctest.partners.extranet.microsoft.com
 offppt11.redmond.corp.microsoft.com
 offppt11.sourcedepot.corp.microsoft.com
 offtools.partners.extranet.microsoft.com
+ogcdev.microsoft.com
 ohf.mantisdev.microsoft.com
 ohf.mantisuat.microsoft.com
 ohmy.redmond.corp.microsoft.com
@@ -115818,6 +115857,7 @@ prd.api-st.teams.microsoft.com
 prd.attend.teams.microsoft.com
 prd.backup.attend.teams.microsoft.com
 prd.backup.bmc.teams.microsoft.com
+prd.bankstatements.microsoft.com
 prd.bmc.teams.microsoft.com
 prd.cascadeauth.microsoft.com
 prd.enablon.ehs.microsoft.com
@@ -116671,6 +116711,7 @@ prodgap0.infra.windows365.microsoft.com
 prodgatewayconfigencryption.corp.microsoft.com
 prodgau0.infra.windows365.microsoft.com
 prodgeu0.infra.windows365.microsoft.com
+prodgna0.infra.windows365.microsoft.com
 prodigy.chan.blu.cb3.glbdns.microsoft.com
 prodigy.co1.cb3.glbdns.microsoft.com
 prodinternalcgw.redmond.corp.microsoft.com
@@ -129883,6 +129924,7 @@ tas-apim-int.teams.microsoft.com
 tas-dogfood.teams.microsoft.com
 tas.exp.microsoft.com
 tas.gcc.teams.microsoft.com
+tas.infra.gcc.teams.microsoft.com
 tas.teams.microsoft.com
 tas02-tsfe-dev.trafficshaping.dsp.mp.microsoft.com
 tas02.pending.sls.update.microsoft.com
@@ -130273,6 +130315,7 @@ test-spla.microsoft.com
 test-test.ustcms.microsoft.com
 test-testinfraapp.apac.titles.prod.mos.microsoft.com
 test-testinfraapp.eur.titles.prod.mos.microsoft.com
+test-testinfraapp.nam.canary.titles.gccm.mos.microsoft.com
 test-testinfraapp.nam.canary.titles.msit.mos.microsoft.com
 test-testinfraapp.nam.canary.titles.prod.mos.microsoft.com
 test-testinfraapp.nam.canary.titles.sdf.mos.microsoft.com
@@ -130390,6 +130433,7 @@ test.keyvault.knowme.services.microsoft.com
 test.kse.microsoft.com
 test.kstd9.cp.microsoft.com
 test.learning-test.teams.microsoft.com
+test.learningapp-1ppreprod.microsoft.com
 test.lgtm.microsoft.com
 test.lrp.corp.microsoft.com
 test.m365billing.microsoft.com
@@ -131282,6 +131326,7 @@ titanweb-prerelease.microsoft.com
 titanweb-staging.microsoft.com
 titanweb-testenv.microsoft.com
 titles.gccm.mos.microsoft.com
+titles.gccmprv.mos.microsoft.com
 titles.msit.mos.microsoft.com
 titles.msitprv.mos.microsoft.com
 titles.prod.mos.microsoft.com
@@ -131804,6 +131849,7 @@ torus.uat.fasttrack.microsoft.com
 torus.uk.fasttrack.microsoft.com
 torus.whim.microsoft.com
 torusbroker.teams.microsoft.com
+toscadevserver.microsoft.com
 totalrewards.microsoft.com
 totalrewardsuat.microsoft.com
 touchdownbuildgenevama.intlservices.microsoft.com
@@ -132298,6 +132344,7 @@ trd-mj80pnxzb4t6hdspgr.z0.dev.kusto.fabric.microsoft.com
 trd-mjhjez15y7c82hgsq6.z1.dev.kusto.fabric.microsoft.com
 trd-mm7sr2turfgge86j5g.z1.dev.kusto.fabric.microsoft.com
 trd-mnmkjuy31utwazhrp4.z3.kusto.fabric.microsoft.com
+trd-mnuhr66rbbj8ywme6c.z2.kusto.fabric.microsoft.com
 trd-mrkwncmhrk7ktr34r8.z4.dev.kusto.fabric.microsoft.com
 trd-mrucqab55rbuen4k0b.z1.kusto.fabric.microsoft.com
 trd-msdp9m4688s5sn5dxb.z5.dev.kusto.fabric.microsoft.com
@@ -132418,6 +132465,7 @@ trd-vkxtu6hxz3k8vcmqk4.z9.kusto.fabric.microsoft.com
 trd-vm53tcb2k8d3s1zvt4.z9.dev.kusto.fabric.microsoft.com
 trd-vqmgrtc3zyymxf9y2h.z1.dev.kusto.fabric.microsoft.com
 trd-vrs0ehmvcf53dk9ybg.z5.dev.kusto.fabric.microsoft.com
+trd-vs7dkqr7v4xf41zccv.z5.kusto.fabric.microsoft.com
 trd-vxcqk7qxwrzfqpannr.z3.dev.kusto.fabric.microsoft.com
 trd-w3hsczjbqpegr9dpqe.z1.dev.kusto.fabric.microsoft.com
 trd-w4y1wsy30vf3yrbruy.z6.kusto.fabric.microsoft.com
@@ -138525,6 +138573,7 @@ zbcmp.pfgold.dev.ustcms.microsoft.com
 zbcmstestcert.ustcms.microsoft.com
 zbservicekv1synctest.ustcms.microsoft.com
 zbtest.ustcms.microsoft.com
+zebra-ai-api-uat.ait.microsoft.com
 zebrai-alchemy-poc.preprod.powerplatform.microsoft.com
 zebuhost015adm.northamerica.corp.microsoft.com
 zeus.buddy.microsoft.com

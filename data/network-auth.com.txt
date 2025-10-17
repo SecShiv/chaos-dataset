@@ -1,5 +1,6 @@
 .network-auth.com
 *.network-auth.com
+*.experimental.network-auth.com
 *.sandbox.network-auth.com
 *.tunnel-proxy.dns.network-auth.com
 *.tunnel-proxy.dns.sandbox.network-auth.com
@@ -34,6 +35,7 @@ dev2.network-auth.com
 elan.dev.network-auth.com
 eu.network-auth.com
 eu.dns.network-auth.com
+experimental.network-auth.com
 formsadmin.dev2.network-auth.com
 ftp.dev.network-auth.com
 internacc.dev.network-auth.com
@@ -2200,5 +2202,3 @@ tqavgn-bmoharris21api-docs.dev.network-auth.com
 tqavgn-bmoharris22b.dev.network-auth.com
 tqavgn2-bmo-origin.dev.network-auth.com
 tunnel-proxy.dns.network-auth.com
-tunnel-proxy.dns.sandbox.network-auth.com
-webdisk.dev.network-auth.com

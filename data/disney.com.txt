@@ -898,6 +898,7 @@
 *.usw2.cgs-dev.wdprapps.disney.com
 *.usw2.drt-dev.wdprapps.disney.com
 *.usw2.drt-prod.wdprapps.disney.com
+*.usw2.drt-sbx.wdprapps.disney.com
 *.usw2.drt-test.wdprapps.disney.com
 *.vendorportal.disney.com
 *.vendorroster.disney.com
@@ -16753,6 +16754,7 @@ infqab.swna.wdpr.disney.com
 infrastructuresupplierdelivery.disney.com
 infrastructuresupplierdelivery-stage.disney.com
 infsbx.swna.wdpr.disney.com
+infsbx.wdw.disney.com
 infycoin.venuivery.disney.com
 ingest-dgn.log.gis-secops.disney.com
 ingestia.wdprapps.disney.com
@@ -17261,6 +17263,7 @@ jdvhana.ebs.disney.com
 jedai-agents-tools-api.wdprapps.disney.com
 jedai-api.wdprapps.disney.com
 jedai-kb-api.wdprapps.disney.com
+jedai-kb-data-connectors.wdprapps.disney.com
 jedai-ui.wdprapps.disney.com
 jedai.wdprapps.disney.com
 jedi.disney.com
@@ -27689,6 +27692,7 @@ nemo01-ec-pa.wdw.attractions.disney.com
 nemo1-ak-pa.wdw.attractions.disney.com
 nena-prod.media.disney.com
 nena.wdpr.disney.com
+neo.nonprd.developer.disney.com
 nessus.attractions.disney.com
 net.disney.com
 net-corp-test.swna.wdpr.disney.com
@@ -28057,6 +28061,7 @@ ohana.fas.fa.disney.com
 ohanaci.fas.fa.disney.com
 ohanastage.fas.fa.disney.com
 ohmy.disney.com
+oidc.dclapps.wdprapps.disney.com
 oidc.dclinfra.wdprapps.disney.com
 olaf.toolbox.disney.com
 old-grit-svc.wdprapps.disney.com
@@ -30277,6 +30282,7 @@ package-order-operation-svc-dlr.wdprapps.disney.com
 package-order-operation-svc-wdw.wdprapps.disney.com
 package-order-svc.dlr.wdprapps.disney.com
 package-order-svc.wdw.wdprapps.disney.com
+package-publish-rmq-rhel9.wdprapps.disney.com
 package-publish-rmq.wdprapps.disney.com
 package-quote-svc.dlr.wdprapps.disney.com
 package-quote-svc.wdw.wdprapps.disney.com
@@ -30890,6 +30896,7 @@ ppe-hub-search-use1.wdprapps.disney.com
 ppe-ingest-int.wdprapps.disney.com
 ppe.wdprapps.disney.com
 ppeml.wdprapps.disney.com
+ppeventmanager.wdprapps.disney.com
 ppiservice-dse.wdprapps.disney.com
 ppm.disney.com
 ppm-dev.disney.com
@@ -34663,6 +34670,7 @@ slnynvcv0004.nena.wdpr.disney.com
 slnynvpriv0001.wdw.disney.com
 sm-arba-ebs1119.ltam.wdpr.disney.com
 sm-arba-ebs2378.ltam.wdpr.disney.com
+sm-arba-ebs3435.ltam.wdpr.disney.com
 sm-arba-ebs7768.ltam.wdpr.disney.com
 sm-arba-ebs7775.ltam.wdpr.disney.com
 sm-arba-vlync01.ltam.wdpr.disney.com
@@ -34877,6 +34885,7 @@ sm-sena-xleintf.disney.com
 sm-sest-vdc59.emea.wdpr.disney.com
 sm-sest-vdc59.wdpr.disney.com
 sm-sgeq-btv6208.apac.wdpr.disney.com
+sm-sgeq-sec8733.apac.wdpr.disney.com
 sm-sgeq-vsql08c.apac.wdpr.disney.com
 sm-trze-vdc01.emea.wdpr.disney.com
 sm-trze-vdc01.wdpr.disney.com
@@ -39243,6 +39252,7 @@ staging-citizenship.disney.com
 staging-dmed-calendar.mws.disney.com
 staging-jupyterhub.gpt.disney.com
 staging-jupyterhub.violet.gpt.disney.com
+staging-opensearch-dash.east.chat.gpt.disney.com
 staging-opensearch-dash.gpt.disney.com
 staging-opensearch.violet.gpt.disney.com
 staging-weaviate-grpc.chat.gpt.disney.com
@@ -39315,6 +39325,7 @@ stars.wdprapps.disney.com
 static.dev.contentsecurity.disney.com
 static.tech.disney.com
 staticweb.fas.fa.disney.com
+stats-publisher.wdprapps.disney.com
 status.cloud.disney.com
 status.data.disney.com
 status.dpeptechdigital.disney.com
@@ -41314,6 +41325,8 @@ tlsrv008.swna.wdpr.disney.com
 tlsrv016.swna.wdpr.disney.com
 tlsrv027.swna.wdpr.disney.com
 tlsrv031.swna.wdpr.disney.com
+tlsrv044.swna.wdpr.disney.com
+tlsrv044.wdw.disney.com
 tlsrv045.disney.com
 tlsrv045.swna.wdpr.disney.com
 tlsrv048.swna.wdpr.disney.com
@@ -44188,6 +44201,7 @@ wim-dev.kronos.disney.com
 wim-stage.kronos.disney.com
 wim.kronos.disney.com
 winchester-dev.dmed.disney.com
+windmill.latest.use1.cgs-dev.wdprapps.disney.com
 winniethepooh.disney.com
 winshuttle.disney.com
 winshuttle-stage.disney.com

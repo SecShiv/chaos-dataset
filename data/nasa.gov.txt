@@ -9466,6 +9466,7 @@ asttro.jpl.nasa.gov
 asttro.m20-dev.jpl.nasa.gov
 asttro.m20-training.jpl.nasa.gov
 asttro.sops.m20.jpl.nasa.gov
+asttro.train.m20.jpl.nasa.gov
 asturias.mdscc.nasa.gov
 asus-arc-s1-01.arc.nasa.gov
 asus-fogbugz.ndc.nasa.gov
@@ -12654,6 +12655,7 @@ cacher-api.ops.internal.eurc.jpl.nasa.gov
 cacher-api.sops.m20.jpl.nasa.gov
 cacher-api.tb.srl.jpl.nasa.gov
 cacher-api.test.eurc.jpl.nasa.gov
+cacher-api.train.m20.jpl.nasa.gov
 cacher-es.eurc-dev.jpl.nasa.gov
 cacher-es.gdsit.eurc.jpl.nasa.gov
 cacher-es.ops.eurc.jpl.nasa.gov
@@ -13339,6 +13341,7 @@ camls.jpl.nasa.gov
 cammids.gsfc.nasa.gov
 camp.larc.nasa.gov
 camp.m20-dev.jpl.nasa.gov
+camp.train.m20.jpl.nasa.gov
 camp2ex.jpl.nasa.gov
 campaero.grc.nasa.gov
 campbell.arc.nasa.gov
@@ -15796,6 +15799,7 @@ contingency-urs4-uat.urs.earthdata.nasa.gov
 contingency-usr4-uat.urs.earthdata.nasa.gov
 contour915-1.gsfc.nasa.gov
 contract.prosams.nasa.gov
+contractapp-govprod.prosams.nasa.gov
 contractportfolio-d.larc.nasa.gov
 contractportfolio-qa.larc.nasa.gov
 contractportfolio-s.larc.nasa.gov
@@ -17593,6 +17597,7 @@ dcushinghq.hq.nasa.gov
 dd-mid.eurc-dev.jpl.nasa.gov
 dd-middle-download.gd.m20.jpl.nasa.gov
 dd-middle-download.tbdev.m20.jpl.nasa.gov
+dd-middle-download.train.m20.jpl.nasa.gov
 dd-middle-unstable.gd.m20.jpl.nasa.gov
 dd-middle.gd.m20.jpl.nasa.gov
 dd-middle.sops.m20.jpl.nasa.gov
@@ -22344,6 +22349,7 @@ es.s6apps.jpl.nasa.gov
 es.sops.m20.jpl.nasa.gov
 es.swotapps.jpl.nasa.gov
 es.tb.m20.jpl.nasa.gov
+es.train.m20.jpl.nasa.gov
 es01-server1.msfc.nasa.gov
 esa.nascom.nasa.gov
 esaisa10.jpl.nasa.gov
@@ -38440,6 +38446,7 @@ images-api.nasa.gov
 images-assets.nasa.gov
 images-d.larc.nasa.gov
 images-dev.jsc.nasa.gov
+images-govprod.prosams.nasa.gov
 images-lightroom.nasa.gov
 images-ora.jsc.nasa.gov
 images.jsc.nasa.gov
@@ -43483,6 +43490,7 @@ jupiter1.jsc.nasa.gov
 jupiterhq.victim.hq.nasa.gov
 jupyter-ml.cld.jpl.nasa.gov
 jupyter-nbviewer.sops.m20.jpl.nasa.gov
+jupyter-nbviewer.train.m20.jpl.nasa.gov
 jupyter.aps.smce.nasa.gov
 jupyter.jpl.nasa.gov
 jupyterhub.cld.jpl.nasa.gov
@@ -44221,6 +44229,7 @@ kontiki.nsstc.nasa.gov
 koobcam.ndc.nasa.gov
 kopf.gd.m20.jpl.nasa.gov
 kopf.sops.m20.jpl.nasa.gov
+kopf.train.m20.jpl.nasa.gov
 kops-dev.ksc.nasa.gov
 kops-test.ksc.nasa.gov
 kornbluth.jsc.nasa.gov
@@ -48515,6 +48524,7 @@ log.gd.m20.jpl.nasa.gov
 log.jpl.nasa.gov
 log.tb.m20.jpl.nasa.gov
 log.tbdev.m20.jpl.nasa.gov
+log.train.m20.jpl.nasa.gov
 log600-b33.gsfc.nasa.gov
 logcopier.gsfc.nasa.gov
 logicon1.fltops.jpl.nasa.gov
@@ -48542,6 +48552,7 @@ login.tb.m20.jpl.nasa.gov
 login.tb.srl.jpl.nasa.gov
 login.tbdev.m20.jpl.nasa.gov
 login.test.eurc.jpl.nasa.gov
+login.train.m20.jpl.nasa.gov
 login1.nccs.nasa.gov
 login2.nccs.nasa.gov
 login3.nccs.nasa.gov
@@ -54023,11 +54034,13 @@ marsviewer-----begin.jpl.nasa.gov
 marsviewer-back-unstable.gd.m20.jpl.nasa.gov
 marsviewer-back.sops.m20.jpl.nasa.gov
 marsviewer-back.tb.m20.jpl.nasa.gov
+marsviewer-back.train.m20.jpl.nasa.gov
 marsviewer-old.jpl.nasa.gov
 marsviewer-unstable.gd.m20.jpl.nasa.gov
 marsviewer.jpl.nasa.gov
 marsviewer.sops.m20.jpl.nasa.gov
 marsviewer.tbdev.m20.jpl.nasa.gov
+marsviewer.train.m20.jpl.nasa.gov
 marsweb.jpl.nasa.gov
 marswit.arc.nasa.gov
 martens.jsc.nasa.gov
@@ -55579,6 +55592,7 @@ mesonet.ksc.nasa.gov
 mesos-kafka.cld.jpl.nasa.gov
 message.sops.m20.jpl.nasa.gov
 message.tb.srl.jpl.nasa.gov
+message.train.m20.jpl.nasa.gov
 messi.ndc.nasa.gov
 messier.public.hq.nasa.gov
 met-sony.ksc.nasa.gov
@@ -69881,6 +69895,7 @@ ocs-es.ops.eurc.jpl.nasa.gov
 ocs-es.ops.internal.eurc.jpl.nasa.gov
 ocs-es.tb.m20.jpl.nasa.gov
 ocs-es.test.eurc.jpl.nasa.gov
+ocs-es.train.m20.jpl.nasa.gov
 ocs-govcloud.eurc-dev.jpl.nasa.gov
 ocs-raitest.gd.m20.jpl.nasa.gov
 ocs-rpineda.gd.m20.jpl.nasa.gov
@@ -69894,6 +69909,7 @@ ocs.ops.eurc.jpl.nasa.gov
 ocs.ops.internal.eurc.jpl.nasa.gov
 ocs.tbdev.m20.jpl.nasa.gov
 ocs.test.eurc.jpl.nasa.gov
+ocs.train.m20.jpl.nasa.gov
 ocs108a.arc.nasa.gov
 ocs110.arc.nasa.gov
 ocs5.arc.nasa.gov
@@ -73764,6 +73780,7 @@ places-unstable.gd.m20.jpl.nasa.gov
 places.gd.m20.jpl.nasa.gov
 places.sops.m20.jpl.nasa.gov
 places.tbdev.m20.jpl.nasa.gov
+places.train.m20.jpl.nasa.gov
 pladmin233.nas.nasa.gov
 pladmin4.nas.nasa.gov
 pladmin5.nas.nasa.gov
@@ -74598,6 +74615,7 @@ pr.ops.internal.eurc.jpl.nasa.gov
 pr.sops.m20.jpl.nasa.gov
 pr.tbdev.m20.jpl.nasa.gov
 pr.test.eurc.jpl.nasa.gov
+pr.train.m20.jpl.nasa.gov
 pr0.isips.eosdis.nasa.gov
 pr1-250-201.larc.nasa.gov
 pr1.isips.eosdis.nasa.gov
@@ -75773,6 +75791,7 @@ rascal.gd.m20.jpl.nasa.gov
 rascal.jpl.nasa.gov
 rascal.mslopscld.jpl.nasa.gov
 rascal.sops.m20.jpl.nasa.gov
+rascal.train.m20.jpl.nasa.gov
 rascl.msfc.nasa.gov
 rasp.ndc.nasa.gov
 rasproto.jsc.nasa.gov
@@ -76981,6 +77000,7 @@ rocs-frames.gd.m20.jpl.nasa.gov
 rocs-rksml.gd.m20.jpl.nasa.gov
 rocs-rksml.sops.m20.jpl.nasa.gov
 rocs-rksml.tb.m20.jpl.nasa.gov
+rocs-rksml.train.m20.jpl.nasa.gov
 rocs-rsmik.sops.m20.jpl.nasa.gov
 rocs-rsmik.tb.m20.jpl.nasa.gov
 rocs-spice-unstable.gd.m20.jpl.nasa.gov
@@ -77757,6 +77777,7 @@ s3app-2145878356.auto.earthdatacloud.nasa.gov
 s3browser.gd.m20.jpl.nasa.gov
 s3browser.sops.m20.jpl.nasa.gov
 s3browser.tb.m20.jpl.nasa.gov
+s3browser.train.m20.jpl.nasa.gov
 s3vi.ndc.nasa.gov
 s4.wstf.nasa.gov
 s4100.msfc.nasa.gov
@@ -78405,6 +78426,7 @@ schwaller.hq.nasa.gov
 schwifty-vm.arc.nasa.gov
 schwinn.ksc.nasa.gov
 sci-int-api.sops.m20.jpl.nasa.gov
+sci-int-api.train.m20.jpl.nasa.gov
 sci.gsfc.nasa.gov
 sci.gsfc.nasa.gov.sci.gsfc.nasa.gov
 scicolloq.gsfc.nasa.gov
@@ -79569,6 +79591,7 @@ shared-ac-streamsets.cld.jpl.nasa.gov
 shared.docs.er7.luna.nasa.gov
 shared.docs.er7.staging.luna.nasa.gov
 shared.docs.staging.luna.nasa.gov
+sharedapp-govprod.prosams.nasa.gov
 sharedev.ivv.nasa.gov
 sharepoint.jsc.nasa.gov
 sharepoint.ksc.nasa.gov
@@ -80700,6 +80723,7 @@ solarwind-mon.ndc.nasa.gov
 solc.gsfc.nasa.gov
 solcon.ksc.nasa.gov
 soldel.arc.nasa.gov
+soldevapp-govprod.prosams.nasa.gov
 soleil.arc.nasa.gov
 soleil2.arc.nasa.gov.ndc.nasa.gov
 solidearth.jpl.nasa.gov
@@ -84206,6 +84230,7 @@ tarf.echo.nasa.gov
 target.nascom.nasa.gov
 targetapimsl.hi.jpl.nasa.gov
 targetapimsl.jpl.nasa.gov
+targetdb.train.m20.jpl.nasa.gov
 tarkovsky.hq.nasa.gov
 tarrazu.sci.gsfc.nasa.gov
 tars.arc.nasa.gov
@@ -125838,6 +125863,7 @@ zornetzer200-207printer.arc.nasa.gov
 zorrin.jsc.nasa.gov
 zr76.jsc.nasa.gov
 zscanner.jpl.nasa.gov
+zscanners.jpl.nasa.gov
 ztp.jpl.nasa.gov
 zule.ksc.nasa.gov
 zulepc.ksc.nasa.gov

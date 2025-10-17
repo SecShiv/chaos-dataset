@@ -22012,6 +22012,7 @@ echo-stg.comcast.com
 echo1.prod-kube-eu-west-1.r53-eu.merlin.comcast.com
 echoserver.aor.kubernetes.comcast.com
 echoserver.kubenext-lab.kubernetes.comcast.com
+eclapp-ho-001s.cable.comcast.com
 eclbot-as-21p.cable.comcast.com
 ecm.comcast.com
 ecm-qa.comcast.com
@@ -23713,6 +23714,7 @@ fccdoc-as-01p.slb.comcast.com
 fccdocdb-as-1p.cable.comcast.com
 fccdocdb-as-1q.cable.comcast.com
 fccdocdb-as-1s.cable.comcast.com
+fccdocw-as-11q.cable.comcast.com
 fccdocw-as-1p.cable.comcast.com
 fccdocw-as-1q.cable.comcast.com
 fccdocw-as-1s.cable.comcast.com
@@ -40372,6 +40374,8 @@ nbopscen-wc-3p.cable.comcast.com
 nc1500apc.cable.comcast.com
 ncada-01dd.gslb2.comcast.com
 ncada-crnrstn-1s.gslb4.comcast.com
+ncada-crnrstn-api.gslb4.comcast.com
+ncada-crnrstn-as-1c.slb.comcast.com
 ncada-crnrstn-rdei-as-a2s.slb.comcast.com
 ncada-crnrstn-rdei-ch2-a2s.slb.comcast.com
 ncada-dev-ch2-a1d.slb.comcast.com
@@ -42691,9 +42695,14 @@ oh-staging-vault-4-v9.staging.vault.comcast.com
 oh-staging-vault-5-v9.staging.vault.comcast.com
 oh-vault-1-v6.vault.comcast.com
 oh-vault-1-v7.vault.comcast.com
+oh-vault-1-v8.vault.comcast.com
 oh-vault-2-v6.vault.comcast.com
 oh-vault-2-v7.vault.comcast.com
+oh-vault-2-v8.vault.comcast.com
+oh-vault-3-v8.vault.comcast.com
+oh-vault-4-v8.vault.comcast.com
 oh-vault-5-v6.vault.comcast.com
+oh-vault-5-v8.vault.comcast.com
 oh.ac-gateway.api-business.comcast.com
 oh.beta.ac-gateway.api-business.comcast.com
 oh.staging.vault.comcast.com
@@ -43288,7 +43297,11 @@ or-staging-vault-5-v6.staging.vault.comcast.com
 or-staging-vault-5-v9.staging.vault.comcast.com
 or-test.cable.comcast.com
 or-vault-1-v6.vault.comcast.com
+or-vault-1-v8.vault.comcast.com
+or-vault-2-v8.vault.comcast.com
 or-vault-3-v6.vault.comcast.com
+or-vault-4-v8.vault.comcast.com
+or-vault-5-v8.vault.comcast.com
 or.a11y.ecom.digital.business.comcast.com
 or.a11y.ecom.np.digital.business.comcast.com
 or.ac-gateway.api-business.comcast.com
@@ -55987,6 +56000,7 @@ secsnow-wc-01p.cable.comcast.com
 sectigo.comcast.com
 sectigo-alt.comcast.com
 sectigotest.comcast.com
+secure-auth.idbroker.comcast.com
 secure-dev.idbroker.comcast.com
 secure-mail.comcast.com
 secure.aaa.wifi.comcast.com
@@ -60096,6 +60110,7 @@ testdataretentionservice.cable.comcast.com
 testdecisionengine.cable.comcast.com
 testdemof5.comcast.com
 testdemossh.comcast.com
+testdescartes.comcast.com
 testdmx06.comcast.com
 testdrrecservice.cable.comcast.com
 teste.comcast.com
@@ -62530,7 +62545,9 @@ va-staging-vault-4-v9.staging.vault.comcast.com
 va-staging-vault-5-v9.staging.vault.comcast.com
 va-vault-1-v6.vault.comcast.com
 va-vault-1-v7.vault.comcast.com
+va-vault-2-v8.vault.comcast.com
 va-vault-4-v6.vault.comcast.com
+va-vault-4-v8.vault.comcast.com
 va-vault-5-v7.vault.comcast.com
 va.a11y.ecom.digital.business.comcast.com
 va.a11y.ecom.np.digital.business.comcast.com
@@ -64653,6 +64670,7 @@ veotools-dev.cable.comcast.com
 veotools-stg.cable.comcast.com
 veotools.cable.comcast.com
 verbgen.comcast.com
+verif-processing-stg.cable.comcast.com
 verify.comcast.com
 verify.customer.ch2.comcast.com
 verify.customer.wc.comcast.com
@@ -65164,6 +65182,7 @@ vslb-web.gslb2.comcast.com
 vsp-wc-1p.cable.comcast.com
 vsp-wc-2p.cable.comcast.com
 vspm-ch2-p-118409.vod.comcast.com
+vspone-as-810127.cable.comcast.com
 vsqldefault-jon.cable.comcast.com
 vsrp-ch2p.gslb4.comcast.com
 vsrp-hop.gslb4.comcast.com
@@ -66913,6 +66932,10 @@ wifi-st.comcast.com
 wifilogin.comcast.com
 wifilogin-st.comcast.com
 wifilogout.comcast.com
+wifinxtgen-ixchariot.comcast.com
+wifinxtgen-ixchariot-agent.comcast.com
+wifinxtgen-ixchariot-agent1.comcast.com
+wifinxtgen-ixchariot1.comcast.com
 wifiondemand-ho-1p.slb.comcast.com
 wifiondemand-prt.gslb2.comcast.com
 wiki-dx.comcast.com
@@ -67399,6 +67422,8 @@ wvdc-po-98.cable.comcast.com
 wvdc-po-99.cable.comcast.com
 wvdcch-ho-1-con.cable.comcast.com
 wvdcch-ho-2-con.cable.comcast.com
+wvdcch-ho-2-fs.comcast.com
+wvdcch-ho-2-fs.cable.comcast.com
 wvdcch-ho-3-con.cable.comcast.com
 wvdcch-ho-4-con.cable.comcast.com
 wvdcch-ho-vip.cable.comcast.com

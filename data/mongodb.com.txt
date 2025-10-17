@@ -26,6 +26,8 @@
 *.aws.atlas-metrics.cloud-internal.mongodb.com
 *.aws.atlas-metrics.cloud-qa.mongodb.com
 *.aws.atlas-metrics.cloud-stage.mongodb.com
+*.aws.atlas-traces.cloud-dev.mongodb.com
+*.aws.atlas-traces.cloud-qa.mongodb.com
 *.aws.atlas-traces.cloud-stage.mongodb.com
 *.aws.realm.mongodb.com
 *.aws.realm-dev.mongodb.com
@@ -52,6 +54,8 @@
 *.azure.atlas-metrics.cloud-internal.mongodb.com
 *.azure.atlas-metrics.cloud-qa.mongodb.com
 *.azure.atlas-metrics.cloud-stage.mongodb.com
+*.azure.atlas-traces.cloud-dev.mongodb.com
+*.azure.atlas-traces.cloud-qa.mongodb.com
 *.azure.atlas-traces.cloud-stage.mongodb.com
 *.azure.realm.mongodb.com
 *.azure.realm-dev.mongodb.com
@@ -176,6 +180,8 @@
 *.gcp.atlas-metrics.cloud-internal.mongodb.com
 *.gcp.atlas-metrics.cloud-qa.mongodb.com
 *.gcp.atlas-metrics.cloud-stage.mongodb.com
+*.gcp.atlas-traces.cloud-dev.mongodb.com
+*.gcp.atlas-traces.cloud-qa.mongodb.com
 *.gcp.atlas-traces.cloud-stage.mongodb.com
 *.gcp.realm.mongodb.com
 *.gcp.realm-dev.mongodb.com
@@ -510,6 +516,8 @@ atlas-pricing-tool-public.corps.staging.corp.mongodb.com
 atlas-pricing.corp.mongodb.com
 atlas-pricing.corps.prod.corp.mongodb.com
 atlas-pricing.corps.staging.corp.mongodb.com
+atlas-traces.cloud-dev.mongodb.com
+atlas-traces.cloud-qa.mongodb.com
 atlas-traces.cloud-stage.mongodb.com
 augmeta-monitor.data-governance.staging.corp.mongodb.com
 augmeta.data-governance.prod.corp.mongodb.com
@@ -520,6 +528,7 @@ auth-qa.mongodb.com
 auth.prod.corp.mongodb.com
 auth.staging.corp.mongodb.com
 auth.test.corp.mongodb.com
+autoflow.backstage.prod.corp.mongodb.com
 autoflow.backstage.staging.corp.mongodb.com
 autotc-inspector-staging.corp.mongodb.com
 autotc-inspector.corp.mongodb.com
@@ -714,6 +723,7 @@ csat.ts-apac.prod.corp.mongodb.com
 csat.ts-apac.staging.corp.mongodb.com
 cta.corps.prod.corp.mongodb.com
 ctf.corp.mongodb.com
+curator-extra.drivers.staging.corp.mongodb.com
 customer-hub-task-14155-cleanup-mdbhubauth.ts-tools.staging.corp.mongodb.com
 customer-hub-uat-task-14661.ts-tools.staging.corp.mongodb.com
 customer-hub-uat-task-14662.ts-tools.staging.corp.mongodb.com

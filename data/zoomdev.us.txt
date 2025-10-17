@@ -340,6 +340,7 @@ amrit.vault.zoomdev.us
 analipzgcafrukivjjzo.testing-vault.zoomdev.us
 anomalydetection-dev.zoomdev.us
 antifraud-dashboard.zoomdev.us
+antifraud-notebook-main.cloud.zoomdev.us
 antifraud-va1.corp.zoomdev.us
 antifraud.corp.zoomdev.us
 aortyiizzesbubvpgngh.testing-vault.zoomdev.us
@@ -1156,6 +1157,7 @@ dev-elk-v3.web-devops.zoomdev.us
 dev-global-va1-internal.zoomdev.us
 dev-global-va1-internal-i.zoomdev.us
 dev-graphql.zoomdev.us
+dev-http-ai-search.cloud.zoomdev.us
 dev-infra.zoomdev.us
 dev-infra-i.zoomdev.us
 dev-infra-oh1.zoomdev.us
@@ -1168,6 +1170,7 @@ dev-infra-va1-internal.zoomdev.us
 dev-infra-va1-internal-i.zoomdev.us
 dev-int-aic.zoomdev.us
 dev-int-crs-i.zoomdev.us
+dev-int-ztp-engine.cloud.zoomdev.us
 dev-integration.zoomdev.us
 dev-linkpreview.zoomdev.us
 dev-linkpreview-oh1.zoomdev.us
@@ -1296,6 +1299,7 @@ dev01cp-va2.zoomdev.us
 dev01data-ingestionwfm.zoomdev.us
 dev01data-ingestionwfm-va.zoomdev.us
 dev01data-ingestionwfm-va2.zoomdev.us
+dev01insightcci.zoomdev.us
 dev01kmzva.zoomdev.us
 dev01lambdagateway.zoomdev.us
 dev01notificationswfm.zoomdev.us
@@ -1774,6 +1778,9 @@ devcoloop.zoomdev.us
 devcolooppbx.zoomdev.us
 devcolooppbx-va.zoomdev.us
 devcolooppbx-va2.zoomdev.us
+devcoloopzva.zoomdev.us
+devcoloopzva-va.zoomdev.us
+devcoloopzva-va2.zoomdev.us
 devcolopbx.zoomdev.us
 devcolopbx-a.zoomdev.us
 devcolopbx-c.zoomdev.us
@@ -2042,6 +2049,7 @@ devop-proxy.zoomdev.us
 devop2.zoomdev.us
 devopanalyzer.zoomdev.us
 devopanalyzeroh1.zoomdev.us
+devopanalyzerva1.zoomdev.us
 devopoh1.zoomdev.us
 devopoh1-integration.zoomdev.us
 devops.zoomdev.us
@@ -2217,6 +2225,7 @@ ds1-trino.oh01.cloud.zoomdev.us
 ds1-trino.va01.cloud.zoomdev.us
 ds2-trino.oh01.cloud.zoomdev.us
 ds2-trino.va01.cloud.zoomdev.us
+ds4-trino.oh01.cloud.zoomdev.us
 dsbottest.zoomdev.us
 dsdev-presto.zoomdev.us
 dsp-manager-int.zoomdev.us
@@ -3192,6 +3201,7 @@ llm-gateway-demo-zmdev-aws-us-east-1.ai.zoomdev.us
 llm-gateway-dev-zmo-zmdev-oci-us-east-1.ai.zoomdev.us
 llm-gateway-lz-colo01-colo.zoomdev.us
 llm-gateway-lz-stress-aws-us-east-1.ai.zoomdev.us
+llm-gateway-lz-zmdev-aws-us-east-1.ai.zoomdev.us
 llm-gateway-sandbox1-zmdev-aws-us-east-1.ai.zoomdev.us
 llm-gateway-sandbox1-zmdev.ai.zoomdev.us
 llm-gateway-sandbox2-zmdev-aws-us-east-1.ai.zoomdev.us
@@ -3204,6 +3214,7 @@ llm-gateway-stress-aws-us-east-1.ai.zoomdev.us
 llm-gateway-test-zmdev-aws-us-east-1.ai.zoomdev.us
 llm-gateway-zmdev-aws-us-east-1.ai.zoomdev.us
 llm-gateway-zmdev-oci-aws-us-east-1.ai.zoomdev.us
+llm-gateway-zmdev.ai.zoomdev.us
 llm-gateway-zmo-colo01-colo.zoomdev.us
 llm-gateway-zmo-zmdev-aws-us-east-1.ai.zoomdev.us
 llm-gateway-zmo-zmdev-oci-aws-us-east-1.ai.zoomdev.us
@@ -4046,6 +4057,8 @@ pmgdwejegxuawhjrhsqq.testing-vault.zoomdev.us
 portal.tvm.sec.corp.zoomdev.us
 pqypykueovjxhlboigdz.testing-vault.zoomdev.us
 prfxtoxsinitqzycmadn.testing-vault.zoomdev.us
+pri-zfmcwex5ldhf3qrb.63zfhx-onmicrosoft-com.onprem.zoomdev.us
+pri-zr6c4mv6gcc6txz5.63zfhx-onmicrosoft-com.onprem.zoomdev.us
 prism.zoomdev.us
 prism.cloud.zoomdev.us
 prism.corp.zoomdev.us
@@ -4209,6 +4222,7 @@ private-zpupppqr5dkcusuj.devzoomta.onprem.zoomdev.us
 private-zq23y52g7svkmenz.2pz7zk7mzphm.onprem.zoomdev.us
 private-zq6n4nig4cuyqd2x.63zfhx-onmicrosoft-com.onprem.zoomdev.us
 private-zqc5c4j3m7zajto3.zoomnodem.onprem.zoomdev.us
+private-zqf5cmjgjkycv3gw.63zfhx-onmicrosoft-com.onprem.zoomdev.us
 private-zqhh7vzjr333aw7v.2pz7zk7mzphm.onprem.zoomdev.us
 private-zqm2t7krigmzdcyg.jiangchentest.onprem.zoomdev.us
 private-zqm7gkyntzrdfeti.devzoomta.onprem.zoomdev.us
@@ -4272,6 +4286,7 @@ private-zzb7mlni3nqeja2s.devzoomta.onprem.zoomdev.us
 private-zzhhw3io3f754fjy.devzoomta.onprem.zoomdev.us
 private-zzijut6iv7sjgvgb.wangtonedev.onprem.zoomdev.us
 private-zzln3ycnnmxu66kz.devzoomta.onprem.zoomdev.us
+private-zzqqa6sizvxhdfnn.63zfhx-onmicrosoft-com.onprem.zoomdev.us
 private-zzsdyyhuaeebzxrh.63zfhx-onmicrosoft-com.onprem.zoomdev.us
 private-zzvgyqvlr4cx5oox.kerndev.onprem.zoomdev.us
 private-zzvh2xr4d4m7bt2f.2pz7zk7mzphm.onprem.zoomdev.us
@@ -4461,6 +4476,8 @@ proxy.shof-01.keyserver.zoomdev.us
 proxy.shof.keyserver.zoomdev.us
 prtxsesdxvomitzfdylj.testing-vault.zoomdev.us
 ptworkflow.zoomdev.us
+pub-zvyt3uw2zsfdm77t.63zfhx-onmicrosoft-com.onprem.zoomdev.us
+pub-zyqzslfznsr6v5g2.63zfhx-onmicrosoft-com.onprem.zoomdev.us
 public-z2ecd37jhv5pzi52.devzoomta.onprem.zoomdev.us
 public-z2lxfaxvdzqlfji6.devzoomta.onprem.zoomdev.us
 public-z2xuqk5xbbj2x575.devzoomta.onprem.zoomdev.us
@@ -5177,6 +5194,7 @@ rsvd-zdwwl4htkp3o7grs.gh52bunktb2t.onprem.zoomdev.us
 rsvd-ze3h2vbj3smmze5a.gh52bunktb2t.onprem.zoomdev.us
 rsvd-ze5pmz3jotekjtdh.xanf76pznwmp.onprem.zoomdev.us
 rsvd-zea34c5ssn6z25ax.2pz7zk7mzphm.onprem.zoomdev.us
+rsvd-zeh7dlvyb7wrxgxq.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-zehfowjwhmqmuzyf.6ccpcexo7ltn.onprem.zoomdev.us
 rsvd-zelweyecknoymd2m.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-zen2bzx4mbwzgs6i.437iwtqb4g2n.onprem.zoomdev.us
@@ -5262,6 +5280,7 @@ rsvd-zkb5ybhnace4u4ei.62gsbcjmpsis.onprem.zoomdev.us
 rsvd-zkbph5bimtcvph2d.ykvtsubwlpju.onprem.zoomdev.us
 rsvd-zkdbbtlmuoya6e2f.437iwtqb4g2n.onprem.zoomdev.us
 rsvd-zkj3ywslqlr3nlx3.ykvtsubwlpju.onprem.zoomdev.us
+rsvd-zkl7zkz22zugkm7e.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-zkonnxqx6aabzqfk.qwos5thwbrzk.onprem.zoomdev.us
 rsvd-zkrb4sdmkf3hwyms.gwvteszzwy4t.onprem.zoomdev.us
 rsvd-zksz6pxkh7fnyay5.2pz7zk7mzphm.onprem.zoomdev.us
@@ -5272,6 +5291,7 @@ rsvd-zl4z6y5oa4o4vfnt.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-zlag35yqzrcykumg.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-zlc4anbj2nsjtqnq.gh52bunktb2t.onprem.zoomdev.us
 rsvd-zlc4bcb3zahno4jd.y2rvprwn62pc.onprem.zoomdev.us
+rsvd-zlex7xdm5rdyalki.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-zlfpz3s7y72ys5ac.62gsbcjmpsis.onprem.zoomdev.us
 rsvd-zlhyasbu5lzb3ffn.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-zll62xq5zujuwuvn.y2rvprwn62pc.onprem.zoomdev.us
@@ -5353,6 +5373,7 @@ rsvd-zrts5a5tjfwpdjcv.mgou5v2orjh2.onprem.zoomdev.us
 rsvd-zry5ktpijbipv3iz.xanf76pznwmp.onprem.zoomdev.us
 rsvd-zs467bt7lue76s54.y2rvprwn62pc.onprem.zoomdev.us
 rsvd-zsbq525cjpnh5ew5.xanf76pznwmp.onprem.zoomdev.us
+rsvd-zshv5d7qegp7hosq.2pz7zk7mzphm.onprem.zoomdev.us
 rsvd-zskmd6yteczyapr5.xanf76pznwmp.onprem.zoomdev.us
 rsvd-zslxk34ty7brpi4c.6ccpcexo7ltn.onprem.zoomdev.us
 rsvd-zspozyjnl6ulggps.h6mbkjuvehby.onprem.zoomdev.us
@@ -6518,6 +6539,7 @@ zt-llm-qwen2-7b-dev-aws-us-east-1.ai.zoomdev.us
 zt-llm-v3-stres-dev-aws-us-east-1.ai.zoomdev.us
 zt-llm-v3-stress-test-0-dev-aws-us-east-1.ai.zoomdev.us
 zt-low-usage-15-14-0-dev-aws-us-east-1.ai.zoomdev.us
+zt-low-usage-15-14-offline-0-dev-aws-us-east-1.ai.zoomdev.us
 zt-low-usage-15-dev-aws-us-east-1.ai.zoomdev.us
 zt-malay-0-dev-aws-us-east-1.ai.zoomdev.us
 zt-malay-dev-aws-us-east-1.ai.zoomdev.us

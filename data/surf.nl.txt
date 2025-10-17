@@ -20,6 +20,7 @@
 *.ci-flux-in-just-record-harvester.dev.sdp.surf.nl
 *.ci-nitpick-record-harvester.dev.sdp.surf.nl
 *.ci-playground-deplo-record-harvester.dev.sdp.surf.nl
+*.ci-pure-record-harvester.dev.sdp.surf.nl
 *.ci-remove-fix-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-beautif-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-boto3-1-record-harvester.dev.sdp.surf.nl
@@ -44,6 +45,7 @@
 *.ci-renovate-types-b-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-usebrun-record-harvester.dev.sdp.surf.nl
 *.ci-renovate-uvicorn-record-harvester.dev.sdp.surf.nl
+*.ci-return-delete-re-record-harvester.dev.sdp.surf.nl
 *.ci-send-deletes-record-harvester.dev.sdp.surf.nl
 *.ci-simplify-certs-record-harvester.dev.sdp.surf.nl
 *.ci-ssk-verzamelinge-record-harvester.dev.sdp.surf.nl
@@ -1036,6 +1038,7 @@ datapod.lab.surf.nl
 davrods.exp.sram.lab.surf.nl
 db-admin.exp.scz.lab.surf.nl
 db.exp.scz.lab.surf.nl
+db.ia.surf.nl
 db.orgbook.test.ssi.lab.surf.nl
 dbeaver.exp.sram.lab.surf.nl
 dc03p.ia.surf.nl
@@ -2616,6 +2619,8 @@ ia.surf.nl
 iasd.surf.nl
 iasd-test.surf.nl
 iatlas-staging1.ia.surf.nl
+idbproxy02p-traefik.int.ia.surf.nl
+idbproxy02p.int.ia.surf.nl
 idbproxy1.ia.surf.nl
 identity.chat.surf.nl
 identity.matrix.surf.nl
@@ -2851,6 +2856,7 @@ login.surf.nl
 login-01.nlsrc.surf.nl
 login.exp.scz.lab.surf.nl
 login.testsurfid.surf.nl
+login.vas.secops.surf.nl
 login.willma.surf.nl
 lrs.la-exp.surf.nl
 lt.litnet-fedi.oidf.lab.surf.nl
@@ -5059,3 +5065,5 @@ zm.fidern.oidf.lab.surf.nl
 zmail01p.ia.surf.nl
 zoekportaal.surf.nl
 zoekportaalback.surf.nl
+zoekportal.surf.nl
+zoekportalback.surf.nl

@@ -20,6 +20,7 @@
 *.k8s.cnap.cnap-am2.intranet.rws.nl
 *.k8s.cnap.cnap-am4.intranet.rws.nl
 *.k8s.datalab-p.cnap-am2.intranet.rws.nl
+*.k8s.datalake-poc.cnap-am4.intranet.rws.nl
 *.k8s.enabling-test.cnap-am2.intranet.rws.nl
 *.k8s.esp-am2.cnap-am2.intranet.rws.nl
 *.k8s.fis.cnap-am2.intranet.rws.nl
@@ -45,6 +46,9 @@
 *.k8s.secupi.cnap-am4.intranet.rws.nl
 *.k8s.services.cnap-am2.intranet.rws.nl
 *.k8s.services.cnap-am4.intranet.rws.nl
+*.k8s.shared-ota.cnap-am2.intranet.rws.nl
+*.k8s.shared-ota.cnap-am4.intranet.rws.nl
+*.k8s.shared.cnap-am4.intranet.rws.nl
 *.k8s.spin-a.cnap-am4.intranet.rws.nl
 *.k8s.spin-p.cnap-am2.intranet.rws.nl
 *.k8s.spin-p.cnap-am4.intranet.rws.nl
@@ -73,6 +77,7 @@
 *.k8s.svm-zwolle.cnap-am4.intranet.rws.nl
 *.k8s.svm.cnap-am4.intranet.rws.nl
 *.k8s.vm-integratie-prod.cnap-am4.intranet.rws.nl
+*.k8s.vm-ipv.cnap-am2.intranet.rws.nl
 *.k8s.voz-acc.cnap-am2.intranet.rws.nl
 *.k8s.voz-acc.cnap-am4.intranet.rws.nl
 *.k8s.voz-poc.cnap-am2.intranet.rws.nl
@@ -227,6 +232,7 @@ alarmmodule.rws.nl
 alertbase.acceptatie.vm-05.azure.grid.rws.nl
 alertbase.test.vm-05.azure.grid.rws.nl
 alertbase.vm-05.azure.grid.rws.nl
+alertmanager.test.vm-04.azure.grid.rws.nl
 api.dataintegratie-acc.intranet.rws.nl
 api.dataintegratie.intranet.rws.nl
 api.tempeov.rws.nl
@@ -298,6 +304,7 @@ checkmk.charm.rws.nl
 chubb-acc.rijkspas.rws.nl
 chubb.rijkspas.rws.nl
 cisvm.intranet.rws.nl
+civvv-mtm2-router-nwn.publicatie.test.vm-04.azure.grid.rws.nl
 clap.rws.nl
 client.vaarmelder.k8s.fis.cnap-am2.intranet.rws.nl
 client01.mqtt-iot-infra.edge.rws.nl
@@ -328,6 +335,7 @@ corporate-tools.intranet.rws.nl
 corporate.intranet.rws.nl
 cps.pki.rws.nl
 crisiswerkplek.rws.nl
+crud.acceptatie.vm-05.azure.grid.rws.nl
 crud.test.vm-05.azure.grid.rws.nl
 ctd.rws.nl
 custompages.acc.web8.intranet.rws.nl
@@ -337,6 +345,7 @@ data-acc.rws.nl
 dataservice.acceptatie.liwo.intranet.rws.nl
 dataservice.test.liwo.intranet.rws.nl
 ddapi.rws.nl
+ddapi-gslb.rws.nl
 ddapi-preprod.rws.nl
 deformatieviewer.rws.nl
 demo-backend-civvv-fcd.fcd.test.vm-04.azure.grid.rws.nl
@@ -941,6 +950,7 @@ rastoken.rws.nl
 raw-data-multiplier-aid-triggers-incoming-actuator.incoming.test.vm-04.azure.grid.rws.nl
 raw-data-multiplier-aid-triggers-incoming-actuator.test.vm-04.azure.grid.rws.nl
 raw-data-multiplier-aid-triggers.fcd-acc.dmz.vm-04.azure.grid.rws.nl
+raw-data-multiplier-civvv-actuator.incoming.test.vm-04.azure.grid.rws.nl
 raw-data-multiplyer-from-cnap-acc.incoming.test.vm-04.azure.grid.rws.nl
 rdw-proxy-actuator.tolvrij.test.vm-04.azure.grid.rws.nl
 rdw-proxy-actuators.tolvrij.test.vm-04.azure.grid.rws.nl
@@ -1157,6 +1167,10 @@ tmp-test-lmw-ignore-me.k8s.lmwnext-ota.cnap-am4.intranet.rws.nl
 tmxweb.rws.nl
 toegangderden.rws.nl
 tolvrij-proxy-actuators.test.vm-04.azure.grid.rws.nl
+tool-esbxml-supplier-vcmn.incoming.test.vm-04.azure.grid.rws.nl
+tool-esbxml-supplier-vcnon.incoming.test.vm-04.azure.grid.rws.nl
+tool-esbxml-supplier-vcnwn.incoming.test.vm-04.azure.grid.rws.nl
+tool-esbxml-supplier-vczn.incoming.test.vm-04.azure.grid.rws.nl
 tool-esbxml-supplier.incoming.test.vm-04.azure.grid.rws.nl
 tool-esbxml-supplier.mtm2-redesign.test.vm-04.azure.grid.rws.nl
 topdesk.rws.nl
@@ -1214,7 +1228,10 @@ vos.intranet.rws.nl
 vpn.rws.nl
 vpr.rws.nl
 vtwdatabase.rws.nl
+vwantestswe.rws-a5-p.azure.grid.rws.nl
+vwantestswecen.rws-a5-p.azure.grid.rws.nl
 vwantestswefd.rws-a5-a.azure.gridacc.rws.nl
+vwantestweu.rws-a5-p.azure.grid.rws.nl
 vwantestweufd.rws-a5-a.azure.gridacc.rws.nl
 vwantstswe.grid.rws.nl
 vwantstswe.gridacc.rws.nl
@@ -1348,6 +1365,7 @@ www.custompages.prd.web8.intranet.rws.nl
 www.cv-dynac.rws.nl
 www.dataservice.acceptatie.liwo.intranet.rws.nl
 www.dataservice.test.liwo.intranet.rws.nl
+www.ddapi-gslb.rws.nl
 www.deformatieviewer.rws.nl
 www.demo-geoservices.rws.nl
 www.demo-geoservices.intranet.rws.nl
