@@ -1,8 +1,8 @@
 name: Chaos Dataset
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 * * * *" # run once an hour
+#  schedule:
+#    - cron: "0 * * * *" # run once an hour
 
 jobs:
   Chaos-run:
@@ -48,6 +48,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
+
 
 
 
