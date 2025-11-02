@@ -7,11 +7,13 @@
 *.ci-bla-record-harvester.dev.sdp.surf.nl
 *.ci-chore-migrate-fl-record-harvester.dev.sdp.surf.nl
 *.ci-cors-record-harvester.dev.sdp.surf.nl
+*.ci-deps-record-harvester.dev.sdp.surf.nl
 *.ci-docker-proxy-record-harvester.dev.sdp.surf.nl
 *.ci-edurep-parsing-record-harvester.dev.sdp.surf.nl
 *.ci-feat-nplsinf-761-record-harvester.dev.sdp.surf.nl
 *.ci-file-names-record-harvester.dev.sdp.surf.nl
 *.ci-fix-dependencies-record-harvester.dev.sdp.surf.nl
+*.ci-fix-identifiers-record-harvester.dev.sdp.surf.nl
 *.ci-fix-limits-record-harvester.dev.sdp.surf.nl
 *.ci-fix-mistagging-record-harvester.dev.sdp.surf.nl
 *.ci-fix-parsing-erro-record-harvester.dev.sdp.surf.nl
@@ -88,6 +90,8 @@
 *.mgmt.argos.surf.nl
 *.mgmt.secops.surf.nl
 *.mgt.argos.surf.nl
+*.noc01p.ia.surf.nl
+*.noc02p.ia.surf.nl
 *.objectstorage.surf.nl
 *.objectstore.surf.nl
 *.opencti.surf.nl
@@ -101,6 +105,7 @@
 *.record-harvester.test.sdp.surf.nl
 *.s3.surf.nl
 *.secops.surf.nl
+*.sirt-elk.secops.surf.nl
 *.snellius.surf.nl
 *.soil.surf.nl
 *.stage-int.sdp.surf.nl
@@ -113,6 +118,8 @@
 *.test.sram.surf.nl
 *.tst-ice.surf.nl
 *.vas.secops.surf.nl
+*.yeet01p.ia.surf.nl
+*.yeet02p.ia.surf.nl
 0321.ap.surf.nl
 0504.ap.surf.nl
 0505.ap.surf.nl
@@ -487,6 +494,7 @@
 29-utr.vpn.surf.nl
 2fa.surf.nl
 2fa-test.ia.surf.nl
+2fa.ia.surf.nl
 2fa.test.ia.surf.nl
 2fa.test.scz.lab.surf.nl
 3-ams.vpn.surf.nl
@@ -872,12 +880,21 @@ chime0.surf.nl
 chime3.surf.nl
 chime4.surf.nl
 chime7.surf.nl
+ci-3fd4dc22dda61d76-monitoring.dev.sdp.surf.nl
+ci-90efe5c746bccbb7-monitoring.dev.sdp.surf.nl
 ci-aea700f78a8e8444-monitoring.dev.sdp.surf.nl
 ci-be1d72854b8fe946-monitoring.dev.sdp.surf.nl
 ci-bundle-admin.cxp.dev.sdp.surf.nl
+ci-chore-chart-back-backstage.dev.sdp.surf.nl
 ci-chore-flux-v2-cr-monitoring.dev.sdp.surf.nl
+ci-chore-update-fro-backstage.dev.sdp.surf.nl
+ci-chore-upgrade-fr-monitoring.dev.sdp.surf.nl
+ci-chore-use-docker-backstage.dev.sdp.surf.nl
+ci-chore-yarn-v4-10-backstage.dev.sdp.surf.nl
+ci-d36366a65e9bc955-monitoring.dev.sdp.surf.nl
 ci-dev-admin.cxp.dev.sdp.surf.nl
 ci-docker-proxy-admin.cxp.dev.sdp.surf.nl
+ci-ecbc86738c96ac4e-monitoring.dev.sdp.surf.nl
 ci-fix-harvester-ca-admin.cxp.dev.sdp.surf.nl
 ci-fix-key-usages-admin.cxp.dev.sdp.surf.nl
 ci-fixes-admin.cxp.dev.sdp.surf.nl
@@ -887,6 +904,7 @@ ci-material-stats-admin.cxp.dev.sdp.surf.nl
 ci-nitpick-admin.cxp.dev.sdp.surf.nl
 ci-nplsinfr-753-sra-admin.cxp.dev.sdp.surf.nl
 ci-renovate-admin-p-admin.cxp.dev.sdp.surf.nl
+ci-renovate-alembic-monitoring.dev.sdp.surf.nl
 ci-renovate-backsta-backstage.dev.sdp.surf.nl
 ci-renovate-cr-surf-backstage.dev.sdp.surf.nl
 ci-renovate-cr-surf-monitoring.dev.sdp.surf.nl
@@ -898,10 +916,13 @@ ci-renovate-faststr-monitoring.dev.sdp.surf.nl
 ci-renovate-localst-monitoring.dev.sdp.surf.nl
 ci-renovate-lock-fi-backstage.dev.sdp.surf.nl
 ci-renovate-lock-fi-monitoring.dev.sdp.surf.nl
+ci-renovate-major-r-backstage.dev.sdp.surf.nl
+ci-renovate-materia-backstage.dev.sdp.surf.nl
 ci-renovate-minio-7-monitoring.dev.sdp.surf.nl
 ci-renovate-mkdocs--monitoring.dev.sdp.surf.nl
 ci-renovate-mypy-1--monitoring.dev.sdp.surf.nl
 ci-renovate-node-22-backstage.dev.sdp.surf.nl
+ci-renovate-node-24-backstage.dev.sdp.surf.nl
 ci-renovate-node-gy-backstage.dev.sdp.surf.nl
 ci-renovate-node-lt-admin.cxp.dev.sdp.surf.nl
 ci-renovate-playwri-backstage.dev.sdp.surf.nl
@@ -911,10 +932,12 @@ ci-renovate-pytest--monitoring.dev.sdp.surf.nl
 ci-renovate-rollup--admin.cxp.dev.sdp.surf.nl
 ci-renovate-ruff-0--monitoring.dev.sdp.surf.nl
 ci-renovate-rust-ju-monitoring.dev.sdp.surf.nl
+ci-renovate-spotify-backstage.dev.sdp.surf.nl
 ci-renovate-sqlmode-monitoring.dev.sdp.surf.nl
 ci-renovate-starlet-monitoring.dev.sdp.surf.nl
 ci-renovate-surf-in-admin.cxp.dev.sdp.surf.nl
 ci-renovate-surf-in-backstage.dev.sdp.surf.nl
+ci-renovate-surf-in-monitoring.dev.sdp.surf.nl
 ci-renovate-testcon-monitoring.dev.sdp.surf.nl
 ci-renovate-uvicorn-monitoring.dev.sdp.surf.nl
 ci-runner.sram.surf.nl
@@ -1030,6 +1053,7 @@ dab.surf.nl
 darvaza.backup.surf.nl
 dashboard-events.surf.nl
 dashboard-test.surf.nl
+dashboard1.int.ia.surf.nl
 dashboards.wur.logging-poc.surf.nl
 data.surf.nl
 dataexchange-test.lab.surf.nl
@@ -1112,6 +1136,7 @@ door1.dcache.surf.nl
 door1.hts.surf.nl
 door3.dcache.surf.nl
 door3.hts.surf.nl
+dotnet.pilot1.sram.surf.nl
 drie.172.surf.nl
 drie.173.surf.nl
 drie.174.surf.nl
@@ -1392,6 +1417,7 @@ foo.exp.scz.lab.surf.nl
 footlogs.argos.surf.nl
 footprints.ia.surf.nl
 fr.fer.oidf.lab.surf.nl
+fred-halon.surf.nl
 fs1-soil-utp.soil.surf.nl
 fs1.liza.surf.nl
 fs1.mgt.willma.surf.nl
@@ -2029,6 +2055,11 @@ ge.gif.oidf.lab.surf.nl
 generator.exp.scz.lab.surf.nl
 ggast-honderdnegenentachtig.160.surf.nl
 gh.garnetif.oidf.lab.surf.nl
+git-test.ia.surf.nl
+git02t.ia.surf.nl
+git02t.int.ia.surf.nl
+git03p.ia.surf.nl
+git03p.int.ia.surf.nl
 git1.ia.surf.nl
 gitlab.surf.nl
 gitlab-runner10p.ia.surf.nl
@@ -3085,6 +3116,8 @@ nile.m-sbrs.surf.nl
 nile.sbrs.surf.nl
 nl.surfconext.oidf.lab.surf.nl
 no.feide.oidf.lab.surf.nl
+noc01p.ia.surf.nl
+noc02p.ia.surf.nl
 nomad.exp.sram.lab.surf.nl
 notebook.pilot1.sram.surf.nl
 ns1.ia.surf.nl
@@ -3111,6 +3144,7 @@ ofcli.pilot1.sram.surf.nl
 oidc-lab.eduid.lab.surf.nl
 oidc-lab.pilot1.sram.surf.nl
 oidc-op.pilot1.sram.surf.nl
+oidc-rp.pilot1.sram.surf.nl
 oidc-sample.eduid.lab.surf.nl
 oidc-test.eduid.lab.surf.nl
 oidc-test.exp.scz.lab.surf.nl
@@ -3176,6 +3210,7 @@ owd2009.surf.nl
 owl.surf.nl
 owncloud.exp.scz.lab.surf.nl
 owncloud.exp.sram.lab.surf.nl
+package.storage.surf.nl
 package2.storage.surf.nl
 pages.exp.scz.lab.surf.nl
 pam.exp.scz.lab.surf.nl
@@ -3212,9 +3247,13 @@ pi-web2.ia.surf.nl
 pi-web2.int.ia.surf.nl
 pid.exp.scz.lab.surf.nl
 pid2.exp.scz.lab.surf.nl
+pidea01p.ia.surf.nl
+pidea01p.int.ia.surf.nl
 pidea01t.ia.surf.nl
 pidea01t.int.ia.surf.nl
 pidea01t.test.ia.surf.nl
+pidea02p.ia.surf.nl
+pidea02p.int.ia.surf.nl
 pidea02t.ia.surf.nl
 pidea02t.int.ia.surf.nl
 pidea02t.test.ia.surf.nl
@@ -3307,8 +3346,10 @@ programmatweedaagse2020.surf.nl
 prometheus-client.cluster-dev-2.sdp.surf.nl
 prometheus-client.cluster-dev-3.otc.sdp.surf.nl
 prometheus-client.cluster-dev.sdp.surf.nl
+prometheus-client.dev.sdp.surf.nl
 prometheus-client.infra.sdp.surf.nl
 prometheus-client.playground.sdp.surf.nl
+prometheus-client.prod.sdp.surf.nl
 prometheus-client.stage.sdp.surf.nl
 prometheus-client.staging.otc.sdp.surf.nl
 prometheus-client.test.sdp.surf.nl
@@ -3390,6 +3431,7 @@ relying-party.pilot1.sram.surf.nl
 reports.surf.nl
 repository.surf.nl
 researchcloud.surf.nl
+researchdrive.surf.nl
 rio.surfeduhub.surf.nl
 rivm-resc2.irods.surf.nl
 rmt.ia.surf.nl
@@ -3434,6 +3476,7 @@ sched1-pub.snellius.surf.nl
 sched1-snel.snellius.surf.nl
 sched2-pub.snellius.surf.nl
 sched2-snel.snellius.surf.nl
+scim-irods.pilot1.sram.surf.nl
 scim-monitor.sram.surf.nl
 scim.exp.sram.lab.surf.nl
 scim.pilot1.sram.surf.nl
@@ -3472,6 +3515,7 @@ sia-fw-asd.surf.nl
 sia-fw-tilb.surf.nl
 sia-fw-utr.surf.nl
 sip.surf.nl
+sirt-elk.secops.surf.nl
 sis.dev.dlo.surf.nl
 sis.experimenteer.dlo.surf.nl
 sis.test.dlo.surf.nl
@@ -4366,6 +4410,7 @@ tcn998-pub.snellius.surf.nl
 tcn999-pub.snellius.surf.nl
 tdr-prod.surf.nl
 teams.pilot1.sram.surf.nl
+techtrends.surf.nl
 test.surf.nl
 test-01.data.surf.nl
 test-account.exp.scz.lab.surf.nl
@@ -4865,6 +4910,7 @@ voot.pilot1.sram.surf.nl
 vpn.surf.nl
 vpn-ams.surf.nl
 vpn-utr.surf.nl
+vpn.test.ia.surf.nl
 vpn01t.ia.surf.nl
 vpn01t.int.surf.nl
 vpn01t.int.ia.surf.nl
@@ -4932,6 +4978,7 @@ www.event.surf.nl
 www.events.surf.nl
 www.experimenteer.dlo.surf.nl
 www.innovationchallenge2015.surf.nl
+www.kandidaten.werkenbij.surf.nl
 www.la-exp.surf.nl
 www.letsconnect.surf.nl
 www.pea.surf.nl
@@ -4964,6 +5011,8 @@ xrif.surf.nl
 xws1.ia.surf.nl
 xws2.ia.surf.nl
 xxx.pilot1.sram.surf.nl
+yeet01p.ia.surf.nl
+yeet02p.ia.surf.nl
 za.safire.oidf.lab.surf.nl
 zabbix.lab.surf.nl
 zabbix.scz.lab.surf.nl
@@ -5067,3 +5116,4 @@ zoekportaal.surf.nl
 zoekportaalback.surf.nl
 zoekportal.surf.nl
 zoekportalback.surf.nl
+zulip.sram.lab.surf.nl

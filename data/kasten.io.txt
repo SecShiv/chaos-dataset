@@ -1,3 +1,4 @@
+.kasten.io
 *.apps.aa-night-oprtr-1.aws.kasten.io
 *.apps.acm-cluster.aws.kasten.io
 *.apps.adhoc-1715855052-commit-245ed77.aws.kasten.io
@@ -47,6 +48,7 @@
 *.dev.azure.kasten.io
 *.dev.gke.kasten.io
 *.gke2.kasten.io
+*.ibm.aws.kasten.io
 aa-dremio-pilot.dev.do.kasten.io
 aa-operator-integ.dev.gke.kasten.io
 aa-vault-k8s-encr-integration-testcluster-65e72.dev.do.kasten.io
@@ -1898,6 +1900,7 @@ i-h3-test.dev.do.kasten.io
 i-test-2.dev.do.kasten.io
 i-test-https.dev.do.kasten.io
 i-test.dev.do.kasten.io
+ibm.aws.kasten.io
 ilya-gbl-test.dev.azure.kasten.io
 ilya-t.dev.azure.kasten.io
 ilya-test.dev.azure.kasten.io

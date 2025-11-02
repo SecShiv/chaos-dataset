@@ -32,6 +32,7 @@
 *.int.http1.netflix.com
 *.int.vip.netflix.com
 *.int.web.netflix.com
+*.local.dta.netflix.com
 *.nccp.netflix.com
 *.nccp.test.netflix.com
 *.ngp.int.cloud.netflix.com
@@ -1771,6 +1772,7 @@ nm.push.prod.us-east-2.netflix.com
 nm.push.prod.us-east-2.internal.dradis.netflix.com
 nm.push.prod.us-west-2.netflix.com
 nm.push.prod.us-west-2.internal.dradis.netflix.com
+nm.push.sandbox.netflix.com
 nm.push.staging.netflix.com
 nm.push.staging.eu-west-1.netflix.com
 nm.push.staging.eu-west-1.internal.dradis.netflix.com

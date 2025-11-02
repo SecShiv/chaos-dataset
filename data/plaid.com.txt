@@ -117,6 +117,7 @@ incoming-events.plaid.com
 incoming-events.prod.ue1.plaid.com
 interview.plaid.com
 jira.plaid.com
+jwks-endpoint.plaid.com
 k8s.plaid.com
 keybank-prod-api-20230831.plaid.com
 keybank-test-api-20230831.plaid.com
@@ -207,6 +208,7 @@ svb-mtls.plaid.com
 t.plaid.com
 tartan.plaid.com
 tartan.ue1.plaid.com
+tch-jws-testing-02-2025.plaid.com
 test-deleteme-jane.plaid.com
 testing.ue1.plaid.com
 threads.plaid.com
@@ -229,8 +231,10 @@ usbank-production-api-2023.plaid.com
 usbank-production-api-2024.plaid.com
 util.ue1.plaid.com
 verify.plaid.com
+verify-prod-qa.plaid.com
 verify-production.plaid.com
 verify-sandbox.plaid.com
+verify-sandbox-qa.plaid.com
 verite.plaid.com
 wadsworth-prod-cdn.plaid.com
 webhooks.plaid.com

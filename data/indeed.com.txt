@@ -36,6 +36,8 @@
 *.example-load-balancer.indeed.com
 *.ext.indeed.com
 *.failout-tool-test.indeed.com
+*.flex-core-demo-uk.indeed.com
+*.flex-core-demo-us.indeed.com
 *.fr.indeed.com
 *.ie.indeed.com
 *.irx.indeed.com
@@ -49,6 +51,7 @@
 *.mc.indeed.com
 *.mcp.indeed.com
 *.mechabugs.indeed.com
+*.msapi.indeed.com
 *.nl.indeed.com
 *.nrtprod1.indeed.com
 *.pages.corp.indeed.com
@@ -114,6 +117,7 @@ adwebapp.dyn.indeed.com
 ae.indeed.com
 ae.canary.indeed.com
 ae.conv.indeed.com
+ae.smartapply.indeed.com
 aets.indeed.com
 agency-agreement.indeed.com
 aggcentral.indeed.com
@@ -203,6 +207,7 @@ assessments-email-sender-ia-reverse-proxy.indeed.com
 at.indeed.com
 at.canary.indeed.com
 at.conv.indeed.com
+at.smartapply.indeed.com
 ats-management.indeed.com
 atsinterview.indeed.com
 au.indeed.com
@@ -242,6 +247,7 @@ bgrv06a8nh.indeed.com
 bh.indeed.com
 bh.canary.indeed.com
 bh.conv.indeed.com
+bh.smartapply.indeed.com
 billing.indeed.com
 billing-employers.indeed.com
 billing2.indeed.com
@@ -305,6 +311,7 @@ ch-fr.indeed.com
 ch-fr.smartapply.indeed.com
 ch.canary.indeed.com
 ch.conv.indeed.com
+ch.smartapply.indeed.com
 chat.indeed.com
 chat-inquiry.indeed.com
 chat-inquiry-qa.indeed.com
@@ -341,6 +348,7 @@ co.indeed.com
 co.canary.indeed.com
 co.conv.indeed.com
 cocos-api.indeed.com
+code-health-sonarqube-slack-bot.indeed.com
 code.corp.indeed.com
 com.connect-57-2.vpn.indeed.com
 compare.indeed.com
@@ -408,6 +416,7 @@ ddc.indeed.com
 de.indeed.com
 de.canary.indeed.com
 de.conv.indeed.com
+de.fraprod1.indeed.com
 deletev9redirectvirus.aggtest.indeed.com
 demo.indeed.com
 demo-data-handler.indeed.com
@@ -429,6 +438,7 @@ dns.indeed.com
 docs.indeed.com
 docs-plus.indeed.com
 dradis-taxonomy-api.indeed.com
+dsa-reporting-and-appeals.indeed.com
 dubprod1.indeed.com
 dubprod1.apply.indeed.com
 dubprod1.tf2.indeed.com
@@ -546,6 +556,7 @@ feedback.indeed.com
 fi.indeed.com
 fi.canary.indeed.com
 fi.conv.indeed.com
+fi.smartapply.indeed.com
 files.aggtest.indeed.com
 firefox.indeed.com
 fisheye.indeed.com
@@ -579,6 +590,7 @@ gb.conv.indeed.com
 gb.dubprod1.indeed.com
 gb.dyn.indeed.com
 gdc.indeed.com
+gethired.indeed.com
 getseen.indeed.com
 gigs.indeed.com
 github.portal2-9-1.ext.indeed.com
@@ -848,6 +860,7 @@ irx-api.indeed.com
 it.indeed.com
 it.canary.indeed.com
 it.conv.indeed.com
+it.smartapply.indeed.com
 itad.indeed.com
 itapalm.indeed.com
 itaportal.indeed.com
@@ -952,6 +965,7 @@ m5-yulprod1.apply.indeed.com
 m5.apply.indeed.com
 ma.indeed.com
 ma.conv.indeed.com
+ma.smartapply.indeed.com
 mail.indeed.com
 mail.virus32.aggtest.indeed.com
 mail32.indeed.com
@@ -1028,6 +1042,7 @@ mint.indeed.com
 mobile-app-backend.indeed.com
 models.indeed.com
 mosaic-provider-my-job-status.indeed.com
+msapi.indeed.com
 mta03-183.e.indeed.com
 mta03-184.e.indeed.com
 mta03-185.e.indeed.com
@@ -1065,9 +1080,11 @@ nicovideo.cdn.ap-southeast-2.vpn.indeed.com
 nl.indeed.com
 nl.canary.indeed.com
 nl.conv.indeed.com
+nl.smartapply.indeed.com
 no.indeed.com
 no.canary.indeed.com
 no.conv.indeed.com
+no.smartapply.indeed.com
 nortonantivirus.aggtest.indeed.com
 notantivirus-ru.aggtest.indeed.com
 npm.corp.indeed.com
@@ -1167,6 +1184,7 @@ pie-employers.indeed.com
 pk.indeed.com
 pk.canary.indeed.com
 pk.conv.indeed.com
+pk.smartapply.indeed.com
 pl.indeed.com
 pl.canary.indeed.com
 pl.conv.indeed.com
@@ -1215,6 +1233,7 @@ prw.indeed.com
 pt.indeed.com
 pt.canary.indeed.com
 pt.conv.indeed.com
+pt.smartapply.indeed.com
 pubdom-americas.indeed.com
 pubdom-aus.indeed.com
 pug-api.indeed.com
@@ -1225,6 +1244,7 @@ q.indeed.com
 qa.indeed.com
 qa.canary.indeed.com
 qa.conv.indeed.com
+qa.smartapply.indeed.com
 qa.statics.indeed.com
 qr.indeed.com
 qr-code.indeed.com
@@ -1295,6 +1315,7 @@ s3.indeed.com
 sa.indeed.com
 sa.canary.indeed.com
 sa.conv.indeed.com
+sa.smartapply.indeed.com
 saiyo.indeed.com
 salesjobs.indeed.com
 sam.dyn.indeed.com
@@ -1379,6 +1400,7 @@ spotlight.indeed.com
 sprj.indeed.com
 spw-employers.indeed.com
 squall.indeed.com
+sse-interview.indeed.com
 ssi.indeed.com
 sso.indeed.com
 staff.indeed.com
@@ -1441,6 +1463,7 @@ toast.dev-null.indeed.com
 tr.indeed.com
 tr.canary.indeed.com
 tr.conv.indeed.com
+tr.smartapply.indeed.com
 trail.indeed.com
 translation-slackbot.indeed.com
 travel.indeed.com
@@ -1511,6 +1534,7 @@ uy.smartapply.indeed.com
 vaccine.a.vpn.indeed.com
 vaccinetracker.backend.vpn.indeed.com
 ve.indeed.com
+ve.canary.indeed.com
 ve.conv.indeed.com
 ve.smartapply.indeed.com
 ve1134e.indeed.com

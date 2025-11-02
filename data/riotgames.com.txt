@@ -10,7 +10,9 @@
 *.anti-addiction.riotgames.com
 *.anti-addiction.kr.riotgames.com
 *.anti-fraud.kr.riotgames.com
+*.api.riotgames.com
 *.api-ggtech.riotgames.com
+*.api.anti-addiction.kr.riotgames.com
 *.api.anti-fraud.kr.riotgames.com
 *.api.dynamic-stats.kr.riotgames.com
 *.api.identity.kr.riotgames.com
@@ -179,6 +181,7 @@ api.anti-fraud.kr.riotgames.com
 api.antiaddiction.kr.riotgames.com
 api.apse1.aas.riotgames.com
 api.dev.parent-portal.riotgames.com
+api.developer.riotgames.com
 api.drop.event.kr.riotgames.com
 api.dynamic-stats.kr.riotgames.com
 api.eavs.kr.riotgames.com
@@ -1348,6 +1351,7 @@ preprod-usw2.signup.ext.accounts.riotgames.com
 preprod.account-verification.int.accounts.riotgames.com
 preprod.api-parents.accounts.riotgames.com
 preprod.api.accounts.riotgames.com
+preprod.api.pcbang.kr.riotgames.com
 preprod.auth.accounts.riotgames.com
 preprod.authenticate.accounts.riotgames.com
 preprod.chat.si.riotgames.com
@@ -1364,6 +1368,7 @@ preprod.rpg.riotgames.com
 preprod.signup-api.accounts.riotgames.com
 preprod.themes.pay.riotgames.com
 preprod.touchpoint.security.kr.riotgames.com
+preprod.wolf-permissions.riotgames.com
 preview.riotgames.com
 preview.api.shop.riotgames.com
 preview.cms.riotgames.com
@@ -1935,6 +1940,7 @@ sa4.chat.si.riotgames.com
 sa5.chat.si.riotgames.com
 san-prod-us.email-service.accounts.riotgames.com
 sandbox-api.portal.platform.riotgames.com
+sandbox.cms.riotgames.com
 sandbox.jira.riotgames.com
 sandbox.portal.platform.riotgames.com
 sandboxjenkins.riotgames.com
@@ -2056,6 +2062,7 @@ stage.authz-dynamo.i.accounts.riotgames.com
 stage.authz.i.accounts.riotgames.com
 stage.cdn.accounts.riotgames.com
 stage.chat.si.riotgames.com
+stage.cms.riotgames.com
 stage.connect2id.int.accounts.riotgames.com
 stage.demo.accounts.riotgames.com
 stage.devcon.riotgames.com
@@ -2135,6 +2142,7 @@ staging.admin.control.riotgames.com
 staging.admin.status.riotgames.com
 staging.analytics.developer.riotgames.com
 staging.api.live.riotgames.com
+staging.api.pcbang.kr.riotgames.com
 staging.artshare.riotgames.com
 staging.developer.riotgames.com
 staging.eu-admin.merch.riotgames.com
@@ -2162,6 +2170,9 @@ staging.tr.merch.riotgames.com
 staging.tw.merch.riotgames.com
 staging.wolf.riotgames.com
 staging.wolf-permissions.riotgames.com
+static-dev.email-verification.riotgames.com
+static-preprod.email-verification.riotgames.com
+static-stage.email-verification.riotgames.com
 static.developer.riotgames.com
 static.email-verification.riotgames.com
 static.esports.riotgames.com
@@ -2519,3 +2530,4 @@ xp1missions.riotgames.com
 xp1missions-development.riotgames.com
 xp1missions-staging.riotgames.com
 xray.security.riotgames.com
+xsso.riotgames.com

@@ -172,6 +172,7 @@
 *.stg.priv.rbx.com
 *.temp.ee-temporal.rbx.com
 *.temp.mewtwo.rbx.com
+*.tlei.st3.rbx.com
 *.webapps.sitetest3.rbx.com
 *.xray-iac-aws-stage-usw1-1.rbx.com
 *.xray-prod1.rbx.com
@@ -188,6 +189,8 @@ access.st3.rbx.com
 admin.rbx.com
 admin.github.rbx.com
 ai-inference-dev.prod.ml.rbx.com
+ai-inference-prod-2.prod.ml.rbx.com
+ai-inference-prod-3.prod.ml.rbx.com
 ai-inference-prod.prod.ml.rbx.com
 ai-inference.prod.ml.rbx.com
 aip-inference-prod-1.prod.ml.rbx.com
@@ -419,6 +422,8 @@ deployments.astro-dev.di.rbx.com
 design-roblox.st1.rbx.com
 design-roblox.st3.rbx.com
 dev-confluence-dns-name.rbx.com
+dev-docker-registry.rbx.com
+dev-docker-registry-stage.rbx.com
 dev-druid-ash1-monitor.di.rbx.com
 dev-druid-ash1-pivot.di.rbx.com
 dev-druid-ash1-router.di.rbx.com
@@ -512,6 +517,8 @@ grafana.astro-dev.di.rbx.com
 grpc.dev.follower.rbx.com
 grpc.dev.mewtwo.rbx.com
 grpc.mewtwo.rbx.com
+grpc.mrrouter-env-manager.stage.rbx.com
+grpc.o11y-node.rbx.com
 grpc.stage.mewtwo.rbx.com
 grpc.test.mewtwo.rbx.com
 guard-frontend.rbx.com
@@ -713,6 +720,7 @@ moderation.github.rbx.com
 mosaic-proxy-grpc.rbx.com
 mosaic-proxy-stage.rbx.com
 mosaic-proxy-stage-grpc.rbx.com
+mrrouter-em-stage.rbx.com
 nascar.rbx.com
 nascar-internal-lb.rbx.com
 nautilus.github.rbx.com
@@ -723,6 +731,7 @@ nomad-stage.rbx.com
 noteable.ml.rbx.com
 nrt-full-gw.bpo-vpn.rbx.com
 nrt-gw.bpo-vpn.rbx.com
+o11y-node.rbx.com
 o7.sg.rbx.com
 o8.sg.tools.rbx.com
 office.rbx.com
@@ -871,12 +880,16 @@ test-alb-okta-default.rbx.com
 test-okta-asg.rbx.com
 test-url.rbx.com
 test-url2.rbx.com
+test-vpn.rbx.com
+test.ee-temporal.rbx.com
 test.github.rbx.com
 testing.rbx.com
 tfe.rbx.com
 tfe-dev.rbx.com
 tfe-stage.rbx.com
 tfe-staging.rbx.com
+tlei.st1.rbx.com
+tlei.st3.rbx.com
 trino-adhoc-blue.di.rbx.com
 trino-adhoc-green.di.rbx.com
 trino-adhoc.di.rbx.com
@@ -935,6 +948,7 @@ www.questions.rbx.com
 www.scim.rbx.com
 www.scim-bridge.rbx.com
 www.security.rbx.com
+www.test-vpn.rbx.com
 www.tfe.rbx.com
 www.tfe-dev.rbx.com
 www.vpn.rbx.com

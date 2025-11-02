@@ -79,6 +79,7 @@
 *.prod.app.sbb.ch
 *.prod.devapp.sbb.ch
 *.selfsigned-test.devapp.sbb.ch
+*.simolo.dev.ocp2.halon.sbb.ch
 *.simolo.np.ocp1.halon.sbb.ch
 *.splunk.sbb.ch
 *.test-beta.sbb.ch
@@ -239,6 +240,7 @@ aadrhzgg.event.sbb.ch
 abowkeix.event.sbb.ch
 abschlussapero.event.sbb.ch
 abschlussevent-sclb.event.sbb.ch
+abschlussevent.event.sbb.ch
 abykmewb.event.sbb.ch
 access.sbb.ch
 accessi.sbb.ch
@@ -410,6 +412,7 @@ apu-p-qgate4-i.sbb.ch
 architekturtag.event.sbb.ch
 areamanager.sbb.ch
 areamanager-test.sbb.ch
+arnirbkc.event.sbb.ch
 asset.sbb.ch
 asset-alias.app.sbb.ch
 assets.insa.sbb.ch
@@ -535,6 +538,7 @@ betriebsreport-dev.sbb.ch
 betriebsreport-int.sbb.ch
 betriebsreport-test.sbb.ch
 bfbflp.event.sbb.ch
+bfccjxsq.event.sbb.ch
 bgaxvnwx.event.sbb.ch
 bgoonllb.guidee.gare.geneve.event.sbb.ch
 bhkorzcp.event.sbb.ch
@@ -601,6 +605,7 @@ biv-zvl-olten-19022025.event.sbb.ch
 biv-zvl-olten-23042025.event.sbb.ch
 biv-zvl-olten-25102023.event.sbb.ch
 biv-zvl-olten-25112022.event.sbb.ch
+biv-zvl-olten-26032.event.sbb.ch
 biv-zvl-olten-26032025.event.sbb.ch
 biv-zvl-olten-260325.event.sbb.ch
 biv-zvl-olten-27092023.event.sbb.ch
@@ -696,6 +701,7 @@ business-intergration.sbb.ch
 business-intergration-dev.sbb.ch
 business-intergration-int.sbb.ch
 business-intergration-utest.sbb.ch
+business.test-xcms.sbb.ch
 bvt.sbb.ch
 bvt-dev.sbb.ch
 bvt-inte.sbb.ch
@@ -713,6 +719,7 @@ c714-16d2.event.sbb.ch
 ca3f-0a11.event.sbb.ch
 cafe-du-rail.event.sbb.ch
 cafedurail2025.event.sbb.ch
+cafedurailmars2025.event.sbb.ch
 cafelausanne.event.sbb.ch
 cafeprocff.event.sbb.ch
 call-for-requirements.event.sbb.ch
@@ -1041,6 +1048,8 @@ deploy-tss-i.sbb.ch
 deploy-tss-t.sbb.ch
 deploy-v.sbb.ch
 deploymentchecker.dev.ocp1.halon.sbb.ch
+deploymentchecker.dev.ora1.halon.sbb.ch
+deploymentchecker.dev.sol1.halon.sbb.ch
 depotsystem.sbb.ch
 depotsysteminte.sbb.ch
 deprecated-developer.sbb.ch
@@ -1422,6 +1431,7 @@ edi-adapter-proxy.ws.sbb.ch
 edu-www.sbb.ch
 ee02-9547.event.sbb.ch
 eetwbxuq.event.sbb.ch
+eexoqdfr.event.sbb.ch
 efrdkqvk.event.sbb.ch
 eimwsjye.event.sbb.ch
 einblickbzost-partner.event.sbb.ch
@@ -1498,6 +1508,7 @@ etcsst-int.sbb.ch
 etcsst-test.sbb.ch
 etest.sbb.ch
 etzbidbm.event.sbb.ch
+eurodufour.event.sbb.ch
 evenement-partenaires.event.sbb.ch
 event.chiasso.event.sbb.ch
 eventa.event.sbb.ch
@@ -1774,6 +1785,7 @@ hec-cdn.mon-nonprod.sbb.ch
 hec.mon-dev.sbb.ch
 help.sbb.ch
 heureka.sbb.ch
+hhjjsyqu.event.sbb.ch
 hi1-ssl-client.sbb.ch
 hihi.dev-files.sbb.ch
 hjmzvfiu.event.sbb.ch
@@ -1992,6 +2004,7 @@ inaugurazione.officina.chiasso.event.sbb.ch
 info-sbb-bwt-2024.event.sbb.ch
 infoanlass-rheintal.event.sbb.ch
 infoanlass-rheintal2022.event.sbb.ch
+infoanlass.zvl.26.11.event.sbb.ch
 infocenter.sbb.ch
 infoportal.sbb.ch
 informationsveranstaltung-zsth-2023.event.sbb.ch
@@ -2603,11 +2616,13 @@ moudon.event.sbb.ch
 mqefyavu.event.sbb.ch
 mqtt-awsa-p01.sbb.ch
 mqtt-awsa-t01.sbb.ch
+mqtt-awsa-t02.sbb.ch
 mqtt-awsb-p01.sbb.ch
 mqtt-awsb-t01.sbb.ch
 mqtt-awsb-t02.sbb.ch
 mqtt-awsc-p01.sbb.ch
 mqtt-awsc-t01.sbb.ch
+mqtt-awsc-t02.sbb.ch
 mqtte-fzge-int.sbb.ch
 mqtte-fzge-prod.sbb.ch
 mqtte-fzge-test.sbb.ch
@@ -2689,6 +2704,7 @@ next-vorgaben.sbb.ch
 nextjob.sbb.ch
 nice-apa-inte.sbb.ch
 nightjet-medienanlass.event.sbb.ch
+nightjet.event.sbb.ch
 nightjetmedienanlasserstfahrt.event.sbb.ch
 nkt.sbb.ch
 nkt-dev.sbb.ch
@@ -2732,6 +2748,7 @@ oberriet.event.sbb.ch
 ocmchbkc.event.sbb.ch
 od-summit-workshop.event.sbb.ch
 od-summit2024.event.sbb.ch
+odsummit2025.event.sbb.ch
 oevgov-ec.int-www.sbb.ch
 oevgov-ic.int-www.sbb.ch
 oevgov-ir.int-www.sbb.ch
@@ -2768,6 +2785,7 @@ oquezteb.event.sbb.ch
 oraaux-otc2-t04.sbb.ch
 oracleapi-ct.dev.ora1.halon.sbb.ch
 oracleapi.dev.ora1.halon.sbb.ch
+oracleapi.dev.ora2.halon.sbb.ch
 oracleapi.np.ora1.halon.sbb.ch
 orariocargo-alias.app.sbb.ch
 orbita.sbb.ch
@@ -2780,6 +2798,7 @@ order.info.sbb.ch
 ordermanagement.cop.tms.sbb.ch
 ordermanagement.cop.tms-int.sbb.ch
 ordermanagement.cop.tms-test.sbb.ch
+orhhcrks.event.sbb.ch
 orig-beta.sbb.ch
 origin.business.sbb.ch
 origin.dev-business.sbb.ch
@@ -2837,9 +2856,12 @@ pens-bern-2025.event.sbb.ch
 pens-st.gallen-2025.event.sbb.ch
 pens-wettingen-2025.event.sbb.ch
 pensionierte-2024-hochdorf.event.sbb.ch
+pensionierte-bern-2024.event.sbb.ch
+pensionierte-bi-2025.event.sbb.ch
 pensionierte-gotthard.event.sbb.ch
 pensionierte-la-2025.event.sbb.ch
 pensionierte-olten-2024.event.sbb.ch
+pensionierte-olten-2025.event.sbb.ch
 pensionierte-sg-2024.event.sbb.ch
 pensionierten-anlass-bern.event.sbb.ch
 pensionierten-anlass-giubiasco.event.sbb.ch
@@ -2894,6 +2916,7 @@ poc-dex.sbb.ch
 poc-oauth-test-ws.sbb.ch
 pointsharp.sbb.ch
 pointsharp-portal.sbb.ch
+pokga2025.event.sbb.ch
 polarion.sbb.ch
 polarion-coordinator.sbb.ch
 polarion-coordinator-d.sbb.ch
@@ -2981,6 +3004,7 @@ prosec-planung-dev.sbb.ch
 prosec-planung-edu.sbb.ch
 prosec-planung-int.sbb.ch
 prosec-planung-test.sbb.ch
+prosec-sst-test.sbb.ch
 prosec-warnung.sbb.ch
 prosec-warnung-dev.sbb.ch
 prosec-warnung-edu.sbb.ch
@@ -3011,6 +3035,7 @@ pw.cdc-dmz.sbb.ch
 pwfqpluf.event.sbb.ch
 q04-ssl-client.sbb.ch
 qcqblzsn.event.sbb.ch
+qctgcvax.event.sbb.ch
 qctraqsw.event.sbb.ch
 qi1-ssl-client.sbb.ch
 qkcmusrp.event.sbb.ch
@@ -3089,6 +3114,7 @@ reiseplanung.vnext-nonprod.sbb.ch
 reisezentrum-zhhb.event.sbb.ch
 relaunch.sbb.ch
 remerciements.event.sbb.ch
+repaitma.event.sbb.ch
 replicator-connect-dev-sc.kafka.sbb.ch
 replicator-connect-test-sc.kafka.sbb.ch
 reporting.sbb.ch
@@ -3386,6 +3412,7 @@ sep-kep.sbb.ch
 servetsch.sbb.ch
 service.sbb.ch
 serviceanlageherdern161023.event.sbb.ch
+seyuhmmy.event.sbb.ch
 sftp-intern.sbb.ch
 sftpi-intern.sbb.ch
 sharepoint-addins.sbb.ch
@@ -3407,6 +3434,7 @@ signature.pg.jura.event.sbb.ch
 signaturepgne.event.sbb.ch
 simolo.dev.ocp1.halon.sbb.ch
 simplicity24.event.sbb.ch
+simqjrao.event.sbb.ch
 sip.sbb.ch
 sip2.sbb.ch
 sip2-d.sbb.ch
@@ -3497,6 +3525,7 @@ sommerfest2024.event.sbb.ch
 sommerfest24.event.sbb.ch
 sommerfestdz2025.event.sbb.ch
 sommerfestowt2025.event.sbb.ch
+sommerfestzue.event.sbb.ch
 sondages-dev.sbb.ch
 sopreweb.sbb.ch
 soprewebint.sbb.ch
@@ -3587,6 +3616,7 @@ starshare-intern-int.sbb.ch
 startrans-intern.sbb.ch
 startrans-intern-int.sbb.ch
 startup.sbb.ch
+static.dev-community.sbb.ch
 status.commerce.sbb.ch
 stefanraimann.event.sbb.ch
 stephanpfuhl.event.sbb.ch
@@ -3594,6 +3624,7 @@ stoerungsmeldung.event.sbb.ch
 stories.sbb.ch
 stsjryyo.event.sbb.ch
 styjykja.event.sbb.ch
+sunhdgxl.event.sbb.ch
 supersaver.sbb.ch
 suppliers.sbb.ch
 suppliersint.sbb.ch
@@ -3644,6 +3675,7 @@ tcc130923.event.sbb.ch
 tccmitte.event.sbb.ch
 tccosteroeffnung.event.sbb.ch
 tdjvccnl.event.sbb.ch
+tdldqwss.event.sbb.ch
 tdmzchext.sbb.ch
 tdot-natur.event.sbb.ch
 tdot-sbb.event.sbb.ch
@@ -3930,6 +3962,7 @@ ukygholq.event.sbb.ch
 umstieg-trias.event.sbb.ch
 unfallmeldung.sbb.ch
 unfallmeldung-test.sbb.ch
+uqzfsadv.event.sbb.ch
 url.sbb.ch
 url-deve.sbb.ch
 url-test.sbb.ch
@@ -4221,6 +4254,7 @@ www.9694-bc26.event.sbb.ch
 www.9857-9ebf.event.sbb.ch
 www.a2c1-e9be.event.sbb.ch
 www.aadrhzgg.event.sbb.ch
+www.abschlussevent.event.sbb.ch
 www.abykmewb.event.sbb.ch
 www.access.sbb.ch
 www.accessi.sbb.ch
@@ -4229,6 +4263,7 @@ www.aditest.sbb.ch
 www.aditest-csr.sbb.ch
 www.aditest3.sbb.ch
 www.afcc-6fc0.event.sbb.ch
+www.alumni-event.event.sbb.ch
 www.alumni-event.forms.event.sbb.ch
 www.alxxavam.event.sbb.ch
 www.anmeldung-zukunftstag-2024.event.sbb.ch
@@ -4241,6 +4276,7 @@ www.app.office-addins.sbb.ch
 www.apu.sbb.ch
 www.areamanager.sbb.ch
 www.areamanager-test.sbb.ch
+www.arnirbkc.event.sbb.ch
 www.asset.sbb.ch
 www.aszyuxbk.event.sbb.ch
 www.atiltqjc.event.sbb.ch
@@ -4254,6 +4290,8 @@ www.bahntechnikhaegendorf2.event.sbb.ch
 www.bbtc180924.event.sbb.ch
 www.bcd27112025.event.sbb.ch
 www.bcd28112024.event.sbb.ch
+www.bfccjxsq.event.sbb.ch
+www.bgaxvnwx.event.sbb.ch
 www.bhkorzcp.event.sbb.ch
 www.bim-industry-days.event.sbb.ch
 www.bimcommunityday1742024.event.sbb.ch
@@ -4278,6 +4316,7 @@ www.biv-zvl-olten-18062025.event.sbb.ch
 www.biv-zvl-olten-19022025.event.sbb.ch
 www.biv-zvl-olten-23042025.event.sbb.ch
 www.biv-zvl-olten-25112022.event.sbb.ch
+www.biv-zvl-olten-26032.event.sbb.ch
 www.biv-zvl-olten-26032025.event.sbb.ch
 www.biv-zvl-olten-260325.event.sbb.ch
 www.biv-zvl-ost-250822.event.sbb.ch
@@ -4293,6 +4332,7 @@ www.brlt131124.event.sbb.ch
 www.bsa-int-training.sbb.ch
 www.bsi-biv-270824.event.sbb.ch
 www.cafedurail2025.event.sbb.ch
+www.cafedurailmars2025.event.sbb.ch
 www.cafeprocff.event.sbb.ch
 www.capre.sbb.ch
 www.capre-int.app.obelix.otc.sbb.ch
@@ -4341,6 +4381,7 @@ www.dbcwnskt.event.sbb.ch
 www.demo-cert.sbb.ch
 www.deploy-t.sbb.ch
 www.dev-orig-beta.sbb.ch
+www.devday23.event.sbb.ch
 www.dex.sbb.ch
 www.diagnosetool.sbb.ch
 www.didok3.sbb.ch
@@ -4359,6 +4400,7 @@ www.ec2-9886.nonprod.aws.sbb.ch
 www.ecifbfzt.event.sbb.ch
 www.ecxituik.event.sbb.ch
 www.eetwbxuq.event.sbb.ch
+www.eexoqdfr.event.sbb.ch
 www.eimwsjye.event.sbb.ch
 www.einblickbzost-partner.event.sbb.ch
 www.eirosito.event.sbb.ch
@@ -4370,6 +4412,7 @@ www.energiejobs160524.event.sbb.ch
 www.enlavaux.event.sbb.ch
 www.entrenous23.event.sbb.ch
 www.eradn.sbb.ch
+www.eurodufour.event.sbb.ch
 www.evento-sh-p-ffs.event.sbb.ch
 www.evwifuzh.event.sbb.ch
 www.executive.event.sbb.ch
@@ -4394,6 +4437,7 @@ www.fntcommand.sbb.ch
 www.fobdfkib.event.sbb.ch
 www.forschunginnovation171123.event.sbb.ch
 www.forum-de-rail-romand.event.sbb.ch
+www.forum-du-rail-romand-ateliers2.event.sbb.ch
 www.forumoevplanung.event.sbb.ch
 www.fotos.sbb.ch
 www.fr-eventment-salonsuisse.event.sbb.ch
@@ -4442,6 +4486,7 @@ www.handwerk-challenge.event.sbb.ch
 www.handwerk-event.event.sbb.ch
 www.help.sbb.ch
 www.heureka.sbb.ch
+www.hhjjsyqu.event.sbb.ch
 www.hi1-ssl-client.sbb.ch
 www.hjmzvfiu.event.sbb.ch
 www.hkwjhjuw.event.sbb.ch
@@ -4453,6 +4498,7 @@ www.hphutaur.event.sbb.ch
 www.hpketkhj.event.sbb.ch
 www.hrapps.sbb.ch
 www.ht1-ssl-client.sbb.ch
+www.huomgxol.event.sbb.ch
 www.hziroggd.event.sbb.ch
 www.i-aep-2025.event.sbb.ch
 www.i02-ssl-client.sbb.ch
@@ -4470,6 +4516,7 @@ www.iiimcjud.event.sbb.ch
 www.ikqhoqpq.event.sbb.ch
 www.imconnect25.event.sbb.ch
 www.inaugurazione.officina.chiasso.event.sbb.ch
+www.infoanlass.zvl.26.11.event.sbb.ch
 www.infocenter.sbb.ch
 www.informationsveranstaltung-zsth-2023.event.sbb.ch
 www.ingenieurwesen.event.sbb.ch
@@ -4516,6 +4563,7 @@ www.koserv.sbb.ch
 www.ktbe25.event.sbb.ch
 www.ktgr25.event.sbb.ch
 www.kulturfuehrungl5.event.sbb.ch
+www.kulturundfuehrung.event.sbb.ch
 www.kundenboard.20032024.event.sbb.ch
 www.kundenstimme.sbb.ch
 www.kundentag2024.event.sbb.ch
@@ -4542,6 +4590,7 @@ www.lscpp.event.sbb.ch
 www.lscpp06.event.sbb.ch
 www.lscpp1123.event.sbb.ch
 www.lscpp231024.event.sbb.ch
+www.lunchbim2882024.event.sbb.ch
 www.lunchbimmitte2782024.event.sbb.ch
 www.lunchbimregionost2592024.event.sbb.ch
 www.lvs.sbb.ch
@@ -4552,8 +4601,10 @@ www.malehrlich.event.sbb.ch
 www.markenbotschafterin.event.sbb.ch
 www.meet-up-stoerungsmeldung.event.sbb.ch
 www.meet-up.event.sbb.ch
+www.mehrspur-bassersdorf.event.sbb.ch
 www.mehrspur-dietlikon2022.event.sbb.ch
 www.mehrspur-wallisellen.event.sbb.ch
+www.mehrspur-winterthur-toess2022.event.sbb.ch
 www.mehrspur.event.sbb.ch
 www.mehrspurbassersdorf.event.sbb.ch
 www.mehrspurwallisellen.event.sbb.ch
@@ -4566,6 +4617,8 @@ www.mmtkmjaw.event.sbb.ch
 www.mobileprod.sbb.ch
 www.moco.sbb.ch
 www.moudon.event.sbb.ch
+www.mqefyavu.event.sbb.ch
+www.mszw-bassersdorf-2023.event.sbb.ch
 www.mszw-dietlikon-2023.event.sbb.ch
 www.mszw-lindau-2023.event.sbb.ch
 www.mszw-nuerensdorf-2023.event.sbb.ch
@@ -4581,12 +4634,14 @@ www.nac.sbb.ch
 www.netzwerkeventfrauen.event.sbb.ch
 www.news.sbb.ch
 www.nextjob.sbb.ch
+www.nightjet.event.sbb.ch
 www.nlzxckjb.event.sbb.ch
 www.node1.tls-auth.sbb.ch
 www.notfallstab.sbb.ch
 www.nzlcdtzk.event.sbb.ch
 www.ocmchbkc.event.sbb.ch
 www.od-summit-workshop.event.sbb.ch
+www.odsummit2025.event.sbb.ch
 www.office-addins.sbb.ch
 www.ojp-2.0-en-exploitation-operationnelle.event.sbb.ch
 www.ojp2.0-exploitation-operationnelle-bls.event.sbb.ch
@@ -4600,6 +4655,7 @@ www.oquezteb.event.sbb.ch
 www.orbita.sbb.ch
 www.orca-if-ws.sbb.ch
 www.orca-xcb-testsuite.nonprod.aws.sbb.ch
+www.orhhcrks.event.sbb.ch
 www.origin.test-www.sbb.ch
 www.otcp-webinfoportal.sbb.ch
 www.p02-ssl-client.sbb.ch
@@ -4611,9 +4667,12 @@ www.pens-bern-2025.event.sbb.ch
 www.pens-st.gallen-2025.event.sbb.ch
 www.pens-wettingen-2025.event.sbb.ch
 www.pensionierte-2024-hochdorf.event.sbb.ch
+www.pensionierte-bern-2024.event.sbb.ch
+www.pensionierte-bi-2025.event.sbb.ch
 www.pensionierte-gotthard.event.sbb.ch
 www.pensionierte-la-2025.event.sbb.ch
 www.pensionierte-olten-2024.event.sbb.ch
+www.pensionierte-olten-2025.event.sbb.ch
 www.pensionierten-anlass-giubiasco.event.sbb.ch
 www.pensionierten-anlass.event.sbb.ch
 www.pensioniertenanlaesse2024.event.sbb.ch
@@ -4624,6 +4683,7 @@ www.pggarlox.event.sbb.ch
 www.pidsdgfu.event.sbb.ch
 www.pl-tag2025.event.sbb.ch
 www.pltag2024.event.sbb.ch
+www.pokga2025.event.sbb.ch
 www.polarion.sbb.ch
 www.polarion-t.sbb.ch
 www.prail.sbb.ch
@@ -4635,6 +4695,7 @@ www.produktionskonzept.event.sbb.ch
 www.pw.cdc-dmz.sbb.ch
 www.pwfqpluf.event.sbb.ch
 www.qcqblzsn.event.sbb.ch
+www.qctgcvax.event.sbb.ch
 www.qctraqsw.event.sbb.ch
 www.qi1-ssl-client.sbb.ch
 www.qkcmusrp.event.sbb.ch
@@ -4660,6 +4721,7 @@ www.rbt.sbb.ch
 www.rbt-ext.sbb.ch
 www.rcsadldev1.sbb.ch
 www.rcsadldev4.sbb.ch
+www.repaitma.event.sbb.ch
 www.reporting.sbb.ch
 www.reqfz.sbb.ch
 www.reqfz-i.sbb.ch
@@ -4687,13 +4749,16 @@ www.sbbgisday2025.event.sbb.ch
 www.sbbschulen-wankdorf.event.sbb.ch
 www.sbbstimme.sbb.ch
 www.schulzug.sbb.ch
+www.scrummasterday.event.sbb.ch
 www.scrummasterday2.event.sbb.ch
 www.scrummasterday24.event.sbb.ch
 www.seancedinformation030625.event.sbb.ch
+www.seyuhmmy.event.sbb.ch
 www.sharepoint-addins.sbb.ch
 www.sicherheitstage2025.event.sbb.ch
 www.signature.pg.jura.event.sbb.ch
 www.simplicity24.event.sbb.ch
+www.simqjrao.event.sbb.ch
 www.sip2.sbb.ch
 www.sip2-t.sbb.ch
 www.smartemma.sbb.ch
@@ -4712,6 +4777,7 @@ www.sn-cti-otc2-p02.sbb.ch
 www.sommerfest24.event.sbb.ch
 www.sommerfestdz2025.event.sbb.ch
 www.sommerfestowt2025.event.sbb.ch
+www.sommerfestzue.event.sbb.ch
 www.splunk-lb-new.sbb.ch
 www.sslwild.sbb.ch
 www.sso.sbb.ch
@@ -4723,6 +4789,7 @@ www.stadelhofen.event.sbb.ch
 www.stoerungsmeldung.event.sbb.ch
 www.stsjryyo.event.sbb.ch
 www.styjykja.event.sbb.ch
+www.sunhdgxl.event.sbb.ch
 www.swisssign-ssl-gold-csr-test.sbb.ch
 www.swisssign-ssl-gold-test.sbb.ch
 www.swisstainable-event.event.sbb.ch
@@ -4736,12 +4803,14 @@ www.tb-zt-25.event.sbb.ch
 www.tbd-danke.event.sbb.ch
 www.tcc-besuchbern.event.sbb.ch
 www.tdjvccnl.event.sbb.ch
+www.tdldqwss.event.sbb.ch
 www.tdot-natur.event.sbb.ch
 www.teams-addins.sbb.ch
 www.teects-swc1-p01.sbb.ch
 www.test.sbb.ch
 www.test-smo.sbb.ch
 www.test-smo-sslgold.sbb.ch
+www.test-xcms.sbb.ch
 www.test.smo.sbb.ch
 www.test1.sbb.ch
 www.test23.sbb.ch
@@ -4775,6 +4844,7 @@ www.udjbvxxv.event.sbb.ch
 www.ukiikovp.event.sbb.ch
 www.ukygholq.event.sbb.ch
 www.umstieg-trias.event.sbb.ch
+www.uqzfsadv.event.sbb.ch
 www.uswmrtxv.event.sbb.ch
 www.utarlrkw.event.sbb.ch
 www.uuizsyyp.event.sbb.ch
@@ -4813,9 +4883,11 @@ www.ws-fahrplankompetenzen.event.sbb.ch
 www.wxzjjudf.event.sbb.ch
 www.xipbwldi.event.sbb.ch
 www.xjicuelh.event.sbb.ch
+www.xjmcnmza.event.sbb.ch
 www.yekpejvw.event.sbb.ch
 www.yzqxaorn.event.sbb.ch
 www.zidmraty.event.sbb.ch
+www.zkcqiwwu.event.sbb.ch
 www.zmiflcxc.event.sbb.ch
 www.zqrmasre.event.sbb.ch
 www.zrfmtlgu.event.sbb.ch
@@ -4844,6 +4916,7 @@ xcfb-05.devapp.sbb.ch
 xipbwldi.event.sbb.ch
 xjicuelh.event.sbb.ch
 xjlxqwxf.event.sbb.ch
+xjmcnmza.event.sbb.ch
 xmlfahrplan.sbb.ch
 xmlfahrplani.sbb.ch
 xmlfahrplanint.sbb.ch
@@ -4867,6 +4940,7 @@ zidmraty.event.sbb.ch
 zis.sbb.ch
 zis-int.sbb.ch
 zis-test.sbb.ch
+zkcqiwwu.event.sbb.ch
 zke.sbb.ch
 zmiflcxc.event.sbb.ch
 zmon.sbb.ch
@@ -4932,3 +5006,7 @@ zvs-api-test-ws.sbb.ch
 zvs-api-ws.sbb.ch
 zvs-b2b-int-ws.sbb.ch
 zvs-b2b-test-ws.sbb.ch
+zvs-b2b-ws.sbb.ch
+zvs-int-ws.sbb.ch
+zvs-test-ws.sbb.ch
+zvs-ws.sbb.ch

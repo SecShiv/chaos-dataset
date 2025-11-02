@@ -1,5 +1,6 @@
 .clearance.network
 *.clearance.network
+au.clearance.network
 ca.clearance.network
 cc-proda-agentservice.clearance.network
 cc-prodau-agentservice.clearance.network
@@ -13,6 +14,7 @@ cersapi-ca-temp.clearance.network
 cersapi-eu.clearance.network
 cersapi-usgov.clearance.network
 cersapi-usgov-temp.clearance.network
+clearance-a-durs.clearance.network
 cs-au.clearance.network
 cs-ca.clearance.network
 cs-eu.clearance.network
@@ -29,6 +31,7 @@ dems-proda-api-2.clearance.network
 dems-proda-cart.clearance.network
 dems-proda-caseservice.clearance.network
 dems-proda-caseservice-temp.clearance.network
+dems-proda-deviceconfig.clearance.network
 dems-proda-deviceservice.clearance.network
 dems-proda-documentstore.clearance.network
 dems-proda-documentstore-temp.clearance.network
@@ -65,8 +68,10 @@ dems-prodau-api.clearance.network
 dems-prodau-api-2.clearance.network
 dems-prodau-api-temp.clearance.network
 dems-prodau-cart.clearance.network
+dems-prodau-deviceconfig.clearance.network
 dems-prodau-iproservice.clearance.network
 dems-prodau-iprouploadservice.clearance.network
+dems-prodau-public.clearance.network
 dems-prodau-public-temp.clearance.network
 dems-prodau-stream1.clearance.network
 dems-prodau-stream1-temp.clearance.network
@@ -89,6 +94,7 @@ dems-prodca-cersapi.clearance.network
 dems-prodca-cersapi-temp.clearance.network
 dems-prodca-cs.clearance.network
 dems-prodca-device.clearance.network
+dems-prodca-deviceconfig.clearance.network
 dems-prodca-ds.clearance.network
 dems-prodca-durs.clearance.network
 dems-prodca-iproservice.clearance.network
@@ -118,6 +124,7 @@ dems-prodeu-api.clearance.network
 dems-prodeu-api-2.clearance.network
 dems-prodeu-api-temp.clearance.network
 dems-prodeu-cart.clearance.network
+dems-prodeu-deviceconfig.clearance.network
 dems-prodeu-iproservice.clearance.network
 dems-prodeu-iprouploadservice.clearance.network
 dems-prodeu-public.clearance.network
@@ -137,6 +144,7 @@ dems-prodeu.api.clearance.network
 dems-produsgov-api.clearance.network
 dems-produsgov-api-2.clearance.network
 dems-produsgov-api-temp.clearance.network
+dems-produsgov-deviceconfig.clearance.network
 dems-produsgov-iproservice.clearance.network
 dems-produsgov-iprouploadservice-temp.clearance.network
 dems-produsgov-public.clearance.network
@@ -218,6 +226,7 @@ sts.clearance.network
 sts-au.clearance.network
 sts-ca.clearance.network
 sts-eu.clearance.network
+sts-us.clearance.network
 sts-us-temp.clearance.network
 sts-usgov.clearance.network
 uploader.clearance.network
@@ -226,3 +235,6 @@ usermanager-au.clearance.network
 usermanager-au-temp.clearance.network
 usermanager-ca.clearance.network
 usermanager-eu.clearance.network
+usermanager-usgov.clearance.network
+usgov.clearance.network
+www.clearance.network

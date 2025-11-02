@@ -53,6 +53,7 @@
 18.trk.emails.vimeo.com
 18.trk.prd.vimeo.com
 20.media.vimeo.com
+20.trk.emails.vimeo.com
 23.trk.emails.vimeo.com
 23.trk.trx.vimeo.com
 25.trk.emails.vimeo.com
@@ -62,14 +63,17 @@
 2fplayer.vimeo.com
 30.media.vimeo.com
 31.trk.mg.vimeo.com
+32.trk.emails.vimeo.com
 32.trk.prd.vimeo.com
 35.trk.mg.vimeo.com
 37.trk.emails.vimeo.com
 37.trk.mg.vimeo.com
 40.media.vimeo.com
 41.trk.prd.vimeo.com
+44.trk.mg.vimeo.com
 46.trk.mg.vimeo.com
 47.trk.mg.vimeo.com
+48.trk.trx.vimeo.com
 49.trk.emails.vimeo.com
 49.trk.trx.vimeo.com
 50.media.vimeo.com
@@ -84,6 +88,7 @@ akamai-ds-vimeo-live.cloud.vimeo.com
 akamai.dev.skyfire.vimeo.com
 akamai.prod.skyfire.vimeo.com
 akfire.cloud.vimeo.com
+alertmanager-magisto.create.vimeo.com
 alertmanager.create.vimeo.com
 aml-gateway.cloud.vimeo.com
 api.vimeo.com
@@ -103,6 +108,7 @@ assets.vimeo.com
 ats.vimeo.com
 authy.vimeo.com
 autoarchive-uploader.vimeo.com
+autocc.cloud.vimeo.com
 autosuggest.vimeo.com
 av.vimeo.com
 betty-dev.cloud.vimeo.com
@@ -138,6 +144,7 @@ dev.cloud.vimeo.com
 dev.skyfire.vimeo.com
 dev.starlord.vimeo.com
 devcaptions.cloud.vimeo.com
+devcaptions.eu.cloud.vimeo.com
 developer.vimeo.com
 developers.vimeo.com
 devi.cloud.vimeo.com
@@ -147,6 +154,7 @@ directory.vimeo.com
 drive.vimeo.com
 e.vimeo.com
 email.vimeo.com
+email.loop.vimeo.com
 embed.vimeo.com
 eml.vimeo.com
 enterpriseonboarding.vimeo.com
@@ -190,6 +198,7 @@ investors.vimeo.com
 joe.starlord.vimeo.com
 join.vimeo.com
 kaiju-dev.cloud.vimeo.com
+kaiju-gke-dev.cloud.vimeo.com
 kaiju-ml-dev.cloud.vimeo.com
 kaiju-ml.cloud.vimeo.com
 kaiju.cloud.vimeo.com
@@ -247,7 +256,9 @@ portal.vimeo.com
 press.vimeo.com
 prod.starlord.vimeo.com
 prodc-aadsfrd.vimeo.com
+prometheus-int-magisto.create.vimeo.com
 prometheus-internal.stage.create.vimeo.com
+prometheus-magisto.create.vimeo.com
 prometheus.create.vimeo.com
 public.live-api-dev.cloud.vimeo.com
 public.live-api.cloud.vimeo.com
@@ -381,3 +392,6 @@ www.news.vimeo.com
 www.player.vimeo.com
 www.saml-signing.vimeo.com
 y.vimeo.com
+yer.vimeo.com
+zixi-registrar.vimeo.com
+zoom-uploader.vimeo.com

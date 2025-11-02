@@ -4,6 +4,7 @@
 *.auto-ops.cloud.elastic.co
 *.auto-ops.eu-west-1.aws.cloud.elastic.co
 *.auto-ops.us-east-1.aws.cloud.elastic.co
+*.auto-ops.us-west-2.aws.cloud.elastic.co
 100-226.sa-demo-ece.prod.sa.elastic.co
 127-103.sa-demo-ece.staging.sa.elastic.co
 151-90.sa-demo-ece.prod.sa.elastic.co
@@ -50,6 +51,7 @@ auto-ops.ap-southeast-1.aws.cloud.elastic.co
 auto-ops.cloud.elastic.co
 auto-ops.eu-west-1.aws.cloud.elastic.co
 auto-ops.us-east-1.aws.cloud.elastic.co
+auto-ops.us-west-2.aws.cloud.elastic.co
 aws-eu-central-1-logging-staging-cloud.elastic.co
 aws-eu-central-1-metering-monitor-staging-cloud.elastic.co
 aws-eu-central-1-metering-staging-cloud.elastic.co
@@ -375,6 +377,7 @@ nginx-ingress-test-23400.secrets.elastic.co
 nginx-ingress-test-25779.vault-acc.elastic.co
 nginx-ingress-test-26314.vault-acc.elastic.co
 nginx-ingress-test-26678.vault-acc.elastic.co
+nginx-ingress-test-27412.vault-acc.elastic.co
 nginx-ingress-test-28266.secrets.elastic.co
 nginx-ingress-test-28972.vault-acc.elastic.co
 nginx-ingress-test-29922.secrets.elastic.co
@@ -394,8 +397,10 @@ nginx-ingress-test-38578.secrets.elastic.co
 nginx-ingress-test-38585.vault-acc.elastic.co
 nginx-ingress-test-40174.secrets.elastic.co
 nginx-ingress-test-41001.secrets.elastic.co
+nginx-ingress-test-41016.secrets.elastic.co
 nginx-ingress-test-41019.vault-acc.elastic.co
 nginx-ingress-test-41050.vault-acc.elastic.co
+nginx-ingress-test-41112.vault-acc.elastic.co
 nginx-ingress-test-41765.vault-acc.elastic.co
 nginx-ingress-test-41835.secrets.elastic.co
 nginx-ingress-test-41843.vault-acc.elastic.co
@@ -415,6 +420,8 @@ nginx-ingress-test-52119.vault-acc.elastic.co
 nginx-ingress-test-52215.vault-acc.elastic.co
 nginx-ingress-test-52411.vault-acc.elastic.co
 nginx-ingress-test-53039.vault-acc.elastic.co
+nginx-ingress-test-54599.vault-acc.elastic.co
+nginx-ingress-test-54629.secrets.elastic.co
 nginx-ingress-test-55433.secrets.elastic.co
 nginx-ingress-test-55457.vault-acc.elastic.co
 nginx-ingress-test-57047.vault-acc.elastic.co
@@ -469,6 +476,7 @@ nginx-ingress-test-92984.secrets.elastic.co
 nginx-ingress-test-93082.vault-acc.elastic.co
 nginx-ingress-test-94477.vault-acc.elastic.co
 nginx-ingress-test-94589.vault-acc.elastic.co
+nginx-ingress-test-95378.vault-acc.elastic.co
 nginx-ingress-test-95386.secrets.elastic.co
 nginx-ingress-test-96309.secrets.elastic.co
 nginx-ingress-test-96989.vault-acc.elastic.co

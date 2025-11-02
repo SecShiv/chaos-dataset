@@ -13,6 +13,8 @@
 *.stratus.wellsfargo.com
 000002-dontest.wellsfargo.com
 082524public.wellsfargo.com
+102825test.wellsfargo.com
+102825test2.wellsfargo.com
 1aat-et.stratus.wellsfargo.com
 1aat.stratus.wellsfargo.com
 1ael-loginapp-et.stratus.wellsfargo.com
@@ -79,6 +81,11 @@
 1ema-emailexpress.stratus.wellsfargo.com
 1exf-uat.wa.wellsfargo.com
 1exf.wa.wellsfargo.com
+1faw-home.wellsfargo.com
+1faw-home-gar.wellsfargo.com
+1faw-home-lew.wellsfargo.com
+1faw-home-man.wellsfargo.com
+1faw-home-str.wellsfargo.com
 1fhh-webapi-cte.stratus.wellsfargo.com
 1fhh-webapi-dev.stratus.wellsfargo.com
 1fhh-webapi-ite.stratus.wellsfargo.com
@@ -683,6 +690,9 @@ api-device.wellsfargo.com
 api-device-certification.wellsfargo.com
 api-device-sandbox.wellsfargo.com
 api-enterprise.wellsfargo.com
+api-enterprise-1-certification-np.wellsfargo.com
+api-enterprise-1-sandbox-np.wellsfargo.com
+api-enterprise-1-sit-np.wellsfargo.com
 api-enterprise-certification.wellsfargo.com
 api-enterprise-sandbox.wellsfargo.com
 api-enterprise1.wellsfargo.com
@@ -736,6 +746,7 @@ api.secure.staging.wellsfargo.com
 apige-te.nonprod.wellsfargo.com
 apigw-opsdev-paa-te.np.wellsfargo.com
 apiidp-enterprise.wellsfargo.com
+apiidp-enterprise-1-np.wellsfargo.com
 apiidp-enterprise-certification.wellsfargo.com
 apiidp-enterprise-sandbox.wellsfargo.com
 apiidp-enterprise1.wellsfargo.com
@@ -897,6 +908,7 @@ apvwa00a0354.wellsfargo.com
 apvwa00a0355.wellsfargo.com
 apvwa90a0367.wellsfargo.com
 apvwa91a0367.wellsfargo.com
+archana.wellsfargo.com
 archon.wellsfargo.com
 archon-r.wellsfargo.com
 ariel.wellsfargo.com
@@ -1680,6 +1692,7 @@ bawtrain.wellsfargo.com
 bbg.ts.wellsfargo.com
 bbselfservice.wellsfargo.com
 bbselfservice.msgqa.wellsfargo.com
+bbva-agent-service-pte.wellsfargo.com
 bcereporting.wellsfargo.com
 bcereporting-bcp.wellsfargo.com
 bcereporting-prod.wellsfargo.com
@@ -1791,6 +1804,7 @@ booker4.wellsfargo.com
 booker5.wellsfargo.com
 booker6.wellsfargo.com
 bookview-pfix.ceo.wellsfargo.com
+bookview-uat.ceo.wellsfargo.com
 bookview.ceo.wellsfargo.com
 boss302.wellsfargo.com
 boss302-base.wellsfargo.com
@@ -2446,6 +2460,7 @@ chipsiso1nonprod.wellsfargo.com
 chipsiso2-nonprod.wellsfargo.com
 chipsiso2nonprod.wellsfargo.com
 chipsiso3nonprod.wellsfargo.com
+chipsiso4prod.wellsfargo.com
 chk1.eml.wellsfargo.com
 chk2.eml.wellsfargo.com
 chlbdt1-p.wellsfargo.com
@@ -2890,6 +2905,8 @@ creditcardsqastage.wellsfargo.com
 creditmanagement-bcp.ceo.wellsfargo.com
 creditmanagement-pfix.ceo.wellsfargo.com
 creditmanagement-prod.ceo.wellsfargo.com
+creditmanagement-uat-ceo.wellsfargo.com
+creditmanagement-uat-paa-ceo.wellsfargo.com
 creditmanagement-uat.ceo.wellsfargo.com
 creditmanagement.ceo.wellsfargo.com
 creditoptions.wellsfargo.com
@@ -2985,7 +3002,9 @@ csidfcauthportal.wellsfargo.com
 csintauthportal.wellsfargo.com
 csiva3000a.wellsfargo.com
 csiza3000a.wellsfargo.com
+cslvavn34001.wellsfargo.com
 cslvavn34001.eml.wellsfargo.com
+cslvavn34002.wellsfargo.com
 cslvavn34002.eml.wellsfargo.com
 cspa.wellsfargo.com
 cspa-uat.wellsfargo.com
@@ -3273,6 +3292,7 @@ derivativesaccess-albirm.wellsfargo.com
 derivativesaccess-albirm-bs.wellsfargo.com
 derivativesaccess-albirm-ts.wellsfargo.com
 derivativesaccess-bcp.wellsfargo.com
+derivativesaccess-ext.wellsfargo.com
 derivativesaccess-ncwnsa.wellsfargo.com
 derivativesaccess-ncwnsa-bs.wellsfargo.com
 derivativesaccess-ncwnsa-ts.wellsfargo.com
@@ -6688,6 +6708,7 @@ leggett-test.wfchris.wellsfargo.com
 lending-grid-ext.wellsfargo.com
 lending-grid-ext-sit.wellsfargo.com
 lending-grid-ext-test.wellsfargo.com
+lendingentitlements-sit.ceo.wellsfargo.com
 lendingentitlements-uat-paa.ceo.wellsfargo.com
 lendingentitlements-uat.ceo.wellsfargo.com
 lendingmanagement-bcp.ceo.wellsfargo.com
@@ -6703,11 +6724,13 @@ lendingmanagement-uat.secure.wellsfargo.com
 lendingmanagement.ceo.wellsfargo.com
 lendingportal.wellsfargo.com
 lendingportal-bcp.ceo.wellsfargo.com
+lendingportal-pfix-paa.ceo.wellsfargo.com
 lendingportal-pfix.ceo.wellsfargo.com
 lendingportal-prod.ceo.wellsfargo.com
 lendingportal-uat.wellsfargo.com
 lendingportal-uat.ceo.wellsfargo.com
 lendingportal.ceo.wellsfargo.com
+lendingpotal-uat.ceo.wellsfargo.com
 leo.wellsfargo.com
 lg-aspen-prod.wellsfargo.com
 lg-aspen-uat.wellsfargo.com
@@ -10043,8 +10066,11 @@ rr084001.wellsfargo.com
 rr094001.wellsfargo.com
 rr100701.wellsfargo.com
 rrcmx-api-uat.wellsfargo.com
+rrcmx-api-uat.sec.wellsfargo.com
+rrcmx-api.sec.wellsfargo.com
 rrcmx-sit.sec.wellsfargo.com
 rrcmx-uat.sec.wellsfargo.com
+rrcmx.sec.wellsfargo.com
 rrprba6r107.wellsfargo.com
 rrprba6r108.wellsfargo.com
 rrvra97a0194.wellsfargo.com
@@ -12060,6 +12086,8 @@ wdvrw01a0012.wellsfargo.com
 wdvrw01a1002.wellsfargo.com
 wdvrw01e0012.wellsfargo.com
 wdvrw01f0012.wellsfargo.com
+wdvrw03a0059.wellsfargo.com
+wdvrw04a0059.wellsfargo.com
 wealth-online.wellsfargo.com
 wealth-online-internal.wellsfargo.com
 wealth-online-internal-staging.wellsfargo.com
@@ -12270,8 +12298,10 @@ wellsonevirtualcardpaymentsuat.ceo.wellsfargo.com
 wellsorders.wellsfargo.com
 wellsorders.ceo.wellsfargo.com
 wellsorders.g.wellsfargo.com
+wellsordersdev.ceo.wellsfargo.com
 wellsordersfix.wellsfargo.com
 wellsordersfix.ceo.wellsfargo.com
+wellsorderssit.ceo.wellsfargo.com
 wellsordersuat.wellsfargo.com
 wellsordersuat.ceo.wellsfargo.com
 wellspa.wellsfargo.com
@@ -13120,9 +13150,13 @@ wpvra97a0588.wellsfargo.com
 wpvra97a0736.wellsfargo.com
 wpvra98a0588.wellsfargo.com
 wpvra98a0736.wellsfargo.com
+wpvra98a0752.wellsfargo.com
 wpvra98a0921.wellsfargo.com
+wpvra98a1000.wellsfargo.com
 wpvra99a0588.wellsfargo.com
 wpvra99a0736.wellsfargo.com
+wpvra99a0752.wellsfargo.com
+wpvra99a1000.wellsfargo.com
 wpvre98a0003.wellsfargo.com
 wpvre99a0003.wellsfargo.com
 wpvrw00a0070.wellsfargo.com
@@ -13249,12 +13283,16 @@ wrsnetnow.wellsfargo.com
 wrvra96a0158.wellsfargo.com
 wrvra96a0588.wellsfargo.com
 wrvra96a0921.wellsfargo.com
+wrvra96a1000.wellsfargo.com
 wrvra97a0158.wellsfargo.com
 wrvra97a0588.wellsfargo.com
+wrvra97a1000.wellsfargo.com
 wrvra98a0158.wellsfargo.com
+wrvra98a0183.wellsfargo.com
 wrvra98a0588.wellsfargo.com
 wrvra98a0921.wellsfargo.com
 wrvra99a0158.wellsfargo.com
+wrvra99a0183.wellsfargo.com
 wrvre98a0003.wellsfargo.com
 wrvre99a0003.wellsfargo.com
 wrvrw96a0044.wellsfargo.com
@@ -13295,6 +13333,8 @@ wsvrw01a0012.wellsfargo.com
 wsvrw01a1002.wellsfargo.com
 wsvrw02a0012.wellsfargo.com
 wsvrw02a1002.wellsfargo.com
+wsvrw03a0059.wellsfargo.com
+wsvrw04a0059.wellsfargo.com
 wsvrw05a1002.wellsfargo.com
 wsvrw05i1002.wellsfargo.com
 wsvrw06a1002.wellsfargo.com

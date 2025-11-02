@@ -18,7 +18,9 @@ canary-exp-video-us-east-1.pscp.tv
 canary-fleets-us-west-1.pscp.tv
 canary-fleets-us-west-2.pscp.tv
 canary-guest.pscp.tv
+canary-guest-cf.pscp.tv
 canary-proxsee.pscp.tv
+canary-proxsee-cf.pscp.tv
 canary-safety.pscp.tv
 canary-text-classification.pscp.tv
 canary-transcode-proxy-us-east-1.pscp.tv
@@ -52,11 +54,13 @@ dev-exp-video-us-west-2.pscp.tv
 dev-fleets.pscp.tv
 dev-fleets-us-west-2.pscp.tv
 dev-guest.pscp.tv
+dev-guest-cf.pscp.tv
 dev-hlspull.pscp.tv
 dev-lex-us-east-1.pscp.tv
 dev-masks.pscp.tv
 dev-profile.pscp.tv
 dev-proxsee.pscp.tv
+dev-proxsee-cf.pscp.tv
 dev-public-api-assets.pscp.tv
 dev-safety.pscp.tv
 dev-signer.pscp.tv
@@ -98,6 +102,7 @@ fleets-us-west-2.pscp.tv
 fr.pscp.tv
 gemcar.pscp.tv
 guest.pscp.tv
+guest-cf.pscp.tv
 gw-canary-hydra-us-east-1.pscp.tv
 gw-dev-hydra-eu-west-1.pscp.tv
 gw-dev-hydra-us-west-2.pscp.tv
@@ -227,6 +232,7 @@ prod-video-us-east-1.pscp.tv
 prod-video-us-west-1.pscp.tv
 prod-video-us-west-2.pscp.tv
 proxsee.pscp.tv
+proxsee-cf.pscp.tv
 safety.pscp.tv
 seoln.pscp.tv
 sg.pscp.tv

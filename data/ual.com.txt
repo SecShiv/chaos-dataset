@@ -1,6 +1,7 @@
 .ual.com
 *.ual.com
 *.global.ual.com
+*.redshift.awscloud.ual.com
 125.mips0010022.ual.com
 154.ual.com
 156.92.15.62.ual.com
@@ -40,6 +41,7 @@ accessexternalcallback.global.ual.com
 achipcargoweb01.ual.com
 achipcargoweb02.ual.com
 activemq.dev.cvu.aws.ual.com
+activemq.qa.cvu.aws.ual.com
 activemq2.dev.cvu.aws.ual.com
 activemqdev.ual.com
 adams-int-pdpgw.ual.com
@@ -124,6 +126,7 @@ airporthubops-enfsvc.ual.com
 airporthubops-qa-authsvc.ual.com
 airporthubops-qa-enfsvc.ual.com
 airvault-oqa.ual.com
+alteryx.ual.com
 alteryx-stg.ual.com
 amexapxpaedap01.ual.com
 amexapxpaedap02.ual.com
@@ -277,6 +280,7 @@ asl.ual.com
 asl-dev.ual.com
 asl-dr.ual.com
 asl-preprod.ual.com
+asl-preprod-stage.ual.com
 asl-prod.ual.com
 asl-qa.ual.com
 assets.github.ual.com
@@ -817,11 +821,17 @@ etsweb-oqa.ual.com
 etsweb-qa.ual.com
 exm.ual.com
 exm-oqa.ual.com
+eye-api.ual.com
 eye-dev-api.ual.com
 eye-dev-authapi.ual.com
 eye-dev-dsapi.ual.com
 eye-dev-hrapi.ual.com
 eye-dev-smsapi.ual.com
+eye-dev-u.ual.com
+eye-qa-api.ual.com
+eye-qa-u.ual.com
+eye-stg-u.ual.com
+eye-u.ual.com
 ezchat.dev.dvu.aws.ual.com
 f5vpn-ndc.ual.com
 f5vpn-qa.ual.com
@@ -871,6 +881,7 @@ ft.ual.com
 ft-dev.ual.com
 ft-dr.ual.com
 ft-preprod.ual.com
+ft-preprod-stage.ual.com
 ft-prod.ual.com
 ft-qa.ual.com
 galley-navigator-ui.dev.bos.aws.ual.com
@@ -887,6 +898,8 @@ gateinfo-api-qa.uia.ual.com
 gateinfo.dev.uia.aws.ual.com
 gateinfo.prd.uia.aws.ual.com
 gateinfo.qa.uia.aws.ual.com
+gateway.dev-ma.ucd.aws.ual.com
+gateway.dev.ucd.aws.ual.com
 gcsmcpedmzdp1m01.ual.com
 gcsmcpedmzdp2m01.ual.com
 gcsmcpedmzdp3m01.ual.com
@@ -973,6 +986,7 @@ gogo.owp-stage.ual.com
 google.ual.com
 gpsprod.ual.com
 grafana.dev.cvu.aws.ual.com
+grafana.qa.cvu.aws.ual.com
 grafana2.dev.cvu.aws.ual.com
 grafanadev.ual.com
 green.cms.prd.cdv.aws.ual.com
@@ -1301,6 +1315,7 @@ nextgennlcportal.prd.ccl.aws.ual.com
 nextgennlcportal.qa.ccl.aws.ual.com
 nextgennlcportal.stg.ccl.aws.ual.com
 ngcs-uc360.opc.ual.com
+nlx-cc.ual.com
 nmao.ual.com
 nmaodev.ual.com
 nmbw.ual.com
@@ -1357,6 +1372,7 @@ opensearch.secondary.xclr.bas.aws.ual.com
 opensearch.secondary.xclr.dev.bas.aws.ual.com
 opensearch.secondary.xclr.qa.bas.aws.ual.com
 opensearch.secondary.xclr.stg.bas.aws.ual.com
+ops-oqa.ual.com
 opsman.cfawsdev.ual.com
 opsmq01.mweng.ual.com
 opt.ual.com
@@ -1615,6 +1631,7 @@ realtime.west1.qa.groundstar-staff.ual.com
 records.ual.com
 records-oqa.ual.com
 recordstest.ual.com
+redshift.awscloud.ual.com
 refdata.ual.com
 refdata.dev.ual.com
 refdata.uds-cms.dev.aws.ual.com
@@ -1650,6 +1667,9 @@ resvdi.ual.com
 retailportal.ual.com
 retailportalstage.ual.com
 review.ual.com
+review-ft-dev.ual.com
+review-ft-preprod.ual.com
+review-ft-qa.ual.com
 rfp.ual.com
 rfp-oqa.ual.com
 rmit-dpdev-galaxy.ual.com
@@ -1759,6 +1779,7 @@ skynet-amstage.ual.com
 skype.ual.com
 skype2019.ual.com
 skyplan.dev.cvu.aws.ual.com
+skyplan.qa.cvu.aws.ual.com
 skyplan2.dev.cvu.aws.ual.com
 skyplandev.ual.com
 skytrack-f5.ual.com
@@ -1770,6 +1791,7 @@ skytrack-prod.ual.com
 skytrack-qa.ual.com
 skyview-tng.ual.com
 skyview.dev.cvu.aws.ual.com
+skyview.qa.cvu.aws.ual.com
 skyview2.dev.cvu.aws.ual.com
 skyviewtng.stg.cvu.aws.ual.com
 slotmanagermobile-oqa.ual.com
@@ -1851,6 +1873,7 @@ supplychainqueues.dev.aws.ual.com
 supplychainworkbench.dev.aws.ual.com
 supplychainworkbenches.dev.aws.ual.com
 support-dashboard.dev.cvu.aws.ual.com
+support-dashboard.qa.cvu.aws.ual.com
 support-dashboard2.dev.cvu.aws.ual.com
 supportctx.ual.com
 supportctx.citrix.ual.com
@@ -1916,6 +1939,7 @@ terminalmaps-api.prd.bzq.aws.ual.com
 terminalmaps-stg.ual.com
 terminalmaps.prd.bzq.aws.ual.com
 test.global.ual.com
+test123.ual.com
 testctx.ual.com
 tetration-ndc.ual.com
 thales.owp.iot.ual.com
@@ -2186,6 +2210,8 @@ us-east-1.ecr.dev.evd.aws.ual.com
 us-east-1.ecr.prd.evd.aws.ual.com
 us-east-1.ecr.qa.evd.aws.ual.com
 us-east-1.ecr.stg.evd.aws.ual.com
+us-east-1.gateway.dev-ma.ucd.aws.ual.com
+us-east-1.gateway.dev.ucd.aws.ual.com
 us-east-1.prd.cud.aws.ual.com
 us-east-1.prd.cug.aws.ual.com
 us-east-1.stg-ma.cud.aws.ual.com
@@ -2194,6 +2220,8 @@ us-east-2.ecr.dev.evd.aws.ual.com
 us-east-2.ecr.prd.evd.aws.ual.com
 us-east-2.ecr.qa.evd.aws.ual.com
 us-east-2.ecr.stg.evd.aws.ual.com
+us-east-2.gateway.dev-ma.ucd.aws.ual.com
+us-east-2.gateway.dev.ucd.aws.ual.com
 us-east-2.prd.cud.aws.ual.com
 us-east-2.prd.cug.aws.ual.com
 us-east-2.stg-ma.cud.aws.ual.com
@@ -2301,6 +2329,7 @@ vcld11gpabzws01.global.ual.com
 vcld11gpabzws02.global.ual.com
 vcld14gpaaaap02.global.ual.com
 vcld14gpabswb01.global.ual.com
+vcld14gpagzap01.global.ual.com
 vcld14gpaznwb01-fe.ual.com
 vcld14gpaznwb02-fe.ual.com
 vcld14gpaznwb03-fe.ual.com
@@ -2321,6 +2350,7 @@ vcld34rpbhfap01.ual.com
 vcld34rpbhfap02.ual.com
 vcld34rpccnap01.ual.com
 vcld34rpccnap02.ual.com
+vcld4101dd37d1.global.ual.com
 vcld410d02be96.global.ual.com
 vcld46gdanlwb01.global.ual.com
 vcld46gqbchwb01.global.ual.com
@@ -2424,6 +2454,7 @@ wingtips-dev.ual.com
 wingtips-dr.ual.com
 wingtips-opreprod.ual.com
 wingtips-preprod.ual.com
+wingtips-preprod-stage.ual.com
 wingtips-prod.ual.com
 wingtips-qa.ual.com
 winterops.ual.com
@@ -2465,7 +2496,3 @@ xclr.secondary.stage.ual.com
 xclr.secondary.stage.aws.ual.com
 xclr.secondary.stg.aws.ual.com
 xclr.seconday.dev.aws.ual.com
-xclr.stage.ual.com
-xclr.stg.ual.com
-yellow.cms.prd.cdv.aws.ual.com
-yellow.cms.stg.cdv.aws.ual.com

@@ -30,6 +30,7 @@ alertmanager.production.traderepublic.com
 api.traderepublic.com
 api-eks.production.traderepublic.com
 api.cartographer.internal.production.traderepublic.com
+api.partner.internal.production.traderepublic.com
 app.traderepublic.com
 app.beta.traderepublic.com
 app.production.traderepublic.com
@@ -120,6 +121,7 @@ mattermost.internal.corp.traderepublic.com
 meilisearch.internal.production.traderepublic.com
 meilisearch.production.traderepublic.com
 metabase.corp.traderepublic.com
+metabase.internal.corp.traderepublic.com
 mimir.internal.corp.traderepublic.com
 mp.traderepublic.com
 n8n.production.traderepublic.com
@@ -152,6 +154,7 @@ pyroscope.internal.corp.traderepublic.com
 pyrra.internal.corp.traderepublic.com
 rabbit.internal.production.traderepublic.com
 rabbitmq-helper.internal.production.traderepublic.com
+rabbitmq-mapper-helper.internal.production.traderepublic.com
 rabbitmq-shared-helper.internal.production.traderepublic.com
 rabbitmq.internal.production.traderepublic.com
 ranger-server.data.traderepublic.com

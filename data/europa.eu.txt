@@ -54,6 +54,7 @@
 *.api.acc.public-procurement-data-space.europa.eu
 *.api.datalake.sante.service.ec.europa.eu
 *.api.qa.afis.olaf.europa.eu
+*.app1.dsocc.srv4dev.cloud.taxud.ec.europa.eu
 *.appf.europa.eu
 *.apps.eu-2.paas.open-science-cloud.ec.europa.eu
 *.apps.ocp.jrc.ec.europa.eu
@@ -662,6 +663,7 @@
 *.taxedu.campaign.europa.eu
 *.team-europe-explorer.europa.eu
 *.team-europe-partners.network.europa.eu
+*.team.iate.europa.eu
 *.tech.ec.europa.eu
 *.technical-regulation-information-system.ec.europa.eu
 *.tedsws.acceptance.op.aws.cloud.tech.ec.europa.eu
@@ -1247,6 +1249,7 @@ accessible-eu-centre.ec.europa.eu
 acciis-eis-test.emsa.europa.eu
 acciis-sso-test.emsa.europa.eu
 acciis-stires-test.emsa.europa.eu
+account.contact.ec.europa.eu
 account.contact.ep.europa.eu
 accounts.ema.europa.eu
 accounts.euipo.europa.eu
@@ -1420,6 +1423,7 @@ alec-energy.devel4cph.eea.europa.eu
 alec-forest.devel4cph.eea.europa.eu
 alec-rabbitmq.devel4cph.eea.europa.eu
 alec.dev2aws.eea.europa.eu
+alerting.new-eodc-test.emsa.europa.eu
 alfonsino.eea.europa.eu
 algorithmic-transparency.ec.europa.eu
 alin.dev2aws.eea.europa.eu
@@ -1432,6 +1436,7 @@ almtaxudm2m.tech.ec.europa.eu
 alpha.europa.eu
 alpha.publications.europa.eu
 alternative-fuels-observatory.ec.europa.eu
+altup.cert.europa.eu
 alumni.europa.eu
 am-in.iamlab.europarl.europa.eu
 am01.iamlab.europarl.europa.eu
@@ -1509,6 +1514,7 @@ api.ecb.europa.eu
 api.een.ec.europa.eu
 api.efsa.europa.eu
 api.elisearch.development.op-tech.publications.europa.eu
+api.eu-2.iaas.open-science-cloud.ec.europa.eu
 api.eu-2.paas.open-science-cloud.ec.europa.eu
 api.euipo.europa.eu
 api.europarltv.europa.eu
@@ -2210,6 +2216,7 @@ cdcp.europarl.europa.eu
 cddaubuntu.eea.europa.eu
 cdevel.eea.europa.eu
 cdn.cyprus-presidency.dev.consilium.europa.eu
+cdn.cyprus-presidency.stg.consilium.europa.eu
 cdn.ecdc.europa.eu
 cdn.euipo.europa.eu
 cdn1.fpfis.tech.ec.europa.eu
@@ -2845,6 +2852,7 @@ comsys-dv.europarl.europa.eu
 condor.eea.europa.eu
 conf-pr12.rpas.emsa.europa.eu
 conf-pr13.rpas.emsa.europa.eu
+conf-pr14.rpas.emsa.europa.eu
 conf-pr21.rpas.emsa.europa.eu
 conf-pr22.rpas.emsa.europa.eu
 conf.easa.europa.eu
@@ -3013,6 +3021,7 @@ cptl.pages.sdlc.webcloud.ec.europa.eu
 cpvo.europa.eu
 cpvoextranet.cpvo.europa.eu
 cqflv001.ad.curia.europa.eu
+cr-test.01dev.eea.europa.eu
 cr.eionet.europa.eu
 cr.ewxdevel1dub.eionet.europa.eu
 crane.eea.europa.eu
@@ -3398,7 +3407,9 @@ dev-d8.edpsweb.edps.europa.eu
 dev-elm.echa.europa.eu
 dev-euctis-vnet.ema.europa.eu
 dev-forest-eea-design-system.devel4cph.eea.europa.eu
+dev-langfuse.01dev.eea.europa.eu
 dev-litellm-minio.01dev.eea.europa.eu
+dev-litellm.01dev.eea.europa.eu
 dev-matomo.01dev.eea.europa.eu
 dev-mil-01.eea.europa.eu
 dev-mil-23.eea.europa.eu
@@ -3694,6 +3705,7 @@ dpmstudioeiopa.eba.europa.eu
 dpmstudioeiopa.test.eba.europa.eu
 dpol.eda.europa.eu
 dragonfly.eea.europa.eu
+drawio.02pre.eea.europa.eu
 drawio.devel4cph.eea.europa.eu
 drinkitup.europa.eu
 drive.open-science-cloud.ec.europa.eu
@@ -3755,6 +3767,7 @@ eap.tech.ec.europa.eu
 ear.europa.eu
 ear.jrc.ec.europa.eu
 eas.acc.tech.ec.europa.eu
+eas.acc.webmail.ec.europa.eu
 eas.eurojust.europa.eu
 eas.jrc.ec.europa.eu
 eas.tech.ec.europa.eu
@@ -3991,6 +4004,7 @@ edu-ulem-authority.echa.europa.eu
 edu-ulem-web.echa.europa.eu
 education-for-climate.ec.europa.eu
 education.ec.europa.eu
+ee.cs.lab.oots.tech.ec.europa.eu
 ee2014.europarl.europa.eu
 eea.europa.eu
 eea.eionet.europa.eu
@@ -4043,6 +4057,7 @@ efca-vs.euipo.europa.eu
 efca.ec.europa.eu
 efdac.jrc.ec.europa.eu
 efdb.apps.eea.europa.eu
+efdb.devel4cph.eea.europa.eu
 efe.efca.europa.eu
 efexchange.eurofound.europa.eu
 effis.jrc.ec.europa.eu
@@ -4489,6 +4504,7 @@ es.audio.europarl.europa.eu
 es.devel2cph.eea.europa.eu
 es.fiu-training.europol.europa.eu
 es.osha.europa.eu
+es.test.cordis.europa.eu
 es.test3.cordis.europa.eu
 esa1.eurojust.europa.eu
 esa2.eurojust.europa.eu
@@ -4853,6 +4869,8 @@ eushare.acc.fpfis.tech.ec.europa.eu
 euskillspanorama.ec.europa.eu
 eusoils.jrc.ec.europa.eu
 euspa.europa.eu
+eusrs-api-test.ema.europa.eu
+eusrs-apim-test.ema.europa.eu
 eusrs-test.ema.europa.eu
 eusrs-uat.ema.europa.eu
 eusrs.ema.europa.eu
@@ -4948,6 +4966,7 @@ exedge1.eesc-cor.europa.eu
 exedge2.eesc-cor.europa.eu
 exemption-api.aws.landing-zone.webcloud.ec.europa.eu
 exemption-api.test.aws.landing-zone.webcloud.ec.europa.eu
+exemption-ui.test.aws.landing-zone.webcloud.ec.europa.eu
 exemptions-feat.feature.azure.landing-zone.webcloud.ec.europa.eu
 exemptions-uat.test.azure.landing-zone.webcloud.ec.europa.eu
 exo19.era.europa.eu
@@ -5247,6 +5266,9 @@ filesrepo.enisa.europa.eu
 fims.echa.europa.eu
 finance.ec.europa.eu
 financial-management-suite-tools.ec.europa.eu
+finsys.new-eodc-pp.emsa.europa.eu
+finsys.new-eodc-test.emsa.europa.eu
+finsys.new-eodc.emsa.europa.eu
 fis-sentinel.frontex.europa.eu
 fis-training.frontex.europa.eu
 fis.frontex.europa.eu
@@ -5278,6 +5300,7 @@ flower.acceptance.data.ted.europa.eu
 flower.data.ted.europa.eu
 flower.dev-gptlab.01dev.eea.europa.eu
 flunewsuat.ecdc.europa.eu
+fluxfmc.tech.ec.europa.eu
 fluxtl.acceptance.ec.europa.eu
 fluxtl.ec.europa.eu
 flx.efca.europa.eu
@@ -6424,6 +6447,7 @@ joinupd6.fpfis.tech.ec.europa.eu
 jothemisreports.frontex.europa.eu
 jothemisreportsadm.frontex.europa.eu
 journaling.new-eodc-test.emsa.europa.eu
+journaling.new-eodc.emsa.europa.eu
 jrc-alumni.ec.europa.eu
 jrc-ict-services.tech.ec.europa.eu
 jrc-k4p.tmp.fpfis.tech.ec.europa.eu
@@ -6436,6 +6460,7 @@ jump.cloud.cis.consilium.europa.eu
 jupyter.ai-lab-aws.eea.europa.eu
 jupyter.ai-lab.eea.europa.eu
 jupyter.devel4cph.eea.europa.eu
+k.test.cordis.europa.eu
 k.test3.cordis.europa.eu
 k2.frontex.europa.eu
 k2.gsa.europa.eu
@@ -6476,6 +6501,7 @@ kibanaco2cars.devel4cph.eea.europa.eu
 kite.eea.europa.eu
 kiwi.euipo.europa.eu
 kiwi.oami.europa.eu
+km.test.cordis.europa.eu
 km.test3.cordis.europa.eu
 kmc.europarltv.europa.eu
 kms.devsecops.ecdp.tech.ec.europa.eu
@@ -6650,6 +6676,7 @@ listserv.ecdc.europa.eu
 listserv.osha.europa.eu
 lisxm01.emsa.europa.eu
 lithuania.representation.ec.europa.eu
+live-acc.eurofound.europa.eu
 live.eesc.europa.eu
 live.europarl.europa.eu
 livebru.europarl.europa.eu
@@ -7066,6 +7093,7 @@ masmail1.consilium.europa.eu
 masmail2.consilium.europa.eu
 masmail3.consilium.europa.eu
 matomo-prueba.osha.europa.eu
+matomo.02pre.eea.europa.eu
 matomo.devel4cph.eea.europa.eu
 matomo.eea.europa.eu
 matomo.efca.europa.eu
@@ -7087,6 +7115,8 @@ mbg.jrc.ec.europa.eu
 mcc.jrc.ec.europa.eu
 mcda-dev.ema.europa.eu
 mcn.consilium.europa.eu
+mcp-proxy.01dev.eea.europa.eu
+mcp.01dev.eea.europa.eu
 mdcert.ema.europa.eu
 mdigest.jrc.ec.europa.eu
 mdlbbpbg01.ep.europa.eu
@@ -7120,6 +7150,7 @@ med.emsa.europa.eu
 medcoi.easo.europa.eu
 medcoi.euaa.europa.eu
 media-carbon-calculator.digital-strategy.ec.europa.eu
+media-monitor.europa.eu
 media.cert.europa.eu
 media.osha.europa.eu
 media.test.osha.europa.eu
@@ -7130,6 +7161,7 @@ mediaingestpp.europarl.europa.eu
 mediamanager.cis.consilium.europa.eu
 mediamonitor.frontex.europa.eu
 mediamonitor1.frontex.europa.eu
+mediaplanning.consilium.europa.eu
 mediarequest.ecdc.europa.eu
 mediatunnel.ucc.cis.consilium.europa.eu
 mediatunnelstag.ucc.cis.consilium.europa.eu
@@ -7187,6 +7219,8 @@ memportal.eesc.europa.eu
 merlin.eea.europa.eu
 merope.net1.enisa.europa.eu
 mesa.jrc.ec.europa.eu
+metabase.cedefop.europa.eu
+metamcp.01dev.eea.europa.eu
 methodology.eca.europa.eu
 metis.acc.ener.aws.cloud.tech.ec.europa.eu
 metrics.dev.eba.europa.eu
@@ -7320,8 +7354,12 @@ mrasecwebexdesk.frontex.europa.eu
 mrasecwebexdx80.frontex.europa.eu
 mrasecwebexroom55.frontex.europa.eu
 mrop.mail.ec.europa.eu
+mrsdeclaredv.europarl.europa.eu
+mrtc.contact.ec.europa.eu
 mrtc.contact.ep.europa.eu
 mrv.emsa.europa.eu
+ms365appgateway-dev.zp-interim.europarl.europa.eu
+mspro365fabric-dev.zp-interim.europarl.europa.eu
 msteams.vcs.consilium.europa.eu
 mstunnel.f4e.europa.eu
 msync.curia.europa.eu
@@ -7581,6 +7619,7 @@ nl.audio.europarl.europa.eu
 nl.fiu-demo.europol.europa.eu
 nl.fiu-training.europol.europa.eu
 nl.gsa.europa.eu
+nlos.enisa.europa.eu
 nmc.eionet.europa.eu
 nms-dev-api.ema.europa.eu
 nms.emsa.europa.eu
@@ -7846,6 +7885,7 @@ online.mail.ec.europa.eu
 onprem.a-api.ecb.europa.eu
 onthego.europa.eu
 onthego.ec.europa.eu
+onyx.01dev.eea.europa.eu
 oob-bx.tech.ec.europa.eu
 oob-lu.tech.ec.europa.eu
 oob-sso-bx.tech.ec.europa.eu
@@ -7875,6 +7915,7 @@ openapi.efsa.europa.eu
 opencbrn.jrc.ec.europa.eu
 opencbrne.jrc.ec.europa.eu
 opencsam.enisa.europa.eu
+opencti.enisa.europa.eu
 opendata.ecdc.europa.eu
 opendata2.ecdc.europa.eu
 openecho.jrc.ec.europa.eu
@@ -8164,6 +8205,7 @@ pm-fwc12015.webanalytics.op.europa.eu
 pm2.europa.eu
 pmf.ema.europa.eu
 pmm.f4e.europa.eu
+pms.ema.europa.eu
 pnm01.ecdc.europa.eu
 pnt.dhs.tech.ec.europa.eu
 poc-extranet-f5-lux.ep.europa.eu
@@ -8247,6 +8289,7 @@ postgw1.satcen.europa.eu
 postgw2.eusc.europa.eu
 postgw2.satcen.europa.eu
 potoroo.eea.europa.eu
+powerbi.form.ecb.europa.eu
 powershell.eba.europa.eu
 powershell.webmail.acc.tech.ec.europa.eu
 powershell.webmail.ec.europa.eu
@@ -8286,6 +8329,7 @@ ppialb-int-stag.consilium.europa.eu
 ppm.webanalytics.op.europa.eu
 pprod.cor.europa.eu
 pr13.rpas.emsa.europa.eu
+pr14.rpas.emsa.europa.eu
 pr21.rpas.emsa.europa.eu
 pr22.rpas.emsa.europa.eu
 pr23.rpas.emsa.europa.eu
@@ -8328,6 +8372,7 @@ press.vp.consilium.europa.eu
 pressconferencemgmt.ecb.europa.eu
 preston.emcdda.europa.eu
 prevention.ecdc.europa.eu
+preview-prod.eurofound.europa.eu
 preview-star.ecb.europa.eu
 primerscan.ecdc.europa.eu
 print.esm.europa.eu
@@ -8499,6 +8544,7 @@ qat.oots.tech.ec.europa.eu
 qc.eba.europa.eu
 qc.test.eba.europa.eu
 qcc.enisa.europa.eu
+qfng.acc.ocean-store.tech.ec.europa.eu
 qfng.devops.ocean-store.tech.ec.europa.eu
 qfng.ocean-store.ec.europa.eu
 qfng.tst.ocean-store.tech.ec.europa.eu
@@ -8545,6 +8591,7 @@ ra.ema.europa.eu
 ra.publications.europa.eu
 ra.srb.europa.eu
 rabbit.eea.europa.eu
+rabbitmq-lab.oots.tech.ec.europa.eu
 rabbitmq.ai-lab-aws.eea.europa.eu
 rabbitmq.ai-lab.eea.europa.eu
 rabbitmq.dev2aws.eea.europa.eu
@@ -8608,6 +8655,7 @@ realmi2.cedefop.europa.eu
 recast-pr12.rpas.emsa.europa.eu
 recast-pr13.rpas.emsa.europa.eu
 recast-pr14.rpas.emsa.europa.eu
+recast-pr22.rpas.emsa.europa.eu
 recast-pr23.rpas.emsa.europa.eu
 receiver.ema.europa.eu
 recon.cedefop.europa.eu
@@ -9133,6 +9181,7 @@ s-efcaaccp-fjd.efca.europa.eu
 s-efcacorp-pcn.dev.efca.europa.eu
 s-efcacorp-pex.dev.efca.europa.eu
 s-efcacorp-pgn.dev.efca.europa.eu
+s-efcadev-pmp.efca.europa.eu
 s-jmorc-03.mail.ec.europa.eu
 s-jmorc-04.mail.ec.europa.eu
 s-lync.acer.europa.eu
@@ -9551,6 +9600,8 @@ siptrunk-epro-bucarest.in.ep.europa.eu
 siptrunk-epro-lab.in.ep.europa.eu
 siptrunk-epro-lab.ucafpp.ep.europa.eu
 siptrunk-epro-prague.in.ep.europa.eu
+siptrunk-epro-roma.in.ep.europa.eu
+siptrunk-epro-varsovie.in.ep.europa.eu
 sirs.consilium.europa.eu
 sirstest.consilium.europa.eu
 sis.easa.europa.eu
@@ -9597,6 +9648,7 @@ smp-ehealth-trn-cert-auth.acc.edelivery.tech.ec.europa.eu
 smp-ehealth-trn.acc.edelivery.tech.ec.europa.eu
 smp.acc.edelivery.tech.ec.europa.eu
 smp.ehealth.edelivery.tech.ec.europa.eu
+smp.lab.oots.tech.ec.europa.eu
 smp.publisher.ehealth.edelivery.tech.ec.europa.eu
 smtp-ext.eba.europa.eu
 smtp-ext.frontex.europa.eu
@@ -9695,6 +9747,7 @@ solon.ejn-crimjust.europa.eu
 sonar.eba.europa.eu
 sonarqube-archive.frontex.europa.eu
 sonarqube.01dev.eea.europa.eu
+sonarqube.02pre.eea.europa.eu
 sonarqube.devel4cph.eea.europa.eu
 sonarqube.frontex.europa.eu
 sorry.ec.europa.eu
@@ -9854,6 +9907,7 @@ ssbi.dev.eba.europa.eu
 ssbi.eba.europa.eu
 ssbi.test.eba.europa.eu
 ssbi2.dev.eba.europa.eu
+sse.np.myworkplace.services.ec.europa.eu
 ssl-ehic.europa.eu
 ssl.f4e.europa.eu
 sslvpn.curia.europa.eu
@@ -9895,6 +9949,7 @@ stage.digital-journey.europarl.europa.eu
 stage.esm.europa.eu
 staging-crm.cedefop.europa.eu
 staging-new.fra.europa.eu
+staging-prod.eurofound.europa.eu
 staging-production-2.echa.europa.eu
 staging-sustainabilityportal.easa.europa.eu
 staging-sustainabilityportalapi.easa.europa.eu
@@ -10173,6 +10228,7 @@ stresa.jrc.ec.europa.eu
 stress.europa.eu
 stress-test.eba.europa.eu
 stress.ec.europa.eu
+stress.eudr.webcloud.ec.europa.eu
 structurizr-sbx.eesc-cor.europa.eu
 sts-in.easo.europa.eu
 sts-in.euaa.europa.eu
@@ -10370,6 +10426,7 @@ team-europe-explorer.europa.eu
 team-europe-partners.network.europa.eu
 team-server.eba.europa.eu
 team-server.test.eba.europa.eu
+team.iate.europa.eu
 teamsco.acc.tech.ec.europa.eu
 teamserver.easo.europa.eu
 teamserver.euaa.europa.eu
@@ -10457,6 +10514,7 @@ test-elm.echa.europa.eu
 test-env.ecs.echa.europa.eu
 test-era.europa.eu
 test-evr.test-era.europa.eu
+test-httpbin-pub.nms-stress.webcloud.ec.europa.eu
 test-hwc.osha.europa.eu
 test-ib-ext.curia.europa.eu
 test-ideaspowered.euipo.europa.eu
@@ -10638,9 +10696,11 @@ toolkit.osha.europa.eu
 tools.dev.eba.europa.eu
 tools.dev.upp.op.europa.eu
 tools.eba.europa.eu
+tools.enisa.europa.eu
 tools.era.europa.eu
 tools.intpa.services.ec.europa.eu
 tools.test.eba.europa.eu
+toto.compass-corporate.webcloud.ec.europa.eu
 totu.dke.tech.ec.europa.eu
 tourism-dashboard.ec.europa.eu
 tr-aid.jrc.ec.europa.eu
@@ -10708,6 +10768,7 @@ truwcf.frontex.europa.eu
 ts.ecdc.europa.eu
 ts.publications.europa.eu
 tsar.jrc.ec.europa.eu
+tsd.lab.oots.tech.ec.europa.eu
 tsg1.eesc-cor.europa.eu
 tsg2.eesc-cor.europa.eu
 tsgdr.eesc-cor.europa.eu
@@ -11233,6 +11294,7 @@ webenrollext-t.esma.europa.eu
 webenrollint-t.esma.europa.eu
 webex-admin.curia.europa.eu
 webex-auth.curia.europa.eu
+webforms-test.01dev.eea.europa.eu
 webforms.devel6cph.eea.europa.eu
 webforms.eionet.europa.eu
 webforms.ewxdevel1dub.eionet.europa.eu
@@ -11399,6 +11461,7 @@ workflows.dev.eba.europa.eu
 workflows.eba.europa.eu
 workflows.preprod.eba.europa.eu
 workflows.test.eba.europa.eu
+workpermits-dev.zp-interim.europarl.europa.eu
 world-you-like.europa.eu
 worth-partnership.ec.europa.eu
 wpns.consilium.europa.eu
@@ -11411,6 +11474,7 @@ ws-esp.preprod.eba.europa.eu
 ws-esp.test.eba.europa.eu
 ws.data-oriented-services.ec.europa.eu
 ws.dlt.myworkplace.services.ec.europa.eu
+ws.myworkplace.services.ec.europa.eu
 ws.np.myworkplace.services.ec.europa.eu
 ws.thetis-pp.emsa.europa.eu
 ws.virtual-role-play-game.dev.digital-journey.europarl.europa.eu
@@ -11835,6 +11899,7 @@ www.manager.icoco.tech.ec.europa.eu
 www.matomo.efca.europa.eu
 www.mav.consilium.europa.eu
 www.mediamanager.cis.consilium.europa.eu
+www.mediaplanning.consilium.europa.eu
 www.mid.ecb.europa.eu
 www.mir.efca.europa.eu
 www.mis.efca.europa.eu
@@ -11859,6 +11924,7 @@ www.op.europa.eu
 www.opds.publications.europa.eu
 www.open-science-cloud.ec.europa.eu
 www.opencsam.enisa.europa.eu
+www.opencti.enisa.europa.eu
 www.openssam.enisa.europa.eu
 www.organic-farming.europa.eu
 www.osha.europa.eu

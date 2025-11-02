@@ -9,6 +9,7 @@
 *.benefitsolver.resmed.com
 *.ccoe.resmed.com
 *.dev.ccoe.resmed.com
+*.dev.rsc.resmed.com
 *.dev.trust.resmed.com
 *.devx.resmed.com
 *.fsg.machineservices.resmed.com
@@ -21,6 +22,7 @@
 *.private.dev.ccoe.resmed.com
 *.qa.rsc.resmed.com
 *.remote.resmed.com
+*.resai.resmed.com
 *.resupply.resmed.com
 *.trust.resmed.com
 *.ufo-dev-amr.resmed.com
@@ -33,6 +35,7 @@ account-dev.resmed.com
 account-sit.resmed.com
 account-test.resmed.com
 account-uat.resmed.com
+account.eshop.resmed.com
 accountroc-dev.resmed.com
 accountroc-test.resmed.com
 accountroc-uat.resmed.com
@@ -50,6 +53,10 @@ airfitn30i.resmed.com
 airmini.resmed.com
 airtouchsweepstakes.resmed.com
 airview.resmed.com
+airview-ap-bbb.resmed.com
+airview-ap-ventilation.resmed.com
+airview-bbb.resmed.com
+airview-stg.resmed.com
 airview-ventilation-demo-amr.resmed.com
 airview-ventilation-demo-apac.resmed.com
 airview-ventilation-demo-eu-amr.resmed.com
@@ -57,6 +64,7 @@ airview-ventilation-xint-amr.resmed.com
 airviewcare.resmed.com
 airviewid.resmed.com
 airviewmaintenance.resmed.com
+airviewplus-stg.resmed.com
 airviewstatus.resmed.com
 airwatch.resmed.com
 airwatchmag.resmed.com
@@ -66,6 +74,7 @@ ala-avx-stg-tlz.resmed.com
 ala-avx-tlz.resmed.com
 ala-avx-uat.resmed.com
 aladataboxapi-uat.resmed.com
+alpha-amr.notifications.resmed.com
 am.ccg.resmed.com
 amdev.ccg.resmed.com
 amr-prd.fsg.machineservices.resmed.com
@@ -85,6 +94,7 @@ ap-airviewplus.resmed.com
 ap-bbb.resmed.com
 ap-ventilation.resmed.com
 apac.resmed.com
+apac-airview-stg.resmed.com
 apac-prd.fsg.machineservices.resmed.com
 apac-qa.fsg.machineservices.resmed.com
 apac-stg.fsg.machineservices.resmed.com
@@ -181,6 +191,7 @@ cognos.resmed.com
 cognosdev.resmed.com
 cognosuat.resmed.com
 compliance-coach.resmed.com
+compliance-coach-silverline.resmed.com
 connect.resmed.com
 connect-login.resmed.com
 contenthub-qa.resmed.com
@@ -216,6 +227,8 @@ demo-airview-eu.resmed.com
 demo-compliance-coach.resmed.com
 demo-compliance-coach-silverline.resmed.com
 design.resmed.com
+dev-airview-bbb.resmed.com
+dev-airview-ventilation.resmed.com
 dev-api.resmed.com
 dev-apim.resmed.com
 dev-compliance-coach.resmed.com
@@ -237,6 +250,7 @@ dev-www-origin.resmed.com
 dev.ai.resmed.com
 dev.ccoe.resmed.com
 dev.devx.resmed.com
+dev.rsc.resmed.com
 dev.trust.resmed.com
 dev2-api.resmed.com
 dev2-onlinestore.resmed.com
@@ -252,6 +266,7 @@ devx-us-www.resmed.com
 devx2-us-www.resmed.com
 docs.devx.resmed.com
 docs.idm.resmed.com
+docs.resai.resmed.com
 document.resmed.com
 document-dev.resmed.com
 document-sbx.resmed.com
@@ -358,6 +373,7 @@ link.resmed.com
 llmchat.resmed.com
 logger.resmed.com
 login.resmed.com
+login-airview-stg.resmed.com
 login-dev.resmed.com
 login-dev.researchregistry.resmed.com
 login-qa.resmed.com
@@ -400,10 +416,12 @@ multibrowser.resmed.com
 mx.resmed.com
 myaccess-dev.resmed.com
 myaccount.resmed.com
+myaccount-assets.resmed.com
 myaccount-dev-dit-amr-assets.resmed.com
 myaccount-dev-fit-amr-assets.resmed.com
 myaccount-e2e-perf-amr-assets.resmed.com
 myaccount-e2e-stg-amr-assets.resmed.com
+myaccount-stg.resmed.com
 myair.resmed.com
 myair2.resmed.com
 myairpulse.resmed.com
@@ -420,6 +438,7 @@ mynight-api.resmed.com
 mynight-api-uat.resmed.com
 mynight-app-api.resmed.com
 mynightapi-uat.resmed.com
+myrefresh.resmed.com
 myresupply.resmed.com
 mysleep.resmed.com
 mysleep-u.resmed.com
@@ -438,6 +457,7 @@ notifications.eforms-sit.resmed.com
 notifications.eforms-uat.resmed.com
 oauth-agent-api.resmed.com
 oauth-agent-api-stg.resmed.com
+oauth-mock-service.resmed.com
 oauth-mock-service-stg.resmed.com
 objective.resmed.com
 objective-poc.resmed.com
@@ -524,15 +544,19 @@ qliksenseeuprd.resmed.com
 qliksenseeustg.resmed.com
 radar.devx.resmed.com
 refresh.resmed.com
+refresh-admin.resmed.com
 remote.resmed.com
 reportingserver.resmed.com
+resai.resmed.com
 resmed-layered-architecture.devx.resmed.com
 resmed-supplier-portal.resmed.com
 resmed-supplier-portal-uat.resmed.com
 restapi.resmed.com
 restapi-uat.resmed.com
 resteasy.resmed.com
+resultserver.resmed.com
 resupply.resmed.com
+resupply-admin.resmed.com
 resvisitor.resmed.com
 rise.resmed.com
 rmdassets.resmed.com
@@ -544,6 +568,7 @@ scout.resmed.com
 scrat.resmed.com
 sds.resmed.com
 search.resmed.com
+secretlink.resmed.com
 secure.resmed.com
 securemail.resmed.com
 securepass.resmed.com
@@ -566,10 +591,12 @@ signature.resmed.com
 signin.resmed.com
 signin-assets.resmed.com
 signin-dev-dit-amr-assets.resmed.com
+signin-dev-fit-amr.resmed.com
 signin-dev-fit-amr-assets.resmed.com
 signin-e2e-perf-amr-assets.resmed.com
 signin-e2e-stg-amr.resmed.com
 signin-e2e-stg-amr-assets.resmed.com
+signin-rmd-dev-amr.resmed.com
 signin-sbx.resmed.com
 signin-sbx-amr-assets.resmed.com
 sip.resmed.com
@@ -597,10 +624,16 @@ st01-airview.resmed.com
 staging-data.resmed.com
 staging-internal-data.resmed.com
 status.resmed.com
+stg-admin.resupply.resmed.com
+stg-airview-ap-bbb.resmed.com
+stg-airview-bbb.resmed.com
+stg-airview-ventilation.resmed.com
 stg-compliance-coach.resmed.com
 stg-compliance-coach-silverline.resmed.com
 stg-eu-gstp-ols-api-service.resmed.com
+stg-hme.resupply.resmed.com
 stg-media.resmed.com
+stg-patient.resupply.resmed.com
 stg.ccoe.resmed.com
 store.resmed.com
 supplier.resmed.com
@@ -650,6 +683,9 @@ transfer.resmed.com
 trust.resmed.com
 uat-admin-transfer.resmed.com
 uat-airapp.resmed.com
+uat-airview-ap-bbb.resmed.com
+uat-airview-bbb.resmed.com
+uat-airview-ventilation.resmed.com
 uat-api.resmed.com
 uat-b2baccounts.resmed.com
 uat-csr.swatapps.resmed.com
@@ -665,10 +701,21 @@ uat2-onlinestore.resmed.com
 uat2-onlinestore.resmed.com.resmed.com
 uc.resmed.com
 ufo-dev-amr.resmed.com
+ui-airview-ap-bbb.resmed.com
+ui-airview-ap-ventilation.resmed.com
+ui-airview-bbb.resmed.com
 ui-airview-ventilation-demo-amr.resmed.com
 ui-airview-ventilation-demo-apac.resmed.com
 ui-airview-ventilation-demo-eu-amr.resmed.com
 ui-airview-ventilation-xint-amr.resmed.com
+ui-dev-airview-bbb.resmed.com
+ui-dev-airview-ventilation.resmed.com
+ui-stg-airview-ap-bbb.resmed.com
+ui-stg-airview-bbb.resmed.com
+ui-stg-airview-ventilation.resmed.com
+ui-uat-airview-ap-bbb.resmed.com
+ui-uat-airview-bbb.resmed.com
+ui-uat-airview-ventilation.resmed.com
 ui.ap-bbb.resmed.com
 ui.ap-ventilation.resmed.com
 ui.ventilation.resmed.com
@@ -700,6 +747,7 @@ view.latam.resmed.com
 vipau.resmed.com
 vipportal.resmed.com
 virginpulse.resmed.com
+virtualphysician.ing.resmed.com
 vnv-mon-eu.resmed.com
 vpn.gslb.resmed.com
 waf-mysleep.resmed.com
@@ -727,6 +775,7 @@ www.airview-ventilation-xint-amr.resmed.com
 www.airviewid.resmed.com
 www.ala-avx.resmed.com
 www.ala-avx-uat.resmed.com
+www.alpha-amr.notifications.resmed.com
 www.amsuat-www.resmed.com
 www.analytics.resmed.com
 www.analyticsdev.resmed.com
@@ -773,6 +822,7 @@ www.newsroom.resmed.com
 www.nightowl-api.resmed.com
 www.notifications.resmed.com
 www.opentext-poc.resmed.com
+www.opkey.resmed.com
 www.orgnprd.de.restapi.resmed.com
 www.orgnuat.de.restapi.resmed.com
 www.orion.resmed.com
@@ -784,9 +834,11 @@ www.qa-eu-gstp-ols-api-service.resmed.com
 www.remote.resmed.com
 www.reportingserver.resmed.com
 www.resteasy.resmed.com
+www.resultserver.resmed.com
 www.rmdcmg.resmed.com
 www.securemail.resmed.com
 www.securepass.resmed.com
+www.service.resmed.com
 www.shop.resmed.com
 www.shop-u.resmed.com
 www.sisense.resmed.com

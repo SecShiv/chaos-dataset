@@ -292,6 +292,7 @@ afd-k.office.com
 afd-k-acdc-direct.office.com
 afd-k-sdf.office.com
 afd-l.office.com
+afd-ssl-colddataclassify.colddataclassify.office.com
 afd-ssl.colddataclassify.office.com
 afd.aesir.office.com
 afd.forms.office.com
@@ -1182,6 +1183,7 @@ euscontroltower.office.com
 eusportal.office.com
 eusportal-cses.office.com
 eusportal-staging.office.com
+euwe.prod.pls.teams.internal.office.com
 euwe.prod.templates.taco.teams.internal.office.com
 ev2.hostedcache.teams.internal.office.com
 ews.office.com
@@ -1309,6 +1311,8 @@ gcc.teeinferences.substrate.office.com
 gcc.templates.taco.teams.internal.office.com
 gcc.thor.aesir.office.com
 gccdlp.outlook.office.com
+gcch-sip.ppsvc.cacheinvalidator.teams.internal.office.com
+gcch-sip.ppsvc.teams.internal.office.com
 gcch-teams.outlook.office.com
 gcch.complianceposturemanagement.office.com
 gcch.geneva.keyvault.fastraven.substrate.office.com
@@ -1822,12 +1826,14 @@ lnx-direct-ip.office.com
 lo2-direct-ip.office.com
 local.purview.service.scimconsumption.office.com
 local.teams.office.com
+localhost-kusto.enterprisesydney-ppe.substrate.office.com
 locations.outlook.office.com
 locationssigningcertkey.office.com
 lockboxscanner.hera.office.com
 loge.osikevlartorus.office.com
 logging.diagnostics.office.com
 logging.diagnostics-eudb.office.com
+logging.diagnosticssdf.office.com
 logging.ingestion.office.com
 login.office.com
 login.blogs.office.com
@@ -2006,6 +2012,7 @@ mstdevgbl-internal.dmsvcdev.teams.internal.office.com
 mstdevnoam-api.dmsvcdev.teams.internal.office.com
 mstdevnoam-authz-api.dmsvcdev.teams.internal.office.com
 mstdevnoam-autopilot-api.dmsvcdev.teams.internal.office.com
+mstdevnoam-cus-coresvc.dmsvcdev.teams.internal.office.com
 mstdevnoam-cus-notif-token.dmsvcdev.teams.internal.office.com
 mstdevnoam-cus-ticketrem.dmsvcdev.teams.internal.office.com
 mstdevnoam-cus-updatepro.dmsvcdev.teams.internal.office.com
@@ -2559,6 +2566,7 @@ prod.settings.teams.internal.office.com
 prod.sfclient.scimconsumption.office.com
 prod.smsb.teams.internal.office.com
 prod.spo.ingestion.office.com
+prod.static.support.office.com
 prod.submgmt.ingestion.office.com
 prod.submgmt.ingestion.m365.office.com
 prod.substrateinventory.office.com
@@ -3531,3 +3539,5 @@ zoom-cs-prodeuss1.ediscovery.office.com
 zoom-cs-prodeuss2.ediscovery.office.com
 zoom-cs-prodeuss3.ediscovery.office.com
 zoom-cs-prodweus1.ediscovery.office.com
+zoom-cs-prodweus2.ediscovery.office.com
+zoom-cs-prodweus3.ediscovery.office.com

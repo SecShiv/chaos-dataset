@@ -59,7 +59,10 @@ apigwacc.standard.com
 apigwprod.standard.com
 apis.ahtfg-apis.prod-east.standard.com
 apis.cfa-sps.dev-east.standard.com
+apis.cfa-sps.nonprod-east.standard.com
 apis.cfa-tax.dev-east.standard.com
+apis.cfa-tax.nonprod-east.standard.com
+apis.cfa-tax.prod-east.standard.com
 app.standard.com
 app.dev.standard.com
 app.nonprod.standard.com
@@ -419,6 +422,7 @@ nonprod-snaas.itcat.standard.com
 nonprod-spa.dcx.standard.com
 nonprod-uat-api.pas.standard.com
 nonprod-vnext.itcat.standard.com
+nonprod.cfa-tax.nonprod-east.standard.com
 nonprod.ecms.standard.com
 nuqneh.standard.com
 o365.standard.com
@@ -460,6 +464,7 @@ preprod-api.pas.standard.com
 prod-api.snowaas.standard.com
 prod-spa.dcx.standard.com
 prod.ahtfg-apis.prod-east.standard.com
+prod.cfa-tax.prod-east.standard.com
 prod.ecms.standard.com
 prod.nautobot.us-east-2.nsot.standard.com
 prod.nsot.standard.com
@@ -467,6 +472,7 @@ prometheus.nsot.standard.com
 psc-demo.standard.com
 pwsafe.standard.com
 qa-absence.standard.com
+qa.cfa-sps.nonprod-east.standard.com
 qr.standard.com
 rad1c2.standard.com
 rad1c3.standard.com
@@ -551,6 +557,7 @@ tho2lab.standard.com
 tony-dev.nsot.standard.com
 turf.standard.com
 uat-api.pas.standard.com
+uat.cfa-sps.nonprod-east.standard.com
 ucupdates-r2.standard.com
 uiss.standard.com
 uissacc.standard.com

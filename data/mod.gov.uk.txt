@@ -172,8 +172,10 @@
 *.c0172-dsa.ice.mod.gov.uk
 *.c0173-preprod.ice.mod.gov.uk
 *.c0173-prod.ice.mod.gov.uk
+*.c0175-dev.ice.mod.gov.uk
 *.c0175-deva.ice.mod.gov.uk
 *.c0175-preprod.ice.mod.gov.uk
+*.c0175-prod.ice.mod.gov.uk
 *.c0175-test.ice.mod.gov.uk
 *.c0176-prod.ice.mod.gov.uk
 *.c0176-test.ice.mod.gov.uk
@@ -184,15 +186,20 @@
 *.c0182-dev.ice.mod.gov.uk
 *.c0182-preprod.ice.mod.gov.uk
 *.c0182-prod.ice.mod.gov.uk
+*.c0201-dev.ice.mod.gov.uk
+*.cde-ops.ice.mod.gov.uk
+*.cde.ice.mod.gov.uk
 *.ces.mcn.ice.mod.gov.uk
 *.cespreprod.preprodmcn.ice.mod.gov.uk
 *.coder.admin.liverpoolst.mcn.ace.mod.gov.uk
 *.coder.liverpoolst.mcn.ace.mod.gov.uk
+*.coder.ng3.dev.iace.mod.gov.uk
 *.cortisone.dev.iace.mod.gov.uk
 *.cpa-dev.acoe.mcn.ice.mod.gov.uk
 *.cpa-staging.acoe.mcn.ice.mod.gov.uk
 *.cpa-test.acoe.mcn.ice.mod.gov.uk
 *.cpa.acoe.ice.mod.gov.uk
+*.crucible-dev.mcn.iace.mod.gov.uk
 *.crucible.mcn.iace.mod.gov.uk
 *.datawh-preprod.dio.iace.mod.gov.uk
 *.ddap-dev.mcn.ice.mod.gov.uk
@@ -213,6 +220,7 @@
 *.dev.ng3.mcn.ace.mod.gov.uk
 *.dev.scip.ice.mod.gov.uk
 *.dev.service.mod.gov.uk
+*.deva.c3ai.ice.mod.gov.uk
 *.devia.mcn.ace.mod.gov.uk
 *.dio-preprod.iace.mod.gov.uk
 *.dio.iace.mod.gov.uk
@@ -228,7 +236,9 @@
 *.evita-mgmt.c0012-devan.ice.mod.gov.uk
 *.extract.mcn.ice.mod.gov.uk
 *.forcegen-dev.raf.ice.mod.gov.uk
+*.forcegen.mcn.ice.mod.gov.uk
 *.gis-pp.dio.ice.mod.gov.uk
+*.gitlab.cde-ops.ice.mod.gov.uk
 *.gitlab.ops.faster.ice.mod.gov.uk
 *.gliderbim-dev.dio.mcn.ice.mod.gov.uk
 *.gliderbim.dio.mcn.ice.mod.gov.uk
@@ -256,6 +266,7 @@
 *.ng3.dev.iace.mod.gov.uk
 *.ops.faster.ice.mod.gov.uk
 *.pages.liverpoolst.mcn.ace.mod.gov.uk
+*.pages.ng3.dev.iace.mod.gov.uk
 *.pp-dev.raf.ice.mod.gov.uk
 *.preprod.leidos-core.mcn.ice.mod.gov.uk
 *.preprod.mcn.ice.mod.gov.uk
@@ -681,8 +692,10 @@ c0171-dsa.ice.mod.gov.uk
 c0172-dsa.ice.mod.gov.uk
 c0173-preprod.ice.mod.gov.uk
 c0173-prod.ice.mod.gov.uk
+c0175-dev.ice.mod.gov.uk
 c0175-deva.ice.mod.gov.uk
 c0175-preprod.ice.mod.gov.uk
+c0175-prod.ice.mod.gov.uk
 c0175-test.ice.mod.gov.uk
 c0176-prod.ice.mod.gov.uk
 c0176-test.ice.mod.gov.uk
@@ -693,11 +706,14 @@ c0181-dev.ice.mod.gov.uk
 c0182-dev.ice.mod.gov.uk
 c0182-preprod.ice.mod.gov.uk
 c0182-prod.ice.mod.gov.uk
+c0201-dev.ice.mod.gov.uk
 caas-si.mcn.ace.mod.gov.uk
 caas-tddp.mcn.ace.mod.gov.uk
 ccm-app-analysis.mcn.ace.mod.gov.uk
 ccm.apim.core.mcn.ace.mod.gov.uk
 ccm.mcn.ace.mod.gov.uk
+cde-ops.ice.mod.gov.uk
+cde.ice.mod.gov.uk
 ces.ice.mod.gov.uk
 ces.mcn.ice.mod.gov.uk
 cespreprod.preprodmcn.ice.mod.gov.uk
@@ -710,6 +726,7 @@ cloud.dasa.mod.gov.uk
 cmm-dev.ice.mod.gov.uk
 coder.admin.liverpoolst.mcn.ace.mod.gov.uk
 coder.liverpoolst.mcn.ace.mod.gov.uk
+coder.ng3.dev.iace.mod.gov.uk
 coeus-devb.dstl.ice.mod.gov.uk
 confluence.ces.mcn.ice.mod.gov.uk
 confluence.modcloud.ice.mod.gov.uk
@@ -724,6 +741,7 @@ cpa-test.acoe.mcn.ice.mod.gov.uk
 cpa.acoe.ice.mod.gov.uk
 crewwebplus.mcn.ace.mod.gov.uk
 crowd.saasdev.ice.mod.gov.uk
+crucible-dev.mcn.iace.mod.gov.uk
 dashboard.netmaker.dev.iace.mod.gov.uk
 dashboard.starion.beroe.dev.iace.mod.gov.uk
 datawh-preprod.dio.iace.mod.gov.uk
@@ -767,6 +785,7 @@ dev.saasdev.ice.mod.gov.uk
 dev.sb.service.mod.gov.uk
 dev.scip.ice.mod.gov.uk
 dev.service.mod.gov.uk
+deva.c3ai.ice.mod.gov.uk
 deva.faster.ice.mod.gov.uk
 devia.mcn.ace.mod.gov.uk
 digt.dean.mod.gov.uk
@@ -825,6 +844,7 @@ fleet.c0091-dev.ice.mod.gov.uk
 fleet.c0091-prod.mcn.ice.mod.gov.uk
 flexibleservice.mod.gov.uk
 forcegen-dev.raf.ice.mod.gov.uk
+forcegen.mcn.ice.mod.gov.uk
 foundry.mod.gov.uk
 foundry.d2s.mcn.ace.mod.gov.uk
 frontend.gliderbim-dev.dio.mcn.ice.mod.gov.uk
@@ -834,6 +854,7 @@ fuelsforecasting-dev.defsp.ice.mod.gov.uk
 fw.mcn.ice.mod.gov.uk
 fw.preprodmcn.ice.mod.gov.uk
 gis-pp.dio.ice.mod.gov.uk
+gitlab.cde-ops.ice.mod.gov.uk
 gitlab.landopensystems.mod.gov.uk
 gitlab.ops.faster.ice.mod.gov.uk
 gliderbim-dev.dio.ice.mod.gov.uk
@@ -847,7 +868,9 @@ grafana.netmaker.dev.iace.mod.gov.uk
 graph.vi-preprod.ice.mod.gov.uk
 graph.vi.ice.mod.gov.uk
 hcoa.mod.gov.uk
+hcoa-uks-e2.mod.gov.uk
 hcoa-ukw-e1.mod.gov.uk
+hcoa.mnopp.mod.gov.uk
 hcoa.mnotest.mod.gov.uk
 henosis-dev.raf.dev.iace.mod.gov.uk
 henosis-preprod.raf.dev.iace.mod.gov.uk
@@ -896,6 +919,7 @@ mail.dean.mod.gov.uk
 mcn.ace.mod.gov.uk
 mcn.ice.mod.gov.uk
 media.p8alarms.mcn.ace.mod.gov.uk
+mgmt.netbird.dev.iace.mod.gov.uk
 mm-dsa.spectrum.ice.mod.gov.uk
 mm-test.spectrum.ice.mod.gov.uk
 mm.spectrum.ice.mod.gov.uk
@@ -940,6 +964,7 @@ pads.ice.mod.gov.uk
 padsalpha-dev.crp.ice.mod.gov.uk
 padsalpha-test.crp.ice.mod.gov.uk
 pages.liverpoolst.mcn.ace.mod.gov.uk
+pages.ng3.dev.iace.mod.gov.uk
 pantheon-preprod.dev.iace.mod.gov.uk
 paragontt.starion.beroe.dev.iace.mod.gov.uk
 plan.starion.beroe.dev.iace.mod.gov.uk
@@ -994,6 +1019,7 @@ rdip-testa.ice.mod.gov.uk
 rdip.di-do.mcn.ice.mod.gov.uk
 rdip.ice.mod.gov.uk
 rdpgw.scrm.iace.mod.gov.uk
+relay.netbird.dev.iace.mod.gov.uk
 remote.cortisone.dev.iace.mod.gov.uk
 rgtest.testing123.ice.mod.gov.uk
 rnaess.dean.mod.gov.uk
@@ -1023,6 +1049,7 @@ service.d2s.mcn.ace.mod.gov.uk
 seymour.dev.iace.mod.gov.uk
 seymour.mcn.ace.mod.gov.uk
 sie-sandbox.ice.mod.gov.uk
+signal.netbird.dev.iace.mod.gov.uk
 sikm.mcn.ace.mod.gov.uk
 single.vi.ice.mod.gov.uk
 sip.mod.gov.uk
@@ -1051,6 +1078,7 @@ sponl.iace.mod.gov.uk
 sso-dev.ice.mod.gov.uk
 staging-c0023.ice.mod.gov.uk
 sts.mod.gov.uk
+stun.netbird.dev.iace.mod.gov.uk
 subs.leap.sikm.iace.mod.gov.uk
 svcs.gliderbim.dio.ice.mod.gov.uk
 t0000-test.ice.mod.gov.uk
@@ -1084,6 +1112,7 @@ tooling.dev.iace.mod.gov.uk
 tooling.iace.mod.gov.uk
 trend.dev.ice.mod.gov.uk
 trend.prod.ice.mod.gov.uk
+turn.netbird.dev.iace.mod.gov.uk
 tvsmdm.prodh.scip.mcn.ice.mod.gov.uk
 ukafvp.mod.gov.uk
 ukspoc.mod.gov.uk
@@ -1157,7 +1186,9 @@ www.eusozukwsnowdb1.preprod-euso.mcn.iace.mod.gov.uk
 www.filetrailvets.mcn.ace.mod.gov.uk
 www.findforcesjobs.mod.gov.uk
 www.hcoa.mod.gov.uk
+www.hcoa-uks-e2.mod.gov.uk
 www.hcoa-ukw-e1.mod.gov.uk
+www.hcoa.mnopp.mod.gov.uk
 www.hcoa.mnotest.mod.gov.uk
 www.henosis-dev.raf.dev.iace.mod.gov.uk
 www.henosis-preprod.raf.dev.iace.mod.gov.uk
@@ -1214,3 +1245,4 @@ xdo.prod.hyperion.service.mod.gov.uk
 xdo.ref.hyperion.service.mod.gov.uk
 xdu.ref.hyperion.service.mod.gov.uk
 xdu.test.hyperion.service.mod.gov.uk
+xdv.ref.hyperion.service.mod.gov.uk

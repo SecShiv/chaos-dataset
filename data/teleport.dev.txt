@@ -1,6 +1,8 @@
+.teleport.dev
 *.teleport.dev
 apt.releases.teleport.dev
 apt.releases.development.teleport.dev
+attune.eks-gha-dev.cluster.teleport.dev
 cdn.teleport.dev
 cert-test.eks-gha-prod.cluster.teleport.dev
 charts.releases.teleport.dev
@@ -27,6 +29,3 @@ usage.teleport.dev
 usage-stg.teleport.dev
 www.teleport.dev
 yum.releases.teleport.dev
-yum.releases.development.teleport.dev
-zypper.releases.teleport.dev
-zypper.releases.development.teleport.dev

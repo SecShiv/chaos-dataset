@@ -222,6 +222,7 @@ jenkins.infra.just-data.io
 jenkins.infra-dev.just-data.io
 jenkins.infra-dr.just-data.io
 jet-360-back.dev.just-data.io
+jet-360-sockets.dev.just-data.io
 jet-360.dev.just-data.io
 jet-doccano.dev.just-data.io
 jet-ml-dev.just-data.io
@@ -314,6 +315,8 @@ osrm-uk-bicycle.dev.just-data.io
 osrm-uk-motorbike.just-data.io
 osrm-uk-motorbike.dev.just-data.io
 osrm-uk.dev.just-data.io
+partner-embeddings-explorer.dev.just-data.io
+partner-embeddings-explorer.prod.just-data.io
 pipeline-orchestrator-api.just-data.io
 pipeline-orchestrator-api-push-subscriptions.just-data.io
 pipeline-orchestrator-api-push-subscriptions.dev.just-data.io
@@ -364,3 +367,7 @@ status.just-data.io
 streamlit-app.dev.just-data.io
 tableau-cloud-ci.dev.just-data.io
 test-cloudrun.dev.just-data.io
+test.ml-dev.just-data.io
+ubd-fee-modelling.dev.just-data.io
+vault-test.dev.just-data.io
+www.prefect-dev.just-data.io

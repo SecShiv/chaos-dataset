@@ -1,3 +1,4 @@
+.rivm.nl
 *.rivm.nl
 3scale-admin.acc-api-int.rivm.nl
 3scale-admin.api-int.rivm.nl
@@ -40,6 +41,7 @@ acc-mijnlmm.rivm.nl
 acc-nieuwsbrieven.rivm.nl
 acc-paskaart.rivm.nl
 acc-planon.rivm.nl
+acc-portaal.rivm.nl
 acc-sftp01.rivm.nl
 acc-spin.rivm.nl
 acc-sso-osiris.rivm.nl
@@ -265,6 +267,7 @@ ctxaga-t-vip.rivm.nl
 dashboard.rivm.nl
 dashview.rivm.nl
 data.rivm.nl
+data-acc.rivm.nl
 datavisualisatie.rivm.nl
 deelditnietmetjevrienden.rivm.nl
 def.acceptatie.relatiebeheer.rivm.nl
@@ -501,9 +504,13 @@ lsocit1.rivm.nl
 lsocit2.rivm.nl
 lsocom1.rivm.nl
 lsocom2.rivm.nl
+lsp-api-casedb-dev.rivm.nl
 lsp-api-casedb-tst.rivm.nl
+lsp-api-omodb-dev.rivm.nl
 lsp-api-omodb-tst.rivm.nl
+lsp-api-seqdb-dev.rivm.nl
 lsp-api-seqdb-tst.rivm.nl
+lsp-dev.rivm.nl
 lsp-tst.rivm.nl
 lsp01.acc-api.rivm.nl
 lucht2022.rivm.nl
@@ -556,6 +563,7 @@ mml01-ext-p.rivm.nl
 mobilesync.rivm.nl
 modcat.rivm.nl
 modellenregister.rivm.nl
+mpf.rivm.nl
 mrsa.rivm.nl
 nagios.rivm.nl
 nagiosl01-int-p.rivm.nl
@@ -822,6 +830,7 @@ test.nhs-lims.rivm.nl
 test.osiris.rivm.nl
 test.pars.rivm.nl
 test.proastweb.rivm.nl
+test.pwrbi.rivm.nl
 test.rivmdoc.rivm.nl
 test.scp.rivm.nl
 test.sdv.rivm.nl
@@ -880,6 +889,7 @@ tst-iobeya.rivm.nl
 tst-lsp.rivm.nl
 tst-mam.rivm.nl
 tst-mijn.rivm.nl
+tst-portaal.rivm.nl
 tst-sm-lims.rivm.nl
 tst-spin.rivm.nl
 ttp.rivm.nl
@@ -993,7 +1003,9 @@ www.man.rivm.nl
 www.mcra.rivm.nl
 www.mcra-test.rivm.nl
 www.migratie.rivm.nl
+www.mpf.rivm.nl
 www.netauth.rivm.nl
+www.nevo-online.rivm.nl
 www.nieuwsbrief.rivm.nl
 www.nivelform.rivm.nl
 www.notes.rivm.nl

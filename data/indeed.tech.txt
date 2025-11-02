@@ -166,6 +166,7 @@
 08ec94bba95e4c88c1b6ffe4f78c2647.loom-inference.awscmhqa4.k8s.indeed.tech
 098b0f10f7b9bcd5875ea55e2a5e7beb.loom-inference.awscmh5.k8s.indeed.tech
 098b0f10f7b9bcd5875ea55e2a5e7beb.loom-inference.awscmh6.k8s.indeed.tech
+098b0f10f7b9bcd5875ea55e2a5e7beb.loom-inference.awscmhqa4.k8s.indeed.tech
 098b0f10f7b9bcd5875ea55e2a5e7beb.loom-inference.awspdx2.k8s.indeed.tech
 098b0f10f7b9bcd5875ea55e2a5e7beb.loom-inference.awsyul2.k8s.indeed.tech
 0b356dd891080d10963ee39ed4c7d254.loom-inference.awscmh5.k8s.indeed.tech
@@ -184,11 +185,14 @@
 15e74f89cd94e16c9b4afdf409f71cb2.agnes-amds-serving.science.jobseeker.awscmhqa5.k8s.indeed.tech
 173c5a120e009a5dd1b2fc50d0847f11.loom-inference.awscmh5.k8s.indeed.tech
 173c5a120e009a5dd1b2fc50d0847f11.loom-inference.awscmh6.k8s.indeed.tech
+173c5a120e009a5dd1b2fc50d0847f11.loom-inference.awsyul2.k8s.indeed.tech
 1adb63edaa2a88791d6dc9f75f97b9ed.loom-inference.awscmhqa5.k8s.indeed.tech
 1b16e32277ab4d09167da9fe50ce6b93.loom-inference.awscmhqa5.k8s.indeed.tech
 1c805d37682666edb2145996a90c158c.agnes-amds-serving.eda.enterprise.awscmhqa5.k8s.indeed.tech
 1c805d37682666edb2145996a90c158c.agnes-amds-serving.science.jobseeker.awscmhqa5.k8s.indeed.tech
 1cc08d84d102664fc5ab93a31b243fd9.loom-inference.awscmhqa4.k8s.indeed.tech
+1f8249ae906578d7a7fcdb36c0db2fc9.loom-inference.awscmh7.k8s.indeed.tech
+1f8249ae906578d7a7fcdb36c0db2fc9.loom-inference.awscmhqa4.k8s.indeed.tech
 1f8249ae906578d7a7fcdb36c0db2fc9.loom-inference.awspdx2.k8s.indeed.tech
 1fe8805b67e1b49adfa390fc891f916c.agnes-amds-serving.eda.enterprise.awscmhqa5.k8s.indeed.tech
 22d3a16f8a2ad49d1b3c77232e0e847a.loom-inference.awscmhqa5.k8s.indeed.tech
@@ -210,6 +214,8 @@
 2d9e62dbb33a36c89f31fbeee07ab17d.loom-inference.awscmhqa5.k8s.indeed.tech
 30ba09386aed924128d2240b4fc4c8d6.loom-inference.awscmhqa5.k8s.indeed.tech
 30eed52297fdde7f7551642bf28133fe.agnes-amds-serving.science.jobseeker.awscmhqa5.k8s.indeed.tech
+3101b20e70a559fbf25b80f48c4a3882.loom-inference.awscmh5.k8s.indeed.tech
+3101b20e70a559fbf25b80f48c4a3882.loom-inference.awscmhqa5.k8s.indeed.tech
 31c99d434068cf63cdbf1bc76efcf26c.loom-inference.awscmhqa5.k8s.indeed.tech
 363e34b39a054c318e4d03719a8db73a.loom-inference.awscmh6.k8s.indeed.tech
 3717481c227821bf28c523fed71996e5.agnes-amds-serving.science.enterprise.awscmhqa5.k8s.indeed.tech
@@ -477,6 +483,7 @@ adcentralbot.stage.awscmhqa4.k8s.indeed.tech
 adcentralcache.awscmh2.k8s.indeed.tech
 adcentralcache.awscmh3.k8s.indeed.tech
 adcentralcache.awscmh5.k8s.indeed.tech
+adcentralcache.awscmh6.k8s.indeed.tech
 adcentralcache.awscmhqa2.k8s.indeed.tech
 adcentralcache.awscmhqa3.k8s.indeed.tech
 adcentralcache.awscmhqa4.k8s.indeed.tech
@@ -1708,6 +1715,9 @@ chaos-mesh.awssyd2.k8s.indeed.tech
 chaoydemo.cmhqa1.k8s.indeed.tech
 chaoydemo.cmhqa2.k8s.indeed.tech
 chaoydemo.cmhqa3.k8s.indeed.tech
+chat-bridge.data.qa.indeed.tech
+chat-bridge.data.qa.awscmhqa4.k8s.indeed.tech
+chat-bridge.data.qa.us-east-2.indeed.tech
 chat-inquiry.cmhqa1.k8s.indeed.tech
 chat-inquiry.cmhqa2.k8s.indeed.tech
 chat-inquiry.cmhqa3.k8s.indeed.tech
@@ -2033,7 +2043,10 @@ convertracker-test.indeed.tech
 cookiemgr.cmhqa1.k8s.indeed.tech
 cookiemgr.cmhqa2.k8s.indeed.tech
 cookiemgr.cmhqa3.k8s.indeed.tech
+cookiemgr.qa.indeed.tech
+cookiemgr.qa.awscmhqa4.k8s.indeed.tech
 cookiemgr.qa.k8s.indeed.tech
+cookiemgr.qa.us-east-2.indeed.tech
 coriaria.cmhprod1.k8s.indeed.tech
 coriaria.cmhprod2.k8s.indeed.tech
 coriaria.cmhqa1.k8s.indeed.tech
@@ -3199,6 +3212,7 @@ evntimpact.cmhqa3.k8s.indeed.tech
 evntimpact.qa.k8s.indeed.tech
 evo-growthbook.indeed.tech
 evo-growthbook-api.indeed.tech
+evo-growthbook-api.qa.indeed.tech
 evo-growthbook.qa.indeed.tech
 example-cluster-prod-ldap.awscmh5.k8s.indeed.tech
 example-cluster-prod-saml.awscmh5.k8s.indeed.tech
@@ -3378,6 +3392,7 @@ flex-briefy.indeed.tech
 flex-briefy.qa.indeed.tech
 flex-core-loadtest-uk.qa.indeed.tech
 flex-core-loadtest-us.qa.indeed.tech
+flex-core-preprod-uk.qa.indeed.tech
 flex-core-staging-uk.qa.indeed.tech
 flex-core-staging-us.qa.indeed.tech
 flex-growthbook.indeed.tech
@@ -3406,7 +3421,9 @@ flex-matching-api.qa.indeed.tech
 flex-ml-model-kit--aru-model.indeed.tech
 flex-ml-model-kit--candidate-scoring-model-evaluator.indeed.tech
 flex-ml-model-kit--candidate-scoring-model-evaluator-qa.indeed.tech
+flex-ml-model-kit--catalog-enforcer-qa.indeed.tech
 flex-ml-model-kit--flex-agent-evaluation.indeed.tech
+flex-ml-model-kit--lexi-flexer-evaluation-qa.indeed.tech
 flex-ml-model-kit--me-booking-outcome-qa.indeed.tech
 flex-montferrand-magneto-qa.indeed.tech
 flex-pay-integrations.cmhprod1.k8s.indeed.tech
@@ -3440,6 +3457,8 @@ flex-workflow.cmhprod2.k8s.indeed.tech
 flex-workflow.cmhprod3.k8s.indeed.tech
 flex-workflow.cmhqa1.k8s.indeed.tech
 flex-workflow.cmhqa2.k8s.indeed.tech
+flex-yeet-slackbot.indeed.tech
+flex-yeet-slackbot-qa.indeed.tech
 flexo-exporter.awscmhinfra.k8s.indeed.tech
 flexo-exporter.awscmhinfra2.k8s.indeed.tech
 flexo-exporter.awscmhqa.k8s.indeed.tech
@@ -3565,6 +3584,7 @@ gitlarc.awscmh3.k8s.indeed.tech
 gitlarc.awscmh5.k8s.indeed.tech
 gitlarc.awscmhqa3.k8s.indeed.tech
 gitlarc.awscmhqa4.k8s.indeed.tech
+gitlarc.awsnrt3.k8s.indeed.tech
 gitlarc.cmhprod3.k8s.indeed.tech
 gitlarc.cmhqa3.k8s.indeed.tech
 gitlarc.qa.k8s.indeed.tech
@@ -4143,6 +4163,7 @@ indapply-file-service.awscmhqa.k8s.indeed.tech
 indapply-file-service.awscmhqa3.k8s.indeed.tech
 indapply-file-service.cmhqa1.k8s.indeed.tech
 indapply-gradle-cache.awscmhqa2.k8s.indeed.tech
+indapply-gradle-cache.awscmhqa5.k8s.indeed.tech
 indapply-ishbook-api.aus.k8s.indeed.tech
 indapply-ishbook-api.awscmh3.k8s.indeed.tech
 indapply-istio-file-service.awscmhqa.k8s.indeed.tech
@@ -4824,6 +4845,7 @@ jobsearchservice-test-eastasian-2a.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-eastasian-2b.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-eastasian-3b.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-eastasian-4a.awscmhstage2.k8s.indeed.tech
+jobsearchservice-test-eastasian-4b.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-eastasian-5a.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-eastasian-5b.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-eastasian-6a.awscmhstage2.k8s.indeed.tech
@@ -4861,6 +4883,7 @@ jobsearchservice-test-global-8b.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-global-9a.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-global-9b.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-us-10a.awscmhstage2.k8s.indeed.tech
+jobsearchservice-test-us-11a.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-us-11b.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-us-12a.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-us-12b.awscmhstage2.k8s.indeed.tech
@@ -5170,6 +5193,7 @@ kibana-bi-apac-bes-salesxpert.prod.indeed.tech
 kibana-bi-fpa-revxpert.prod.indeed.tech
 kibana-bi-fpa-revxpert.qa.indeed.tech
 kibana-bspchatbot-elasticsearch.qa.indeed.tech
+kibana-camarch-elastic.qa.indeed.tech
 kibana-campfire-v2.prod.indeed.tech
 kibana-campfire-v2.qa.indeed.tech
 kibana-campfire.prod.indeed.tech
@@ -5236,7 +5260,10 @@ kibana-hero.qa.indeed.tech
 kibana-hire2-candidate-search.prod.indeed.tech
 kibana-hire2-candidate-search.qa.indeed.tech
 kibana-hoppy.qa.indeed.tech
+kibana-indeed-status-pipeline-cluster.prod.indeed.tech
+kibana-indeed-status-pipeline-cluster.qa.indeed.tech
 kibana-invoiceitemization.prod.indeed.tech
+kibana-invoiceitemization.qa.indeed.tech
 kibana-itsys.prod.indeed.tech
 kibana-itsys.qa.indeed.tech
 kibana-labeler.prod.indeed.tech
@@ -5288,6 +5315,7 @@ kibana-rvector-search-platform.prod.indeed.tech
 kibana-secplateng.qa.indeed.tech
 kibana-segment-model-service-es.prod.indeed.tech
 kibana-segment-model-service-es.qa.indeed.tech
+kibana-self-help-articles.prod.indeed.tech
 kibana-self-help-articles.qa.indeed.tech
 kibana-sj-mvc-estimation.prod.indeed.tech
 kibana-sj-mvc-estimation.qa.indeed.tech
@@ -5385,6 +5413,8 @@ kubeflow.butterfly.qa.indeed.tech
 kubernetes.indeed.tech
 kubernetes--qa.indeed.tech
 kubernetes.qa.indeed.tech
+label-studio-explainer-prod.indeed.tech
+label-studio-explainer-qa.indeed.tech
 labeler-canary.cmhprod1.k8s.indeed.tech
 labeler-cmh.aus.k8s.indeed.tech
 labeler-cmh.cmhprod1.k8s.indeed.tech
@@ -5967,6 +5997,7 @@ marvlet.awscmhinfra3.k8s.indeed.tech
 marvlet.awscmhqa2.k8s.indeed.tech
 marvlet.awscmhqa3.k8s.indeed.tech
 marvlet.awscmhqa4.k8s.indeed.tech
+marvlet.awscmhqa5.k8s.indeed.tech
 marvlet.awscmhstage.k8s.indeed.tech
 marvlet.awscmhstage2.k8s.indeed.tech
 marvlet.awsdub.k8s.indeed.tech
@@ -6842,6 +6873,7 @@ myjobs.cmhprod2.k8s.indeed.tech
 myjobs.cmhprod3.k8s.indeed.tech
 myusername-hello.awscmhqa3.k8s.indeed.tech
 n8n-webhook.indeed.tech
+n8n-webhook.prod.indeed.tech
 n8n-webhook.qa.indeed.tech
 n8n-webhook.sandbox.indeed.tech
 n8n.prod.indeed.tech
@@ -8794,6 +8826,7 @@ rqs-graphql.cmhprod1.k8s.indeed.tech
 rqs-graphql.cmhprod2.k8s.indeed.tech
 rqs-graphql.cmhprod3.k8s.indeed.tech
 rqs-graphql.dubprod1.k8s.indeed.tech
+rraqa.awscmhinfra3.k8s.indeed.tech
 rs-notification-service.aus.k8s.indeed.tech
 rs-notification-service.cmhprod1.k8s.indeed.tech
 rs-notification-service.cmhprod2.k8s.indeed.tech
@@ -9303,6 +9336,11 @@ sourcing.cmh.k8s.indeed.tech
 sourcing.cmhprod1.k8s.indeed.tech
 sourcing.cmhprod2.k8s.indeed.tech
 sourcing.cmhprod3.k8s.indeed.tech
+sovren-linux-service.awscmh6.k8s.indeed.tech
+sovren-linux-service.awsdub2.k8s.indeed.tech
+sovren-linux-service.awsfra1.k8s.indeed.tech
+sovren-linux-service.awsnrt3.k8s.indeed.tech
+sovren-linux-service.awspdx2.k8s.indeed.tech
 sovren-qa.awscmhqa4.k8s.indeed.tech
 sovren-qa.awscmhqa5.k8s.indeed.tech
 sovren-test.awscmhqa4.k8s.indeed.tech
@@ -9618,6 +9656,8 @@ sungem.aus.k8s.indeed.tech
 sungem.cmhprod1.k8s.indeed.tech
 sungem.cmhprod2.k8s.indeed.tech
 sungem.cmhprod3.k8s.indeed.tech
+sunnyvale-ads-offline-data-loader-zookeeper.prod.indeed.tech
+sunnyvale-ads-offline-data-loader-zookeeper.qa.indeed.tech
 sup.indeed.tech
 sup.awscmh3.k8s.indeed.tech
 sup.awscmhdev.k8s.indeed.tech
@@ -9782,6 +9822,7 @@ temporal-web.ent-cand-smart-workflows-qa.awscmhqa5.k8s.indeed.tech
 temporal-web.indeed-acdc-dev.awscmhqa2.k8s.indeed.tech
 temporal-web.indeed-acdc-dev.awscmhqa5.k8s.indeed.tech
 temporal-web.indeed-acdc-prod.awscmh2.k8s.indeed.tech
+temporal-web.indeed-acdc-prod.awscmh6.k8s.indeed.tech
 temporal-web.indeed-acdc-qa.awscmhqa2.k8s.indeed.tech
 temporal-web.indeed-acdc-qa.awscmhqa5.k8s.indeed.tech
 temporal-web.indeed-assist-trial.awscmhqa2.k8s.indeed.tech
@@ -9794,12 +9835,15 @@ temporal-web.wf-analytics-prod.awscmh6.k8s.indeed.tech
 temporal-web.wf-analytics-qa.awscmhqa2.k8s.indeed.tech
 temporal-web.wf-analytics-qa.awscmhqa5.k8s.indeed.tech
 temporal-web.wf-expedition-prod.awscmh2.k8s.indeed.tech
+temporal-web.wf-expedition-prod.awscmh6.k8s.indeed.tech
 temporal-web.wf-expedition-qa.awscmhqa2.k8s.indeed.tech
 temporal-web.wf-expedition-qa.awscmhqa5.k8s.indeed.tech
 temporal-web.wf-waypoint-prod.awscmh2.k8s.indeed.tech
+temporal-web.wf-waypoint-prod.awscmh6.k8s.indeed.tech
 temporal-web.wf-waypoint-qa.awscmhqa2.k8s.indeed.tech
 temporal-web.wf-waypoint-qa.awscmhqa5.k8s.indeed.tech
 temporal-web.workflow-prototype-prod.awscmh2.k8s.indeed.tech
+temporal-web.workflow-prototype-prod.awscmh6.k8s.indeed.tech
 temporal-web.workflow-prototype-qa-sandbox2.awscmhqa2.k8s.indeed.tech
 temporal-web.workflow-prototype-qa.awscmhqa2.k8s.indeed.tech
 temporal-web.workflow-prototype-qa.awscmhqa5.k8s.indeed.tech
@@ -10253,12 +10297,15 @@ trino-dev.aws.indeed.tech
 trino-dev2.aws.indeed.tech
 trino-gateway-prod.aws.indeed.tech
 trino-gateway-stage.aws.indeed.tech
+trino-interactive-us-east-2a.aws.indeed.tech
 trino-interactive-us-east-2c.aws.indeed.tech
 trino-interactive.aws.indeed.tech
 trino-performancetests.aws.indeed.tech
+trino-prod-us-east-2a.aws.indeed.tech
 trino-prod-us-east-2b.aws.indeed.tech
 trino-prod-us-east-2c.aws.indeed.tech
 trino-sandbox.awscmhinfra3.k8s.indeed.tech
+trino-stage-us-east-2a.aws.indeed.tech
 trino-stage-us-east-2b.aws.indeed.tech
 trino-stage.aws.indeed.tech
 trino-stage2.aws.indeed.tech
@@ -10267,6 +10314,7 @@ trino.gateway.stage.indeed.tech
 trino.interactive.indeed.tech
 trino.interactive-us-east-2b.indeed.tech
 trino.interactive-us-east-2c.indeed.tech
+trino.prod-us-east-2a.indeed.tech
 trino.prod-us-east-2b.indeed.tech
 trino.prod-us-east-2c.indeed.tech
 trino.stage.indeed.tech
@@ -10460,6 +10508,7 @@ verify-nginx-private.awscmhdev4.k8s.indeed.tech
 verify-nginx-private.awscmhdev5.k8s.indeed.tech
 verify-nginx-private.awscmhinfra2.k8s.indeed.tech
 verify-nginx-private.awscmhinfra3.k8s.indeed.tech
+verify-nginx-private.awscmhinfra4.k8s.indeed.tech
 verify-nginx-private.awscmhinfra5.k8s.indeed.tech
 verify-nginx-private.awscmhqa2.k8s.indeed.tech
 verify-nginx-private.awscmhqa3.k8s.indeed.tech
@@ -10470,6 +10519,7 @@ verify-nginx-private.awscmhstage2.k8s.indeed.tech
 verify-nginx-private.awsdca.k8s.indeed.tech
 verify-nginx-private.awsdca2.k8s.indeed.tech
 verify-nginx-private.awsdub.k8s.indeed.tech
+verify-nginx-private.awsfra1.k8s.indeed.tech
 verify-nginx-private.awsnrt.k8s.indeed.tech
 verify-nginx-private.awsnrt2.k8s.indeed.tech
 verify-nginx-private.awsnrt3.k8s.indeed.tech
@@ -10587,9 +10637,11 @@ vespa-admin-gen.awsnrt3.k8s.indeed.tech
 vespa-admin-gen.awspdx2.k8s.indeed.tech
 vespa-admin-gen.awssyd2.k8s.indeed.tech
 vespa-admin-gen.awsyul2.k8s.indeed.tech
+vespa-admin-tss-mp.awscmh5.k8s.indeed.tech
 vespa-admin-tss.awscmh5.k8s.indeed.tech
 vespa-admin-tss.awscmh7.k8s.indeed.tech
 vespa-admin-tss.awscmhqa4.k8s.indeed.tech
+vespa-admin-tss.awsfra1.k8s.indeed.tech
 vespa-admin-tss.awsnrt3.k8s.indeed.tech
 vespa-admin-tss.awspdx2.k8s.indeed.tech
 vespa-admin-tss.awssyd2.k8s.indeed.tech
@@ -10622,6 +10674,7 @@ vespa-config-gen-p.awsnrt3.k8s.indeed.tech
 vespa-config-gen-p.awspdx2.k8s.indeed.tech
 vespa-config-gen-p.awssyd2.k8s.indeed.tech
 vespa-config-gen-s.awsbom1.k8s.indeed.tech
+vespa-config-gen-s.awscmh5.k8s.indeed.tech
 vespa-config-gen-s.awscmhqa4.k8s.indeed.tech
 vespa-config-gen-s.awsdub2.k8s.indeed.tech
 vespa-config-gen-s.awsfra1.k8s.indeed.tech
@@ -10658,6 +10711,8 @@ vespa-config-secondary.awsyul.k8s.indeed.tech
 vespa-config-tss-dev-p.awscmhqa4.k8s.indeed.tech
 vespa-config-tss-dev-s.awscmhqa4.k8s.indeed.tech
 vespa-config-tss-dev.awscmhqa4.k8s.indeed.tech
+vespa-config-tss-mp-p.awscmh5.k8s.indeed.tech
+vespa-config-tss-mp-s.awscmh5.k8s.indeed.tech
 vespa-config-tss-p.awscmh5.k8s.indeed.tech
 vespa-config-tss-p.awscmh7.k8s.indeed.tech
 vespa-config-tss-p.awscmhqa4.k8s.indeed.tech
@@ -10668,12 +10723,14 @@ vespa-config-tss-p.awsyul2.k8s.indeed.tech
 vespa-config-tss-s.awscmh5.k8s.indeed.tech
 vespa-config-tss-s.awscmh7.k8s.indeed.tech
 vespa-config-tss-s.awscmhqa4.k8s.indeed.tech
+vespa-config-tss-s.awsfra1.k8s.indeed.tech
 vespa-config-tss-s.awsnrt3.k8s.indeed.tech
 vespa-config-tss-s.awspdx2.k8s.indeed.tech
 vespa-config-tss-s.awsyul2.k8s.indeed.tech
 vespa-config-tss.awscmh5.k8s.indeed.tech
 vespa-config-tss.awscmh7.k8s.indeed.tech
 vespa-config-tss.awscmhqa4.k8s.indeed.tech
+vespa-config-tss.awsdub2.k8s.indeed.tech
 vespa-config-tss.awspdx2.k8s.indeed.tech
 vespa-config-tss.awssyd2.k8s.indeed.tech
 vespa-config-tss.awsyul2.k8s.indeed.tech
@@ -10686,6 +10743,7 @@ vespa-config.awspdx.k8s.indeed.tech
 vespa-config.awssyd2.k8s.indeed.tech
 vespa-config.awsyul.k8s.indeed.tech
 vespa-content-elp.awscmh5.k8s.indeed.tech
+vespa-content-elp.awscmhqa4.k8s.indeed.tech
 vespa-content-empaq.awscmhqa4.k8s.indeed.tech
 vespa-content-gen.awsbom1.k8s.indeed.tech
 vespa-content-gen.awscmh5.k8s.indeed.tech
@@ -10695,9 +10753,11 @@ vespa-content-gen.awsnrt3.k8s.indeed.tech
 vespa-content-gen.awspdx2.k8s.indeed.tech
 vespa-content-gen.awssyd2.k8s.indeed.tech
 vespa-content-gen.awsyul2.k8s.indeed.tech
+vespa-content-tss-mp.awscmh5.k8s.indeed.tech
 vespa-content-tss.awscmh5.k8s.indeed.tech
 vespa-content-tss.awscmh7.k8s.indeed.tech
 vespa-content-tss.awscmhqa4.k8s.indeed.tech
+vespa-content-tss.awsfra1.k8s.indeed.tech
 vespa-content-tss.awsnrt3.k8s.indeed.tech
 vespa-content-tss.awspdx2.k8s.indeed.tech
 vespa-content-tss.awssyd2.k8s.indeed.tech
@@ -10711,6 +10771,7 @@ vespa-content.awssyd2.k8s.indeed.tech
 vespa-content.awsyul.k8s.indeed.tech
 vespa-content2-elp.awscmh5.k8s.indeed.tech
 vespa-content2-elp.awscmhqa4.k8s.indeed.tech
+vespa-content2-tss.awscmh5.k8s.indeed.tech
 vespa-content2-tss.awscmh7.k8s.indeed.tech
 vespa-content2-tss.awsfra1.k8s.indeed.tech
 vespa-content2-tss.awspdx2.k8s.indeed.tech
@@ -10751,6 +10812,7 @@ vespa-feed-gen.awspdx2.k8s.indeed.tech
 vespa-feed-gen.awssyd2.k8s.indeed.tech
 vespa-feed-gen.awsyul2.k8s.indeed.tech
 vespa-feed-tss-dev.awscmhqa4.k8s.indeed.tech
+vespa-feed-tss-mp.awscmh5.k8s.indeed.tech
 vespa-feed-tss.awscmh5.k8s.indeed.tech
 vespa-feed-tss.awscmh7.k8s.indeed.tech
 vespa-feed-tss.awscmhqa4.k8s.indeed.tech
@@ -10779,6 +10841,7 @@ vespa-query-gen.awspdx2.k8s.indeed.tech
 vespa-query-gen.awssyd2.k8s.indeed.tech
 vespa-query-gen.awsyul2.k8s.indeed.tech
 vespa-query-tss-dev.awscmhqa4.k8s.indeed.tech
+vespa-query-tss-mp.awscmh5.k8s.indeed.tech
 vespa-query-tss.awscmh5.k8s.indeed.tech
 vespa-query-tss.awscmh7.k8s.indeed.tech
 vespa-query-tss.awscmhqa4.k8s.indeed.tech
@@ -10872,6 +10935,7 @@ vortex-rbozzolo-saml.awscmhqa5.k8s.indeed.tech
 vortex-tns-bots.awscmh5.k8s.indeed.tech
 vortex-tns-bots.awscmhqa5.k8s.indeed.tech
 vortex-vkryvyziuk.awscmhqa5.k8s.indeed.tech
+vortex-xiang.awscmhqa4.k8s.indeed.tech
 vortex-xiang.awscmhqa5.k8s.indeed.tech
 vortex-zhxu.awscmhqa5.k8s.indeed.tech
 vrec-activity-management-service.aus.k8s.indeed.tech

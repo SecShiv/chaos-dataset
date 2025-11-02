@@ -11,6 +11,7 @@
 *.community-hub-private.web3factory.consensys.net
 *.community-hub.web3factory.consensys.net
 *.cs.consensys.net
+*.cs-private.web3factory.consensys.net
 *.cs.web3factory.consensys.net
 *.csah.consensys.net
 *.dev.payroll.consensys.net
@@ -22,6 +23,7 @@
 *.goerli.zkevm.consensys.net
 *.goquorum.consensys.net
 *.grants.consensys.net
+*.hello-world-private.web3factory.consensys.net
 *.hello-world.web3factory.consensys.net
 *.infura-notify.web3factory.consensys.net
 *.labs.consensys.net
@@ -65,6 +67,7 @@
 *.spd.web3factory.consensys.net
 *.sport.consensys.net
 *.staging.observability.consensys.net
+*.starkware-private.web3factory.consensys.net
 *.swift-private.web3factory.consensys.net
 *.swift.web3factory.consensys.net
 *.teku.consensys.net
@@ -139,8 +142,10 @@ backstage.cd-dev.web3factory.consensys.net
 backstage.web3factory.consensys.net
 bank-a-rpc-us-east-2-dev.swift.web3factory.consensys.net
 bank-a-test-rpc-us-east-2-dev.swift.web3factory.consensys.net
+bank-a-us-east-2-dev.swift.web3factory.consensys.net
 bank-b-rpc-us-east-2-dev.swift.web3factory.consensys.net
 bank-c-rpc-us-east-2-dev.swift.web3factory.consensys.net
+bank-c-us-east-2-dev.swift.web3factory.consensys.net
 besu-devnet-1-us-east-2-dev.swift.web3factory.consensys.net
 besu-devnet-2-us-east-2-dev.swift.web3factory.consensys.net
 besu-devnet-3-us-east-2-dev.swift.web3factory.consensys.net
@@ -198,6 +203,7 @@ csah.consensys.net
 csah-us-dev.community-hub.web3factory.consensys.net
 csah-us.community-hub.web3factory.consensys.net
 cto.cd-dev.web3factory.consensys.net
+custodian-a-us-east-2-dev.swift.web3factory.consensys.net
 cw-exporter-dev.o11y.web3factory.consensys.net
 cw-exporter.o11y.web3factory.consensys.net
 data-analytics.cd.web3factory.consensys.net
@@ -281,6 +287,7 @@ dummy-us-demo.web3factory.web3factory.consensys.net
 email.consensys.net
 email.gh-mail.consensys.net
 email.gh-mail.tokenfoundry.com.consensys.net
+email.lumapps.consensys.net
 email.mail.consensys.net
 email.mg.consensys.net
 energy.demo.consensys.net
@@ -392,6 +399,7 @@ mm-hc-dev.cs.web3factory.consensys.net
 mm-hc-prod.cs.web3factory.consensys.net
 mm-rpc-failover-pre-11.cs.consensys.net
 mm-rpc-failover-pre-13.cs.consensys.net
+mm-rpc-failover-pre-9.cs.consensys.net
 mm-rpc-failover-pre.cs.consensys.net
 mm-rpc-failover.cs.consensys.net
 mmsap.cd.web3factory.consensys.net
@@ -410,6 +418,7 @@ newhost.consensys.net
 newsletter.consensys.net
 nexus-us-east-1.cs.web3factory.consensys.net
 nftroyalties.consensys.net
+notary-us-east-2-dev.swift.web3factory.consensys.net
 o11y-pushgateway-dev.o11y.web3factory.consensys.net
 o11y.cd-dev.web3factory.consensys.net
 o11y.cd.web3factory.consensys.net
@@ -467,6 +476,8 @@ pushgateway-wallet-guard.o11y.web3factory.consensys.net
 pushgateway-web3factory-dev.o11y.web3factory.consensys.net
 pushgateway-zkevm.o11y.web3factory.consensys.net
 pushgateway.o11y.web3factory.consensys.net
+pyroscope-dev.o11y.web3factory.consensys.net
+pyroscope-mgmt-dev.o11y.web3factory.consensys.net
 pyroscope-mgmt.o11y.web3factory.consensys.net
 pyroscope.o11y.web3factory.consensys.net
 qbs.consensys.net

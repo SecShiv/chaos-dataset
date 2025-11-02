@@ -1,3 +1,4 @@
+.epicgames.com
 *.epicgames.com
 *.2021-1.ap-southeast-2.devtools.epicgames.com
 *.2021-1.eu-central-1.devtools.epicgames.com
@@ -118,6 +119,7 @@
 *.core.live.on.epicgames.com
 *.cortex.on.epicgames.com
 *.cosmetic.live.on.epicgames.com
+*.cosmo.fdeb.live.use1a.on.epicgames.com
 *.create-epic-kitt-react.fnsocial.on.epicgames.com
 *.dabf.dev.use1a.on.epicgames.com
 *.dadb.live.use1a.on.epicgames.com
@@ -261,6 +263,7 @@
 *.mes1.rtcp.on.epicgames.com
 *.mgmt.ucs.on.epicgames.com
 *.migrations.ucs.on.epicgames.com
+*.mxc1.rtcp.on.epicgames.com
 *.nonprod.ucs.on.epicgames.com
 *.ogs.dev.on.epicgames.com
 *.ogs.live.on.epicgames.com
@@ -270,6 +273,7 @@
 *.online.identity.live.on.epicgames.com
 *.overlay-override-service.cbce.live.on.epicgames.com
 *.overlay-override-service.fafe.dev.on.epicgames.com
+*.pcbs.marketing.dev.on.epicgames.com
 *.pinot.fdbe.dev.use1a.on.epicgames.com
 *.platypus-ci.fnsocial.on.epicgames.com
 *.prod-apne1a.qstv.on.epicgames.com
@@ -314,6 +318,7 @@
 *.svc.prod.fngw.ol.epicgames.com
 *.team-dev-portal.bebe.dev.use1a.on.epicgames.com
 *.team-epicenter.bbbd.dev.use1a.on.epicgames.com
+*.team-identity.abba.dev.use1a.on.epicgames.com
 *.team-player-exp.dcef.dev.use1a.on.epicgames.com
 *.test-zone.dev.fortnite.marketing.dev.on.epicgames.com
 *.testing.bebe.dev.use1a.on.epicgames.com
@@ -335,7 +340,9 @@
 *.tools.prod-apne1a.qstv.on.epicgames.com
 *.tools.prod-apne1b.qstv.on.epicgames.com
 *.tools.prod-apse2a.qstv.on.epicgames.com
+*.tools.prod-euc1a.qstv.on.epicgames.com
 *.tools.prod-euc1b.qstv.on.epicgames.com
+*.tools.prod-sae1a.qstv.on.epicgames.com
 *.tools.prod-sae1b.qstv.on.epicgames.com
 *.tools.prod-use1a.qstv.on.epicgames.com
 *.tools.prod-use1b.qstv.on.epicgames.com
@@ -353,6 +360,7 @@
 *.use1.live.rtcp.on.epicgames.com
 *.use1.rtcp.on.epicgames.com
 *.use2.ci.ucs.on.epicgames.com
+*.use2.gamedev.ucs.on.epicgames.com
 *.use2.live.rtcp.on.epicgames.com
 *.use2.livetesting.ucs.on.epicgames.com
 *.use2.rtcp.on.epicgames.com
@@ -1082,6 +1090,7 @@ aurochs-ci.dcaf.dev.use1a.on.epicgames.com
 aurochs-dev-steevsachs.dcaf.dev.use1a.on.epicgames.com
 aurochs-dev-timvandijk.dcaf.dev.use1a.on.epicgames.com
 aurochs-gamedev.dcaf.dev.use1a.on.epicgames.com
+aurochs-prod.dcaf.dev.use1a.on.epicgames.com
 aurochs-prod.eeef.live.use1a.on.epicgames.com
 auth-api-prod.artpipeline-dev.it.epicgames.com
 auth-api.artpipeline-dev.it.epicgames.com
@@ -1181,7 +1190,9 @@ cdae.dev.use1a.on.epicgames.com
 cdbb.dev.use1a.on.epicgames.com
 cdce.live.use1a.on.epicgames.com
 cdfe.live.use1a.on.epicgames.com
+cdk-substrate-ci.dcaf.dev.use1a.on.epicgames.com
 cdk-substrate-dev-timvandijk.dcaf.dev.use1a.on.epicgames.com
+cdk-substrate-prod.eeef.live.use1a.on.epicgames.com
 cdn-0001.qstv.on.epicgames.com
 cdn-ch.qstv.on.epicgames.com
 cdn-dev.pns.ol.epicgames.com
@@ -1216,6 +1227,7 @@ channels-public-service-prod.ol.epicgames.com
 channels.live.use1a.on.epicgames.com
 charts.afea.live.use1a.on.epicgames.com
 charts.substrate.on.epicgames.com
+china-cdn-proxy.faeb.live.ape1a.on.epicgames.com
 china-cdn1.epicgames.com
 china-media-cdn.epicgames.com
 china-static-assets-prod.epicgames.com
@@ -1265,8 +1277,10 @@ content-controls-gamedev.edfb.dev.use1a.on.epicgames.com
 content-controls-prod.ebdf.live.use1a.on.epicgames.com
 content-controls-prod.on.epicgames.com
 content-controls-service-prod.faef.live.use1a.on.epicgames.com
+content-service-fn-gateway-cf-origin.gamedev.vk.on.epicgames.com
 content-service-fn-gateway-cf-origin.live-testing.vk.on.epicgames.com
 content-service-fn-gateway-cf-origin.live.vk.on.epicgames.com
+content-service-fn-gateway-cf.gamedev.vk.on.epicgames.com
 content-service-fn-gateway-cf.live-testing.vk.on.epicgames.com
 content-service-fn-gateway-cf.live.vk.on.epicgames.com
 content-service-fn-gateway.live.vk.on.epicgames.com
@@ -1286,6 +1300,7 @@ cortex.dev.on.epicgames.com
 cortex.gamedev.pulse.dev.on.epicgames.com
 cortex.on.epicgames.com
 cosmetic.live.on.epicgames.com
+cosmo.fdeb.live.use1a.on.epicgames.com
 crashreporter.epicgames.com
 create-epic-kitt-react-ci.fnsocial.on.epicgames.com
 create-epic-kitt-react.fnsocial.on.epicgames.com
@@ -1481,6 +1496,7 @@ e3s.affc.dev.use1a.on.epicgames.com
 eabb.dev.use1a.on.epicgames.com
 eac-ci.on.epicgames.com
 eac-gamedev.on.epicgames.com
+eac-jenkins.dabf.dev.use1a.on.epicgames.com
 eac-jenkins.fcdc.live.use1a.on.epicgames.com
 eac-prod.on.epicgames.com
 ebdf.live.use1a.on.epicgames.com
@@ -3423,6 +3439,7 @@ egpi-filter-prod.ecosec.on.epicgames.com
 egs-platform-service.store.epicgames.com
 egs-platform.store-dev.on.epicgames.com
 egvbulletin-website-prod13.ol.epicgames.com
+electra-web.faeb.live.ape1a.on.epicgames.com
 emerald-service-live.ecosec.on.epicgames.com
 emporium-library-public-gamedev.cceb.dev.use1a.on.epicgames.com
 engagementvalidator.it.epicgames.com
@@ -3457,6 +3474,7 @@ eos-service-datastorage-liveegs-public.befa.live.use1a.on.epicgames.com
 eoshelp.epicgames.com
 ephemeral.bebe.dev.use1a.on.epicgames.com
 ephemeral.daed.dev.use1a.on.epicgames.com
+ephemeralmcp-dev.ogs.dev.on.epicgames.com
 epic-achievements-gamedev-assets.epicgames.com
 epic-achievements-gamedev.on.epicgames.com
 epic-aws-account-api.beef.live.use1a.on.epicgames.com
@@ -3895,8 +3913,10 @@ ftp.epicgames.com
 fw-01.epicgames.com
 gaap-test.ol.epicgames.com
 galactica-api.ceee.dev.use1a.on.epicgames.com
+galactus-dev-timvandijk.dcaf.dev.use1a.on.epicgames.com
 galactus-dev-tylergregory.dcaf.dev.use1a.on.epicgames.com
 galactus-fe.ceee.dev.use1a.on.epicgames.com
+galactus-prod.eeef.live.use1a.on.epicgames.com
 gallery-service-lt.affc.dev.use1a.on.epicgames.com
 game-social.epicgames.com
 gamecast-demo.megastation-dev.it.epicgames.com
@@ -4182,9 +4202,11 @@ lyncrp.epicgames.com
 lyncxmpp.epicgames.com
 maelstrom.fdbe.dev.use1a.on.epicgames.com
 magpie-ci.dcaf.dev.use1a.on.epicgames.com
+magpie-dev-angeliqueaban.dcaf.dev.use1a.on.epicgames.com
 magpie-dev-dburandt.dcaf.dev.use1a.on.epicgames.com
 magpie-dev-timvandijk.dcaf.dev.use1a.on.epicgames.com
 magpie-gamedev.dcaf.dev.use1a.on.epicgames.com
+magpie-prod.dcaf.dev.use1a.on.epicgames.com
 magpie-prod.eeef.live.use1a.on.epicgames.com
 mail.epicgames.com
 maintenance.epicgames.com
@@ -4379,12 +4401,19 @@ party-service-prod-shard-3.ccec.live.use1a.on.epicgames.com
 party-service-prod.ak.epicgames.com
 party-service-prod.ol.epicgames.com
 party-service-prod.social.live.on.epicgames.com
+pass.liveops.on.epicgames.com
+pass.prod.cfbc.live.use1a.on.epicgames.com
 pass.stage.afdb.dev.use1a.on.epicgames.com
 payment-website-pci.faeb.live.use1a.on.epicgames.com
 payment-website-pci.ol.epicgames.com
 payment-website-prod.ol.epicgames.com
+pcb-dev-timvandijk.dcaf.dev.use1a.on.epicgames.com
+pcb-live.eeef.live.use1a.on.epicgames.com
+pcb-prod.dcaf.dev.use1a.on.epicgames.com
+pcbs.marketing.dev.on.epicgames.com
 pep.epicgames.com
 perf.store.on.epicgames.com
+persistence-data-admin.dcaf.dev.use1a.on.epicgames.com
 persistence-data-admin.eeef.live.use1a.on.epicgames.com
 persona-public-service-prod06.ol.epicgames.com
 pf9app.default.knative.dead.dev.use1a.on.epicgames.com
@@ -4417,6 +4446,8 @@ pinot.fdbe.dev.use1a.on.epicgames.com
 pl-dev-adm.epicgames.com
 platypus-ci.fnsocial.on.epicgames.com
 player-okta.it-entapps-dev.epicgames.com
+player-support-crm-gamedev.ol.epicgames.com
+player-support-crm-prod.ol.epicgames.com
 player-support-crm-stage.ol.epicgames.com
 player-support-okta.eut.it.epicgames.com
 player-support.eut.it.epicgames.com
@@ -4472,6 +4503,8 @@ prometheus-apse1.rtcp.on.epicgames.com
 prometheus-apse2.rtcp.on.epicgames.com
 prometheus-ci.dev.rtcp.on.epicgames.com
 prometheus-dev-nyc1-01.do.dev.rtcp.on.epicgames.com
+prometheus-eos.aabe.live.use1a.on.epicgames.com
+prometheus-eos.feec.dev.use1a.on.epicgames.com
 prometheus-euc1.rtcp.on.epicgames.com
 prometheus-eun1.dev.rtcp.on.epicgames.com
 prometheus-eun1.rtcp.on.epicgames.com
@@ -4563,6 +4596,7 @@ redismonitor-service.abfa.live.use1a.on.epicgames.com
 remotework.epicgames.com
 resonance-grpc-live.eeef.live.apse1a.on.epicgames.com
 resonance-grpc-live.eeef.live.use1a.on.epicgames.com
+resonance-grpc-prod.dcaf.dev.use1a.on.epicgames.com
 resource-api-prod.artpipeline-dev.it.epicgames.com
 resource-api.artpipeline-dev.it.epicgames.com
 resources-auth.artpipe.epicgames.com
@@ -4580,6 +4614,7 @@ rt-02-g0-1.epicgames.com
 rt-03.epicgames.com
 rt-03-g0-0.epicgames.com
 rt-03-g0-1.epicgames.com
+rtcp-account-service-mock.dev.rtcp.on.epicgames.com
 rtcp-depot-ci.feec.dev.use1a.on.epicgames.com
 rtcp-depot-gamedev.feec.dev.use1a.on.epicgames.com
 rtcp-depot-service-ci.feec.dev.use1a.on.epicgames.com
@@ -4596,6 +4631,7 @@ rtcp-test-ms-mock.dev.rtcp.on.epicgames.com
 rtcp-test-signaling-mock.dev.rtcp.on.epicgames.com
 rtcp.on.epicgames.com
 runbooks.dabe.live.use1a.on.epicgames.com
+sa-east-1.qstv.on.epicgames.com
 sac.epicgames.com
 sae1.live.rtcp.on.epicgames.com
 safety.epicgames.com
@@ -4649,9 +4685,16 @@ service-endpoint-api.substrate.on.epicgames.com
 service-item-sync-gamedev-admin.dcaf.dev.use1a.on.epicgames.com
 service-item-sync-gamedev-fn.dcaf.dev.use1a.on.epicgames.com
 service-item-sync-gamedev-public.dcaf.dev.use1a.on.epicgames.com
+service-item-sync-live-admin.eeef.live.use1a.on.epicgames.com
+service-item-sync-live-fn.eeef.live.use1a.on.epicgames.com
+service-item-sync-live-public.eeef.live.use1a.on.epicgames.com
 service-item-sync.dcaf.dev.use1a.on.epicgames.com
 service-leaderboards-ng.cdbb.dev.use1a.on.epicgames.com
+service-prototype-gamedev.dcaf.dev.use1a.on.epicgames.com
 service-quest-gamedev.dcaf.dev.use1a.on.epicgames.com
+service-quest-live.eeef.live.use1a.on.epicgames.com
+service-quest-prod.dcaf.dev.use1a.on.epicgames.com
+service-resonance-ci.dcaf.dev.use1a.on.epicgames.com
 service-test-template.ceee.dev.use1a.on.epicgames.com
 service1-bot.eut.it.epicgames.com
 servicedesk.epicgames.com
@@ -4674,6 +4717,7 @@ single-host.grafana.ol.epicgames.com
 sip.epicgames.com
 sites.epicgames.com
 skelly.ecosec.on.epicgames.com
+sketchfab-ci-search-1.cceb.dev.use1a.on.epicgames.com
 slack-approval-bot-adm.it-entapps-dev.epicgames.com
 slack-approval-bot-admin.it-entapps-dev.epicgames.com
 slack-approval-bot-new-admin.it-entapps-dev.epicgames.com
@@ -4778,6 +4822,7 @@ svc.gamedev.fngw.ol.epicgames.com
 svc.live.fngw.ol.epicgames.com
 svc.livefn.global.fngw.ol.epicgames.com
 svc.prod.fngw.ol.epicgames.com
+svc.prod.global.fngw.ol.epicgames.com
 svcnat2.epicgames.com
 swe-metrics.it-entapps-dev.epicgames.com
 sword-service-prod.ol.epicgames.com
@@ -4805,6 +4850,7 @@ targetprocess-bot.it.epicgames.com
 targetprocess-bot.stage.it.epicgames.com
 team-dev-portal.bebe.dev.use1a.on.epicgames.com
 team-epicenter.bbbd.dev.use1a.on.epicgames.com
+team-identity.abba.dev.use1a.on.epicgames.com
 team-player-exp.dcef.dev.use1a.on.epicgames.com
 teleport.dead.dev.use1a.on.epicgames.com
 telescopeai-dev.on.epicgames.com
@@ -4932,6 +4978,7 @@ urc.ci.ucs.on.epicgames.com
 us-east-1.ci.qstv.on.epicgames.com
 us-east-1.dev.qstv.on.epicgames.com
 us-east-1.lt.qstv.on.epicgames.com
+us-east-1.qstv.on.epicgames.com
 us-west-2.dev.qstv.on.epicgames.com
 us-west-2.qstv.on.epicgames.com
 us-west-2.stage.qstv.on.epicgames.com
@@ -4973,6 +5020,7 @@ valkyrie-bugsync.it-entapps-dev.epicgames.com
 vault.it.epicgames.com
 vault.it-entapps-dev.epicgames.com
 vault.substrate.on.epicgames.com
+vcop.bbba.live.use1a.on.epicgames.com
 vdi.epicgames.com
 vectr.infosec.on.epicgames.com
 vfxfellowship.epicgames.com
@@ -5016,12 +5064,14 @@ vpn-sv10-ft.it.epicgames.com
 vpn-sv10.it.epicgames.com
 vpn-yok.it.epicgames.com
 waiting-room-admin-gamedev.dcaf.dev.use1a.on.epicgames.com
+waiting-room-admin-prod.dcaf.dev.use1a.on.epicgames.com
 waiting-room-gamedev.dcaf.dev.use1a.on.epicgames.com
 wan-poc-vpn.it.epicgames.com
 wasp-service-ci-admin.ogs.dev.on.epicgames.com
 wasp-service-ci-public.ogs.dev.on.epicgames.com
 wasp-service-gamedev-admin.ogs.dev.on.epicgames.com
 wasp-service-gamedev-public.ogs.dev.on.epicgames.com
+wasp-service-live-admin.ogs.live.on.epicgames.com
 wasp-service-live-public.ogs.live.on.epicgames.com
 wasp-service-prod-admin.ogs.live.on.epicgames.com
 wasp-service-prod-public.ogs.live.on.epicgames.com

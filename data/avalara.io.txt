@@ -109,6 +109,8 @@
 *.eta.int.us-ashburn-1.oci.avalara.io
 *.eta.prd.us-ashburn-1.oci.avalara.io
 *.eta.prd.us-east-1.aws.avalara.io
+*.eta.qa.us-ashburn-1.oci.avalara.io
+*.eta.sbx.us-ashburn-1.oci.avalara.io
 *.eta.sbx.us-east-1.aws.avalara.io
 *.etl-host.impendulo.dev.emea.avalara.io
 *.etl.dev.impendulo.avalara.io
@@ -334,6 +336,7 @@
 *.studio.stg.us-west-2.avalara.io
 *.support-portal.web.avalara.io
 *.tau.lower.centralus.azure.avalara.io
+*.tau.prd.centralus.azure.avalara.io
 *.test-01.raas.dev.avalara.io
 *.test-swap.web.avalara.io
 *.test.dev.impendulo.avalara.io
@@ -361,6 +364,7 @@
 2260466.avalara.scatest.ceplogger.dev.avalara.io
 2260976.ceplogger.dev.avalara.io
 2360061.sca.qasuitetax.ceplogger.dev.avalara.io
+2fa.returns.avalara.io
 7a34ea5d-96a6-43b6-a4c2-67cf0353e8a5.platform.qa.avalara.io
 a15.tcs.ci.avalara.io
 aa.api.dev.avalara.io
@@ -449,6 +453,7 @@ api.gst.qa.avalara.io
 api.gst.sbx.avalara.io
 api.hopscotch.dev.avalara.io
 api.intuition.hopscotch.dev.avalara.io
+api.ips.qa.avalara.io
 api.kyc.ci.avalara.io
 api.kyc.pen.avalara.io
 api.kyc.qa.avalara.io
@@ -800,6 +805,7 @@ einvoicing.dev.avalara.io
 einvoicing.qa.avalara.io
 eks-elr.qa.inposia.avalara.io
 elasticsearch.ceplogger.dev.avalara.io
+elb.ips.qa.avalara.io
 elr.web.avalara.io
 emea.avalara.io
 emea-2.raas.dev.avalara.io
@@ -1429,6 +1435,7 @@ manoj-mahalingam.impendulo.dev.emea.avalara.io
 mc.platform.avalara.io
 mc.platform.qa.avalara.io
 mc.qa.platform.qa.avalara.io
+mcp.ips.qa.avalara.io
 mda-prblue.midgard.ci.avalara.io
 mda.midgard.avalara.io
 mda.midgard.ci.avalara.io

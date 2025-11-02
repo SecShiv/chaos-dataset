@@ -1,5 +1,6 @@
 *.yahoo.cloud
 *.1stapp-nonprod-us-west-2.omega.aws.yahoo.cloud
+*.acctapi.identity-gcp-p-compute.gcp.yahoo.cloud
 *.api.acctapi.identity-gcp-s-compute.gcp.yahoo.cloud
 *.api.asc.identity-gcp-p-compute.gcp.yahoo.cloud
 *.api.classifier.identity-gcp-s-compute.gcp.yahoo.cloud
@@ -207,6 +208,7 @@
 *.sabre-hbase-stg-use1z2-hadoop-hdfs-nn.infra.svc.use1.grid-aws-staging.aws.yahoo.cloud
 *.sabre-hbase-stg-use1z2-hbase-master.infra.svc.use1.grid-aws-staging.aws.yahoo.cloud
 *.sabre-hbase-stg-use1z2-zookeeper-headless.infra.svc.use1.grid-aws-staging.aws.yahoo.cloud
+*.sapi.oauth.identity-gcp-s-compute.gcp.yahoo.cloud
 *.search-nonprod1-use1.omega.aws.yahoo.cloud
 *.search-prod1-apse1.omega.aws.yahoo.cloud
 *.search-prod1-euw1.omega.aws.yahoo.cloud
@@ -244,6 +246,11 @@
 *.taiwan-prod1-apse1.omega.aws.yahoo.cloud
 *.taiwan-prod1-usw2.omega.aws.yahoo.cloud
 *.terraform.sieve.yahoo.cloud
+*.twec-dev-ape2.omega.aws.yahoo.cloud
+*.twec-nonprod1-ape2.omega.aws.yahoo.cloud
+*.twec-pci-nonprod1-ape2.omega.aws.yahoo.cloud
+*.twec-pci-prod1-ape2.omega.aws.yahoo.cloud
+*.twec-prod1-ape2.omega.aws.yahoo.cloud
 *.twecom-hbase-stg-use1-hadoop-core.infra.svc.use1.grid-aws-staging.aws.yahoo.cloud
 *.twecom-hbase-stg-use1-hadoop-hdfs-nn-standby.infra.svc.use1.grid-aws-staging.aws.yahoo.cloud
 *.twecom-hbase-stg-use1-hadoop-hdfs-nn.infra.svc.use1.grid-aws-staging.aws.yahoo.cloud
@@ -274,6 +281,7 @@
 a651861e-3a7c-43d1-99e1-6e08e0c982de.instanceid.athenz.ostk.yahoo.cloud
 admin-ui-prod.gdpr.aws.yahoo.cloud
 admin-ui-stage.gdpr-aws.aws.yahoo.cloud
+api-dev.messaging-platform-gcp-dev.gcp.yahoo.cloud
 api-gateway.aspen-astra-dev.aws.yahoo.cloud
 api-gateway.aspen-astra-prod.aws.yahoo.cloud
 api-gateway.aspen-astra-stage.aws.yahoo.cloud
@@ -282,6 +290,7 @@ api-prod.amt-accounts-lookup.bm2-prod-gq1.ostk.yahoo.cloud
 api-us-east-1.msd-prod.aws.yahoo.cloud
 api-us-east-1.msd-stage.aws.yahoo.cloud
 api-us-west-2.msd-prod.aws.yahoo.cloud
+api.acctapi.identity-gcp-p-compute.gcp.yahoo.cloud
 api.acctapi.identity-gcp-s-compute.gcp.yahoo.cloud
 api.asc.identity-gcp-p-compute.gcp.yahoo.cloud
 api.mail-backend-schd-dev.aws.yahoo.cloud
@@ -515,13 +524,21 @@ metastore12.media-data-gcp-metastore-dev.gcp.yahoo.cloud
 metastore13.media-data-gcp-metastore-dev.gcp.yahoo.cloud
 metastore17.media-data-gcp-metastore-dev.gcp.yahoo.cloud
 mi.gcp.yahoo.cloud
+mlt.azurite-maltego.gcp.yahoo.cloud
 mlt.dev.azurite-maltego-dev.gcp.yahoo.cloud
 mlt.dev.lb.azurite-maltego-dev.gcp.yahoo.cloud
+mlt.lb.azurite-maltego.gcp.yahoo.cloud
+mlt.prod.azurite-maltego.gcp.yahoo.cloud
+mlt101.azurite-maltego.gcp.yahoo.cloud
+mlt102.azurite-maltego.gcp.yahoo.cloud
 msd-api-us-east-1.athenz-k8s-nonprod.aws.yahoo.cloud
 msd-api-us-east-1.athenz-k8s-prod.aws.yahoo.cloud
 msd-api-us-west-2.athenz-k8s-prod.aws.yahoo.cloud
 msd-api.athenz-k8s-prod.aws.yahoo.cloud
+neptune-zh.yahoo-knowledge-nonprod.aws.yahoo.cloud
+neptune-zh.yahoo-knowledge-prod.aws.yahoo.cloud
 neptune.yahoo-knowledge-nonprod.aws.yahoo.cloud
+neptune.yahoo-knowledge-prod.aws.yahoo.cloud
 news-nonprod1-use1.omega.aws.yahoo.cloud
 news-prod1-apse1.omega.aws.yahoo.cloud
 news-prod1-euw1.omega.aws.yahoo.cloud
@@ -735,3 +752,9 @@ yc.media-data-gcp-metastore-prd.gcp.yahoo.cloud
 yc.media-data-gcp-metastore-stg.gcp.yahoo.cloud
 ycpi.gcp.yahoo.cloud
 ycpi.ostk.yahoo.cloud
+zts-us-east-1.identityb2b-aws-prod.aws.yahoo.cloud
+zts-us-east-1.identityb2b-aws-uat.aws.yahoo.cloud
+zts-us-west-2.identityb2b-aws-prod.aws.yahoo.cloud
+zts-us-west-2.identityb2b-aws-uat.aws.yahoo.cloud
+zts.identityb2b-aws-prod.aws.yahoo.cloud
+zts.identityb2b-aws-uat.aws.yahoo.cloud

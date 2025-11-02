@@ -87,6 +87,7 @@
 *.prod.data.mcaas.fcs.gsa.gov
 *.prod.doc.mcaas.fcs.gsa.gov
 *.prod.doi.mcaas.fcs.gsa.gov
+*.prod.dot.mcaas.fcs.gsa.gov
 *.prod.dpa.mcaas.fcs.gsa.gov
 *.prod.dxcore.dx.mcaas.fcs.gsa.gov
 *.prod.fhfa.mcaas.fcs.gsa.gov
@@ -95,6 +96,7 @@
 *.prod.hud.mcaas.fcs.gsa.gov
 *.prod.iae.mcaas.fcs.gsa.gov
 *.prod.itdb.mcaas.fcs.gsa.gov
+*.prod.ncua.mcaas.fcs.gsa.gov
 *.prod.ocms.mcaas.fcs.gsa.gov
 *.prod.ogpvp.mcaas.fcs.gsa.gov
 *.prod.pc.mcaas.fcs.gsa.gov
@@ -938,10 +940,12 @@ e06r6m-isepsn1.ent.ds.gsa.gov
 e06r6m-isepsn2.ent.ds.gsa.gov
 e06r6m-sgg06.gsa.gov
 e06r6m-sgg06.ent.ds.gsa.gov
+e06r6m-sgg07.gsa.gov
 e06r6m-sgg07.ent.ds.gsa.gov
 e06r6m-sgg08.ent.ds.gsa.gov
 e06r6m-sgg09.gsa.gov
 e06r6m-sgg09.ent.ds.gsa.gov
+e06r6m-sggtst06.gsa.gov
 e06r6m-sggtst06.ent.ds.gsa.gov
 e06r6m-vdisg.ent.ds.gsa.gov
 e06r6m-vdisg01.ent.ds.gsa.gov
@@ -1338,6 +1342,7 @@ foiaxpress-test.gsa.gov
 folio-access-management.staging.gsa.gov
 folio.mcaas.fcs.gsa.gov
 folio.staging.gsa.gov
+forced-renewal-test.bsp-dev.bsp.gsa.gov
 forcegis.gsa.gov
 formservice.gsa.gov
 formssystem.gsa.gov

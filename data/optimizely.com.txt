@@ -20,6 +20,7 @@
 *.anh19121219au98m.dxptest.optimizely.com
 *.api.optimizely.com
 *.api.app.optimizely.com
+*.api.cms.optimizely.com
 *.api.cmstest.optimizely.com
 *.api.exp-metrics.optimizely.com
 *.api.query.optimizely.com
@@ -666,8 +667,10 @@
 *.dxpdeploymij38pu.dxptest.optimizely.com
 *.dxptest.optimizely.com
 *.dz.optimizely.com
+*.e3-api.optimizely.com
 *.e3x6dxctadm6ccn8.dxptest.optimizely.com
 *.e3x6dxctadmz34q0.dxptest.optimizely.com
+*.editor-component-gcp.cmp.optimizely.com
 *.editor-component-gcp.cmp-dev.optimizely.com
 *.editor-component.cmp.optimizely.com
 *.editor-component.cmp-dev.optimizely.com
@@ -709,6 +712,7 @@
 *.heng01mstrsl43g.dxp.optimizely.com
 *.hg26dxctngn6mh6cprep.uitest.dxptest.optimizely.com
 *.hmac01mstrg7v9m.dxp.optimizely.com
+*.hosted-app-gcp.cmp.optimizely.com
 *.hosted-app-gcp.cmp-dev.optimizely.com
 *.hosted-app.cmp.optimizely.com
 *.hosted-app.cmp-dev.optimizely.com
@@ -724,6 +728,7 @@
 *.identity-api.optimizely.com
 *.int.optimizely.com
 *.inte.opal.optimizely.com
+*.inte.opal-backend.optimizely.com
 *.internal.optimizely.com
 *.iownit.optimizely.com
 *.ipzddxctipz6d0v1.dxptest.optimizely.com
@@ -805,6 +810,7 @@
 *.lentest109f1s5r.dxptest.optimizely.com
 *.lentest29933rq2c.dxptest.optimizely.com
 *.library.optimizely.com
+*.license.optimizely.com
 *.log.optimizely.com
 *.login.optimizely.com
 *.logsy7qe8t.dxptest.optimizely.com
@@ -992,6 +998,9 @@
 *.oncall.optimizely.com
 *.ons3dxctonz4de6s.dxptest.optimizely.com
 *.opal-backend.optimizely.com
+*.opal-tools.optimizely.com
+*.opal-tools.cms.optimizely.com
+*.opal-tools.cmstest.optimizely.com
 *.optigpt.optimizely.com
 *.orh2dxctadm1h6fn.dxptest.optimizely.com
 *.orio01mstry0q56.dxp.optimizely.com
@@ -1162,6 +1171,7 @@
 *.sitrtest5l397b.dxptest.optimizely.com
 *.skko01mstrgth08.dxp.optimizely.com
 *.srm-batch.optimizely.com
+*.ss-calc-mfe.optimizely.com
 *.sso.optimizely.com
 *.stage.optimizely.com
 *.stjocmsx202u5q9q.dxptest.optimizely.com
@@ -1178,6 +1188,7 @@
 *.stsl03aapwd690.dxp.optimizely.com
 *.suoy01mstrc864f.dxp.optimizely.com
 *.surveys.optimizely.com
+*.svc-utility-belt.optimizely.com
 *.sw6ndxctswxlve86.dxptest.optimizely.com
 *.swed04mstr9or5z.dxp.optimizely.com
 *.sweg02mstr2pr7h.dxp.optimizely.com
@@ -1386,6 +1397,7 @@ api-uat.edp-dev.optimizely.com
 api.app.optimizely.com
 api.au1.odp.optimizely.com
 api.bogus.us0.odp.optimizely.com
+api.cmab.optimizely.com
 api.cms.optimizely.com
 api.cmstest.optimizely.com
 api.content-editor.campaign.optimizely.com
@@ -1477,6 +1489,7 @@ autothuc58vf.dxptest.optimizely.com
 avepoint.optimizely.com
 axap05aapt2s7k.dxp.optimizely.com
 axiom.optimizely.com
+bai.opal.optimizely.com
 bdjknm.collections.cmp.optimizely.com
 bdjknm.files.cmp.optimizely.com
 be-staging.cloud.license.optimizely.com
@@ -2234,6 +2247,7 @@ dxp.re.optimizely.com
 dxpdeploymij38pu.dxptest.optimizely.com
 dxptest.optimizely.com
 dz.optimizely.com
+e3-api.optimizely.com
 e3x6dxctadm6ccn8.dxptest.optimizely.com
 e3x6dxctadmz34q0.dxptest.optimizely.com
 eapi-80i3-dev-vm.core.optimizely.com
@@ -2245,6 +2259,7 @@ edge-auth-prep.datafile-tokens.optimizely.com
 edge1-prep.datafile-tokens.optimizely.com
 edgeagent.demo.optimizely.com
 edgeagenttest.demo.optimizely.com
+editor-component-gcp.cmp.optimizely.com
 editor-component-gcp.cmp-dev.optimizely.com
 edp-infra.optimizely.com
 education-edu.optimizely.com
@@ -2258,6 +2273,7 @@ entrypoint.cmab.optimizely.com
 eops-12955.develrc-app.optimizely.com
 eops-13980.develrc-app.optimizely.com
 eoxaru.files.cmp.optimizely.com
+epfcag.collections.cmp.optimizely.com
 epoc.optimizely.com
 eqnilg.files.cmp-dev.optimizely.com
 eric04addon3grl3.dxp.optimizely.com
@@ -2345,6 +2361,7 @@ hg26dxctngn6mh6cprep.uitest.dxptest.optimizely.com
 hithere.optimizely.com
 hmac01mstrg7v9m.dxp.optimizely.com
 home.optimizely.com
+hosted-app-gcp.cmp.optimizely.com
 hosted-app-gcp.cmp-dev.optimizely.com
 hosted-app.cmp-dev.optimizely.com
 hostmaster.optimizely.com
@@ -2386,8 +2403,10 @@ int.optimizely.com
 inte-assets.cmab.optimizely.com
 inte-assets.flags.optimizely.com
 inte-assets.synapse.optimizely.com
+inte-holdouts-assets.flags.optimizely.com
 inte-v2.world.optimizely.com
 inte.admincenter.optimizely.com
+inte.ai-backend.optimizely.com
 inte.ai-backend-docs.expeng.optimizely.com
 inte.ai.query.optimizely.com
 inte.analytics.optimizely.com
@@ -2402,6 +2421,7 @@ inte.contentful.optimizely.com
 inte.datafile-tokens.optimizely.com
 inte.demo.optimizely.com
 inte.develrc-app.optimizely.com
+inte.docs.ai-backend.optimizely.com
 inte.email-test-svc.optimizely.com
 inte.entrypoint.cmab.optimizely.com
 inte.eu.logx.optimizely.com
@@ -2783,6 +2803,9 @@ oncall.optimizely.com
 ons3dxctonz4de6s.dxptest.optimizely.com
 opal.optimizely.com
 opal-backend.optimizely.com
+opal-tools.optimizely.com
+opal-tools.cms.optimizely.com
+opal-tools.cmstest.optimizely.com
 optibot.app.optimizely.com
 optibot.develrc-app.optimizely.com
 optibot.rc-app.optimizely.com
@@ -2900,8 +2923,10 @@ pr5xdxctadmxk807.dxptest.optimizely.com
 prediction.cmab.optimizely.com
 prep-assets.flags.optimizely.com
 prep-assets.journey-builder.optimizely.com
+prep-holdouts-assets.flags.optimizely.com
 prep-oie.login.optimizely.com
 prep.admincenter.optimizely.com
+prep.ai-backend.optimizely.com
 prep.ai-backend-docs.expeng.optimizely.com
 prep.ai-segmentation.optimizely.com
 prep.api.optimizely.com
@@ -2914,6 +2939,7 @@ prep.datafile-tokens.optimizely.com
 prep.demo.optimizely.com
 prep.docs.ai-backend.optimizely.com
 prep.entrypoint.cmab.optimizely.com
+prep.event-lake.optimizely.com
 prep.exp-metadata.optimizely.com
 prep.flags.optimizely.com
 prep.flags-scheduling.optimizely.com
@@ -2930,6 +2956,7 @@ prep.pgm-reporting.optimizely.com
 prep.prediction.cmab.optimizely.com
 prep.results-page-mfe.optimizely.com
 prep.ss-calc-mfe.optimizely.com
+prep.stats-util.optimizely.com
 prep.token-service.optimizely.com
 prep.transit.optimizely.com
 prep.ui.exp-metrics.optimizely.com
@@ -2948,6 +2975,7 @@ prism-app.staging.odp.optimizely.com
 prism-app.us0.odp.optimizely.com
 prod.optimizely.com
 prod-fleet.prod.optimizely.com
+prod.app.optimizely.com
 prod.flags-scheduling.expeng.optimizely.com
 prod.login.optimizely.com
 prod.use1.argocd.edp-infra.optimizely.com
@@ -3132,6 +3160,7 @@ static.deu1.odp.optimizely.com
 static.eu1.odp.optimizely.com
 static.staging.odp.optimizely.com
 static.us0.odp.optimizely.com
+stats-util.optimizely.com
 status.optimizely.com
 stjocmsx202u5q9q.dxptest.optimizely.com
 stjocommercw249r.cmstest.optimizely.com
@@ -3332,3 +3361,7 @@ zed.staging.odp.optimizely.com
 zed.us0.odp.optimizely.com
 zendesk-staging.optimizely.com
 zeneiskola-hendesk-staging.optimizely.com
+zerlwy.collections.cmp.optimizely.com
+zerlwy.files.cmp.optimizely.com
+znsvow.files.cmp.optimizely.com
+zrr5dxctadm4e7rh.dxptest.optimizely.com

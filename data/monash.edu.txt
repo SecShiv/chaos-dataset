@@ -387,6 +387,7 @@ auth4.evigilation.monash.edu
 auth4.evigilation-uat.monash.edu
 auth5.evigilation.monash.edu
 auth5.evigilation-uat.monash.edu
+authmats.evigilation.monash.edu
 auto-cicd-dev.mpc.monash.edu
 auto-cicd.mpc.monash.edu
 auto-jenkins.mpc.monash.edu
@@ -2034,6 +2035,7 @@ caul-voip-cm8.its.monash.edu
 caul-voip-vm1.its.monash.edu
 cc-web01-v20.ocio.monash.edu
 ccd-infi-qn01.mpc.monash.edu
+ccd-infi-qn02.mpc.monash.edu
 ccnr.infotech.monash.edu
 ccs-clin-trials-qat.med.monash.edu
 ccs-clin-trials-test.med.monash.edu
@@ -2807,6 +2809,7 @@ enablo-qat.monash.edu
 enclave-dev.ai.monash.edu
 enclave-qat.ai.monash.edu
 enclave-server-dev.ai.monash.edu
+enclave.ai.monash.edu
 energy.erc.monash.edu
 eng.monash.edu
 eng-app-nn02.mpc.monash.edu
@@ -2948,6 +2951,12 @@ eramis2015.resadmin.monash.edu
 eramisadm.resadmin.monash.edu
 eres-hsm-01.erc.monash.edu
 eres-unityn.erc.monash.edu
+erppb1pt.mpc.monash.edu
+erppb2pn.mpc.monash.edu
+erppc1pn.mpc.monash.edu
+erppd1pn.mpc.monash.edu
+erppd2pt.mpc.monash.edu
+erppd3pt.mpc.monash.edu
 erpsapp2nt.mpc.monash.edu
 erpsappdb1nn.mpc.monash.edu
 ers-app20-v01.ad.monash.edu
@@ -3472,6 +3481,10 @@ guestcheckin.monash.edu
 guestlogin.monash.edu
 guides.lib.monash.edu
 gumby.pharm.monash.edu
+gwpc1pt.mpc.monash.edu
+gwpd2pn.mpc.monash.edu
+gwpd3pt.mpc.monash.edu
+gwpd4pn.mpc.monash.edu
 gwsapp2nn.mpc.monash.edu
 gwsappdb1nt.mpc.monash.edu
 handbook.monash.edu
@@ -3532,6 +3545,7 @@ hot.ai.cloud.monash.edu
 hotskinmodel.cloud.monash.edu
 hpc-monitoring.erc.monash.edu
 hpc.erc.monash.edu
+hpe1v-test.mpc.monash.edu
 hpeo-qat.med.monash.edu
 hpeo-test.med.monash.edu
 hpeo.med.monash.edu
@@ -4850,6 +4864,7 @@ msend-dev.apps.monash.edu
 msend-uat.apps.monash.edu
 msend.apps.monash.edu
 mso.monash.edu
+mspace.monash.edu
 msr.monash.edu
 msr-dev.monash.edu
 msr-mobile.monash.edu
@@ -5848,7 +5863,10 @@ sapsncmp1.ocio.monash.edu
 sapsolp01v20.ocio.monash.edu
 sapssoprd.ocio.monash.edu
 sapssoq.ocio.monash.edu
+sapssoq1nt.mpc.monash.edu
+sapssoq2nn.mpc.monash.edu
 sapssoqat.ocio.monash.edu
+sapssoqatmpc.ocio.monash.edu
 sapwdp01v20.ocio.monash.edu
 sapwdp02v20.ocio.monash.edu
 sas-cap01-v01.lx.monash.edu
@@ -6374,6 +6392,7 @@ test-www.php.apps.monash.edu
 test.alias.with.nathan.monash.edu
 test.certadmin.monash.edu
 test.docs.monarch.erc.monash.edu
+test.download.monash.edu
 test.healthysleep.monash.edu
 test.helix.monash.edu
 test.latestcert.monash.edu
@@ -6383,10 +6402,12 @@ test.testsectigo.monash.edu
 test.with.nathan.monash.edu
 test002.corp-poc.aws.monash.edu
 test1.monash.edu
+test1.download.monash.edu
 test10.eassessment-npd.aws.monash.edu
 test1auto0san.idmqat.monash.edu
 test1auto0sanmaual.idmqat.monash.edu
 test1idm.monash.edu
+test2.download.monash.edu
 test2idm.monash.edu
 test6.eassessment-npd.aws.monash.edu
 test8.eassessment-npd.aws.monash.edu
@@ -7177,6 +7198,7 @@ www.enablo.monash.edu
 www.enablo-dev.monash.edu
 www.enclave-dev.ai.monash.edu
 www.enclave-server-dev.ai.monash.edu
+www.enclave.ai.monash.edu
 www.eng.monash.edu
 www.eng-app-nn02.mpc.monash.edu
 www.eng-app-nn05.mpc.monash.edu
@@ -7358,6 +7380,7 @@ www.ita.monash.edu
 www.its.monash.edu
 www.its-qat.monash.edu
 www.itsr-aws-wafmx-dev.ocio.monash.edu
+www.itsr-pwman-01.ocio.monash.edu
 www.jamfpro-capi.ocio.monash.edu
 www.jenkins.gcp.apps.monash.edu
 www.jira-test.monash.edu
@@ -7564,6 +7587,7 @@ www.muninsla.its.monash.edu
 www.muninsrg.its.monash.edu
 www.muninss.its.monash.edu
 www.mup-app03-v01.ocio.monash.edu
+www.mvault.monash.edu
 www.my.monash.edu
 www.my-assets.its.monash.edu
 www.my-brendono.its.monash.edu
@@ -7773,6 +7797,7 @@ www.sphpm-selfaudit.med.monash.edu
 www.splk-hf09-v01.ocio.monash.edu
 www.splk-merf-hf01.mpc.monash.edu
 www.splk-prox20-v01.ocio.monash.edu
+www.splk-prox21-v01.ocio.monash.edu
 www.sport.monash.edu
 www.sss-web02-v01.ocio.monash.edu
 www.staging-register.monash.edu
@@ -7811,6 +7836,7 @@ www.tenable.ocio.monash.edu
 www.test.monash.edu
 www.test-vip-setting.its.monash.edu
 www.test.certadmin.monash.edu
+www.test.download.monash.edu
 www.test.healthysleep.monash.edu
 www.test.latestcert.monash.edu
 www.test.testsectigo.monash.edu
@@ -8000,6 +8026,7 @@ zemgncsrm-01.ze.monash.edu
 zemgncsrm-02.ze.monash.edu
 zemgome-01.ze.monash.edu
 zemgome.ze.monash.edu
+zemgoneview.ze.monash.edu
 zemgppmd-01.ze.monash.edu
 zemgskyline-01.ze.monash.edu
 zemgsrspolic-01.ze.monash.edu

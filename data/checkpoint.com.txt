@@ -144,6 +144,7 @@
 *.hec.checkpoint.com
 *.hec-dev.checkpoint.com
 *.hmf.checkpoint.com
+*.hulk.saseqa.checkpoint.com
 *.i2.checkpoint.com
 *.iaas.checkpoint.com
 *.iaas-az.checkpoint.com
@@ -3831,6 +3832,7 @@ d964e1ec.sta49f0f.ts.checkpoint.com
 d964e710.static.ziggozakets.checkpoint.com
 d96s.checkpoint.com
 dag-ex10.ad.checkpoint.com
+danielei-ns.dev.i2.checkpoint.com
 darwin.us.checkpoint.com
 data-center-assessment.checkpoint.com
 data-center-assessment-stg.checkpoint.com
@@ -8000,6 +8002,7 @@ kibana-us.i2.checkpoint.com
 kibana-use2.az.iaas.checkpoint.com
 kibana-use2.az.kube1.iaas.checkpoint.com
 kibana-weu.az.iaas.checkpoint.com
+kibana-weu.az.kube1.iaas.checkpoint.com
 kibana.i2.checkpoint.com
 kirkby.checkpoint.com
 knulps.checkpoint.com
@@ -8007,10 +8010,12 @@ koko.checkpoint.com
 kube1.iaas.checkpoint.com
 landing.checkpoint.com
 landingzone.checkpoint.com
+langflow.az.kube1.iaas.checkpoint.com
 ldapdfw.ts.checkpoint.com
 leto.us.checkpoint.com
 lets-encrypt.dev.i2.checkpoint.com
 lgz-switch.us.checkpoint.com
+litbot-partners.checkpoint.com
 live-cortex-gw.al.product-catalog-prd.checkpoint.com
 live-cortex-gw.al.product-catalog-stg.checkpoint.com
 localhost.ad.checkpoint.com
@@ -8044,6 +8049,7 @@ main-cws.checkpoint.com
 maintenance1.us.checkpoint.com
 manufacture.checkpoint.com
 marlins.ts.checkpoint.com
+matan-upstream.dev.i2.checkpoint.com
 mc.checkpoint.com
 media.checkpoint.com
 mercury.ts.checkpoint.com
@@ -8086,6 +8092,7 @@ neill.checkpoint.com
 nexus-argocd-prod-eu.i2.checkpoint.com
 nexus-argocd-prod-in.i2.checkpoint.com
 nexus-argocd-prod-jp.i2.checkpoint.com
+nexus-argocd-prod-milan.i2.checkpoint.com
 nexus-argocd-sandbox.dev.i2.checkpoint.com
 neyondepimetheus-f33213da-hap2.epmgmt.checkpoint.com
 ngen.checkpoint.com
@@ -8189,15 +8196,18 @@ portal.uscpm.checkpoint.com
 portal2.dev.i2.checkpoint.com.dev.i2.checkpoint.com
 postfix-out.kube1.iaas.checkpoint.com
 pricelist.checkpoint.com
+prod-sing.datatube.checkpoint.com
 product-catalog-dev.checkpoint.com
 product-catalog-prd.checkpoint.com
 product-catalog-stg.checkpoint.com
 productcoverage.checkpoint.com
 productservices.checkpoint.com
 protect.checkpoint.com
+protected-agent-poc.dev.i2.checkpoint.com
 protected-shopperai.dev.i2.checkpoint.com
 protected-vf--aiguard-shopperai.dev.i2.checkpoint.com
 proxy-scan1.checkpoint.com
+proxy-service-prod-sa.datatube.checkpoint.com
 proxy-service-stg-aue.datatube.checkpoint.com
 proxy-service-stg-aus.datatube.checkpoint.com
 psmaestrolab.checkpoint.com
@@ -8459,8 +8469,11 @@ tetris3.us.checkpoint.com
 tex.checkpoint.com
 tex-us.us.checkpoint.com
 thanos-query.az.iaas.checkpoint.com
+thanos-query.az.kube1.iaas.checkpoint.com
 thanos-receive-router.az.iaas.checkpoint.com
+thanos-receive-router.az.kube1.iaas.checkpoint.com
 thanos-ruler.az.iaas.checkpoint.com
+thanos-ruler.az.kube1.iaas.checkpoint.com
 threat-emulation.checkpoint.com
 threatcloud-mta-dev-postfix-in.kube1.iaas.checkpoint.com
 threatemulation.checkpoint.com
@@ -8488,6 +8501,7 @@ track.checkpoint.com
 trackorders.checkpoint.com
 training-ai.checkpoint.com
 training-certifications.checkpoint.com
+training-lab.checkpoint.com
 trustednsxmanager.checkpoint.com
 ts.checkpoint.com
 tsmail.us.checkpoint.com
@@ -8582,9 +8596,12 @@ virtual-spain.checkpoint.com
 virtual-tech-masters.checkpoint.com
 virtual-uk.checkpoint.com
 virtual-us.checkpoint.com
+vitaly-protected.dev.i2.checkpoint.com
 vpn-194-28-64-200.checkpoint.com
+vpnhotspot.checkpoint.com
 waf-doc.inext.checkpoint.com
 waf.dev.i2.checkpoint.com
+webclient-launcher.hulk.saseqa.checkpoint.com
 webclient-launcher.ponda.sase.checkpoint.com
 webftp-dev.checkpoint.com
 webftp-dev.asp.checkpoint.com
@@ -8593,6 +8610,7 @@ webui1.mss.checkpoint.com
 welcome.checkpoint.com
 welcome-stg.checkpoint.com
 weu-devops-kiali.az.iaas.checkpoint.com
+weu-devops-stg-kiali.az.kube1.iaas.checkpoint.com
 wp.eucpm.checkpoint.com
 wrappingdemo.checkpoint.com
 ws.iaas.checkpoint.com

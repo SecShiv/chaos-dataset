@@ -8,6 +8,7 @@
 *.admin-api.dev-us1.twilio.com
 *.admin-api.stage-au1.twilio.com
 *.admin-api.stage-us1.twilio.com
+*.aem.stage-us2.twilio.com
 *.aeuwa03.teams.twilio.com
 *.aeuwf01.teams.twilio.com
 *.apowl.stage-us2.twilio.com
@@ -46,6 +47,7 @@
 *.corp-us2.twilio.com
 *.customercenter.admin.dev.twilio.com
 *.customercenter.admin.stage.twilio.com
+*.darkstar.stage-us1.twilio.com
 *.de1.twilio.com
 *.dev.twilio.com
 *.dev-us1.twilio.com
@@ -678,6 +680,8 @@ api-lb.ashburn.dev-us1.twilio.com
 api.ashburn.dev-us1.twilio.com
 api.aws-account-creation.corp.twilio.com
 api.aws-support-slack-bot.corp.twilio.com
+api.flexsdkanalytics.stage-us1.twilio.com
+api.flexsdkanalytics.us1.twilio.com
 api.opensearch.accsec.dev-us2.twilio.com
 api.opensearch.accsec.stage-us1.twilio.com
 api.opensearch.accsec.us1.twilio.com
@@ -692,6 +696,7 @@ api.opensearch.es-visibility.ie1.twilio.com
 api.opensearch.es-visibility.us1.twilio.com
 api.opensearch.voiceinsights-internal.dev-us1.twilio.com
 api.opensearch.voiceinsights-internal.dev-us2.twilio.com
+api.opensearch.voiceinsights-internal.stage-us1.twilio.com
 api.opensearch.voiceinsights-product.dev-us1.twilio.com
 api.opensearch.voiceinsights-product.stage-us1.twilio.com
 api.umatilla.dev-us2.twilio.com
@@ -1038,6 +1043,7 @@ channels.autopilot.stage.twilio.com
 channels.dev.twilio.com
 channels.stage.twilio.com
 chat.twilio.com
+chat.ai-services.dev.twilio.com
 chat.ing-test.ie1.twilio.com
 checkmarx.corp.twilio.com
 chunderm.twilio.com
@@ -1206,6 +1212,7 @@ d6d6d8e908ab00278e08f477c01a6d1ab3b45d6f.console.dev.twilio.com
 d8d31283d01d72e3cfe338c4eb115789071892ae.console.dev.twilio.com
 d9ede98465198e8f017f8fe376272ad9bfb6b670.console.dev.twilio.com
 da55cc51c1eab8c4447cfaaef6a1252a465a1cd2.console.dev.twilio.com
+darkstar.stage-us1.twilio.com
 dashboard.ap-northeast-3.waas.corp.twilio.com
 dashboard.eu-west-1.waas.corp.twilio.com
 dashboard.opensearch.es-visibility.dev-us1.twilio.com
@@ -1962,6 +1969,8 @@ mqtt-sync.us1.twilio.com
 msg-mdp-spark-ui.us1.twilio.com
 mtls-akshay-test-app.twilio.com
 mtls-akshay-test-app.aws-classic.dev-us1.dev.kafka-v1.twilio.com
+mtls-apawar-testing-app.twilio.com
+mtls-apawar-testing-app.aws-classic.dev-us1.dev.kafka-v1.twilio.com
 mumbai.stage-au1.twilio.com
 mumbai.stage-ie1.twilio.com
 mumbai.stage-in1.twilio.com
@@ -2127,6 +2136,7 @@ os.mdp.ie1.twilio.com
 os.mdp.stage-ie1.twilio.com
 os.mdp.stage-us1.twilio.com
 os.mdp.us1.twilio.com
+os.smpp-ule.us1.twilio.com
 os2.mdp.dev-us1.twilio.com
 osaka-ix.au1.twilio.com
 osaka-ix.de1.twilio.com
@@ -2474,8 +2484,11 @@ rtd-kibana.us1.twilio.com
 rtd-notify-log.dev-us1.eak.twilio.com
 rtd-notify-log.stage-us1.eak.twilio.com
 rtd-notify-log.us1.eak.twilio.com
+rtd-testing-service.au1.twilio.com
 rtd-testing-service.dev-us1.twilio.com
 rtd-testing-service.dev-us2.twilio.com
+rtd-testing-service.ie1.twilio.com
+rtd-testing-service.us1.twilio.com
 rtd.dev-us1.eak.twilio.com
 rtd.stage-us1.eak.twilio.com
 rtd.us1.eak.twilio.com
@@ -2897,6 +2910,7 @@ twizzy.twilio.com
 twizzy-redvine.corp.twilio.com
 twizzy-redvine.stage.twilio.com
 twizzy.stage.twilio.com
+twlo-operational-analytics.internal-pages.twilio.com
 u0oxu.twilio.com
 ubani.twilio.com
 ucrht.twilio.com

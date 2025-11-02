@@ -17,6 +17,7 @@
 *.appservice.se1.vpca.visma.com
 *.appservice.se2.vpca.visma.com
 *.aquila.visma.com
+*.archive.buckets.cloud.visma.com
 *.archive.buckets.dev.cloud.visma.com
 *.asp.visma.com
 *.authenticationsettings.connect.visma.com
@@ -41,6 +42,7 @@
 *.azsacr.se2.vpca.visma.com
 *.blob.se1.vpca.visma.com
 *.blob.se2.vpca.visma.com
+*.buckets.cloud.visma.com
 *.buckets.dev.cloud.visma.com
 *.confluence.visma.com
 *.connect.visma.com
@@ -120,6 +122,7 @@
 *.private.connect.int.identity.testaws.visma.com
 *.prov.visma.com
 *.prov.stagaws.visma.com
+*.psa.visma.com
 *.queue.se1.vpca.visma.com
 *.queue.se2.vpca.visma.com
 *.recruit.visma.com
@@ -244,6 +247,8 @@ api.appservice.se1.vpca.visma.com
 api.appservice.se2.vpca.visma.com
 api.audit.barnehage.stagaws.visma.com
 api.audit.barnehage.testaws.visma.com
+api.audit.worker.barnehage.stagaws.visma.com
+api.audit.worker.barnehage.testaws.visma.com
 api.babelmessage.vfxo.visma.com
 api.babelmessage.vfxo.stagaws.visma.com
 api.babelmessage.vfxo.testaws.visma.com
@@ -613,6 +618,7 @@ ctf.visma.com
 ctrl.severa.visma.com
 ctrl.severa.stag.visma.com
 cube.visma.com
+cube.pa.visma.com
 customer-incident.consulting.visma.com
 customersupport-appa.visma.com
 customersupport-bww.visma.com
@@ -746,6 +752,7 @@ extra.visma.com
 extranet.severa.stag.visma.com
 fakeidp.barnehage.testaws.visma.com
 fambostextern7.teamepi.visma.com
+fd.hubble.int.visma.com
 feature.apps.testaws.visma.com
 federation.visma.com
 federation.external.visma.com
@@ -1022,6 +1029,8 @@ odg.prodaws.visma.com
 odg.stagaws.visma.com
 odg.testaws.visma.com
 odp.visma.com
+off-mintimeliste.vfxo.visma.com
+off-mintimeliste.vfxo.testaws.visma.com
 officewebapps.visma.com
 old.visma.com
 old.mytools.visma.com
@@ -1185,6 +1194,7 @@ scdn.barnehage.testaws.visma.com
 scheduler.visma.com
 scm.appservice.se1.vpca.visma.com
 scm.appservice.se2.vpca.visma.com
+search.barnehage.stagaws.visma.com
 search.github.my.connect.int.identity.testaws.visma.com
 sec.visma.com
 sec2.visma.com
@@ -1481,6 +1491,8 @@ verify.api.admin.cloud.skole.stagaws.visma.com
 verify.api.admin.cloud.skole.testaws.visma.com
 verify.api.audit.barnehage.stagaws.visma.com
 verify.api.audit.barnehage.testaws.visma.com
+verify.api.audit.worker.barnehage.stagaws.visma.com
+verify.api.audit.worker.barnehage.testaws.visma.com
 verify.api.auditmigrate.barnehage.testaws.visma.com
 verify.api.babelmessage.vfxo.visma.com
 verify.api.babelmessage.vfxo.stagaws.visma.com
@@ -1904,5 +1916,3 @@ www.webfaktura-test.visma.com
 www.wifi-portal.visma.com
 www.zpcws.visma.com
 www9.visma.com
-xengw.visma.com
-zpcws.visma.com

@@ -7,11 +7,14 @@
 *.access.epam.com
 *.access-staging.epam.com
 *.access.epm-iass.projects.epam.com
+*.adam-internal.amdd-azd.projects.epam.com
+*.adam.amdd-azd.projects.epam.com
 *.aemcloud.epam.com
 *.ai-games.lab.epam.com
 *.ai-proxy.lab.epam.com
 *.ai.amdd-azd.projects.epam.com
 *.ainf-mob1.epam.com
+*.aitestmate.epm-eag.projects.epam.com
 *.alejandro.amdd-azd.projects.epam.com
 *.amdd-azd.projects.epam.com
 *.anywhere-referral.epam.com
@@ -347,6 +350,7 @@
 *.apps.yb-test-destroy.mdtu-ddm.projects.epam.com
 *.apps.yb-test.mdtu-ddm.projects.epam.com
 *.apps.yb-test2-iit.mdtu-ddm.projects.epam.com
+*.apps.yb-uran.mdtu-ddm.projects.epam.com
 *.asmt.epam.com
 *.aws-dev.epmp-aos.projects.epam.com
 *.aws-stage.epmp-aos.projects.epam.com
@@ -386,8 +390,10 @@
 *.cl1-default-lb.epm-aldo-ant.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-alfa-ant-dial.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-alfa-ant-prl.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-alfa-ant-tros.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-alfa-anthos-cipr.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-aloa-ant-url.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-alpa-ant-pcp.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-aop-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-asmd-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-auto-anthos1.eu.gcp.cloudapp.epam.com
@@ -400,6 +406,7 @@
 *.cl1-default-lb.epm-bwf-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-cdme-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-cgam-anthos.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-cipr-ant-qa.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-cmdb-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-cmps-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-coec-anthos.eu.gcp.cloudapp.epam.com
@@ -435,6 +442,7 @@
 *.cl1-default-lb.epm-frpa-anthos-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-fss-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-gess-anthos.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-gpt-anthos-dev.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-gpt-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-hero-anthos-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-hero-anthos.eu.gcp.cloudapp.epam.com
@@ -454,6 +462,7 @@
 *.cl1-default-lb.epm-iass-ant-osmstg.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-ant-paasmon.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-ant-prjstg.eu.gcp.cloudapp.epam.com
+*.cl1-default-lb.epm-iass-ant-prjstg.us.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-ant-test.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-ant-timestg.asia.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-iass-ant-timestg.eu.gcp.cloudapp.epam.com
@@ -596,6 +605,7 @@
 *.cl1-default-lb.epm-tmc-anthos-stg.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-tmc-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-trad-ant-dev.eu.azure.epm-iass.projects.epam.com
+*.cl1-default-lb.epm-trad-ant-stg.eu.azure.epm-iass.projects.epam.com
 *.cl1-default-lb.epm-trm-anthos.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-uns-ant-ihub-prod.eu.gcp.cloudapp.epam.com
 *.cl1-default-lb.epm-uns-anthos-ihub.eu.gcp.cloudapp.epam.com
@@ -661,6 +671,7 @@
 *.cl2-default-lb.epm-orp-anthos1.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-osm-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-paas-anthos-b.eu.gcp.epm-paas.projects.epam.com
+*.cl2-default-lb.epm-paas-anthos-b.us.gcp.epm-paas.projects.epam.com
 *.cl2-default-lb.epm-paas-anthos-dmz.eu.gcp.epm-paas.projects.epam.com
 *.cl2-default-lb.epm-ppa-anthos-impact.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epm-ppa-anthos.eu.gcp.cloudapp.epam.com
@@ -690,6 +701,7 @@
 *.cl2-default-lb.epmc-jscc-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.epmd-edp-anthos.eu.gcp.cloudapp.epam.com
 *.cl2-default-lb.us.gcp.epm-paas.projects.epam.com
+*.cl2-default-lb.wern-fmsc-anthos.us.gcp.cloudapp.epam.com
 *.cl2-lb.epm-paas-anthos-b.us.gcp.epm-paas.projects.epam.com
 *.cl2-lb.epm-paas-monitoring-hub.eu.gcp.epm-paas.projects.epam.com
 *.cl3-default-lb.epm-dce-anthos-tf-dv.eu.gcp.cloudapp.epam.com
@@ -708,6 +720,7 @@
 *.cl5-lb.epm-paas-anthos-b.eu.gcp.epm-paas.projects.epam.com
 *.cl5-lb.epm-paas-anthos-b.us.gcp.epm-paas.projects.epam.com
 *.cloud.epam.com
+*.cloud-infra.deps.epam.com
 *.cloud.presales.epam.com
 *.cloudapp.epam.com
 *.cloudforge.epam.com
@@ -780,6 +793,7 @@
 *.epm-bot.projects.epam.com
 *.epm-chbe.projects.epam.com
 *.epm-csr.projects.epam.com
+*.epm-deps.projects.epam.com
 *.epm-expm-anthos-cl1-default-lb.eu.gcp.cloudapp.epam.com
 *.epm-iass-anthos-sbcm.eu.gcp.cloudapp.epam.com
 *.epm-iga.lab.epam.com
@@ -888,6 +902,7 @@
 *.pluto.epm-dce.projects.epam.com
 *.poc.hca.azure.epmc-stc.projects.epam.com
 *.policy.epam.com
+*.preprod-jira.epam.com
 *.presales.epam.com
 *.prod-people.epm-dce.projects.epam.com
 *.prod.epm-hire.projects.epam.com
@@ -966,6 +981,7 @@
 *.wlt-edoc.projects.epam.com
 *.wmpr-edp-cicd.wmpr.test.wm.lab.epam.com
 *.wmpr.test.wm.lab.epam.com
+*.www.epam.com
 02304dee.stage-jamstack.canvas.jaj-can.projects.epam.com
 033512e67edd.resources.epm-ddl.projects.epam.com
 038de4cedc21.resources.epm-ddl.projects.epam.com
@@ -1151,6 +1167,7 @@ airflow.ofp.gcp.gnrg-osdu.projects.epam.com
 airflow.ref.gcp.gnrg-osdu.projects.epam.com
 airflow.reference.gcp.gnrg-osdu.projects.epam.com
 airflow.slbdemo.gcp.gnrg-osdu.projects.epam.com
+aitestmate.epm-eag.projects.epam.com
 alb.epam.com
 alb-hr-dev.aws.sche-digi.projects.epam.com
 alb-hr-dev.sche-conv.projects.epam.com
@@ -1852,6 +1869,7 @@ api.yb-stop.mdtu-ddm.projects.epam.com
 api.yb-test-destroy.mdtu-ddm.projects.epam.com
 api.yb-test.mdtu-ddm.projects.epam.com
 api.yb-test2-iit.mdtu-ddm.projects.epam.com
+api.yb-uran.mdtu-ddm.projects.epam.com
 apigee-hybrid.lab.epam.com
 apm-cluster12.cloudapp.epam.com
 apm-cluster6.cloudapp.epam.com
@@ -2254,6 +2272,7 @@ c9d1371fc908.resources.epm-ddl.projects.epam.com
 ca.epam.com
 cactus.epam.com
 cactus-solutions-stag.paas.epam.com
+cai.lab.epam.com
 calc.anywhere.epam.com
 calendar-sync.petersburg.epam.com
 calendar.time.epam.com
@@ -2264,6 +2283,8 @@ carcompanion.lab.epam.com
 cards-staging.hungary.epam.com
 cards.hungary.epam.com
 careers.epam.com
+casey-backend-uat.llm.lab.epam.com
+casey-backend.llm.lab.epam.com
 castorama.epam.com
 catalog.tkm-fgt1.projects.epam.com
 cb069b0ebfbf.resources.epm-ddl.projects.epam.com
@@ -2367,6 +2388,7 @@ clmstest.epam.com
 clocks-dev.epm-uhf.projects.epam.com
 clocks.lab.epam.com
 cloud.epam.com
+cloud-infra.deps.epam.com
 cloud.lblw-pmsc.projects.epam.com
 cloud.presales.epam.com
 cloudapp.epam.com
@@ -2575,6 +2597,7 @@ deepwiki-open.epm-aldo.projects.epam.com
 default.wmpr.test.wm.lab.epam.com
 deimos.epm-dce.projects.epam.com
 delivery.epam.com
+delivery-assistant.epm-isdp.projects.epam.com
 delivery.aws.main.edp.projects.epam.com
 delivery.epm-dce.projects.epam.com
 demo-authoring.hca.azure.epmc-stc.projects.epam.com
@@ -2801,6 +2824,7 @@ devtestappaks.epm-paas.projects.epam.com
 df2db70eccd0.resources.epm-ddl.projects.epam.com
 dhm2-performance.health.epam.com
 dial.epam.com
+dial-demo.llm.lab.epam.com
 dial-kc2.lab.epam.com
 dial-rag-dev.llm.lab.epam.com
 dial-rag-main.llm.lab.epam.com
@@ -2847,6 +2871,7 @@ docs.data-mapping.gcp.gnrg-osdu.projects.epam.com
 docs.dev.supernova.telescope.epam.com
 docs.df.epm-daso.projects.epam.com
 docs.odahu.epam.com
+docs.stage-data-mapping.gcp.gnrg-osdu.projects.epam.com
 documentdb.dev.radar.epam.com
 documents.epam.com
 documents.deps.epam.com
@@ -2861,6 +2886,7 @@ docusign.crm.epam.com
 docusign.stageaz.epm-crm.projects.epam.com
 dojo.lab.epam.com
 dolly-api.llm.lab.epam.com
+dots-ocr.llm.lab.epam.com
 dpeotest.time.epam.com
 dpus.sccm.epam.com
 dra.dpaf.lab.epam.com
@@ -2886,6 +2912,7 @@ du-nadezda-learn.epm-tmc.projects.epam.com
 du-poc-learn.epm-tmc.projects.epam.com
 du-preprod-learn.epm-tmc.projects.epam.com
 du-qa-learn.epm-tmc.projects.epam.com
+du-stg-learn.epm-tmc.projects.epam.com
 du-vera-learn.epm-tmc.projects.epam.com
 du-victoria-learn.epm-tmc.projects.epam.com
 du-vladik-learn.epm-tmc.projects.epam.com
@@ -3421,6 +3448,11 @@ elasticsearch-v6-389.aws.radar.stage.epam.com
 elasticsearch-v6-390.aws.radar.stage.epam.com
 elasticsearch-v6-392.aws.radar.stage.epam.com
 elasticsearch-v6-393.aws.radar.stage.epam.com
+elasticsearch-v6-396.aws.radar.stage.epam.com
+elasticsearch-v6-398.aws.radar.stage.epam.com
+elasticsearch-v6-399.aws.radar.stage.epam.com
+elasticsearch-v6-400.aws.radar.stage.epam.com
+elasticsearch-v6-401.aws.radar.stage.epam.com
 elasticsearch-v6-412.aws.radar.epam.com
 elasticsearch-v6-413.aws.radar.epam.com
 elasticsearch-v6-414.aws.radar.epam.com
@@ -3470,6 +3502,9 @@ elasticsearch-v6-486.aws.radar.epam.com
 elasticsearch-v6-487.aws.radar.epam.com
 elasticsearch-v6-524.aws.radar.epam.com
 elasticsearch-v6-527.aws.radar.epam.com
+elasticsearch-v6-530.aws.radar.epam.com
+elasticsearch-v6-531.aws.radar.epam.com
+elasticsearch-v6-532.aws.radar.epam.com
 elasticsearch.eks-prod.radar.epam.com
 elasticsearch.etl-latest.aws.radar.epam.com
 elasticsearch.etl-latest.aws.radar.stage.epam.com
@@ -3607,6 +3642,7 @@ epm-cov.projects.epam.com
 epm-crm.projects.epam.com
 epm-csr.projects.epam.com
 epm-dcat.projects.epam.com
+epm-deps.projects.epam.com
 epm-dww.projects.epam.com
 epm-esag.projects.epam.com
 epm-expm-anthos-0iy.eu.gcp.cloudapp.epam.com
@@ -4304,6 +4340,7 @@ goog-ist.epam.com
 governance.epam.com
 gpt-capilot.epm-tmc.projects.epam.com
 gpt-copilot.epm-tmc.projects.epam.com
+gptoss-20b-api.llm.lab.epam.com
 grabli.app.epam.com
 grafana-cluster11.epm-paas.projects.epam.com
 grafana.aione.lab.epam.com
@@ -4469,6 +4506,8 @@ ibcm.sccm.epam.com
 icn-epm-icn-qa-release-stage.39.paas.epm-eco.projects.epam.com
 idata-qa.imf-eid.projects.epam.com
 idata-uat.imf-eid.projects.epam.com
+idda-qa-learn.epm-tmc.projects.epam.com
+idda-stg-learn.epm-tmc.projects.epam.com
 idda.elearn.epam.com
 idf.lab.epam.com
 idm.app.epam.com
@@ -4827,6 +4866,8 @@ llm-research-app-genaihub-feature.llm.lab.epam.com
 llm-research-app-genaihub-prod.llm.lab.epam.com
 llm-research-app-genaihub-uat.llm.lab.epam.com
 llm-research-app-genie-2-dev.llm.lab.epam.com
+llm-research-app-genie-dev.llm.lab.epam.com
+llm-research-app-insurances-prod.llm.lab.epam.com
 llm-research-app-maintenance-plug-dev.llm.lab.epam.com
 llm-research-app-marsdemo-dev.llm.lab.epam.com
 llm-research-app-projectsearch-dev.llm.lab.epam.com
@@ -5080,6 +5121,7 @@ mcp-staging.epm-edec.projects.epam.com
 mcp-vasyl1-api.services.wstc-wcst.projects.epam.com
 mcp.delivery.epam.com
 mcp.stg-epam.epm-dce.projects.epam.com
+mcp.time.epam.com
 mdtu-ddm.projects.epam.com
 mdtu-epi.projects.epam.com
 me-new-feature.stage-jamstack.canvas.jaj-can.projects.epam.com
@@ -5174,6 +5216,7 @@ mistral-api-test.llm.lab.epam.com
 mistral-api.llm.lab.epam.com
 mistral-lite-api.llm.lab.epam.com
 mistral-nemo-api.llm.lab.epam.com
+mistral-small-api.llm.lab.epam.com
 mistral-v2-api.llm.lab.epam.com
 mistral-v2-gptq-api.llm.lab.epam.com
 mistral7b-orca-api.llm.lab.epam.com
@@ -5364,6 +5407,7 @@ oldint-shops.hca.azure.epmc-stc.projects.epam.com
 oldint-xconnect.hca.azure.epmc-stc.projects.epam.com
 oldschool.demo.lab.epam.com
 oleg.epm-dce.projects.epam.com
+olmocr-7b-api.llm.lab.epam.com
 omolchanov-jamstack.canvas.jaj-can.projects.epam.com
 onb-dev-deps.future.lab.epam.com
 onboarder.epam.com
@@ -5884,6 +5928,7 @@ pr.nxnt-cert.projects.epam.com
 pre-ship-admin.osdu-gcp.go3-nrg.projects.epam.com
 pre-shipping.osdu-gcp.go3-nrg.projects.epam.com
 preasmt.epam.com
+prefect.skills-ai.epm-skls.projects.epam.com
 preferences.epam.com
 preprod-api.emissions.lab.epam.com
 preprod-api.emissionsaws.lab.epam.com.emissions.lab.epam.com
@@ -5921,6 +5966,7 @@ preprod.sobank.fhpc.projects.epam.com
 presales.epam.com
 presales-data-normalization-dev.llm.lab.epam.com
 presales-data-normalization-exp-1.llm.lab.epam.com
+presales-data-normalization-prod.llm.lab.epam.com
 presales-data-normalization-uat.llm.lab.epam.com
 presales-mailbot-dev.llm.lab.epam.com
 presales-mailbot-exp-1.llm.lab.epam.com
@@ -5932,6 +5978,8 @@ presales-orchestrator-prod.llm.lab.epam.com
 presales-orchestrator-uat.llm.lab.epam.com
 presales-sharepoint-adapter-dev.llm.lab.epam.com
 presales-similarity-search-dev.llm.lab.epam.com
+presales-similarity-search-prod.llm.lab.epam.com
+presales-similarity-search-uat.llm.lab.epam.com
 presales-summarization-dev.llm.lab.epam.com
 presales-summarization-exp-1.llm.lab.epam.com
 presales-summarization-prod.llm.lab.epam.com
@@ -5940,6 +5988,7 @@ presales-test.stage.epam.com
 presales.epm-uspp.projects.epam.com
 presales.stage.epam.com
 presales2019.epam.com
+presalespro-bot-dev.epm-bot.projects.epam.com
 preship-asm.osdu-gcp.go3-nrg.projects.epam.com
 preship.gcp.gnrg-osdu.projects.epam.com
 preship.osdu-gcp.go3-nrg.projects.epam.com
@@ -5953,6 +6002,7 @@ preview-cyberdlab-web-dev.aemcloud.epam.com
 preview-cz-web-dev.aemcloud.epam.com
 preview-de-web-dev.aemcloud.epam.com
 preview-elements-web-dev.aemcloud.epam.com
+preview-elements-web-stage.aemcloud.epam.com
 preview-elements.aemcloud.epam.com
 preview-en-cz-web-dev.aemcloud.epam.com
 preview-en-web-dev.aemcloud.epam.com
@@ -5961,6 +6011,7 @@ preview-es-web-dev.aemcloud.epam.com
 preview-hu-web-dev.aemcloud.epam.com
 preview-in-web-dev.aemcloud.epam.com
 preview-infoepam-dev.aemcloud.epam.com
+preview-infoepam-stage.aemcloud.epam.com
 preview-infoepam.aemcloud.epam.com
 preview-infongen-web-dev.aemcloud.epam.com
 preview-jdi-web-dev.aemcloud.epam.com
@@ -6179,6 +6230,7 @@ qa-xconnect.hca.azure.epmc-stc.projects.epam.com
 qa.alib-ces.projects.epam.com
 qa.asmt.epam.com
 qa.assist.epam.com
+qa.campus.epam.com
 qa.cloud.epam.com
 qa.connect.epam.com
 qa.documents.deps.epam.com
@@ -6276,6 +6328,7 @@ r2.qa2.info.epam.com
 r2.stage.infoportal-aws.epm-iass.projects.epam.com
 r2.stg-learn.epm-tmc.projects.epam.com
 r2.vladik-learn.epm-tmc.projects.epam.com
+rabbitmq-cluster.llm.lab.epam.com
 rabbitmq.dev.radar.epam.com
 rabbitmq.llm.lab.epam.com
 rabbitmq.qa.radar.epam.com
@@ -6342,6 +6395,7 @@ registry.atv.atv-jpd-anthos.us.gcp.cloudapp.epam.com
 registry.cl1-default-lb.epm-rdfc-anthos.eu.gcp.cloudapp.epam.com
 registry.eu.git.epam.com
 registry.git.epam.com
+registry.gitstag.epam.com
 registry.gke-sandbox.epm-rdfc-anthos.eu.gcp.cloudapp.epam.com
 registry.sdmx.epm-rtc.projects.epam.com
 release.epm-stts.projects.epam.com
@@ -6636,6 +6690,7 @@ stage-api.sche-ecat.projects.epam.com
 stage-backend-semantic-search.common.epm-gpt.projects.epam.com
 stage-cd.nrf-lift.projects.epam.com
 stage-core.epm-talk.projects.epam.com
+stage-data-mapping.gcp.gnrg-osdu.projects.epam.com
 stage-eu.staffing.epam.com
 stage-finance.epm-sbcm.projects.epam.com
 stage-gw.epm-talk.projects.epam.com
@@ -6682,6 +6737,7 @@ stage.staffing.epam.com
 stage.support.epam.com
 stage.supportnow.epam.com
 stage.survey.epam.com
+stage.time.epam.com
 stage.tkm-fbb.projects.epam.com
 stage.ui.presales.epam.com
 stage.wlt-edoc.projects.epam.com
@@ -7151,6 +7207,7 @@ upskill.staging-elearn.epm-mooc.projects.epam.com
 us.devmail.epam.com
 us.gcp.time.epam.com
 us.staffing.stage.epam.com
+us.stage.time.epam.com
 us.time.epam.com
 user-service.dev.epm-msrv.projects.epam.com
 user-service.qa.epm-msrv.projects.epam.com
@@ -7663,4 +7720,3 @@ ztna-staging.epm-iga.projects.epam.com
 ztna.app.epam.com
 ztna.app.stage.epam.com
 ztna.stage.epam.com
-ztnacheck.stage.epam.com

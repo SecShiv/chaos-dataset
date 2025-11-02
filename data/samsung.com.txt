@@ -53,6 +53,8 @@
 *.eucdm.samsung.com
 *.europe.business.samsung.com
 *.hk.samsung.com
+*.hkclubs.samsung.com
+*.horse.samsung.com
 *.humantech.samsung.com
 *.hvachub-adm.samsung.com
 *.hvachub-adm-dev.samsung.com
@@ -83,6 +85,7 @@
 *.mobileway.samsung.com
 *.mop.apps.samsung.com
 *.mpay.samsung.com
+*.naportal.ipaas.samsung.com
 *.nerpds.samsung.com
 *.opensource.samsung.com
 *.out.lndhub.samsung.com
@@ -103,6 +106,8 @@
 *.sdaily.samsung.com
 *.sdp.developer.samsung.com
 *.sea.samsung.com
+*.searchapi-preqa3.samsung.com
+*.searchapi-sa.samsung.com
 *.sec.samsung.com
 *.securityreport.samsung.com
 *.semiconductor.samsung.com
@@ -122,6 +127,7 @@
 *.stg.ssp.apps.samsung.com
 *.stg.walletsvc.samsung.com
 *.support.samsung.com
+*.support-hk.samsung.com
 *.swexpertacademy.samsung.com
 *.update.kies.samsung.com
 *.us.samsung.com
@@ -304,9 +310,11 @@ cihdev.samsung.com
 cihus.samsung.com
 cii.samsung.com
 ciscdm.samsung.com
+click.email.developer.samsung.com
 clogin106.eng.sarc.samsung.com
 clogin107.eng.sarc.samsung.com
 closeby.internet.apps.samsung.com
+cloud.email.developer.samsung.com
 club.samsung.com
 clubweixin.samsung.com
 cn-gearapps.samsung.com
@@ -1008,6 +1016,7 @@ eu.prd.workspaceapis.di.atlas.samsung.com
 eu.yourservice.samsung.com
 eu2-api-cdn.shop.samsung.com
 eucdm.samsung.com
+eumarketing.event-tracking.samsung.com
 europe.business.samsung.com
 europe.event-tracking.samsung.com
 eushopmail.samsung.com
@@ -1312,6 +1321,7 @@ igate-w.ssi.samsung.com
 image.samsung.com
 image-mgr.us.samsung.com
 image-us.samsung.com
+image.email.developer.samsung.com
 image.led.samsung.com
 image.semiconductor.samsung.com
 images.samsung.com
@@ -1450,6 +1460,7 @@ m10.br.rt.samsung.com
 m10.hk.email.samsung.com
 m10.jp.email.samsung.com
 m10.latam2.rt.samsung.com
+m10.m2.email.samsung.com
 m10.mena.rt.samsung.com
 m10.mm.email.samsung.com
 m10.my.email.samsung.com
@@ -1513,6 +1524,7 @@ m7.il.email.samsung.com
 m7.kr.email.samsung.com
 m7.kr2p.crm.samsung.com
 m7.levant.email.samsung.com
+m7.m1.email.samsung.com
 m7.mx.email.samsung.com
 m7.pe.email.samsung.com
 m7.pk.email.samsung.com
@@ -1529,6 +1541,7 @@ m8.eu1.email.samsung.com
 m8.il.email.samsung.com
 m8.latam.email.samsung.com
 m8.levant.email.samsung.com
+m8.m1.email.samsung.com
 m8.mx.email.samsung.com
 m8.pe.email.samsung.com
 m8.pk.email.samsung.com
@@ -1541,6 +1554,7 @@ m9.br.rt.samsung.com
 m9.hk.email.samsung.com
 m9.jp.email.samsung.com
 m9.latam2.rt.samsung.com
+m9.m2.email.samsung.com
 m9.mena.rt.samsung.com
 m9.mm.email.samsung.com
 m9.my.email.samsung.com
@@ -1658,6 +1672,7 @@ nac3-data.sarc.samsung.com
 nac3.sarc.samsung.com
 nac4-data.sarc.samsung.com
 nac4.sarc.samsung.com
+naportal.ipaas.samsung.com
 nerpds.samsung.com
 net-d32450.uspool.samsung.com
 net-d32451.uspool.samsung.com
@@ -1972,6 +1987,7 @@ pl.ecom.samsung.com
 pl.ecom-qa.samsung.com
 placedge.samsung.com
 plbusiness.samsung.com
+poceurope.event-tracking.samsung.com
 policies.account.samsung.com
 pop3.samsung.com
 pop3.w1.samsung.com
@@ -2176,6 +2192,7 @@ res10.hk.email.samsung.com
 res10.id.email.samsung.com
 res10.jp.email.samsung.com
 res10.latam2.rt.samsung.com
+res10.m2.email.samsung.com
 res10.mena.rt.samsung.com
 res10.mm.email.samsung.com
 res10.my.email.samsung.com
@@ -2223,6 +2240,8 @@ res6.il.email.samsung.com
 res6.latam.email.samsung.com
 res6.latam2p.crm.samsung.com
 res6.levant.email.samsung.com
+res6.m1.email.samsung.com
+res6.m5.email.samsung.com
 res6.mag.email.samsung.com
 res6.mena.email.samsung.com
 res6.mena2p.crm.samsung.com
@@ -2244,6 +2263,8 @@ res7.il.email.samsung.com
 res7.kr.email.samsung.com
 res7.latam.email.samsung.com
 res7.levant.email.samsung.com
+res7.m1.email.samsung.com
+res7.m5.email.samsung.com
 res7.mag.email.samsung.com
 res7.mena.email.samsung.com
 res7.mx.email.samsung.com
@@ -2267,6 +2288,8 @@ res8.kr.rt.samsung.com
 res8.latam.email.samsung.com
 res8.latam2p.crm.samsung.com
 res8.levant.email.samsung.com
+res8.m1.email.samsung.com
+res8.m5.email.samsung.com
 res8.mag.email.samsung.com
 res8.mena.email.samsung.com
 res8.mena2p.crm.samsung.com
@@ -2282,6 +2305,7 @@ res9.br.rt.samsung.com
 res9.hk.email.samsung.com
 res9.jp.email.samsung.com
 res9.latam2.rt.samsung.com
+res9.m2.email.samsung.com
 res9.mena.rt.samsung.com
 res9.mm.email.samsung.com
 res9.my.email.samsung.com
@@ -2454,6 +2478,8 @@ search.samsung.com
 search.led.samsung.com
 search.semiconductor.samsung.com
 searchapi.samsung.com
+searchapi-preqa3.samsung.com
+searchapi-sa.samsung.com
 sec.samsung.com
 sec.business.samsung.com
 secappadmin.local.samsung.com
@@ -2593,6 +2619,7 @@ stg-smartthingsfind.samsung.com
 stg-uk.shop.samsung.com
 stg-v2.shop.samsung.com
 stg-www.samsung.com
+stg.browser.samsung.com
 stg.cockpit.shop.samsung.com
 stg.content.samsung.com
 stg.dive.ecom.samsung.com
@@ -2723,6 +2750,7 @@ t10.br.rt.samsung.com
 t10.hk.email.samsung.com
 t10.jp.email.samsung.com
 t10.latam2.rt.samsung.com
+t10.m2.email.samsung.com
 t10.mena.rt.samsung.com
 t10.mm.email.samsung.com
 t10.my.email.samsung.com
@@ -2763,6 +2791,7 @@ t6.kr.email.samsung.com
 t6.latam.email.samsung.com
 t6.latam2p.crm.samsung.com
 t6.levant.email.samsung.com
+t6.m1.email.samsung.com
 t6.mx.email.samsung.com
 t6.pe.email.samsung.com
 t6.pk.email.samsung.com
@@ -2780,6 +2809,7 @@ t7.il.email.samsung.com
 t7.india2p.crm.samsung.com
 t7.latam.email.samsung.com
 t7.levant.email.samsung.com
+t7.m1.email.samsung.com
 t7.mx.email.samsung.com
 t7.pe.email.samsung.com
 t7.pk.email.samsung.com
@@ -2797,6 +2827,7 @@ t8.il.email.samsung.com
 t8.india2p.crm.samsung.com
 t8.latam.email.samsung.com
 t8.levant.email.samsung.com
+t8.m1.email.samsung.com
 t8.mx.email.samsung.com
 t8.pe.email.samsung.com
 t8.pk.email.samsung.com
@@ -2810,6 +2841,7 @@ t9.hk.email.samsung.com
 t9.jp.email.samsung.com
 t9.kr.rt.samsung.com
 t9.latam2.rt.samsung.com
+t9.m2.email.samsung.com
 t9.mena.rt.samsung.com
 t9.my.email.samsung.com
 t9.nz.email.samsung.com
@@ -2892,6 +2924,7 @@ verifier.dev.samsung.com
 verizonca.sea.samsung.com
 videos.samsung.com
 videos.support.samsung.com
+view.email.developer.samsung.com
 vn.campaign.samsung.com
 vpn-01.sarc.samsung.com
 vpn-02.sarc.samsung.com
@@ -2914,6 +2947,7 @@ weallshare.samsung.com
 weave.sea.samsung.com
 web-app1.samsung.com
 web-app2.samsung.com
+web.m1.email.samsung.com
 webapp.samsung.com
 webinar.sisa.samsung.com
 webmail.sarc.samsung.com
@@ -2953,6 +2987,7 @@ www.cih.samsung.com
 www.cihdev.samsung.com
 www.cihus.samsung.com
 www.cii.samsung.com
+www.codexstg.sarc.samsung.com
 www.connect.dev.samsung.com
 www.connecthome.svc.samsung.com
 www.contactus.samsung.com
@@ -3163,3 +3198,5 @@ www.zoneftp2.sea.samsung.com
 www2.samsung.com
 wzkr.nerpds.samsung.com
 wzus.nerpds.samsung.com
+yourservice.samsung.com
+zoneftp2.sea.samsung.com

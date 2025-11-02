@@ -208,9 +208,12 @@ sec.abraxas-apis.ch
 sg.bbt.per.abraxas-apis.ch
 sg.corp.abraxas-apis.ch
 sg.per.abraxas-apis.ch
+sg.pre.egv.abraxas-apis.ch
 sg.pre.per.abraxas-apis.ch
 sg.prv1.per.abraxas-apis.ch
+sg.sta.egv.abraxas-apis.ch
 sg.sta.per.abraxas-apis.ch
+sg.uat.egv.abraxas-apis.ch
 sg.uat.per.abraxas-apis.ch
 sk-sg-uat.p09.migration-aap.abraxas-apis.ch
 sk-sg.bot.abraxas-apis.ch
@@ -319,6 +322,11 @@ test.db.dat.abraxas-apis.ch
 test.iam.abraxas-apis.ch
 test.sec.abraxas-apis.ch
 testing.sta.sn.abraxas-apis.ch
+tg.egv.abraxas-apis.ch
+tg.sta.egv.abraxas-apis.ch
+tg.uat.egv.abraxas-apis.ch
+ti.dok-ecm.abraxas-apis.ch
+ti.pre.dok-ecm.abraxas-apis.ch
 translation-backend-fork.sta.sn.abraxas-apis.ch
 txa.abraxas-apis.ch
 txa-dev.t07.migration-aap.abraxas-apis.ch
@@ -331,6 +339,7 @@ uat.ao.abraxas-apis.ch
 uat.corp.abraxas-apis.ch
 uat.corp-seas.abraxas-apis.ch
 uat.dat.abraxas-apis.ch
+uat.egv.abraxas-apis.ch
 uat.ep.abraxas-apis.ch
 uat.iks.abraxas-apis.ch
 uat.per.abraxas-apis.ch
@@ -358,6 +367,3 @@ www.gbdbsr3.ter.abraxas-apis.ch
 www.sta.abraxas-apis.ch
 yt.abraxas-apis.ch
 yt.t06.migration-aap.abraxas-apis.ch
-zh.arc.vo.abraxas-apis.ch
-zh.uat.vo.abraxas-apis.ch
-zh.vo.abraxas-apis.ch

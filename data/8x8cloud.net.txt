@@ -47,6 +47,7 @@
 *.teleport.8x8-shared-svcs-prod.aws.infra8.8x8cloud.net
 *.tenantadmin-dev-test.oci.infra8.8x8cloud.net
 *.tenantadmin-production.oci.infra8.8x8cloud.net
+*.vcc-dev.aws.infra8.8x8cloud.net
 *.vcc-development.oci.infra8.8x8cloud.net
 *.vcc-production.oci.infra8.8x8cloud.net
 *.vcc-staging.oci.infra8.8x8cloud.net
@@ -92,6 +93,7 @@ shared-svcs-nonprod.aws.infra8.8x8cloud.net
 svc.8x8cloud.net
 teleport.8x8-shared-svcs-prod.aws.infra8.8x8cloud.net
 tenantadmin-dev-test.oci.infra8.8x8cloud.net
+vcc-dev.aws.infra8.8x8cloud.net
 vo-ops.aws.infra8.8x8cloud.net
 voa-prod.aws.infra8.8x8cloud.net
 vpn.prod.sjc01.us-west.8x8cloud.net
@@ -99,4 +101,3 @@ vpn.staging.sjc01.us-west.8x8cloud.net
 vpngw.prod.sjc01.us-west.8x8cloud.net
 vpngw.staging.sjc01.us-west.8x8cloud.net
 wavefront-prometheus-ec2-dev.platformdevops.8x8cloud.net
-wiki.platformdevops.8x8cloud.net

@@ -2,6 +2,7 @@
 *.unilever.com
 *.api-int.unilever.com
 *.by.unilever.com
+*.dcodecnr2dev3.unilever.com
 *.dcodedev1.unilever.com
 *.dcodedev2.unilever.com
 *.dcodedr.unilever.com
@@ -195,6 +196,7 @@ adele.unilever.com
 adele.d1.dz.unilever.com
 admanager.unilever.com
 admin-globalidq.unilever.com
+admin-samadhan-prod.unilever.com
 adolf.unilever.com
 adolf.d1.dz.unilever.com
 adrak.unilever.com
@@ -278,6 +280,7 @@ aifskillbot.unilever.com
 aimee.unilever.com
 aimee.d1.dz.unilever.com
 aioli.d1.dz.unilever.com
+aiqualityinsights.unilever.com
 airsweb.unilever.com
 airswebrqa.unilever.com
 airswebsafetravel.unilever.com
@@ -394,6 +397,7 @@ apigateway-q.unilever.com
 app.usales-eg.unilever.com
 app.usales-eg-dev.unilever.com
 app.usales-eg-qa.unilever.com
+app.usales-eg-test.unilever.com
 appgw.unilever.com
 appgw-dev-eugenia.unilever.com
 appgw-eugenia.unilever.com
@@ -1010,6 +1014,7 @@ buyersconsole-qa.unilever.com
 buyersconsolegpt-dev.unilever.com
 buyersconsolegpt-orchestrator.unilever.com
 buyersconsolegpt-orchestrator-qa.unilever.com
+buyersconsolegpt-qa.unilever.com
 buying.unilever.com
 bw.dms.unilever.com
 bw.dms-azp.unilever.com
@@ -1450,7 +1455,9 @@ datalab.unilever.com
 datalab-aml.unilever.com
 datalab-aml-dev.unilever.com
 datalab-aml-qa.unilever.com
+datalab-aml-qaks04.unilever.com
 datalab-aml-staging.unilever.com
+datalab-aml-uaks04.unilever.com
 datalab-aws-aml.unilever.com
 datalab-aws-aml-dev.unilever.com
 datalab-cluster.unilever.com
@@ -1498,15 +1505,18 @@ dcodecnr1dev.unilever.com
 dcodecnr1dev1.unilever.com
 dcodecnr2dev.unilever.com
 dcodecnr2dev1.unilever.com
+dcodecnr2dev3.unilever.com
 dcodedev.unilever.com
 dcodedev1.unilever.com
 dcodedev2.unilever.com
 dcodedr.unilever.com
 dcodedummy.unilever.com
+dcodekafka-nonprod.unilever.com
 dcodept.unilever.com
 dcodeqa.unilever.com
 dcodeqa1.unilever.com
 dcodeqa2.unilever.com
+dcodeqa3.unilever.com
 dcodeua.unilever.com
 dcodeua2.unilever.com
 dcodeuap.unilever.com
@@ -1564,6 +1574,11 @@ dev.jmf.unilever.com
 dev.otcapi.unilever.com
 dev.sclivewire.unilever.com
 dev.scoophs.unilever.com
+dev.sky.unilever.com
+dev.skyeu.unilever.com
+dev.skygb.unilever.com
+dev.skylatam.unilever.com
+dev.skyna.unilever.com
 dev.skyph.unilever.com
 dev.theassetbank.unilever.com
 dev.uchatgpt.unilever.com
@@ -2276,6 +2291,7 @@ gpas-d.unilever.com
 gpasreporting-d.unilever.com
 gpm.unilever.com
 gpm-q.unilever.com
+grafana-dev.unilever.com
 gran.unilever.com
 gran.d1.dz.unilever.com
 graph.unilever.com
@@ -2682,6 +2698,8 @@ jacksonvilleprod-arc.unilever.com
 jacksonvilleprod-mob.unilever.com
 jacksonvilleqa.unilever.com
 jacksonvilleqa-mob.unilever.com
+jacksonvillereg.unilever.com
+jacksonvillereg-mob.unilever.com
 jaggery.unilever.com
 jalfrezi.unilever.com
 jamieoliver.d1.dz.unilever.com
@@ -2696,6 +2714,7 @@ jcmadridqa-mob.unilever.com
 jdavoiceconsoleprod.unilever.com
 jdavoiceconsoleqa.unilever.com
 jdawmsregression.unilever.com
+jdawmsregression-mob.unilever.com
 jeeta.unilever.com
 jeffcity-ts.unilever.com
 jeffcitydev.unilever.com
@@ -2705,6 +2724,7 @@ jeffcityprod-arc.unilever.com
 jeffcityprod-mob.unilever.com
 jeffcityqa.unilever.com
 jeffcityqa-mob.unilever.com
+jeffcityreg.unilever.com
 jeffcityreg-mob.unilever.com
 jhol.unilever.com
 jindo.unilever.com
@@ -2739,6 +2759,7 @@ keema.d1.dz.unilever.com
 ken.d1.dz.unilever.com
 kenhom.d1.dz.unilever.com
 ketchup.d1.dz.unilever.com
+keycloak.unilever.com
 kfapi.unilever.com
 khamiri.d1.dz.unilever.com
 ki-byodocs.unilever.com
@@ -2782,6 +2803,7 @@ kyql.dms-offline.unilever.com
 l6p-resdev001.eu.unilever.com
 laddu.unilever.com
 lakmelumi-preprod.unilever.com
+lakmelumi-prod.unilever.com
 lakmelumi-qa.unilever.com
 latam.blue.unilever.com
 lct.unilever.com
@@ -3248,6 +3270,7 @@ newvilleprod-mob.unilever.com
 newvilleqa.unilever.com
 newvilleqa-mob.unilever.com
 newvillereg.unilever.com
+newvillereg-mob.unilever.com
 next-vercel.unilever.com
 nexus.unilever.com
 nexus-dev.unilever.com
@@ -3540,6 +3563,7 @@ playbook.unilever.com
 playbook-netlify.unilever.com
 playbook-stage.unilever.com
 playbook-stage-netlify.unilever.com
+playbook-stage-vercel.unilever.com
 plebaagw01.unilever.com
 plebaagw02.unilever.com
 plebyagw01.unilever.com
@@ -3605,6 +3629,7 @@ pontoonbeachprod-mob.unilever.com
 pontoonbeachqa.unilever.com
 pontoonbeachqa-mob.unilever.com
 pontoonbeachreg.unilever.com
+pontoonbeachreg-mob.unilever.com
 pool-162-84-240-247.ny5030.east.elikara.d1.dz.unilever.com
 pool-162-84-250injala.d1.dz.unilever.com
 portal-rs-q.unilever.com
@@ -3710,6 +3735,7 @@ qa.helixmx.unilever.com
 qa.helixza.unilever.com
 qa.jmf.unilever.com
 qa.otcapi.unilever.com
+qa.scoophs.unilever.com
 qa.sky.unilever.com
 qa.skyeu.unilever.com
 qa.skygb.unilever.com
@@ -3874,6 +3900,7 @@ radarqa.unilever.com
 radarregression.unilever.com
 radartraining.unilever.com
 radon.unilever.com
+raefordbofqa-mob.unilever.com
 raeforddev.unilever.com
 raeforddev-mob.unilever.com
 raefordprod.unilever.com
@@ -3881,6 +3908,7 @@ raefordprod-arc.unilever.com
 raefordprod-mob.unilever.com
 raefordqa.unilever.com
 raefordqa-mob.unilever.com
+raefordreg.unilever.com
 raeu.unilever.com
 raeubrb.unilever.com
 raeucgts.unilever.com
@@ -3896,6 +3924,8 @@ rajma-pic-q.unilever.com
 rajma-sodor-q.unilever.com
 rajma-ube-q.unilever.com
 rap.unilever.com
+rapidroi.unilever.com
+rapidroi-be.unilever.com
 rapidroi-be-qa.unilever.com
 rapidroi-be-uat.unilever.com
 rapidroi-qa.unilever.com
@@ -3986,6 +4016,8 @@ rialtoprod-arc.unilever.com
 rialtoprod-mob.unilever.com
 rialtoqa.unilever.com
 rialtoqa-mob.unilever.com
+rialtoreg.unilever.com
+rialtoreg-mob.unilever.com
 ricebean.d1.dz.unilever.com
 rickstein.d1.dz.unilever.com
 rm.unilever.com
@@ -4049,6 +4081,7 @@ saltfish.d1.dz.unilever.com
 salttest.unilever.com
 samadhanchennai.unilever.com
 samadhanchennai2.unilever.com
+samadhaninsights.unilever.com
 samadhanportal.unilever.com
 samadhanportal-iot.unilever.com
 samarth-dev.unilever.com
@@ -4071,6 +4104,8 @@ sausaged.d1.dz.unilever.com
 sausagee.d1.dz.unilever.com
 saviynt-adsi-preprod.unilever.com
 savory.d1.dz.unilever.com
+sawa-name.unilever.com
+sawa-name-tt.unilever.com
 sb1mta01.unilever.com
 sb1mta02.unilever.com
 sbaamet.blue.unilever.com
@@ -4164,6 +4199,7 @@ servicecatalogue-as.unilever.com
 services.unipedidos.unilever.com
 services.unipedidosdesarrollo.unilever.com
 sesame.unilever.com
+setu-warewiz.unilever.com
 sfs08.unilever.com
 sg.dms-offline.unilever.com
 sgql.dms-offline.unilever.com
@@ -4240,6 +4276,7 @@ smartccfdevcore.unilever.com
 smartccfdevintegration.unilever.com
 smartccfdevsearch.unilever.com
 smartccfdevuser.unilever.com
+smartroi.unilever.com
 smetrics.nylaarp.cotccfdev.unilever.com
 smtp-in.unilever.com
 sn.dms-offline.unilever.com
@@ -4392,6 +4429,8 @@ supplierinvoicequery-dev.unilever.com
 supplierinvoicequery-qa.unilever.com
 supplierqueryform.unilever.com
 supplierqueryform-qa.unilever.com
+supplychainoptimizer.unilever.com
+supplychainoptimizer.dev.unilever.com
 supplychainoptimizer.qa.unilever.com
 suprelay-r.d1.dz.unilever.com
 suprelay.d1.dz.unilever.com
@@ -4626,8 +4665,10 @@ uat-eddie.unilever.com
 uat-panel1-samadhanportal.unilever.com
 uat-panel2-samadhanportal.unilever.com
 uat-samadhanportal.unilever.com
+uat-setu-warewiz.unilever.com
 uat-warewiz.unilever.com
 uat.buyersconsole.unilever.com
+uat.products.unilever.com
 uat.sclivewire.unilever.com
 uat2-panel1-samadhanportal.unilever.com
 uat2-panel2-samadhanportal.unilever.com
@@ -4903,6 +4944,7 @@ w511p-wlm.unilever.com
 w511q-console.unilever.com
 w511q-wlm.unilever.com
 wan-blz-malawi.unilever.com
+warewizinsights.unilever.com
 wario.d1.dz.unilever.com
 warioa.d1.dz.unilever.com
 wave.unilever.com
@@ -4954,6 +4996,9 @@ webreportingitalia-qa.unilever.com
 wellbeingqa.unilever.com
 wellbeingqa-pb-mob.unilever.com
 wellbeingqa-rl-mob.unilever.com
+wellbeingreg.unilever.com
+wellbeingreg-pb-mob.unilever.com
+wellbeingreg-rl-mob.unilever.com
 westhill.d1.dz.unilever.com
 westin.unilever.com
 wf10.sdc.unilever.com
@@ -5296,7 +5341,9 @@ www.datalab.unilever.com
 www.datalab-aml.unilever.com
 www.datalab-aml-dev.unilever.com
 www.datalab-aml-qa.unilever.com
+www.datalab-aml-qaks04.unilever.com
 www.datalab-aml-staging.unilever.com
+www.datalab-aml-uaks04.unilever.com
 www.datalab-aws-aml.unilever.com
 www.datalab-aws-aml-dev.unilever.com
 www.datalab-cluster.unilever.com

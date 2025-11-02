@@ -402,6 +402,8 @@
 *.datadsco.ct.finra.org
 *.datadsco.dev.finra.org
 *.datadsco.qa.finra.org
+*.datagen.dev.finra.org
+*.datagen.qa.finra.org
 *.dataiku.finra.org
 *.dataiku.dev.finra.org
 *.dataiku.pa.finra.org
@@ -889,6 +891,8 @@
 *.gk.qa.dr.finra.org
 *.gsearch.finra.org
 *.gsearch.dev.finra.org
+*.gsearch.qa.finra.org
+*.gsearchapp.dev.finra.org
 *.herdgreen-int-dev.datamgt.pa.finra.org
 *.herdgreen-int-qa.datamgt.pa.finra.org
 *.iaapps.finra.org
@@ -1089,6 +1093,7 @@
 *.mlsunp.qa.finra.org
 *.model-registry.finra.org
 *.model-registry.dev.finra.org
+*.model-registry.pa.finra.org
 *.model-registry.qa.finra.org
 *.modelopc.finra.org
 *.modelopc.dev.finra.org
@@ -1810,6 +1815,7 @@
 2ta.finra.org
 2ta.pa.finra.org
 2ta.qa.finra.org
+606-abr-form-ui-ews.racs.qa.finra.org
 606-arb-form-ui-ews.racs.dev.finra.org
 a.finpro.finra.org
 a.finpro.dev.finra.org
@@ -1884,6 +1890,7 @@ admin.fip.dr.finra.org
 admin.fip.int.finra.org
 admin.fip.qa.finra.org
 admin.indpro-qa2.qa.finra.org
+adreg.qa.finra.org
 adv-form-int.datacollection.qa.finra.org
 adv-form-int2.datacollection.qa.finra.org
 adv-form.datacollection.qa.finra.org
@@ -1981,9 +1988,11 @@ api.finra.org
 api-devint-internal.dxtenpro.dev.finra.org
 api-devint.cam.dev.finra.org
 api-devint.cam.dev.dr.finra.org
+api-devint.ffp.cam.dev.finra.org
 api-ews.bcdas.finra.org
 api-ews.bcdas.dev.finra.org
 api-ews.bcdas.qa.finra.org
+api-ews.racs.finra.org
 api-ews.racs.dev.finra.org
 api-ews.racs.qa.finra.org
 api-ext.dots.dev.finra.org
@@ -2025,7 +2034,9 @@ api.cam.qa.finra.org
 api.ct.finra.org
 api.dev.finra.org
 api.dr.finra.org
+api.ffp.cam.dev.finra.org
 api.ffp.cam.qa.finra.org
+api.fifc.finra.org
 api.fifc.qa.finra.org
 api.gateway.finra.org
 api.gateway-dev2.dev.finra.org
@@ -2103,6 +2114,7 @@ ardgfl.ct.finra.org
 ardgfl.dev.finra.org
 ardgfl.pa.finra.org
 ardgfl.qa.finra.org
+aref.datacollection.qa.finra.org
 art.finra.org
 art.ct.finra.org
 art.dev.finra.org
@@ -2316,6 +2328,7 @@ br-form.datacollection.qa.finra.org
 brace.finra.org
 brace.dev.finra.org
 brace.qa.finra.org
+bridgeserver.jira.dev.finra.org
 brokercheck.finra.org
 brokercheck-2016.finra.org
 brokercheck-old.finra.org
@@ -2387,8 +2400,13 @@ cam.dev.dr.finra.org
 cam.qa.finra.org
 cam.qa-int.qa.finra.org
 cam.qa-int2.qa.finra.org
+capital-formation-forms-int.datacollection.qa.finra.org
+capital-formation-forms-int2.datacollection.qa.finra.org
+capital-formation-forms.datacollection.qa.finra.org
+capital-formation-schemas-int2.datacollection.qa.finra.org
 careers.finra.org
 cars.finra.org
+cars-schemas.datacollection.qa.finra.org
 cars.ct.finra.org
 cars.dev.finra.org
 cars.pa.finra.org
@@ -2581,6 +2599,7 @@ cloudwaf.qa.finra.org
 clt-opy-webp1.finra.org
 cma-form-int.datacollection.qa.finra.org
 cma-form-int2.datacollection.qa.finra.org
+cma-form.datacollection.finra.org
 cma-form.datacollection.qa.finra.org
 cmd.dev.finra.org
 cmp.finra.org
@@ -2811,6 +2830,7 @@ ctxq1a-dd.qa.finra.org
 ctxq1a.qa.finra.org
 cvt-ui-ews.bcdas.finra.org
 cvt-ui-ews.bcdas.dev.finra.org
+cvt-ui-ews.bcdas.qa.finra.org
 da.metastor.finra.org
 da.metastor.dev.finra.org
 da.metastor.qa.finra.org
@@ -3109,6 +3129,7 @@ domino.pa.finra.org
 domino.qa.finra.org
 doorbell-dev.fip.dev.finra.org
 doorbell-devint.fip.dev.finra.org
+doorbell-int.finpro.qa.finra.org
 doorbell-qaint.fip.qa.finra.org
 doorbell-qaint.fip.qa.dr.finra.org
 doorbell-stress.fip.qa.finra.org
@@ -3204,6 +3225,7 @@ dummybad2.dev.finra.org
 dummybad4.dev.finra.org
 dummybadtest.dev.finra.org
 dxt.finra.org
+dxt-int.finpro.qa.finra.org
 dxt-notifications-interim.finra.org
 dxt-notifications-interim.dev.finra.org
 dxt-notifications-interim.dev-int.finra.org
@@ -3384,7 +3406,9 @@ enf.qa.finra.org
 enfcase.finra.org
 enfcase.dev.finra.org
 enfcase.qa.finra.org
+enrollmentservice-ui-int.tce.qa.finra.org
 enrollmentservice-ui.tce.dev.finra.org
+enrollmentservice-ui.tce.qa.finra.org
 ent.reg.finra.org
 ent.reg.qa.finra.org
 entdesk.finra.org
@@ -3596,6 +3620,7 @@ ext.prime-int.dev.finra.org
 ext.prime.qa.finra.org
 ext.splunk.qa.dr.finra.org
 extauth.devsec.dev.finra.org
+external-eptura.webhook.dev.finra.org
 external-myfiles-ui.finra.org
 external-myfiles-ui.ddwa.finra.org
 external-myfiles.ddwa.dev.finra.org
@@ -3686,6 +3711,9 @@ ffour.qa.finra.org
 fidelius.finra.org
 fidelius.dev.finra.org
 fidelius.qa.finra.org
+fifc.finra.org
+fifc-int.fifc.qa.finra.org
+fifc.fifc.finra.org
 fifc.qa.finra.org
 files.brokercheck.finra.org
 files.brokercheck.dev.finra.org
@@ -3730,6 +3758,7 @@ finapps.dev.finra.org
 finapps.pa.finra.org
 finapps.qa.finra.org
 find-mqp.finpro.finra.org
+find-mqp.finpro.qa.finra.org
 fingerprints.finra.org
 fingerprints-api.finra.org
 fingerprints-api-int.dev.partners.finra.org
@@ -3764,6 +3793,7 @@ finprochat.finra.org
 finprochatuat.finra.org
 finprogw.finra.org
 finprogw-api.finra.org
+finprogw-api.qa.finra.org
 finprogw-qa2.qa.finra.org
 finprogw.ct.finra.org
 finprogw.dev.finra.org
@@ -3912,6 +3942,7 @@ folio.finra.org
 folio.dev.finra.org
 folio.qa.finra.org
 form211-case-qaint.ffp.cam.qa.finra.org
+form211-case.ffp.cam.dev.finra.org
 form211-case.ffp.cam.qa.finra.org
 formfp.finra.org
 formmgmt.fnrw.finra.org
@@ -4055,6 +4086,7 @@ gns1.finra.org
 gns2.finra.org
 gp-gw-ny.finra.org
 gp-gw-va.finra.org
+green-api.fifc.finra.org
 green-api.fifc.qa.finra.org
 green-dummy.datacollection-api.qa.finra.org
 green-dummy.fist.qa.finra.org
@@ -4069,7 +4101,10 @@ green.gateway.dev.finra.org
 green.indpro-qa2.qa.finra.org
 gsearch.finra.org
 gsearch.dev.finra.org
+gsearch.qa.finra.org
 gsearchapp.finra.org
+gsearchapp.dev.finra.org
+gsearchapp.qa.finra.org
 guestwireless.finra.org
 hello.dev.finra.org
 helpchat.finra.org
@@ -4546,6 +4581,7 @@ mlsunp.qa.finra.org
 model-guidebook.finra.org
 model-registry.finra.org
 model-registry.dev.finra.org
+model-registry.pa.finra.org
 model-registry.qa.finra.org
 modelopc.finra.org
 modelopc.dev.finra.org
@@ -4883,6 +4919,7 @@ oscar.pa.finra.org
 oscar.qa.finra.org
 otce.finra.org
 otce-dr.finra.org
+otce-dr.qa.finra.org
 otce-new.finra.org
 otce-new.qa.finra.org
 otce.ddwa.finra.org
@@ -5828,6 +5865,8 @@ static.filex-int2.qa.finra.org
 static.filex.dev.finra.org
 static.filex.qa.finra.org
 static.fingerprints.finra.org
+static.fingerprints-qa.finrafp.qa.finra.org
+static.fingerprints-qaint.finrafp.qa.finra.org
 static.gateway-int.dev.finra.org
 static.gateway.dev.finra.org
 static.map.finra.org
@@ -6007,6 +6046,7 @@ technology.qa.finra.org
 techprg.dev.finra.org
 techprg.qa.finra.org
 test.finra.org
+test.git.qa.finra.org
 testapi-ews.fip.qa.finra.org
 testapi-isso.fip.qa.finra.org
 testdevdummy.dev.finra.org
@@ -6135,6 +6175,7 @@ udc.pa.finra.org
 udc.qa.finra.org
 udcgreen-int-dev.datamgt.pa.finra.org
 udcgreen-int-qa.datamgt.pa.finra.org
+ui-ews.racs.finra.org
 ui-ews.racs.qa.finra.org
 ui-external-int.slate.dev.finra.org
 ui-external-int.slate.qa.finra.org
@@ -6307,6 +6348,7 @@ webeft-int.dev.finra.org
 webeft-int.qa.finra.org
 webeft.ct.finra.org
 webeft.qa.finra.org
+webhook.dev.finra.org
 weblock-crd.finra.org
 wiat.finra.org
 wiat-ews.finra.org
@@ -6498,6 +6540,3 @@ www3-ny4-vip.finra.org
 xfer-aep-qc.finra.org
 yum.awstools.finra.org
 yum.ct.aws.finra.org
-zen.dev.finra.org
-zen.qa.finra.org
-zr53.api.gateway-qaint.qa.finra.org

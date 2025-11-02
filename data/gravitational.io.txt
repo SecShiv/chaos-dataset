@@ -93,6 +93,7 @@
 *.bernard0806.cloud.gravitational.io
 *.bernard0820.cloud.gravitational.io
 *.bernard0829.cloud.gravitational.io
+*.bernard1027.cloud.gravitational.io
 *.bernardv16.cloud.gravitational.io
 *.beta.michelle.gravitational.io
 *.bishopp.jim.gravitational.io
@@ -175,6 +176,8 @@
 *.cd-20240515t155008.cloud.gravitational.io
 *.cd-20250905t190453.cloud.gravitational.io
 *.cd-20250909t160641.cloud.gravitational.io
+*.cd-20251027t174124.cloud.gravitational.io
+*.cd-20251027t175258.cloud.gravitational.io
 *.charlie.michelle.gravitational.io
 *.chris-cooper.cloud.gravitational.io
 *.cloud-5488-skip-suspend.brendan.gravitational.io
@@ -186,6 +189,7 @@
 *.codingllama-1.cloud.gravitational.io
 *.codingllama-3.cloud.gravitational.io
 *.crdb-migrate-1.cloud.gravitational.io
+*.crdb-migrate-2.cloud.gravitational.io
 *.crdb-migrate-3.cloud.gravitational.io
 *.daves.cloud.gravitational.io
 *.david-123.cloud.gravitational.io
@@ -258,6 +262,8 @@
 *.dustin20250916.cloud.gravitational.io
 *.dustin20250916a.cloud.gravitational.io
 *.dustin20251001.cloud.gravitational.io
+*.dustin20251021a.cloud.gravitational.io
+*.dustin20251022.cloud.gravitational.io
 *.e-testing.cloud.gravitational.io
 *.edoardo.cloud.gravitational.io
 *.edward-test-three.cloud.gravitational.io
@@ -267,6 +273,7 @@
 *.elijah-2022.cloud.gravitational.io
 *.em-internal-staging-1.cloud.gravitational.io
 *.enterprise.brendan.gravitational.io
+*.erik-invite-tc.cloud.gravitational.io
 *.erik-role-update-fix.cloud.gravitational.io
 *.erik-role-update.cloud.gravitational.io
 *.erikmargetis-marketing.cloud.gravitational.io
@@ -291,6 +298,7 @@
 *.forrest-2023-10-01.cloud.gravitational.io
 *.forrest-2024-06-05.cloud.gravitational.io
 *.forrest-2024-12-13.cloud.gravitational.io
+*.forrest-2025-10-30.cloud.gravitational.io
 *.foxtrot.michelle.gravitational.io
 *.gauravd.cloud.gravitational.io
 *.gavin-dev.cloud.gravitational.io
@@ -315,6 +323,7 @@
 *.iceberg.cloud.gravitational.io
 *.iceberg.marek.gravitational.io
 *.iceberg3.cloud.gravitational.io
+*.igsloadtest.cloud.gravitational.io
 *.isaiah.cloud.gravitational.io
 *.jakub-ent1.cloud.gravitational.io
 *.jakub3team.cloud.gravitational.io
@@ -403,6 +412,8 @@
 *.kimlisa25.cloud.gravitational.io
 *.kimlisa27.cloud.gravitational.io
 *.kimlisa3.cloud.gravitational.io
+*.kimlisa38.cloud.gravitational.io
+*.kimlisa39.cloud.gravitational.io
 *.kimlisa4.cloud.gravitational.io
 *.kimlisateam2.cloud.gravitational.io
 *.l-240105-0.logan.gravitational.io
@@ -421,6 +432,7 @@
 *.l-240718-0.cloud.gravitational.io
 *.l250111.cloud.gravitational.io
 *.leszek-2-ff.cloud.gravitational.io
+*.leszek-20251021.cloud.gravitational.io
 *.leszek-dash-reg1.cloud.gravitational.io
 *.leszek-dash-reg2.cloud.gravitational.io
 *.leszek-metrics.cloud.gravitational.io
@@ -556,6 +568,7 @@
 *.matheus-2023-07-10-2.cloud.gravitational.io
 *.matheus-2023-07-10.cloud.gravitational.io
 *.matheus-2024-10-29.cloud.gravitational.io
+*.matheus-cir.cloud.gravitational.io
 *.matheus-cloud-ent.cloud.gravitational.io
 *.matheus-cloud-trial.cloud.gravitational.io
 *.matheus-cloudeub.cloud.gravitational.io
@@ -704,6 +717,7 @@
 *.ptg-v14-testing.cloud.gravitational.io
 *.ptgtest-v12-alpha.cloud.gravitational.io
 *.ptgtest-v12.cloud.gravitational.io
+*.r0mant.cloud.gravitational.io
 *.rafal-3.cloud.gravitational.io
 *.rafal.cloud.gravitational.io
 *.rafalc.cloud.gravitational.io
@@ -722,6 +736,7 @@
 *.sam-prem.cloud.gravitational.io
 *.sam-wsp.cloud.gravitational.io
 *.samltest1.cloud.gravitational.io
+*.sandal.cloud.gravitational.io
 *.sarah.cloud.gravitational.io
 *.sashademo.cloud.gravitational.io
 *.sc-dev.capnspacehook.gravitational.io
@@ -869,6 +884,7 @@
 *.tenant8.bernard.gravitational.io
 *.tener-az.cloud.gravitational.io
 *.tener-db.cloud.gravitational.io
+*.tener-test.cloud.gravitational.io
 *.test-el.cloud.gravitational.io
 *.test-yassine.cloud.gravitational.io
 *.test.evan.gravitational.io
@@ -939,12 +955,14 @@
 *.timr.cloud.gravitational.io
 *.timrtest.cloud.gravitational.io
 *.timrtest2.cloud.gravitational.io
+*.timrtest4.cloud.gravitational.io
 *.tobiasz-auditlogs2.cloud.gravitational.io
 *.tobiasz3.cloud.gravitational.io
 *.tobiasz4.cloud.gravitational.io
 *.tobiasztest.cloud.gravitational.io
 *.tobiasztest2.cloud.gravitational.io
 *.training-prep.cloud.gravitational.io
+*.travis.cloud.gravitational.io
 *.travisswientek.cloud.gravitational.io
 *.trotfox.michelle.gravitational.io
 *.ulysses2.cloud.gravitational.io
@@ -1257,6 +1275,7 @@ bernard1.bernard.gravitational.io
 bernard1.cloud.gravitational.io
 bernard10.bernard.gravitational.io
 bernard1022.cloud.gravitational.io
+bernard1027.cloud.gravitational.io
 bernard12.bernard.gravitational.io
 bernard1test.bernard.gravitational.io
 bernard2.bernard.gravitational.io
@@ -1384,6 +1403,8 @@ cd-20240513t195220.cloud.gravitational.io
 cd-20240515t155008.cloud.gravitational.io
 cd-20250905t190453.cloud.gravitational.io
 cd-20250909t160641.cloud.gravitational.io
+cd-20251027t174124.cloud.gravitational.io
+cd-20251027t175258.cloud.gravitational.io
 cdn.alexmcgrath.gravitational.io
 cdn.andrey.gravitational.io
 cdn.bence.gravitational.io
@@ -1495,6 +1516,7 @@ corkrean.cloud.gravitational.io
 could16.stephen.gravitational.io
 cpt171.gravitational.io
 crdb-migrate-1.cloud.gravitational.io
+crdb-migrate-2.cloud.gravitational.io
 crdb-migrate-3.cloud.gravitational.io
 cs-demo.gravitational.io
 cs-demo.cloud.gravitational.io
@@ -1621,6 +1643,8 @@ dustin20250909.cloud.gravitational.io
 dustin20250916.cloud.gravitational.io
 dustin20250916a.cloud.gravitational.io
 dustin20251001.cloud.gravitational.io
+dustin20251021a.cloud.gravitational.io
+dustin20251022.cloud.gravitational.io
 dynamodbtest.michael.gravitational.io
 e-testing.cloud.gravitational.io
 e2e.gravitational.io
@@ -1648,6 +1672,7 @@ enterprise.brendan.gravitational.io
 epic.gravitational.io
 epsilon.justinas.gravitational.io
 erick-reyes.cloud.gravitational.io
+erik-invite-tc.cloud.gravitational.io
 erik-role-update-fix.cloud.gravitational.io
 erik-role-update.cloud.gravitational.io
 erikmargetis-marketing.cloud.gravitational.io
@@ -1684,6 +1709,7 @@ foobarben.cloud.gravitational.io
 forrest-2023-10-01.cloud.gravitational.io
 forrest-2024-06-05.cloud.gravitational.io
 forrest-2024-12-13.cloud.gravitational.io
+forrest-2025-10-30.cloud.gravitational.io
 fourth.vitor.gravitational.io
 foxtrot.michelle.gravitational.io
 fs.gravitational.io
@@ -1801,6 +1827,7 @@ ice-berg.cloud.gravitational.io
 iceberg.cloud.gravitational.io
 iceberg.marek.gravitational.io
 iceberg3.cloud.gravitational.io
+igsloadtest.cloud.gravitational.io
 int.alexmcgrath.gravitational.io
 int.andrey.gravitational.io
 int.bernard.gravitational.io
@@ -2052,6 +2079,8 @@ kimlisa24.cloud.gravitational.io
 kimlisa25.cloud.gravitational.io
 kimlisa27.cloud.gravitational.io
 kimlisa3.cloud.gravitational.io
+kimlisa38.cloud.gravitational.io
+kimlisa39.cloud.gravitational.io
 kimlisa4.cloud.gravitational.io
 kimlisateam2.cloud.gravitational.io
 knisbet-test-recovery.cloud.gravitational.io
@@ -2087,6 +2116,7 @@ lenkoc.cloud.gravitational.io
 lenkod.cloud.gravitational.io
 leszek.gravitational.io
 leszek-2-ff.cloud.gravitational.io
+leszek-20251021.cloud.gravitational.io
 leszek-dash-reg1.cloud.gravitational.io
 leszek-dash-reg2.cloud.gravitational.io
 leszek-metrics.cloud.gravitational.io
@@ -2270,6 +2300,7 @@ matheus-1693248292922.cloud.gravitational.io
 matheus-2023-07-10-2.cloud.gravitational.io
 matheus-2023-07-10.cloud.gravitational.io
 matheus-2024-10-29.cloud.gravitational.io
+matheus-cir.cloud.gravitational.io
 matheus-cloud-ent.cloud.gravitational.io
 matheus-cloud-trial.cloud.gravitational.io
 matheus-cloudeub.cloud.gravitational.io
@@ -2626,6 +2657,7 @@ sam-prem.cloud.gravitational.io
 sam-wsp.cloud.gravitational.io
 sam.isaiah.gravitational.io
 samltest1.cloud.gravitational.io
+sandal.cloud.gravitational.io
 sarah.cloud.gravitational.io
 sashademo.cloud.gravitational.io
 sc-dev.capnspacehook.gravitational.io
@@ -2856,6 +2888,7 @@ tenants.bernard.gravitational.io
 tener-az.cloud.gravitational.io
 tener-db.cloud.gravitational.io
 tener-sso.cloud.gravitational.io
+tener-test.cloud.gravitational.io
 tenterprise.gravitational.io
 tenterprisetwo.gravitational.io
 terraform-example.gravitational.io
@@ -3000,6 +3033,7 @@ tim-webhooktest3.cloud.gravitational.io
 timr.cloud.gravitational.io
 timrtest.cloud.gravitational.io
 timrtest2.cloud.gravitational.io
+timrtest4.cloud.gravitational.io
 tobiasz-auditlogs.cloud.gravitational.io
 tobiasz-auditlogs2.cloud.gravitational.io
 tobiasz-testplan14.cloud.gravitational.io
@@ -3012,6 +3046,7 @@ tpdemp.richpowell.gravitational.io
 tpgustest.gravitational.io
 training-prep.cloud.gravitational.io
 travis-s-testing-1.cloud.gravitational.io
+travis.cloud.gravitational.io
 travisco.cloud.gravitational.io
 travisswientek.cloud.gravitational.io
 trial.brendan.gravitational.io
@@ -3193,3 +3228,5 @@ zeta.justinas.gravitational.io
 zoom-scale.cloud.gravitational.io
 zuul.cloud.gravitational.io
 .cloud.gravitational.io
+你好.cloud.gravitational.io
+笨蛋.cloud.gravitational.io

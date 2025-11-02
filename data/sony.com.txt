@@ -100,6 +100,7 @@
 *.mfl.slp.csx.sony.com
 *.mgmt.account.sony.com
 *.mlsandbox.bis.sie.sony.com
+*.muse-dev.lundlab.eu.sony.com
 *.muse.lundlab.eu.sony.com
 *.myaibo.slp.csx.sony.com
 *.net.anz.sie.sony.com
@@ -137,6 +138,7 @@
 *.reonpocket.sony.com
 *.retail.me.sony.com
 *.rewards.sony.com
+*.runai.sabey-k8s1.dlrs.sie.sony.com
 *.sat-prod.starsphere.sony.com
 *.saviynt.prod.sie.sony.com
 *.scoreuat.aws-test.sm.sony.com
@@ -542,6 +544,7 @@ api.eng.eu.sony.com
 api.familycenter.electronics.sony.com
 api.gto-data-warehouse.sony.com
 api.lx.sony.com
+api.muse-dev.lundlab.eu.sony.com
 api.nsu.vcs.electronics.sony.com
 api.ocp-poc.spe.sony.com
 api.ocp.cdp-poc.spe.sony.com
@@ -3136,6 +3139,7 @@ inspectntrack.spe.sony.com
 install.eng.eu.sony.com
 install.lx.sony.com
 int.sony.com
+int.upload.spe.sony.com
 int1.sdt-bcsg1.station.sony.com
 int1.sdt-bcsg2.station.sony.com
 int1.sdt-bcsg3.station.sony.com
@@ -6691,6 +6695,7 @@ meet.jp.sony.com
 meet.ls15.ap.sony.com
 meetingroom.teos.spe.sony.com
 memix.sony.com
+merchandisehub.sie.sony.com
 mercury.sfo.sie.sony.com
 mercury.staging.sfo.sie.sony.com
 mercury.test.sfo.sie.sony.com
@@ -6938,6 +6943,7 @@ mta9.sel-email.sel.sony.com
 mta9.sony-network.sel.sony.com
 mta9a.sel-email.sel.sony.com
 multicam.lundlab.eu.sony.com
+muse-dev.lundlab.eu.sony.com
 muse.lundlab.eu.sony.com
 music.sony.com
 mws.spe.sony.com
@@ -8605,6 +8611,7 @@ preview.sony.com
 preview-production-pdp.sony.com
 preview-test.sony.com
 preview-uat-pdp.sony.com
+pricing.sfo.sie.sony.com
 pricing.staging.sfo.sie.sony.com
 pricing.test.sfo.sie.sony.com
 pricing.uat.sfo.sie.sony.com
@@ -8620,7 +8627,11 @@ prism-edc.spe.sony.com
 prism-edcstg.spe.sony.com
 prism-qa.spe.sony.com
 prism-qa2.spe.sony.com
+prism-solr-dev.spe.sony.com
 prism-solr-edc.spe.sony.com
+prism-solr-qa.spe.sony.com
+prism-solr-qa2.spe.sony.com
+prism-solr-qa3.spe.sony.com
 prism-solr.spe.sony.com
 prism-stg.spe.sony.com
 prism.spe.sony.com
@@ -9089,6 +9100,7 @@ rightcrowd-qa.spe.sony.com
 rightcrowd-trn.spe.sony.com
 rightcrowd.spe.sony.com
 rightcrowdna.spe.sony.com
+rightschatbot-poc.spe.sony.com
 rightsline-qa.spe.sony.com
 rightsline.spe.sony.com
 rke-pre-sandbox.windmill-test.ss.sie.sony.com
@@ -9119,6 +9131,12 @@ rover-stg.spe.sony.com
 rover.spe.sony.com
 roverperf-dev.spe.sony.com
 rpath.station.sony.com
+rpm-api-dev2.spe.sony.com
+rpm-api-dev3.spe.sony.com
+rpm-api-qa.spe.sony.com
+rpm-api-qa2.spe.sony.com
+rpm-api-qa3.spe.sony.com
+rpm-cloud.spe.sony.com
 rpm-dev.spe.sony.com
 rpm-dev10.spe.sony.com
 rpm-dev11.spe.sony.com
@@ -9200,6 +9218,7 @@ rtistics.spe.sony.com
 rtsp-east.fw-bc.sony.com
 rtsp-west.fw-sj.sony.com
 rubygems.github.nextgen-test.ss.sie.sony.com
+runai.dev-seaa-k8s1.dlrs.sie.sony.com
 runai.echelon.dlrs.sie.sony.com
 runbook-stg-node.np-it-apps.sie.sony.com
 runbook-stg.np-it-apps.sie.sony.com
@@ -9210,6 +9229,11 @@ s.forum.sel.sony.com
 s01.esupport.sony.com
 s02.download.sony.com
 s1.strider.sony.com
+s2f-api-dev2.spe.sony.com
+s2f-api-dev3.spe.sony.com
+s2f-api-qa.spe.sony.com
+s2f-api-qa2.spe.sony.com
+s2f-api-qa3.spe.sony.com
 s2f-dev2.spe.sony.com
 s2f-dev3.spe.sony.com
 s2f-dr.spe.sony.com
@@ -10850,6 +10874,7 @@ stg.eams.sony.com
 stg.experience.sony.com
 stg.gto-data-warehouse.sony.com
 stg.qtest.sie.sony.com
+stg.upload.spe.sony.com
 stg.wss.gto-data-warehouse.sony.com
 stgappxen01.am.sony.com
 stgddcxen01.am.sony.com
@@ -11132,6 +11157,7 @@ tms.spe.sony.com
 tokens.sel.sony.com
 toolbox01.am.sony.com
 tops.spe.sony.com
+torchlight-choco01.spe.sony.com
 torchlight-pf01.spe.sony.com
 torchlight-pf02.spe.sony.com
 torchlightdb.spe.sony.com
@@ -11455,6 +11481,9 @@ usculiiqdbap01b.am.sony.com
 usculiiqdbap01c.am.sony.com
 usculiiqiqsp01v.am.sony.com
 usculiiqiqsp02v.am.sony.com
+usculiiqiqsq.am.sony.com
+usculiiqiqsq01v.am.sony.com
+usculiiqiqsq02v.am.sony.com
 usculiiqpwdp01v.am.sony.com
 usculiiqpwdp02v.am.sony.com
 usculiiquixp01v.am.sony.com
@@ -12457,11 +12486,13 @@ www-out.fw-bc.sony.com
 www-out.fw-sj.sony.com
 www-test.sdp.sel.sony.com
 www-west.fw-sj.sony.com
+www.ab.ss.sie.sony.com
 www.account.sony.com
 www.adfs.sony.com
 www.adfs.eu.sony.com
 www.agile.spe.sony.com
 www.am.sony.com
+www.ap.ss.sie.sony.com
 www.auth.cim.account.sony.com
 www.batch.cim.account.sony.com
 www.beamsquare.sony.com
@@ -12562,6 +12593,7 @@ www.jps00008244.jp.sony.com
 www.kb.sony.com
 www.l1.strider.sony.com
 www.link.account.sony.com
+www.merchandisehub.sie.sony.com
 www.mfa.stc.eu.sony.com
 www.motivation.sony.com
 www.mrbs.stc.eu.sony.com

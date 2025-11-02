@@ -1,5 +1,6 @@
 .bexio.com
 *.bexio.com
+*.accounting.zrh.dev.bexio.com
 *.accounting2.zrh.dev.bexio.com
 *.ada4127.bru.dev.bexio.com
 *.adat-4127.bru.dev.bexio.com
@@ -9,6 +10,7 @@
 *.bexio-preprod.gcp.bexio.com
 *.bill.bru.dev.bexio.com
 *.bitnami.bru.dev.bexio.com
+*.bojan2.bru.dev.bexio.com
 *.bttf-25.zrh.dev.bexio.com
 *.cosmin.bru.dev.bexio.com
 *.crif.bru.dev.bexio.com
@@ -22,23 +24,29 @@
 *.dev-21840.bru.dev.bexio.com
 *.dev-21964.bru.dev.bexio.com
 *.dev-22661.bru.dev.bexio.com
+*.dev-acc-rep.zrh.dev.bexio.com
 *.dev20160.bru.dev.bexio.com
 *.dev22175.bru.dev.bexio.com
 *.dev22176.bru.dev.bexio.com
 *.dev23566i.bru.dev.bexio.com
+*.dev24823.bru.dev.bexio.com
 *.dimi.bru.dev.bexio.com
 *.djm.bru.dev.bexio.com
 *.dstojanovic.bru.dev.bexio.com
+*.fakeapp.bru.dev.bexio.com
 *.fiduciary.bru.dev.bexio.com
 *.florin-2.bru.dev.bexio.com
 *.indagia.zrh.dev.bexio.com
 *.kanita.bru.dev.bexio.com
 *.kat1.zrh.dev.bexio.com
+*.leo.bru.dev.bexio.com
 *.lolok.bru.dev.bexio.com
 *.martin-mfe.bru.dev.bexio.com
 *.matheus.bru.dev.bexio.com
 *.mdobric.bru.dev.bexio.com
 *.nikola.bru.dev.bexio.com
+*.nova.bru.dev.bexio.com
+*.oldmongo.bru.dev.bexio.com
 *.paul-test.bru.dev.bexio.com
 *.petar.bru.dev.bexio.com
 *.postgres.bru.dev.bexio.com
@@ -47,12 +55,17 @@
 *.sabin-fid.bru.dev.bexio.com
 *.sales.bru.dev.bexio.com
 *.scalateam.bru.dev.bexio.com
+*.schaufi.bru.dev.bexio.com
 *.sparrow.bru.dev.bexio.com
 *.teamfe.bru.dev.bexio.com
+*.teodor30.bru.dev.bexio.com
+*.tls-1.zrh.dev.bexio.com
 *.tls-2.zrh.dev.bexio.com
 *.toni-kong.bru.dev.bexio.com
 *.toni-nfs.bru.dev.bexio.com
 *.ubs-testing.dev.bexio.com
+*.vilic.bru.dev.bexio.com
+*.vladan.bru.dev.bexio.com
 *.www.bexio.com
 a.bexio.com
 accountant-cockpit.bjanda.bexio-dev.gcp.bexio.com
@@ -111,6 +124,7 @@ admin.bogdan-dev.bexio-dev.gcp.bexio.com
 admin.bogdan.bru.dev.bexio.com
 admin.branko.bru.dev.bexio.com
 admin.c-cris.cmh.dev.bexio.com
+admin.c-fid-2.bru.dev.bexio.com
 admin.c-fid1.cmh.dev.bexio.com
 admin.c-plt2.cmh.dev.bexio.com
 admin.calendula.bru.dev.bexio.com
@@ -160,6 +174,7 @@ admin.dev18531.bru.dev.bexio.com
 admin.dev18643f.bru.dev.bexio.com
 admin.dev19251.bru.dev.bexio.com
 admin.dev2.pgs.bexio.com
+admin.dev21828.bru.dev.bexio.com
 admin.dev3.pgs.bexio.com
 admin.dev4.pgs.bexio.com
 admin.dev5.pgs.bexio.com
@@ -199,6 +214,7 @@ admin.fischi.bru.dev.bexio.com
 admin.fischi2.bru.dev.bexio.com
 admin.fischi3.bru.dev.bexio.com
 admin.fischi4.bru.dev.bexio.com
+admin.fixreset.bru.dev.bexio.com
 admin.fixture.bru.dev.bexio.com
 admin.fixture3.bru.dev.bexio.com
 admin.fixture5.bru.dev.bexio.com
@@ -253,6 +269,7 @@ admin.mihaela.bru.dev.bexio.com
 admin.milan.bru.dev.bexio.com
 admin.mmangpoc.bru.dev.bexio.com
 admin.mmbbmi.bru.dev.bexio.com
+admin.mmcronjob.zrh.dev.bexio.com
 admin.mmgon.bru.dev.bexio.com
 admin.mobile-dev.bexio-dev.gcp.bexio.com
 admin.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -302,6 +319,7 @@ admin.phunziker-zrh.zrh.dev.bexio.com
 admin.phunziker.bru.dev.bexio.com
 admin.phunziker0808.bru.dev.bexio.com
 admin.phunzikerenhance.bru.dev.bexio.com
+admin.phz-test.zrh.dev.bexio.com
 admin.pizza.bru.dev.bexio.com
 admin.platform-dev.bexio-dev.gcp.bexio.com
 admin.platform.bru.dev.bexio.com
@@ -314,6 +332,7 @@ admin.qa-bmi.bru.dev.bexio.com
 admin.qa-fixtures.bru.dev.bexio.com
 admin.qa-team.bexio-dev.gcp.bexio.com
 admin.qa-test.bexio-dev.gcp.bexio.com
+admin.qa-workshop.bru.dev.bexio.com
 admin.qa.pgs.bexio.com
 admin.qa2.pgs.bexio.com
 admin.qa3.pgs.bexio.com
@@ -356,6 +375,7 @@ admin.second-level-2.bexio-dev.gcp.bexio.com
 admin.second-level-3.bexio-dev.gcp.bexio.com
 admin.sedw.bru.dev.bexio.com
 admin.sidevault.bru.dev.bexio.com
+admin.spider.bru.dev.bexio.com
 admin.sre-10527.bexio-dev.gcp.bexio.com
 admin.sre-11178.bexio-dev.gcp.bexio.com
 admin.sre-5167.bexio-dev.gcp.bexio.com
@@ -504,6 +524,7 @@ api.bogdan-dev.bexio-dev.gcp.bexio.com
 api.bogdan.bru.dev.bexio.com
 api.branko.bru.dev.bexio.com
 api.c-cris.cmh.dev.bexio.com
+api.c-fid-2.bru.dev.bexio.com
 api.c-fid1.cmh.dev.bexio.com
 api.c-plt2.cmh.dev.bexio.com
 api.calendula.bru.dev.bexio.com
@@ -561,6 +582,7 @@ api.dev18531.bru.dev.bexio.com
 api.dev18643f.bru.dev.bexio.com
 api.dev19251.bru.dev.bexio.com
 api.dev2.pgs.bexio.com
+api.dev21828.bru.dev.bexio.com
 api.dev3.pgs.bexio.com
 api.dev4.pgs.bexio.com
 api.dev5.pgs.bexio.com
@@ -601,6 +623,7 @@ api.fischi.bru.dev.bexio.com
 api.fischi2.bru.dev.bexio.com
 api.fischi3.bru.dev.bexio.com
 api.fischi4.bru.dev.bexio.com
+api.fixreset.bru.dev.bexio.com
 api.fixture.bru.dev.bexio.com
 api.fixture3.bru.dev.bexio.com
 api.fixture5.bru.dev.bexio.com
@@ -659,6 +682,7 @@ api.mihaela.bru.dev.bexio.com
 api.milan.bru.dev.bexio.com
 api.mmangpoc.bru.dev.bexio.com
 api.mmbbmi.bru.dev.bexio.com
+api.mmcronjob.zrh.dev.bexio.com
 api.mmgon.bru.dev.bexio.com
 api.mobile-dev.bexio-dev.gcp.bexio.com
 api.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -709,6 +733,7 @@ api.phunziker-zrh.zrh.dev.bexio.com
 api.phunziker.bru.dev.bexio.com
 api.phunziker0808.bru.dev.bexio.com
 api.phunzikerenhance.bru.dev.bexio.com
+api.phz-test.zrh.dev.bexio.com
 api.pizza.bru.dev.bexio.com
 api.platform-dev.bexio-dev.gcp.bexio.com
 api.platform.bru.dev.bexio.com
@@ -721,6 +746,7 @@ api.qa-bmi.bru.dev.bexio.com
 api.qa-env.bexio-dev.gcp.bexio.com
 api.qa-fixtures.bru.dev.bexio.com
 api.qa-team.bexio-dev.gcp.bexio.com
+api.qa-workshop.bru.dev.bexio.com
 api.qa.pgs.bexio.com
 api.qa2.pgs.bexio.com
 api.qa3.pgs.bexio.com
@@ -763,6 +789,7 @@ api.second-level-2.bexio-dev.gcp.bexio.com
 api.second-level-3.bexio-dev.gcp.bexio.com
 api.sedw.bru.dev.bexio.com
 api.sidevault.bru.dev.bexio.com
+api.spider.bru.dev.bexio.com
 api.sre-10527.bexio-dev.gcp.bexio.com
 api.sre-11178.bexio-dev.gcp.bexio.com
 api.sre-5167.bexio-dev.gcp.bexio.com
@@ -908,6 +935,7 @@ assets.bmi-purchase.bexio-dev.gcp.bexio.com
 assets.bogdan.bru.dev.bexio.com
 assets.branko.bru.dev.bexio.com
 assets.c-cris.cmh.dev.bexio.com
+assets.c-fid-2.bru.dev.bexio.com
 assets.c-fid1.cmh.dev.bexio.com
 assets.c-plt2.cmh.dev.bexio.com
 assets.calendula.bru.dev.bexio.com
@@ -956,6 +984,7 @@ assets.dev18531.bru.dev.bexio.com
 assets.dev18643f.bru.dev.bexio.com
 assets.dev19251.bru.dev.bexio.com
 assets.dev2.pgs.bexio.com
+assets.dev21828.bru.dev.bexio.com
 assets.dev3.pgs.bexio.com
 assets.dev4.pgs.bexio.com
 assets.dev5.pgs.bexio.com
@@ -997,6 +1026,7 @@ assets.fischi.bru.dev.bexio.com
 assets.fischi2.bru.dev.bexio.com
 assets.fischi3.bru.dev.bexio.com
 assets.fischi4.bru.dev.bexio.com
+assets.fixreset.bru.dev.bexio.com
 assets.fixture.bru.dev.bexio.com
 assets.fixture3.bru.dev.bexio.com
 assets.fixture5.bru.dev.bexio.com
@@ -1056,6 +1086,7 @@ assets.mihaela.bru.dev.bexio.com
 assets.milan.bru.dev.bexio.com
 assets.mmangpoc.bru.dev.bexio.com
 assets.mmbbmi.bru.dev.bexio.com
+assets.mmcronjob.zrh.dev.bexio.com
 assets.mmgon.bru.dev.bexio.com
 assets.mobile-dev.bexio-dev.gcp.bexio.com
 assets.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -1106,6 +1137,7 @@ assets.phunziker-zrh.zrh.dev.bexio.com
 assets.phunziker.bru.dev.bexio.com
 assets.phunziker0808.bru.dev.bexio.com
 assets.phunzikerenhance.bru.dev.bexio.com
+assets.phz-test.zrh.dev.bexio.com
 assets.pizza.bru.dev.bexio.com
 assets.platform-dev.bexio-dev.gcp.bexio.com
 assets.platform.bru.dev.bexio.com
@@ -1120,6 +1152,7 @@ assets.qa-fixtures.bru.dev.bexio.com
 assets.qa-mi.bexio-dev.gcp.bexio.com
 assets.qa-team.bexio-dev.gcp.bexio.com
 assets.qa-test.bexio-dev.gcp.bexio.com
+assets.qa-workshop.bru.dev.bexio.com
 assets.qa.pgs.bexio.com
 assets.qa2.pgs.bexio.com
 assets.qa3.pgs.bexio.com
@@ -1162,6 +1195,7 @@ assets.second-level-2.bexio-dev.gcp.bexio.com
 assets.second-level-3.bexio-dev.gcp.bexio.com
 assets.sedw.bru.dev.bexio.com
 assets.sidevault.bru.dev.bexio.com
+assets.spider.bru.dev.bexio.com
 assets.sre-10527.bexio-dev.gcp.bexio.com
 assets.sre-11178.bexio-dev.gcp.bexio.com
 assets.sre-5167.bexio-dev.gcp.bexio.com
@@ -1274,6 +1308,7 @@ auth.bexio-preprod.gcp.bexio.com
 auth.bill.bru.dev.bexio.com
 auth.bogdan.bru.dev.bexio.com
 auth.c-cris.cmh.dev.bexio.com
+auth.c-fid-2.bru.dev.bexio.com
 auth.c-fid1.cmh.dev.bexio.com
 auth.c-plt2.cmh.dev.bexio.com
 auth.calendula.bru.dev.bexio.com
@@ -1314,6 +1349,7 @@ auth.dev17978.bru.dev.bexio.com
 auth.dev18531.bru.dev.bexio.com
 auth.dev18643f.bru.dev.bexio.com
 auth.dev19251.bru.dev.bexio.com
+auth.dev21828.bru.dev.bexio.com
 auth.devmonica.bru.dev.bexio.com
 auth.devportal.bru.dev.bexio.com
 auth.djm.bru.dev.bexio.com
@@ -1332,6 +1368,7 @@ auth.fiduciary2.bru.dev.bexio.com
 auth.fischi2.bru.dev.bexio.com
 auth.fischi3.bru.dev.bexio.com
 auth.fischi4.bru.dev.bexio.com
+auth.fixreset.bru.dev.bexio.com
 auth.fixture.bru.dev.bexio.com
 auth.fixture3.bru.dev.bexio.com
 auth.fixture5.bru.dev.bexio.com
@@ -1363,6 +1400,7 @@ auth.mihaela.bru.dev.bexio.com
 auth.milan.bru.dev.bexio.com
 auth.mmangpoc.bru.dev.bexio.com
 auth.mmbbmi.bru.dev.bexio.com
+auth.mmcronjob.zrh.dev.bexio.com
 auth.mongo5upgrade.bru.dev.bexio.com
 auth.mongo6.bru.dev.bexio.com
 auth.mongo7.bru.dev.bexio.com
@@ -1388,6 +1426,7 @@ auth.phunziker-stab.bru.dev.bexio.com
 auth.phunziker-switzerland.zrh.dev.bexio.com
 auth.phunziker0808.bru.dev.bexio.com
 auth.phunzikerenhance.bru.dev.bexio.com
+auth.phz-test.zrh.dev.bexio.com
 auth.pizza.bru.dev.bexio.com
 auth.platform-dev.bexio-dev.gcp.bexio.com
 auth.platform.bru.dev.bexio.com
@@ -1397,6 +1436,7 @@ auth.purchase-be.bru.dev.bexio.com
 auth.purchase-fe.bru.dev.bexio.com
 auth.qa-bmi.bru.dev.bexio.com
 auth.qa-fixtures.bru.dev.bexio.com
+auth.qa-workshop.bru.dev.bexio.com
 auth.radumurzea.bru.dev.bexio.com
 auth.rajkula.bru.dev.bexio.com
 auth.rajpix.bru.dev.bexio.com
@@ -1417,6 +1457,7 @@ auth.schaufi.bru.dev.bexio.com
 auth.second-level-1.bexio-dev.gcp.bexio.com
 auth.sedw.bru.dev.bexio.com
 auth.sidevault.bru.dev.bexio.com
+auth.spider.bru.dev.bexio.com
 auth.sre-troubleshoot.bru.dev.bexio.com
 auth.sre11704.bru.dev.bexio.com
 auth.sre12483.bru.dev.bexio.com
@@ -1522,6 +1563,7 @@ banking.bogdan-dev.bexio-dev.gcp.bexio.com
 banking.bogdan.bru.dev.bexio.com
 banking.branko.bru.dev.bexio.com
 banking.c-cris.cmh.dev.bexio.com
+banking.c-fid-2.bru.dev.bexio.com
 banking.c-fid1.cmh.dev.bexio.com
 banking.c-plt2.cmh.dev.bexio.com
 banking.calendula.bru.dev.bexio.com
@@ -1571,6 +1613,7 @@ banking.dev18531.bru.dev.bexio.com
 banking.dev18643f.bru.dev.bexio.com
 banking.dev19251.bru.dev.bexio.com
 banking.dev2.pgs.bexio.com
+banking.dev21828.bru.dev.bexio.com
 banking.dev3.pgs.bexio.com
 banking.dev4.pgs.bexio.com
 banking.dev5.pgs.bexio.com
@@ -1610,6 +1653,7 @@ banking.fischi.bru.dev.bexio.com
 banking.fischi2.bru.dev.bexio.com
 banking.fischi3.bru.dev.bexio.com
 banking.fischi4.bru.dev.bexio.com
+banking.fixreset.bru.dev.bexio.com
 banking.fixture.bru.dev.bexio.com
 banking.fixture3.bru.dev.bexio.com
 banking.fixture5.bru.dev.bexio.com
@@ -1664,6 +1708,7 @@ banking.mihaela.bru.dev.bexio.com
 banking.milan.bru.dev.bexio.com
 banking.mmangpoc.bru.dev.bexio.com
 banking.mmbbmi.bru.dev.bexio.com
+banking.mmcronjob.zrh.dev.bexio.com
 banking.mmgon.bru.dev.bexio.com
 banking.mobile-dev.bexio-dev.gcp.bexio.com
 banking.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -1713,6 +1758,7 @@ banking.phunziker-zrh.zrh.dev.bexio.com
 banking.phunziker.bru.dev.bexio.com
 banking.phunziker0808.bru.dev.bexio.com
 banking.phunzikerenhance.bru.dev.bexio.com
+banking.phz-test.zrh.dev.bexio.com
 banking.pizza.bru.dev.bexio.com
 banking.platform-dev.bexio-dev.gcp.bexio.com
 banking.platform.bru.dev.bexio.com
@@ -1725,6 +1771,7 @@ banking.qa-bmi.bru.dev.bexio.com
 banking.qa-fixtures.bru.dev.bexio.com
 banking.qa-team.bexio-dev.gcp.bexio.com
 banking.qa-test.bexio-dev.gcp.bexio.com
+banking.qa-workshop.bru.dev.bexio.com
 banking.qa.pgs.bexio.com
 banking.qa2.pgs.bexio.com
 banking.qa3.pgs.bexio.com
@@ -1767,6 +1814,7 @@ banking.second-level-2.bexio-dev.gcp.bexio.com
 banking.second-level-3.bexio-dev.gcp.bexio.com
 banking.sedw.bru.dev.bexio.com
 banking.sidevault.bru.dev.bexio.com
+banking.spider.bru.dev.bexio.com
 banking.sre-10527.bexio-dev.gcp.bexio.com
 banking.sre-11178.bexio-dev.gcp.bexio.com
 banking.sre-5167.bexio-dev.gcp.bexio.com
@@ -1911,6 +1959,7 @@ billing.bogdan-dev.bexio-dev.gcp.bexio.com
 billing.bogdan.bru.dev.bexio.com
 billing.branko.bru.dev.bexio.com
 billing.c-cris.cmh.dev.bexio.com
+billing.c-fid-2.bru.dev.bexio.com
 billing.c-fid1.cmh.dev.bexio.com
 billing.c-plt2.cmh.dev.bexio.com
 billing.calendula.bru.dev.bexio.com
@@ -1961,6 +2010,7 @@ billing.dev18643.bru.dev.bexio.com
 billing.dev18643f.bru.dev.bexio.com
 billing.dev19251.bru.dev.bexio.com
 billing.dev2.pgs.bexio.com
+billing.dev21828.bru.dev.bexio.com
 billing.dev3.pgs.bexio.com
 billing.dev4.pgs.bexio.com
 billing.dev5.pgs.bexio.com
@@ -2000,6 +2050,7 @@ billing.fischi.bru.dev.bexio.com
 billing.fischi2.bru.dev.bexio.com
 billing.fischi3.bru.dev.bexio.com
 billing.fischi4.bru.dev.bexio.com
+billing.fixreset.bru.dev.bexio.com
 billing.fixture.bru.dev.bexio.com
 billing.fixture3.bru.dev.bexio.com
 billing.fixture5.bru.dev.bexio.com
@@ -2056,6 +2107,7 @@ billing.mihaela.bru.dev.bexio.com
 billing.milan.bru.dev.bexio.com
 billing.mmangpoc.bru.dev.bexio.com
 billing.mmbbmi.bru.dev.bexio.com
+billing.mmcronjob.zrh.dev.bexio.com
 billing.mmgon.bru.dev.bexio.com
 billing.mobile-dev.bexio-dev.gcp.bexio.com
 billing.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -2105,6 +2157,7 @@ billing.phunziker-zrh.zrh.dev.bexio.com
 billing.phunziker.bru.dev.bexio.com
 billing.phunziker0808.bru.dev.bexio.com
 billing.phunzikerenhance.bru.dev.bexio.com
+billing.phz-test.zrh.dev.bexio.com
 billing.pizza.bru.dev.bexio.com
 billing.platform-dev.bexio-dev.gcp.bexio.com
 billing.platform.bru.dev.bexio.com
@@ -2117,6 +2170,7 @@ billing.qa-bmi.bru.dev.bexio.com
 billing.qa-fixtures.bru.dev.bexio.com
 billing.qa-team.bexio-dev.gcp.bexio.com
 billing.qa-test.bexio-dev.gcp.bexio.com
+billing.qa-workshop.bru.dev.bexio.com
 billing.qa.pgs.bexio.com
 billing.qa2.pgs.bexio.com
 billing.qa3.pgs.bexio.com
@@ -2160,6 +2214,7 @@ billing.second-level-2.bexio-dev.gcp.bexio.com
 billing.second-level-3.bexio-dev.gcp.bexio.com
 billing.sedw.bru.dev.bexio.com
 billing.sidevault.bru.dev.bexio.com
+billing.spider.bru.dev.bexio.com
 billing.sre-10527.bexio-dev.gcp.bexio.com
 billing.sre-11178.bexio-dev.gcp.bexio.com
 billing.sre-5167.bexio-dev.gcp.bexio.com
@@ -2302,6 +2357,7 @@ cockpit.bogdan-dev.bexio-dev.gcp.bexio.com
 cockpit.bogdan.bru.dev.bexio.com
 cockpit.branko.bru.dev.bexio.com
 cockpit.c-cris.cmh.dev.bexio.com
+cockpit.c-fid-2.bru.dev.bexio.com
 cockpit.c-fid1.cmh.dev.bexio.com
 cockpit.c-plt2.cmh.dev.bexio.com
 cockpit.calendula.bru.dev.bexio.com
@@ -2350,6 +2406,7 @@ cockpit.dev18531.bru.dev.bexio.com
 cockpit.dev18643f.bru.dev.bexio.com
 cockpit.dev19251.bru.dev.bexio.com
 cockpit.dev2.pgs.bexio.com
+cockpit.dev21828.bru.dev.bexio.com
 cockpit.dev3.pgs.bexio.com
 cockpit.dev4.pgs.bexio.com
 cockpit.dev5.pgs.bexio.com
@@ -2381,6 +2438,7 @@ cockpit.fischi.bru.dev.bexio.com
 cockpit.fischi2.bru.dev.bexio.com
 cockpit.fischi3.bru.dev.bexio.com
 cockpit.fischi4.bru.dev.bexio.com
+cockpit.fixreset.bru.dev.bexio.com
 cockpit.fixture.bru.dev.bexio.com
 cockpit.fixture3.bru.dev.bexio.com
 cockpit.fixture5.bru.dev.bexio.com
@@ -2430,6 +2488,7 @@ cockpit.mihaela.bru.dev.bexio.com
 cockpit.milan.bru.dev.bexio.com
 cockpit.mmangpoc.bru.dev.bexio.com
 cockpit.mmbbmi.bru.dev.bexio.com
+cockpit.mmcronjob.zrh.dev.bexio.com
 cockpit.mmgon.bru.dev.bexio.com
 cockpit.mobile-dev.bexio-dev.gcp.bexio.com
 cockpit.mongo-5.bexio-dev.gcp.bexio.com
@@ -2469,6 +2528,7 @@ cockpit.phunziker-zrh.zrh.dev.bexio.com
 cockpit.phunziker.bru.dev.bexio.com
 cockpit.phunziker0808.bru.dev.bexio.com
 cockpit.phunzikerenhance.bru.dev.bexio.com
+cockpit.phz-test.zrh.dev.bexio.com
 cockpit.pizza.bru.dev.bexio.com
 cockpit.platform-dev.bexio-dev.gcp.bexio.com
 cockpit.platform.bru.dev.bexio.com
@@ -2482,6 +2542,7 @@ cockpit.qa-env.bexio-dev.gcp.bexio.com
 cockpit.qa-fixtures.bru.dev.bexio.com
 cockpit.qa-team.bexio-dev.gcp.bexio.com
 cockpit.qa-test.bexio-dev.gcp.bexio.com
+cockpit.qa-workshop.bru.dev.bexio.com
 cockpit.qa.pgs.bexio.com
 cockpit.qa2.pgs.bexio.com
 cockpit.qa3.pgs.bexio.com
@@ -2525,6 +2586,7 @@ cockpit.second-level-2.bexio-dev.gcp.bexio.com
 cockpit.second-level-3.bexio-dev.gcp.bexio.com
 cockpit.sedw.bru.dev.bexio.com
 cockpit.sidevault.bru.dev.bexio.com
+cockpit.spider.bru.dev.bexio.com
 cockpit.sre-10527.bexio-dev.gcp.bexio.com
 cockpit.sre-11178.bexio-dev.gcp.bexio.com
 cockpit.sre-accounting.bexio-dev.gcp.bexio.com
@@ -2652,6 +2714,7 @@ db-admin.bogdan-dev.bexio-dev.gcp.bexio.com
 db-admin.bogdan.bru.dev.bexio.com
 db-admin.branko.bru.dev.bexio.com
 db-admin.c-cris.cmh.dev.bexio.com
+db-admin.c-fid-2.bru.dev.bexio.com
 db-admin.c-fid1.cmh.dev.bexio.com
 db-admin.c-plt2.cmh.dev.bexio.com
 db-admin.calendula.bru.dev.bexio.com
@@ -2701,6 +2764,7 @@ db-admin.dev18531.bru.dev.bexio.com
 db-admin.dev18643f.bru.dev.bexio.com
 db-admin.dev19251.bru.dev.bexio.com
 db-admin.dev2.pgs.bexio.com
+db-admin.dev21828.bru.dev.bexio.com
 db-admin.dev3.pgs.bexio.com
 db-admin.dev4.pgs.bexio.com
 db-admin.dev5.pgs.bexio.com
@@ -2740,6 +2804,7 @@ db-admin.fischi.bru.dev.bexio.com
 db-admin.fischi2.bru.dev.bexio.com
 db-admin.fischi3.bru.dev.bexio.com
 db-admin.fischi4.bru.dev.bexio.com
+db-admin.fixreset.bru.dev.bexio.com
 db-admin.fixture.bru.dev.bexio.com
 db-admin.fixture3.bru.dev.bexio.com
 db-admin.fixture5.bru.dev.bexio.com
@@ -2795,6 +2860,7 @@ db-admin.mihaela.bru.dev.bexio.com
 db-admin.milan.bru.dev.bexio.com
 db-admin.mmangpoc.bru.dev.bexio.com
 db-admin.mmbbmi.bru.dev.bexio.com
+db-admin.mmcronjob.zrh.dev.bexio.com
 db-admin.mmgon.bru.dev.bexio.com
 db-admin.mobile-dev.bexio-dev.gcp.bexio.com
 db-admin.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -2844,6 +2910,7 @@ db-admin.phunziker-zrh.zrh.dev.bexio.com
 db-admin.phunziker.bru.dev.bexio.com
 db-admin.phunziker0808.bru.dev.bexio.com
 db-admin.phunzikerenhance.bru.dev.bexio.com
+db-admin.phz-test.zrh.dev.bexio.com
 db-admin.pizza.bru.dev.bexio.com
 db-admin.platform-dev.bexio-dev.gcp.bexio.com
 db-admin.platform.bru.dev.bexio.com
@@ -2856,6 +2923,7 @@ db-admin.qa-bmi.bru.dev.bexio.com
 db-admin.qa-fixtures.bru.dev.bexio.com
 db-admin.qa-team.bexio-dev.gcp.bexio.com
 db-admin.qa-test.bexio-dev.gcp.bexio.com
+db-admin.qa-workshop.bru.dev.bexio.com
 db-admin.qa.pgs.bexio.com
 db-admin.qa2.pgs.bexio.com
 db-admin.qa3.pgs.bexio.com
@@ -2898,6 +2966,7 @@ db-admin.second-level-2.bexio-dev.gcp.bexio.com
 db-admin.second-level-3.bexio-dev.gcp.bexio.com
 db-admin.sedw.bru.dev.bexio.com
 db-admin.sidevault.bru.dev.bexio.com
+db-admin.spider.bru.dev.bexio.com
 db-admin.sre-10527.bexio-dev.gcp.bexio.com
 db-admin.sre-11178.bexio-dev.gcp.bexio.com
 db-admin.sre-5167.bexio-dev.gcp.bexio.com
@@ -3076,6 +3145,7 @@ developer.bmi-purchase.bexio-dev.gcp.bexio.com
 developer.bogdan.bru.dev.bexio.com
 developer.branko.bru.dev.bexio.com
 developer.c-cris.cmh.dev.bexio.com
+developer.c-fid-2.bru.dev.bexio.com
 developer.c-fid1.cmh.dev.bexio.com
 developer.c-plt2.cmh.dev.bexio.com
 developer.calendula.bru.dev.bexio.com
@@ -3122,6 +3192,7 @@ developer.dev17978.bru.dev.bexio.com
 developer.dev18531.bru.dev.bexio.com
 developer.dev18643f.bru.dev.bexio.com
 developer.dev19251.bru.dev.bexio.com
+developer.dev21828.bru.dev.bexio.com
 developer.devmonica.bru.dev.bexio.com
 developer.devportal.bru.dev.bexio.com
 developer.djaleksic.bexio-dev.gcp.bexio.com
@@ -3159,6 +3230,7 @@ developer.fischi.bru.dev.bexio.com
 developer.fischi2.bru.dev.bexio.com
 developer.fischi3.bru.dev.bexio.com
 developer.fischi4.bru.dev.bexio.com
+developer.fixreset.bru.dev.bexio.com
 developer.fixture.bru.dev.bexio.com
 developer.fixture3.bru.dev.bexio.com
 developer.fixture5.bru.dev.bexio.com
@@ -3215,6 +3287,7 @@ developer.mihaela.bru.dev.bexio.com
 developer.milan.bru.dev.bexio.com
 developer.mmangpoc.bru.dev.bexio.com
 developer.mmbbmi.bru.dev.bexio.com
+developer.mmcronjob.zrh.dev.bexio.com
 developer.mmgon.bru.dev.bexio.com
 developer.mobile-dev.bexio-dev.gcp.bexio.com
 developer.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -3264,6 +3337,7 @@ developer.phunziker-zrh.zrh.dev.bexio.com
 developer.phunziker.bru.dev.bexio.com
 developer.phunziker0808.bru.dev.bexio.com
 developer.phunzikerenhance.bru.dev.bexio.com
+developer.phz-test.zrh.dev.bexio.com
 developer.pizza.bru.dev.bexio.com
 developer.platform-dev.bexio-dev.gcp.bexio.com
 developer.platform.bru.dev.bexio.com
@@ -3277,6 +3351,7 @@ developer.qa-env.bexio-dev.gcp.bexio.com
 developer.qa-fixtures.bru.dev.bexio.com
 developer.qa-team.bexio-dev.gcp.bexio.com
 developer.qa-test.bexio-dev.gcp.bexio.com
+developer.qa-workshop.bru.dev.bexio.com
 developer.radu-murzea.bexio-dev.gcp.bexio.com
 developer.radumurzea.bexio-dev.gcp.bexio.com
 developer.radumurzea.bru.dev.bexio.com
@@ -3314,6 +3389,7 @@ developer.second-level-2.bexio-dev.gcp.bexio.com
 developer.second-level-3.bexio-dev.gcp.bexio.com
 developer.sedw.bru.dev.bexio.com
 developer.sidevault.bru.dev.bexio.com
+developer.spider.bru.dev.bexio.com
 developer.sre-10527.bexio-dev.gcp.bexio.com
 developer.sre-11178.bexio-dev.gcp.bexio.com
 developer.sre-5167.bexio-dev.gcp.bexio.com
@@ -3682,6 +3758,7 @@ documentdesigner.bogdan-dev.bexio-dev.gcp.bexio.com
 documentdesigner.bogdan.bru.dev.bexio.com
 documentdesigner.branko.bru.dev.bexio.com
 documentdesigner.c-cris.cmh.dev.bexio.com
+documentdesigner.c-fid-2.bru.dev.bexio.com
 documentdesigner.c-fid1.cmh.dev.bexio.com
 documentdesigner.c-plt2.cmh.dev.bexio.com
 documentdesigner.calendula.bru.dev.bexio.com
@@ -3731,6 +3808,7 @@ documentdesigner.dev18531.bru.dev.bexio.com
 documentdesigner.dev18643f.bru.dev.bexio.com
 documentdesigner.dev19251.bru.dev.bexio.com
 documentdesigner.dev2.pgs.bexio.com
+documentdesigner.dev21828.bru.dev.bexio.com
 documentdesigner.dev3.pgs.bexio.com
 documentdesigner.dev4.pgs.bexio.com
 documentdesigner.dev5.pgs.bexio.com
@@ -3770,6 +3848,7 @@ documentdesigner.fischi.bru.dev.bexio.com
 documentdesigner.fischi2.bru.dev.bexio.com
 documentdesigner.fischi3.bru.dev.bexio.com
 documentdesigner.fischi4.bru.dev.bexio.com
+documentdesigner.fixreset.bru.dev.bexio.com
 documentdesigner.fixture.bru.dev.bexio.com
 documentdesigner.fixture3.bru.dev.bexio.com
 documentdesigner.fixture5.bru.dev.bexio.com
@@ -3824,6 +3903,7 @@ documentdesigner.mihaela.bru.dev.bexio.com
 documentdesigner.milan.bru.dev.bexio.com
 documentdesigner.mmangpoc.bru.dev.bexio.com
 documentdesigner.mmbbmi.bru.dev.bexio.com
+documentdesigner.mmcronjob.zrh.dev.bexio.com
 documentdesigner.mmgon.bru.dev.bexio.com
 documentdesigner.mobile-dev.bexio-dev.gcp.bexio.com
 documentdesigner.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -3873,6 +3953,7 @@ documentdesigner.phunziker-zrh.zrh.dev.bexio.com
 documentdesigner.phunziker.bru.dev.bexio.com
 documentdesigner.phunziker0808.bru.dev.bexio.com
 documentdesigner.phunzikerenhance.bru.dev.bexio.com
+documentdesigner.phz-test.zrh.dev.bexio.com
 documentdesigner.pizza.bru.dev.bexio.com
 documentdesigner.platform-dev.bexio-dev.gcp.bexio.com
 documentdesigner.platform.bru.dev.bexio.com
@@ -3885,6 +3966,7 @@ documentdesigner.qa-bmi.bru.dev.bexio.com
 documentdesigner.qa-fixtures.bru.dev.bexio.com
 documentdesigner.qa-team.bexio-dev.gcp.bexio.com
 documentdesigner.qa-test.bexio-dev.gcp.bexio.com
+documentdesigner.qa-workshop.bru.dev.bexio.com
 documentdesigner.qa.pgs.bexio.com
 documentdesigner.qa2.pgs.bexio.com
 documentdesigner.qa3.pgs.bexio.com
@@ -3927,6 +4009,7 @@ documentdesigner.second-level-2.bexio-dev.gcp.bexio.com
 documentdesigner.second-level-3.bexio-dev.gcp.bexio.com
 documentdesigner.sedw.bru.dev.bexio.com
 documentdesigner.sidevault.bru.dev.bexio.com
+documentdesigner.spider.bru.dev.bexio.com
 documentdesigner.sre-10527.bexio-dev.gcp.bexio.com
 documentdesigner.sre-11178.bexio-dev.gcp.bexio.com
 documentdesigner.sre-5167.bexio-dev.gcp.bexio.com
@@ -4097,6 +4180,7 @@ idp.bogdan-dev.bexio-dev.gcp.bexio.com
 idp.bogdan.bru.dev.bexio.com
 idp.branko.bru.dev.bexio.com
 idp.c-cris.cmh.dev.bexio.com
+idp.c-fid-2.bru.dev.bexio.com
 idp.c-fid1.cmh.dev.bexio.com
 idp.c-plt2.cmh.dev.bexio.com
 idp.calendula.bru.dev.bexio.com
@@ -4147,6 +4231,7 @@ idp.dev18531.bru.dev.bexio.com
 idp.dev18643f.bru.dev.bexio.com
 idp.dev19251.bru.dev.bexio.com
 idp.dev2.pgs.bexio.com
+idp.dev21828.bru.dev.bexio.com
 idp.dev3.pgs.bexio.com
 idp.dev4.pgs.bexio.com
 idp.dev5.pgs.bexio.com
@@ -4187,6 +4272,7 @@ idp.fischi.bru.dev.bexio.com
 idp.fischi2.bru.dev.bexio.com
 idp.fischi3.bru.dev.bexio.com
 idp.fischi4.bru.dev.bexio.com
+idp.fixreset.bru.dev.bexio.com
 idp.fixture.bru.dev.bexio.com
 idp.fixture3.bru.dev.bexio.com
 idp.fixture5.bru.dev.bexio.com
@@ -4245,6 +4331,7 @@ idp.mihaela.bru.dev.bexio.com
 idp.milan.bru.dev.bexio.com
 idp.mmangpoc.bru.dev.bexio.com
 idp.mmbbmi.bru.dev.bexio.com
+idp.mmcronjob.zrh.dev.bexio.com
 idp.mmgon.bru.dev.bexio.com
 idp.mobile-dev.bexio-dev.gcp.bexio.com
 idp.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -4294,6 +4381,7 @@ idp.phunziker-zrh.zrh.dev.bexio.com
 idp.phunziker.bru.dev.bexio.com
 idp.phunziker0808.bru.dev.bexio.com
 idp.phunzikerenhance.bru.dev.bexio.com
+idp.phz-test.zrh.dev.bexio.com
 idp.pizza.bru.dev.bexio.com
 idp.platform-dev.bexio-dev.gcp.bexio.com
 idp.platform.bru.dev.bexio.com
@@ -4306,6 +4394,7 @@ idp.qa-bmi.bru.dev.bexio.com
 idp.qa-env.bexio-dev.gcp.bexio.com
 idp.qa-fixtures.bru.dev.bexio.com
 idp.qa-team.bexio-dev.gcp.bexio.com
+idp.qa-workshop.bru.dev.bexio.com
 idp.qa.pgs.bexio.com
 idp.qa2.pgs.bexio.com
 idp.qa3.pgs.bexio.com
@@ -4348,6 +4437,7 @@ idp.second-level-2.bexio-dev.gcp.bexio.com
 idp.second-level-3.bexio-dev.gcp.bexio.com
 idp.sedw.bru.dev.bexio.com
 idp.sidevault.bru.dev.bexio.com
+idp.spider.bru.dev.bexio.com
 idp.sre-10527.bexio-dev.gcp.bexio.com
 idp.sre-11178.bexio-dev.gcp.bexio.com
 idp.sre-5167.bexio-dev.gcp.bexio.com
@@ -4467,6 +4557,7 @@ indagia.bmi-purchase-fe-3.bexio-dev.gcp.bexio.com
 indagia.bogdan.bru.dev.bexio.com
 indagia.branko.bru.dev.bexio.com
 indagia.c-cris.cmh.dev.bexio.com
+indagia.c-fid-2.bru.dev.bexio.com
 indagia.c-fid1.cmh.dev.bexio.com
 indagia.c-plt2.cmh.dev.bexio.com
 indagia.calendula.bru.dev.bexio.com
@@ -4509,6 +4600,7 @@ indagia.dev17978.bru.dev.bexio.com
 indagia.dev18531.bru.dev.bexio.com
 indagia.dev18643f.bru.dev.bexio.com
 indagia.dev19251.bru.dev.bexio.com
+indagia.dev21828.bru.dev.bexio.com
 indagia.devmonica.bru.dev.bexio.com
 indagia.devportal.bru.dev.bexio.com
 indagia.djm.bru.dev.bexio.com
@@ -4533,6 +4625,7 @@ indagia.fischi.bru.dev.bexio.com
 indagia.fischi2.bru.dev.bexio.com
 indagia.fischi3.bru.dev.bexio.com
 indagia.fischi4.bru.dev.bexio.com
+indagia.fixreset.bru.dev.bexio.com
 indagia.fixture.bru.dev.bexio.com
 indagia.fixture3.bru.dev.bexio.com
 indagia.fixture5.bru.dev.bexio.com
@@ -4571,6 +4664,7 @@ indagia.mihaela.bru.dev.bexio.com
 indagia.milan.bru.dev.bexio.com
 indagia.mmangpoc.bru.dev.bexio.com
 indagia.mmbbmi.bru.dev.bexio.com
+indagia.mmcronjob.zrh.dev.bexio.com
 indagia.mmgon.bru.dev.bexio.com
 indagia.mongo-5.bexio-dev.gcp.bexio.com
 indagia.mongo5upgrade.bru.dev.bexio.com
@@ -4607,6 +4701,7 @@ indagia.phunziker-zrh.zrh.dev.bexio.com
 indagia.phunziker.bru.dev.bexio.com
 indagia.phunziker0808.bru.dev.bexio.com
 indagia.phunzikerenhance.bru.dev.bexio.com
+indagia.phz-test.zrh.dev.bexio.com
 indagia.pizza.bru.dev.bexio.com
 indagia.platform-dev.bexio-dev.gcp.bexio.com
 indagia.platform.bru.dev.bexio.com
@@ -4620,6 +4715,7 @@ indagia.qa-env.bexio-dev.gcp.bexio.com
 indagia.qa-fixtures.bru.dev.bexio.com
 indagia.qa-team.bexio-dev.gcp.bexio.com
 indagia.qa-test.bexio-dev.gcp.bexio.com
+indagia.qa-workshop.bru.dev.bexio.com
 indagia.radumurzea.bru.dev.bexio.com
 indagia.rajkula.bru.dev.bexio.com
 indagia.rajpix.bru.dev.bexio.com
@@ -4643,6 +4739,7 @@ indagia.schaufi.bru.dev.bexio.com
 indagia.second-level-1.bexio-dev.gcp.bexio.com
 indagia.sedw.bru.dev.bexio.com
 indagia.sidevault.bru.dev.bexio.com
+indagia.spider.bru.dev.bexio.com
 indagia.sre-11178.bexio-dev.gcp.bexio.com
 indagia.sre-dev.bexio-dev.gcp.bexio.com
 indagia.sre-troubleshoot.bru.dev.bexio.com
@@ -4766,6 +4863,7 @@ lead.bogdan-dev.bexio-dev.gcp.bexio.com
 lead.bogdan.bru.dev.bexio.com
 lead.branko.bru.dev.bexio.com
 lead.c-cris.cmh.dev.bexio.com
+lead.c-fid-2.bru.dev.bexio.com
 lead.c-fid1.cmh.dev.bexio.com
 lead.c-plt2.cmh.dev.bexio.com
 lead.calendula.bru.dev.bexio.com
@@ -4908,6 +5006,7 @@ lead.mihaela.bru.dev.bexio.com
 lead.milan.bru.dev.bexio.com
 lead.mmangpoc.bru.dev.bexio.com
 lead.mmbbmi.bru.dev.bexio.com
+lead.mmcronjob.zrh.dev.bexio.com
 lead.mmgon.bru.dev.bexio.com
 lead.mobile-dev.bexio-dev.gcp.bexio.com
 lead.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -4969,6 +5068,7 @@ lead.qa-bmi.bru.dev.bexio.com
 lead.qa-fixtures.bru.dev.bexio.com
 lead.qa-team.bexio-dev.gcp.bexio.com
 lead.qa-test.bexio-dev.gcp.bexio.com
+lead.qa-workshop.bru.dev.bexio.com
 lead.qa.pgs.bexio.com
 lead.qa2.pgs.bexio.com
 lead.qa3.pgs.bexio.com
@@ -5011,6 +5111,7 @@ lead.second-level-2.bexio-dev.gcp.bexio.com
 lead.second-level-3.bexio-dev.gcp.bexio.com
 lead.sedw.bru.dev.bexio.com
 lead.sidevault.bru.dev.bexio.com
+lead.spider.bru.dev.bexio.com
 lead.sre-10527.bexio-dev.gcp.bexio.com
 lead.sre-11178.bexio-dev.gcp.bexio.com
 lead.sre-5167.bexio-dev.gcp.bexio.com
@@ -5154,6 +5255,7 @@ logout.bmi-purchase.bexio-dev.gcp.bexio.com
 logout.bogdan.bru.dev.bexio.com
 logout.branko.bru.dev.bexio.com
 logout.c-cris.cmh.dev.bexio.com
+logout.c-fid-2.bru.dev.bexio.com
 logout.c-fid1.cmh.dev.bexio.com
 logout.c-plt2.cmh.dev.bexio.com
 logout.calendula.bru.dev.bexio.com
@@ -5200,6 +5302,7 @@ logout.dev17978.bru.dev.bexio.com
 logout.dev18531.bru.dev.bexio.com
 logout.dev18643f.bru.dev.bexio.com
 logout.dev19251.bru.dev.bexio.com
+logout.dev21828.bru.dev.bexio.com
 logout.devmonica.bru.dev.bexio.com
 logout.devportal.bru.dev.bexio.com
 logout.djaleksic.bexio-dev.gcp.bexio.com
@@ -5237,6 +5340,7 @@ logout.fischi.bru.dev.bexio.com
 logout.fischi2.bru.dev.bexio.com
 logout.fischi3.bru.dev.bexio.com
 logout.fischi4.bru.dev.bexio.com
+logout.fixreset.bru.dev.bexio.com
 logout.fixture.bru.dev.bexio.com
 logout.fixture3.bru.dev.bexio.com
 logout.fixture5.bru.dev.bexio.com
@@ -5294,6 +5398,7 @@ logout.mihaela.bru.dev.bexio.com
 logout.milan.bru.dev.bexio.com
 logout.mmangpoc.bru.dev.bexio.com
 logout.mmbbmi.bru.dev.bexio.com
+logout.mmcronjob.zrh.dev.bexio.com
 logout.mmgon.bru.dev.bexio.com
 logout.mobile-dev.bexio-dev.gcp.bexio.com
 logout.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -5343,6 +5448,7 @@ logout.phunziker-zrh.zrh.dev.bexio.com
 logout.phunziker.bru.dev.bexio.com
 logout.phunziker0808.bru.dev.bexio.com
 logout.phunzikerenhance.bru.dev.bexio.com
+logout.phz-test.zrh.dev.bexio.com
 logout.pizza.bru.dev.bexio.com
 logout.platform-dev.bexio-dev.gcp.bexio.com
 logout.platform.bru.dev.bexio.com
@@ -5357,6 +5463,7 @@ logout.qa-fixtures.bru.dev.bexio.com
 logout.qa-mi.bexio-dev.gcp.bexio.com
 logout.qa-team.bexio-dev.gcp.bexio.com
 logout.qa-test.bexio-dev.gcp.bexio.com
+logout.qa-workshop.bru.dev.bexio.com
 logout.qa4.pgs.bexio.com
 logout.qa6.pgs.bexio.com
 logout.radu-murzea.bexio-dev.gcp.bexio.com
@@ -5396,6 +5503,7 @@ logout.second-level-2.bexio-dev.gcp.bexio.com
 logout.second-level-3.bexio-dev.gcp.bexio.com
 logout.sedw.bru.dev.bexio.com
 logout.sidevault.bru.dev.bexio.com
+logout.spider.bru.dev.bexio.com
 logout.sre-10527.bexio-dev.gcp.bexio.com
 logout.sre-11178.bexio-dev.gcp.bexio.com
 logout.sre-5167.bexio-dev.gcp.bexio.com
@@ -5532,6 +5640,7 @@ mail.bmiintegrations.bexio-dev.gcp.bexio.com
 mail.bogdan-dev.bexio-dev.gcp.bexio.com
 mail.bogdan.bru.dev.bexio.com
 mail.c-cris.cmh.dev.bexio.com
+mail.c-fid-2.bru.dev.bexio.com
 mail.c-fid1.cmh.dev.bexio.com
 mail.c-plt2.cmh.dev.bexio.com
 mail.calendula.bru.dev.bexio.com
@@ -5579,6 +5688,7 @@ mail.dev18531.bru.dev.bexio.com
 mail.dev18643f.bru.dev.bexio.com
 mail.dev19251.bru.dev.bexio.com
 mail.dev2.pgs.bexio.com
+mail.dev21828.bru.dev.bexio.com
 mail.dev3.pgs.bexio.com
 mail.dev4.pgs.bexio.com
 mail.dev5.pgs.bexio.com
@@ -5615,6 +5725,7 @@ mail.fiduciary2.bru.dev.bexio.com
 mail.fischi2.bru.dev.bexio.com
 mail.fischi3.bru.dev.bexio.com
 mail.fischi4.bru.dev.bexio.com
+mail.fixreset.bru.dev.bexio.com
 mail.fixture.bru.dev.bexio.com
 mail.fixture3.bru.dev.bexio.com
 mail.fixture5.bru.dev.bexio.com
@@ -5671,6 +5782,7 @@ mail.mihaeladev.bexio-dev.gcp.bexio.com
 mail.milan.bru.dev.bexio.com
 mail.mmangpoc.bru.dev.bexio.com
 mail.mmbbmi.bru.dev.bexio.com
+mail.mmcronjob.zrh.dev.bexio.com
 mail.mobile-dev.bexio-dev.gcp.bexio.com
 mail.mobile-dev2.bexio-dev.gcp.bexio.com
 mail.mongo-5.bexio-dev.gcp.bexio.com
@@ -5720,6 +5832,7 @@ mail.phunziker-test.bexio-dev.gcp.bexio.com
 mail.phunziker-test2.bexio-dev.gcp.bexio.com
 mail.phunziker0808.bru.dev.bexio.com
 mail.phunzikerenhance.bru.dev.bexio.com
+mail.phz-test.zrh.dev.bexio.com
 mail.pizza.bru.dev.bexio.com
 mail.platform-dev.bexio-dev.gcp.bexio.com
 mail.platform.bru.dev.bexio.com
@@ -5734,6 +5847,7 @@ mail.qa-env.bexio-dev.gcp.bexio.com
 mail.qa-fixtures.bru.dev.bexio.com
 mail.qa-team.bexio-dev.gcp.bexio.com
 mail.qa-test.bexio-dev.gcp.bexio.com
+mail.qa-workshop.bru.dev.bexio.com
 mail.qa.pgs.bexio.com
 mail.qa2.pgs.bexio.com
 mail.qa3.pgs.bexio.com
@@ -5776,6 +5890,7 @@ mail.second-level-2.bexio-dev.gcp.bexio.com
 mail.second-level-3.bexio-dev.gcp.bexio.com
 mail.sedw.bru.dev.bexio.com
 mail.sidevault.bru.dev.bexio.com
+mail.spider.bru.dev.bexio.com
 mail.sre-10527.bexio-dev.gcp.bexio.com
 mail.sre-11178.bexio-dev.gcp.bexio.com
 mail.sre-5167.bexio-dev.gcp.bexio.com
@@ -5932,6 +6047,7 @@ my.bogdan-dev.bexio-dev.gcp.bexio.com
 my.bogdan.bru.dev.bexio.com
 my.branko.bru.dev.bexio.com
 my.c-cris.cmh.dev.bexio.com
+my.c-fid-2.bru.dev.bexio.com
 my.c-fid1.cmh.dev.bexio.com
 my.c-plt2.cmh.dev.bexio.com
 my.calendula.bru.dev.bexio.com
@@ -5982,6 +6098,7 @@ my.dev18643.bru.dev.bexio.com
 my.dev18643f.bru.dev.bexio.com
 my.dev19251.bru.dev.bexio.com
 my.dev2.pgs.bexio.com
+my.dev21828.bru.dev.bexio.com
 my.dev3.pgs.bexio.com
 my.dev4.pgs.bexio.com
 my.dev5.pgs.bexio.com
@@ -6021,6 +6138,7 @@ my.fischi.bru.dev.bexio.com
 my.fischi2.bru.dev.bexio.com
 my.fischi3.bru.dev.bexio.com
 my.fischi4.bru.dev.bexio.com
+my.fixreset.bru.dev.bexio.com
 my.fixture.bru.dev.bexio.com
 my.fixture3.bru.dev.bexio.com
 my.fixture5.bru.dev.bexio.com
@@ -6077,6 +6195,7 @@ my.mihaela.bru.dev.bexio.com
 my.milan.bru.dev.bexio.com
 my.mmangpoc.bru.dev.bexio.com
 my.mmbbmi.bru.dev.bexio.com
+my.mmcronjob.zrh.dev.bexio.com
 my.mmgon.bru.dev.bexio.com
 my.mobile-dev.bexio-dev.gcp.bexio.com
 my.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -6126,6 +6245,7 @@ my.phunziker-zrh.zrh.dev.bexio.com
 my.phunziker.bru.dev.bexio.com
 my.phunziker0808.bru.dev.bexio.com
 my.phunzikerenhance.bru.dev.bexio.com
+my.phz-test.zrh.dev.bexio.com
 my.pizza.bru.dev.bexio.com
 my.platform-dev.bexio-dev.gcp.bexio.com
 my.platform.bru.dev.bexio.com
@@ -6138,6 +6258,7 @@ my.qa-bmi.bru.dev.bexio.com
 my.qa-fixtures.bru.dev.bexio.com
 my.qa-team.bexio-dev.gcp.bexio.com
 my.qa-test.bexio-dev.gcp.bexio.com
+my.qa-workshop.bru.dev.bexio.com
 my.qa.pgs.bexio.com
 my.qa2.pgs.bexio.com
 my.qa3.pgs.bexio.com
@@ -6181,6 +6302,7 @@ my.second-level-2.bexio-dev.gcp.bexio.com
 my.second-level-3.bexio-dev.gcp.bexio.com
 my.sedw.bru.dev.bexio.com
 my.sidevault.bru.dev.bexio.com
+my.spider.bru.dev.bexio.com
 my.sre-10527.bexio-dev.gcp.bexio.com
 my.sre-11178.bexio-dev.gcp.bexio.com
 my.sre-5167.bexio-dev.gcp.bexio.com
@@ -6321,6 +6443,7 @@ network.bogdan-dev.bexio-dev.gcp.bexio.com
 network.bogdan.bru.dev.bexio.com
 network.branko.bru.dev.bexio.com
 network.c-cris.cmh.dev.bexio.com
+network.c-fid-2.bru.dev.bexio.com
 network.c-fid1.cmh.dev.bexio.com
 network.c-plt2.cmh.dev.bexio.com
 network.calendula.bru.dev.bexio.com
@@ -6370,6 +6493,7 @@ network.dev18531.bru.dev.bexio.com
 network.dev18643f.bru.dev.bexio.com
 network.dev19251.bru.dev.bexio.com
 network.dev2.pgs.bexio.com
+network.dev21828.bru.dev.bexio.com
 network.dev3.pgs.bexio.com
 network.dev4.pgs.bexio.com
 network.dev5.pgs.bexio.com
@@ -6409,6 +6533,7 @@ network.fischi.bru.dev.bexio.com
 network.fischi2.bru.dev.bexio.com
 network.fischi3.bru.dev.bexio.com
 network.fischi4.bru.dev.bexio.com
+network.fixreset.bru.dev.bexio.com
 network.fixture.bru.dev.bexio.com
 network.fixture3.bru.dev.bexio.com
 network.fixture5.bru.dev.bexio.com
@@ -6464,6 +6589,7 @@ network.mihaela.bru.dev.bexio.com
 network.milan.bru.dev.bexio.com
 network.mmangpoc.bru.dev.bexio.com
 network.mmbbmi.bru.dev.bexio.com
+network.mmcronjob.zrh.dev.bexio.com
 network.mmgon.bru.dev.bexio.com
 network.mobile-dev.bexio-dev.gcp.bexio.com
 network.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -6513,6 +6639,7 @@ network.phunziker-zrh.zrh.dev.bexio.com
 network.phunziker.bru.dev.bexio.com
 network.phunziker0808.bru.dev.bexio.com
 network.phunzikerenhance.bru.dev.bexio.com
+network.phz-test.zrh.dev.bexio.com
 network.pizza.bru.dev.bexio.com
 network.platform-dev.bexio-dev.gcp.bexio.com
 network.platform.bru.dev.bexio.com
@@ -6525,6 +6652,7 @@ network.qa-bmi.bru.dev.bexio.com
 network.qa-fixtures.bru.dev.bexio.com
 network.qa-team.bexio-dev.gcp.bexio.com
 network.qa-test.bexio-dev.gcp.bexio.com
+network.qa-workshop.bru.dev.bexio.com
 network.qa.pgs.bexio.com
 network.qa2.pgs.bexio.com
 network.qa3.pgs.bexio.com
@@ -6567,6 +6695,7 @@ network.second-level-2.bexio-dev.gcp.bexio.com
 network.second-level-3.bexio-dev.gcp.bexio.com
 network.sedw.bru.dev.bexio.com
 network.sidevault.bru.dev.bexio.com
+network.spider.bru.dev.bexio.com
 network.sre-10527.bexio-dev.gcp.bexio.com
 network.sre-11178.bexio-dev.gcp.bexio.com
 network.sre-5167.bexio-dev.gcp.bexio.com
@@ -6708,6 +6837,7 @@ office.bogdan-dev.bexio-dev.gcp.bexio.com
 office.bogdan.bru.dev.bexio.com
 office.branko.bru.dev.bexio.com
 office.c-cris.cmh.dev.bexio.com
+office.c-fid-2.bru.dev.bexio.com
 office.c-fid1.cmh.dev.bexio.com
 office.c-plt2.cmh.dev.bexio.com
 office.calendula.bru.dev.bexio.com
@@ -6759,6 +6889,7 @@ office.dev18643.bru.dev.bexio.com
 office.dev18643f.bru.dev.bexio.com
 office.dev19251.bru.dev.bexio.com
 office.dev2.pgs.bexio.com
+office.dev21828.bru.dev.bexio.com
 office.dev3.pgs.bexio.com
 office.dev4.pgs.bexio.com
 office.dev5.pgs.bexio.com
@@ -6800,6 +6931,7 @@ office.fischi.bru.dev.bexio.com
 office.fischi2.bru.dev.bexio.com
 office.fischi3.bru.dev.bexio.com
 office.fischi4.bru.dev.bexio.com
+office.fixreset.bru.dev.bexio.com
 office.fixture.bru.dev.bexio.com
 office.fixture3.bru.dev.bexio.com
 office.fixture5.bru.dev.bexio.com
@@ -6860,6 +6992,7 @@ office.mihaela.bru.dev.bexio.com
 office.milan.bru.dev.bexio.com
 office.mmangpoc.bru.dev.bexio.com
 office.mmbbmi.bru.dev.bexio.com
+office.mmcronjob.zrh.dev.bexio.com
 office.mmgon.bru.dev.bexio.com
 office.mobile-dev.bexio-dev.gcp.bexio.com
 office.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -6909,6 +7042,7 @@ office.phunziker-zrh.zrh.dev.bexio.com
 office.phunziker.bru.dev.bexio.com
 office.phunziker0808.bru.dev.bexio.com
 office.phunzikerenhance.bru.dev.bexio.com
+office.phz-test.zrh.dev.bexio.com
 office.pizza.bru.dev.bexio.com
 office.platform-dev.bexio-dev.gcp.bexio.com
 office.platform.bru.dev.bexio.com
@@ -6922,6 +7056,7 @@ office.qa-env.bexio-dev.gcp.bexio.com
 office.qa-fixtures.bru.dev.bexio.com
 office.qa-team.bexio-dev.gcp.bexio.com
 office.qa-test.bexio-dev.gcp.bexio.com
+office.qa-workshop.bru.dev.bexio.com
 office.qa.pgs.bexio.com
 office.qa2.pgs.bexio.com
 office.qa3.pgs.bexio.com
@@ -6966,6 +7101,7 @@ office.second-level-2.bexio-dev.gcp.bexio.com
 office.second-level-3.bexio-dev.gcp.bexio.com
 office.sedw.bru.dev.bexio.com
 office.sidevault.bru.dev.bexio.com
+office.spider.bru.dev.bexio.com
 office.sre-10527.bexio-dev.gcp.bexio.com
 office.sre-11178.bexio-dev.gcp.bexio.com
 office.sre-5167.bexio-dev.gcp.bexio.com
@@ -7060,6 +7196,7 @@ payroll-next.bexio.com
 payroll-uat.bexio.com
 payroll-uat.dev.bexio.com
 payroll.bexio-demo.gcp.bexio.com
+payroll.bexio-preprod.gcp.bexio.com
 payroll.bexio-qa.gcp.bexio.com
 pgs.bexio.com
 portal.bexio.com
@@ -7117,6 +7254,7 @@ portal.bogdan-dev.bexio-dev.gcp.bexio.com
 portal.bogdan.bru.dev.bexio.com
 portal.branko.bru.dev.bexio.com
 portal.c-cris.cmh.dev.bexio.com
+portal.c-fid-2.bru.dev.bexio.com
 portal.c-fid1.cmh.dev.bexio.com
 portal.c-plt2.cmh.dev.bexio.com
 portal.calendula.bru.dev.bexio.com
@@ -7167,6 +7305,7 @@ portal.dev18643.bru.dev.bexio.com
 portal.dev18643f.bru.dev.bexio.com
 portal.dev19251.bru.dev.bexio.com
 portal.dev2.pgs.bexio.com
+portal.dev21828.bru.dev.bexio.com
 portal.dev3.pgs.bexio.com
 portal.dev4.pgs.bexio.com
 portal.dev5.pgs.bexio.com
@@ -7206,6 +7345,7 @@ portal.fischi.bru.dev.bexio.com
 portal.fischi2.bru.dev.bexio.com
 portal.fischi3.bru.dev.bexio.com
 portal.fischi4.bru.dev.bexio.com
+portal.fixreset.bru.dev.bexio.com
 portal.fixture.bru.dev.bexio.com
 portal.fixture3.bru.dev.bexio.com
 portal.fixture5.bru.dev.bexio.com
@@ -7261,6 +7401,7 @@ portal.mihaela.bru.dev.bexio.com
 portal.milan.bru.dev.bexio.com
 portal.mmangpoc.bru.dev.bexio.com
 portal.mmbbmi.bru.dev.bexio.com
+portal.mmcronjob.zrh.dev.bexio.com
 portal.mmgon.bru.dev.bexio.com
 portal.mobile-dev.bexio-dev.gcp.bexio.com
 portal.mobile-dev2.bexio-dev.gcp.bexio.com
@@ -7310,6 +7451,7 @@ portal.phunziker-zrh.zrh.dev.bexio.com
 portal.phunziker.bru.dev.bexio.com
 portal.phunziker0808.bru.dev.bexio.com
 portal.phunzikerenhance.bru.dev.bexio.com
+portal.phz-test.zrh.dev.bexio.com
 portal.pizza.bru.dev.bexio.com
 portal.platform-dev.bexio-dev.gcp.bexio.com
 portal.platform.bru.dev.bexio.com
@@ -7322,6 +7464,7 @@ portal.qa-bmi.bru.dev.bexio.com
 portal.qa-fixtures.bru.dev.bexio.com
 portal.qa-team.bexio-dev.gcp.bexio.com
 portal.qa-test.bexio-dev.gcp.bexio.com
+portal.qa-workshop.bru.dev.bexio.com
 portal.qa.pgs.bexio.com
 portal.qa2.pgs.bexio.com
 portal.qa3.pgs.bexio.com
@@ -7365,6 +7508,7 @@ portal.second-level-2.bexio-dev.gcp.bexio.com
 portal.second-level-3.bexio-dev.gcp.bexio.com
 portal.sedw.bru.dev.bexio.com
 portal.sidevault.bru.dev.bexio.com
+portal.spider.bru.dev.bexio.com
 portal.sre-10527.bexio-dev.gcp.bexio.com
 portal.sre-11178.bexio-dev.gcp.bexio.com
 portal.sre-5167.bexio-dev.gcp.bexio.com
@@ -7537,6 +7681,7 @@ static.bill.bru.dev.bexio.com
 static.bogdan.bru.dev.bexio.com
 static.branko.bru.dev.bexio.com
 static.c-cris.cmh.dev.bexio.com
+static.c-fid-2.bru.dev.bexio.com
 static.c-fid1.cmh.dev.bexio.com
 static.c-plt2.cmh.dev.bexio.com
 static.calendula.bru.dev.bexio.com
@@ -7579,6 +7724,7 @@ static.dev17978.bru.dev.bexio.com
 static.dev18531.bru.dev.bexio.com
 static.dev18643f.bru.dev.bexio.com
 static.dev19251.bru.dev.bexio.com
+static.dev21828.bru.dev.bexio.com
 static.devmonica.bru.dev.bexio.com
 static.devportal.bru.dev.bexio.com
 static.djm.bru.dev.bexio.com
@@ -7602,6 +7748,7 @@ static.fischi.bru.dev.bexio.com
 static.fischi2.bru.dev.bexio.com
 static.fischi3.bru.dev.bexio.com
 static.fischi4.bru.dev.bexio.com
+static.fixreset.bru.dev.bexio.com
 static.fixture.bru.dev.bexio.com
 static.fixture3.bru.dev.bexio.com
 static.fixture5.bru.dev.bexio.com
@@ -7637,6 +7784,7 @@ static.mihaela.bru.dev.bexio.com
 static.milan.bru.dev.bexio.com
 static.mmangpoc.bru.dev.bexio.com
 static.mmbbmi.bru.dev.bexio.com
+static.mmcronjob.zrh.dev.bexio.com
 static.mmgon.bru.dev.bexio.com
 static.mongo5upgrade.bru.dev.bexio.com
 static.mongo6.bru.dev.bexio.com
@@ -7668,6 +7816,7 @@ static.phunziker-zrh.zrh.dev.bexio.com
 static.phunziker.bru.dev.bexio.com
 static.phunziker0808.bru.dev.bexio.com
 static.phunzikerenhance.bru.dev.bexio.com
+static.phz-test.zrh.dev.bexio.com
 static.pizza.bru.dev.bexio.com
 static.platform.bru.dev.bexio.com
 static.popcorn.bru.dev.bexio.com
@@ -7676,6 +7825,7 @@ static.purchase-be.bru.dev.bexio.com
 static.purchase-fe.bru.dev.bexio.com
 static.qa-bmi.bru.dev.bexio.com
 static.qa-fixtures.bru.dev.bexio.com
+static.qa-workshop.bru.dev.bexio.com
 static.radumurzea.bru.dev.bexio.com
 static.rajkula.bru.dev.bexio.com
 static.rajpix.bru.dev.bexio.com
@@ -7696,6 +7846,7 @@ static.scala.bru.dev.bexio.com
 static.schaufi.bru.dev.bexio.com
 static.sedw.bru.dev.bexio.com
 static.sidevault.bru.dev.bexio.com
+static.spider.bru.dev.bexio.com
 static.sre-troubleshoot.bru.dev.bexio.com
 static.sre11704.bru.dev.bexio.com
 static.sre12483.bru.dev.bexio.com
@@ -7751,6 +7902,7 @@ static.zuora1.bru.dev.bexio.com
 static.zuora2.bru.dev.bexio.com
 static.zuora4.bru.dev.bexio.com
 stats.bexio.com
+status.it.bexio.com
 storybook.bexio.com
 storybook-dev.bexio.com
 storybook.bexio-dev.gcp.bexio.com
@@ -7797,6 +7949,7 @@ www.banking.bexio.com
 www.bill.bru.dev.bexio.com
 www.bogdan.bru.dev.bexio.com
 www.c-cris.cmh.dev.bexio.com
+www.c-fid-2.bru.dev.bexio.com
 www.c-fid1.cmh.dev.bexio.com
 www.c-plt2.cmh.dev.bexio.com
 www.cri04.bru.dev.bexio.com
@@ -7808,9 +7961,11 @@ www.dev-18260.bru.dev.bexio.com
 www.dev-18730.bru.dev.bexio.com
 www.dev-19596.bru.dev.bexio.com
 www.dev18531.bru.dev.bexio.com
+www.dev21828.bru.dev.bexio.com
 www.djm.bru.dev.bexio.com
 www.fetchlogic.bru.dev.bexio.com
 www.fiduciary.bru.dev.bexio.com
+www.fixreset.bru.dev.bexio.com
 www.gambiarra.bru.dev.bexio.com
 www.gcp.bexio.com
 www.guitar.bru.dev.bexio.com
@@ -7820,12 +7975,15 @@ www.leo-5.bru.dev.bexio.com
 www.leo-6.bru.dev.bexio.com
 www.mdobric.bru.dev.bexio.com
 www.milan.bru.dev.bexio.com
+www.mmcronjob.zrh.dev.bexio.com
 www.mongo7.bru.dev.bexio.com
 www.network.bexio.com
 www.oppa.cmh.dev.bexio.com
 www.payments-qa.bru.dev.bexio.com
+www.phz-test.zrh.dev.bexio.com
 www.purchase-be.bru.dev.bexio.com
 www.purchase-fe.bru.dev.bexio.com
+www.qa-workshop.bru.dev.bexio.com
 www.radumurzea.bru.dev.bexio.com
 www.rajkula.bru.dev.bexio.com
 www.ref-vault.bru.dev.bexio.com
@@ -7835,6 +7993,7 @@ www.sales-5.bru.dev.bexio.com
 www.sales-6.bru.dev.bexio.com
 www.scala.bru.dev.bexio.com
 www.sidevault.bru.dev.bexio.com
+www.spider.bru.dev.bexio.com
 www.sre12483.bru.dev.bexio.com
 www.staging.bexio.com
 www.subscription-team-dev.bru.dev.bexio.com
@@ -7857,3 +8016,5 @@ zccyzb.zrh.dev.bexio.com
 zendesk1.bexio.com
 zendesk2.bexio.com
 zendesk3.bexio.com
+zendesk4.bexio.com
+zuora-reconciliation.it.bexio.com

@@ -1,3 +1,4 @@
+.ternoa.network
 *.ternoa.network
 aggregated.ternoa.network
 alphanet.ternoa.network
@@ -13,6 +14,7 @@ awx.ternoa.network
 betanet.ternoa.network
 betanet-boot-0.ternoa.network
 betanet.faucet.ternoa.network
+bop.ternoa.network
 bridge.ternoa.network
 bridge-mainnet.zkevm.ternoa.network
 bridge.zkevm.ternoa.network
@@ -31,6 +33,7 @@ docs.ternoa.network
 e2e.ternoa.network
 elasticsearch.ternoa.network
 erc-association.ternoa.network
+events.ternoa.network
 explorer-api.zkevm.ternoa.network
 explorer-mainnet.zkevm.ternoa.network
 explorer.zkevm.ternoa.network
@@ -81,7 +84,9 @@ pools.ternoa.network
 public-ipfs-alphanet.ternoa.network
 public-ipfs-mainnet.ternoa.network
 repo.ternoa.network
+rpc-mainnet.zkevm.ternoa.network
 rpc.zkevm.ternoa.network
+safe.ternoa.network
 secret-node-dashboard.ternoa.network
 sequencer-mainnet.zkevm.ternoa.network
 smokeping.ternoa.network

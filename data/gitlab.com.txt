@@ -338,6 +338,7 @@ archives.docs.gitlab.com
 arewefastyet.gitlab.com
 assets.gitlab.com
 auth.gitlab.com
+auth.aws.gitlab.com
 auth.aws.staging.gitlab.com
 auth.gcp.gitlab.com
 auth.gcp.staging.gitlab.com
@@ -358,6 +359,7 @@ cdn.registry.pre.gitlab.com
 cdn.registry.staging.gitlab.com
 ce.gitlab.com
 cell-c01j2gdw0zfdafxr6.cells.gitlab.com
+cell-c01k35wpsh58x0j74g.cells.gitlab.com
 cells.gitlab.com
 centos-test.gitlab.com
 cert-test.staging.gitlab.com
@@ -430,6 +432,7 @@ go.link.pkghashbytes.gitlab.com
 gprd.gitlab.com
 grafana.amp.cells.gitlab.com
 grafana.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
+grafana.cell-c01k35wpsh58x0j74g.cells.gitlab.com
 grafana.us-east1.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
 groove.gitlab.com
 gslink.gitlab.com
@@ -446,6 +449,7 @@ jitsu-server.product-analytics.prototype.gitlab.com
 jobs.gitlab.com
 kas.gitlab.com
 kas.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
+kas.cell-c01k35wpsh58x0j74g.cells.gitlab.com
 kas.pre.gitlab.com
 kas.staging.gitlab.com
 kas.us-east1.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
@@ -476,6 +480,7 @@ o1.ptr3386.mx.gitlab.com
 observe.gitlab.com
 observe.staging.gitlab.com
 opensearch.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
+opensearch.cell-c01k35wpsh58x0j74g.cells.gitlab.com
 opensearch.us-east1.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
 packages.gitlab.com
 packages.staging.gitlab.com
@@ -504,6 +509,7 @@ publicabout.gitlab.com
 redash.gitlab.com
 registry.gitlab.com
 registry.cell-c01j2gdw0zfdafxr6.cells.gitlab.com
+registry.cell-c01k35wpsh58x0j74g.cells.gitlab.com
 registry.geo.staging-ref.gitlab.com
 registry.gke.gstg.gitlab.com
 registry.gke.pre.gitlab.com

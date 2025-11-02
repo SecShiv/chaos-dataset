@@ -49,6 +49,7 @@ capi.dev.wpesvc.net
 capi.stg.wpesvc.net
 central.alertmanager.wpesvc.net
 corp-staging-gclb-external.wpesvc.net
+dbt.data.wpesvc.net
 deploy-guidance-service.wpesvc.net
 deploy-guidance-service-staging.wpesvc.net
 dev-europe-west1-data-1.kv.atlasdev.wpesvc.net
@@ -59,6 +60,7 @@ dev.sdp.wpesvc.net
 development.au.wpesvc.net
 dns-records-admin.wpesvc.net
 dns-records-admin-staging.wpesvc.net
+dns-records-api.wpesvc.net
 domain-status-api.wpesvc.net
 east.alertmanager.wpesvc.net
 edge-api-staging.wpesvc.net
@@ -76,6 +78,8 @@ exampledjango.wpesvc.net
 exampledjango-staging.wpesvc.net
 farm-ingress-api.wpesvc.net
 farm-ingress-api-staging.wpesvc.net
+flargocd.wpesvc.net
+flkargo.wpesvc.net
 grpc.dev.sdp.wpesvc.net
 grpc.prd.sdp.wpesvc.net
 grpc.sbx.sdp.wpesvc.net
@@ -99,6 +103,7 @@ my.staging.wpesvc.net
 my.stg.wpesvc.net
 nessus-scan.wpesvc.net
 pipelines.wpesvc.net
+pipelines.dev.wpesvc.net
 plex-1296.dev.cf.wpesvc.net
 prd.private.sdp.wpesvc.net
 prd.sdp.wpesvc.net
@@ -138,3 +143,5 @@ webpagetest-marketing.wpesvc.net
 west.alertmanager.wpesvc.net
 wp-product-info.wpesvc.net
 wp-product-info-staging.wpesvc.net
+wp-product-info-staging-manage-cert.wpesvc.net
+wpe-one-agency-staging.wpesvc.net

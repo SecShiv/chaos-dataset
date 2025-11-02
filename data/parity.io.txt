@@ -18,6 +18,7 @@
 *.www.parity.io
 a.r-test-2.parity-lab.parity.io
 acoustic-easy-k8s-westend-073566-2397-p2p.pdp-stg-scw.parity.io
+acoustic-easy-k8s-westend-073566-2397.pdp-stg-scw.parity.io
 acrab.parity.io
 address-book.parity-prod.parity.io
 address-book.parity-stg.parity.io
@@ -39,6 +40,8 @@ alertmanager.parity-kusama.parity.io
 alertmanager.parity-lab.parity.io
 alertmanager.parity-mgmt.parity.io
 alertmanager.teleport.parity.io
+ambitious-crooked-engine-westend-241334-2436-p2p.pdp-stg-scw.parity.io
+ambitious-crooked-engine-westend-241334-2436.pdp-stg-scw.parity.io
 ansible-awx.parity.io
 anxious-acidic-agent-westend-84c633-2400.pdp-stg-scw.parity.io
 api-sa.parity.io
@@ -96,6 +99,9 @@ awx.parity-kusama.parity.io
 b.r-test-2.parity-lab.parity.io
 bash-executor.parity-stg.parity.io
 batch-executor.parity-stg.parity.io
+beefy-bashful-activity-westend-696dd4-2460-dd1a243.pdp-prod-scw.parity.io
+billowy-full-scientist-westend-b5e469-2458-p2p.pdp-stg-scw.parity.io
+billowy-full-scientist-westend-b5e469-2458.pdp-stg-scw.parity.io
 billowy-refined-salesclerk-westend-fea9f2-2483-bootnode-0.pdp-stg-scw.parity.io
 billowy-refined-salesclerk-westend-fea9f2-2483-bootnode-1.pdp-stg-scw.parity.io
 blazing-peach-lion-kusama-3413-6cf5ade.pdp-prod-scw.parity.io
@@ -132,6 +138,7 @@ canvas-collator-3.parity-testnet.parity.io
 canvas-rpc.parity.io
 canvas-rpc-test.parity.io
 cat-carrier-stg.parity-ci.parity.io
+cat-carrier.parity-ci.parity.io
 cattery-stg.parity-ci.parity.io
 chaos-mesh.parity-testnet.parity.io
 chaos-mesh.parity-versi.parity.io
@@ -160,6 +167,7 @@ contracts-collator-1.parity-testnet.parity.io
 contracts-collator-2.parity-testnet.parity.io
 contracts-collator-3.parity-testnet.parity.io
 cover.parity.io
+crashing-brainy-airplane-westend-2f9676-2444.pdp-stg-scw.parity.io
 crates.parity.io
 dashboard.rialto.bridges.test-installations.parity.io
 data.parity.io
@@ -173,6 +181,7 @@ dimension.matrix-test.parity-lab.parity.io
 do-nothing-app.parity-build.parity.io
 do-nothing-app.parity-build-stg.parity.io
 dotlake-staking.parity-stg.parity.io
+eager-lemon-student-westend-68278f-2449-p2p.pdp-stg-scw.parity.io
 early-quiet-stone-paseo-d130bf-4900-4ea2a5d.pdp-prod-scw.parity.io
 elasticsearch.parity.io
 elasticsearch-test.parity-build.parity.io
@@ -201,6 +210,7 @@ fintools-worker-dashboard.parity-stg.parity.io
 fintools.parity-prod.parity.io
 fintools.parity-stg.parity.io
 fintools2.parity-stg.parity.io
+fish-chain-paseo-67ec95-5002-bootnode-1.pdp-stg-scw.parity.io
 fish-chain-paseo-67ec95-5002-p2p.pdp-stg-scw.parity.io
 fish-chain-paseo-67ec95-5002.pdp-stg-scw.parity.io
 fishing-paseo-dd4cef-5001-9098d58.pdp-stg-scw.parity.io
@@ -253,6 +263,7 @@ grafana.pdp-prod-scw.parity.io
 grafana.staging.parity.io
 grafana.teleport.parity.io
 gt-gl-testgitsync.parity.io
+hallowed-fresh-alligator-paseo-0a1c8a-4972-289bef2.pdp-prod-scw.parity.io
 harbor-test.parity-mgmt.parity.io
 harbor.parity-lab.parity.io
 harbor.parity-mgmt.parity.io
@@ -350,6 +361,8 @@ metabase.parity-chains.parity.io
 metabase.parity-finance.parity.io
 metadata.parity.io
 metrics-gate.parity-stg.parity.io
+millions-shallow-evm-westend-c3ea65-2441-p2p.pdp-stg-scw.parity.io
+millions-shallow-evm-westend-c3ea65-2441.pdp-stg-scw.parity.io
 minio.gitlab.parity-kusama.parity.io
 minio.gitlab.parity-polkadot.parity.io
 mm.parity.io
@@ -376,6 +389,9 @@ nginx.parity-kusama.parity.io
 noble-gold-panda-westend-2197-78db22a.pdp-stg-scw.parity.io
 noble-purple-rabbit-westend-2230-e4c6cdc.pdp-stg-scw.parity.io
 node-0.parity-versi.parity.io
+nombreforzado-paseo-650132-4980-b55755d.pdp-prod-scw.parity.io
+nombrerepetido-paseo-6fc463-4967-c0817fe.pdp-prod-scw.parity.io
+nombrerepetido-paseo-bfa3f9-4966-51875ca.pdp-prod-scw.parity.io
 notary.parity-lab.parity.io
 old-api.multisig-commander.parity-prod.parity.io
 old-hq.parity-prod.parity.io
@@ -451,7 +467,9 @@ polkadot.address-book.parity-prod.parity.io
 polkadotgitsync.parity.io
 polkassembly-rpc-internal-0.parity-prod.parity.io
 pop-testnet.parity-lab.parity.io
+pop1-testnet.parity-lab.parity.io
 pop2-testnet.parity-lab.parity.io
+pop3-testnet.parity-lab.parity.io
 port.parity-zombienet.parity.io
 processbot.parity.io
 processbot.parity-stg.parity.io
@@ -459,6 +477,7 @@ processbot.test-installations.parity.io
 product-metrics.parity-lab.parity.io
 product-metrics.parity-prod.parity.io
 prom-aggregation-gateway.parity-stg.parity.io
+prometheus-blockchain-external.parity-stg.parity.io
 prometheus-blockchain.parity-chains.parity.io
 prometheus-blockchain.parity-stg.parity.io
 prometheus-blockchain.parity-testnet.parity.io
@@ -571,6 +590,7 @@ rococo-validator-a-node-3.parity-testnet.parity.io
 rococo-validator-a-node-4.parity-testnet.parity.io
 ropsten-stats.parity.io
 roryh-com.mtats.parity.io
+rough-fierce-greece-westend-9cd876-2446.pdp-stg-scw.parity.io
 rpc.production.wfp.parity.io
 rpc.staging.wfp.parity.io
 rpc.staging2.wfp.parity.io
@@ -592,6 +612,7 @@ signet.parity-finance.parity.io
 signet.parity-stg.parity.io
 silly-black-panda-westend-2198-24ae81f.pdp-stg-scw.parity.io
 silly-teal-buffalo-westend-2259-6391770.pdp-stg-scw.parity.io
+slow-narrow-action-paseo-93e2e4-4988-fa119f7.pdp-stg-scw.parity.io
 sparkly-burgundy-rabbit-westend-2228-320a3a0.pdp-stg-scw.parity.io
 sparkly-violet-parrot-westend-2208-c01f8f5.pdp-stg-scw.parity.io
 staging.parity.io
@@ -702,6 +723,8 @@ thanos-tenant.parity-mgmt.parity.io
 thanos-tenant.parity-stg.parity.io
 thanos.parity-mgmt.parity.io
 thanos.parity-stg.parity.io
+thoughtless-rapping-controller-westend-a629a5-2450-p2p.pdp-stg-scw.parity.io
+thoughtless-rapping-controller-westend-a629a5-2450.pdp-stg-scw.parity.io
 tick-rpc.parity.io
 tmp.monitoring.parity.io
 tooljet.parity-chains.parity.io
@@ -970,3 +993,7 @@ www-preview.parity-prod.parity.io
 www-preview.parity-stg.parity.io
 www.parity-stg.parity.io
 www.staging.parity.io
+xp-preview.parity-prod.parity.io
+xp-preview.parity-stg.parity.io
+xp.parity-prod.parity.io
+xp.parity-stg.parity.io

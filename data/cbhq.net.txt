@@ -1,6 +1,8 @@
+.cbhq.net
 *.cbhq.net
 *.aws.cbhq.net
 *.buf.cbhq.net
+*.buf.aws.cbhq.net
 *.cdp-web-staging.cbhq.net
 *.dev.cbhq.net
 *.github.cbhq.net
@@ -27,6 +29,7 @@ artifact-shipper-feature-cfprod.cbhq.net
 beta.cbhq.net
 blackrock-mq-client-staging.cbhq.net
 buf.cbhq.net
+buf.aws.cbhq.net
 bugsnag.cbhq.net
 c3-cadence-web.cbhq.net
 c3-cadence-web-dev.cbhq.net
@@ -111,6 +114,9 @@ secure.cbhq.net
 sherlock.cbhq.net
 sherlock-bpo.cbhq.net
 sso.cbhq.net
+story-canary.rosetta-api-v2.us-east-1.development.cbhq.net
+story-mainnet.rosetta-api-v2.us-east-1.development.cbhq.net
+story-testnet.rosetta-api-v2.us-east-1.development.cbhq.net
 terraform-enterprise-poc.cbhq.net
 test.cbhq.net
 test2.cbhq.net
@@ -125,3 +131,4 @@ users-service-staging.cbhq.net
 vpn.cbhq.net
 vpnsvr.cbhq.net
 vpnsvr01.cbhq.net
+vpnsvr02.cbhq.net

@@ -73,6 +73,7 @@ adminportal.uksouth-dev.openground.bentley.com
 adminportal.uksouth.openground.bentley.com
 ads.bentley.com
 aecom-na-pw.bentley.com
+aecom-na-pwc.bentley.com
 aeil-pw.bentley.com
 aeil-pw-tmp.bentley.com
 aeil-pw-tmp-ws.bentley.com
@@ -82,6 +83,7 @@ aen-pw-ws.bentley.com
 afc-ind-pw.bentley.com
 afry-pw-tmp.bentley.com
 afry-pw-tmp-ws.bentley.com
+agentspace.bentley.com
 aia-pw.bentley.com
 aig-pw.bentley.com
 aig-pw-tmp.bentley.com
@@ -103,6 +105,8 @@ alim-aw.bentley.com
 alliant-midwest-pw.bentley.com
 alliant-midwest-pw-ws.bentley.com
 alpo-drm.bentley.com
+alpo-pw-tmp.bentley.com
+alpo-pw-tmp-ws.bentley.com
 altalink-pw.bentley.com
 altalink-pw-ws.bentley.com
 amcogiffen-pw.bentley.com
@@ -120,6 +124,8 @@ ani-pw.bentley.com
 ani-pw-ws.bentley.com
 annotation.bentley.com
 anzlync.bentley.com
+apex-pw.bentley.com
+apex-pw-ws.bentley.com
 api.bentley.com
 api-aue.bentley.com
 api-eus.bentley.com
@@ -162,6 +168,8 @@ archive-uks.qa-pwdm.bentley.com
 archive.dev-pwdm.bentley.com
 archive.pwdm.bentley.com
 archive.qa-pwdm.bentley.com
+ardurra-pw.bentley.com
+ardurra-pw-ws.bentley.com
 arorapc-pw.bentley.com
 arorapc-pw-tmp.bentley.com
 arorapc-pw-ws.bentley.com
@@ -204,6 +212,8 @@ avinor-pw-ws.bentley.com
 awx.mgmt-uks.aw-sre.bentley.com
 azdot-pw.bentley.com
 azdot-pw-ws.bentley.com
+bac-pw.bentley.com
+bac-pw-ws.bentley.com
 badgers-aue.bentley.com
 badgers-aue-staging.bentley.com
 badgers-cac.bentley.com
@@ -245,7 +255,10 @@ bcsm-dnsapi.bentley.com
 bdn.bentley.com
 bdn-staging.bentley.com
 beaumontwwrp.cm.bentley.com
+beca-au-pw-tmp.bentley.com
+benesch-pw.bentley.com
 benesch-pw-tmp-ws.bentley.com
+benesch-pw-ws.bentley.com
 bentleyinstitute.bentley.com
 beta-portal.australiaeast.openground.bentley.com
 beta-portal.eastus-dev.openground.bentley.com
@@ -282,6 +295,8 @@ bowman-pw-ws.bentley.com
 bp-eb.bentley.com
 bp.aw-cs.bentley.com
 br.bentley.com
+bridgefarmer-pw.bentley.com
+bridgefarmer-pw-ws.bentley.com
 briprdlync01.bentley.com
 briprdlync04.bentley.com
 brwncald-pw-tmp.bentley.com
@@ -289,6 +304,7 @@ bsi-access.bentley.com
 bsi-wg2ck.bentley.com
 bsp-pw.bentley.com
 bsp-pw-ws.bentley.com
+btpinfra-pw-tmp-ws.bentley.com
 buddi.bentley.com
 buddi-eus.bentley.com
 buddi-eus-staging.bentley.com
@@ -336,6 +352,8 @@ cadrefscan-sea.bentley.com
 cadrefscan-uks.bentley.com
 cag-pw.bentley.com
 cag-pw-ws.bentley.com
+cahsr-pw.bentley.com
+cahsr-pw-ws.bentley.com
 captiveportal-login.bentley.com
 carbonanalysis.bentley.com
 cas.bentley.com
@@ -385,6 +403,7 @@ civiltecheng-pw-tmp.bentley.com
 civiltecheng-pw-tmp-ws.bentley.com
 clearpass.bentley.com
 click.info.bentley.com
+cloudforchannel.bentley.com
 cm.bentley.com
 cme-pw.bentley.com
 cmtengr-pw.bentley.com
@@ -1332,6 +1351,8 @@ dar-1-pw.bentley.com
 dar-1-pw-ws.bentley.com
 dar-2-pw.bentley.com
 dar-2-pw-ws.bentley.com
+dashboardmanagerservice-eus.bentley.com
+dashboardmanagerservice-eus-staging.bentley.com
 dashboards-eus.dev-pwdm.bentley.com
 dashboards-eus.pwdm.bentley.com
 dashboards-eus.qa-pwdm.bentley.com
@@ -1366,6 +1387,7 @@ dbmaintenance-uks.dev-pwdm.bentley.com
 dbmaintenance-uks.pwdm.bentley.com
 dbmaintenance-uks.qa-pwdm.bentley.com
 dbsterlin-pw-tmp-ws.bentley.com
+dbsterlin-pw-ws.bentley.com
 dca-pw-ws.bentley.com
 dccm-pw.bentley.com
 dctmvm-cert1.bentley.com
@@ -1431,6 +1453,7 @@ dev-apim-infrastructure.bentley.com
 dev-apis.bentley.com
 dev-apis-eus.bentley.com
 dev-assetwisegrafana-eus2.bentley.com
+dev-audittrail-eus.bentley.com
 dev-audittrailingestion-eus.bentley.com
 dev-autoupdatecdn.bentley.com
 dev-awx.mgmt-uks.aw-sre.bentley.com
@@ -1834,6 +1857,7 @@ dev-connect-pdfgeoindexingfunctions-eus.bentley.com
 dev-connect-pdfgeoindexingservice.bentley.com
 dev-connect-pdfgeoindexingservice-eus.bentley.com
 dev-connect-pdfgeoindexingservice-eus-staging.bentley.com
+dev-connect-pdfgeoindexingservice-eus-staging01.bentley.com
 dev-connect-pdfgeoindexingservice-sea.bentley.com
 dev-connect-pdfgeoindexingservice-sea-staging.bentley.com
 dev-connect-pdfmarkup.bentley.com
@@ -2059,6 +2083,7 @@ dev-connect-userfeedback.bentley.com
 dev-connect-userfeedback-staging.bentley.com
 dev-connect-watersight.bentley.com
 dev-connect-watersight-eus.bentley.com
+dev-connect-watersight1.bentley.com
 dev-connect-watersight2.bentley.com
 dev-connect-watersight2-eus.bentley.com
 dev-connect-watersightinfluxdb.bentley.com
@@ -2184,6 +2209,8 @@ dev-gprapi-staging.bentley.com
 dev-icons-service.bentley.com
 dev-icons-service-eus.bentley.com
 dev-icons-service-eus-staging.bentley.com
+dev-icportalreportingapi.bentley.com
+dev-icportalreportingapi-staging.bentley.com
 dev-iiot.bentley.com
 dev-immersivetrainingsimulation.bentley.com
 dev-immersivetrainingsimulation-staging.bentley.com
@@ -2211,6 +2238,7 @@ dev-imodelhubapi-sea-staging.bentley.com
 dev-imodelhubapi-uks.bentley.com
 dev-imodelhubapi-uks-staging.bentley.com
 dev-imodelhubapi-uks-staging1.bentley.com
+dev-imodelhubapi-use4.bentley.com
 dev-imodelhubgrafana-eus.bentley.com
 dev-imodelhubgrafana-uks.bentley.com
 dev-imodelhubtm.bentley.com
@@ -2313,6 +2341,8 @@ dev-launchdarkly-staging.bentley.com
 dev-linearscriptlogger-cac.bentley.com
 dev-logger-edf.bentley.com
 dev-logger-edf-eus.bentley.com
+dev-manage.bentley.com
+dev-manage-staging.bentley.com
 dev-management-edf.bentley.com
 dev-management-edf-eus.bentley.com
 dev-mantassf.bentley.com
@@ -2385,6 +2415,8 @@ dev-perform-worker-eus.bentley.com
 dev-perform-worker-staging-eus.bentley.com
 dev-pika.bentley.com
 dev-pika-staging.bentley.com
+dev-pikamcp.bentley.com
+dev-pikamcp-staging.bentley.com
 dev-pineappleviewer-eus-staging.bentley.com
 dev-pineappleviewer-staging.bentley.com
 dev-plantsight.bentley.com
@@ -2671,6 +2703,9 @@ dev-towersightitwin.bentley.com
 dev-towersightitwin-eus.bentley.com
 dev-towersightitwin-eus-staging.bentley.com
 dev-towersightitwin-staging.bentley.com
+dev-towertwinexplorer.bentley.com
+dev-towertwinexplorer-eus.bentley.com
+dev-towertwinexplorer-eus-staging.bentley.com
 dev-tpservicefabric.bentley.com
 dev-transformationchainapi-eus.bentley.com
 dev-ulas-services.bentley.com
@@ -2750,6 +2785,7 @@ disco01-iamis.bentley.com
 discussion.bentley.com
 divm-cert1.bentley.com
 dja-pw.bentley.com
+dja-pw-ws.bentley.com
 dm01-iamis.bentley.com
 dmzprdet03.bentley.com
 dmzprdet04.bentley.com
@@ -2816,8 +2852,10 @@ dwrcymru-pw-tmp-ws.bentley.com
 eacconsult-pw-tmp.bentley.com
 eacconsult-pw-tmp-ws.bentley.com
 eastus.openground.bentley.com
+eatonprojects-pw.bentley.com
 eatonprojects-pw-tmp.bentley.com
 eatonprojects-pw-tmp-ws.bentley.com
+eatonprojects-pw-ws.bentley.com
 ebook.bentley.com
 edf-grafana-aue.bentley.com
 edf-grafana-eus.bentley.com
@@ -2836,6 +2874,7 @@ educationportaldbservice-sea.bentley.com
 educationportaldbservice-weu.bentley.com
 efkmoen-pw-tmp.bentley.com
 efkmoen-pw-tmp-ws.bentley.com
+efkmoen-pw-ws.bentley.com
 ehmtest.bentley.com
 eimdemo.bentley.com
 ejm-pw.bentley.com
@@ -2962,6 +3001,7 @@ factorysightapi.bentley.com
 factorysightapi-staging.bentley.com
 fakemail.bentley.com
 fando-pw.bentley.com
+fando-pw-ws.bentley.com
 farnsworthgroup-pw.bentley.com
 farnsworthgroup-pw-ws.bentley.com
 fb2-idci.bentley.com
@@ -2987,6 +3027,7 @@ filestorage.dev.bentley.com
 filestorage.eus.bentley.com
 filestorage.qa.bentley.com
 filestorage.uks.bentley.com
+finnmapinfra-pw.bentley.com
 finnmapinfra-pw-tmp-ws.bentley.com
 finnmapinfra-pw-ws.bentley.com
 flawtrack.bentley.com
@@ -3046,6 +3087,8 @@ gocos-pw-tmp.bentley.com
 gocos-pw-ws.bentley.com
 gpi-pw.bentley.com
 gpi-pw-ws.bentley.com
+gprapi.bentley.com
+gprapi-staging.bentley.com
 grafana.mgmt-uks.aw-sre.bentley.com
 greshamsmith-pw.bentley.com
 greshamsmith-pw-tmp-ws.bentley.com
@@ -3083,6 +3126,8 @@ hennepin-pw-ws.bentley.com
 hip-pw.bentley.com
 hip-pw-ws.bentley.com
 hirprdsba01.bentley.com
+hntb-pw.bentley.com
+hntb-pw-ws.bentley.com
 horizonpower-pw-tmp-ws.bentley.com
 horrocks-pw.bentley.com
 horrocks-pw-tmp.bentley.com
@@ -3107,6 +3152,7 @@ hz-pw-tmp.bentley.com
 hz-pw-tmp-ws.bentley.com
 hz-pw-ws.bentley.com
 iac-pw.bentley.com
+iac-pw-ws.bentley.com
 iaepassdemo.bentley.com
 ibi-pw.bentley.com
 ice-eng-pw.bentley.com
@@ -3138,8 +3184,10 @@ iei-pw-ws.bentley.com
 ifema-pw-tmp.bentley.com
 ifema-pw-tmp-ws.bentley.com
 iiot.bentley.com
+ildot-pw.bentley.com
 ildot-pw-tmp.bentley.com
 ildot-pw-tmp-ws.bentley.com
+ildot-pw-ws.bentley.com
 ilepassdemo.bentley.com
 im.bentley.com
 image.info.bentley.com
@@ -3472,6 +3520,7 @@ kienta-pw.bentley.com
 kienta-pw-ws.bentley.com
 kiergroup-pw-tmp-ws.bentley.com
 kjce-pw-tmp.bentley.com
+kjce-pw-ws.bentley.com
 kleinfelder-pw.bentley.com
 kleinfelder-pw-ws.bentley.com
 ko.bentley.com
@@ -3495,6 +3544,8 @@ lane-pw-tmp.bentley.com
 lane-pw-tmp-ws.bentley.com
 lane-pw-ws.bentley.com
 langan-pw-ws.bentley.com
+lb-pw.bentley.com
+lb-pw-ws.bentley.com
 ldg-pw.bentley.com
 ldg-pw-tmp.bentley.com
 learn.bentley.com
@@ -3556,6 +3607,8 @@ lyncwc04-dublin.bentley.com
 lyncwc04-exton.bentley.com
 lyncwc05-dublin.bentley.com
 lyncwc05-exton.bentley.com
+m-b-pw.bentley.com
+m-b-pw-ws.bentley.com
 mail.bentley.com
 mailer2.bentley.com
 mailhost.bentley.com
@@ -3564,6 +3617,7 @@ mainroadswa-pw.bentley.com
 mainroadswa-pw-tmp.bentley.com
 mainroadswa-pw-tmp-ws.bentley.com
 mainroadswa-pw-ws.bentley.com
+manage.bentley.com
 management-core.dev.edf.bentley.com
 management-edf.bentley.com
 management-edf-aue.bentley.com
@@ -3578,6 +3632,7 @@ markosky-hq-pw-tmp-ws.bentley.com
 markosky-hq-pw-ws.bentley.com
 martin-pw.bentley.com
 martin-pw-ws.bentley.com
+mb-pw.bentley.com
 mb-us-pw.bentley.com
 mb-usw-pw.bentley.com
 mcdot-pw.bentley.com
@@ -3682,6 +3737,8 @@ mto-pw-ws.bentley.com
 mullereng-pw.bentley.com
 mullereng-pw-tmp-ws.bentley.com
 mullereng-pw-ws.bentley.com
+mwdh2o-pw-tmp.bentley.com
+mwdh2o-pw-tmp-ws.bentley.com
 mx3.bentley.com
 mx4.bentley.com
 mx5.bentley.com
@@ -3698,6 +3755,7 @@ ndot-pw.bentley.com
 ndot-pw-tmp.bentley.com
 ndot-pw-tmp-ws.bentley.com
 ndot-pw-ws.bentley.com
+nebraskadot-pw.bentley.com
 nebraskadot-pw-ws.bentley.com
 nem01-cais.bentley.com
 netmon.bentley.com
@@ -3724,9 +3782,13 @@ njgotpermitsclientauth.bentley.com
 njinspecttechclientauth.bentley.com
 njta-it.bentley.com
 nl.bentley.com
+nld-amtm-pw.bentley.com
+nld-amtm-pw-ws.bentley.com
 nldel1fwlco01.bentley.com
 nloprdsba01.bentley.com
 nmg.bentley.com
+nod-pw-tmp.bentley.com
+nod-pw-tmp-ws.bentley.com
 notification-eus.dev-pwdm.bentley.com
 notification-eus.pwdm.bentley.com
 notification-eus.qa-pwdm.bentley.com
@@ -3767,6 +3829,8 @@ openconstruction.bentley.com
 openconstruction-staging.bentley.com
 openground.bentley.com
 opentoweriq.bentley.com
+opentoweriq-deliveryportal.bentley.com
+opentoweriq-deliveryportal-staging.bentley.com
 opentoweriq-detectors.bentley.com
 opentoweriq-eus.bentley.com
 opentoweriq-eus-staging.bentley.com
@@ -3805,7 +3869,9 @@ ownerreview.dev.bentley.com
 ownerreview.eus.bentley.com
 ownerreview.qa.bentley.com
 ownerreview.uks.bentley.com
+p-c-pw.bentley.com
 p-c-pw-tmp-ws.bentley.com
+p-c-pw-ws.bentley.com
 pac.bentley.com
 packageindex-aue.pwdm.bentley.com
 packageindex-cac.pwdm.bentley.com
@@ -3871,6 +3937,7 @@ pellfrischmann-pw-tmp.bentley.com
 pellfrischmann-pw-tmp-ws.bentley.com
 pennoni-pw.bentley.com
 penspen-pw.bentley.com
+penspen-pw-ws.bentley.com
 perf-bcsf.bentley.com
 perf-connect-agreementportalwebapp.bentley.com
 perf-connect-agreementportalwebapp-staging.bentley.com
@@ -4113,6 +4180,9 @@ pf.ims.int.qa.identity.bentley.com
 pf.int.dev.identity.bentley.com
 pf.int.prod.identity.bentley.com
 pf.int.qa.identity.bentley.com
+pge-pw-tmp-ws.bentley.com
+pikamcp.bentley.com
+pikamcp-staging.bentley.com
 pineappleviewer-cin-staging.bentley.com
 pineappleviewer-eus-staging.bentley.com
 pineappleviewer-sea-staging.bentley.com
@@ -4365,10 +4435,12 @@ ps-amer-pw-ws.bentley.com
 ps-au-pw.bentley.com
 ps-au-pw-tmp.bentley.com
 ps-au-pw-ws.bentley.com
+ps-eu-cloud-pw-ws.bentley.com
 psacquisitionportal.bentley.com
 psacquisitionportal-staging.bentley.com
 psacquisitionportal-staging02.bentley.com
 psacquisitionservice.bentley.com
+psacquisitionservice-cin-staging.bentley.com
 psacquisitionservice-staging.bentley.com
 psacquisitionservice-staging02.bentley.com
 psaggregation.bentley.com
@@ -5221,6 +5293,7 @@ qa-featureservice-neu-staging.bentley.com
 qa-featureservice-staging.bentley.com
 qa-flawtrak.bentley.com
 qa-fulfillment.bentley.com
+qa-gemini.bentley.com
 qa-gltf-export.bentley.com
 qa-gltf-export-staging.bentley.com
 qa-gp.bentley.com
@@ -5370,6 +5443,8 @@ qa-linearscriptlogger-cac.bentley.com
 qa-locustaks.bentley.com
 qa-logger-edf.bentley.com
 qa-loginnet-redesign.bentley.com
+qa-manage.bentley.com
+qa-manage-staging.bentley.com
 qa-management-edf.bentley.com
 qa-markup-wvs.bentley.com
 qa-markup-wvs-staging.bentley.com
@@ -5406,6 +5481,8 @@ qa-opdataingestionsvc-cac.bentley.com
 qa-opencommsanalyst.bentley.com
 qa-openconstruction.bentley.com
 qa-opentoweriq.bentley.com
+qa-opentoweriq-deliveryportal.bentley.com
+qa-opentoweriq-deliveryportal-staging.bentley.com
 qa-opentoweriq-detectors.bentley.com
 qa-opentoweriq-eus.bentley.com
 qa-opentoweriq-eus-staging.bentley.com
@@ -5448,6 +5525,8 @@ qa-perform-worker-staging-eus.bentley.com
 qa-performworker-staging.bentley.com
 qa-pika.bentley.com
 qa-pika-staging.bentley.com
+qa-pikamcp.bentley.com
+qa-pikamcp-staging.bentley.com
 qa-pineappleviewer-eus-staging.bentley.com
 qa-pineappleviewer-staging.bentley.com
 qa-pineappleviewer-uks-staging.bentley.com
@@ -5591,6 +5670,7 @@ qa-review-sea.itwin.bentley.com
 qa-review-server-eus-staging.itwin.bentley.com
 qa-review-server-eus.itwin.bentley.com
 qa-review-server-uks-staging.itwin.bentley.com
+qa-review-server-uks.itwin.bentley.com
 qa-review-server.itwin.bentley.com
 qa-review-uks-staging.itwin.bentley.com
 qa-review-uks.itwin.bentley.com
@@ -5724,6 +5804,11 @@ qa-towersightitwin-eus-staging.bentley.com
 qa-towersightitwin-sea.bentley.com
 qa-towersightitwin-sea-staging.bentley.com
 qa-towersightitwin-staging.bentley.com
+qa-towertwinexplorer.bentley.com
+qa-towertwinexplorer-eus.bentley.com
+qa-towertwinexplorer-eus-staging.bentley.com
+qa-towertwinexplorer-sea.bentley.com
+qa-towertwinexplorer-sea-staging.bentley.com
 qa-transformationchainapi-eus.bentley.com
 qa-ulas-services.bentley.com
 qa-ulasaccesskeyservice.bentley.com
@@ -5783,6 +5868,7 @@ qa-usersearchservice.bentley.com
 qa-usersearchservice-staging.bentley.com
 qa-uxiocrqgycnmw.bc.plat.bentley.com
 qa-viewer-eus.itwin.bentley.com
+qa-viewer-server-eus-staging.itwin.bentley.com
 qa-viewer-server-eus.itwin.bentley.com
 qa-viewer-server-uks.itwin.bentley.com
 qa-viewer-server.itwin.bentley.com
@@ -5851,6 +5937,8 @@ review-eus-staging.itwin.bentley.com
 review-eus.itwin.bentley.com
 review-sea-staging.itwin.bentley.com
 review-sea.itwin.bentley.com
+review-server-eus-staging.itwin.bentley.com
+review-server-eus.itwin.bentley.com
 review-server-sea-staging.itwin.bentley.com
 review-server-sea.itwin.bentley.com
 review-server-uks-staging.itwin.bentley.com
@@ -5868,11 +5956,14 @@ rio-pw-apac-ws.bentley.com
 rkk-pw-tmp.bentley.com
 rolls-royce-smr-pw-ws.bentley.com
 rootca.bentley.com
+rsk-as-pw.bentley.com
+rsk-as-pw-ws.bentley.com
 rsk-aus-pw.bentley.com
 rsk-uk-pw.bentley.com
 rsk-uk-pw-ws.bentley.com
 rsync.bentley.com
 rsync2.bentley.com
+rt-poc-apm.bentley.com
 rtd-pw.bentley.com
 rtd-pw-tmp.bentley.com
 rtd-pw-ws.bentley.com
@@ -6091,10 +6182,13 @@ sts-proxy.int.prod.identity.bentley.com
 sts-proxy.int.qa.identity.bentley.com
 stv-pw-tmp.bentley.com
 stv-pw-tmp-ws.bentley.com
+stv-pw-ws.bentley.com
+stv-sw-pw-ws.bentley.com
 subscriptionservices.bentley.com
 subscriptionservices-staging.bentley.com
 sudop-pw.bentley.com
 supplychainbillingmanager.bentley.com
+supplychainstructureservice.bentley.com
 swc-pw.bentley.com
 swc-pw-ws.bentley.com
 swupdate1.bentley.com
@@ -6244,6 +6338,7 @@ taskscheduler.bentley.com
 taskscheduler-staging.bentley.com
 tbp-pw.bentley.com
 tbp-pw-ws.bentley.com
+tdot-pw-ws.bentley.com
 teams.opencitiesplanner.bentley.com
 tedsi-pw.bentley.com
 temp-mx5.bentley.com
@@ -6260,6 +6355,7 @@ test-dev-otingestion.bentley.com
 test-dev-psaggregation.bentley.com
 testing-aws-docs.bentley.com
 tetra-pw-ws.bentley.com
+tetratech-ca-pw.bentley.com
 tetratech-ca-pw-tmp.bentley.com
 tetratech-ca-pw-tmp-ws.bentley.com
 tetratech-ca-pw-ws.bentley.com
@@ -6273,9 +6369,13 @@ tgd-pw-ws.bentley.com
 tgs-pw.bentley.com
 tgs-pw-tmp.bentley.com
 tgs-pw-ws.bentley.com
+thames-pw.bentley.com
 thames-pw-tmp.bentley.com
 thames-pw-tmp-ws.bentley.com
+thames-pw-ws.bentley.com
+thungela-pw.bentley.com
 thungela-pw-tmp-ws.bentley.com
+thungela-pw-ws.bentley.com
 tim.bentley.com
 timapp1.bentley.com
 time.bentley.com
@@ -6289,6 +6389,8 @@ timtest3.bentley.com
 timtest4.bentley.com
 timtest5.bentley.com
 timtestname.bentley.com
+timtestwebapp.bentley.com
+timtestwebapp-staging.bentley.com
 timtestxx.bentley.com
 tir-pw.bentley.com
 tkda-pw.bentley.com
@@ -6327,6 +6429,11 @@ towersightitwin-eus-staging.bentley.com
 towersightitwin-sea.bentley.com
 towersightitwin-sea-staging.bentley.com
 towersightitwin-staging.bentley.com
+towertwinexplorer.bentley.com
+towertwinexplorer-eus.bentley.com
+towertwinexplorer-eus-staging.bentley.com
+towertwinexplorer-sea.bentley.com
+towertwinexplorer-sea-staging.bentley.com
 tpd-pw.bentley.com
 tpd-pw-tmp.bentley.com
 tpd-pw-ws.bentley.com
@@ -6510,6 +6617,8 @@ wsbeng-pw-tmp-ws.bentley.com
 wsbeng-pw-ws.bentley.com
 wsp-aus-pwc.bentley.com
 wsp-aus-pwc-ws.bentley.com
+wsp-ca-pw.bentley.com
+wsp-ca-pw-ws.bentley.com
 wvepassdemo.bentley.com
 www.bentley.com
 www.alpo-drm.bentley.com

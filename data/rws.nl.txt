@@ -1,6 +1,9 @@
 .rws.nl
 *.am2-test-cnap-test.k8s.cnap.rws.nl
+*.apim-internal.datalab-01.azure.grid.rws.nl
+*.apim-portal.datalab-01.azure.grid.rws.nl
 *.apps.ai-01.os-t.rws.nl
+*.apps.global-hub.os-o.rws.nl
 *.apps.global-hub.os-t.rws.nl
 *.apps.gp-virt01.os-t.rws.nl
 *.apps.hcp01.os-t.rws.nl
@@ -16,6 +19,8 @@
 *.gridacc.rws.nl
 *.infra-24.azure.grid.rws.nl
 *.k8s.aoa-bim-provesy.cnap-am2.intranet.rws.nl
+*.k8s.at-dev.cnap-am4.intranet.rws.nl
+*.k8s.at-gitlab.cnap-am2.intranet.rws.nl
 *.k8s.cnap-test.cnap-am2.intranet.rws.nl
 *.k8s.cnap.cnap-am2.intranet.rws.nl
 *.k8s.cnap.cnap-am4.intranet.rws.nl
@@ -23,8 +28,10 @@
 *.k8s.datalake-poc.cnap-am4.intranet.rws.nl
 *.k8s.enabling-test.cnap-am2.intranet.rws.nl
 *.k8s.esp-am2.cnap-am2.intranet.rws.nl
+*.k8s.fis-p.cnap-am2.intranet.rws.nl
 *.k8s.fis.cnap-am2.intranet.rws.nl
 *.k8s.gbvi.cnap-am2.intranet.rws.nl
+*.k8s.geo-ota.cnap-am4.intranet.rws.nl
 *.k8s.geo-p.cnap-am4.intranet.rws.nl
 *.k8s.infra-test-cl04.cnap-am4.intranet.rws.nl
 *.k8s.infra-test.cnap-am4.intranet.rws.nl
@@ -32,9 +39,11 @@
 *.k8s.lmwnext-p1.cnap-am2.intranet.rws.nl
 *.k8s.odsvo-ota.cnap-am2.intranet.rws.nl
 *.k8s.odsvo.cnap-am4.intranet.rws.nl
+*.k8s.otg-p.cnap-am4.intranet.rws.nl
 *.k8s.otg.cnap-am4.intranet.rws.nl
 *.k8s.radar.cnap-am4.intranet.rws.nl
 *.k8s.rpa-uipath.cnap-am4.intranet.rws.nl
+*.k8s.rwsos-test.cnap-am2.intranet.rws.nl
 *.k8s.rwsos.cnap-am2.intranet.rws.nl
 *.k8s.rwsos.cnap-am4.intranet.rws.nl
 *.k8s.sas-viya-a.cnap-am4.intranet.rws.nl
@@ -49,6 +58,7 @@
 *.k8s.shared-ota.cnap-am2.intranet.rws.nl
 *.k8s.shared-ota.cnap-am4.intranet.rws.nl
 *.k8s.shared.cnap-am4.intranet.rws.nl
+*.k8s.soc.cnap-am2.intranet.rws.nl
 *.k8s.spin-a.cnap-am4.intranet.rws.nl
 *.k8s.spin-p.cnap-am2.intranet.rws.nl
 *.k8s.spin-p.cnap-am4.intranet.rws.nl
@@ -91,6 +101,7 @@
 *.k8s.wm-test.cnap-am2.intranet.rws.nl
 *.k8s.wm-tooling.cnap-am4.intranet.rws.nl
 *.k8s2.cnap-test.cnap-am2.intranet.rws.nl
+*.ngx.geo-ota.cnap-am4.intranet.rws.nl
 *.ngx.spin.cnap-am2.intranet.rws.nl
 *.ngx.wm-tab.cnap-am4.intranet.rws.nl
 *.ngx.wm-test.cnap-am2.intranet.rws.nl
@@ -224,6 +235,7 @@ admin-maestro.svm.rws.nl
 admin.sps-acceptatie.intranet.rws.nl
 admin.sps-test.intranet.rws.nl
 admin.sps.intranet.rws.nl
+admin.test-rabbitmq.test.vm-04.azure.grid.rws.nl
 air-systeem.rws.nl
 air-systeem-ext.cf-prod.intranet.rws.nl
 ais.rws.nl
@@ -236,6 +248,8 @@ alertmanager.test.vm-04.azure.grid.rws.nl
 api.dataintegratie-acc.intranet.rws.nl
 api.dataintegratie.intranet.rws.nl
 api.tempeov.rws.nl
+apim-internal.datalab-01.azure.grid.rws.nl
+apim-portal.datalab-01.azure.grid.rws.nl
 apop-esb.intranet.rws.nl
 apop.esb.rws.nl
 apop.esb.intranet.rws.nl
@@ -244,6 +258,8 @@ app-vue.vm-02.azure.grid.rws.nl
 aqualarm.rws.nl
 aquo-kit.rws.nl
 argo-dev.dev.at.rws.nl
+argo-gitlab-mirror.at.rws.nl
+argo-runners.at.rws.nl
 argo-vault.at.rws.nl
 argocd-dev.dev.at.rws.nl
 argocd-server.dmz.vm-04.azure.grid.rws.nl
@@ -316,6 +332,7 @@ cmk.esb.intranet.rws.nl
 cms.acc.web8.intranet.rws.nl
 cms.prd.web8.intranet.rws.nl
 cnap-dev.dev.at.rws.nl
+communication-service.test.vm-05.azure.grid.rws.nl
 config.internetsearch.intranet.rws.nl
 configgenerator.vm-02.azure.grid.rws.nl
 configuration.vm-02.azure.grid.rws.nl
@@ -337,6 +354,7 @@ cps.pki.rws.nl
 crisiswerkplek.rws.nl
 crud.acceptatie.vm-05.azure.grid.rws.nl
 crud.test.vm-05.azure.grid.rws.nl
+crud.vm-05.azure.grid.rws.nl
 ctd.rws.nl
 custompages.acc.web8.intranet.rws.nl
 cv-dynac.rws.nl
@@ -355,6 +373,7 @@ demo-geoservices.intranet.rws.nl
 dev-rancher.at.rws.nl
 dev-suma.edge.rws.nl
 dev.at.rws.nl
+diagrams.at.rws.nl
 dialin.rws.nl
 digitaltwin.rws.nl
 digitaltwin-dev.rws.nl
@@ -449,9 +468,13 @@ gitlab-ssh.dev.at.rws.nl
 gitlab.at.rws.nl
 gitlab.dev.at.rws.nl
 glcr-dev.dev.at.rws.nl
+glcr.at.rws.nl
 glcr.dev.at.rws.nl
 gmg301.rws.nl
 grafana-acc.vm-02.azure.grid.rws.nl
+grafana-gitlab.at.rws.nl
+grafana-mirror.at.rws.nl
+grafana-runners.at.rws.nl
 grafana-test.test.vm-04.azure.grid.rws.nl
 grafana-test.vm-02.azure.grid.rws.nl
 grafana.cnpg.dev.at.rws.nl
@@ -530,7 +553,9 @@ k8s.svm-woerden.cnap-am4.intranet.rws.nl
 k8s.svm-zwolle.cnap-am4.intranet.rws.nl
 k8s.svm.cnap-am4.intranet.rws.nl
 kafka-ui.kafka.test.vm-04.azure.grid.rws.nl
+kas.at.rws.nl
 kas.dev.at.rws.nl
+kas.gitlab.dev.at.rws.nl
 kennismaken.rws.nl
 keycloak-acc-admin.vm-02.azure.grid.rws.nl
 keycloak-acc.vm-02.azure.grid.rws.nl
@@ -547,6 +572,7 @@ keycloak.test.vm-04.azure.grid.rws.nl
 keycloak.vm-02.azure.grid.rws.nl
 keycloak.vm-05.azure.grid.rws.nl
 kiosk.rws.nl
+klimaateffectatlas.rws.nl
 lab-geo.ivp-01.azure.grid.rws.nl
 langfuse-test.vm-05.azure.grid.rws.nl
 langfuse.vm-05.azure.grid.rws.nl
@@ -577,6 +603,7 @@ liwo.rws.nl
 login.test-cf-acc.intranet.rws.nl
 login.test-cf-prod.intranet.rws.nl
 login.test-cf-tst.intranet.rws.nl
+loki.dev.at.rws.nl
 lp-dynac.rws.nl
 lws2013-int.rws.nl
 lyncdiscover.rws.nl
@@ -602,6 +629,7 @@ mijn-acceptatie.rws.nl
 minio-console.cees-test.dev.at.rws.nl
 minio-console.dev.at.rws.nl
 minio-console.gitlab.dev.at.rws.nl
+minio-console.test.vm-05.azure.grid.rws.nl
 minio-console.testcees.dev.at.rws.nl
 minio-console.vm-05.azure.grid.rws.nl
 minio-indexer.test.vm-05.azure.grid.rws.nl
@@ -826,6 +854,7 @@ mqtt-test.grid.rws.nl
 mqtt.edge.rws.nl
 mqtt.edge.grid.rws.nl
 mta-sts.rws.nl
+mtm2-activemq-admin.regression-mtm2-router.test.vm-04.azure.grid.rws.nl
 mtm2-analyser-nwn.mtm2-redesign.test.vm-04.azure.grid.rws.nl
 mtm2-analyser-unknowns.mtm2-redesign.test.vm-04.azure.grid.rws.nl
 nbiw.ad.rws.nl
@@ -845,6 +874,7 @@ nlhull.rws.nl
 nlrdms.rws.nl
 noos.matroos.rws.nl
 notary.edge.rws.nl
+notifications.acceptatie.vm-05.azure.grid.rws.nl
 ns-inloggen.rws.nl
 nwr-iavl-odv001.int-prod.rws.nl
 nwr-ipvl-odv001.int-prod.rws.nl
@@ -893,6 +923,7 @@ phapps-test.intranet.rws.nl
 phapps.intranet.rws.nl
 phpmyadmin-test.vm-02.azure.grid.rws.nl
 pilot.sluisplanning.rws.nl
+plantuml.at.rws.nl
 poc-werkplek.rws.nl
 port-enc.rws.nl
 prd.cmk.esb.intranet.rws.nl
@@ -929,6 +960,7 @@ prs.rws.nl
 ptp.acc-inloggen.rws.nl
 ptp.inloggen.rws.nl
 quality-time.cisvm.intranet.rws.nl
+rabbitmq-admin.rta.test.vm-04.azure.grid.rws.nl
 rabbitmq-ivpp.rws.nl
 rabbitmq-ivpp.cnap-am2-acc.intranet.rws.nl
 rabbitmq-ivpp.cnap-am2.intranet.rws.nl
@@ -947,6 +979,7 @@ rabbitmq.cnap-am2-acc.intranet.rws.nl
 rabbitmq.cnap-am2.intranet.rws.nl
 rancher.at.rws.nl
 rastoken.rws.nl
+raw-data-filestore-topbcgmessages.mtm2-redesign.test.vm-04.azure.grid.rws.nl
 raw-data-multiplier-aid-triggers-incoming-actuator.incoming.test.vm-04.azure.grid.rws.nl
 raw-data-multiplier-aid-triggers-incoming-actuator.test.vm-04.azure.grid.rws.nl
 raw-data-multiplier-aid-triggers.fcd-acc.dmz.vm-04.azure.grid.rws.nl
@@ -1171,6 +1204,7 @@ tool-esbxml-supplier-vcmn.incoming.test.vm-04.azure.grid.rws.nl
 tool-esbxml-supplier-vcnon.incoming.test.vm-04.azure.grid.rws.nl
 tool-esbxml-supplier-vcnwn.incoming.test.vm-04.azure.grid.rws.nl
 tool-esbxml-supplier-vczn.incoming.test.vm-04.azure.grid.rws.nl
+tool-esbxml-supplier-vczwn.incoming.test.vm-04.azure.grid.rws.nl
 tool-esbxml-supplier.incoming.test.vm-04.azure.grid.rws.nl
 tool-esbxml-supplier.mtm2-redesign.test.vm-04.azure.grid.rws.nl
 topdesk.rws.nl
@@ -1443,6 +1477,7 @@ www.poc-werkplek.rws.nl
 www.port-enc.rws.nl
 www.preprod.beterbediend.rws.nl
 www.primavera.intranet.rws.nl
+www.proef-p8.intranet.rws.nl
 www.professional.test.liwo.intranet.rws.nl
 www.profgeodata.dynamic.test.liwo.intranet.rws.nl
 www.profgeodata.static.test.liwo.intranet.rws.nl

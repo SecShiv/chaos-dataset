@@ -1119,6 +1119,7 @@ ea-recommendation-agents.devx.cbre.com
 ea-recommendation-agents.internal.devx.cbre.com
 ea-recommendation-agents.nonprod.devx.cbre.com
 ea-recommendation-agents.prod.devx.cbre.com
+ea-recommendation-agents.uat.devx.cbre.com
 eap.twistlock.gcso.cbre.com
 eastus2.azure.edge.artifactory.gcso.cbre.com
 eastus2.azure.edge.artifactory.gcsonp.cbre.com
@@ -2088,6 +2089,7 @@ marketcanvas-dev.cbre.com
 marketcanvas-dev2.cbre.com
 marketcanvas-qa.cbre.com
 marketcanvas-qa2.cbre.com
+marketcanvas-static-images.cbre.com
 marketcanvas-uat.cbre.com
 marketcanvas-uat2.cbre.com
 marketcanvas2.cbre.com
@@ -2140,6 +2142,7 @@ merge.pie.cbre.com
 merge.tether.cbre.com
 metabase.dealiq.cbre.com
 metrics.gcso.cbre.com
+metrics.gcsonp.cbre.com
 metview.cbre.com
 mexico.preview.cbre.com
 mfa.cbre.com
@@ -2311,6 +2314,7 @@ myreceiptsuat.cbre.com
 myreceiptsuat-aws.cbre.com
 myreimfin.cbre.com
 myreimfinuat.cbre.com
+mysafety.cbre.com
 mysafety-dev.cbre.com
 myservice.cbre.com
 myservice-dev.cbre.com
@@ -2354,6 +2358,7 @@ no-uat.nonprod.cbre.com
 nonprod.cbre.com
 nonprod-gw.cbreone.cbre.com
 nonprod-view-es.cbre.com
+nonprod.agw.gcsonp.cbre.com
 norway.preview.cbre.com
 notarealwebsite.cbre.com
 np-ccc-gateway.serviceinsight.cbre.com
@@ -2383,6 +2388,7 @@ ol-tops2.cbre.com
 ol.tops2.cbre.com
 ol.tops2-dev.cbre.com
 ol.tops2-uat.cbre.com
+ol.vas-funds.cbre.com
 ol.vas-funds-stg.cbre.com
 ol.vas-funds-uat.cbre.com
 oman.cbre.com
@@ -2464,6 +2470,7 @@ performanceiq.cbre.com
 pes-calcstaging.cbre.com
 pes-workplace.cbre.com
 pes.dealstream.cbre.com
+pfc-dev.cbre.com
 philippines.cbre.com
 philippines-qa.nonprod.cbre.com
 philippines-tm.nonprod.cbre.com
@@ -2524,6 +2531,7 @@ poiapi-uat.cbre.com
 poiapi-uat2.cbre.com
 portal.ifmhub.cbre.com
 portfolio-strategy-dev.cbre.com
+portfolio-strategy-qa.cbre.com
 portfolio-strategy-uat.cbre.com
 portfolioriskassessment.cbre.com
 portfolioriskassessment-1.cbre.com
@@ -2540,6 +2548,8 @@ potentialrealized.cbre.com
 ppdapi-ukdataplatform.cbre.com
 ppdukapi-ukdataplatform.cbre.com
 ppkpi.cbre.com
+ppm-portal.gcso.cbre.com
+ppm-portal.gcsonp.cbre.com
 pprod.gcso.cbre.com
 pre-notes.dealiq.cbre.com
 prenotes.dealiq.cbre.com
@@ -2580,6 +2590,7 @@ prod-media.cbreone.cbre.com
 prod-media.one.cbre.com
 prod-view-es.cbre.com
 prod.agw.gcso.cbre.com
+prod.agw.gcsonp.cbre.com
 prod.apacfinishline.cbre.com
 prod.finishline.cbre.com
 prodauthoring.cbre.com
@@ -3418,6 +3429,7 @@ twistlock.pnonprod.gcso.cbre.com
 twtpasbcp011.cbre.com
 uat.cbre.com
 uat-agile.cbre.com
+uat-ai.quantum.cbre.com
 uat-api-tops2.cbre.com
 uat-api-tops2-analytics.cbre.com
 uat-api.avm.cbre.com
@@ -3633,11 +3645,14 @@ us-east-1.aws.pf-admin.gcsonp.cbre.com
 us-east-1.aws.us.artifactory.gcso.cbre.com
 us-east-1.aws.us.artifactory.gcsonp.cbre.com
 us-east-1.nonprod.agw.gcso.cbre.com
+us-east-1.nonprod.agw.gcsonp.cbre.com
+us-east-1.prod.agw.gcsonp.cbre.com
 us-sbc2.cbre.com
 us-west-2.aws.edge.artifactory.gcso.cbre.com
 us-west-2.aws.edge.artifactory.gcsonp.cbre.com
 us-west-2.aws.us.artifactory.gcso.cbre.com
 us-west-2.aws.us.artifactory.gcsonp.cbre.com
+us-west-2.prod.agw.gcsonp.cbre.com
 us.artifactory-dr-staging.gcsonp.cbre.com
 us.artifactory-dr.gcsonp.cbre.com
 us.artifactory-new.gcso.cbre.com
@@ -3830,6 +3845,7 @@ www.api-tops2-analytics.cbre.com
 www.api-uat.smartfm.cbre.com
 www.api.dealiq.cbre.com
 www.api.smartfm.cbre.com
+www.api.tli.cbre.com
 www.arguswebgi.cbre.com
 www.arguswebgi-test.cbre.com
 www.assetintel.cbre.com
@@ -4426,6 +4442,7 @@ www.vmapapi-dev.cbre.com
 www.vmapapi-test.cbre.com
 www.web-bff-dev.smartfm.cbre.com
 www.web-bff-qa.smartfm.cbre.com
+www.web-bff-uat.smartfm.cbre.com
 www.web-bff.smartfm.cbre.com
 www.webprove.cbre.com
 www.welcome.cbre.com
@@ -4448,5 +4465,3 @@ zoning.qa.finishline.cbre.com
 zoning.qa2.finishline.cbre.com
 zoning.staging.finishline.cbre.com
 zoning.staging1.finishline.cbre.com
-zoning.staging2.finishline.cbre.com
-zzz.dev.chatbot.cbre.com

@@ -20,7 +20,9 @@
 *.campaign.r20.l1.constantcontact.com
 *.campaign.r20.s1.constantcontact.com
 *.campaign.s1.constantcontact.com
+*.campaignlp.constantcontact.com
 *.campaignlp.l1.constantcontact.com
+*.campaignlp.s1.constantcontact.com
 *.community.constantcontact.com
 *.d1.constantcontact.com
 *.go.constantcontact.com
@@ -39,6 +41,7 @@
 *.pro.s1.constantcontact.com
 *.qa.authz.constantcontact.com
 *.qa.identity.constantcontact.com
+*.qa.service-mesh.constantcontact.com
 *.r20.s1.constantcontact.com
 *.rise.constantcontact.com
 *.s1.constantcontact.com
@@ -1730,6 +1733,7 @@ qa.myemail-api.constantcontact.com
 qa.ppc.constantcontact.com
 qa.segment-svc.constantcontact.com
 qa.seo.constantcontact.com
+qa.service-mesh.constantcontact.com
 qa.shoppable-product-svc.constantcontact.com
 qa.sso-ac.aws.constantcontact.com
 qa.sso.aws.constantcontact.com

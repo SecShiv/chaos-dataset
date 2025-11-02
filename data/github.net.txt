@@ -52,6 +52,7 @@
 *.service.vpc-us-east-1.github.net
 *.service.westeurope.github.net
 *.va1-iad.github.net
+*.va3-iad.github.net
 *.vitess-production.service.github.net
 *.vitess-staging.service.github.net
 *.warehouse.service.github.net
@@ -242,6 +243,7 @@ splunk-api-westeu-prod-01.service.azure-westeurope.github.net
 splunk-api.service.azure-eastus.github.net
 splunk-api.service.splunk-us-east-1.github.net
 splunk-hec.service.azure-eastus.github.net
+splunk-hec.service.prod-jpw-01.github.net
 splunk-heclb.service.github.net
 splunk-heclb.service.prod-ae-01.github.net
 splunk-heclb.service.prod-weu-01.github.net

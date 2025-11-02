@@ -269,6 +269,7 @@ longer-service-dev-jt-200529-a-https.api.verily.com
 looker-be-dev.api.verily.com
 looker-fe-dev.api.verily.com
 looker-server.api.verily.com
+looker-site-ctms-kaiser.verily.com
 looker-site-ctms-stage.verily.com
 looker.api.verily.com
 looker2.api.verily.com
@@ -278,6 +279,8 @@ lse-prod.api.verily.com
 lse-staging.api.verily.com
 lsevh-cli-dev-unstable.api.verily.com
 lsevh-cli-dev.api.verily.com
+lsevh-cli-prod.api.verily.com
+lsevh-cli-stage.api.verily.com
 lsevh-cli-test.api.verily.com
 lsevh-dev-unstable.api.verily.com
 lsevh-dev.api.verily.com
@@ -644,6 +647,7 @@ terrakube.verily.com
 terrakube-api.dev.verily.com
 terrakube-registry.verily.com
 terrakube-registry.dev.verily.com
+terrakube.dev-unstable.api.verily.com
 test-01232023-brooke-py-http.api.verily.com
 test-200616-0-dev-jbp-20200512-1-https.api.verily.com
 test-dev-release-0723-rc0-https.api.verily.com
@@ -657,10 +661,12 @@ test.auth.verily.com
 test.callback.verily.com
 test.cli.verily.com
 test.home.verily.com
+test.iac.vrps.api.verily.com
 test.login.verily.com
 test.publichealth.api.verily.com
 test.retinal.api.verily.com
 test.test-harness.vrps.api.verily.com
+test.vapi.verily.com
 test.vrps.api.verily.com
 tx-autopush.api.verily.com
 tx-dev.api.verily.com
@@ -691,6 +697,7 @@ value-suite-pje-autopush.api.verily.com
 value-suite-pje-dev.api.verily.com
 value-suite-pje-mvp-demo1.api.verily.com
 value-suite-pje-staging.api.verily.com
+vapi.verily.com
 vc-react.api.verily.com
 vc-releases-dra-dev-demo-0125-gke-cluster.api.verily.com
 vc-releases-dra-dev-demo-release-20210802.api.verily.com
@@ -847,6 +854,7 @@ workbench-app-staging.verily.com
 workbench-app-staging.api.verily.com
 workbench-app-test.verily.com
 workbench-data-explorer.verily.com
+workbench-data-explorer-dev.verily.com
 workbench-data-explorer-dev-unstable.verily.com
 workbench-data-explorer-prod.verily.com
 workbench-data-explorer-test.verily.com
@@ -868,6 +876,7 @@ workbench-staging.verily.com
 workbench-support-dev-unstable.verily.com
 workbench-support-prod.verily.com
 workbench-support-staging.verily.com
+workbench-support-test.verily.com
 workbench-test.verily.com
 www.verily.com
 www.aem.verily.com

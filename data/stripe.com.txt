@@ -319,6 +319,7 @@ issuing-hooks-public.stripe.com
 issuing-key.stripe.com
 jira.stripe.com
 jira.corp.stripe.com
+jira.qa.corp.stripe.com
 js.stripe.com
 js.fastly.cdn.stripe.com
 jss-nw-public.stripe.com
@@ -361,8 +362,12 @@ preprod-crypto-js.stripe.com
 preprod-invoice.stripe.com
 preprod-js.stripe.com
 preprod-pdx.corp.stripe.com
+preprod-profile.stripe.com
+preprod-secure-files.stripe.com
+preprod-secure-files.fastly.cdn.stripe.com
 preprod-status.stripe.com
 preprod-terminal-statics.stripe.com
+preprod-trust.stripe.com
 preprod.corp.stripe.com
 press.stripe.com
 privacy.stripe.com
@@ -420,10 +425,12 @@ qa-northwest.corp.stripe.com
 qa-partner-amex-east-asia-sponsored-merchant.stripe.com
 qa-partner-hdfc.stripe.com
 qa-pdx.corp.stripe.com
+qa-profile.stripe.com
 qa-secure-files.stripe.com
 qa-secure-files.fastly.cdn.stripe.com
 qa-status.stripe.com
 qa-terminal-statics.stripe.com
+qa-trust.stripe.com
 qa.corp.stripe.com
 qr.stripe.com
 r.stripe.com

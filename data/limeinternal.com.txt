@@ -1,8 +1,10 @@
 .limeinternal.com
 *.limeinternal.com
+*.app.sandbox.limeinternal.com
 airflow.limeinternal.com
 airflow-mwaa.limeinternal.com
 anomalo.limeinternal.com
+app.sandbox.limeinternal.com
 common-airflow.limeinternal.com
 data.limeinternal.com
 data-entrypoint-api.limeinternal.com
@@ -22,5 +24,3 @@ pmm.limeinternal.com
 sidewalk-data-collection.limeinternal.com
 tab.limeinternal.com
 tableau.limeinternal.com
-test.limeinternal.com
-www.limeinternal.com

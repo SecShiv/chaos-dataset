@@ -13,6 +13,7 @@
 5-sept-2023-fix.gopayapi.com
 addonmetadatatest.gopayapi.com
 aether-staging-id-em.gopayapi.com
+al-gtdp-p-kong.gopayapi.com
 al-gtdp-p-kong-grpc.gopayapi.com
 al-gtdp-s-kong-grpc.gopayapi.com
 alfamart-cstore.gopayapi.com
@@ -102,6 +103,7 @@ firebase-crash-reporter.gopayapi.com
 foo-bar.gopayapi.com
 foo-barone.gopayapi.com
 foo-test.gopayapi.com
+fortune-teller-mini-app.gopayapi.com
 fresh-ginger-ale.gopayapi.com
 from-primary-1.gopayapi.com
 fs-stg.gopayapi.com
@@ -143,8 +145,10 @@ gwa.sandbox.gopayapi.com
 gwa.staging.gopayapi.com
 gwc.gopayapi.com
 gwk.gopayapi.com
+gws-cf.staging.gopayapi.com
 gws.sandbox.gopayapi.com
 gws.staging.gopayapi.com
+hackacat.gopayapi.com
 hello-f9b47cc69.gopayapi.com
 hodor.gopayapi.com
 id-dc-switch.gopayapi.com
@@ -177,6 +181,7 @@ indonesia-driver-emoney.staging.gopayapi.com
 indonesia-emoney.gopayapi.com
 indonesia-emoney.staging.gopayapi.com
 indonesia-points.gopayapi.com
+infrastructure-engineering.foundation.team.al-gtdp-p-kong.gopayapi.com
 infrastructure-engineering.foundation.team.al-gtdp-p-kong-grpc.gopayapi.com
 infrastructure-engineering.foundation.team.al-gtdp-s-kong-grpc.gopayapi.com
 infrastructure-engineering.governance.team.gopayapi.com
@@ -216,6 +221,7 @@ infrastructure-engineering.governance.team.gp.staging.gopayapi.com
 infrastructure-engineering.governance.team.gp.staging.gateway.gopayapi.com
 infrastructure-engineering.governance.team.gwc.gopayapi.com
 infrastructure-engineering.governance.team.gwk.gopayapi.com
+infrastructure-engineering.governance.team.gws-cf.staging.gopayapi.com
 infrastructure-engineering.governance.team.gws.staging.gopayapi.com
 infrastructure-engineering.governance.team.id-dc-switch.gopayapi.com
 infrastructure-engineering.governance.team.id-dc-switch-staging.gopayapi.com
@@ -241,6 +247,7 @@ infrastructure-engineering.governance.team.insurance-platform-staging.gopayapi.c
 infrastructure-engineering.governance.team.insurance-staging.gopayapi.com
 infrastructure-engineering.governance.team.integration.gopayapi.com
 infrastructure-engineering.governance.team.integration-gws-app.gopayapi.com
+infrastructure-engineering.governance.team.janusgraph-gfe-ro-feature-engine.gopayapi.com
 infrastructure-engineering.governance.team.kong-goid-revocation-01.gopayapi.com
 infrastructure-engineering.governance.team.kong-goid-revocation-01.sandbox.gopayapi.com
 infrastructure-engineering.governance.team.kong-goid-revocation-01.staging.gopayapi.com
@@ -282,10 +289,13 @@ infrastructure-engineering.governance.team.partner-report.staging.gopayapi.com
 infrastructure-engineering.governance.team.payment-callback-adapter-stg.di.gopayapi.com
 infrastructure-engineering.governance.team.payment-provider.gopayapi.com
 infrastructure-engineering.governance.team.payment-provider.staging.gopayapi.com
+infrastructure-engineering.governance.team.public-mini-app-merchants-backend.gopayapi.com
+infrastructure-engineering.governance.team.public-mini-app-merchants-backend.staging.gopayapi.com
 infrastructure-engineering.governance.team.risk-gateway.gopayapi.com
 infrastructure-engineering.governance.team.risk-gateway.staging.gopayapi.com
 infrastructure-engineering.governance.team.sahabat-ai-iads.gopayapi.com
 infrastructure-engineering.governance.team.sandbox-gws-app.gopayapi.com
+infrastructure-engineering.governance.team.simple-backend.ambientmesh.gopayapi.com
 infrastructure-engineering.governance.team.snap-bni.gopayapi.com
 infrastructure-engineering.governance.team.status.global.gateway.gopayapi.com
 infrastructure-engineering.governance.team.status.global.staging.gateway.gopayapi.com
@@ -332,9 +342,11 @@ iris-notification-sbx.gopayapi.com
 iris-notification-stg.gopayapi.com
 isaginewest.gopayapi.com
 jago-partners-test.gopayapi.com
+janusgraph-gfe-ro-feature-engine.gopayapi.com
 jnt.gopayapi.com
 jnt.stg.gopayapi.com
 kartuku.gopayapi.com
+katulampa-lark-app.gopayapi.com
 kong-goid-revocation-01.gopayapi.com
 kong-goid-revocation-01.sandbox.gopayapi.com
 kong-goid-revocation-01.staging.gopayapi.com
@@ -446,6 +458,9 @@ public-domain-check-1.gopayapi.com
 public-domain-popop.gopayapi.com
 public-emoney.gopayapi.com
 public-istio-3.gopayapi.com
+public-mini-app-merchants-backend.gopayapi.com
+public-mini-app-merchants-backend.staging.gopayapi.com
+public-mini-app-merchants.staging.gopayapi.com
 public-sandbox.gopayapi.com
 public-test-canary-route.gopayapi.com
 public-test-route.gopayapi.com
@@ -474,11 +489,13 @@ sandbox-midtrans.gopayapi.com
 secure-parking.gopayapi.com
 secure-parking-staging.gopayapi.com
 setupforsli.gopayapi.com
+simple-backend.ambientmesh.gopayapi.com
 singleroute.gopayapi.com
 singleroute-public.gopayapi.com
 snap.gopayapi.com
 snap-auth.gopayapi.com
 snap-bni.gopayapi.com
+snap-genie-backend.gopayapi.com
 snap-integration.gopayapi.com
 snap-merchants.staging.gopayapi.com
 snap-sandbox.gopayapi.com
@@ -534,6 +551,7 @@ test-niel-depr-c.gopayapi.com
 test-niel-depr-d.gopayapi.com
 test-niel-depr-e.gopayapi.com
 test-niel-depr-f.gopayapi.com
+test-pd-addon-sync-fix.gopayapi.com
 test-pd-kafka-reg.gopayapi.com
 test-pub-domain-addon-ac-full-2.gopayapi.com
 test-pub-domain-fix.gopayapi.com
@@ -560,6 +578,7 @@ th-emoney.gopayapi.com
 th-emoney.production.gopayapi.com
 th-emoney.staging.gopayapi.com
 thread-summarizer.staging.gopayapi.com
+tiktok-onekyc.ky.id.gopayapi.com
 toko.merchant.gopayapi.com
 toko.merchant.internal.gopayapi.com
 toko.merchant.staging.gopayapi.com
@@ -569,6 +588,7 @@ tokped.di.gopayapi.com
 transfer-stg.gopayapi.com
 transfers.gopayapi.com
 transfers-1.gopayapi.com
+travelbud-staging.gopayapi.com
 treasd.gopayapi.com
 tsel.stg.gopayapi.com
 tts.gopayapi.com

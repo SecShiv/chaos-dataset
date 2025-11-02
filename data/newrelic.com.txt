@@ -102,6 +102,7 @@ cf-proxy-stg2a.newrelic.com
 chart-embed.service.newrelic.com
 chart-embed.service.eu.newrelic.com
 chartdata.service.newrelic.com
+chartdata.service.eu.newrelic.com
 chartdata.staging-service.newrelic.com
 chi-gw-1.newrelic.com
 chi-infra-api.newrelic.com
@@ -319,6 +320,7 @@ dev.newrelic.com
 dev-auth.newrelic.com
 dev-forums.newrelic.com
 dev-infrastructure.newrelic.com
+dev-knowledge.newrelic.com
 dev-login.newrelic.com
 dev-supportportal.newrelic.com
 developer.newrelic.com
@@ -568,6 +570,7 @@ portal.newrelic.com
 provisioning.service.newrelic.com
 public-service-gateway.eu.newrelic.com
 publickeys.newrelic.com
+qa-supportportal.newrelic.com
 radar.newrelic.com
 radar-api.service.newrelic.com
 radar-api.service.eu.newrelic.com
@@ -609,6 +612,7 @@ spectrum.staging-collectors.newrelic.com
 staging.newrelic.com
 staging-api.newrelic.com
 staging-api.dualstack.newrelic.com
+staging-apt.newrelic.com
 staging-auth.newrelic.com
 staging-beacon.newrelic.com
 staging-beacon-1.newrelic.com
@@ -670,6 +674,7 @@ staging-supportportal.newrelic.com
 staging-synthetics.newrelic.com
 staging-trace-api.newrelic.com
 staging-ui.newrelic.com
+staging-web-snapshots.newrelic.com
 staging-www.newrelic.com
 staging.issues.newrelic.com
 staging.nucleus-lb.newrelic.com
@@ -777,3 +782,7 @@ www-staging.newrelic.com
 www.academyonline.newrelic.com
 www.articles.newrelic.com
 www.connect.newrelic.com
+www.resources.newrelic.com
+www.service.newrelic.com
+www.staging-connect.newrelic.com
+yum.newrelic.com

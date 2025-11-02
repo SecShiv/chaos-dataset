@@ -9,6 +9,8 @@ admin-test-api.difx.com
 admin-v3.difx.com
 api.difx.com
 api-docs.difx.com
+api-staging.difx.com
+api-staging-admin.difx.com
 api-v2.difx.com
 api-v3.difx.com
 api-v3-admin.difx.com
@@ -19,6 +21,7 @@ apptest.difx.com
 argocd.difx.com
 argocd-dev.difx.com
 autodiscover.difx.com
+beta.difx.com
 blog.difx.com
 bot.difx.com
 buybtc.difx.com
@@ -34,8 +37,10 @@ development-auth.difx.com
 development-derivatives.difx.com
 development-features.difx.com
 development-news.difx.com
+development-orders.difx.com
 development-otc.difx.com
 development-profile.difx.com
+development-spot.difx.com
 development-wallet.difx.com
 docs.difx.com
 email.difx.com
@@ -68,7 +73,9 @@ sip.difx.com
 spot.difx.com
 spotdev.difx.com
 staging.difx.com
+staging-admin.difx.com
 staging-api.difx.com
+staging-bot.difx.com
 staging-cms.difx.com
 staging-v2.difx.com
 terminal.difx.com
@@ -77,4 +84,3 @@ test-public-api.difx.com
 test1.difx.com
 wallet.difx.com
 www.difx.com
-www.deployment.difx.com

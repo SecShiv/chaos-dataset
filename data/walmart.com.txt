@@ -3545,6 +3545,7 @@ epi-miscqa-vip01-stg.wmsclogistics.walmart.com
 epi-miscqa-vip01-test-qa-cert.walmart.com
 epi-miscqa-vip01-test.api.walmart.com
 epi-miscqa-vip01-ty.test.api.walmart.com
+epi-miscqa-vip01-vizio.api.stg.walmart.com
 epi-miscqa-vip01-wmsalud-qa.walmart.com
 epi-miscqa-vip01-wmtmanagedb2c-identity-qa.walmart.com
 epi-miscqa-vip01-wmtmanagedb2c-identity-stg.walmart.com
@@ -5672,6 +5673,7 @@ mytech.qa.walmart.com
 mytech.stage.walmart.com
 mywalmartschedule.walmart.com
 mywalmartschedulecert.walmart.com
+naga-test.walmart.com
 narxcare-logicoy-cert.walmart.com
 narxcare-logicoy-dev.walmart.com
 narxcare-logicoy-test.walmart.com
@@ -5917,6 +5919,7 @@ notificationsapi-2.prod.cloud.walmart.com
 notificationsapi-2.qa.cloud.walmart.com
 notificationsapi.prod.cloud.walmart.com
 notificationsapi.qa.cloud.walmart.com
+npm-origin.qa.walmart.com
 npm.artifacts.walmart.com
 npm.artifacts.azeast.walmart.com
 npm.artifacts.azeast.stg.walmart.com
@@ -6926,6 +6929,8 @@ px.nx.walmart.com
 px.nx1.walmart.com
 pxcentos.prod.walmart.com
 pxlegacy.walmart.com
+pxlegacy-to-af.walmart.com
+pxlegacy-validate.walmart.com
 pxlegacy.glb.prod.walmart.com
 pxnx.walmart.com
 pxsquids.walmart.com
@@ -9138,6 +9143,8 @@ tracing-istio-system.prod.seiyuapis.cloud.walmart.com
 tracing-istio-system.stg.seiyuapis.cloud.walmart.com
 track.walmart.com
 tracking.walmart.com
+tracking.ib.stage.walmart.com
+tracking.ib.stage.reviews.walmart.com
 tracking.ib.transaction.walmart.com
 tracking.ib.transaction.livebetter.walmart.com
 tracking.ib.transaction.reviews.walmart.com
@@ -9397,6 +9404,7 @@ visit-api.walmart.com
 visit-api-qa.walmart.com
 visit-dev.walmart.com
 visit-qa.walmart.com
+vizio.api.stg.walmart.com
 vlbc.fdcsoa.walmart.com
 vn096t5.vqa.prod.walmart.com
 vn0vpox.vqa.prod.walmart.com
@@ -9466,6 +9474,7 @@ wasp.qa.walmart.com
 waspapp.dev.wasp-server.rea.qa.walmart.com
 wbschatbotdev.walmart.com
 wcp-unifiedpayments.tss.stage.walmart.com
+wcsportal.walmart.com
 wcsportal.stage.walmart.com
 wd.hrsecurity.boprs.qa.walmart.com
 wdf-dev.walmart.com
@@ -9662,6 +9671,7 @@ wmx.walmart.com
 wmx.prod.wmx-ui.prod.walmart.com
 work.walmart.com
 work-manager.prod.walmart.com
+work-manager.prod-ca.walmart.com
 work-manager.stage.walmart.com
 work-manager.stage-ca.walmart.com
 work-service-b.qa.ase.rx.chp.cloud.walmart.com

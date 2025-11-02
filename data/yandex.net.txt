@@ -49,6 +49,7 @@
 *.daas.yandex.net
 *.demo.on-prem.maps.yandex.net
 *.disk.yandex.net
+*.do-elama.yandex.net
 *.dot.dns.yandex.net
 *.downloader.disk.yandex.net
 *.e.oscar.yandex.net
@@ -99,6 +100,7 @@
 *.mega-graphite-https.search.yandex.net
 *.mindbox.test.vertis.yandex.net
 *.mindbox.vertis.yandex.net
+*.mirror.yandex.net
 *.ml-rag.cloud.yandex.net
 *.mobile.yandex.net
 *.mp.arenda.yandex.net
@@ -5033,6 +5035,7 @@ api.video.yandex.net
 api.weather.yandex.net
 api.weather-tst.yandex.net
 api.webmaster.yandex.net
+api.wordstat.yandex.net
 api.yaga.afisha.yandex.net
 api.yandex-query.cloud.yandex.net
 api.yaqueue.taxi.yandex.net
@@ -5446,6 +5449,7 @@ app.balancer.crowdtest.testing.travel.yandex.net
 app.balancer.production.travel.yandex.net
 app.crowdtest.travel.rtc.yandex.net
 app.eda.yandex.net
+app.lavka.yandex.net
 app.tanker.yandex.net
 app.tanker.pre.yandex.net
 app.tst.tanker.yandex.net
@@ -15384,6 +15388,7 @@ cdn-srv07e.cdn.yandex.net
 cdn-srv07e.media.yandex.net
 cdn-srv07h.cdn.yandex.net
 cdn-srv08h.cdn.yandex.net
+cdn.app-store.dialogs.yandex.net
 cdn.practicum.yandex.net
 cdn.video.cloud.yandex.net
 cdnt.yandex.net
@@ -17479,6 +17484,7 @@ common05h.mail.yandex.net
 common06f.mail.yandex.net
 common06h.mail.yandex.net
 common2.buildfarm.yandex.net
+comms.crm.yandex.net
 commune-external.edadeal.yandex.net
 commune.edadeal.yandex.net
 companion-int.taxi.yandex.net
@@ -17510,6 +17516,7 @@ complshingler1m.so.yandex.net
 complshingler1o.so.yandex.net
 concurrency-arbiter-preproduction.ott.yandex.net
 concurrency-arbiter-production.stable.qloud-b.yandex.net
+concurrency-arbiter.ap.ott.yandex.net
 concurrency-arbiter.ott.yandex.net
 conductor.testing.yandex.net
 conf.dev.tools.yandex.net
@@ -23347,6 +23354,7 @@ dnsstatic-mskstoredata03.cdn.yandex.net
 dnsstatic-mskstoredata04.cdn.yandex.net
 dnsstatic-rad01.cdn.yandex.net
 dnsstatic-rad02.cdn.yandex.net
+do-elama.yandex.net
 doc-cat.haze.yandex.net
 doc-farm.dev.yandex.net
 doc-storage1.market.yandex.net
@@ -25899,6 +25907,7 @@ fasttier-tr02.search.yandex.net
 fasttier-tr03.search.yandex.net
 fasttier-tr04.search.yandex.net
 fasttier-tr05.search.yandex.net
+fasttrack-proxy-api.test.vertis.yandex.net
 fasttrack-proxy-api.vertis.yandex.net
 fastwiz-sas.i.fog.yandex.net
 fastwiz.i-folb.fog.yandex.net
@@ -29824,6 +29833,7 @@ grft2o.mail.yandex.net
 grid-test.haze.yandex.net
 grind.i-folb.fog.yandex.net
 grocery-anonym-proxy.lavka.yandex.net
+grocery-authproxy-ng.lavka.yandex.net
 grocery-authproxy-proxy.lavka.yandex.net
 grocery-authproxy-proxy.lavka.tst.yandex.net
 grocery-authproxy.deli.lavka.yandex.net
@@ -51838,6 +51848,8 @@ npm-repo.dev.yandex.net
 npm-slave01.haze.yandex.net
 nport.yandex.net
 nprobeta.maps.dev.yandex.net
+nq-tst.appmetrica.yandex.net
+nq.tst.appmetrica.yandex.net
 ns.yandex.net
 ns-cache.yandex.net
 ns-cache.test.yandex.net
@@ -60894,6 +60906,7 @@ recovery01d.avatars.yandex.net
 recovery01f.avatars.yandex.net
 recovery01g.avatars.yandex.net
 recovery01h.avatars.yandex.net
+recrubot-prod.yandex.net
 recrubot-unstable.yandex.net
 recv1.skyman.loadtest.alexpv-precise-1.haze.yandex.net
 recv1.skyman.stand.radolga-precise-juggler.haze.yandex.net
@@ -66792,6 +66805,7 @@ safedns-v2-96.yandex.net
 safedns-v2-97.yandex.net
 safedns-v2-98.yandex.net
 safedns-v2-99.yandex.net
+saft-gateway-config-api.ap.ott.yandex.net
 saif.vz.dev.yandex.net
 saint.bshive.yandex.net
 saint.bshive01d.yandex.net
@@ -75698,6 +75712,7 @@ selenograph-sg-e-1.haze.yandex.net
 selenograph-sg-h-1.haze.yandex.net
 selenograph-test-tank.haze.yandex.net
 selenograph-test-tank2.haze.yandex.net
+self-service-frontend.taxi.yandex.net
 selfdns-api.yandex.net
 selfdns-api01f.berry.yandex.net
 selfdns-api01s.berry.yandex.net
@@ -86324,6 +86339,7 @@ uvizhe-dev-trusty.i-folb.fog.yandex.net
 uwsgi-mpfs.disk.yandex.net
 ux1.i-folb.fog.yandex.net
 ux2.i-folb.fog.yandex.net
+uz.mob.maps.yandex.net
 uzcard-3ds.paysys.yandex.net
 uzcard-3ds.stable.qloud-b.yandex.net
 v0.wdevx.yandex.net
@@ -92003,6 +92019,7 @@ ws-api.music.yandex.net
 ws-api.music.qa.yandex.net
 ws.api.music.yandex.net
 ws.eats-cheque-pos-gate.eda.yandex.net
+ws.eats-cheque-pos-gate.eda.tst.yandex.net
 ws.eats-integration-offline-orders.eda.yandex.net
 ws.eats-integration-offline-orders.eda.tst.yandex.net
 ws.vseapteki.eda.yandex.net
@@ -108141,3 +108158,5 @@ zweb-test.yandex.net
 zweb-test-m1.haze.yandex.net
 zwei.haze.yandex.net
 zworker-n1.yandex.net
+zworker-s1.yandex.net
+zworker-test.yandex.net

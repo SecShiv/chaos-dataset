@@ -34,6 +34,7 @@
 *.staging.dev.node.vechain.org
 *.staging.prod.node.vechain.org
 *.test.evearn.vechain.org
+academy.vechain.org
 admin.hive24.vechain.org
 admin.qa.marketplace.vechain.org
 ambassador.vechain.org
@@ -85,6 +86,8 @@ dev.rewards.vechain.org
 dev.sync2.vechain.org
 devnet.veworld.vechain.org
 docs.vechain.org
+docs.stargate.vechain.org
+docs.vechainkit.vechain.org
 docs.vevote.vechain.org
 env.vechain.org
 eseries.atp.vechain.org
@@ -131,6 +134,7 @@ new.qa.marketplace.vechain.org
 newmrkt.dev.marketplace.vechain.org
 news.vechain.org
 nittoatpfinals.vechain.org
+nodeops.vechain.org
 notification-center.vechain.org
 phygital.vechain.org
 privy.vechain.org
@@ -147,7 +151,10 @@ site.vechain.org
 site.stargate.vechain.org
 solarwise.marketplace.vechain.org
 staging.dev.node.vechain.org
+staging.devhub.vechain.org
 staging.prod.node.vechain.org
+stargate.vechain.org
+static-assets.design.vechain.org
 status.vechain.org
 status.dev.node.vechain.org
 superadmin.atp.vechain.org
@@ -161,6 +168,7 @@ testname.marketplace.vechain.org
 testnet.dead.prod.veworld.vechain.org
 testnet.dev.vechain.org
 testnet.dev.explore.vechain.org
+testnet.dev.rpc.vechain.org
 testnet.production.vechain.org
 testnet.status.vechain.org
 thor-solo.dev.b3tr.vechain.org
@@ -201,6 +209,3 @@ www.launch.marketplace.vechain.org
 www.launch.qa.marketplace.vechain.org
 www.prod-demo.dev.rewards.vechain.org
 www.qa.maasadmin.vechain.org
-www.test.evearn.vechain.org
-www.vechain-kit.vechain.org
-zkpvote.vechain.org

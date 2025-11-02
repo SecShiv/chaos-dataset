@@ -325,6 +325,7 @@ australia.db.com
 austria.db.com
 auth-dbdirect.gtb.db.com
 auth-goldnotes-uat.gtb.db.com
+auth.cidp-eu.db.com
 auth.db-pms.custody.db.com
 auth.dbdirect.gtb.db.com
 auth.dev.cidp.db.com
@@ -2300,6 +2301,7 @@ fscm-uat.gtb.db.com
 fscm.egslb.db.com
 fscm.gtb.db.com
 fscmtsu.gtb.db.com
+fsf.cidp.db.com
 fsfext-uat.db.com
 fsfprod.egslb.db.com
 fsfprodub.egslb.db.com
@@ -2437,6 +2439,7 @@ gtbuat-ptl.gtb.db.com
 guestwifi-ce1.db.com
 guestwifi-ce2.db.com
 guestwifi-ce3.db.com
+guestwifi-ce3-ngw.db.com
 guestwifi-sg1.db.com
 guestwifi-sg2.db.com
 guestwifi-uk1.db.com
@@ -2861,6 +2864,8 @@ lonasddpukp1.uk.db.com
 lonasddpuku1.uk.db.com
 lonasddtgwb1.uk.db.com
 lonasddtgwp1.uk.db.com
+lonasmdmau1.uk.db.com
+lonasmdmfu1.uk.db.com
 lonasukwdcc1.uk.db.com
 lonasukwdcc2.uk.db.com
 lonasxtaub2.uk.db.com
@@ -4672,6 +4677,7 @@ staging.ext.prd-b2b.db-auskunft.intranet.db.com
 staging.ext.preprod.mobile.autobahn.intranet.db.com
 staging.ext.public.deutschebank.intranet.db.com
 staging.ext.pwcc-operations.intranet.db.com
+staging.ext.reporting.gtb.intranet.db.com
 staging.ext.rreefclientconnect.intranet.db.com
 staging.ext.search-uk.autobahn.intranet.db.com
 staging.ext.search.uk.autobahn.intranet.db.com
@@ -4784,10 +4790,12 @@ staging.lighthouse.dws.intranet.db.com
 staging.lighthouse.us.dws.intranet.db.com
 staging.liquidity.deutscheam.intranet.db.com
 staging.liquidity.deutscheawm.intranet.db.com
+staging.lms.deutsche.bank.intranet.db.com
 staging.logalty.deutsche-bank.intranet.db.com
 staging.login.deutschebank.intranet.db.com
 staging.login.tradeconnect.deutschebank.intranet.db.com
 staging.loni.uat.deutscheinvest.intranet.db.com
+staging.losapi.deutsche.bank.intranet.db.com
 staging.lp.tas.db.com
 staging.lp.tas.intranet.db.com
 staging.lt-sso.db-direct.eu.gtb.intranet.db.com
@@ -4807,6 +4815,7 @@ staging.msg-de.intranet.db.com
 staging.msg.uat-de.intranet.db.com
 staging.mst.space.db.com
 staging.mst.space.intranet.db.com
+staging.mta-sts.bhw.intranet.db.com
 staging.mybankindia.deutsche.bank.intranet.db.com
 staging.mydevice.intranet.db.com
 staging.nfapp.pwm.intranet.db.com
@@ -4887,6 +4896,7 @@ staging.qa.3dsecure.deutschebank.intranet.db.com
 staging.qs.uk.preprod-gpx.intranet.db.com
 staging.qs.us.preprod-gpx.intranet.db.com
 staging.refdata.research.intranet.db.com
+staging.reporting.gtb.db.com
 staging.sctinstclearing.intranet.db.com
 staging.search-uk.autobahn.db.com
 staging.selfserviceadmin.cn.gtb.intranet.db.com
@@ -4934,6 +4944,8 @@ staging.uat.db-versicherungsmanager.intranet.db.com
 staging.uat.dbchatbot.db.com
 staging.uat.dbchatbot.intranet.db.com
 staging.uat.dbcore.intranet.db.com
+staging.uat.dbidentity.db.com
+staging.uat.dbidentity.intranet.db.com
 staging.uat.dbmakler.intranet.db.com
 staging.uat.dbonline.deutsche-bank.intranet.db.com
 staging.uat.dbwallet.spain.intranet.db.com
@@ -5129,6 +5141,7 @@ testasha.db.com
 testatheena.db.com
 testcsr1.db.com
 testcsr2.db.com
+testdata05.de.db.com
 testdcert.db.com
 testdigicert.de.db.com
 testdigicert.uk.db.com
@@ -5489,6 +5502,7 @@ uat.dbdoc.db.com
 uat.dbeasy-ecommerce.db.com
 uat.dbeasy-ecommerce-dashboard.db.com
 uat.dbeasy.it-waf-22740-7.db.com
+uat.dbeasydigital-pmi.db.com
 uat.dbebills-global.db.com
 uat.dbhedgeworks.cib.db.com
 uat.dbidentity.db.com
@@ -5515,6 +5529,7 @@ uat.developer.corporateapi.gluex.db.com
 uat.developer.xs2a.gluex.db.com
 uat.developer2.db.com
 uat.digital.edison.db.com
+uat.digitalassets.db.com
 uat.direct.connect.db.com
 uat.directconnect.db.com
 uat.dms.dws.com-waf-96054-1.db.com
@@ -5541,6 +5556,8 @@ uat.ext.wellclub.db.com
 uat.fatca.report.intranet.db.com
 uat.fipb.pbdirect.db.com
 uat.firmadigitale.db.com
+uat.fnbx.db.com
+uat.fnbx-anly.db.com
 uat.frontier.db.com
 uat.fsf.cidp.db.com
 uat.ftps.dbdirect.connect.db.com
@@ -6641,6 +6658,7 @@ www.varant.db.com
 www.varant-uat.xmarkets.db.com
 www.verantwortung.db.com
 www.vietnam.db.com
+www.wealth.db.com
 www.womeninbusiness.db.com
 www.x--tradegate.db.com
 www.x-markets.db.com
