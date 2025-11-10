@@ -120,6 +120,8 @@
 09.grid.rws.nl
 2ddocgen.intranet.rws.nl
 2docgen.intranet.rws.nl
+554-relay-2.rws.nl
+ac-dynac.rws.nl
 acc-bergerselect.rws.nl
 acc-deformatieviewer.rws.nl
 acc-etl.rws.nl
@@ -284,6 +286,8 @@ autodiscover.ioresearch.rws.nl
 autodiscover.omgevingswet.rws.nl
 autodiscover.perszaken.rws.nl
 autodiscover.tst.rws.nl
+backend.grid.rws.nl
+backend.gridacc.rws.nl
 bas.intranet.rws.nl
 bathymetrie.rws.nl
 bbe.grid.rws.nl
@@ -333,6 +337,8 @@ cms.acc.web8.intranet.rws.nl
 cms.prd.web8.intranet.rws.nl
 cnap-dev.dev.at.rws.nl
 communication-service.test.vm-05.azure.grid.rws.nl
+compliance.grid.rws.nl
+compliance.gridacc.rws.nl
 config.internetsearch.intranet.rws.nl
 configgenerator.vm-02.azure.grid.rws.nl
 configuration.vm-02.azure.grid.rws.nl
@@ -434,12 +440,14 @@ fat.vm-02.azure.grid.rws.nl
 fcd-acc-bemobile-aid-triggers.rws.nl
 fcd-acc-bemobile-aid-triggers-actuators.dmz.vm-04.azure.grid.rws.nl
 fcd-acc-bemobile-aid-triggers.dmz.vm-04.azure.grid.rws.nl
+fcd-acc-bemobile-trajectorien.rws.nl
 fcd-acc-bemobile-trajectorien-actuators.dmz.vm-04.azure.grid.rws.nl
 fcd-acc-bemobile-trajectorien.dmz.vm-04.azure.grid.rws.nl
 fcd-aid-distributor-actuator.regression-aid-distributor.test.vm-04.azure.grid.rws.nl
 fcd-demo-backend-civvv-fcd.fcd-redesign.test.vm-04.azure.grid.rws.nl
 fcd-demo-backend-productie-lusdata.fcd-redesign.test.vm-04.azure.grid.rws.nl
 fcd-demo-frontend.fcd-redesign.test.vm-04.azure.grid.rws.nl
+fcd-prod-bemobile-aid-triggers.rws.nl
 fcd-prod-bemobile-aid-triggers-actuators.dmz.vm-04.azure.grid.rws.nl
 fcd-prod-bemobile-aid-triggers.dmz.vm-04.azure.grid.rws.nl
 fcd-prod-bemobile-trajectorien.rws.nl
@@ -521,6 +529,8 @@ intelema.ad.rws.nl
 intranet.rws.nl
 iodk.vm-02.azure.grid.rws.nl
 ioresearch.rws.nl
+iot.grid.rws.nl
+iot.gridacc.rws.nl
 iotgw.grid.rws.nl
 ipam.grid.rws.nl
 irose.vm-02.azure.grid.rws.nl
@@ -1071,6 +1081,8 @@ sonarreg.rws.nl
 spin.rws.nl
 spin.intranet.rws.nl
 spin2.rws.nl
+splunkhec.grid.rws.nl
+splunkhec.gridacc.rws.nl
 sps-acceptatie.intranet.rws.nl
 sps-test.intranet.rws.nl
 sps.intranet.rws.nl
@@ -1103,6 +1115,8 @@ standaarden.rws.nl
 static.acp.staging.rws.nl
 static.intranet.rws.nl
 staticresources.rws.nl
+status.grid.rws.nl
+status.gridacc.rws.nl
 stephan.vm-02.azure.grid.rws.nl
 stijlgids.rws.nl
 stm-sql-000-01.ad.rws.nl
@@ -1426,6 +1440,8 @@ www.getij.rws.nl
 www.git.rws.nl
 www.git.intranet.rws.nl
 www.gmg301.rws.nl
+www.grid.rws.nl
+www.gridacc.rws.nl
 www.helloworld1.rws.nl
 www.helloworld2.rws.nl
 www.hld.rws.nl
@@ -1577,7 +1593,3 @@ www.werkwijzer.cf-prod.intranet.rws.nl
 www.werkzaamheden.rws.nl
 www.wiki.rws.nl
 www.wisboa.rws.nl
-www.xwd.rws.nl
-www.zwerfafval.rws.nl
-xwd.rws.nl
-zwerfafval.rws.nl
