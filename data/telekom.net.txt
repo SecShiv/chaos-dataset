@@ -1,3 +1,4 @@
+.telekom.net
 *.telekom.net
 *.5g-slice.api.telekom.net
 *.a4-t1.put.telekom.net
@@ -186,6 +187,7 @@
 2f-test.soc.telekom.net
 51b60cca.dsl.pool.telekom.net
 5g-slice.api.telekom.net
+5g-slicing.telekom.net
 79-101-203-25.dynamic.isp.telekom.net
 81-5-244-155.hdsl.highway.telekom.net
 a-connector.api-tests00001.dih.telekom.net
@@ -247,6 +249,8 @@ analysis.aiappsdev.ng.telekom.net
 analysis.aiappstest.ng.telekom.net
 analytics-test.dih.telekom.net
 anchore.dev.oc.telekom.net
+anonymization-dev.ng.telekom.net
+anonymization.ng.telekom.net
 ansible01.service.smp.telekom.net
 ansible01.service.stgsmp.telekom.net
 ansible02.service.smp.telekom.net
@@ -255,12 +259,15 @@ ansible04.service.stgsmp.telekom.net
 api.telekom.net
 api-dev.tsms.telekom.net
 api-pocinet.telekom.net
+api-prod.emm.telekom.net
 api-ta.emm.telekom.net
 api-test.dih.telekom.net
 api-vg.aivoicebot.telekom.net
 api-vg.tua.aivoicebot.telekom.net
 api.ailocal.telekom.net
 api.aivoicebot.telekom.net
+api.analysis.aiapps.ng.telekom.net
+api.analysis.aiappsdev.ng.telekom.net
 api.analysis.aiappstest.ng.telekom.net
 api.ar-dev.ng.telekom.net
 api.ar-prod.ng.telekom.net
@@ -269,6 +276,7 @@ api.beherodev.ng.telekom.net
 api.beheroes.ng.telekom.net
 api.beheros.ng.telekom.net
 api.beherotest.ng.telekom.net
+api.bg.hesatodev.ids.telekom.net
 api.bg.magentaquizdev.ng.telekom.net
 api.centra.telekom.net
 api.chatbot.technik.telekom.net
@@ -298,9 +306,11 @@ api.magentaquiz.ng.telekom.net
 api.magentaquizdev.ng.telekom.net
 api.master.lab.intelligent.telekom.net
 api.mtls.sdp.telekom.net
+api.nb.hesatodev.ids.telekom.net
 api.nb.magentaquizdev.ng.telekom.net
 api.netmaker.lab.intelligent.telekom.net
 api.okrboarduat.ng.telekom.net
+api.oz.hesatodev.ids.telekom.net
 api.oz.magentaquizdev.ng.telekom.net
 api.padi.ng.telekom.net
 api.public.ds-clrx.dlthub.telekom.net
@@ -319,6 +329,7 @@ api.tu0.clt.ng.telekom.net
 api.tu0.dpsc.ng.telekom.net
 api.tu0.kek.ng.telekom.net
 api.tua.aivoicebot.telekom.net
+api.uploadlargefile.idsctest.ng.telekom.net
 api.vr-tour.telekom.net
 api.x2ala.ng.telekom.net
 api.x2digibss.ng.telekom.net
@@ -469,6 +480,7 @@ app505090954.trap-review.ng.telekom.net
 app515904398.trap-review.ng.telekom.net
 app80679865.trap-nonprod.ng.telekom.net
 appgwded01.telekom.net
+applications.trap.ng.telekom.net
 approval.intelligent.telekom.net
 apps.aivoicebot.telekom.net
 apps.mdm.telekom.net
@@ -544,6 +556,7 @@ betatest-prod.ng.telekom.net
 betatest-stg.ng.telekom.net
 betatest-test.ng.telekom.net
 betatest.ng.telekom.net
+bg.hesatodev.ids.telekom.net
 bg.magentaquizdev.ng.telekom.net
 bi4bs-bo.telekom.net
 billing-vg.aivoicebot.telekom.net
@@ -593,6 +606,7 @@ cco-remote-access.telekom.net
 ccp-nonprod.ng.telekom.net
 ccwi.ref.hotspot.telekom.net
 cdc-mail.sec.telekom.net
+cdn-community-dps.dps.telekom.net
 cdn-dev.tv.telekom.net
 cdn-t0.tv.telekom.net
 cdn.asterix.browsergames.telekom.net
@@ -610,6 +624,7 @@ cfocs01-2-secondary.msteamsvoice.telekom.net
 cfocs01-2.msteamsvoice.telekom.net
 cfocs01-mp.msteamsvoice.telekom.net
 cfocs01-secondary.cfocvoice.telekom.net
+cfocs01-secondary.msteamsvoice.telekom.net
 cfocs01.cfocvoice.telekom.net
 cfocs01.msteamsvoice.telekom.net
 cfocs02-2.msteamsvoice.telekom.net
@@ -621,8 +636,11 @@ cfocs03-secondary.cfocvoice.telekom.net
 cfocs03-secondary.msteamsvoice.telekom.net
 cfocs03.cfocvoice.telekom.net
 cfocs03.msteamsvoice.telekom.net
+cfocs10.msteamsvoice.telekom.net
+cfocs20.msteamsvoice.telekom.net
 cfocspl01.msteamsvoice.telekom.net
 cfocvoice.telekom.net
+cfpvs01.pvvoice.telekom.net
 cfpvs02.cfpvvoice.telekom.net
 cfpvs02.pvvoice.telekom.net
 cfpvvoice.telekom.net
@@ -695,9 +713,11 @@ confluence.dtoneapp.telekom.net
 connect.mdm.telekom.net
 connectedhomeplatform.telekom.net
 console-collibra.dcjs-prod.ng.telekom.net
+console-prod.emm.telekom.net
 console-ta.emm.telekom.net
 contactcentersolutions.telekom.net
 content-dev.ng.telekom.net
+content-test.ng.telekom.net
 content.ng.telekom.net
 core.dev.tduplex.ng.telekom.net
 cornholio-uat.ng.telekom.net
@@ -737,9 +757,13 @@ cxc-dev.svhproducts.telekom.net
 cxc-ent-dev.svhproducts.telekom.net
 cxc-prod.svhproducts.telekom.net
 cxp.vasp-poc-public-dmz.ng.telekom.net
+cz-cit2.magentaview.telekom.net
+cz-preprod.magentaview.telekom.net
+cz.magentaview.telekom.net
 d.dlm.telekom.net
 dashboard.dev.sdbh.telekom.net
 dashboard.emp.telekom.net
+dashboard.mss.telekom.net
 dashboard.netmaker.lab.intelligent.telekom.net
 dashboards.energy.telekom.net
 data-platform.dev.gsus.telekom.net
@@ -758,16 +782,22 @@ db.staging.liveberater.telekom.net
 dcpo.telekom.net
 dcpo-agent.dev.gsus.telekom.net
 dcpo-test.telekom.net
+de-cit2.magentaview.telekom.net
 de-lab-expe-001.ms.telekom.net
 de-lab-msr-tp-vcse-01.tplab.telekom.net
 de-lab-msr-tp-vcse-02.tplab.telekom.net
 de-lab-msr-tp-vcse-vip-01.tplab.telekom.net
+de-preprod.magentaview.telekom.net
+de.magentaview.telekom.net
 dealsupport-buyinagent-uat.dev.m365.telekom.net
 dealsupport-buyinagent-uat.m365.telekom.net
 dealsupport-buyinagent.dev.m365.telekom.net
 dealsupport-buyinagent.m365.telekom.net
 dealsupport-uat.dev.m365.telekom.net
 dealsupport-uat.m365.telekom.net
+dealsupport-webfunctions-uat.m365.telekom.net
+dealsupport-webfunctions.dev.m365.telekom.net
+dealsupport-webfunctions.m365.telekom.net
 dealsupport.dev.m365.telekom.net
 dealsupport.m365.telekom.net
 demo-argus.halo.telekom.net
@@ -786,8 +816,11 @@ dev.abc-bot.telekom.net
 dev.autoinvoice.dtse.telekom.net
 dev.clt.ng.telekom.net
 dev.cockpit.telekom.net
+dev.dcpo.telekom.net
 dev.dpsc.ng.telekom.net
 dev.energy.telekom.net
+dev.gcw.ng.telekom.net
+dev.gsus.telekom.net
 dev.nelson.telekom.net
 dev.ns.tv.telekom.net
 dev.oc.telekom.net
@@ -987,6 +1020,7 @@ girls2025.telekom.net
 gitlab.chai.ihub.telekom.net
 gitlab.dtoneapp.telekom.net
 gk-smarthub-backend.chai-dev.ihub.telekom.net
+gk-smarthub-frontend.chai-dev.ihub.telekom.net
 gk-smarthub-langfuse.chai-dev.ihub.telekom.net
 glaesernefabrik.telekom.net
 global-corporate-access.telekom.net
@@ -1005,6 +1039,7 @@ grafana.pluto-ai-nt.halo.telekom.net
 grafana2.dtgo.dlthub.telekom.net
 grafana2.dtna.dlthub.telekom.net
 grf-uat.sdp.telekom.net
+gsus.telekom.net
 guestinfo.telekom.net
 handyspende.telekom.net
 harpy.dev.gsus.telekom.net
@@ -1221,6 +1256,7 @@ matrix.fut.mba.telekom.net
 mc.mpathic-cockpit.dev.oc.telekom.net
 mc.mpathic-cockpit.oc.telekom.net
 mc.mpathic-cockpit.staging.oc.telekom.net
+mcp-dt-tools.trap.ng.telekom.net
 mde-mvp.dev.oc.telekom.net
 mde-mvp.oc.telekom.net
 mde-mvp.staging.oc.telekom.net
@@ -1281,6 +1317,7 @@ mwc.telekom.net
 mwc2016.telekom.net
 mx-natco.ng.telekom.net
 mx.hcslab.telekom.net
+my.nfon.telekom.net
 mycoredev.ng.telekom.net
 mylearn-awstest.ng.telekom.net
 mylearn.ng.telekom.net
@@ -1294,6 +1331,7 @@ mysam.dev.m365.telekom.net
 mysam.m365.telekom.net
 nachhaltigkeitsmanager.telekom.net
 navigaitor.prod.gcw.ng.telekom.net
+nb.hesatodev.ids.telekom.net
 nb.magentaquizdev.ng.telekom.net
 nbp-dev.svhproducts.telekom.net
 nea.telekom.net
@@ -1403,6 +1441,7 @@ pk2mc-prod.ng.telekom.net
 pk2mc-uat.ng.telekom.net
 playground1.sdx.telekom.net
 plutodep.pluto-ai-nt.halo.telekom.net
+pnm.telekom.net
 pnm-test.telekom.net
 poc.sb.oc.telekom.net
 pocs-dev.svhproducts.telekom.net
@@ -1414,6 +1453,7 @@ portal-m2m-biere.telekom.net
 portal-preprod.dih.telekom.net
 portal-test.dih.telekom.net
 portal-tests00001.dih.telekom.net
+portal.dev.sdbh.telekom.net
 portal.dih.telekom.net
 portal.huawei.telekom.net
 portal.ipls.telekom.net
@@ -1429,6 +1469,7 @@ portal3.ipls.telekom.net
 pqos.telekom.net
 preprod.conferencing-cockpit.telekom.net
 preprod.dih.telekom.net
+preprod.magentaview.telekom.net
 preprod.sdx.telekom.net
 preprod.wwp-partner.telekom.net
 preview1.sdp.telekom.net
@@ -1445,6 +1486,7 @@ prod.webhook.telekom.net
 prod.wwp-partner.telekom.net
 profile.okrboard.ng.telekom.net
 profile.okrboarduat.ng.telekom.net
+profilefromconversation.openai.idsctest.ng.telekom.net
 profilefromcv.openai.idsctest.ng.telekom.net
 profileorder.openai.idsctest.ng.telekom.net
 prometheus-dev.svhproducts.telekom.net
@@ -1464,6 +1506,7 @@ proxy.energy.telekom.net
 proxy.icpbx.telekom.net
 proxy.test.energy.telekom.net
 pti25aitest.trap.ng.telekom.net
+pulsechat.telekom.net
 put.telekom.net
 putfm-t1.put.telekom.net
 putfm-t2.put.telekom.net
@@ -1496,6 +1539,7 @@ rc-ucc-cloud-sbc2.telekom.net
 rcs-lab-provisioning.telekom.net
 rcs-provisioning.telekom.net
 rcvoice.telekom.net
+rebas.telekom.net
 redash.dev.oc.telekom.net
 redash.mpathic-cockpit.dev.oc.telekom.net
 redash.mpathic-cockpit.oc.telekom.net
@@ -1515,6 +1559,7 @@ reporting.inflight.telekom.net
 retrotool.ng.telekom.net
 retrotooluat.ng.telekom.net
 review-10.telecontext.trap-nonprod.ng.telekom.net
+review-trap-api.trap-review.ng.telekom.net
 rmc-cz.telekom.net
 rmcnclprodlb.ng.telekom.net
 roadster.telekom.net
@@ -1589,6 +1634,7 @@ spcm01.stgsmp.telekom.net
 spds01.stgsmp.telekom.net
 special-intg-dev.svhproducts.telekom.net
 spf-fat.goodride.telekom.net
+spf.goodride.telekom.net
 sphf02.stgsmp.telekom.net
 spidx01.stgsmp.telekom.net
 spit-dev.svhproducts.telekom.net
@@ -1610,7 +1656,9 @@ sso-paddy.sb.oc.telekom.net
 sso.goodride.telekom.net
 sso.poc.sb.oc.telekom.net
 sso.sra.telekom.net
+sso.webclient-beta.ng.telekom.net
 sso.webclient-prod.ng.telekom.net
+sso.webclient-tu0.ng.telekom.net
 stage.deskbot.ng.telekom.net
 staging.camino.fibrepartners.telekom.net
 staging.fibrepartners.telekom.net
@@ -1622,6 +1670,7 @@ staging.qctool.telekom.net
 startpage-prod-ref.apps.oaw.telekom.net
 startpage-prod.apps.oaw.telekom.net
 stat.okrboard.ng.telekom.net
+stat.okrboarduat.ng.telekom.net
 static-api.aivoicebot.telekom.net
 static-api.tua.aivoicebot.telekom.net
 static.webclient-beta.ng.telekom.net
@@ -1657,6 +1706,7 @@ t2.dev.oc.telekom.net
 taleofaq.openai.idsctest.ng.telekom.net
 tcm-vg.aivoicebot.telekom.net
 tcm-vg.tua.aivoicebot.telekom.net
+te-b2b-test.telekom.net
 te1.pass.telekom.net
 teamgrow-dev.halo.telekom.net
 teamgrow-kraft.halo.telekom.net
@@ -1907,6 +1957,7 @@ uem.telekom.net
 uofc001-weu.ucc.ref.fixed.telekom.net
 uofc001.mbc.ref.fixed.telekom.net
 update.mdm.telekom.net
+user.nfon.telekom.net
 vac.dev.oc.telekom.net
 vac.oc.telekom.net
 vac.staging.oc.telekom.net
@@ -1950,6 +2001,7 @@ vxml.dev.tduplex.ng.telekom.net
 wats.telekom.net
 wbfe.telekom.net
 wcps.tv.telekom.net
+wcps2.tv.telekom.net
 web.ar-dev-public-dmz.ng.telekom.net
 web.ar-prod-public-dmz.ng.telekom.net
 web.ar-test-public-dmz.ng.telekom.net
@@ -1983,6 +2035,38 @@ weloveai.staging.oc.telekom.net
 wesp.telekom.net
 whoami-t1.np3-alb.playground.oc.telekom.net
 wifi-moc.telekom.net
+wildcard.cello.ng.telekom.net
+wildcard.dateimanager.telekom.net
+wildcard.dateimanager-test.telekom.net
+wildcard.dev.cello.ng.telekom.net
+wildcard.dev.oid4vc.dlthub.telekom.net
+wildcard.dev.vibes.telekom.net
+wildcard.dps.telekom.net
+wildcard.fischfang.telekom.net
+wildcard.hurricane-internal.automation.telekom.net
+wildcard.hurricane.automation.telekom.net
+wildcard.mad-prod.telekom.net
+wildcard.mad-test.telekom.net
+wildcard.mylearn.ng.telekom.net
+wildcard.pages-developer.dtoneapp.telekom.net
+wildcard.pages.dtoneapp.telekom.net
+wildcard.ph.dev.oid4vc.dlthub.telekom.net
+wildcard.preview1.sdp.telekom.net
+wildcard.qa.vibes.telekom.net
+wildcard.reference1.sdp.telekom.net
+wildcard.se.dev.oid4vc.dlthub.telekom.net
+wildcard.si.dev.oid4vc.dlthub.telekom.net
+wildcard.soc.telekom.net
+wildcard.systest1.sdp.telekom.net
+wildcard.systest2.sdp.telekom.net
+wildcard.test.cello.ng.telekom.net
+wildcard.timessenger.telekom.net
+wildcard.tools.oaw.telekom.net
+wildcard.ucc-cloud-sbc.telekom.net
+wildcard.ucc-poc-sbc.telekom.net
+wildcard.vibes.telekom.net
+wildcard.wesp.telekom.net
+wildcard.zs.dev.oid4vc.dlthub.telekom.net
 wirk.rs000750.telekom.net
 wls.test.hotspot.telekom.net
 wmportal.ipls.telekom.net
@@ -2091,6 +2175,8 @@ www.wxfc.mbc.prod.fixed.telekom.net
 www.zovoice.telekom.net
 wxfc.mbc.prod.fixed.telekom.net
 x2ala.ng.telekom.net
+xdns0.automation.telekom.net
+xdns1.automation.telekom.net
 xgpt.chai-dev.ihub.telekom.net
 xks-test-louay-robert.ng.telekom.net
 zalenium.dev.pmatrem.telekom.net

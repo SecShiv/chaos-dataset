@@ -5,6 +5,7 @@
 *.hr-humblebundle.dev.humblebundle.com
 andytest.humblebundle.com
 auth.dev.humblebundle.com
+auth.prd.humblebundle.com
 auth.stg.humblebundle.com
 blog.humblebundle.com
 btg.humblebundle.com
@@ -38,6 +39,8 @@ it.humblebundle.com
 jenkins.humblebundle.com
 jenkins-staging.humblebundle.com
 jobs.humblebundle.com
+login.stg.humblebundle.com
+mail.humblebundle.com
 mail1.humblebundle.com
 mail2.humblebundle.com
 mail3.humblebundle.com
@@ -48,7 +51,12 @@ newsletter1.humblebundle.com
 o1.sg-outbound.humblebundle.com
 o2.sg-outbound.humblebundle.com
 oms.dev.humblebundle.com
+oms.prd.humblebundle.com
+oms.stg.humblebundle.com
+oms.uat.humblebundle.com
 pim.dev.humblebundle.com
+pim.prd.humblebundle.com
+pim.stg.humblebundle.com
 pim.uat.humblebundle.com
 prd.humblebundle.com
 promo.humblebundle.com
@@ -70,10 +78,9 @@ try.humblebundle.com
 uat.humblebundle.com
 webhooks.dev.humblebundle.com
 webhooks.prd.humblebundle.com
+webhooks.stg.humblebundle.com
 webhooks.uat.humblebundle.com
 www.humblebundle.com
 www.blog.humblebundle.com
 www.jobs.humblebundle.com
 www.stg.humblebundle.com
-www.try.humblebundle.com
-zh.humblebundle.com
