@@ -1,2 +1,2 @@
 # chaos dataset from project discovery
-(runs every hour)
+(runs every week)
