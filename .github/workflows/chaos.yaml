@@ -2,7 +2,7 @@ name: Chaos Dataset
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "0 2 2 * *"
 
 jobs:
   Chaos-run:
